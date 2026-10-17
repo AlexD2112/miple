@@ -1,0 +1,495 @@
+{
+ "$id": "miple/fixtures/large4.ocr_vision.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 3000 record(s) of large4/ocr_vision/receipts_*.jsonl + overlays (see _gen/gen_schemas4.py).",
+ "properties": {
+  "app_text": {
+   "type": "string"
+  },
+  "capture": {
+   "additionalProperties": false,
+   "properties": {
+    "char_error_rate_param": {
+     "type": "number"
+    },
+    "column_split_probability": {
+     "type": "number"
+    },
+    "image_height": {
+     "type": "integer"
+    },
+    "image_width": {
+     "type": "integer"
+    },
+    "order_mode": {
+     "type": "string"
+    },
+    "receipt_rect": {
+     "additionalProperties": false,
+     "properties": {
+      "height": {
+       "type": "number"
+      },
+      "width": {
+       "type": "number"
+      },
+      "x": {
+       "type": "number"
+      },
+      "y": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "height",
+      "width",
+      "x",
+      "y"
+     ],
+     "type": "object"
+    },
+    "skew_degrees": {
+     "type": "number"
+    }
+   },
+   "required": [
+    "char_error_rate_param",
+    "column_split_probability",
+    "image_height",
+    "image_width",
+    "order_mode",
+    "receipt_rect",
+    "skew_degrees"
+   ],
+   "type": "object"
+  },
+  "ground_truth": {
+   "additionalProperties": false,
+   "properties": {
+    "date": {
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+     "type": "string"
+    },
+    "items": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "applies_to": {
+        "type": "string"
+       },
+       "category": {
+        "enum": [
+         "berries",
+         "beverages",
+         "bread",
+         "butter",
+         "canned goods",
+         "cooked leftovers",
+         "deli meat",
+         "deposit",
+         "discount",
+         "dry goods/grains",
+         "eggs",
+         "fee",
+         "fresh herbs",
+         "frozen foods",
+         "hard cheese",
+         "leafy greens",
+         "milk",
+         "non_food",
+         "opened condiments",
+         "other fresh fruit",
+         "other fresh vegetables",
+         "raw fish",
+         "raw ground meat",
+         "raw poultry",
+         "raw whole cuts",
+         "return",
+         "root vegetables",
+         "snacks",
+         "soft cheese",
+         "tofu",
+         "tortillas",
+         "yogurt"
+        ],
+        "type": "string"
+       },
+       "line_type": {
+        "enum": [
+         "deposit",
+         "discount",
+         "fee",
+         "return",
+         "sale"
+        ],
+        "type": "string"
+       },
+       "normalized_name": {
+        "type": "string"
+       },
+       "observed": {
+        "type": "boolean"
+       },
+       "price": {
+        "type": "number"
+       },
+       "price_override_from": {
+        "type": "number"
+       },
+       "quantity": {
+        "type": "number"
+       },
+       "raw_text": {
+        "type": "string"
+       },
+       "store": {
+        "enum": [
+         "Costco",
+         "Fred Meyer",
+         "QFC",
+         "Safeway",
+         "Target",
+         "Trader Joe's",
+         "Whole Foods"
+        ],
+        "type": "string"
+       },
+       "taxable": {
+        "type": "boolean"
+       },
+       "unit": {
+        "type": "string"
+       },
+       "unit_price": {
+        "type": "number"
+       }
+      },
+      "required": [
+       "category",
+       "line_type",
+       "normalized_name",
+       "observed",
+       "price",
+       "quantity",
+       "raw_text",
+       "store",
+       "taxable",
+       "unit"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "lines": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "line_index": {
+        "type": "integer"
+       },
+       "segments": {
+        "items": {
+         "additionalProperties": false,
+         "properties": {
+          "char_end": {
+           "type": "integer"
+          },
+          "char_start": {
+           "type": "integer"
+          },
+          "merged": {
+           "type": "boolean"
+          },
+          "obs": {
+           "type": "integer"
+          }
+         },
+         "required": [
+          "char_end",
+          "char_start",
+          "obs"
+         ],
+         "type": "object"
+        },
+        "type": "array"
+       },
+       "text": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "line_index",
+       "segments",
+       "text"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "observations": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "lines": {
+        "items": {
+         "type": "integer"
+        },
+        "type": "array"
+       },
+       "text": {
+        "type": "string"
+       },
+       "top1_correct": {
+        "type": "boolean"
+       },
+       "truth_in_candidates": {
+        "type": "boolean"
+       }
+      },
+      "required": [
+       "lines",
+       "text",
+       "top1_correct",
+       "truth_in_candidates"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "reading_order": {
+     "items": {
+      "type": "integer"
+     },
+     "type": "array"
+    },
+    "store": {
+     "enum": [
+      "Costco",
+      "Fred Meyer",
+      "QFC",
+      "Safeway",
+      "Target",
+      "Trader Joe's",
+      "Whole Foods"
+     ],
+     "type": "string"
+    },
+    "total": {
+     "type": "number"
+    }
+   },
+   "required": [
+    "date",
+    "items",
+    "lines",
+    "observations",
+    "reading_order",
+    "store",
+    "total"
+   ],
+   "type": "object"
+  },
+  "id": {
+   "type": "string"
+  },
+  "issues": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "source": {
+   "additionalProperties": false,
+   "properties": {
+    "file": {
+     "type": "string"
+    },
+    "receipt_id": {
+     "type": "string"
+    },
+    "set": {
+     "type": "string"
+    },
+    "variant": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "file",
+    "receipt_id",
+    "set",
+    "variant"
+   ],
+   "type": "object"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "vision": {
+   "additionalProperties": false,
+   "properties": {
+    "coordinate_space": {
+     "type": "string"
+    },
+    "observations": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "bottomLeft": {
+        "additionalProperties": false,
+        "properties": {
+         "x": {
+          "type": "number"
+         },
+         "y": {
+          "type": "number"
+         }
+        },
+        "required": [
+         "x",
+         "y"
+        ],
+        "type": "object"
+       },
+       "bottomRight": {
+        "additionalProperties": false,
+        "properties": {
+         "x": {
+          "type": "number"
+         },
+         "y": {
+          "type": "number"
+         }
+        },
+        "required": [
+         "x",
+         "y"
+        ],
+        "type": "object"
+       },
+       "boundingBox": {
+        "additionalProperties": false,
+        "properties": {
+         "height": {
+          "type": "number"
+         },
+         "width": {
+          "type": "number"
+         },
+         "x": {
+          "type": "number"
+         },
+         "y": {
+          "type": "number"
+         }
+        },
+        "required": [
+         "height",
+         "width",
+         "x",
+         "y"
+        ],
+        "type": "object"
+       },
+       "topCandidates": {
+        "items": {
+         "additionalProperties": false,
+         "properties": {
+          "confidence": {
+           "type": "number"
+          },
+          "string": {
+           "type": "string"
+          }
+         },
+         "required": [
+          "confidence",
+          "string"
+         ],
+         "type": "object"
+        },
+        "type": "array"
+       },
+       "topLeft": {
+        "additionalProperties": false,
+        "properties": {
+         "x": {
+          "type": "number"
+         },
+         "y": {
+          "type": "number"
+         }
+        },
+        "required": [
+         "x",
+         "y"
+        ],
+        "type": "object"
+       },
+       "topRight": {
+        "additionalProperties": false,
+        "properties": {
+         "x": {
+          "type": "number"
+         },
+         "y": {
+          "type": "number"
+         }
+        },
+        "required": [
+         "x",
+         "y"
+        ],
+        "type": "object"
+       },
+       "uuid": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "bottomLeft",
+       "bottomRight",
+       "boundingBox",
+       "topCandidates",
+       "topLeft",
+       "topRight",
+       "uuid"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "recognitionLevel": {
+     "type": "string"
+    },
+    "request": {
+     "type": "string"
+    },
+    "usesLanguageCorrection": {
+     "type": "boolean"
+    }
+   },
+   "required": [
+    "coordinate_space",
+    "observations",
+    "recognitionLevel",
+    "request",
+    "usesLanguageCorrection"
+   ],
+   "type": "object"
+  }
+ },
+ "required": [
+  "app_text",
+  "capture",
+  "ground_truth",
+  "id",
+  "issues",
+  "source",
+  "synthetic",
+  "vision"
+ ],
+ "title": "large4.ocr_vision",
+ "type": "object"
+}

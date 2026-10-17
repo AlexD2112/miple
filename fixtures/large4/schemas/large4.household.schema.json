@@ -1,0 +1,456 @@
+{
+ "$id": "miple/fixtures/large4.household.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 1500 record(s) of large4/household/cases.jsonl + overlays (see _gen/gen_schemas4.py).",
+ "properties": {
+  "assignment": {
+   "additionalProperties": false,
+   "properties": {
+    "line_owner": {
+     "additionalProperties": {
+      "type": "string"
+     },
+     "type": "object"
+    },
+    "percent": {
+     "additionalProperties": false,
+     "properties": {
+      "member_a": {
+       "type": "integer"
+      },
+      "member_b": {
+       "type": "integer"
+      },
+      "member_c": {
+       "type": "integer"
+      },
+      "member_d": {
+       "type": "integer"
+      }
+     },
+     "required": [
+      "member_a",
+      "member_b"
+     ],
+     "type": "object"
+    },
+    "tax_allocation": {
+     "additionalProperties": false,
+     "properties": {
+      "member_a": {
+       "type": "number"
+      },
+      "member_b": {
+       "type": "number"
+      },
+      "member_c": {
+       "type": "number"
+      },
+      "member_d": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "member_a",
+      "member_b"
+     ],
+     "type": "object"
+    }
+   },
+   "required": [],
+   "type": [
+    "null",
+    "object"
+   ]
+  },
+  "expected": {
+   "additionalProperties": false,
+   "properties": {
+    "all_accepted": {
+     "type": "boolean"
+    },
+    "app_key_collision": {
+     "type": "boolean"
+    },
+    "budget_total": {
+     "type": "number"
+    },
+    "duplicates": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "duplicate_of": {
+        "type": "integer"
+       },
+       "reason": {
+        "type": "string"
+       },
+       "receipt": {
+        "type": "integer"
+       }
+      },
+      "required": [
+       "duplicate_of",
+       "reason",
+       "receipt"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "lines": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "matched_line": {
+        "type": [
+         "integer",
+         "null"
+        ]
+       },
+       "pantry": {
+        "additionalProperties": false,
+        "properties": {
+         "name": {
+          "type": "string"
+         },
+         "quantity_delta": {
+          "type": "number"
+         },
+         "removes_lot": {
+          "type": "boolean"
+         }
+        },
+        "required": [
+         "name",
+         "quantity_delta",
+         "removes_lot"
+        ],
+        "type": [
+         "null",
+         "object"
+        ]
+       },
+       "purchased_quantity": {
+        "type": "number"
+       },
+       "refund": {
+        "type": "number"
+       },
+       "refund_tax": {
+        "type": "number"
+       },
+       "return_line": {
+        "type": "integer"
+       },
+       "returned_quantity": {
+        "type": "number"
+       },
+       "status": {
+        "enum": [
+         "accepted",
+         "rejected_over_return",
+         "unmatched"
+        ],
+        "type": "string"
+       }
+      },
+      "required": [
+       "matched_line",
+       "pantry",
+       "purchased_quantity",
+       "refund",
+       "refund_tax",
+       "return_line",
+       "returned_quantity",
+       "status"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "match_rule": {
+     "type": "string"
+    },
+    "original_receipt": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "pantry_lots": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "line": {
+        "type": "integer"
+       },
+       "name": {
+        "type": "string"
+       },
+       "quantity": {
+        "type": "number"
+       },
+       "receipt": {
+        "type": "integer"
+       },
+       "unit": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "line",
+       "name",
+       "quantity",
+       "receipt",
+       "unit"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "per_member": {
+     "additionalProperties": false,
+     "properties": {
+      "member_a": {
+       "type": "number"
+      },
+      "member_b": {
+       "type": "number"
+      },
+      "member_c": {
+       "type": "number"
+      },
+      "member_d": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "member_a",
+      "member_b"
+     ],
+     "type": "object"
+    },
+    "printed_total": {
+     "type": "number"
+    },
+    "reason": {
+     "type": "string"
+    },
+    "refund_total": {
+     "type": "number"
+    },
+    "return_receipt": {
+     "type": "integer"
+    },
+    "rule": {
+     "type": "string"
+    },
+    "sum_equals_total": {
+     "type": "boolean"
+    }
+   },
+   "required": [],
+   "type": "object"
+  },
+  "household": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "id": {
+   "type": "string"
+  },
+  "kind": {
+   "type": "string"
+  },
+  "mode": {
+   "type": "string"
+  },
+  "receipts": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "items": {
+      "items": {
+       "additionalProperties": false,
+       "properties": {
+        "applies_to": {
+         "type": "string"
+        },
+        "category": {
+         "enum": [
+          "berries",
+          "beverages",
+          "bread",
+          "butter",
+          "canned goods",
+          "cooked leftovers",
+          "deli meat",
+          "deposit",
+          "discount",
+          "dry goods/grains",
+          "eggs",
+          "fee",
+          "fresh herbs",
+          "frozen foods",
+          "hard cheese",
+          "leafy greens",
+          "milk",
+          "non_food",
+          "opened condiments",
+          "other fresh fruit",
+          "other fresh vegetables",
+          "raw fish",
+          "raw ground meat",
+          "raw poultry",
+          "raw whole cuts",
+          "return",
+          "root vegetables",
+          "snacks",
+          "soft cheese",
+          "tofu",
+          "tortillas",
+          "yogurt"
+         ],
+         "type": "string"
+        },
+        "line": {
+         "type": "integer"
+        },
+        "line_type": {
+         "enum": [
+          "deposit",
+          "discount",
+          "fee",
+          "return",
+          "sale"
+         ],
+         "type": "string"
+        },
+        "name": {
+         "type": "string"
+        },
+        "price": {
+         "type": "number"
+        },
+        "quantity": {
+         "type": "number"
+        },
+        "raw_name": {
+         "type": "string"
+        },
+        "taxable": {
+         "type": "boolean"
+        },
+        "unit": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "line",
+        "line_type",
+        "name",
+        "price",
+        "quantity",
+        "raw_name",
+        "taxable",
+        "unit"
+       ],
+       "type": "object"
+      },
+      "type": "array"
+     },
+     "location": {
+      "type": "string"
+     },
+     "original_date_printed": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": [
+       "null",
+       "string"
+      ]
+     },
+     "original_transaction_ref": {
+      "type": [
+       "null",
+       "string"
+      ]
+     },
+     "purchased_at": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+     },
+     "store": {
+      "type": "string"
+     },
+     "tax": {
+      "type": "number"
+     },
+     "tax_rate": {
+      "type": "number"
+     },
+     "time": {
+      "type": [
+       "null",
+       "string"
+      ]
+     },
+     "total": {
+      "type": "number"
+     },
+     "transaction_id": {
+      "type": [
+       "null",
+       "string"
+      ]
+     }
+    },
+    "required": [
+     "items",
+     "location",
+     "purchased_at",
+     "store",
+     "tax",
+     "tax_rate",
+     "time",
+     "total",
+     "transaction_id"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "scanned_by": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "source_receipts": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "variant": {
+   "type": "string"
+  }
+ },
+ "required": [
+  "expected",
+  "household",
+  "id",
+  "kind",
+  "receipts",
+  "source_receipts",
+  "synthetic"
+ ],
+ "title": "large4.household",
+ "type": "object"
+}

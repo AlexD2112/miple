@@ -1,0 +1,634 @@
+{
+ "$id": "miple/fixtures/large4.unit_constants.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 1 record(s) of large4/unit_conversion/constants.json + overlays (see _gen/gen_schemas4.py).",
+ "properties": {
+  "aliases": {
+   "additionalProperties": false,
+   "properties": {
+    "ct": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "cup": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "dozen": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "ea": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "fl oz": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "g": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "gal": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "kg": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "l": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "lb": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "mg": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "ml": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "oz": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "pt": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "qt": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "tbsp": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "tsp": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    }
+   },
+   "required": [
+    "ct",
+    "cup",
+    "dozen",
+    "ea",
+    "fl oz",
+    "g",
+    "gal",
+    "kg",
+    "l",
+    "lb",
+    "mg",
+    "ml",
+    "oz",
+    "pt",
+    "qt",
+    "tbsp",
+    "tsp"
+   ],
+   "type": "object"
+  },
+  "constants": {
+   "additionalProperties": false,
+   "properties": {
+    "ct": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "cup": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "dozen": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "ea": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "fl oz": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "g": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "gal": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "kg": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "l": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "lb": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "mg": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "ml": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "oz": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "pt": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "qt": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "tbsp": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    },
+    "tsp": {
+     "additionalProperties": false,
+     "properties": {
+      "base_per_unit": {
+       "type": "string"
+      },
+      "base_per_unit_decimal": {
+       "type": "number"
+      },
+      "base_unit": {
+       "type": "string"
+      },
+      "dimension": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "base_per_unit",
+      "base_per_unit_decimal",
+      "base_unit",
+      "dimension"
+     ],
+     "type": "object"
+    }
+   },
+   "required": [
+    "ct",
+    "cup",
+    "dozen",
+    "ea",
+    "fl oz",
+    "g",
+    "gal",
+    "kg",
+    "l",
+    "lb",
+    "mg",
+    "ml",
+    "oz",
+    "pt",
+    "qt",
+    "tbsp",
+    "tsp"
+   ],
+   "type": "object"
+  },
+  "sources": {
+   "additionalProperties": false,
+   "properties": {
+    "cup": {
+     "type": "string"
+    },
+    "dozen": {
+     "type": "string"
+    },
+    "fl oz": {
+     "type": "string"
+    },
+    "gal": {
+     "type": "string"
+    },
+    "lb": {
+     "type": "string"
+    },
+    "oz": {
+     "type": "string"
+    },
+    "pt": {
+     "type": "string"
+    },
+    "qt": {
+     "type": "string"
+    },
+    "tbsp": {
+     "type": "string"
+    },
+    "tsp": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "cup",
+    "dozen",
+    "fl oz",
+    "gal",
+    "lb",
+    "oz",
+    "pt",
+    "qt",
+    "tbsp",
+    "tsp"
+   ],
+   "type": "object"
+  },
+  "stored_rule": {
+   "type": "string"
+  },
+  "unknown_units": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "aliases",
+  "constants",
+  "sources",
+  "stored_rule",
+  "unknown_units"
+ ],
+ "title": "large4.unit_constants",
+ "type": "object"
+}

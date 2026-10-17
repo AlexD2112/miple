@@ -1,0 +1,217 @@
+{
+ "$id": "miple/fixtures/large4.allergen_regression.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 1 record(s) of large4/allergen_regression/cases.json + overlays (see _gen/gen_schemas4.py).",
+ "properties": {
+  "app_source": {
+   "type": "string"
+  },
+  "controls": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "allergy": {
+      "type": "string"
+     },
+     "app_current": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "expected": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "text": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "allergy",
+     "app_current",
+     "expected",
+     "text"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "groups": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "cases": {
+      "items": {
+       "additionalProperties": false,
+       "properties": {
+        "allergy": {
+         "type": "string"
+        },
+        "app_current": {
+         "items": {
+          "type": "string"
+         },
+         "type": "array"
+        },
+        "expected": {
+         "items": {
+          "type": "string"
+         },
+         "type": "array"
+        },
+        "id": {
+         "type": "string"
+        },
+        "source_case_count": {
+         "type": "integer"
+        },
+        "source_cases": {
+         "items": {
+          "type": "string"
+         },
+         "type": "array"
+        },
+        "text": {
+         "type": "string"
+        },
+        "variants": {
+         "type": "integer"
+        },
+        "why": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "allergy",
+        "app_current",
+        "expected",
+        "id",
+        "source_case_count",
+        "source_cases",
+        "text",
+        "why"
+       ],
+       "type": "object"
+      },
+      "type": "array"
+     },
+     "root_cause": {
+      "enum": [
+       "compound_dishes",
+       "foreign_terms",
+       "missing_keyword",
+       "misspellings",
+       "over_broad_terms",
+       "plurals",
+       "unicode_normalization"
+      ],
+      "type": "string"
+     }
+    },
+    "required": [
+     "cases",
+     "root_cause"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "reference_disputed": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "allergy": {
+      "type": "string"
+     },
+     "canonical": {
+      "type": "string"
+     },
+     "note": {
+      "type": "string"
+     },
+     "source_case_count": {
+      "type": "integer"
+     },
+     "source_cases": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     }
+    },
+    "required": [
+     "allergy",
+     "canonical",
+     "note",
+     "source_case_count",
+     "source_cases"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "reference_silent": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "allergy": {
+      "type": "string"
+     },
+     "canonical": {
+      "type": "string"
+     },
+     "note": {
+      "type": "string"
+     },
+     "source_case_count": {
+      "type": "integer"
+     },
+     "source_cases": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     }
+    },
+    "required": [
+     "allergy",
+     "canonical",
+     "note",
+     "source_case_count",
+     "source_cases"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "rule": {
+   "type": "string"
+  },
+  "source": {
+   "type": "string"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "unresolved_source_cases": {
+   "type": "array"
+  }
+ },
+ "required": [
+  "app_source",
+  "controls",
+  "groups",
+  "reference_disputed",
+  "reference_silent",
+  "rule",
+  "source",
+  "synthetic",
+  "unresolved_source_cases"
+ ],
+ "title": "large4.allergen_regression",
+ "type": "object"
+}

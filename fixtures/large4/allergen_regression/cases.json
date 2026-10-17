@@ -1,0 +1,5279 @@
+{
+ "source": "fixtures/large3/llm_safety/cases.jsonl",
+ "app_source": "server/src/domain/allergens.ts",
+ "synthetic": true,
+ "rule": "each case: findAllergens([text], [allergy]) should equal `expected`; `app_current` is what it returns today",
+ "groups": [
+  {
+   "root_cause": "plurals",
+   "cases": [
+    {
+     "text": "anchovies",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "singular 'anchovy' matches; plural 'anchovies' does not",
+     "source_cases": [
+      "S00133",
+      "S00148",
+      "S00352",
+      "S00403",
+      "S00414"
+     ],
+     "id": "plurals-000",
+     "source_case_count": 40
+    }
+   ]
+  },
+  {
+   "root_cause": "misspellings",
+   "cases": [
+    {
+     "text": "eggz",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: eggz -> eggs",
+     "source_cases": [
+      "S02060",
+      "S02108",
+      "S02293",
+      "S02331",
+      "S02511"
+     ],
+     "id": "misspellings-000",
+     "source_case_count": 8
+    },
+    {
+     "text": "egs",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: egs -> eggs",
+     "source_cases": [
+      "S02158",
+      "S02168",
+      "S02483",
+      "S02508",
+      "S02533"
+     ],
+     "id": "misspellings-001",
+     "source_case_count": 7
+    },
+    {
+     "text": "mayonaise",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: mayonaise -> mayonnaise",
+     "source_cases": [
+      "S02089",
+      "S02152",
+      "S02178",
+      "S02222",
+      "S02333"
+     ],
+     "id": "misspellings-002",
+     "source_case_count": 8
+    },
+    {
+     "text": "mayonase",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: mayonase -> mayonnaise",
+     "source_cases": [
+      "S02052",
+      "S02070",
+      "S02165",
+      "S02201",
+      "S02298"
+     ],
+     "id": "misspellings-003",
+     "source_case_count": 9
+    },
+    {
+     "text": "samon",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: samon -> salmon",
+     "source_cases": [
+      "S02055",
+      "S02059",
+      "S02184",
+      "S02216",
+      "S02237"
+     ],
+     "id": "misspellings-004",
+     "source_case_count": 14
+    },
+    {
+     "text": "woostershire sauce",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: woostershire sauce -> worcestershire sauce",
+     "source_cases": [
+      "S02285",
+      "S02375",
+      "S02440",
+      "S02464"
+     ],
+     "id": "misspellings-005",
+     "source_case_count": 4
+    },
+    {
+     "text": "worcester sauce",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: worcester sauce -> worcestershire sauce",
+     "source_cases": [
+      "S02233",
+      "S02308",
+      "S02423",
+      "S02518",
+      "S02534"
+     ],
+     "id": "misspellings-006",
+     "source_case_count": 5
+    },
+    {
+     "text": "worchestershire sauce",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: worchestershire sauce -> worcestershire sauce",
+     "source_cases": [
+      "S02136",
+      "S02258",
+      "S02279",
+      "S02312",
+      "S02551"
+     ],
+     "id": "misspellings-007",
+     "source_case_count": 5
+    },
+    {
+     "text": "soy-sauce",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: soy-sauce -> soy sauce",
+     "source_cases": [
+      "S02223",
+      "S02413",
+      "S02452",
+      "S02480"
+     ],
+     "id": "misspellings-008",
+     "source_case_count": 4
+    },
+    {
+     "text": "soya sauce",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: soya sauce -> soy sauce",
+     "source_cases": [
+      "S02390"
+     ],
+     "id": "misspellings-009",
+     "source_case_count": 1
+    },
+    {
+     "text": "soysauce",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: soysauce -> soy sauce",
+     "source_cases": [
+      "S02219",
+      "S02241",
+      "S02407",
+      "S02515"
+     ],
+     "id": "misspellings-010",
+     "source_case_count": 4
+    },
+    {
+     "text": "wheatflour",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: wheatflour -> wheat flour",
+     "source_cases": [
+      "S02199",
+      "S02338",
+      "S02514",
+      "S02559",
+      "S02617"
+     ],
+     "id": "misspellings-011",
+     "source_case_count": 5
+    },
+    {
+     "text": "buter",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: buter -> butter",
+     "source_cases": [
+      "S02230",
+      "S02346",
+      "S02363",
+      "S02469",
+      "S02492"
+     ],
+     "id": "misspellings-012",
+     "source_case_count": 9
+    },
+    {
+     "text": "buttter",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: buttter -> butter",
+     "source_cases": [
+      "S02079",
+      "S02186",
+      "S02248",
+      "S02376",
+      "S02586"
+     ],
+     "id": "misspellings-013",
+     "source_case_count": 6
+    },
+    {
+     "text": "cheeze",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: cheeze -> cheese",
+     "source_cases": [
+      "S02054",
+      "S02076",
+      "S02113",
+      "S02170",
+      "S02259"
+     ],
+     "id": "misspellings-014",
+     "source_case_count": 14
+    },
+    {
+     "text": "chese",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: chese -> cheese",
+     "source_cases": [
+      "S02147",
+      "S02153",
+      "S02295",
+      "S02296",
+      "S02339"
+     ],
+     "id": "misspellings-015",
+     "source_case_count": 14
+    },
+    {
+     "text": "heavy creme",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: heavy creme -> heavy cream",
+     "source_cases": [
+      "S02095",
+      "S02102",
+      "S02164",
+      "S02215",
+      "S02253"
+     ],
+     "id": "misspellings-016",
+     "source_case_count": 12
+    },
+    {
+     "text": "heavycream",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: heavycream -> heavy cream",
+     "source_cases": [
+      "S02176",
+      "S02257",
+      "S02261",
+      "S02306",
+      "S02307"
+     ],
+     "id": "misspellings-017",
+     "source_case_count": 12
+    },
+    {
+     "text": "parmasan",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: parmasan -> parmesan",
+     "source_cases": [
+      "S02064",
+      "S02103",
+      "S02227",
+      "S02250",
+      "S02263"
+     ],
+     "id": "misspellings-018",
+     "source_case_count": 8
+    },
+    {
+     "text": "parmesean",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: parmesean -> parmesan",
+     "source_cases": [
+      "S02166",
+      "S02180",
+      "S02213",
+      "S02267",
+      "S02311"
+     ],
+     "id": "misspellings-019",
+     "source_case_count": 8
+    },
+    {
+     "text": "parmigian",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: parmigian -> parmesan",
+     "source_cases": [
+      "S02130",
+      "S02256",
+      "S02340",
+      "S02415",
+      "S02451"
+     ],
+     "id": "misspellings-020",
+     "source_case_count": 9
+    },
+    {
+     "text": "yougurt",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: yougurt -> yogurt",
+     "source_cases": [
+      "S02088",
+      "S02115",
+      "S02128",
+      "S02161",
+      "S02205"
+     ],
+     "id": "misspellings-021",
+     "source_case_count": 12
+    },
+    {
+     "text": "pea nuts",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: pea nuts -> peanuts",
+     "source_cases": [
+      "S02104",
+      "S02244",
+      "S02281",
+      "S02287",
+      "S02314"
+     ],
+     "id": "misspellings-022",
+     "source_case_count": 6
+    },
+    {
+     "text": "peanus",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: peanus -> peanuts",
+     "source_cases": [
+      "S02097",
+      "S02155",
+      "S02167",
+      "S02198",
+      "S02231"
+     ],
+     "id": "misspellings-023",
+     "source_case_count": 9
+    },
+    {
+     "text": "peanutbutter",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: peanutbutter -> peanut butter",
+     "source_cases": [
+      "S02100",
+      "S02117",
+      "S02150",
+      "S02309",
+      "S02353"
+     ],
+     "id": "misspellings-024",
+     "source_case_count": 8
+    },
+    {
+     "text": "peanutts",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: peanutts -> peanuts",
+     "source_cases": [
+      "S02352",
+      "S02435",
+      "S02443"
+     ],
+     "id": "misspellings-025",
+     "source_case_count": 3
+    },
+    {
+     "text": "penut butter",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: penut butter -> peanut butter",
+     "source_cases": [
+      "S02058",
+      "S02142",
+      "S02144",
+      "S02196",
+      "S02283"
+     ],
+     "id": "misspellings-026",
+     "source_case_count": 8
+    },
+    {
+     "text": "penuts",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: penuts -> peanuts",
+     "source_cases": [
+      "S02080",
+      "S02086",
+      "S02131",
+      "S02148",
+      "S02359"
+     ],
+     "id": "misspellings-027",
+     "source_case_count": 7
+    },
+    {
+     "text": "seseme seeds",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: seseme seeds -> sesame seeds",
+     "source_cases": [
+      "S02154",
+      "S02282",
+      "S02453",
+      "S02544",
+      "S02596"
+     ],
+     "id": "misspellings-028",
+     "source_case_count": 7
+    },
+    {
+     "text": "sesmae seeds",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: sesmae seeds -> sesame seeds",
+     "source_cases": [
+      "S02111",
+      "S02181",
+      "S02188",
+      "S02229",
+      "S02332"
+     ],
+     "id": "misspellings-029",
+     "source_case_count": 13
+    },
+    {
+     "text": "tahina",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: tahina -> tahini",
+     "source_cases": [
+      "S02074",
+      "S02081",
+      "S02149",
+      "S02254",
+      "S02280"
+     ],
+     "id": "misspellings-030",
+     "source_case_count": 10
+    },
+    {
+     "text": "tahinni",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: tahinni -> tahini",
+     "source_cases": [
+      "S02073",
+      "S02315",
+      "S02324",
+      "S02327",
+      "S02588"
+     ],
+     "id": "misspellings-031",
+     "source_case_count": 6
+    },
+    {
+     "text": "crabmeat",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: crabmeat -> crab meat",
+     "source_cases": [
+      "S02124",
+      "S02163",
+      "S02221",
+      "S02365",
+      "S02396"
+     ],
+     "id": "misspellings-032",
+     "source_case_count": 9
+    },
+    {
+     "text": "krab meat",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: krab meat -> crab meat",
+     "source_cases": [
+      "S02121",
+      "S02132",
+      "S02143",
+      "S02268",
+      "S02374"
+     ],
+     "id": "misspellings-033",
+     "source_case_count": 6
+    },
+    {
+     "text": "shirmp",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: shirmp -> shrimp",
+     "source_cases": [
+      "S02116",
+      "S02209",
+      "S02270",
+      "S02291",
+      "S02301"
+     ],
+     "id": "misspellings-034",
+     "source_case_count": 7
+    },
+    {
+     "text": "srimp",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: srimp -> shrimp",
+     "source_cases": [
+      "S02194",
+      "S02278",
+      "S02289",
+      "S02325",
+      "S02444"
+     ],
+     "id": "misspellings-035",
+     "source_case_count": 9
+    },
+    {
+     "text": "soysauce",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: soysauce -> soy sauce",
+     "source_cases": [
+      "S02407",
+      "S02568",
+      "S02570"
+     ],
+     "id": "misspellings-036",
+     "source_case_count": 3
+    },
+    {
+     "text": "tofoo",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: tofoo -> tofu",
+     "source_cases": [
+      "S02050",
+      "S02085",
+      "S02090",
+      "S02094",
+      "S02098"
+     ],
+     "id": "misspellings-037",
+     "source_case_count": 22
+    },
+    {
+     "text": "allmonds",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: allmonds -> almonds",
+     "source_cases": [
+      "S02084",
+      "S02159",
+      "S02182",
+      "S02192",
+      "S02232"
+     ],
+     "id": "misspellings-038",
+     "source_case_count": 8
+    },
+    {
+     "text": "almnds",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: almnds -> almonds",
+     "source_cases": [
+      "S02206",
+      "S02247",
+      "S02379",
+      "S02422",
+      "S02454"
+     ],
+     "id": "misspellings-039",
+     "source_case_count": 7
+    },
+    {
+     "text": "almods",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: almods -> almonds",
+     "source_cases": [
+      "S02476",
+      "S02613"
+     ],
+     "id": "misspellings-040",
+     "source_case_count": 2
+    },
+    {
+     "text": "cashues",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: cashues -> cashews",
+     "source_cases": [
+      "S02093",
+      "S02107",
+      "S02145",
+      "S02393",
+      "S02471"
+     ],
+     "id": "misspellings-041",
+     "source_case_count": 8
+    },
+    {
+     "text": "cashwes",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: cashwes -> cashews",
+     "source_cases": [
+      "S02106",
+      "S02133",
+      "S02210",
+      "S02384",
+      "S02403"
+     ],
+     "id": "misspellings-042",
+     "source_case_count": 6
+    },
+    {
+     "text": "hazel nuts",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: hazel nuts -> hazelnuts",
+     "source_cases": [
+      "S02075",
+      "S02140",
+      "S02169",
+      "S02200",
+      "S02239"
+     ],
+     "id": "misspellings-043",
+     "source_case_count": 11
+    },
+    {
+     "text": "hazlenuts",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: hazlenuts -> hazelnuts",
+     "source_cases": [
+      "S02067",
+      "S02190",
+      "S02193",
+      "S02269",
+      "S02406"
+     ],
+     "id": "misspellings-044",
+     "source_case_count": 11
+    },
+    {
+     "text": "pine-nuts",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: pine-nuts -> pine nuts",
+     "source_cases": [
+      "S02203",
+      "S02302",
+      "S02441",
+      "S02516",
+      "S02582"
+     ],
+     "id": "misspellings-045",
+     "source_case_count": 5
+    },
+    {
+     "text": "pinenuts",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: pinenuts -> pine nuts",
+     "source_cases": [
+      "S02110",
+      "S02191",
+      "S02235"
+     ],
+     "id": "misspellings-046",
+     "source_case_count": 3
+    },
+    {
+     "text": "pinnuts",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: pinnuts -> pine nuts",
+     "source_cases": [
+      "S02087",
+      "S02114",
+      "S02369",
+      "S02437",
+      "S02553"
+     ],
+     "id": "misspellings-047",
+     "source_case_count": 6
+    },
+    {
+     "text": "pistachoes",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: pistachoes -> pistachios",
+     "source_cases": [
+      "S02078",
+      "S02125",
+      "S02329",
+      "S02380",
+      "S02389"
+     ],
+     "id": "misspellings-048",
+     "source_case_count": 10
+    },
+    {
+     "text": "pistacios",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: pistacios -> pistachios",
+     "source_cases": [
+      "S02091",
+      "S02156",
+      "S02177",
+      "S02504",
+      "S02571"
+     ],
+     "id": "misspellings-049",
+     "source_case_count": 6
+    },
+    {
+     "text": "wallnuts",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: wallnuts -> walnuts",
+     "source_cases": [
+      "S02174",
+      "S02316",
+      "S02343",
+      "S02368",
+      "S02412"
+     ],
+     "id": "misspellings-050",
+     "source_case_count": 9
+    },
+    {
+     "text": "walnts",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: walnts -> walnuts",
+     "source_cases": [
+      "S02141",
+      "S02208",
+      "S02217",
+      "S02220",
+      "S02399"
+     ],
+     "id": "misspellings-051",
+     "source_case_count": 9
+    },
+    {
+     "text": "soy-sauce",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: soy-sauce -> soy sauce",
+     "source_cases": [
+      "S02123",
+      "S02364"
+     ],
+     "id": "misspellings-052",
+     "source_case_count": 2
+    },
+    {
+     "text": "soya sauce",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: soya sauce -> soy sauce",
+     "source_cases": [
+      "S02402",
+      "S02421"
+     ],
+     "id": "misspellings-053",
+     "source_case_count": 2
+    },
+    {
+     "text": "soysauce",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: soysauce -> soy sauce",
+     "source_cases": [
+      "S02185",
+      "S02448",
+      "S02494",
+      "S02515",
+      "S02568"
+     ],
+     "id": "misspellings-054",
+     "source_case_count": 5
+    },
+    {
+     "text": "wheatflour",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.misspellings: wheatflour -> wheat flour",
+     "source_cases": [
+      "S02318",
+      "S02320",
+      "S02580"
+     ],
+     "id": "misspellings-055",
+     "source_case_count": 3
+    }
+   ]
+  },
+  {
+   "root_cause": "unicode_normalization",
+   "cases": [
+    {
+     "text": "eg­gs",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03263",
+      "S03540",
+      "S03600",
+      "S03677"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-000",
+     "source_case_count": 4
+    },
+    {
+     "text": "eǵgs",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03295"
+     ],
+     "id": "unicode_normalization-001",
+     "source_case_count": 1
+    },
+    {
+     "text": "e​ggs",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03228",
+      "S03251",
+      "S03621",
+      "S03631"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-002",
+     "source_case_count": 4
+    },
+    {
+     "text": "égg",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03268",
+      "S03490",
+      "S03665"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-003",
+     "source_case_count": 3
+    },
+    {
+     "text": "еggs",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03313",
+      "S03573"
+     ],
+     "id": "unicode_normalization-004",
+     "source_case_count": 2
+    },
+    {
+     "text": "ｅｇｇ",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03276",
+      "S03316",
+      "S03341",
+      "S03395",
+      "S03489"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-005",
+     "source_case_count": 8
+    },
+    {
+     "text": "cód",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S02057",
+      "S02096",
+      "S02109",
+      "S02294",
+      "S02350"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-006",
+     "source_case_count": 19
+    },
+    {
+     "text": "físh",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03237",
+      "S03428",
+      "S03484"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-007",
+     "source_case_count": 3
+    },
+    {
+     "text": "s​almon",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03481"
+     ],
+     "id": "unicode_normalization-008",
+     "source_case_count": 1
+    },
+    {
+     "text": "tu­na",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03241",
+      "S03347",
+      "S03667"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-009",
+     "source_case_count": 3
+    },
+    {
+     "text": "сod",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03293",
+      "S03305",
+      "S03315",
+      "S03352"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-010",
+     "source_case_count": 4
+    },
+    {
+     "text": "ｃｏｄ",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03254",
+      "S03360",
+      "S03406",
+      "S03450",
+      "S03459"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-011",
+     "source_case_count": 8
+    },
+    {
+     "text": "barl​ey",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03309"
+     ],
+     "id": "unicode_normalization-012",
+     "source_case_count": 1
+    },
+    {
+     "text": "b́arley",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03210"
+     ],
+     "id": "unicode_normalization-013",
+     "source_case_count": 1
+    },
+    {
+     "text": "farró",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03319",
+      "S03343",
+      "S03345",
+      "S03544"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-014",
+     "source_case_count": 4
+    },
+    {
+     "text": "far­ro",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03243",
+      "S03552",
+      "S03673",
+      "S03686",
+      "S03692"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-015",
+     "source_case_count": 5
+    },
+    {
+     "text": "mаlt",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03204",
+      "S03314",
+      "S03425",
+      "S03443",
+      "S03454"
+     ],
+     "variants": 5,
+     "id": "unicode_normalization-016",
+     "source_case_count": 7
+    },
+    {
+     "text": "ｍａｌｔ",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03209",
+      "S03307",
+      "S03326"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-017",
+     "source_case_count": 3
+    },
+    {
+     "text": "c­ream",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03387",
+      "S03407",
+      "S03512"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-018",
+     "source_case_count": 3
+    },
+    {
+     "text": "gheé",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03205",
+      "S03362",
+      "S03500",
+      "S03589"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-019",
+     "source_case_count": 4
+    },
+    {
+     "text": "ghée",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03281",
+      "S03476",
+      "S03559",
+      "S03662"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-020",
+     "source_case_count": 4
+    },
+    {
+     "text": "ghеe",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03300",
+      "S03332",
+      "S03457",
+      "S03492",
+      "S03612"
+     ],
+     "variants": 5,
+     "id": "unicode_normalization-021",
+     "source_case_count": 6
+    },
+    {
+     "text": "gh​ee",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03282",
+      "S03405",
+      "S03634"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-022",
+     "source_case_count": 3
+    },
+    {
+     "text": "ｇｈｅｅ",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03201",
+      "S03256",
+      "S03296",
+      "S03385",
+      "S03437"
+     ],
+     "variants": 5,
+     "id": "unicode_normalization-023",
+     "source_case_count": 8
+    },
+    {
+     "text": "peanu­t",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03273",
+      "S03308",
+      "S03611",
+      "S03672"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-024",
+     "source_case_count": 4
+    },
+    {
+     "text": "peanút",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03324",
+      "S03433",
+      "S03467",
+      "S03531",
+      "S03682"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-025",
+     "source_case_count": 5
+    },
+    {
+     "text": "pean​uts",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03280",
+      "S03290",
+      "S03465"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-026",
+     "source_case_count": 3
+    },
+    {
+     "text": "peánuts",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03412",
+      "S03472"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-027",
+     "source_case_count": 2
+    },
+    {
+     "text": "peаnuts",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03216",
+      "S03429",
+      "S03526"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-028",
+     "source_case_count": 3
+    },
+    {
+     "text": "ｐｅａｎｕｔｓ",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03453",
+      "S03616"
+     ],
+     "id": "unicode_normalization-029",
+     "source_case_count": 2
+    },
+    {
+     "text": "sesamé",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03215",
+      "S03317",
+      "S03342",
+      "S03529",
+      "S03536"
+     ],
+     "variants": 5,
+     "id": "unicode_normalization-030",
+     "source_case_count": 15
+    },
+    {
+     "text": "sesaḿe",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03349",
+      "S03373",
+      "S03398",
+      "S03630",
+      "S03684"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-031",
+     "source_case_count": 5
+    },
+    {
+     "text": "sesamе",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03410",
+      "S03451",
+      "S03466",
+      "S03558",
+      "S03577"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-032",
+     "source_case_count": 5
+    },
+    {
+     "text": "sesam​e",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03213",
+      "S03292",
+      "S03339",
+      "S03431",
+      "S03527"
+     ],
+     "variants": 7,
+     "id": "unicode_normalization-033",
+     "source_case_count": 11
+    },
+    {
+     "text": "se­same",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03346",
+      "S03390",
+      "S03413",
+      "S03423",
+      "S03438"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-034",
+     "source_case_count": 6
+    },
+    {
+     "text": "ｓｅｓａｍｅ",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03284",
+      "S03331",
+      "S03366",
+      "S03401",
+      "S03414"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-035",
+     "source_case_count": 7
+    },
+    {
+     "text": "clаms",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03361",
+      "S03371",
+      "S03383",
+      "S03452",
+      "S03550"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-036",
+     "source_case_count": 7
+    },
+    {
+     "text": "cráb",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03286",
+      "S03392",
+      "S03434",
+      "S03517",
+      "S03546"
+     ],
+     "variants": 7,
+     "id": "unicode_normalization-037",
+     "source_case_count": 7
+    },
+    {
+     "text": "cr​ab",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03259",
+      "S03277",
+      "S03318",
+      "S03409",
+      "S03427"
+     ],
+     "variants": 7,
+     "id": "unicode_normalization-038",
+     "source_case_count": 7
+    },
+    {
+     "text": "c­rab",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03358",
+      "S03541",
+      "S03565",
+      "S03583",
+      "S03592"
+     ],
+     "variants": 8,
+     "id": "unicode_normalization-039",
+     "source_case_count": 9
+    },
+    {
+     "text": "lobstér",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03483"
+     ],
+     "id": "unicode_normalization-040",
+     "source_case_count": 1
+    },
+    {
+     "text": "ｃｌａｍｓ",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03510",
+      "S03618",
+      "S03683"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-041",
+     "source_case_count": 3
+    },
+    {
+     "text": "misó",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03222",
+      "S03699"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-042",
+     "source_case_count": 2
+    },
+    {
+     "text": "miśo",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03264",
+      "S03298",
+      "S03303",
+      "S03440",
+      "S03464"
+     ],
+     "variants": 5,
+     "id": "unicode_normalization-043",
+     "source_case_count": 6
+    },
+    {
+     "text": "mis​o",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03221",
+      "S03384",
+      "S03420",
+      "S03525",
+      "S03675"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-044",
+     "source_case_count": 5
+    },
+    {
+     "text": "t­ofu",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03200",
+      "S03370",
+      "S03539"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-045",
+     "source_case_count": 3
+    },
+    {
+     "text": "tоfu",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03359",
+      "S03374"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-046",
+     "source_case_count": 2
+    },
+    {
+     "text": "ｍｉｓｏ",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03223",
+      "S03424",
+      "S03436",
+      "S03554",
+      "S03561"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-047",
+     "source_case_count": 6
+    },
+    {
+     "text": "almon​ds",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03207",
+      "S03380",
+      "S03418",
+      "S03575"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-048",
+     "source_case_count": 4
+    },
+    {
+     "text": "pec­ans",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03230",
+      "S03236",
+      "S03369",
+      "S03514",
+      "S03566"
+     ],
+     "variants": 8,
+     "id": "unicode_normalization-049",
+     "source_case_count": 8
+    },
+    {
+     "text": "pećans",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "combining_mark: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03245",
+      "S03350",
+      "S03416",
+      "S03505"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-050",
+     "source_case_count": 4
+    },
+    {
+     "text": "peсans",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03306",
+      "S03323",
+      "S03456",
+      "S03524",
+      "S03632"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-051",
+     "source_case_count": 5
+    },
+    {
+     "text": "pine nuts",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "nbsp: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03528"
+     ],
+     "id": "unicode_normalization-052",
+     "source_case_count": 1
+    },
+    {
+     "text": "pécans",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03226",
+      "S03353",
+      "S03379",
+      "S03421"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-053",
+     "source_case_count": 4
+    },
+    {
+     "text": "ｐｅｃａｎｓ",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03327",
+      "S03584"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-054",
+     "source_case_count": 2
+    },
+    {
+     "text": "pankó",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "precomposed_accent: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03461",
+      "S03513",
+      "S03696"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-055",
+     "source_case_count": 3
+    },
+    {
+     "text": "pankо",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "homoglyph_cyrillic: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03204",
+      "S03244",
+      "S03330",
+      "S03337",
+      "S03681"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-056",
+     "source_case_count": 5
+    },
+    {
+     "text": "pan​ko",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "zero_width: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03248",
+      "S03432",
+      "S03548"
+     ],
+     "variants": 3,
+     "id": "unicode_normalization-057",
+     "source_case_count": 3
+    },
+    {
+     "text": "pa­nko",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "soft_hyphen: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03322",
+      "S03325",
+      "S03389",
+      "S03537",
+      "S03633"
+     ],
+     "variants": 4,
+     "id": "unicode_normalization-058",
+     "source_case_count": 5
+    },
+    {
+     "text": "ｆｌｏｕｒ",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "fullwidth: app matches after NFKC + stripping format/combining chars + confusable map",
+     "source_cases": [
+      "S03240",
+      "S03430",
+      "S03469",
+      "S03603",
+      "S03620"
+     ],
+     "variants": 2,
+     "id": "unicode_normalization-059",
+     "source_case_count": 6
+    }
+   ]
+  },
+  {
+   "root_cause": "foreign_terms",
+   "cases": [
+    {
+     "text": "eier",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: eier -> eggs",
+     "source_cases": [
+      "S03726",
+      "S03738",
+      "S03802",
+      "S03930",
+      "S04135"
+     ],
+     "id": "foreign_terms-000",
+     "source_case_count": 7
+    },
+    {
+     "text": "huevos",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: huevos -> eggs",
+     "source_cases": [
+      "S03764",
+      "S03879",
+      "S03965",
+      "S03996",
+      "S04064"
+     ],
+     "id": "foreign_terms-001",
+     "source_case_count": 7
+    },
+    {
+     "text": "oeufs",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: oeufs -> eggs",
+     "source_cases": [
+      "S03760",
+      "S03762",
+      "S03770",
+      "S03834",
+      "S03851"
+     ],
+     "id": "foreign_terms-002",
+     "source_case_count": 10
+    },
+    {
+     "text": "tamago",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: tamago -> eggs",
+     "source_cases": [
+      "S03727",
+      "S03772",
+      "S03865",
+      "S03941",
+      "S03958"
+     ],
+     "id": "foreign_terms-003",
+     "source_case_count": 9
+    },
+    {
+     "text": "œufs",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: œufs -> eggs",
+     "source_cases": [
+      "S03711",
+      "S03744",
+      "S03750",
+      "S03775",
+      "S03904"
+     ],
+     "id": "foreign_terms-004",
+     "source_case_count": 7
+    },
+    {
+     "text": "anchoas",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: anchoas -> anchovies",
+     "source_cases": [
+      "S03700",
+      "S03786",
+      "S03830",
+      "S03905",
+      "S03919"
+     ],
+     "id": "foreign_terms-005",
+     "source_case_count": 9
+    },
+    {
+     "text": "atún",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: atún -> tuna",
+     "source_cases": [
+      "S03788",
+      "S03817",
+      "S03858",
+      "S03883",
+      "S03926"
+     ],
+     "id": "foreign_terms-006",
+     "source_case_count": 9
+    },
+    {
+     "text": "pescado",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: pescado -> fish",
+     "source_cases": [
+      "S03818",
+      "S03857",
+      "S03869",
+      "S03908",
+      "S04012"
+     ],
+     "id": "foreign_terms-007",
+     "source_case_count": 8
+    },
+    {
+     "text": "poisson",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: poisson -> fish",
+     "source_cases": [
+      "S03978",
+      "S04067"
+     ],
+     "id": "foreign_terms-008",
+     "source_case_count": 2
+    },
+    {
+     "text": "farine de blé",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: farine de blé -> wheat flour",
+     "source_cases": [
+      "S03721",
+      "S03754",
+      "S03839",
+      "S04069",
+      "S04085"
+     ],
+     "id": "foreign_terms-009",
+     "source_case_count": 6
+    },
+    {
+     "text": "harina de trigo",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: harina de trigo -> wheat flour",
+     "source_cases": [
+      "S03752",
+      "S03783",
+      "S03997",
+      "S04036",
+      "S04063"
+     ],
+     "id": "foreign_terms-010",
+     "source_case_count": 9
+    },
+    {
+     "text": "salsa de soja",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: salsa de soja -> soy sauce",
+     "source_cases": [
+      "S03842",
+      "S03961",
+      "S04022"
+     ],
+     "id": "foreign_terms-011",
+     "source_case_count": 3
+    },
+    {
+     "text": "shoyu",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: shoyu -> soy sauce",
+     "source_cases": [
+      "S01356",
+      "S01489",
+      "S02015",
+      "S03907",
+      "S03916"
+     ],
+     "id": "foreign_terms-012",
+     "source_case_count": 5
+    },
+    {
+     "text": "weizenmehl",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: weizenmehl -> wheat flour",
+     "source_cases": [
+      "S03715",
+      "S03759",
+      "S03843",
+      "S04025",
+      "S04147"
+     ],
+     "id": "foreign_terms-013",
+     "source_case_count": 7
+    },
+    {
+     "text": "beurre",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: beurre -> butter",
+     "source_cases": [
+      "S03758",
+      "S03859",
+      "S03898",
+      "S03917",
+      "S03924"
+     ],
+     "id": "foreign_terms-014",
+     "source_case_count": 10
+    },
+    {
+     "text": "crema",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: crema -> cream",
+     "source_cases": [
+      "S03769",
+      "S03771",
+      "S03801",
+      "S04005",
+      "S04053"
+     ],
+     "id": "foreign_terms-015",
+     "source_case_count": 10
+    },
+    {
+     "text": "fromage",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: fromage -> cheese",
+     "source_cases": [
+      "S03722",
+      "S03749",
+      "S03776",
+      "S03873",
+      "S03952"
+     ],
+     "id": "foreign_terms-016",
+     "source_case_count": 8
+    },
+    {
+     "text": "käse",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: käse -> cheese",
+     "source_cases": [
+      "S03730",
+      "S03751",
+      "S03918",
+      "S03931",
+      "S03954"
+     ],
+     "id": "foreign_terms-017",
+     "source_case_count": 7
+    },
+    {
+     "text": "lait",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: lait -> milk",
+     "source_cases": [
+      "S03702",
+      "S03704",
+      "S03737",
+      "S03755",
+      "S03779"
+     ],
+     "id": "foreign_terms-018",
+     "source_case_count": 10
+    },
+    {
+     "text": "leche",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: leche -> milk",
+     "source_cases": [
+      "S03766",
+      "S03787",
+      "S03848",
+      "S03860",
+      "S03862"
+     ],
+     "id": "foreign_terms-019",
+     "source_case_count": 10
+    },
+    {
+     "text": "mantequilla",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: mantequilla -> butter",
+     "source_cases": [
+      "S03714",
+      "S03765",
+      "S03906",
+      "S03969",
+      "S04014"
+     ],
+     "id": "foreign_terms-020",
+     "source_case_count": 9
+    },
+    {
+     "text": "milch",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: milch -> milk",
+     "source_cases": [
+      "S03724",
+      "S03773",
+      "S03875",
+      "S03886",
+      "S03887"
+     ],
+     "id": "foreign_terms-021",
+     "source_case_count": 8
+    },
+    {
+     "text": "nata",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: nata -> cream",
+     "source_cases": [
+      "S03741",
+      "S03785",
+      "S03794",
+      "S04118",
+      "S04129"
+     ],
+     "id": "foreign_terms-022",
+     "source_case_count": 6
+    },
+    {
+     "text": "queso",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: queso -> cheese",
+     "source_cases": [
+      "S03837",
+      "S03855",
+      "S03949",
+      "S03973",
+      "S03992"
+     ],
+     "id": "foreign_terms-023",
+     "source_case_count": 9
+    },
+    {
+     "text": "arachides",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: arachides -> peanuts",
+     "source_cases": [
+      "S03895",
+      "S03989",
+      "S04033",
+      "S04080",
+      "S04084"
+     ],
+     "id": "foreign_terms-024",
+     "source_case_count": 6
+    },
+    {
+     "text": "cacahuate",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: cacahuate -> peanuts",
+     "source_cases": [
+      "S03793",
+      "S03866",
+      "S03899",
+      "S03902",
+      "S03925"
+     ],
+     "id": "foreign_terms-025",
+     "source_case_count": 11
+    },
+    {
+     "text": "cacahuetes",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: cacahuetes -> peanuts",
+     "source_cases": [
+      "S03735",
+      "S03854",
+      "S03910",
+      "S03928",
+      "S03983"
+     ],
+     "id": "foreign_terms-026",
+     "source_case_count": 7
+    },
+    {
+     "text": "erdnüsse",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: erdnüsse -> peanuts",
+     "source_cases": [
+      "S03768",
+      "S03808",
+      "S03820",
+      "S03844",
+      "S03877"
+     ],
+     "id": "foreign_terms-027",
+     "source_case_count": 15
+    },
+    {
+     "text": "maní",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: maní -> peanuts",
+     "source_cases": [
+      "S03893",
+      "S03975",
+      "S04052",
+      "S04128"
+     ],
+     "id": "foreign_terms-028",
+     "source_case_count": 4
+    },
+    {
+     "text": "ajonjolí",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: ajonjolí -> sesame seeds",
+     "source_cases": [
+      "S03720",
+      "S03753",
+      "S03757",
+      "S03800",
+      "S03805"
+     ],
+     "id": "foreign_terms-029",
+     "source_case_count": 16
+    },
+    {
+     "text": "goma",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: goma -> sesame seeds",
+     "source_cases": [
+      "S03888",
+      "S03937",
+      "S03964",
+      "S04002",
+      "S04140"
+     ],
+     "id": "foreign_terms-030",
+     "source_case_count": 5
+    },
+    {
+     "text": "sésamo",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: sésamo -> sesame seeds",
+     "source_cases": [
+      "S03746",
+      "S03782",
+      "S03810",
+      "S03827",
+      "S03836"
+     ],
+     "id": "foreign_terms-031",
+     "source_case_count": 14
+    },
+    {
+     "text": "camarones",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: camarones -> shrimp",
+     "source_cases": [
+      "S03717",
+      "S03806",
+      "S03849",
+      "S03861",
+      "S03871"
+     ],
+     "id": "foreign_terms-032",
+     "source_case_count": 6
+    },
+    {
+     "text": "cangrejo",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: cangrejo -> crab meat",
+     "source_cases": [
+      "S03736",
+      "S03739",
+      "S03790",
+      "S03798",
+      "S03815"
+     ],
+     "id": "foreign_terms-033",
+     "source_case_count": 12
+    },
+    {
+     "text": "crevettes",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: crevettes -> shrimp",
+     "source_cases": [
+      "S03812",
+      "S03942",
+      "S04024",
+      "S04070",
+      "S04096"
+     ],
+     "id": "foreign_terms-034",
+     "source_case_count": 6
+    },
+    {
+     "text": "ebi",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: ebi -> shrimp",
+     "source_cases": [
+      "S03729",
+      "S03733",
+      "S03828",
+      "S03847",
+      "S03882"
+     ],
+     "id": "foreign_terms-035",
+     "source_case_count": 10
+    },
+    {
+     "text": "gambas",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: gambas -> shrimp",
+     "source_cases": [
+      "S03795",
+      "S03807",
+      "S03929",
+      "S03947",
+      "S04029"
+     ],
+     "id": "foreign_terms-036",
+     "source_case_count": 8
+    },
+    {
+     "text": "garnelen",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: garnelen -> shrimp",
+     "source_cases": [
+      "S03712",
+      "S03716",
+      "S03731",
+      "S03774",
+      "S03781"
+     ],
+     "id": "foreign_terms-037",
+     "source_case_count": 17
+    },
+    {
+     "text": "kani",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: kani -> crab meat",
+     "source_cases": [
+      "S03705",
+      "S03891",
+      "S03900",
+      "S04051",
+      "S04062"
+     ],
+     "id": "foreign_terms-038",
+     "source_case_count": 6
+    },
+    {
+     "text": "salsa de soja",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: salsa de soja -> soy sauce",
+     "source_cases": [
+      "S03809",
+      "S03896",
+      "S03966",
+      "S04121",
+      "S04186"
+     ],
+     "id": "foreign_terms-039",
+     "source_case_count": 5
+    },
+    {
+     "text": "shoyu",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: shoyu -> soy sauce",
+     "source_cases": [
+      "S01197",
+      "S01354",
+      "S01434",
+      "S01572",
+      "S01655"
+     ],
+     "id": "foreign_terms-040",
+     "source_case_count": 10
+    },
+    {
+     "text": "soja",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: soja -> soybeans",
+     "source_cases": [
+      "S03701",
+      "S03725",
+      "S03911",
+      "S03985",
+      "S04017"
+     ],
+     "id": "foreign_terms-041",
+     "source_case_count": 8
+    },
+    {
+     "text": "almendras",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: almendras -> almonds",
+     "source_cases": [
+      "S03710",
+      "S03778",
+      "S03821",
+      "S03845",
+      "S03912"
+     ],
+     "id": "foreign_terms-042",
+     "source_case_count": 13
+    },
+    {
+     "text": "amandes",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: amandes -> almonds",
+     "source_cases": [
+      "S03777",
+      "S03846",
+      "S03932",
+      "S03944",
+      "S03950"
+     ],
+     "id": "foreign_terms-043",
+     "source_case_count": 7
+    },
+    {
+     "text": "mandeln",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: mandeln -> almonds",
+     "source_cases": [
+      "S03799",
+      "S04027",
+      "S04089",
+      "S04091",
+      "S04111"
+     ],
+     "id": "foreign_terms-044",
+     "source_case_count": 7
+    },
+    {
+     "text": "noix",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: noix -> walnuts",
+     "source_cases": [
+      "S03728",
+      "S03742",
+      "S03763",
+      "S03780",
+      "S03878"
+     ],
+     "id": "foreign_terms-045",
+     "source_case_count": 11
+    },
+    {
+     "text": "nueces",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: nueces -> walnuts",
+     "source_cases": [
+      "S03784",
+      "S03816",
+      "S03825",
+      "S03826",
+      "S03939"
+     ],
+     "id": "foreign_terms-046",
+     "source_case_count": 9
+    },
+    {
+     "text": "piñones",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: piñones -> pine nuts",
+     "source_cases": [
+      "S03706",
+      "S03719",
+      "S03822",
+      "S03838",
+      "S03856"
+     ],
+     "id": "foreign_terms-047",
+     "source_case_count": 10
+    },
+    {
+     "text": "farine de blé",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: farine de blé -> wheat flour",
+     "source_cases": [
+      "S03734",
+      "S03839",
+      "S03946",
+      "S04095",
+      "S04137"
+     ],
+     "id": "foreign_terms-048",
+     "source_case_count": 7
+    },
+    {
+     "text": "harina de trigo",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: harina de trigo -> wheat flour",
+     "source_cases": [
+      "S03840",
+      "S03987",
+      "S04000",
+      "S04036",
+      "S04087"
+     ],
+     "id": "foreign_terms-049",
+     "source_case_count": 6
+    },
+    {
+     "text": "salsa de soja",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: salsa de soja -> soy sauce",
+     "source_cases": [
+      "S04144"
+     ],
+     "id": "foreign_terms-050",
+     "source_case_count": 1
+    },
+    {
+     "text": "shoyu",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: shoyu -> soy sauce",
+     "source_cases": [
+      "S01656",
+      "S01779",
+      "S01798",
+      "S03867",
+      "S04060"
+     ],
+     "id": "foreign_terms-051",
+     "source_case_count": 6
+    },
+    {
+     "text": "weizenmehl",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.foreign: weizenmehl -> wheat flour",
+     "source_cases": [
+      "S04031",
+      "S04198"
+     ],
+     "id": "foreign_terms-052",
+     "source_case_count": 2
+    }
+   ]
+  },
+  {
+   "root_cause": "compound_dishes",
+   "cases": [
+    {
+     "text": "caesar dressing",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: caesar dressing -> olive oil, anchovies, egg yolk, parmesan, lemon juice, garlic",
+     "source_cases": [
+      "S01226",
+      "S01309",
+      "S01616",
+      "S01711",
+      "S01776"
+     ],
+     "id": "compound_dishes-000",
+     "source_case_count": 5
+    },
+    {
+     "text": "crab rangoon",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: crab rangoon -> crab meat, cream cheese, wonton wrappers",
+     "source_cases": [
+      "S01103",
+      "S01429",
+      "S01451",
+      "S01457"
+     ],
+     "id": "compound_dishes-001",
+     "source_case_count": 4
+    },
+    {
+     "text": "gnocchi",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: gnocchi -> potatoes, wheat flour, eggs",
+     "source_cases": [
+      "S01126",
+      "S01173",
+      "S01314",
+      "S01449",
+      "S01921"
+     ],
+     "id": "compound_dishes-002",
+     "source_case_count": 6
+    },
+    {
+     "text": "katsu",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: katsu -> panko, eggs, wheat flour, pork cutlet",
+     "source_cases": [
+      "S01139",
+      "S01212",
+      "S01269",
+      "S01387",
+      "S01483"
+     ],
+     "id": "compound_dishes-003",
+     "source_case_count": 8
+    },
+    {
+     "text": "pad thai",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: pad thai -> rice noodles, peanuts, fish sauce, eggs, tamarind paste, bean sprouts",
+     "source_cases": [
+      "S01184",
+      "S01376",
+      "S01547",
+      "S01914",
+      "S01920"
+     ],
+     "id": "compound_dishes-004",
+     "source_case_count": 6
+    },
+    {
+     "text": "ranch dressing",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: ranch dressing -> buttermilk, mayonnaise, herbs",
+     "source_cases": [
+      "S01168",
+      "S01230",
+      "S01281",
+      "S01291",
+      "S01476"
+     ],
+     "id": "compound_dishes-005",
+     "source_case_count": 7
+    },
+    {
+     "text": "tempura batter",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: tempura batter -> wheat flour, eggs, ice water",
+     "source_cases": [
+      "S01280",
+      "S01330",
+      "S01678",
+      "S01782",
+      "S01850"
+     ],
+     "id": "compound_dishes-006",
+     "source_case_count": 5
+    },
+    {
+     "text": "wonton wrappers",
+     "allergy": "egg",
+     "expected": [
+      "egg"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: wonton wrappers -> wheat flour, eggs",
+     "source_cases": [
+      "S01268",
+      "S01634",
+      "S01657",
+      "S01877"
+     ],
+     "id": "compound_dishes-007",
+     "source_case_count": 4
+    },
+    {
+     "text": "bonito flakes",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: bonito flakes -> fish",
+     "source_cases": [
+      "S01117",
+      "S01134",
+      "S01360",
+      "S01381",
+      "S01414"
+     ],
+     "id": "compound_dishes-008",
+     "source_case_count": 18
+    },
+    {
+     "text": "caesar dressing",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: caesar dressing -> olive oil, anchovies, egg yolk, parmesan, lemon juice, garlic",
+     "source_cases": [
+      "S01542",
+      "S01705",
+      "S01729",
+      "S01818",
+      "S02004"
+     ],
+     "id": "compound_dishes-009",
+     "source_case_count": 6
+    },
+    {
+     "text": "furikake",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: furikake -> sesame seeds, seaweed, bonito flakes",
+     "source_cases": [
+      "S01250",
+      "S01480",
+      "S01485",
+      "S01487",
+      "S01521"
+     ],
+     "id": "compound_dishes-010",
+     "source_case_count": 7
+    },
+    {
+     "text": "kimchi",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: kimchi -> napa cabbage, chili flakes, fish sauce, garlic",
+     "source_cases": [
+      "S01113",
+      "S01172",
+      "S01175",
+      "S01255",
+      "S01323"
+     ],
+     "id": "compound_dishes-011",
+     "source_case_count": 17
+    },
+    {
+     "text": "pad thai",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: pad thai -> rice noodles, peanuts, fish sauce, eggs, tamarind paste, bean sprouts",
+     "source_cases": [
+      "S01376",
+      "S01842",
+      "S01899"
+     ],
+     "id": "compound_dishes-012",
+     "source_case_count": 3
+    },
+    {
+     "text": "pad thai sauce",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: pad thai sauce -> tamarind paste, fish sauce, palm sugar",
+     "source_cases": [
+      "S01147",
+      "S01361",
+      "S01458",
+      "S01466",
+      "S01624"
+     ],
+     "id": "compound_dishes-013",
+     "source_case_count": 11
+    },
+    {
+     "text": "pho broth",
+     "allergy": "fish",
+     "expected": [
+      "fish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: pho broth -> beef bones, fish sauce, spices",
+     "source_cases": [
+      "S01125",
+      "S01200",
+      "S01237",
+      "S01253",
+      "S01331"
+     ],
+     "id": "compound_dishes-014",
+     "source_case_count": 19
+    },
+    {
+     "text": "baklava",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: baklava -> phyllo dough, walnuts, pistachios, butter, honey",
+     "source_cases": [
+      "S01742"
+     ],
+     "id": "compound_dishes-015",
+     "source_case_count": 1
+    },
+    {
+     "text": "bechamel",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: bechamel -> butter, wheat flour, milk",
+     "source_cases": [
+      "S01251",
+      "S01279",
+      "S01401",
+      "S01408",
+      "S01448"
+     ],
+     "id": "compound_dishes-016",
+     "source_case_count": 12
+    },
+    {
+     "text": "gado gado dressing",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: gado gado dressing -> peanuts, soy sauce, lime juice",
+     "source_cases": [
+      "S01614"
+     ],
+     "id": "compound_dishes-017",
+     "source_case_count": 1
+    },
+    {
+     "text": "gnocchi",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: gnocchi -> potatoes, wheat flour, eggs",
+     "source_cases": [
+      "S01173",
+      "S01219",
+      "S01229",
+      "S01497"
+     ],
+     "id": "compound_dishes-018",
+     "source_case_count": 4
+    },
+    {
+     "text": "hoisin sauce",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: hoisin sauce -> soybeans, sugar, wheat flour, garlic, sesame oil",
+     "source_cases": [
+      "S01153",
+      "S01499",
+      "S01719",
+      "S01970"
+     ],
+     "id": "compound_dishes-019",
+     "source_case_count": 4
+    },
+    {
+     "text": "katsu",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: katsu -> panko, eggs, wheat flour, pork cutlet",
+     "source_cases": [
+      "S01158",
+      "S01313",
+      "S01342",
+      "S01701",
+      "S01840"
+     ],
+     "id": "compound_dishes-020",
+     "source_case_count": 7
+    },
+    {
+     "text": "muhammara",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: muhammara -> roasted red peppers, walnuts, bread crumbs, pomegranate molasses",
+     "source_cases": [
+      "S01119",
+      "S01442",
+      "S01470",
+      "S01586",
+      "S01649"
+     ],
+     "id": "compound_dishes-021",
+     "source_case_count": 7
+    },
+    {
+     "text": "phyllo dough",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: phyllo dough -> wheat flour, water, oil",
+     "source_cases": [
+      "S01300",
+      "S01322",
+      "S01338",
+      "S01373",
+      "S01558"
+     ],
+     "id": "compound_dishes-022",
+     "source_case_count": 11
+    },
+    {
+     "text": "ponzu",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: ponzu -> soy sauce, citrus juice, mirin",
+     "source_cases": [
+      "S01121",
+      "S01123",
+      "S01149",
+      "S01394",
+      "S01438"
+     ],
+     "id": "compound_dishes-023",
+     "source_case_count": 9
+    },
+    {
+     "text": "satay sauce",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: satay sauce -> peanut butter, coconut milk, soy sauce, lime juice",
+     "source_cases": [
+      "S01115",
+      "S01282",
+      "S01747",
+      "S01908"
+     ],
+     "id": "compound_dishes-024",
+     "source_case_count": 4
+    },
+    {
+     "text": "tempura batter",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: tempura batter -> wheat flour, eggs, ice water",
+     "source_cases": [
+      "S01223",
+      "S01324",
+      "S01330",
+      "S01782",
+      "S01975"
+     ],
+     "id": "compound_dishes-025",
+     "source_case_count": 6
+    },
+    {
+     "text": "teriyaki sauce",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: teriyaki sauce -> soy sauce, mirin, sugar, ginger",
+     "source_cases": [
+      "S01137",
+      "S01366",
+      "S01518",
+      "S01591",
+      "S01641"
+     ],
+     "id": "compound_dishes-026",
+     "source_case_count": 8
+    },
+    {
+     "text": "wonton wrappers",
+     "allergy": "gluten",
+     "expected": [
+      "gluten"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: wonton wrappers -> wheat flour, eggs",
+     "source_cases": [
+      "S01167",
+      "S01252",
+      "S01510",
+      "S01571",
+      "S01724"
+     ],
+     "id": "compound_dishes-027",
+     "source_case_count": 6
+    },
+    {
+     "text": "alfredo sauce",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: alfredo sauce -> butter, heavy cream, parmesan",
+     "source_cases": [
+      "S01130",
+      "S01160",
+      "S01162",
+      "S01231",
+      "S01239"
+     ],
+     "id": "compound_dishes-028",
+     "source_case_count": 21
+    },
+    {
+     "text": "baklava",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: baklava -> phyllo dough, walnuts, pistachios, butter, honey",
+     "source_cases": [
+      "S01157",
+      "S01171",
+      "S01348",
+      "S01463",
+      "S01552"
+     ],
+     "id": "compound_dishes-029",
+     "source_case_count": 6
+    },
+    {
+     "text": "basil pesto",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: basil pesto -> basil, pine nuts, parmesan, olive oil, garlic",
+     "source_cases": [
+      "S01156",
+      "S01163",
+      "S01183",
+      "S01201",
+      "S01275"
+     ],
+     "id": "compound_dishes-030",
+     "source_case_count": 10
+    },
+    {
+     "text": "bechamel",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: bechamel -> butter, wheat flour, milk",
+     "source_cases": [
+      "S01194",
+      "S01245",
+      "S01436",
+      "S01477",
+      "S01793"
+     ],
+     "id": "compound_dishes-031",
+     "source_case_count": 8
+    },
+    {
+     "text": "caesar dressing",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: caesar dressing -> olive oil, anchovies, egg yolk, parmesan, lemon juice, garlic",
+     "source_cases": [
+      "S01128",
+      "S01304",
+      "S01309",
+      "S01462",
+      "S01673"
+     ],
+     "id": "compound_dishes-032",
+     "source_case_count": 11
+    },
+    {
+     "text": "crab rangoon",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: crab rangoon -> crab meat, cream cheese, wonton wrappers",
+     "source_cases": [
+      "S01450",
+      "S01777",
+      "S01918"
+     ],
+     "id": "compound_dishes-033",
+     "source_case_count": 3
+    },
+    {
+     "text": "garlic naan",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: garlic naan -> wheat flour, yogurt, ghee, garlic",
+     "source_cases": [
+      "S01122",
+      "S01186",
+      "S01423",
+      "S01873",
+      "S01904"
+     ],
+     "id": "compound_dishes-034",
+     "source_case_count": 5
+    },
+    {
+     "text": "korma sauce",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: korma sauce -> cashews, heavy cream, onion, spices",
+     "source_cases": [
+      "S01299",
+      "S01562",
+      "S01735",
+      "S01784",
+      "S01838"
+     ],
+     "id": "compound_dishes-035",
+     "source_case_count": 9
+    },
+    {
+     "text": "naan",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: naan -> wheat flour, yogurt, ghee, yeast",
+     "source_cases": [
+      "S01102",
+      "S01514",
+      "S01615",
+      "S01630",
+      "S01653"
+     ],
+     "id": "compound_dishes-036",
+     "source_case_count": 9
+    },
+    {
+     "text": "pesto",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: pesto -> basil, pine nuts, parmesan, olive oil, garlic",
+     "source_cases": [
+      "S01116",
+      "S01195",
+      "S01285",
+      "S01644",
+      "S01756"
+     ],
+     "id": "compound_dishes-037",
+     "source_case_count": 8
+    },
+    {
+     "text": "ranch dressing",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: ranch dressing -> buttermilk, mayonnaise, herbs",
+     "source_cases": [
+      "S01150",
+      "S01205",
+      "S01207",
+      "S01235",
+      "S01538"
+     ],
+     "id": "compound_dishes-038",
+     "source_case_count": 9
+    },
+    {
+     "text": "tzatziki",
+     "allergy": "milk",
+     "expected": [
+      "milk"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: tzatziki -> greek yogurt, cucumber, garlic",
+     "source_cases": [
+      "S01292",
+      "S01312",
+      "S01333",
+      "S01346",
+      "S01384"
+     ],
+     "id": "compound_dishes-039",
+     "source_case_count": 12
+    },
+    {
+     "text": "gado gado dressing",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: gado gado dressing -> peanuts, soy sauce, lime juice",
+     "source_cases": [
+      "S01174",
+      "S01802",
+      "S01986"
+     ],
+     "id": "compound_dishes-040",
+     "source_case_count": 3
+    },
+    {
+     "text": "mole sauce",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: mole sauce -> chilies, peanuts, sesame seeds, chocolate, bread",
+     "source_cases": [
+      "S01118",
+      "S01190",
+      "S01192",
+      "S01294",
+      "S01363"
+     ],
+     "id": "compound_dishes-041",
+     "source_case_count": 13
+    },
+    {
+     "text": "pad thai",
+     "allergy": "peanut",
+     "expected": [
+      "peanut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: pad thai -> rice noodles, peanuts, fish sauce, eggs, tamarind paste, bean sprouts",
+     "source_cases": [
+      "S01697",
+      "S01750",
+      "S01842",
+      "S01867",
+      "S01909"
+     ],
+     "id": "compound_dishes-042",
+     "source_case_count": 5
+    },
+    {
+     "text": "baba ganoush",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: baba ganoush -> eggplant, tahini, lemon juice",
+     "source_cases": [
+      "S01170",
+      "S01185",
+      "S01189",
+      "S01215",
+      "S01228"
+     ],
+     "id": "compound_dishes-043",
+     "source_case_count": 24
+    },
+    {
+     "text": "dukkah",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: dukkah -> hazelnuts, sesame seeds, coriander, cumin",
+     "source_cases": [
+      "S01204",
+      "S01218",
+      "S01362",
+      "S01718",
+      "S01733"
+     ],
+     "id": "compound_dishes-044",
+     "source_case_count": 8
+    },
+    {
+     "text": "furikake",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: furikake -> sesame seeds, seaweed, bonito flakes",
+     "source_cases": [
+      "S01431",
+      "S01437",
+      "S01473",
+      "S01480",
+      "S01521"
+     ],
+     "id": "compound_dishes-045",
+     "source_case_count": 8
+    },
+    {
+     "text": "hoisin sauce",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: hoisin sauce -> soybeans, sugar, wheat flour, garlic, sesame oil",
+     "source_cases": [
+      "S01105",
+      "S01243",
+      "S01513",
+      "S01565",
+      "S01846"
+     ],
+     "id": "compound_dishes-046",
+     "source_case_count": 5
+    },
+    {
+     "text": "mole sauce",
+     "allergy": "sesame",
+     "expected": [
+      "sesame"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: mole sauce -> chilies, peanuts, sesame seeds, chocolate, bread",
+     "source_cases": [
+      "S01283",
+      "S01339",
+      "S01407",
+      "S01452",
+      "S01588"
+     ],
+     "id": "compound_dishes-047",
+     "source_case_count": 11
+    },
+    {
+     "text": "red curry paste",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: red curry paste -> chilies, lemongrass, shrimp paste, garlic",
+     "source_cases": [
+      "S01141",
+      "S01144",
+      "S01159",
+      "S01258",
+      "S01277"
+     ],
+     "id": "compound_dishes-048",
+     "source_case_count": 18
+    },
+    {
+     "text": "xo sauce",
+     "allergy": "shellfish",
+     "expected": [
+      "shellfish"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: xo sauce -> dried shrimp, dried scallops, chilies, oil",
+     "source_cases": [
+      "S01109",
+      "S01112",
+      "S01129",
+      "S01169",
+      "S01179"
+     ],
+     "id": "compound_dishes-049",
+     "source_case_count": 20
+    },
+    {
+     "text": "gado gado dressing",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: gado gado dressing -> peanuts, soy sauce, lime juice",
+     "source_cases": [
+      "S01196",
+      "S01573",
+      "S01614",
+      "S01788",
+      "S01940"
+     ],
+     "id": "compound_dishes-050",
+     "source_case_count": 7
+    },
+    {
+     "text": "hoisin sauce",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: hoisin sauce -> soybeans, sugar, wheat flour, garlic, sesame oil",
+     "source_cases": [
+      "S01182",
+      "S01680",
+      "S01951"
+     ],
+     "id": "compound_dishes-051",
+     "source_case_count": 3
+    },
+    {
+     "text": "ponzu",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: ponzu -> soy sauce, citrus juice, mirin",
+     "source_cases": [
+      "S01123",
+      "S01394",
+      "S01544"
+     ],
+     "id": "compound_dishes-052",
+     "source_case_count": 3
+    },
+    {
+     "text": "satay sauce",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: satay sauce -> peanut butter, coconut milk, soy sauce, lime juice",
+     "source_cases": [
+      "S01108",
+      "S01481",
+      "S01775"
+     ],
+     "id": "compound_dishes-053",
+     "source_case_count": 3
+    },
+    {
+     "text": "teriyaki sauce",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: teriyaki sauce -> soy sauce, mirin, sugar, ginger",
+     "source_cases": [
+      "S01187",
+      "S01379",
+      "S01403",
+      "S01553",
+      "S01894"
+     ],
+     "id": "compound_dishes-054",
+     "source_case_count": 6
+    },
+    {
+     "text": "baklava",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: baklava -> phyllo dough, walnuts, pistachios, butter, honey",
+     "source_cases": [
+      "S01138",
+      "S01140",
+      "S01217",
+      "S01374",
+      "S01400"
+     ],
+     "id": "compound_dishes-055",
+     "source_case_count": 6
+    },
+    {
+     "text": "dukkah",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: dukkah -> hazelnuts, sesame seeds, coriander, cumin",
+     "source_cases": [
+      "S01165",
+      "S01335",
+      "S01362",
+      "S01428",
+      "S01651"
+     ],
+     "id": "compound_dishes-056",
+     "source_case_count": 9
+    },
+    {
+     "text": "korma sauce",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: korma sauce -> cashews, heavy cream, onion, spices",
+     "source_cases": [
+      "S01464",
+      "S01500",
+      "S01512",
+      "S01516",
+      "S01671"
+     ],
+     "id": "compound_dishes-057",
+     "source_case_count": 8
+    },
+    {
+     "text": "muhammara",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: muhammara -> roasted red peppers, walnuts, bread crumbs, pomegranate molasses",
+     "source_cases": [
+      "S01119",
+      "S01357",
+      "S01526",
+      "S01598",
+      "S01661"
+     ],
+     "id": "compound_dishes-058",
+     "source_case_count": 7
+    },
+    {
+     "text": "romesco",
+     "allergy": "tree_nut",
+     "expected": [
+      "tree_nut"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: romesco -> roasted red peppers, almonds, bread, olive oil",
+     "source_cases": [
+      "S01208",
+      "S01371",
+      "S01388",
+      "S01395",
+      "S01396"
+     ],
+     "id": "compound_dishes-059",
+     "source_case_count": 11
+    },
+    {
+     "text": "baklava",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: baklava -> phyllo dough, walnuts, pistachios, butter, honey",
+     "source_cases": [
+      "S01138",
+      "S01140",
+      "S01161",
+      "S01193",
+      "S01203"
+     ],
+     "id": "compound_dishes-060",
+     "source_case_count": 11
+    },
+    {
+     "text": "bechamel",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: bechamel -> butter, wheat flour, milk",
+     "source_cases": [
+      "S01191",
+      "S01279",
+      "S01316",
+      "S01401",
+      "S01570"
+     ],
+     "id": "compound_dishes-061",
+     "source_case_count": 8
+    },
+    {
+     "text": "crab rangoon",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: crab rangoon -> crab meat, cream cheese, wonton wrappers",
+     "source_cases": [
+      "S01111",
+      "S01225",
+      "S01450",
+      "S01451",
+      "S01646"
+     ],
+     "id": "compound_dishes-062",
+     "source_case_count": 8
+    },
+    {
+     "text": "gado gado dressing",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: gado gado dressing -> peanuts, soy sauce, lime juice",
+     "source_cases": [
+      "S01503",
+      "S01684",
+      "S01927",
+      "S01940",
+      "S01943"
+     ],
+     "id": "compound_dishes-063",
+     "source_case_count": 5
+    },
+    {
+     "text": "gnocchi",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: gnocchi -> potatoes, wheat flour, eggs",
+     "source_cases": [
+      "S01264",
+      "S01364",
+      "S01430",
+      "S02003"
+     ],
+     "id": "compound_dishes-064",
+     "source_case_count": 4
+    },
+    {
+     "text": "hoisin sauce",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: hoisin sauce -> soybeans, sugar, wheat flour, garlic, sesame oil",
+     "source_cases": [
+      "S01265",
+      "S01290",
+      "S01551",
+      "S01719",
+      "S01887"
+     ],
+     "id": "compound_dishes-065",
+     "source_case_count": 5
+    },
+    {
+     "text": "katsu",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: katsu -> panko, eggs, wheat flour, pork cutlet",
+     "source_cases": [
+      "S01131",
+      "S01405",
+      "S01665",
+      "S01871",
+      "S01929"
+     ],
+     "id": "compound_dishes-066",
+     "source_case_count": 6
+    },
+    {
+     "text": "muhammara",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: muhammara -> roasted red peppers, walnuts, bread crumbs, pomegranate molasses",
+     "source_cases": [
+      "S01259",
+      "S01357",
+      "S01359",
+      "S01442",
+      "S01470"
+     ],
+     "id": "compound_dishes-067",
+     "source_case_count": 9
+    },
+    {
+     "text": "phyllo dough",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: phyllo dough -> wheat flour, water, oil",
+     "source_cases": [
+      "S01308",
+      "S01338",
+      "S01420",
+      "S01492",
+      "S01581"
+     ],
+     "id": "compound_dishes-068",
+     "source_case_count": 7
+    },
+    {
+     "text": "ponzu",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: ponzu -> soy sauce, citrus juice, mirin",
+     "source_cases": [
+      "S01211",
+      "S01753"
+     ],
+     "id": "compound_dishes-069",
+     "source_case_count": 2
+    },
+    {
+     "text": "satay sauce",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: satay sauce -> peanut butter, coconut milk, soy sauce, lime juice",
+     "source_cases": [
+      "S01115",
+      "S01365",
+      "S01481",
+      "S01597",
+      "S01870"
+     ],
+     "id": "compound_dishes-070",
+     "source_case_count": 7
+    },
+    {
+     "text": "tempura batter",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: tempura batter -> wheat flour, eggs, ice water",
+     "source_cases": [
+      "S01523",
+      "S01687"
+     ],
+     "id": "compound_dishes-071",
+     "source_case_count": 2
+    },
+    {
+     "text": "teriyaki sauce",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: teriyaki sauce -> soy sauce, mirin, sugar, ginger",
+     "source_cases": [
+      "S01114",
+      "S01137",
+      "S01270",
+      "S01599",
+      "S01858"
+     ],
+     "id": "compound_dishes-072",
+     "source_case_count": 5
+    },
+    {
+     "text": "wonton wrappers",
+     "allergy": "wheat",
+     "expected": [
+      "wheat"
+     ],
+     "app_current": [],
+     "why": "lookup_tables.expansions: wonton wrappers -> wheat flour, eggs",
+     "source_cases": [
+      "S01390",
+      "S01422",
+      "S01432",
+      "S01571",
+      "S01724"
+     ],
+     "id": "compound_dishes-073",
+     "source_case_count": 6
+    }
+   ]
+  },
+  {
+   "root_cause": "missing_keyword",
+   "cases": [
+    {
+     "text": "soybeans",
+     "allergy": "soy",
+     "expected": [
+      "soy"
+     ],
+     "app_current": [],
+     "why": "no app keyword covers this term",
+     "source_cases": [
+      "S00036",
+      "S00068",
+      "S00090",
+      "S00117",
+      "S00142"
+     ],
+     "id": "missing_keyword-000",
+     "source_case_count": 32
+    }
+   ]
+  },
+  {
+   "root_cause": "over_broad_terms",
+   "cases": [
+    {
+     "text": "corn tortillas",
+     "allergy": "gluten",
+     "expected": [],
+     "app_current": [
+      "gluten"
+     ],
+     "why": "app keyword ['tortillas'] matches inside a term that does not contain gluten (reference: allergens.json)",
+     "source_cases": [
+      "S04799",
+      "S04803",
+      "S04850",
+      "S04978",
+      "S05040"
+     ],
+     "id": "over_broad_terms-000",
+     "source_case_count": 5
+    },
+    {
+     "text": "gluten-free pasta",
+     "allergy": "gluten",
+     "expected": [],
+     "app_current": [
+      "gluten"
+     ],
+     "why": "app keyword ['pasta'] matches inside a term that does not contain gluten (reference: allergens.json)",
+     "source_cases": [
+      "S04873",
+      "S04906"
+     ],
+     "id": "over_broad_terms-001",
+     "source_case_count": 2
+    },
+    {
+     "text": "rice flour",
+     "allergy": "gluten",
+     "expected": [],
+     "app_current": [
+      "gluten"
+     ],
+     "why": "app keyword ['flour'] matches inside a term that does not contain gluten (reference: allergens.json)",
+     "source_cases": [
+      "S04699",
+      "S04708",
+      "S04945",
+      "S04947",
+      "S05028"
+     ],
+     "id": "over_broad_terms-002",
+     "source_case_count": 5
+    },
+    {
+     "text": "rice noodles",
+     "allergy": "gluten",
+     "expected": [],
+     "app_current": [
+      "gluten"
+     ],
+     "why": "app keyword ['noodles'] matches inside a term that does not contain gluten (reference: allergens.json)",
+     "source_cases": [
+      "S04832",
+      "S04877",
+      "S05007",
+      "S05044"
+     ],
+     "id": "over_broad_terms-003",
+     "source_case_count": 4
+    },
+    {
+     "text": "cocoa butter",
+     "allergy": "milk",
+     "expected": [],
+     "app_current": [
+      "milk"
+     ],
+     "why": "app keyword ['butter'] matches inside a term that does not contain milk (reference: allergens.json)",
+     "source_cases": [
+      "S04674",
+      "S04706",
+      "S04735",
+      "S04753",
+      "S04854"
+     ],
+     "id": "over_broad_terms-004",
+     "source_case_count": 6
+    },
+    {
+     "text": "coconut milk",
+     "allergy": "milk",
+     "expected": [],
+     "app_current": [
+      "milk"
+     ],
+     "why": "app keyword ['milk'] matches inside a term that does not contain milk (reference: allergens.json)",
+     "source_cases": [
+      "S04677",
+      "S04738",
+      "S04841",
+      "S04847",
+      "S04864"
+     ],
+     "id": "over_broad_terms-005",
+     "source_case_count": 6
+    },
+    {
+     "text": "coconut yogurt",
+     "allergy": "milk",
+     "expected": [],
+     "app_current": [
+      "milk"
+     ],
+     "why": "app keyword ['yogurt'] matches inside a term that does not contain milk (reference: allergens.json)",
+     "source_cases": [
+      "S04721",
+      "S04842",
+      "S04905",
+      "S04952",
+      "S04972"
+     ],
+     "id": "over_broad_terms-006",
+     "source_case_count": 6
+    },
+    {
+     "text": "cream of tartar",
+     "allergy": "milk",
+     "expected": [],
+     "app_current": [
+      "milk"
+     ],
+     "why": "app keyword ['cream'] matches inside a term that does not contain milk (reference: allergens.json)",
+     "source_cases": [
+      "S04724",
+      "S04911",
+      "S04926",
+      "S05013",
+      "S05032"
+     ],
+     "id": "over_broad_terms-007",
+     "source_case_count": 5
+    },
+    {
+     "text": "dairy-free butter (coconut oil)",
+     "allergy": "milk",
+     "expected": [],
+     "app_current": [
+      "milk"
+     ],
+     "why": "app keyword ['butter'] matches inside a term that does not contain milk (reference: allergens.json)",
+     "source_cases": [
+      "S04736",
+      "S04768",
+      "S04787",
+      "S04810",
+      "S04973"
+     ],
+     "id": "over_broad_terms-008",
+     "source_case_count": 6
+    },
+    {
+     "text": "oat milk",
+     "allergy": "milk",
+     "expected": [],
+     "app_current": [
+      "milk"
+     ],
+     "why": "app keyword ['milk'] matches inside a term that does not contain milk (reference: allergens.json)",
+     "source_cases": [
+      "S04650",
+      "S04682",
+      "S04715",
+      "S04920"
+     ],
+     "id": "over_broad_terms-009",
+     "source_case_count": 4
+    },
+    {
+     "text": "sunflower seed butter",
+     "allergy": "milk",
+     "expected": [],
+     "app_current": [
+      "milk"
+     ],
+     "why": "app keyword ['butter'] matches inside a term that does not contain milk (reference: allergens.json)",
+     "source_cases": [
+      "S04759",
+      "S04781",
+      "S04865",
+      "S05027"
+     ],
+     "id": "over_broad_terms-010",
+     "source_case_count": 4
+    },
+    {
+     "text": "peanut-free",
+     "allergy": "peanut",
+     "expected": [],
+     "app_current": [
+      "peanut"
+     ],
+     "why": "app keyword ['peanut'] matches inside a term that does not contain peanut (reference: allergens.json)",
+     "source_cases": [
+      "S04815",
+      "S04990"
+     ],
+     "id": "over_broad_terms-011",
+     "source_case_count": 2
+    },
+    {
+     "text": "corn tortillas",
+     "allergy": "wheat",
+     "expected": [],
+     "app_current": [
+      "wheat"
+     ],
+     "why": "app keyword ['tortillas'] matches inside a term that does not contain wheat (reference: allergens.json)",
+     "source_cases": [
+      "S04730",
+      "S04966",
+      "S05001"
+     ],
+     "id": "over_broad_terms-012",
+     "source_case_count": 3
+    },
+    {
+     "text": "gluten-free pasta",
+     "allergy": "wheat",
+     "expected": [],
+     "app_current": [
+      "wheat"
+     ],
+     "why": "app keyword ['pasta'] matches inside a term that does not contain wheat (reference: allergens.json)",
+     "source_cases": [
+      "S04822",
+      "S04906",
+      "S04922",
+      "S05017"
+     ],
+     "id": "over_broad_terms-013",
+     "source_case_count": 4
+    },
+    {
+     "text": "rice flour",
+     "allergy": "wheat",
+     "expected": [],
+     "app_current": [
+      "wheat"
+     ],
+     "why": "app keyword ['flour'] matches inside a term that does not contain wheat (reference: allergens.json)",
+     "source_cases": [
+      "S04675",
+      "S04694",
+      "S04699",
+      "S04701",
+      "S04731"
+     ],
+     "id": "over_broad_terms-014",
+     "source_case_count": 5
+    },
+    {
+     "text": "rice noodles",
+     "allergy": "wheat",
+     "expected": [],
+     "app_current": [
+      "wheat"
+     ],
+     "why": "app keyword ['noodles'] matches inside a term that does not contain wheat (reference: allergens.json)",
+     "source_cases": [
+      "S04765",
+      "S04819",
+      "S04881",
+      "S05004",
+      "S05048"
+     ],
+     "id": "over_broad_terms-015",
+     "source_case_count": 5
+    }
+   ]
+  }
+ ],
+ "controls": [
+  {
+   "text": "peanuts",
+   "allergy": "peanut",
+   "expected": [
+    "peanut"
+   ],
+   "app_current": [
+    "peanut"
+   ]
+  },
+  {
+   "text": "peanut butter",
+   "allergy": "peanut",
+   "expected": [
+    "peanut"
+   ],
+   "app_current": [
+    "peanut"
+   ]
+  },
+  {
+   "text": "crushed peanuts",
+   "allergy": "peanut",
+   "expected": [
+    "peanut"
+   ],
+   "app_current": [
+    "peanut"
+   ]
+  },
+  {
+   "text": "almonds",
+   "allergy": "tree_nut",
+   "expected": [
+    "tree_nut"
+   ],
+   "app_current": [
+    "tree_nut"
+   ]
+  },
+  {
+   "text": "cashews",
+   "allergy": "tree_nut",
+   "expected": [
+    "tree_nut"
+   ],
+   "app_current": [
+    "tree_nut"
+   ]
+  },
+  {
+   "text": "walnuts",
+   "allergy": "tree_nut",
+   "expected": [
+    "tree_nut"
+   ],
+   "app_current": [
+    "tree_nut"
+   ]
+  },
+  {
+   "text": "pine nuts",
+   "allergy": "tree_nut",
+   "expected": [
+    "tree_nut"
+   ],
+   "app_current": [
+    "tree_nut"
+   ]
+  },
+  {
+   "text": "pecans",
+   "allergy": "tree_nut",
+   "expected": [
+    "tree_nut"
+   ],
+   "app_current": [
+    "tree_nut"
+   ]
+  },
+  {
+   "text": "pistachios",
+   "allergy": "tree_nut",
+   "expected": [
+    "tree_nut"
+   ],
+   "app_current": [
+    "tree_nut"
+   ]
+  },
+  {
+   "text": "hazelnuts",
+   "allergy": "tree_nut",
+   "expected": [
+    "tree_nut"
+   ],
+   "app_current": [
+    "tree_nut"
+   ]
+  },
+  {
+   "text": "whole milk",
+   "allergy": "milk",
+   "expected": [
+    "milk"
+   ],
+   "app_current": [
+    "milk"
+   ]
+  },
+  {
+   "text": "butter",
+   "allergy": "milk",
+   "expected": [
+    "milk"
+   ],
+   "app_current": [
+    "milk"
+   ]
+  },
+  {
+   "text": "heavy cream",
+   "allergy": "milk",
+   "expected": [
+    "milk"
+   ],
+   "app_current": [
+    "milk"
+   ]
+  },
+  {
+   "text": "greek yogurt",
+   "allergy": "milk",
+   "expected": [
+    "milk"
+   ],
+   "app_current": [
+    "milk"
+   ]
+  },
+  {
+   "text": "cheddar cheese",
+   "allergy": "milk",
+   "expected": [
+    "milk"
+   ],
+   "app_current": [
+    "milk"
+   ]
+  },
+  {
+   "text": "cheese",
+   "allergy": "milk",
+   "expected": [
+    "milk"
+   ],
+   "app_current": [
+    "milk"
+   ]
+  },
+  {
+   "text": "ghee",
+   "allergy": "milk",
+   "expected": [
+    "milk"
+   ],
+   "app_current": [
+    "milk"
+   ]
+  },
+  {
+   "text": "eggs",
+   "allergy": "egg",
+   "expected": [
+    "egg"
+   ],
+   "app_current": [
+    "egg"
+   ]
+  },
+  {
+   "text": "egg yolk",
+   "allergy": "egg",
+   "expected": [
+    "egg"
+   ],
+   "app_current": [
+    "egg"
+   ]
+  },
+  {
+   "text": "mayonnaise",
+   "allergy": "egg",
+   "expected": [
+    "egg"
+   ],
+   "app_current": [
+    "egg"
+   ]
+  },
+  {
+   "text": "wheat flour",
+   "allergy": "wheat",
+   "expected": [
+    "wheat"
+   ],
+   "app_current": [
+    "wheat"
+   ]
+  },
+  {
+   "text": "spaghetti",
+   "allergy": "wheat",
+   "expected": [
+    "wheat"
+   ],
+   "app_current": [
+    "wheat"
+   ]
+  },
+  {
+   "text": "bread crumbs",
+   "allergy": "wheat",
+   "expected": [
+    "wheat"
+   ],
+   "app_current": [
+    "wheat"
+   ]
+  },
+  {
+   "text": "flour tortillas",
+   "allergy": "wheat",
+   "expected": [
+    "wheat"
+   ],
+   "app_current": [
+    "wheat"
+   ]
+  },
+  {
+   "text": "panko",
+   "allergy": "wheat",
+   "expected": [
+    "wheat"
+   ],
+   "app_current": [
+    "wheat"
+   ]
+  },
+  {
+   "text": "barley",
+   "allergy": "gluten",
+   "expected": [
+    "gluten"
+   ],
+   "app_current": [
+    "gluten"
+   ]
+  },
+  {
+   "text": "rye bread",
+   "allergy": "gluten",
+   "expected": [
+    "gluten"
+   ],
+   "app_current": [
+    "gluten"
+   ]
+  },
+  {
+   "text": "malt vinegar",
+   "allergy": "gluten",
+   "expected": [
+    "gluten"
+   ],
+   "app_current": [
+    "gluten"
+   ]
+  },
+  {
+   "text": "farro",
+   "allergy": "gluten",
+   "expected": [
+    "gluten"
+   ],
+   "app_current": [
+    "gluten"
+   ]
+  },
+  {
+   "text": "spelt flour",
+   "allergy": "gluten",
+   "expected": [
+    "gluten"
+   ],
+   "app_current": [
+    "gluten"
+   ]
+  },
+  {
+   "text": "tofu",
+   "allergy": "soy",
+   "expected": [
+    "soy"
+   ],
+   "app_current": [
+    "soy"
+   ]
+  },
+  {
+   "text": "edamame",
+   "allergy": "soy",
+   "expected": [
+    "soy"
+   ],
+   "app_current": [
+    "soy"
+   ]
+  },
+  {
+   "text": "miso paste",
+   "allergy": "soy",
+   "expected": [
+    "soy"
+   ],
+   "app_current": [
+    "soy"
+   ]
+  },
+  {
+   "text": "salmon",
+   "allergy": "fish",
+   "expected": [
+    "fish"
+   ],
+   "app_current": [
+    "fish"
+   ]
+  },
+  {
+   "text": "fish sauce",
+   "allergy": "fish",
+   "expected": [
+    "fish"
+   ],
+   "app_current": [
+    "fish"
+   ]
+  },
+  {
+   "text": "cod",
+   "allergy": "fish",
+   "expected": [
+    "fish"
+   ],
+   "app_current": [
+    "fish"
+   ]
+  },
+  {
+   "text": "tuna",
+   "allergy": "fish",
+   "expected": [
+    "fish"
+   ],
+   "app_current": [
+    "fish"
+   ]
+  },
+  {
+   "text": "shrimp",
+   "allergy": "shellfish",
+   "expected": [
+    "shellfish"
+   ],
+   "app_current": [
+    "shellfish"
+   ]
+  },
+  {
+   "text": "crab meat",
+   "allergy": "shellfish",
+   "expected": [
+    "shellfish"
+   ],
+   "app_current": [
+    "shellfish"
+   ]
+  },
+  {
+   "text": "lobster",
+   "allergy": "shellfish",
+   "expected": [
+    "shellfish"
+   ],
+   "app_current": [
+    "shellfish"
+   ]
+  },
+  {
+   "text": "scallops",
+   "allergy": "shellfish",
+   "expected": [
+    "shellfish"
+   ],
+   "app_current": [
+    "shellfish"
+   ]
+  },
+  {
+   "text": "clams",
+   "allergy": "shellfish",
+   "expected": [
+    "shellfish"
+   ],
+   "app_current": [
+    "shellfish"
+   ]
+  },
+  {
+   "text": "squid",
+   "allergy": "shellfish",
+   "expected": [
+    "shellfish"
+   ],
+   "app_current": [
+    "shellfish"
+   ]
+  },
+  {
+   "text": "sesame seeds",
+   "allergy": "sesame",
+   "expected": [
+    "sesame"
+   ],
+   "app_current": [
+    "sesame"
+   ]
+  },
+  {
+   "text": "tahini",
+   "allergy": "sesame",
+   "expected": [
+    "sesame"
+   ],
+   "app_current": [
+    "sesame"
+   ]
+  },
+  {
+   "text": "sesame oil",
+   "allergy": "sesame",
+   "expected": [
+    "sesame"
+   ],
+   "app_current": [
+    "sesame"
+   ]
+  },
+  {
+   "text": "coconut milk",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "cream of tartar",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "cocoa butter",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "buckwheat noodles",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "rice noodles",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "corn tortillas",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "gluten-free pasta",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "sunflower seed butter",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "eggplant",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "butternut squash",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "nutmeg",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "water chestnuts",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "peanut-free granola",
+   "allergy": "tree_nut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "coconut yogurt",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "rice flour",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "oat milk",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "almond-free pesto (basil, sunflower seeds, olive oil)",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "nutritional yeast",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  },
+  {
+   "text": "dairy-free butter (coconut oil)",
+   "allergy": "peanut",
+   "expected": [],
+   "app_current": []
+  }
+ ],
+ "unresolved_source_cases": [],
+ "reference_silent": [
+  {
+   "allergy": "gluten",
+   "canonical": "loaf of bread, loaves of bread",
+   "source_case_count": 2,
+   "source_cases": [
+    "S02828",
+    "S02847"
+   ],
+   "note": "batch-3 labelled app_false_positive only because allergens.json has no entry; app behaviour is conservative and NOT a regression"
+  },
+  {
+   "allergy": "gluten",
+   "canonical": "noodle, noodles",
+   "source_case_count": 1,
+   "source_cases": [
+    "S02762"
+   ],
+   "note": "batch-3 labelled app_false_positive only because allergens.json has no entry; app behaviour is conservative and NOT a regression"
+  },
+  {
+   "allergy": "wheat",
+   "canonical": "noodle, noodles",
+   "source_case_count": 2,
+   "source_cases": [
+    "S02723",
+    "S02751"
+   ],
+   "note": "batch-3 labelled app_false_positive only because allergens.json has no entry; app behaviour is conservative and NOT a regression"
+  },
+  {
+   "allergy": "wheat",
+   "canonical": "tortilla, tortillas",
+   "source_case_count": 2,
+   "source_cases": [
+    "S02809",
+    "S02904"
+   ],
+   "note": "batch-3 labelled app_false_positive only because allergens.json has no entry; app behaviour is conservative and NOT a regression"
+  }
+ ],
+ "reference_disputed": [
+  {
+   "allergy": "gluten",
+   "canonical": "buckwheat noodles",
+   "source_case_count": 3,
+   "source_cases": [
+    "S04760",
+    "S04892",
+    "S05024"
+   ],
+   "note": "batch-3 trap label withdrawn: commonly contains wheat; keep the app's conservative match"
+  },
+  {
+   "allergy": "wheat",
+   "canonical": "buckwheat noodles",
+   "source_case_count": 4,
+   "source_cases": [
+    "S04737",
+    "S04812",
+    "S04849",
+    "S04921"
+   ],
+   "note": "batch-3 trap label withdrawn: commonly contains wheat; keep the app's conservative match"
+  }
+ ]
+}

@@ -1,0 +1,284 @@
+{
+ "$id": "miple/fixtures/large4.unit_conversion.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 5000 record(s) of large4/unit_conversion/cases.jsonl + overlays (see _gen/gen_schemas4.py).",
+ "properties": {
+  "app_quantity": {
+   "type": "number"
+  },
+  "app_unit": {
+   "type": [
+    "null",
+    "string"
+   ]
+  },
+  "case": {
+   "type": "string"
+  },
+  "category": {
+   "type": "string"
+  },
+  "dimension": {
+   "type": "string"
+  },
+  "existing": {
+   "additionalProperties": false,
+   "properties": {
+    "quantity": {
+     "type": "number"
+    },
+    "unit": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "quantity",
+    "unit"
+   ],
+   "type": "object"
+  },
+  "factor": {
+   "type": "string"
+  },
+  "id": {
+   "type": "string"
+  },
+  "incoming": {
+   "additionalProperties": false,
+   "properties": {
+    "quantity": {
+     "type": "number"
+    },
+    "raw_unit": {
+     "type": "string"
+    },
+    "unit": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "quantity",
+    "raw_unit",
+    "unit"
+   ],
+   "type": "object"
+  },
+  "input": {
+   "additionalProperties": false,
+   "properties": {
+    "quantity": {
+     "type": "number"
+    },
+    "raw_unit": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "quantity",
+    "raw_unit"
+   ],
+   "type": "object"
+  },
+  "kind": {
+   "type": "string"
+  },
+  "lines": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "name": {
+   "type": "string"
+  },
+  "note": {
+   "type": "string"
+  },
+  "pantry": {
+   "additionalProperties": false,
+   "properties": {
+    "content": {
+     "additionalProperties": false,
+     "properties": {
+      "exact": {
+       "type": "string"
+      },
+      "stored": {
+       "type": "number"
+      },
+      "value": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "exact",
+      "stored",
+      "value"
+     ],
+     "type": [
+      "null",
+      "object"
+     ]
+    },
+    "content_unit": {
+     "type": [
+      "null",
+      "string"
+     ]
+    },
+    "count": {
+     "additionalProperties": false,
+     "properties": {
+      "exact": {
+       "type": "string"
+      },
+      "stored": {
+       "type": "number"
+      },
+      "value": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "exact",
+      "stored",
+      "value"
+     ],
+     "type": [
+      "null",
+      "object"
+     ]
+    }
+   },
+   "required": [
+    "content",
+    "content_unit",
+    "count"
+   ],
+   "type": "object"
+  },
+  "result": {
+   "additionalProperties": false,
+   "properties": {
+    "base": {
+     "additionalProperties": false,
+     "properties": {
+      "exact": {
+       "type": "string"
+      },
+      "stored": {
+       "type": "number"
+      },
+      "value": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "exact",
+      "stored",
+      "value"
+     ],
+     "type": "object"
+    },
+    "base_unit": {
+     "type": "string"
+    },
+    "exact": {
+     "type": "string"
+    },
+    "stored": {
+     "type": "number"
+    },
+    "unit": {
+     "type": "string"
+    },
+    "value": {
+     "type": "number"
+    }
+   },
+   "required": [
+    "exact",
+    "stored",
+    "value"
+   ],
+   "type": [
+    "null",
+    "object"
+   ]
+  },
+  "round_trip": {
+   "additionalProperties": false,
+   "properties": {
+    "back_to_source": {
+     "additionalProperties": false,
+     "properties": {
+      "exact": {
+       "type": "string"
+      },
+      "stored": {
+       "type": "number"
+      },
+      "value": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "exact",
+      "stored",
+      "value"
+     ],
+     "type": "object"
+    },
+    "loss_exact": {
+     "type": "string"
+    },
+    "stored": {
+     "type": "number"
+    }
+   },
+   "required": [
+    "back_to_source",
+    "loss_exact",
+    "stored"
+   ],
+   "type": "object"
+  },
+  "rule": {
+   "type": "string"
+  },
+  "source_case": {
+   "type": "string"
+  },
+  "status": {
+   "enum": [
+    "incompatible_dimension",
+    "invalid_quantity",
+    "ok",
+    "unknown_unit"
+   ],
+   "type": "string"
+  },
+  "target_unit": {
+   "type": "string"
+  },
+  "unit": {
+   "type": "string"
+  },
+  "warnings": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "category",
+  "id",
+  "kind",
+  "name",
+  "status"
+ ],
+ "title": "large4.unit_conversion",
+ "type": "object"
+}

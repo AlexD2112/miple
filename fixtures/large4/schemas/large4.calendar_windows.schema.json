@@ -1,0 +1,276 @@
+{
+ "$id": "miple/fixtures/large4.calendar_windows.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 3000 record(s) of large4/calendar_windows/cases.jsonl + overlays (see _gen/gen_schemas4.py).",
+ "properties": {
+  "calendar_access": {
+   "enum": [
+    "denied",
+    "granted",
+    "read_error"
+   ],
+   "type": "string"
+  },
+  "calendar_events": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "all_day": {
+      "type": "boolean"
+     },
+     "availability": {
+      "enum": [
+       "busy",
+       "free",
+       "notSupported",
+       "tentative",
+       "unavailable"
+      ],
+      "type": "string"
+     },
+     "end": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{3}([+-]\\d{2}:\\d{2}|Z)$",
+      "type": "string"
+     },
+     "id": {
+      "type": "string"
+     },
+     "recurrence": {
+      "additionalProperties": false,
+      "properties": {
+       "byday": {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       "count": {
+        "type": "integer"
+       },
+       "exdates": {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       "freq": {
+        "type": "string"
+       },
+       "interval": {
+        "type": "integer"
+       },
+       "until": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "freq",
+       "interval"
+      ],
+      "type": "object"
+     },
+     "start": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{3}([+-]\\d{2}:\\d{2}|Z)$",
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     },
+     "tz": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "all_day",
+     "availability",
+     "end",
+     "id",
+     "start",
+     "title",
+     "tz"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "days": {
+   "type": "integer"
+  },
+  "device_tz": {
+   "type": "string"
+  },
+  "dst_transitions_in_range": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "expected": {
+   "additionalProperties": false,
+   "properties": {
+    "count": {
+     "type": "integer"
+    },
+    "windows": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "day_offset": {
+        "type": "integer"
+       },
+       "end": {
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{3}([+-]\\d{2}:\\d{2}|Z)$",
+        "type": "string"
+       },
+       "end_ms": {
+        "type": "integer"
+       },
+       "meal": {
+        "enum": [
+         "dinner",
+         "lunch"
+        ],
+        "type": "string"
+       },
+       "minutes": {
+        "type": "integer"
+       },
+       "start": {
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{3}([+-]\\d{2}:\\d{2}|Z)$",
+        "type": "string"
+       },
+       "start_ms": {
+        "type": "integer"
+       }
+      },
+      "required": [
+       "day_offset",
+       "end",
+       "end_ms",
+       "meal",
+       "minutes",
+       "start",
+       "start_ms"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    }
+   },
+   "required": [
+    "count",
+    "windows"
+   ],
+   "type": "object"
+  },
+  "id": {
+   "type": "string"
+  },
+  "kind": {
+   "type": "string"
+  },
+  "listed_events": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "allDay": {
+      "type": "boolean"
+     },
+     "availability": {
+      "enum": [
+       "busy",
+       "free",
+       "notSupported",
+       "tentative",
+       "unavailable"
+      ],
+      "type": "string"
+     },
+     "endDate": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{3}([+-]\\d{2}:\\d{2}|Z)$",
+      "type": "string"
+     },
+     "end_ms": {
+      "type": "integer"
+     },
+     "event_id": {
+      "type": "string"
+     },
+     "occurrence": {
+      "type": "integer"
+     },
+     "startDate": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{3}([+-]\\d{2}:\\d{2}|Z)$",
+      "type": "string"
+     },
+     "start_ms": {
+      "type": "integer"
+     }
+    },
+    "required": [
+     "allDay",
+     "availability",
+     "endDate",
+     "end_ms",
+     "event_id",
+     "occurrence",
+     "startDate",
+     "start_ms"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "notes": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "now": {
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}T\\d{2}:\\d{2}:\\d{2}\\.\\d{3}([+-]\\d{2}:\\d{2}|Z)$",
+   "type": "string"
+  },
+  "now_ms": {
+   "type": "integer"
+  },
+  "range": {
+   "additionalProperties": false,
+   "properties": {
+    "end_ms": {
+     "type": "integer"
+    },
+    "start_ms": {
+     "type": "integer"
+    }
+   },
+   "required": [
+    "end_ms",
+    "start_ms"
+   ],
+   "type": "object"
+  },
+  "synthetic": {
+   "type": "boolean"
+  }
+ },
+ "required": [
+  "calendar_access",
+  "calendar_events",
+  "days",
+  "device_tz",
+  "dst_transitions_in_range",
+  "expected",
+  "id",
+  "kind",
+  "listed_events",
+  "notes",
+  "now",
+  "now_ms",
+  "range",
+  "synthetic"
+ ],
+ "title": "large4.calendar_windows",
+ "type": "object"
+}

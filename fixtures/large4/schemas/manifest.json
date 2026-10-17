@@ -1,0 +1,63 @@
+{
+ "sets": [
+  {
+   "schema": "large4.allergen_regression.schema.json",
+   "files": [
+    "large4/allergen_regression/cases.json"
+   ],
+   "jsonl": false,
+   "records": 1
+  },
+  {
+   "schema": "large4.ocr_vision.schema.json",
+   "files": [
+    "large4/ocr_vision/receipts_*.jsonl"
+   ],
+   "jsonl": true,
+   "records": 3000
+  },
+  {
+   "schema": "large4.calendar_windows.schema.json",
+   "files": [
+    "large4/calendar_windows/cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 3000
+  },
+  {
+   "schema": "large4.unit_conversion.schema.json",
+   "files": [
+    "large4/unit_conversion/cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 5000
+  },
+  {
+   "schema": "large4.unit_constants.schema.json",
+   "files": [
+    "large4/unit_conversion/constants.json"
+   ],
+   "jsonl": false,
+   "records": 1
+  },
+  {
+   "schema": "large4.household.schema.json",
+   "files": [
+    "large4/household/cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 1500
+  }
+ ],
+ "large3_schemas_applied": [
+  {
+   "schema": "../../large3/schemas/large.receipts_clean.schema.json",
+   "pointer": "properties/items/items",
+   "files": [
+    "large4/ocr_vision/receipts_*.jsonl"
+   ],
+   "jsonl": true,
+   "record_path": "ground_truth/items/*"
+  }
+ ]
+}

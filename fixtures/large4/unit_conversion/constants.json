@@ -1,0 +1,236 @@
+{
+ "constants": {
+  "g": {
+   "dimension": "mass",
+   "base_unit": "g",
+   "base_per_unit": "1",
+   "base_per_unit_decimal": 1.0
+  },
+  "kg": {
+   "dimension": "mass",
+   "base_unit": "g",
+   "base_per_unit": "1000",
+   "base_per_unit_decimal": 1000.0
+  },
+  "mg": {
+   "dimension": "mass",
+   "base_unit": "g",
+   "base_per_unit": "1/1000",
+   "base_per_unit_decimal": 0.001
+  },
+  "lb": {
+   "dimension": "mass",
+   "base_unit": "g",
+   "base_per_unit": "45359237/100000",
+   "base_per_unit_decimal": 453.59237
+  },
+  "oz": {
+   "dimension": "mass",
+   "base_unit": "g",
+   "base_per_unit": "45359237/1600000",
+   "base_per_unit_decimal": 28.349523125
+  },
+  "ml": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "1",
+   "base_per_unit_decimal": 1.0
+  },
+  "l": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "1000",
+   "base_per_unit_decimal": 1000.0
+  },
+  "gal": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "473176473/125000",
+   "base_per_unit_decimal": 3785.411784
+  },
+  "qt": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "473176473/500000",
+   "base_per_unit_decimal": 946.352946
+  },
+  "pt": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "473176473/1000000",
+   "base_per_unit_decimal": 473.176473
+  },
+  "cup": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "473176473/2000000",
+   "base_per_unit_decimal": 236.5882365
+  },
+  "fl oz": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "473176473/16000000",
+   "base_per_unit_decimal": 29.5735295625
+  },
+  "tbsp": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "473176473/32000000",
+   "base_per_unit_decimal": 14.78676478125
+  },
+  "tsp": {
+   "dimension": "volume",
+   "base_unit": "ml",
+   "base_per_unit": "157725491/32000000",
+   "base_per_unit_decimal": 4.92892159375
+  },
+  "ct": {
+   "dimension": "count",
+   "base_unit": "ct",
+   "base_per_unit": "1",
+   "base_per_unit_decimal": 1.0
+  },
+  "ea": {
+   "dimension": "count",
+   "base_unit": "ct",
+   "base_per_unit": "1",
+   "base_per_unit_decimal": 1.0
+  },
+  "dozen": {
+   "dimension": "count",
+   "base_unit": "ct",
+   "base_per_unit": "12",
+   "base_per_unit_decimal": 12.0
+  }
+ },
+ "aliases": {
+  "g": [
+   "G",
+   "g",
+   "GR",
+   "GRM",
+   "grams"
+  ],
+  "kg": [
+   "KG",
+   "kg",
+   "Kg",
+   "KGS"
+  ],
+  "mg": [
+   "MG",
+   "mg"
+  ],
+  "lb": [
+   "LB",
+   "lb",
+   "LBS",
+   "lbs",
+   "#",
+   "Lb"
+  ],
+  "oz": [
+   "OZ",
+   "oz",
+   "Oz",
+   "OZS",
+   "ounce"
+  ],
+  "ml": [
+   "ML",
+   "ml",
+   "mL",
+   "MLS"
+  ],
+  "l": [
+   "L",
+   "l",
+   "LTR",
+   "LT",
+   "liter",
+   "litre"
+  ],
+  "gal": [
+   "GAL",
+   "GA",
+   "gal",
+   "gallon"
+  ],
+  "qt": [
+   "QT",
+   "qt",
+   "quart"
+  ],
+  "pt": [
+   "PT",
+   "pt",
+   "pint"
+  ],
+  "cup": [
+   "cup",
+   "cups",
+   "C"
+  ],
+  "fl oz": [
+   "FL OZ",
+   "FLOZ",
+   "FZ",
+   "fl oz",
+   "fl. oz.",
+   "FL. OZ",
+   "oz fl"
+  ],
+  "tbsp": [
+   "tbsp",
+   "TBSP",
+   "Tbsp",
+   "T"
+  ],
+  "tsp": [
+   "tsp",
+   "TSP",
+   "t"
+  ],
+  "ct": [
+   "CT",
+   "ct",
+   "COUNT",
+   "PC",
+   "PCS"
+  ],
+  "ea": [
+   "EA",
+   "ea",
+   "EACH"
+  ],
+  "dozen": [
+   "DZ",
+   "DOZ",
+   "dozen",
+   "DOZEN"
+  ]
+ },
+ "unknown_units": [
+  "BNCH",
+  "BUNCH",
+  "BAG",
+  "BX",
+  "CAN",
+  "JAR",
+  "SLEEVE",
+  "HEAD"
+ ],
+ "sources": {
+  "lb": "international avoirdupois pound = 0.45359237 kg exactly (1959 agreement)",
+  "oz": "1/16 lb",
+  "gal": "US gallon = 231 cubic inches = 3.785411784 L exactly",
+  "fl oz": "1/128 US gallon",
+  "qt": "1/4 US gallon",
+  "pt": "1/8 US gallon",
+  "cup": "US customary cup = 1/16 US gallon (not the 240 mL nutrition-label cup)",
+  "tbsp": "1/2 US fl oz",
+  "tsp": "1/6 US fl oz",
+  "dozen": "12"
+ },
+ "stored_rule": "numeric(10,2) in supabase/migrations/0001_init.sql items.quantity; round half away from zero"
+}
