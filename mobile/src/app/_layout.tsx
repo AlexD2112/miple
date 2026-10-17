@@ -26,20 +26,30 @@ export default function RootLayout() {
     );
   }
 
+  const signedIn = !!session;
+
+  const stack = (
+    <Stack screenOptions={{ headerShown: false }}>
+      <Stack.Protected guard={signedIn}>
+        <Stack.Screen name="(tabs)" />
+        <Stack.Screen name="chef" />
+      </Stack.Protected>
+      <Stack.Protected guard={!signedIn}>
+        <Stack.Screen name="sign-in" />
+      </Stack.Protected>
+    </Stack>
+  );
+
   return (
     <SafeAreaProvider>
       <StatusBar style="dark" />
       {session ? (
         <ProfileProvider userId={session.user.id}>
           <HealthSync />
-          <Stack screenOptions={{ headerShown: false }}>
-            <Stack.Screen name="(tabs)" />
-          </Stack>
+          {stack}
         </ProfileProvider>
       ) : (
-        <Stack screenOptions={{ headerShown: false }}>
-          <Stack.Screen name="sign-in" />
-        </Stack>
+        stack
       )}
     </SafeAreaProvider>
   );
