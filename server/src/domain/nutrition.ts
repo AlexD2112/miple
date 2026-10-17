@@ -34,10 +34,13 @@ export interface NutritionMatch {
   /** The alias / item name that matched, in normalized form. */
   matched: string;
   method: "exact" | "fuzzy";
-  /** 1 for exact; 0..1 for fuzzy. Treat < 0.7 as "ask the user". */
+  /** 1 for exact; 0..1 for fuzzy. Below NUTRITION_REVIEW_THRESHOLD, ask the user. */
   confidence: number;
   normalized: string;
 }
+
+/** Matches below this confidence are returned with `needs_review: true` (ask the user to confirm). */
+export const NUTRITION_REVIEW_THRESHOLD = 0.7;
 
 const FIXTURE = fileURLToPath(new URL("../../../fixtures/nutrition.json", import.meta.url));
 
@@ -255,6 +258,7 @@ export function nutritionForItem(item: { raw_name: string; name: string }): Item
       fdc_id: r.fdc_id,
       item_name: r.item_name,
       confidence: m.confidence,
+      needs_review: m.confidence < NUTRITION_REVIEW_THRESHOLD,
       category: r.category,
       calories_kcal_100g: r.calories_kcal_100g,
       protein_g_100g: r.protein_g_100g,

@@ -1,6 +1,6 @@
 import assert from "node:assert/strict";
 import { test } from "node:test";
-import { loadNutrition, matchReceiptLine, normalizeReceiptLine } from "./nutrition.js";
+import { loadNutrition, matchReceiptLine, normalizeReceiptLine, NUTRITION_REVIEW_THRESHOLD, nutritionForItem } from "./nutrition.js";
 import { CATEGORIES } from "./schemas.js";
 
 // Realistic receipt lines (Safeway / Walmart / Costco / Trader Joe's / QFC style) -> expected nutrition.csv item.
@@ -90,4 +90,21 @@ test("fixture rows are well-formed and use repo shelf-life categories", () => {
     assert.ok(r.calories_kcal_100g !== null && r.calories_kcal_100g >= 0 && r.calories_kcal_100g <= 902);
     assert.ok(r.typical_package_size_g > 0);
   }
+});
+
+test("needs_review flags matches below NUTRITION_REVIEW_THRESHOLD", () => {
+  assert.equal(NUTRITION_REVIEW_THRESHOLD, 0.7);
+  const exact = nutritionForItem({ raw_name: "LG EGGS 12CT 4.29", name: "large eggs" });
+  assert.equal(exact?.confidence, 1);
+  assert.equal(exact?.needs_review, false);
+
+  const high = nutritionForItem({ raw_name: "CHOBANI GRK YOG PLN 32OZ 5.99", name: "" });
+  assert.equal(high?.item_name, "greek yogurt");
+  assert.ok(high!.confidence >= NUTRITION_REVIEW_THRESHOLD && high!.confidence < 1);
+  assert.equal(high?.needs_review, false);
+
+  const low = nutritionForItem({ raw_name: "CHKN SOUP THING 2.49", name: "" });
+  assert.ok(low, "expected a weak match");
+  assert.ok(low!.confidence < NUTRITION_REVIEW_THRESHOLD);
+  assert.equal(low?.needs_review, true);
 });

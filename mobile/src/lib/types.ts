@@ -86,6 +86,8 @@ export interface ItemNutrition {
   fdc_id: number;
   item_name: string;
   confidence: number;
+  /** true when confidence < 0.7 (server NUTRITION_REVIEW_THRESHOLD): ask the user to confirm. */
+  needs_review: boolean;
   category: string;
   calories_kcal_100g: number | null;
   protein_g_100g: number | null;

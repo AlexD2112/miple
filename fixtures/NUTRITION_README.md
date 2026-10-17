@@ -30,7 +30,7 @@ The build stops with an error if any description fails to match or any category 
 1. **Non-food lines return `null`**: tax, bag fee, CRV/deposit, coupon, subtotal, payment lines.
 2. **Normalize**: lowercase the line and strip prices, weights and counts (`1.52LB`, `12CT`, `3PK`), unit prices (`@ 0.59/LB`), PLU/UPC codes, store brands (GV, KS, TJ's...), and packaging/marketing words. Common abbreviations are expanded (`BNLS CHKN BRST` → `boneless chicken breast`), and plurals are made singular. Numeric tokens that appear in an alias, such as `80/20`, `93/7` or `2%`, are kept.
 3. **Exact lookup**: if the normalized line equals an item name or alias, `confidence` is 1.
-4. **Fuzzy fallback**: each alias gets a token-overlap score. Tokens match exactly, as an abbreviation (prefix, or the letters in order), or by edit distance, but a word that is already in the fixture vocabulary only matches exactly. The score weights how much of the alias is covered (0.65) above how much of the line is covered (0.35), and confidence is capped at 0.99. Lines scoring below 0.5 return `null`. Treat anything under about 0.7 as "ask the user".
+4. **Fuzzy fallback**: each alias gets a token-overlap score. Tokens match exactly, as an abbreviation (prefix, or the letters in order), or by edit distance, but a word that is already in the fixture vocabulary only matches exactly. The score weights how much of the alias is covered (0.65) above how much of the line is covered (0.35), and confidence is capped at 0.99. Lines scoring below 0.5 return `null`. In the `POST /receipts/parse` response, `nutrition.needs_review` is `true` when confidence is below `NUTRITION_REVIEW_THRESHOLD` (0.7, exported from `nutrition.ts`). Ask the user to confirm those matches.
 Tests are in `server/src/domain/nutrition.test.ts` and run with `npm test`.
 
 ## Sources
@@ -87,7 +87,7 @@ Some foods have no category of their own, so I put them in the closest key:
 
 ## Caveats
 - **Package sizes are my estimates**, not data. Liquids are converted at about 1 g/ml, except oils (0.92), maple syrup and pancake syrup (about 1.3), milk (about 1.03) and ice cream (about 0.6 by volume). Produce sold by count uses a typical unit weight, for example eggs at 50 g edible each and an avocado at 200 g.
-- **Fiber is blank only for tempeh** (SR 174272): no tempeh record in SR Legacy or Foundation has a fiber value. Three SR records that also lacked fiber borrow it from the nearest SR record: canned coconut milk ← raw coconut milk (170172, 2.2 g), trail mix ← trail mix with chocolate chips (167969, 5.0 g), balsamic vinegar ← red wine vinegar (172240, 0.0 g).
+- **Tempeh fiber is intentionally blank** (SR 174272; `fiber_g_100g` is empty in the CSV and `null` in the JSON, and `fiber_source` is empty). No tempeh record in SR Legacy or Foundation has a fiber value, and I didn't substitute another food. Treat this as unknown, not 0. Three SR records that also lacked fiber borrow it from the nearest SR record: canned coconut milk ← raw coconut milk (170172, 2.2 g), trail mix ← trail mix with chocolate chips (167969, 5.0 g), balsamic vinegar ← red wine vinegar (172240, 0.0 g).
 - **These rows are proxies, not exact matches:**
   - spring mix → butterhead lettuce
   - frozen mixed berries → frozen raspberries

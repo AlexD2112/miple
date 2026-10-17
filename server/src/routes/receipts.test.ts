@@ -73,10 +73,12 @@ test("POST /receipts/parse adds optional USDA nutrition to matched items", async
   assert.equal(chicken.nutrition.category, "raw_poultry");
   assert.ok(chicken.nutrition.protein_g_100g > 20);
   assert.ok(chicken.nutrition.confidence > 0.7);
+  assert.equal(chicken.nutrition.needs_review, false);
   assert.equal(chicken.nutrition.typical_package_size_g, 680);
 
   assert.equal(spinach.nutrition.item_name, "spinach");
   assert.equal(spinach.nutrition.confidence, 1);
+  assert.equal(spinach.nutrition.needs_review, false);
   assert.equal(spinach.estimated_expiry, "2026-10-22");
 });
 
