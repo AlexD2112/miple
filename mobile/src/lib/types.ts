@@ -77,6 +77,22 @@ export interface ParsedReceiptItem {
   price: number | null;
   purchase_date: string;
   estimated_expiry: string;
+  /** Server-matched USDA nutrition (per 100 g); absent when no confident match. */
+  nutrition?: ItemNutrition;
+}
+
+/** Mirrors server/src/domain/schemas.ts ItemNutrition. */
+export interface ItemNutrition {
+  fdc_id: number;
+  item_name: string;
+  confidence: number;
+  category: string;
+  calories_kcal_100g: number | null;
+  protein_g_100g: number | null;
+  carbs_g_100g: number | null;
+  fat_g_100g: number | null;
+  fiber_g_100g: number | null;
+  typical_package_size_g: number;
 }
 
 export interface ParsedReceipt {

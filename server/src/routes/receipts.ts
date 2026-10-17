@@ -3,7 +3,8 @@ import multer from "multer";
 import { structured, type UserPart } from "../lib/gemini.js";
 import { perceptronOcr } from "../lib/perceptron.js";
 import { getShelfLife, requireUser } from "../lib/supabase.js";
-import { CATEGORIES, ParsedReceipt } from "../domain/schemas.js";
+import { nutritionForItem } from "../domain/nutrition.js";
+import { CATEGORIES, ParsedReceipt, type ItemNutrition } from "../domain/schemas.js";
 
 const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 10 * 1024 * 1024 } });
 
@@ -46,13 +47,19 @@ receipts.post("/parse", requireUser, upload.single("image"), async (req, res) =>
     total: parsed.total,
     items: parsed.items
       .filter((i) => i.is_food)
-      .map((i) => ({
+      .map((i) => withNutrition({
         ...i,
         purchase_date: purchaseDate,
         estimated_expiry: addDays(purchaseDate, shelfLife.get(i.category) ?? 7),
       })),
   });
 });
+
+/** Adds an optional `nutrition` field (USDA macros per 100 g). Items without a match are returned unchanged. */
+export function withNutrition<T extends { raw_name: string; name: string }>(item: T): T | (T & { nutrition: ItemNutrition }) {
+  const nutrition = nutritionForItem(item);
+  return nutrition ? { ...item, nutrition } : item;
+}
 
 const today = () => new Date().toISOString().slice(0, 10);
 const isIsoDate = (s: string | null) => !!s && /^\d{4}-\d{2}-\d{2}$/.test(s) && !isNaN(Date.parse(s));

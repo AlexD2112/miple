@@ -7,7 +7,7 @@
  */
 import { readFileSync } from "node:fs";
 import { fileURLToPath } from "node:url";
-import type { CATEGORIES } from "./schemas.js";
+import type { CATEGORIES, ItemNutrition } from "./schemas.js";
 
 type Category = (typeof CATEGORIES)[number];
 
@@ -238,4 +238,32 @@ export function matchReceiptLine(raw: string, minConfidence = 0.5): NutritionMat
   if (!best || best.s < minConfidence) return null;
   const confidence = Math.round(Math.min(best.s, 0.99) * 100) / 100;
   return { row: best.k.row, matched: best.k.key, method: "fuzzy", confidence, normalized };
+}
+
+/**
+ * Nutrition for one parsed receipt item: tries the printed line and the LLM's plain-English name and keeps the
+ * more confident match. Never throws; returns null when nothing matches (or the fixture can't be loaded).
+ */
+export function nutritionForItem(item: { raw_name: string; name: string }): ItemNutrition | null {
+  try {
+    const a = matchReceiptLine(item.raw_name);
+    const b = matchReceiptLine(item.name);
+    const m = a && (!b || a.confidence >= b.confidence) ? a : b;
+    if (!m) return null;
+    const r = m.row;
+    return {
+      fdc_id: r.fdc_id,
+      item_name: r.item_name,
+      confidence: m.confidence,
+      category: r.category,
+      calories_kcal_100g: r.calories_kcal_100g,
+      protein_g_100g: r.protein_g_100g,
+      carbs_g_100g: r.carbs_g_100g,
+      fat_g_100g: r.fat_g_100g,
+      fiber_g_100g: r.fiber_g_100g,
+      typical_package_size_g: r.typical_package_size_g,
+    };
+  } catch {
+    return null;
+  }
 }
