@@ -30,12 +30,12 @@ export default function RootLayout() {
 
   const stack = (
     <Stack screenOptions={{ headerShown: false }}>
-      <Stack.Protected guard={signedIn}>
+      <Stack.Protected guard={signedIn} redirectTo="/sign-in">
         <Stack.Screen name="(tabs)" />
         <Stack.Screen name="chef" />
         <Stack.Screen name="cook" />
       </Stack.Protected>
-      <Stack.Protected guard={!signedIn}>
+      <Stack.Protected guard={!signedIn} redirectTo="/">
         <Stack.Screen name="sign-in" />
       </Stack.Protected>
     </Stack>
