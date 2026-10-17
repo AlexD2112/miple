@@ -39,6 +39,18 @@ function normalize(node: unknown): unknown {
   return out;
 }
 
+/** Plain-text generation. Used when a caller needs the model's own words, not a schema. */
+export async function generateText(opts: { system: string; content: string | UserPart[] }): Promise<string> {
+  const parts: Part[] = typeof opts.content === "string" ? [{ text: opts.content }] : opts.content;
+  const response = await gemini.models.generateContent({
+    model: env.model,
+    contents: [{ role: "user", parts }],
+    config: { systemInstruction: opts.system, temperature: 0.4, maxOutputTokens: 2048 },
+  });
+  if (!response.text) throw new Error("model returned no output");
+  return response.text;
+}
+
 /**
  * One structured-output call. Returns the parsed, schema-validated object or throws.
  */
