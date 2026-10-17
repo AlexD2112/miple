@@ -1,0 +1,482 @@
+# item_name ; aliases ; source:exact FDC description (F=Foundation, S=SR Legacy) ; category ; package_g ; package_desc
+## ---- fruit ----
+apple ; apples|apl|red apple ; S:Apples, raw, with skin (Includes foods for USDA's Food Distribution Program) ; fresh_fruit ; 1361 ; 3 lb bag
+gala apple ; gala|gala apples|apple gala ; F:Apples, gala, with skin, raw ; fresh_fruit ; 1361 ; 3 lb bag
+fuji apple ; fuji|fuji apples ; F:Apples, fuji, with skin, raw ; fresh_fruit ; 1361 ; 3 lb bag
+honeycrisp apple ; honeycrisp|honeycrisp apples ; F:Apples, honeycrisp, with skin, raw ; fresh_fruit ; 1361 ; 3 lb bag
+granny smith apple ; granny smith|green apple ; F:Apples, granny smith, with skin, raw ; fresh_fruit ; 1361 ; 3 lb bag
+banana ; bananas|banana yellow|org bananas|bnna ; F:Bananas, ripe and slightly ripe, raw ; fresh_fruit ; 1100 ; 1 bunch (~6 bananas)
+orange ; oranges|navel orange|navel oranges ; F:Oranges, raw, navels ; fresh_fruit ; 1814 ; 4 lb bag
+mandarin ; clementine|clementines|cuties|halos|mandarins ; F:Mandarin, seedless, peeled, raw ; fresh_fruit ; 1361 ; 3 lb bag
+lemon ; lemons ; S:Lemons, raw, without peel ; fresh_fruit ; 907 ; 2 lb bag
+lime ; limes ; S:Limes, raw ; fresh_fruit ; 907 ; 2 lb bag
+grapefruit ; grapefruits|ruby red grapefruit ; S:Grapefruit, raw, pink and red, all areas ; fresh_fruit ; 1361 ; 3 lb bag
+red grapes ; grapes|red seedless grapes|grapes red ; F:Grapes, red, seedless, raw ; fresh_fruit ; 907 ; 2 lb bag
+green grapes ; green seedless grapes|white grapes|grapes green ; F:Grapes, green, seedless, raw ; fresh_fruit ; 907 ; 2 lb bag
+strawberries ; strawberry|strawberries 1lb|strawb ; F:Strawberries, raw ; berries ; 454 ; 1 lb clamshell
+blueberries ; blueberry|blueberries pint|bluebry ; F:Blueberries, raw ; berries ; 510 ; 18 oz clamshell
+raspberries ; raspberry|rasp ; F:Raspberries, raw ; berries ; 170 ; 6 oz clamshell
+blackberries ; blackberry ; S:Blackberries, raw ; berries ; 170 ; 6 oz clamshell
+cranberries ; fresh cranberries ; S:Cranberries, raw ; berries ; 340 ; 12 oz bag
+avocado ; avocados|hass avocado|avocado hass|avo ; F:Avocado, Hass, peeled, raw ; fresh_fruit ; 200 ; 1 each
+pineapple ; pineapples|whole pineapple ; F:Pineapple, raw ; fresh_fruit ; 1600 ; 1 each (whole)
+mango ; mangos|mangoes ; F:Mango, Tommy Atkins, peeled, raw ; fresh_fruit ; 340 ; 1 each
+watermelon ; seedless watermelon|watermelon whole ; S:Watermelon, raw ; fresh_fruit ; 5400 ; 1 each (whole, ~12 lb)
+cantaloupe ; cantaloupes|muskmelon ; F:Melons, cantaloupe, raw ; fresh_fruit ; 1400 ; 1 each
+honeydew ; honeydew melon ; F:Melons, honeydew, raw ; fresh_fruit ; 2300 ; 1 each
+peach ; peaches|yellow peach ; F:Peaches, yellow, raw ; fresh_fruit ; 907 ; 2 lb
+nectarine ; nectarines ; F:Nectarines, raw ; fresh_fruit ; 907 ; 2 lb
+pear ; pears|bartlett pear ; F:Pears, raw, bartlett ; fresh_fruit ; 907 ; 2 lb
+plum ; plums|black plum ; F:Plum, black, with skin, raw ; fresh_fruit ; 907 ; 2 lb
+cherries ; cherry|sweet cherries|bing cherries ; F:Cherries, sweet, dark red, raw ; fresh_fruit ; 454 ; 1 lb bag
+kiwi ; kiwis|kiwifruit ; F:Kiwifruit (kiwi), green, peeled, raw ; fresh_fruit ; 454 ; 1 lb clamshell
+apricot ; apricots ; F:Apricot, with skin, raw ; fresh_fruit ; 454 ; 1 lb
+pomegranate ; pomegranates ; S:Pomegranates, raw ; fresh_fruit ; 280 ; 1 each
+papaya ; papayas ; S:Papayas, raw ; fresh_fruit ; 1000 ; 1 each
+plantain ; plantains ; F:Plantains, ripe, raw ; fresh_fruit ; 300 ; 1 each
+## ---- leafy greens ----
+spinach ; fresh spinach|spinach bunch|spnch ; F:Spinach, mature ; leafy_greens ; 283 ; 10 oz bag
+baby spinach ; org baby spinach|spinach baby|bby spnch ; F:Spinach, baby ; leafy_greens ; 142 ; 5 oz clamshell
+romaine ; romaine lettuce|romaine hearts|hearts of romaine ; F:Lettuce, romaine, green, raw ; leafy_greens ; 567 ; 3-pack hearts (~20 oz)
+iceberg lettuce ; iceberg|lettuce iceberg ; F:Lettuce, iceberg, raw ; leafy_greens ; 600 ; 1 head
+green leaf lettuce ; green leaf|leaf lettuce|lettuce ; F:Lettuce, leaf, green, raw ; leafy_greens ; 300 ; 1 head
+red leaf lettuce ; red leaf ; F:Lettuce, leaf, red, raw ; leafy_greens ; 300 ; 1 head
+spring mix ; mixed greens|salad mix|baby greens|mesclun ; S:Lettuce, butterhead (includes boston and bibb types), raw ; leafy_greens ; 142 ; 5 oz clamshell
+arugula ; baby arugula|rocket ; F:Arugula, baby, raw ; leafy_greens ; 142 ; 5 oz clamshell
+kale ; kale bunch|curly kale|lacinato kale|tuscan kale ; F:Kale, raw ; leafy_greens ; 283 ; 10 oz bag
+collard greens ; collards ; F:Collards, raw ; leafy_greens ; 454 ; 1 lb bag
+bok choy ; baby bok choy|pak choi ; F:Cabbage, bok choy, raw ; leafy_greens ; 454 ; 1 lb
+swiss chard ; chard|rainbow chard ; S:Chard, swiss, raw ; leafy_greens ; 350 ; 1 bunch
+## ---- vegetables ----
+broccoli ; broccoli crowns|broccoli florets|brocc ; F:Broccoli, raw ; fresh_vegetables ; 454 ; 1 lb crowns
+cauliflower ; cauliflower head|cauli ; F:Cauliflower, raw ; fresh_vegetables ; 840 ; 1 head
+brussels sprouts ; brussel sprouts|brussels ; F:Brussels sprouts, raw ; fresh_vegetables ; 454 ; 1 lb bag
+asparagus ; asparagus bunch|aspar ; F:Asparagus, green, raw ; fresh_vegetables ; 454 ; 1 lb bunch
+green beans ; string beans|haricots verts|snap beans ; F:Beans, snap, green, raw ; fresh_vegetables ; 340 ; 12 oz bag
+snap peas ; sugar snap peas|snow peas ; S:Peas, edible-podded, raw ; fresh_vegetables ; 227 ; 8 oz bag
+celery ; celery stalks|celery hearts ; F:Celery, raw ; fresh_vegetables ; 454 ; 1 bunch
+cucumber ; cucumbers|english cucumber|cuke ; F:Cucumber, with peel, raw ; fresh_vegetables ; 300 ; 1 each
+zucchini ; zucchini squash|green squash ; F:Squash, summer, green, zucchini, includes skin, raw ; fresh_vegetables ; 454 ; 1 lb (~2 each)
+yellow squash ; summer squash ; F:Squash, summer, yellow, includes skin, raw ; fresh_vegetables ; 454 ; 1 lb (~2 each)
+green bell pepper ; green pepper|bell pepper green ; F:Peppers, bell, green, raw ; fresh_vegetables ; 170 ; 1 each
+red bell pepper ; red pepper|bell pepper red|bell pepper ; F:Peppers, bell, red, raw ; fresh_vegetables ; 170 ; 1 each
+yellow bell pepper ; yellow pepper ; F:Peppers, bell, yellow, raw ; fresh_vegetables ; 170 ; 1 each
+orange bell pepper ; orange pepper ; F:Peppers, bell, orange, raw ; fresh_vegetables ; 170 ; 1 each
+jalapeno ; jalapenos|jalapeno pepper ; F:Peppers, jalapeno, seeded, raw ; fresh_vegetables ; 15 ; 1 each
+poblano ; poblano pepper|poblanos ; F:Peppers, poblano, seeded, raw ; fresh_vegetables ; 120 ; 1 each
+serrano ; serrano pepper|serranos ; F:Peppers, serrano, seeded, raw ; fresh_vegetables ; 10 ; 1 each
+tomato ; tomatoes|tomatoes on the vine|vine tomatoes|beefsteak tomato ; S:Tomatoes, red, ripe, raw, year round average ; fresh_vegetables ; 454 ; 1 lb
+roma tomato ; roma tomatoes|plum tomatoes ; F:Tomato, roma ; fresh_vegetables ; 454 ; 1 lb
+grape tomatoes ; cherry tomatoes|grape tomato|tomatoes grape ; F:Tomatoes, grape, raw ; fresh_vegetables ; 283 ; 10 oz pint
+white mushrooms ; mushrooms|button mushrooms|white button mushrooms|mush ; F:Mushrooms, white button ; fresh_vegetables ; 227 ; 8 oz package
+cremini mushrooms ; baby bella|crimini|baby bella mushrooms ; F:Mushroom, crimini ; fresh_vegetables ; 227 ; 8 oz package
+portabella mushrooms ; portobello|portabella caps ; F:Mushroom, portabella ; fresh_vegetables ; 170 ; 6 oz package (2 caps)
+shiitake mushrooms ; shiitake ; F:Mushrooms, shiitake ; fresh_vegetables ; 100 ; 3.5 oz package
+oyster mushrooms ; oyster mushroom ; F:Mushroom, oyster ; fresh_vegetables ; 100 ; 3.5 oz package
+eggplant ; eggplants|aubergine ; F:Eggplant, raw ; fresh_vegetables ; 450 ; 1 each
+corn on the cob ; sweet corn|corn|ears of corn ; F:Corn, sweet, yellow and white kernels,  fresh, raw ; fresh_vegetables ; 200 ; 1 ear (husked kernels+cob ~200 g)
+green onions ; scallions|green onion|spring onions ; S:Onions, spring or scallions (includes tops and bulb), raw ; fresh_vegetables ; 100 ; 1 bunch
+leeks ; leek ; S:Leeks, (bulb and lower leaf-portion), raw ; fresh_vegetables ; 450 ; 2-3 each
+cabbage ; green cabbage|cabbage head ; F:Cabbage, green, raw ; fresh_vegetables ; 900 ; 1 head
+red cabbage ; purple cabbage ; F:Cabbage, red, raw ; fresh_vegetables ; 900 ; 1 head
+napa cabbage ; chinese cabbage|napa ; S:Cabbage, chinese (pe-tsai), raw ; fresh_vegetables ; 900 ; 1 head
+coleslaw mix ; shredded cabbage|slaw mix ; S:Cabbage, raw ; fresh_vegetables ; 397 ; 14 oz bag
+fennel ; fennel bulb ; F:Fennel, bulb, raw ; fresh_vegetables ; 250 ; 1 bulb
+artichoke ; artichokes ; S:Artichokes, (globe or french), raw ; fresh_vegetables ; 300 ; 1 each
+okra ; fresh okra ; S:Okra, raw ; fresh_vegetables ; 454 ; 1 lb
+bean sprouts ; mung bean sprouts ; S:Mung beans, mature seeds, sprouted, raw ; fresh_vegetables ; 340 ; 12 oz bag
+tomatillos ; tomatillo ; S:Tomatillos, raw ; fresh_vegetables ; 454 ; 1 lb
+radishes ; radish|red radishes ; F:Radishes, red, raw ; root_vegetables ; 454 ; 1 lb bag
+## ---- root / long-keeping veg ----
+russet potatoes ; potatoes|russet|baking potato|potato ; F:Potatoes, russet, without skin, raw ; root_vegetables ; 2268 ; 5 lb bag
+red potatoes ; red potato ; F:Potatoes, red, without skin, raw ; root_vegetables ; 1361 ; 3 lb bag
+yukon gold potatoes ; gold potatoes|yukon gold|yellow potatoes ; F:Potatoes, gold, without skin, raw ; root_vegetables ; 1361 ; 3 lb bag
+sweet potato ; sweet potatoes|yams|yam ; F:Sweet potatoes, orange flesh, without skin, raw ; root_vegetables ; 454 ; 1 lb (~2 each)
+carrots ; carrot|carrots 2lb|whole carrots ; F:Carrots, mature, raw ; root_vegetables ; 907 ; 2 lb bag
+baby carrots ; carrots baby|mini carrots ; F:Carrots, baby, raw ; root_vegetables ; 454 ; 1 lb bag
+yellow onion ; onion|onions|yellow onions|sweet onion ; F:Onions, yellow, raw ; root_vegetables ; 1361 ; 3 lb bag
+red onion ; red onions|purple onion ; F:Onions, red, raw ; root_vegetables ; 454 ; 1 lb (~2 each)
+white onion ; white onions ; F:Onions, white, raw ; root_vegetables ; 454 ; 1 lb (~2 each)
+garlic ; garlic bulb|garlic head|fresh garlic ; F:Garlic, raw ; root_vegetables ; 227 ; 3-pack bulbs (~8 oz)
+shallots ; shallot ; S:Shallots, raw ; root_vegetables ; 227 ; 8 oz bag
+ginger ; ginger root|fresh ginger ; S:Ginger root, raw ; root_vegetables ; 113 ; 4 oz piece
+beets ; beet|red beets ; F:Beets, raw ; root_vegetables ; 680 ; 1 bunch (~3)
+parsnips ; parsnip ; F:Parsnips, raw ; root_vegetables ; 454 ; 1 lb bag
+turnips ; turnip ; F:Turnips, raw ; root_vegetables ; 454 ; 1 lb
+jicama ; jicama root ; S:Yambean (jicama), raw ; root_vegetables ; 600 ; 1 each
+butternut squash ; butternut ; F:Squash, winter, butternut, raw ; root_vegetables ; 1100 ; 1 each
+acorn squash ; acorn ; F:Squash, winter, acorn, raw ; root_vegetables ; 700 ; 1 each
+spaghetti squash ; spaghetti squash whole ; S:Squash, winter, spaghetti, raw ; root_vegetables ; 1400 ; 1 each
+## ---- herbs ----
+cilantro ; coriander leaves|cilantro bunch ; S:Coriander (cilantro) leaves, raw ; herbs ; 60 ; 1 bunch
+parsley ; italian parsley|flat leaf parsley|curly parsley ; S:Parsley, fresh ; herbs ; 60 ; 1 bunch
+basil ; fresh basil|sweet basil ; S:Basil, fresh ; herbs ; 21 ; 0.75 oz clamshell
+mint ; fresh mint|spearmint ; S:Spearmint, fresh ; herbs ; 21 ; 0.75 oz clamshell
+dill ; fresh dill|dill weed ; S:Dill weed, fresh ; herbs ; 21 ; 0.75 oz clamshell
+rosemary ; fresh rosemary ; S:Rosemary, fresh ; herbs ; 21 ; 0.75 oz clamshell
+thyme ; fresh thyme ; S:Thyme, fresh ; herbs ; 21 ; 0.75 oz clamshell
+chives ; fresh chives ; S:Chives, raw ; herbs ; 21 ; 0.75 oz clamshell
+## ---- milk / cream / plant milks ----
+whole milk ; milk|milk whole|vitamin d milk|gal milk ; F:Milk, whole, 3.25% milkfat, with added vitamin D ; dairy_milk ; 3900 ; 1 gallon
+2% milk ; reduced fat milk|milk 2%|2 percent milk ; F:Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D ; dairy_milk ; 3900 ; 1 gallon
+1% milk ; lowfat milk|milk 1% ; F:Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D ; dairy_milk ; 3900 ; 1 gallon
+skim milk ; fat free milk|nonfat milk|milk skim ; F:Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim) ; dairy_milk ; 3900 ; 1 gallon
+buttermilk ; lowfat buttermilk ; F:Buttermilk, low fat ; dairy_milk ; 946 ; 1 quart
+heavy cream ; heavy whipping cream|whipping cream|hvy cream ; F:Cream, heavy ; dairy_milk ; 473 ; 1 pint
+half and half ; half & half|half n half ; S:Cream, fluid, half and half ; dairy_milk ; 946 ; 1 quart
+coffee creamer ; creamer|liquid creamer|flavored creamer ; S:Cream substitute, flavored, liquid ; dairy_milk ; 946 ; 32 oz bottle
+whipped cream ; reddi wip|whipped topping can ; S:Cream, whipped, cream topping, pressurized ; dairy_milk ; 184 ; 6.5 oz can
+kefir ; plain kefir ; S:Kefir, lowfat, plain, LIFEWAY ; dairy_milk ; 946 ; 32 oz bottle
+almond milk ; almondmilk|unsweetened almond milk|almond milk unsweet ; F:Almond milk, unsweetened, plain, refrigerated ; dairy_milk ; 1890 ; half gallon
+oat milk ; oatmilk|oatly ; F:Oat milk, unsweetened, plain, refrigerated ; dairy_milk ; 1890 ; half gallon
+soy milk ; soymilk ; F:Soy milk, sweetened, plain, refrigerated ; dairy_milk ; 1890 ; half gallon
+## ---- butter / cheese ----
+butter ; salted butter|butter salted|butter sticks|bttr ; S:Butter, salted ; dairy_cheese ; 454 ; 1 lb (4 sticks)
+unsalted butter ; butter unsalted|sweet cream butter unsalted ; S:Butter, without salt ; dairy_cheese ; 454 ; 1 lb (4 sticks)
+cheddar cheese ; cheddar|sharp cheddar|mild cheddar|shredded cheddar|chdr ; F:Cheese, cheddar ; dairy_cheese ; 227 ; 8 oz block/bag
+mozzarella ; shredded mozzarella|mozzarella cheese|low moisture mozzarella|string cheese|mozz ; F:Cheese, mozzarella, low moisture, part-skim ; dairy_cheese ; 227 ; 8 oz bag
+fresh mozzarella ; mozzarella ball|buffalo mozzarella|burrata ; S:Cheese, mozzarella, whole milk ; dairy_cheese ; 227 ; 8 oz ball
+parmesan ; parmesan cheese|grated parmesan|parmigiano|parm ; F:Cheese, parmesan, grated ; dairy_cheese ; 142 ; 5 oz container
+swiss cheese ; swiss|sliced swiss ; F:Cheese, swiss ; dairy_cheese ; 227 ; 8 oz package
+provolone ; provolone cheese|sliced provolone ; F:Cheese, provolone, sliced ; dairy_cheese ; 227 ; 8 oz package
+monterey jack ; jack cheese|pepper jack|monterey jack cheese ; F:Cheese, monterey jack, solid ; dairy_cheese ; 227 ; 8 oz block
+colby jack ; colby|colby jack cheese ; S:Cheese, colby ; dairy_cheese ; 227 ; 8 oz block
+american cheese ; american singles|cheese singles|kraft singles ; F:Cheese, pasteurized process cheese food or product, American, singles ; dairy_cheese ; 340 ; 12 oz (16 slices)
+feta ; feta cheese|crumbled feta ; F:Cheese, feta, whole milk, crumbled ; dairy_cheese ; 170 ; 6 oz container
+goat cheese ; chevre ; S:Cheese, goat, soft type ; dairy_cheese ; 113 ; 4 oz log
+ricotta ; ricotta cheese|whole milk ricotta ; F:Cheese, ricotta, whole milk ; dairy_cheese ; 425 ; 15 oz container
+cottage cheese ; cottage cheese 4%|small curd cottage cheese ; F:Cottage cheese, full fat, large or small curd ; dairy_cheese ; 454 ; 16 oz container
+lowfat cottage cheese ; cottage cheese 2%|low fat cottage cheese ; F:Cheese, cottage, lowfat, 2% milkfat ; dairy_cheese ; 454 ; 16 oz container
+cream cheese ; philadelphia|cream cheese block|crm chs ; F:Cream cheese, full fat, block ; dairy_cheese ; 227 ; 8 oz block
+brie ; brie cheese ; S:Cheese, brie ; dairy_cheese ; 227 ; 8 oz wheel
+gouda ; gouda cheese|smoked gouda ; S:Cheese, gouda ; dairy_cheese ; 198 ; 7 oz wedge
+blue cheese ; bleu cheese|gorgonzola|blue cheese crumbles ; S:Cheese, blue ; dairy_cheese ; 142 ; 5 oz container
+queso fresco ; queso fresco cheese ; F:Cheese, queso fresco, solid ; dairy_cheese ; 283 ; 10 oz round
+cotija ; cotija cheese ; F:Cheese, cotija, solid ; dairy_cheese ; 283 ; 10 oz wedge
+## ---- yogurt / sour cream ----
+plain yogurt ; yogurt|whole milk yogurt|plain whole milk yogurt ; F:Yogurt, plain, whole milk ; yogurt ; 907 ; 32 oz tub
+nonfat yogurt ; plain nonfat yogurt|fat free yogurt ; F:Yogurt, plain, nonfat ; yogurt ; 907 ; 32 oz tub
+greek yogurt ; nonfat greek yogurt|greek yogurt plain|fage 0%|chobani plain ; F:Yogurt, Greek, plain, nonfat ; yogurt ; 907 ; 32 oz tub
+whole milk greek yogurt ; greek yogurt whole|fage total ; F:Yogurt, Greek, plain, whole milk ; yogurt ; 907 ; 32 oz tub
+vanilla yogurt ; yogurt vanilla ; S:Yogurt, vanilla, low fat, fortified with vitamin D ; yogurt ; 907 ; 32 oz tub
+fruit yogurt ; strawberry yogurt|yogurt cup|flavored yogurt ; S:Yogurt, fruit, low fat, 10 grams protein per 8 ounce ; yogurt ; 150 ; 5.3 oz cup
+sour cream ; sour crm|sour cream full fat ; F:Cream, sour, full fat ; yogurt ; 454 ; 16 oz tub
+## ---- eggs ----
+eggs ; large eggs|egg|eggs dozen|grade a large eggs|brown eggs|lg eggs ; F:Eggs, Grade A, Large, egg whole ; eggs ; 600 ; 12 eggs (dozen, large, edible portion)
+egg whites ; liquid egg whites|egg white ; S:Egg, white, raw, fresh ; eggs ; 454 ; 16 oz carton
+## ---- tofu / plant protein ----
+firm tofu ; tofu|extra firm tofu|tofu firm ; S:Tofu, raw, firm, prepared with calcium sulfate ; tofu ; 397 ; 14 oz block
+silken tofu ; soft tofu ; S:Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari) ; tofu ; 340 ; 12 oz package
+tempeh ; tempeh block ; S:Tempeh ; tofu ; 227 ; 8 oz package
+## ---- poultry ----
+chicken breast ; boneless skinless chicken breast|chicken breasts|bnls chkn brst|chicken tenders|chicken tenderloins ; F:Chicken, breast, boneless, skinless, raw ; raw_poultry ; 680 ; 1.5 lb tray
+bone-in chicken breast ; split chicken breast|chicken breast bone in ; F:Chicken, breast, meat and skin, raw ; raw_poultry ; 1134 ; 2.5 lb tray
+chicken thighs ; boneless chicken thighs|boneless skinless chicken thighs|chkn thigh ; F:Chicken, thigh, boneless, skinless, raw ; raw_poultry ; 680 ; 1.5 lb tray
+bone-in chicken thighs ; chicken thighs bone in skin on ; F:Chicken, thigh, meat and skin, raw ; raw_poultry ; 1134 ; 2.5 lb tray
+chicken drumsticks ; drumsticks|chicken legs ; F:Chicken, drumstick, meat and skin, raw ; raw_poultry ; 1134 ; 2.5 lb tray
+chicken wings ; wings|party wings ; F:Chicken, wing, meat and skin, raw ; raw_poultry ; 907 ; 2 lb tray
+whole chicken ; whole fryer|fryer chicken|roaster ; S:Chicken, broilers or fryers, meat and skin, raw ; raw_poultry ; 1814 ; 1 each (~4 lb)
+ground chicken ; chicken ground ; F:Chicken, ground, with additives, raw ; raw_poultry ; 454 ; 1 lb package
+ground turkey ; turkey ground|ground turkey 93/7|93% lean ground turkey ; F:Turkey, ground, 93% lean/ 7% fat, raw ; raw_poultry ; 454 ; 1 lb package
+turkey breast ; turkey breast tenderloin|turkey cutlets ; S:Turkey, retail parts, breast, meat only, raw ; raw_poultry ; 680 ; 1.5 lb package
+## ---- red meat / pork ----
+ground beef 80/20 ; ground beef|ground chuck|hamburger|80% lean ground beef|grnd beef ; F:Beef, ground, 80% lean meat / 20% fat, raw ; raw_meat ; 454 ; 1 lb package
+ground beef 85/15 ; 85% lean ground beef|ground round ; S:Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program) ; raw_meat ; 454 ; 1 lb package
+ground beef 90/10 ; 90% lean ground beef|ground sirloin|lean ground beef ; F:Beef, ground, 90% lean meat / 10% fat, raw ; raw_meat ; 454 ; 1 lb package
+ground beef 93/7 ; 93% lean ground beef|extra lean ground beef ; S:Beef, ground, 93% lean meat / 7% fat, raw ; raw_meat ; 454 ; 1 lb package
+ribeye steak ; ribeye|rib eye|ribeye steak boneless ; F:Beef, ribeye, steak, boneless, choice, raw ; raw_meat ; 454 ; 1 lb (1 steak)
+new york strip ; ny strip|strip steak|new york strip steak ; F:Beef, short loin (NY strip steak), raw ; raw_meat ; 400 ; 1 steak (~14 oz)
+sirloin steak ; top sirloin|sirloin ; F:Beef, top sirloin steak, raw ; raw_meat ; 454 ; 1 lb package
+filet mignon ; beef tenderloin|tenderloin steak ; F:Beef, tenderloin steak, raw ; raw_meat ; 227 ; 2 steaks (~8 oz)
+flank steak ; flank ; F:Beef, flank, steak, boneless, choice, raw ; raw_meat ; 680 ; 1.5 lb
+chuck roast ; beef chuck roast|pot roast|beef stew meat|stew meat ; F:Beef, chuck, roast, boneless, choice, raw ; raw_meat ; 1134 ; 2.5 lb roast
+top round ; london broil|top round steak|round steak ; F:Beef, round, top round, boneless, choice, raw ; raw_meat ; 680 ; 1.5 lb
+beef brisket ; brisket ; S:Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0" fat, all grades, raw ; raw_meat ; 1361 ; 3 lb flat
+pork chops ; pork chop|center cut pork chops|boneless pork chops ; F:Pork, chop, center cut, raw ; raw_meat ; 680 ; 1.5 lb tray
+pork tenderloin ; pork tndrln ; F:Pork, loin, tenderloin, boneless, raw ; raw_meat ; 567 ; 1.25 lb package
+pork loin ; pork loin roast|boneless pork loin ; F:Pork, loin, boneless, raw ; raw_meat ; 1361 ; 3 lb roast
+pork shoulder ; pork butt|boston butt|pork shoulder roast ; S:Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, raw ; raw_meat ; 1814 ; 4 lb roast
+ground pork ; pork ground ; F:Pork, ground, raw ; raw_meat ; 454 ; 1 lb package
+pork belly ; pork belly slab ; F:Pork, belly, with skin, raw ; raw_meat ; 680 ; 1.5 lb
+baby back ribs ; pork ribs|back ribs ; S:Pork, fresh, backribs, separable lean and fat, raw ; raw_meat ; 1134 ; 1 rack (~2.5 lb)
+spare ribs ; pork spare ribs|st louis ribs ; S:Pork, fresh, spareribs, separable lean and fat, raw ; raw_meat ; 1361 ; 1 rack (~3 lb)
+bacon ; thick cut bacon|sliced bacon|hickory smoked bacon ; S:Pork, cured, bacon, unprepared ; raw_meat ; 340 ; 12 oz package
+breakfast sausage ; pork sausage|sausage links|sausage patties|jimmy dean ; S:Pork sausage, link/patty, unprepared ; raw_meat ; 340 ; 12 oz package
+italian sausage ; sweet italian sausage|hot italian sausage|mild italian sausage ; S:Sausage, Italian, pork, mild, raw ; raw_meat ; 539 ; 19 oz package (5 links)
+turkey sausage ; turkey breakfast sausage ; F:Sausage, turkey, breakfast links, mild, raw ; raw_meat ; 340 ; 12 oz package
+chorizo ; pork chorizo|mexican chorizo ; S:Sausage, pork, chorizo, link or ground, raw ; raw_meat ; 255 ; 9 oz package
+lamb chops ; lamb loin chops ; S:Lamb, loin, separable lean and fat, trimmed to 1/8" fat, choice, raw ; raw_meat ; 454 ; 1 lb package
+ground lamb ; lamb ground ; F:Lamb, ground, raw ; raw_meat ; 454 ; 1 lb package
+ground bison ; bison|buffalo ground ; F:Bison, ground, raw ; raw_meat ; 454 ; 1 lb package
+## ---- seafood ----
+salmon ; atlantic salmon|salmon fillet|farmed salmon|salmon filet ; F:Fish, salmon, Atlantic, farm raised, raw ; raw_seafood ; 454 ; 1 lb fillet
+sockeye salmon ; wild salmon|wild sockeye ; F:Fish, salmon, sockeye, wild caught, raw ; raw_seafood ; 454 ; 1 lb fillet
+cod ; cod fillet|atlantic cod ; F:Fish, cod, Atlantic, wild caught, raw ; raw_seafood ; 454 ; 1 lb
+tilapia ; tilapia fillets ; F:Fish, tilapia, farm raised, raw ; raw_seafood ; 454 ; 1 lb
+shrimp ; raw shrimp|jumbo shrimp|large shrimp|prawns|shrimp peeled deveined ; F:Crustaceans, shrimp, farm raised, raw ; raw_seafood ; 454 ; 1 lb bag
+catfish ; catfish fillets ; F:Fish, catfish, farm raised, raw ; raw_seafood ; 454 ; 1 lb
+haddock ; haddock fillet ; F:Fish, haddock, raw ; raw_seafood ; 454 ; 1 lb
+pollock ; alaska pollock|pollock fillets ; F:Fish, pollock, raw ; raw_seafood ; 454 ; 1 lb
+halibut ; halibut fillet ; F:Halibut, frozen, wild caught ; raw_seafood ; 454 ; 1 lb
+tuna steak ; ahi tuna|yellowfin tuna|ahi ; F:Tuna, ahi or yellowfin, frozen, wild caught ; raw_seafood ; 340 ; 12 oz (2 steaks)
+mahi mahi ; mahi|mahi mahi fillets ; F:Mahi mahi, frozen, wild caught ; raw_seafood ; 454 ; 1 lb
+trout ; rainbow trout ; S:Fish, trout, rainbow, farmed, raw ; raw_seafood ; 454 ; 1 lb
+swordfish ; swordfish steak ; F:Swordfish, frozen, wild caught ; raw_seafood ; 454 ; 1 lb
+sea bass ; chilean sea bass ; F:Sea bass, Chilean, frozen, wild caught ; raw_seafood ; 340 ; 12 oz
+sea scallops ; scallops|bay scallops ; F:Scallops, sea, frozen, wild caught ; raw_seafood ; 454 ; 1 lb
+crab meat ; lump crab|crabmeat|lump crab meat ; F:Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated ; raw_seafood ; 227 ; 8 oz container
+lobster tail ; lobster tails|lobster ; F:Lobster, tail only, frozen, wild caught ; raw_seafood ; 170 ; 2 tails (~6 oz)
+snow crab legs ; crab legs ; F:Snow crab, legs only, frozen   ; raw_seafood ; 907 ; 2 lb clusters
+mussels ; blue mussels ; S:Mollusks, mussel, blue, raw ; raw_seafood ; 907 ; 2 lb bag
+clams ; littleneck clams|fresh clams ; S:Mollusks, clam, mixed species, raw ; raw_seafood ; 907 ; 2 lb bag
+oysters ; fresh oysters ; S:Mollusks, oyster, eastern, wild, raw ; raw_seafood ; 340 ; 12 each
+calamari ; squid ; F:Squid (calamari), frozen, tubes only ; raw_seafood ; 454 ; 1 lb
+## ---- deli / ready-to-eat ----
+deli turkey ; sliced turkey|turkey breast deli|oven roasted turkey|turkey lunchmeat ; S:Turkey breast, sliced, prepackaged ; deli_meat ; 255 ; 9 oz package
+deli ham ; sliced ham|ham lunchmeat|honey ham|black forest ham ; F:Ham, sliced, pre-packaged, deli meat (96%fat free, water added) ; deli_meat ; 255 ; 9 oz package
+deli chicken ; sliced chicken breast|chicken lunchmeat ; S:Chicken breast, deli, rotisserie seasoned, sliced, prepackaged ; deli_meat ; 255 ; 9 oz package
+roast beef ; deli roast beef|sliced roast beef ; S:Roast beef, deli style, prepackaged, sliced ; deli_meat ; 255 ; 9 oz package
+salami ; genoa salami|hard salami ; S:Salami, Italian, pork ; deli_meat ; 113 ; 4 oz package
+pepperoni ; sliced pepperoni ; S:Pepperoni, beef and pork, sliced ; deli_meat ; 170 ; 6 oz package
+bologna ; bologna sliced ; S:Bologna, beef and pork ; deli_meat ; 454 ; 16 oz package
+hot dogs ; franks|beef franks|hot dog|frankfurters ; F:Frankfurter, beef, unheated ; deli_meat ; 425 ; 15 oz package (8 franks)
+smoked sausage ; kielbasa|polish sausage ; S:Sausage, Polish, beef with chicken, hot ; deli_meat ; 397 ; 14 oz rope
+smoked salmon ; lox|nova lox ; S:Fish, salmon, chinook, smoked ; deli_meat ; 113 ; 4 oz package
+rotisserie chicken ; roasted chicken|rotis chicken ; S:Chicken, broilers or fryers, meat and skin, cooked, roasted ; cooked_leftovers ; 900 ; 1 each (~2 lb)
+hummus ; classic hummus|sabra hummus ; F:Hummus, commercial ; other ; 283 ; 10 oz tub
+## ---- bread / bakery ----
+white bread ; bread|sandwich bread|wonder bread|white sandwich bread ; S:Bread, white, commercially prepared (includes soft bread crumbs) ; bread ; 567 ; 20 oz loaf
+whole wheat bread ; wheat bread|100% whole wheat bread|whl wht bread ; S:Bread, whole-wheat, commercially prepared ; bread ; 567 ; 20 oz loaf
+multigrain bread ; multi grain bread|12 grain bread ; S:Bread, multi-grain (includes whole-grain) ; bread ; 680 ; 24 oz loaf
+sourdough bread ; sourdough|french bread|baguette ; S:Bread, french or vienna (includes sourdough) ; bread ; 454 ; 1 lb loaf
+rye bread ; rye|jewish rye ; S:Bread, rye ; bread ; 454 ; 16 oz loaf
+bagels ; bagel|plain bagels ; S:Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame) ; bread ; 567 ; 6-pack (~20 oz)
+english muffins ; english muffin ; S:Muffins, English, plain, enriched, with ca prop (includes sourdough) ; bread ; 340 ; 6-pack (12 oz)
+hamburger buns ; burger buns|hot dog buns|buns ; S:Rolls, hamburger or hotdog, plain ; bread ; 340 ; 8-pack (12 oz)
+dinner rolls ; rolls|hawaiian rolls ; S:Rolls, dinner, plain, commercially prepared (includes brown-and-serve) ; bread ; 340 ; 12-pack (12 oz)
+croissants ; croissant|butter croissants ; S:Croissants, butter ; bread ; 340 ; 6-pack (12 oz)
+pita bread ; pita|pitas ; S:Bread, pita, white, enriched ; bread ; 340 ; 6-pack (12 oz)
+naan ; naan bread ; S:Bread, naan, plain, commercially prepared, refrigerated ; bread ; 252 ; 2-pack (8.8 oz)
+blueberry muffins ; muffins|muffin ; S:Muffins, blueberry, commercially prepared (Includes mini-muffins) ; bread ; 397 ; 4-pack (14 oz)
+donuts ; doughnuts|donut ; S:Doughnuts, cake-type, plain (includes unsugared, old-fashioned) ; bread ; 340 ; 6-pack (12 oz)
+flour tortillas ; tortillas|tortillas flour|burrito tortillas ; S:Tortillas, ready-to-bake or -fry, flour, refrigerated ; tortillas ; 454 ; 10-pack (16 oz)
+corn tortillas ; tortillas corn ; S:Tortillas, ready-to-bake or -fry, corn ; tortillas ; 340 ; 30-pack (~12 oz)
+## ---- frozen ----
+frozen peas ; peas|green peas frozen|frzn peas ; S:Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program) ; frozen ; 340 ; 12 oz bag
+frozen corn ; corn frozen|sweet corn frozen ; S:Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program) ; frozen ; 340 ; 12 oz bag
+frozen broccoli ; broccoli florets frozen|frzn broccoli ; S:Broccoli, frozen, spears, unprepared (Includes foods for USDA's Food Distribution Program) ; frozen ; 340 ; 12 oz bag
+frozen spinach ; chopped spinach frozen ; S:Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program) ; frozen ; 283 ; 10 oz box
+frozen mixed vegetables ; mixed vegetables|frozen veggies|stir fry vegetables ; S:Vegetables, mixed, frozen, unprepared ; frozen ; 340 ; 12 oz bag
+frozen carrots ; carrots frozen ; F:Carrots, frozen, unprepared ; frozen ; 340 ; 12 oz bag
+frozen green beans ; green beans frozen ; S:Beans, snap, green, frozen, all styles, unprepared (Includes foods for USDA's Food Distribution Program) ; frozen ; 340 ; 12 oz bag
+frozen edamame ; edamame|shelled edamame ; S:Edamame, frozen, unprepared ; frozen ; 340 ; 12 oz bag
+frozen strawberries ; strawberries frozen ; S:Strawberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program) ; frozen ; 454 ; 16 oz bag
+frozen blueberries ; blueberries frozen|wild blueberries frozen ; S:Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program) ; frozen ; 454 ; 16 oz bag
+frozen mixed berries ; mixed berries|berry blend ; S:Raspberries, frozen, red, unsweetened ; frozen ; 454 ; 16 oz bag
+frozen french fries ; french fries|fries|crinkle fries|shoestring fries ; S:Potatoes, french fried, all types, salt not added in processing, frozen, as purchased ; frozen ; 907 ; 32 oz bag
+tater tots ; potato puffs|tots ; S:Potato puffs, frozen, unprepared ; frozen ; 907 ; 32 oz bag
+frozen hash browns ; hash browns|shredded hash browns ; S:Potatoes, hash brown, frozen, plain, unprepared ; frozen ; 850 ; 30 oz bag
+frozen pizza ; pizza|cheese pizza frozen ; S:Pizza, cheese topping, regular crust, frozen, cooked ; frozen ; 400 ; 1 pizza (~14 oz)
+frozen waffles ; waffles|eggo ; S:Waffles, plain, frozen, ready-to-heat ; frozen ; 350 ; 10-pack (12.3 oz)
+chicken nuggets ; frozen chicken nuggets|nuggets|chicken tenders frozen ; S:Chicken, nuggets, white meat, precooked, frozen, not reheated ; frozen ; 907 ; 32 oz bag
+fish sticks ; fish fillets breaded ; S:Fish, fish sticks, frozen, prepared ; frozen ; 680 ; 24 oz box
+frozen burritos ; burrito ; S:Burrito, bean and cheese, frozen ; frozen ; 142 ; 1 burrito (5 oz)
+vanilla ice cream ; ice cream|ice cream vanilla ; S:Ice creams, vanilla ; frozen ; 870 ; 1.5 quart carton (~48 fl oz)
+chocolate ice cream ; ice cream chocolate ; S:Ice creams, chocolate ; frozen ; 870 ; 1.5 quart carton (~48 fl oz)
+frozen yogurt ; froyo ; S:Frozen yogurts, vanilla, soft-serve ; frozen ; 870 ; 1.5 quart carton
+## ---- canned / jarred ----
+canned tuna ; tuna|chunk light tuna|tuna in water|starkist ; F:Fish, tuna, light, canned in water, drained solids ; canned ; 142 ; 5 oz can (drained ~4 oz)
+canned salmon ; salmon canned|pink salmon can ; S:Fish, salmon, pink, canned, drained solids ; canned ; 418 ; 14.75 oz can
+sardines ; canned sardines ; S:Fish, sardine, Atlantic, canned in oil, drained solids with bone ; canned ; 106 ; 3.75 oz can
+anchovies ; anchovy fillets ; F:Anchovies, canned in olive oil, with salt, drained ; canned ; 56 ; 2 oz tin
+canned chicken ; chicken breast canned ; S:Chicken, canned, meat only, with broth ; canned ; 354 ; 12.5 oz can
+black beans ; canned black beans|black beans can|blk beans ; F:Beans, black, canned, sodium added, drained and rinsed ; canned ; 425 ; 15 oz can
+kidney beans ; red kidney beans|canned kidney beans ; F:Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed ; canned ; 425 ; 15 oz can
+pinto beans ; canned pinto beans ; F:Beans, pinto, canned, sodium added, drained and rinsed ; canned ; 425 ; 15 oz can
+chickpeas ; garbanzo beans|canned chickpeas|garbanzos ; F:Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed ; canned ; 425 ; 15 oz can
+cannellini beans ; white beans|white kidney beans ; F:Beans, cannellini, canned, sodium added, drained and rinsed ; canned ; 425 ; 15 oz can
+navy beans ; canned navy beans ; F:Beans, navy, canned, sodium added, drained and rinsed ; canned ; 425 ; 15 oz can
+great northern beans ; great northern ; F:Beans, great northern, canned, sodium added, drained and rinsed ; canned ; 425 ; 15 oz can
+black-eyed peas ; black eyed peas|blackeye peas ; F:Blackeye pea, canned, sodium added, drained and rinsed ; canned ; 425 ; 15 oz can
+refried beans ; refried|refried pinto beans ; S:Refried beans, canned, traditional style ; canned ; 454 ; 16 oz can
+baked beans ; bush's baked beans|pork and beans ; S:Beans, baked, canned, plain or vegetarian ; canned ; 454 ; 16 oz can
+canned corn ; corn canned|whole kernel corn ; S:Corn, sweet, yellow, canned, whole kernel, drained solids ; canned ; 432 ; 15.25 oz can
+canned green beans ; green beans canned|cut green beans ; F:Beans, snap, green, canned, regular pack, drained solids ; canned ; 411 ; 14.5 oz can
+canned peas ; sweet peas canned ; F:Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed ; canned ; 425 ; 15 oz can
+diced tomatoes ; canned tomatoes|petite diced tomatoes|tomatoes diced ; F:Tomatoes, canned, red, ripe, diced ; canned ; 411 ; 14.5 oz can
+crushed tomatoes ; tomatoes crushed ; F:Tomatoes, crushed, canned ; canned ; 794 ; 28 oz can
+whole peeled tomatoes ; san marzano|whole tomatoes canned ; F:Tomatoes, whole, canned, solids and liquids, with salt added ; canned ; 794 ; 28 oz can
+tomato sauce ; canned tomato sauce ; F:Tomato, sauce, canned, with salt added ; canned ; 425 ; 15 oz can
+tomato paste ; tom paste ; F:Tomato, paste, canned, without salt added ; canned ; 170 ; 6 oz can
+tomato puree ; tomato purée ; F:Tomato, puree, canned ; canned ; 822 ; 29 oz can
+pasta sauce ; marinara|spaghetti sauce|marinara sauce|ragu|prego ; F:Sauce, pasta, spaghetti/marinara, ready-to-serve ; canned ; 680 ; 24 oz jar
+coconut milk ; canned coconut milk|coconut milk can ; S:Nuts, coconut milk, canned (liquid expressed from grated meat and water) ; canned ; 400 ; 13.5 oz can
+chicken broth ; chicken stock|broth|chkn broth ; S:Soup, chicken broth, ready-to-serve ; canned ; 960 ; 32 oz carton
+beef broth ; beef stock ; S:Soup, beef broth or bouillon canned, ready-to-serve ; canned ; 960 ; 32 oz carton
+vegetable broth ; vegetable stock|veggie broth ; S:Soup, vegetable broth, ready to serve ; canned ; 960 ; 32 oz carton
+chicken noodle soup ; canned soup|campbells chicken noodle ; S:Soup, chicken noodle, canned, condensed ; canned ; 305 ; 10.75 oz can (condensed)
+tomato soup ; campbells tomato ; S:Soup, tomato, canned, condensed ; canned ; 305 ; 10.75 oz can (condensed)
+cream of mushroom soup ; cream of mushroom ; S:Soup, cream of mushroom, canned, condensed ; canned ; 298 ; 10.5 oz can (condensed)
+canned pumpkin ; pumpkin puree|libbys pumpkin ; S:Pumpkin, canned, without salt ; canned ; 425 ; 15 oz can
+canned peaches ; peaches canned|sliced peaches ; S:Peaches, canned, light syrup pack, solids and liquids ; canned ; 425 ; 15 oz can
+canned pineapple ; pineapple chunks|pineapple tidbits ; S:Pineapple, canned, juice pack, solids and liquids ; canned ; 567 ; 20 oz can
+mandarin oranges canned ; mandarin oranges ; S:Tangerines, (mandarin oranges), canned, light syrup pack ; canned ; 425 ; 15 oz can
+applesauce ; apple sauce|unsweetened applesauce ; F:Applesauce, unsweetened, with added vitamin C ; canned ; 680 ; 24 oz jar
+black olives ; ripe olives|sliced black olives ; S:Olives, ripe, canned (small-extra large) ; canned ; 170 ; 6 oz can (drained)
+green olives ; manzanilla olives|stuffed olives ; F:Olives, green, Manzanilla, stuffed with pimiento ; canned ; 198 ; 7 oz jar
+evaporated milk ; carnation evaporated ; S:Milk, canned, evaporated, with added vitamin D and without added vitamin A ; canned ; 354 ; 12 fl oz can
+sweetened condensed milk ; condensed milk ; S:Milk, canned, condensed, sweetened ; canned ; 397 ; 14 oz can
+## ---- grains / pasta / baking (dry goods) ----
+white rice ; rice|long grain rice|jasmine rice|basmati rice|white rice 5lb ; F:Rice, white, long grain, unenriched, raw ; dry_goods ; 2268 ; 5 lb bag
+brown rice ; long grain brown rice ; F:Rice, brown, long grain, unenriched, raw ; dry_goods ; 907 ; 2 lb bag
+wild rice ; wild rice blend ; F:Wild rice, dry, raw ; dry_goods ; 454 ; 1 lb
+quinoa ; white quinoa|tri color quinoa ; S:Quinoa, uncooked ; dry_goods ; 340 ; 12 oz bag
+rolled oats ; oats|old fashioned oats|oatmeal|quaker oats ; F:Oats, whole grain, rolled, old fashioned ; dry_goods ; 1190 ; 42 oz canister
+steel cut oats ; irish oats ; F:Oats, whole grain, steel cut ; dry_goods ; 680 ; 24 oz canister
+spaghetti ; pasta|penne|rotini|elbow macaroni|linguine|fettuccine|spaghetti pasta ; S:Pasta, dry, enriched ; dry_goods ; 454 ; 1 lb box
+whole wheat pasta ; whole wheat spaghetti|whole grain pasta ; S:Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program) ; dry_goods ; 454 ; 1 lb box
+egg noodles ; wide egg noodles ; S:Noodles, egg, dry, enriched ; dry_goods ; 340 ; 12 oz bag
+ramen noodles ; ramen|instant ramen|top ramen|cup noodles ; S:Soup, ramen noodle, any flavor, dry ; dry_goods ; 85 ; 3 oz packet
+rice noodles ; pad thai noodles|rice vermicelli ; S:Rice noodles, dry ; dry_goods ; 454 ; 16 oz package
+couscous ; pearl couscous ; S:Couscous, dry ; dry_goods ; 283 ; 10 oz box
+bulgur ; bulgur wheat ; F:Bulgur, dry, raw ; dry_goods ; 680 ; 24 oz bag
+farro ; pearled farro ; F:Farro, pearled, dry, raw ; dry_goods ; 454 ; 16 oz bag
+pearl barley ; barley ; S:Barley, pearled, raw ; dry_goods ; 454 ; 16 oz bag
+macaroni and cheese ; mac and cheese|mac n cheese|kraft mac ; S:Macaroni and cheese dinner with dry sauce mix, boxed, uncooked ; dry_goods ; 206 ; 7.25 oz box
+dry lentils ; lentils|green lentils|brown lentils|red lentils ; F:Lentils, dry ; dry_goods ; 454 ; 1 lb bag
+split peas ; green split peas ; S:Peas, green, split, mature seeds, raw ; dry_goods ; 454 ; 1 lb bag
+dry black beans ; black beans dry|dried black beans ; S:Beans, black, mature seeds, raw ; dry_goods ; 454 ; 1 lb bag
+dry pinto beans ; pinto beans dry|dried pinto beans ; S:Beans, pinto, mature seeds, raw (Includes foods for USDA's Food Distribution Program) ; dry_goods ; 907 ; 2 lb bag
+dry chickpeas ; dried chickpeas|dried garbanzo ; F:Chickpeas, (garbanzo beans, bengal gram), dry ; dry_goods ; 454 ; 1 lb bag
+all-purpose flour ; flour|ap flour|all purpose flour|white flour ; F:Flour, wheat, all-purpose, enriched, bleached ; dry_goods ; 2268 ; 5 lb bag
+bread flour ; bread flour unbleached ; F:Flour, bread, white, enriched, unbleached ; dry_goods ; 2268 ; 5 lb bag
+whole wheat flour ; wheat flour ; F:Flour, whole wheat, unenriched ; dry_goods ; 2268 ; 5 lb bag
+almond flour ; almond meal ; F:Flour, almond ; dry_goods ; 454 ; 16 oz bag
+cornmeal ; yellow cornmeal|corn meal|polenta ; F:Flour, corn, yellow, fine meal, enriched ; dry_goods ; 907 ; 2 lb bag
+masa harina ; masa|maseca ; F:Corn flour, masa harina, white or yellow, dry, raw ; dry_goods ; 1814 ; 4 lb bag
+cornstarch ; corn starch ; S:Cornstarch ; dry_goods ; 454 ; 16 oz box
+sugar ; granulated sugar|white sugar|cane sugar ; F:Sugars, granulated ; dry_goods ; 1814 ; 4 lb bag
+brown sugar ; light brown sugar|dark brown sugar ; S:Sugars, brown ; dry_goods ; 907 ; 2 lb bag
+powdered sugar ; confectioners sugar|icing sugar ; S:Sugars, powdered ; dry_goods ; 907 ; 2 lb bag
+cocoa powder ; unsweetened cocoa|baking cocoa ; S:Cocoa, dry powder, unsweetened ; dry_goods ; 227 ; 8 oz canister
+chocolate chips ; semisweet chocolate chips|choc chips ; S:Candies, semisweet chocolate ; dry_goods ; 340 ; 12 oz bag
+breadcrumbs ; bread crumbs|panko ; S:Bread, crumbs, dry, grated, plain ; dry_goods ; 425 ; 15 oz canister
+pancake mix ; bisquick|baking mix|waffle mix ; S:Pancakes, plain, dry mix, complete (includes buttermilk) ; dry_goods ; 907 ; 32 oz box
+yeast ; active dry yeast|instant yeast ; S:Leavening agents, yeast, baker's, active dry ; dry_goods ; 21 ; 3-pack strip (0.75 oz)
+baking powder ; baking pwdr ; S:Leavening agents, baking powder, double-acting, sodium aluminum sulfate ; dry_goods ; 227 ; 8.1 oz can
+corn flakes ; cereal|cornflakes ; S:Cereals ready-to-eat, RALSTON Corn Flakes ; dry_goods ; 340 ; 12 oz box
+granola ; granola cereal ; S:Cereals ready-to-eat, granola, homemade ; dry_goods ; 340 ; 12 oz bag
+## ---- spices (dry_goods) ----
+salt ; table salt|iodized salt|kosher salt|sea salt ; F:Salt, table, iodized ; dry_goods ; 737 ; 26 oz canister
+black pepper ; ground black pepper|pepper|peppercorns ; S:Spices, pepper, black ; dry_goods ; 57 ; 2 oz jar
+cinnamon ; ground cinnamon ; S:Spices, cinnamon, ground ; dry_goods ; 68 ; 2.4 oz jar
+garlic powder ; granulated garlic ; S:Spices, garlic powder ; dry_goods ; 88 ; 3.1 oz jar
+onion powder ; granulated onion ; S:Spices, onion powder ; dry_goods ; 74 ; 2.6 oz jar
+chili powder ; chile powder ; S:Spices, chili powder ; dry_goods ; 71 ; 2.5 oz jar
+paprika ; smoked paprika ; S:Spices, paprika ; dry_goods ; 60 ; 2.1 oz jar
+cumin ; ground cumin ; S:Spices, cumin seed ; dry_goods ; 43 ; 1.5 oz jar
+oregano ; dried oregano ; S:Spices, oregano, dried ; dry_goods ; 21 ; 0.75 oz jar
+red pepper flakes ; crushed red pepper|chili flakes ; S:Spices, pepper, red or cayenne ; dry_goods ; 43 ; 1.5 oz jar
+vanilla extract ; vanilla|pure vanilla extract ; S:Vanilla extract ; dry_goods ; 59 ; 2 fl oz bottle
+## ---- nuts / seeds / spreads ----
+almonds ; raw almonds|whole almonds ; F:Nuts, almonds, whole, raw ; dry_goods ; 454 ; 16 oz bag
+roasted almonds ; roasted salted almonds ; F:Nuts, almonds, dry roasted, with salt added ; dry_goods ; 454 ; 16 oz bag
+cashews ; raw cashews|cashew ; F:Nuts, cashew nuts, raw ; dry_goods ; 454 ; 16 oz bag
+walnuts ; walnut halves|chopped walnuts ; F:Nuts, walnuts, English, halves, raw ; dry_goods ; 454 ; 16 oz bag
+pecans ; pecan halves ; F:Nuts, pecans, halves, raw ; dry_goods ; 340 ; 12 oz bag
+pistachios ; pistachio ; F:Nuts, pistachio nuts, raw ; dry_goods ; 454 ; 16 oz bag
+peanuts ; roasted peanuts|dry roasted peanuts ; S:Peanuts, all types, dry-roasted, with salt ; dry_goods ; 454 ; 16 oz jar
+macadamia nuts ; macadamias ; F:Nuts, macadamia nuts, raw ; dry_goods ; 227 ; 8 oz bag
+pine nuts ; pignoli ; F:Nuts, pine nuts, raw ; dry_goods ; 57 ; 2 oz bag
+mixed nuts ; deluxe mixed nuts ; S:Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend ; dry_goods ; 454 ; 16 oz can
+sunflower seeds ; sunflower kernels ; F:Seeds, sunflower seed kernels, dry roasted, with salt added ; dry_goods ; 454 ; 16 oz bag
+pumpkin seeds ; pepitas ; F:Seeds, pumpkin seeds (pepitas), raw ; dry_goods ; 340 ; 12 oz bag
+chia seeds ; chia ; F:Chia seeds, dry, raw ; dry_goods ; 340 ; 12 oz bag
+flaxseed ; ground flaxseed|flax meal|flax seeds ; F:Flaxseed, ground ; dry_goods ; 454 ; 16 oz bag
+sesame seeds ; sesame ; S:Seeds, sesame seeds, whole, dried ; dry_goods ; 57 ; 2 oz jar
+peanut butter ; creamy peanut butter|crunchy peanut butter|pb|jif|skippy ; F:Peanut butter, creamy ; condiments ; 454 ; 16 oz jar
+almond butter ; almond butter creamy ; F:Almond butter, creamy ; condiments ; 340 ; 12 oz jar
+tahini ; sesame paste ; F:Sesame butter, creamy ; condiments ; 454 ; 16 oz jar
+nutella ; hazelnut spread|chocolate hazelnut spread ; S:Chocolate-flavored hazelnut spread ; condiments ; 371 ; 13 oz jar
+trail mix ; trail mix regular ; S:Snacks, trail mix, regular ; snacks ; 737 ; 26 oz bag
+## ---- dried fruit ----
+raisins ; raisin|sun maid ; S:Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program) ; dry_goods ; 340 ; 12 oz box
+dried cranberries ; craisins|cranberries dried ; S:Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program) ; dry_goods ; 340 ; 12 oz bag
+prunes ; dried plums ; S:Plums, dried (prunes), uncooked ; dry_goods ; 454 ; 16 oz bag
+dates ; medjool dates ; S:Dates, medjool ; dry_goods ; 454 ; 16 oz package
+dried figs ; figs ; F:Figs, dried, uncooked ; dry_goods ; 198 ; 7 oz bag
+## ---- oils / fats ----
+olive oil ; extra virgin olive oil|evoo|olive oil ev ; S:Oil, olive, salad or cooking ; dry_goods ; 920 ; 1 L bottle
+vegetable oil ; soybean oil|veg oil|cooking oil ; S:Oil, soybean, salad or cooking ; dry_goods ; 1306 ; 48 fl oz bottle
+canola oil ; canola ; S:Oil, canola ; dry_goods ; 1306 ; 48 fl oz bottle
+coconut oil ; virgin coconut oil ; F:Oil, coconut ; dry_goods ; 397 ; 14 oz jar
+avocado oil ; avocado oil bottle ; S:Oil, avocado ; dry_goods ; 460 ; 500 ml bottle
+sesame oil ; toasted sesame oil ; S:Oil, sesame, salad or cooking ; dry_goods ; 230 ; 250 ml bottle
+cooking spray ; pam|nonstick spray ; S:Oil, corn and canola ; dry_goods ; 170 ; 6 oz can
+shortening ; crisco ; S:Shortening, vegetable, household, composite ; dry_goods ; 454 ; 16 oz can
+ghee ; clarified butter ; S:Butter oil, anhydrous ; dry_goods ; 368 ; 13 oz jar
+## ---- condiments / sauces ----
+ketchup ; catsup|tomato ketchup|heinz ketchup ; F:Ketchup, restaurant ; condiments ; 907 ; 32 oz bottle
+yellow mustard ; mustard|french's mustard ; F:Mustard, prepared, yellow ; condiments ; 397 ; 14 oz bottle
+dijon mustard ; dijon ; S:Mustard, prepared, yellow ; condiments ; 340 ; 12 oz jar
+mayonnaise ; mayo|hellmanns|best foods mayo ; S:Salad dressing, mayonnaise, regular ; condiments ; 850 ; 30 oz jar
+ranch dressing ; ranch ; S:Salad dressing, ranch dressing, regular ; condiments ; 473 ; 16 oz bottle
+italian dressing ; italian ; S:Salad dressing, italian dressing, commercial, regular ; condiments ; 473 ; 16 oz bottle
+caesar dressing ; caesar ; S:Salad dressing, caesar dressing, regular ; condiments ; 355 ; 12 oz bottle
+bbq sauce ; barbecue sauce ; S:Sauce, barbecue ; condiments ; 510 ; 18 oz bottle
+hot sauce ; tabasco|franks red hot|louisiana hot sauce ; S:Sauce, ready-to-serve, pepper or hot ; condiments ; 148 ; 5 fl oz bottle
+sriracha ; sriracha sauce ; S:Sauce, hot chile, sriracha ; condiments ; 482 ; 17 oz bottle
+soy sauce ; shoyu|low sodium soy sauce|kikkoman ; S:Soy sauce made from soy and wheat (shoyu) ; condiments ; 296 ; 10 fl oz bottle
+teriyaki sauce ; teriyaki ; S:Sauce, teriyaki, ready-to-serve ; condiments ; 296 ; 10 fl oz bottle
+worcestershire sauce ; worcestershire ; S:Sauce, worcestershire ; condiments ; 296 ; 10 fl oz bottle
+hoisin sauce ; hoisin ; S:Sauce, hoisin, ready-to-serve ; condiments ; 240 ; 8.5 oz jar
+fish sauce ; nam pla ; S:Sauce, fish, ready-to-serve ; condiments ; 200 ; 6.76 fl oz bottle
+pesto ; basil pesto ; S:Sauce, pesto, ready-to-serve, refrigerated ; condiments ; 198 ; 7 oz jar
+alfredo sauce mix ; alfredo mix|alfredo sauce packet ; S:Sauce, alfredo mix, dry ; condiments ; 45 ; 1.6 oz packet (dry mix; no jarred alfredo in FDC Foundation/SR)
+salsa ; chunky salsa|pico de gallo|salsa medium ; F:Sauce, salsa, ready-to-serve ; condiments ; 454 ; 16 oz jar
+dill pickles ; pickles|kosher dill pickles|pickle spears ; F:Pickles, cucumber, dill or kosher dill ; condiments ; 680 ; 24 oz jar
+pickle relish ; relish|sweet relish ; S:Pickle relish, sweet ; condiments ; 283 ; 10 oz jar
+white vinegar ; vinegar|distilled vinegar ; S:Vinegar, distilled ; condiments ; 946 ; 32 fl oz bottle
+apple cider vinegar ; acv|cider vinegar ; S:Vinegar, cider ; condiments ; 473 ; 16 fl oz bottle
+balsamic vinegar ; balsamic ; S:Vinegar, balsamic ; condiments ; 250 ; 8.5 fl oz bottle
+honey ; clover honey|raw honey ; S:Honey ; condiments ; 340 ; 12 oz bear bottle
+maple syrup ; pure maple syrup ; S:Syrups, maple ; condiments ; 488 ; 12.5 fl oz bottle
+pancake syrup ; syrup|table syrup|aunt jemima ; S:Syrups, table blends, pancake ; condiments ; 920 ; 24 fl oz bottle
+jam ; jelly|strawberry jam|grape jelly|preserves ; S:Jams and preserves ; condiments ; 510 ; 18 oz jar
+## ---- snacks ----
+potato chips ; chips|lays|kettle chips ; S:Snacks, potato chips, plain, salted ; snacks ; 227 ; 8 oz bag
+tortilla chips ; tortilla chip|tostitos ; S:Snacks, tortilla chips, plain, white corn, salted ; snacks ; 368 ; 13 oz bag
+pretzels ; pretzel twists|pretzel rods ; S:Snacks, pretzels, hard, plain, salted ; snacks ; 454 ; 16 oz bag
+microwave popcorn ; popcorn ; S:Popcorn, microwave, regular (butter) flavor, made with palm oil ; snacks ; 278 ; 3-pack (9.8 oz)
+saltine crackers ; saltines|premium saltines ; S:Crackers, saltines (includes oyster, soda, soup) ; snacks ; 454 ; 16 oz box
+snack crackers ; crackers|ritz ; S:Crackers, standard snack-type, regular ; snacks ; 391 ; 13.7 oz box
+cheese crackers ; cheez-its|goldfish ; S:Crackers, cheese, regular ; snacks ; 351 ; 12.4 oz box
+graham crackers ; graham ; S:Cookies, graham crackers, plain or honey (includes cinnamon) ; snacks ; 408 ; 14.4 oz box
+granola bars ; granola bar|chewy bars ; S:Snacks, granola bars, soft, uncoated, plain ; snacks ; 238 ; 8-pack box (8.4 oz)
+chocolate chip cookies ; cookies|chips ahoy ; S:Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched ; snacks ; 368 ; 13 oz package
+sandwich cookies ; oreos|oreo ; S:Cookies, chocolate sandwich, with creme filling, regular ; snacks ; 405 ; 14.3 oz package
+dark chocolate ; dark chocolate bar|70% dark chocolate ; S:Chocolate, dark, 70-85% cacao solids ; snacks ; 100 ; 3.5 oz bar
+milk chocolate ; chocolate bar|hershey bar ; S:Candies, milk chocolate ; snacks ; 43 ; 1.55 oz bar
+rice cakes ; rice cake ; S:Snacks, rice cakes, brown rice, plain, unsalted ; snacks ; 125 ; 4.47 oz sleeve
+beef jerky ; jerky ; S:Snacks, beef jerky, chopped and formed ; snacks ; 85 ; 3 oz bag
+## ---- beverages ----
+orange juice ; oj|orange juice no pulp|tropicana ; F:Orange juice, no pulp, not fortified, not from concentrate, refrigerated ; beverages ; 1550 ; 52 fl oz carton
+apple juice ; apple juice 64oz ; F:Apple juice, with added vitamin C, from concentrate, shelf stable ; beverages ; 1890 ; 64 fl oz bottle
+cranberry juice ; cranberry juice cocktail|cran juice ; F:Cranberry juice, not fortified, from concentrate, shelf stable ; beverages ; 1890 ; 64 fl oz bottle
+grape juice ; welchs grape juice ; F:Grape juice, purple, with added vitamin C, from concentrate, shelf stable ; beverages ; 1890 ; 64 fl oz bottle
+lemonade ; lemonade 59oz ; S:Lemonade, frozen concentrate, white, prepared with water ; beverages ; 1750 ; 59 fl oz bottle
+cola ; soda|coke|pepsi|soft drink ; S:Beverages, carbonated, cola, regular ; beverages ; 4260 ; 12-pack 12 fl oz cans
+lemon-lime soda ; sprite|7up ; S:Beverages, carbonated, lemon-lime soda, no caffeine ; beverages ; 2000 ; 2 L bottle
+sparkling water ; seltzer|club soda|lacroix|carbonated water ; S:Beverages, carbonated, club soda ; beverages ; 4260 ; 12-pack 12 fl oz cans
+bottled water ; water|spring water|purified water ; S:Water, bottled, generic ; beverages ; 12000 ; 24-pack 16.9 fl oz bottles
+sports drink ; gatorade|powerade ; S:Beverages, PEPSICO QUAKER, Gatorade, G performance O 2, ready-to-drink. ; beverages ; 946 ; 32 fl oz bottle
+energy drink ; red bull|monster ; S:Beverages, Energy drink, RED BULL ; beverages ; 250 ; 8.4 fl oz can
+iced tea ; sweet tea|bottled tea ; S:Beverages, tea, black, ready-to-drink, lemon, sweetened ; beverages ; 1890 ; 64 fl oz bottle
+coconut water ; coconut water bottle ; S:Nuts, coconut water (liquid from coconuts) ; beverages ; 1000 ; 1 L carton
+tomato juice ; v8 ; F:Tomato juice, with added ingredients, from concentrate, shelf stable ; beverages ; 1360 ; 46 fl oz bottle
+beer ; lager|ale|beer 12pk ; S:Alcoholic beverage, beer, regular, all ; beverages ; 4260 ; 12-pack 12 fl oz cans
+red wine ; cabernet|merlot|pinot noir ; S:Alcoholic beverage, wine, table, red ; beverages ; 750 ; 750 ml bottle
+white wine ; chardonnay|sauvignon blanc|pinot grigio ; S:Alcoholic beverage, wine, table, white ; beverages ; 750 ; 750 ml bottle
+cold brew coffee ; iced coffee|bottled coffee ; S:Beverages, coffee, brewed, prepared with tap water ; beverages ; 1420 ; 48 fl oz bottle
+
+diet cola ; diet coke|diet soda|coke zero|pepsi zero ; S:Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine ; beverages ; 4260 ; 12-pack 12 fl oz cans

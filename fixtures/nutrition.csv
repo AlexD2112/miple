@@ -1,0 +1,456 @@
+item_name,aliases,fdc_id,fdc_description,data_type,category,calories_kcal_100g,protein_g_100g,carbs_g_100g,fat_g_100g,fiber_g_100g,typical_package_size_g,typical_package_desc,energy_source_nutrient,fiber_source
+apple,apples|apl|red apple,171688,"Apples, raw, with skin (Includes foods for USDA's Food Distribution Program)",sr_legacy,fresh_fruit,52.0,0.3,13.8,0.2,2.4,1361,3 lb bag,1008,fdc
+gala apple,gala|gala apples|apple gala,1750341,"Apples, gala, with skin, raw",foundation,fresh_fruit,54.9,0.1,14.8,0.1,2.1,1361,3 lb bag,2048,fdc
+fuji apple,fuji|fuji apples,1750340,"Apples, fuji, with skin, raw",foundation,fresh_fruit,58.2,0.1,15.7,0.2,2.1,1361,3 lb bag,2048,fdc
+honeycrisp apple,honeycrisp|honeycrisp apples,1750343,"Apples, honeycrisp, with skin, raw",foundation,fresh_fruit,54.0,0.1,14.7,0.1,1.7,1361,3 lb bag,2048,fdc
+granny smith apple,granny smith|green apple,1750342,"Apples, granny smith, with skin, raw",foundation,fresh_fruit,53.0,0.3,14.1,0.1,2.5,1361,3 lb bag,2048,fdc
+banana,bananas|banana yellow|org bananas|bnna,1105314,"Bananas, ripe and slightly ripe, raw",foundation,fresh_fruit,97.0,0.7,23.0,0.3,1.7,1100,1 bunch (~6 bananas),1008,fdc
+orange,oranges|navel orange|navel oranges,746771,"Oranges, raw, navels",foundation,fresh_fruit,47.0,0.9,11.8,0.1,2.0,1814,4 lb bag,1008,fdc
+mandarin,clementine|clementines|cuties|halos|mandarins,2710832,"Mandarin, seedless, peeled, raw",foundation,fresh_fruit,55.6,1.0,13.4,0.5,1.3,1361,3 lb bag,2048,fdc
+lemon,lemons,167746,"Lemons, raw, without peel",sr_legacy,fresh_fruit,29.0,1.1,9.3,0.3,2.8,907,2 lb bag,1008,fdc
+lime,limes,168155,"Limes, raw",sr_legacy,fresh_fruit,30.0,0.7,10.5,0.2,2.8,907,2 lb bag,1008,fdc
+grapefruit,grapefruits|ruby red grapefruit,174673,"Grapefruit, raw, pink and red, all areas",sr_legacy,fresh_fruit,42.0,0.8,10.7,0.1,1.6,1361,3 lb bag,1008,fdc
+red grapes,grapes|red seedless grapes|grapes red,2346412,"Grapes, red, seedless, raw",foundation,fresh_fruit,77.2,0.9,20.2,0.2,0.9,907,2 lb bag,2048,sr_legacy:174683
+green grapes,green seedless grapes|white grapes|grapes green,2346413,"Grapes, green, seedless, raw",foundation,fresh_fruit,71.9,0.9,18.6,0.2,0.9,907,2 lb bag,2048,sr_legacy:174683
+strawberries,strawberry|strawberries 1lb|strawb,2346409,"Strawberries, raw",foundation,berries,32.7,0.6,8.0,0.2,2.0,454,1 lb clamshell,2048,sr_legacy:167762
+blueberries,blueberry|blueberries pint|bluebry,2346411,"Blueberries, raw",foundation,berries,57.4,0.7,14.6,0.3,2.4,510,18 oz clamshell,2048,sr_legacy:171711
+raspberries,raspberry|rasp,2346410,"Raspberries, raw",foundation,berries,51.4,1.0,12.9,0.2,6.5,170,6 oz clamshell,2048,sr_legacy:167755
+blackberries,blackberry,173946,"Blackberries, raw",sr_legacy,berries,43.0,1.4,9.6,0.5,5.3,170,6 oz clamshell,1008,fdc
+cranberries,fresh cranberries,171722,"Cranberries, raw",sr_legacy,berries,46.0,0.5,12.0,0.1,3.6,340,12 oz bag,1008,fdc
+avocado,avocados|hass avocado|avocado hass|avo,2710824,"Avocado, Hass, peeled, raw",foundation,fresh_fruit,206.0,1.8,8.3,20.3,6.8,200,1 each,2048,sr_legacy:171706
+pineapple,pineapples|whole pineapple,2346398,"Pineapple, raw",foundation,fresh_fruit,54.0,0.5,14.1,0.2,0.9,1600,1 each (whole),2048,fdc
+mango,mangos|mangoes,2710833,"Mango, Tommy Atkins, peeled, raw",foundation,fresh_fruit,61.6,0.6,15.3,0.6,1.8,340,1 each,2048,fdc
+watermelon,seedless watermelon|watermelon whole,167765,"Watermelon, raw",sr_legacy,fresh_fruit,30.0,0.6,7.5,0.1,0.4,5400,"1 each (whole, ~12 lb)",1008,fdc
+cantaloupe,cantaloupes|muskmelon,746770,"Melons, cantaloupe, raw",foundation,fresh_fruit,34.0,0.8,8.2,0.2,0.8,1400,1 each,1008,fdc
+honeydew,honeydew melon,2710816,"Melons, honeydew, raw",foundation,fresh_fruit,32.9,0.5,8.1,0.2,0.8,2300,1 each,2048,sr_legacy:169911
+peach,peaches|yellow peach,325430,"Peaches, yellow, raw",foundation,fresh_fruit,42.0,0.9,10.1,0.3,1.5,907,2 lb,1008,fdc
+nectarine,nectarines,327357,"Nectarines, raw",foundation,fresh_fruit,39.0,1.1,9.2,0.3,1.5,907,2 lb,1008,fdc
+pear,pears|bartlett pear,746773,"Pears, raw, bartlett",foundation,fresh_fruit,57.0,0.4,15.1,0.2,3.1,907,2 lb,1008,fdc
+plum,plums|black plum,2710837,"Plum, black, with skin, raw",foundation,fresh_fruit,52.7,0.6,13.5,0.3,1.3,907,2 lb,2048,fdc
+cherries,cherry|sweet cherries|bing cherries,2346399,"Cherries, sweet, dark red, raw",foundation,fresh_fruit,63.3,1.0,16.2,0.2,2.1,454,1 lb bag,2048,sr_legacy:171719
+kiwi,kiwis|kiwifruit,2710831,"Kiwifruit (kiwi), green, peeled, raw",foundation,fresh_fruit,58.5,1.0,13.8,0.6,2.1,454,1 lb clamshell,2048,fdc
+apricot,apricots,2710815,"Apricot, with skin, raw",foundation,fresh_fruit,43.5,1.0,10.2,0.4,1.5,454,1 lb,2048,fdc
+pomegranate,pomegranates,169134,"Pomegranates, raw",sr_legacy,fresh_fruit,83.0,1.7,18.7,1.2,4.0,280,1 each,1008,fdc
+papaya,papayas,169926,"Papayas, raw",sr_legacy,fresh_fruit,43.0,0.5,10.8,0.3,1.7,1000,1 each,1008,fdc
+plantain,plantains,2710817,"Plantains, ripe, raw",foundation,fresh_fruit,122.8,1.2,31.0,0.9,2.1,300,1 each,2048,fdc
+spinach,fresh spinach|spinach bunch|spnch,1999633,"Spinach, mature",foundation,leafy_greens,21.6,2.9,2.6,0.6,1.6,283,10 oz bag,2048,fdc
+baby spinach,org baby spinach|spinach baby|bby spnch,1999632,"Spinach, baby",foundation,leafy_greens,20.7,2.9,2.4,0.6,1.6,142,5 oz clamshell,2048,fdc
+romaine,romaine lettuce|romaine hearts|hearts of romaine,2346389,"Lettuce, romaine, green, raw",foundation,leafy_greens,17.5,1.0,4.1,0.1,2.1,567,3-pack hearts (~20 oz),2048,sr_legacy:169247
+iceberg lettuce,iceberg|lettuce iceberg,2346388,"Lettuce, iceberg, raw",foundation,leafy_greens,14.5,0.7,3.4,0.1,1.2,600,1 head,2048,sr_legacy:169248
+green leaf lettuce,green leaf|leaf lettuce|lettuce,2346391,"Lettuce, leaf, green, raw",foundation,leafy_greens,18.5,1.1,4.1,0.2,1.3,300,1 head,2048,sr_legacy:169249
+red leaf lettuce,red leaf,2346390,"Lettuce, leaf, red, raw",foundation,leafy_greens,14.7,0.9,3.3,0.1,0.9,300,1 head,2048,sr_legacy:168431
+spring mix,mixed greens|salad mix|baby greens|mesclun,168429,"Lettuce, butterhead (includes boston and bibb types), raw",sr_legacy,leafy_greens,13.0,1.4,2.2,0.2,1.1,142,5 oz clamshell,1008,fdc
+arugula,baby arugula|rocket,2710822,"Arugula, baby, raw",foundation,leafy_greens,25.9,1.6,5.4,0.3,2.3,142,5 oz clamshell,2048,fdc
+kale,kale bunch|curly kale|lacinato kale|tuscan kale,323505,"Kale, raw",foundation,leafy_greens,35.0,2.9,4.4,1.5,4.1,283,10 oz bag,1008,fdc
+collard greens,collards,2685574,"Collards, raw",foundation,leafy_greens,38.8,3.0,7.0,0.8,3.8,454,1 lb bag,2048,fdc
+bok choy,baby bok choy|pak choi,2685572,"Cabbage, bok choy, raw",foundation,leafy_greens,17.0,1.0,3.5,0.2,1.3,454,1 lb,2048,fdc
+swiss chard,chard|rainbow chard,169991,"Chard, swiss, raw",sr_legacy,leafy_greens,19.0,1.8,3.7,0.2,1.6,350,1 bunch,1008,fdc
+broccoli,broccoli crowns|broccoli florets|brocc,747447,"Broccoli, raw",foundation,fresh_vegetables,31.0,2.6,6.3,0.3,2.4,454,1 lb crowns,1008,fdc
+cauliflower,cauliflower head|cauli,2685573,"Cauliflower, raw",foundation,fresh_vegetables,22.9,1.6,4.7,0.2,1.9,840,1 head,2048,fdc
+brussels sprouts,brussel sprouts|brussels,2685575,"Brussels sprouts, raw",foundation,fresh_vegetables,48.8,4.0,9.6,0.6,4.8,454,1 lb bag,2048,fdc
+asparagus,asparagus bunch|aspar,2710823,"Asparagus, green, raw",foundation,fresh_vegetables,23.5,1.4,5.1,0.2,1.9,454,1 lb bunch,2048,fdc
+green beans,string beans|haricots verts|snap beans,2346400,"Beans, snap, green, raw",foundation,fresh_vegetables,33.6,2.0,7.4,0.3,3.0,340,12 oz bag,2048,fdc
+snap peas,sugar snap peas|snow peas,170010,"Peas, edible-podded, raw",sr_legacy,fresh_vegetables,42.0,2.8,7.5,0.2,2.6,227,8 oz bag,1008,fdc
+celery,celery stalks|celery hearts,2346405,"Celery, raw",foundation,fresh_vegetables,14.8,0.5,3.3,0.2,1.6,454,1 bunch,2048,sr_legacy:169988
+cucumber,cucumbers|english cucumber|cuke,2346406,"Cucumber, with peel, raw",foundation,fresh_vegetables,13.9,0.6,3.0,0.2,0.5,300,1 each,2048,sr_legacy:168409
+zucchini,zucchini squash|green squash,2685568,"Squash, summer, green, zucchini, includes skin, raw",foundation,fresh_vegetables,16.0,1.0,3.3,0.2,0.8,454,1 lb (~2 each),2048,fdc
+yellow squash,summer squash,2685569,"Squash, summer, yellow, includes skin, raw",foundation,fresh_vegetables,19.0,0.9,4.4,0.1,1.0,454,1 lb (~2 each),2048,fdc
+green bell pepper,green pepper|bell pepper green,2258588,"Peppers, bell, green, raw",foundation,fresh_vegetables,19.7,0.7,4.8,0.1,0.9,170,1 each,2048,fdc
+red bell pepper,red pepper|bell pepper red|bell pepper,2258590,"Peppers, bell, red, raw",foundation,fresh_vegetables,27.0,0.9,6.7,0.1,1.2,170,1 each,2048,fdc
+yellow bell pepper,yellow pepper,2258589,"Peppers, bell, yellow, raw",foundation,fresh_vegetables,26.6,0.8,6.6,0.1,1.1,170,1 each,2048,fdc
+orange bell pepper,orange pepper,2258591,"Peppers, bell, orange, raw",foundation,fresh_vegetables,27.4,0.9,6.7,0.2,1.0,170,1 each,2048,fdc
+jalapeno,jalapenos|jalapeno pepper,2747661,"Peppers, jalapeno, seeded, raw",foundation,fresh_vegetables,24.1,0.6,5.1,0.1,1.7,15,1 each,2047,fdc
+poblano,poblano pepper|poblanos,2747662,"Peppers, poblano, seeded, raw",foundation,fresh_vegetables,28.0,1.4,5.1,0.2,2.1,120,1 each,2047,fdc
+serrano,serrano pepper|serranos,2747663,"Peppers, serrano, seeded, raw",foundation,fresh_vegetables,29.2,0.9,6.1,0.1,2.5,10,1 each,2047,fdc
+tomato,tomatoes|tomatoes on the vine|vine tomatoes|beefsteak tomato,170457,"Tomatoes, red, ripe, raw, year round average",sr_legacy,fresh_vegetables,18.0,0.9,3.9,0.2,1.2,454,1 lb,1008,fdc
+roma tomato,roma tomatoes|plum tomatoes,1999634,"Tomato, roma",foundation,fresh_vegetables,19.0,0.7,3.8,0.4,1.0,454,1 lb,2048,fdc
+grape tomatoes,cherry tomatoes|grape tomato|tomatoes grape,321360,"Tomatoes, grape, raw",foundation,fresh_vegetables,27.0,0.8,5.5,0.6,2.1,283,10 oz pint,1008,fdc
+white mushrooms,mushrooms|button mushrooms|white button mushrooms|mush,1999629,"Mushrooms, white button",foundation,fresh_vegetables,24.9,2.9,4.1,0.4,1.7,227,8 oz package,2048,fdc
+cremini mushrooms,baby bella|crimini|baby bella mushrooms,2003601,"Mushroom, crimini",foundation,fresh_vegetables,23.7,3.1,4.0,0.2,1.8,227,8 oz package,2048,fdc
+portabella mushrooms,portobello|portabella caps,2003598,"Mushroom, portabella",foundation,fresh_vegetables,26.0,2.8,4.7,0.3,1.9,170,6 oz package (2 caps),2048,fdc
+shiitake mushrooms,shiitake,1999628,"Mushrooms, shiitake",foundation,fresh_vegetables,36.4,2.4,8.2,0.2,4.2,100,3.5 oz package,2048,fdc
+oyster mushrooms,oyster mushroom,1999627,"Mushroom, oyster",foundation,fresh_vegetables,33.3,2.9,6.9,0.2,2.9,100,3.5 oz package,2048,fdc
+eggplant,eggplants|aubergine,2685577,"Eggplant, raw",foundation,fresh_vegetables,22.4,0.9,5.4,0.1,2.4,450,1 each,2048,fdc
+corn on the cob,sweet corn|corn|ears of corn,2710826,"Corn, sweet, yellow and white kernels,  fresh, raw",foundation,fresh_vegetables,72.9,2.8,14.7,1.6,2.4,200,1 ear (husked kernels+cob ~200 g),2048,fdc
+green onions,scallions|green onion|spring onions,170005,"Onions, spring or scallions (includes tops and bulb), raw",sr_legacy,fresh_vegetables,32.0,1.8,7.3,0.2,2.6,100,1 bunch,1008,fdc
+leeks,leek,169246,"Leeks, (bulb and lower leaf-portion), raw",sr_legacy,fresh_vegetables,61.0,1.5,14.2,0.3,1.8,450,2-3 each,1008,fdc
+cabbage,green cabbage|cabbage head,2346407,"Cabbage, green, raw",foundation,fresh_vegetables,27.9,1.0,6.4,0.2,2.5,900,1 head,2048,sr_legacy:169975
+red cabbage,purple cabbage,2346408,"Cabbage, red, raw",foundation,fresh_vegetables,29.9,1.2,6.8,0.2,2.1,900,1 head,2048,sr_legacy:169977
+napa cabbage,chinese cabbage|napa,169979,"Cabbage, chinese (pe-tsai), raw",sr_legacy,fresh_vegetables,16.0,1.2,3.2,0.2,1.2,900,1 head,1008,fdc
+coleslaw mix,shredded cabbage|slaw mix,169975,"Cabbage, raw",sr_legacy,fresh_vegetables,25.0,1.3,5.8,0.1,2.5,397,14 oz bag,1008,fdc
+fennel,fennel bulb,2747655,"Fennel, bulb, raw",foundation,fresh_vegetables,26.9,0.9,5.5,0.1,2.0,250,1 bulb,2047,fdc
+artichoke,artichokes,169205,"Artichokes, (globe or french), raw",sr_legacy,fresh_vegetables,47.0,3.3,10.5,0.1,5.4,300,1 each,1008,fdc
+okra,fresh okra,169260,"Okra, raw",sr_legacy,fresh_vegetables,33.0,1.9,7.5,0.2,3.2,454,1 lb,1008,fdc
+bean sprouts,mung bean sprouts,169957,"Mung beans, mature seeds, sprouted, raw",sr_legacy,fresh_vegetables,30.0,3.0,5.9,0.2,1.8,340,12 oz bag,1008,fdc
+tomatillos,tomatillo,168566,"Tomatillos, raw",sr_legacy,fresh_vegetables,32.0,1.0,5.8,1.0,1.9,454,1 lb,1008,fdc
+radishes,radish|red radishes,2747665,"Radishes, red, raw",foundation,root_vegetables,19.6,0.7,4.1,0.1,1.3,454,1 lb bag,2047,fdc
+russet potatoes,potatoes|russet|baking potato|potato,2346401,"Potatoes, russet, without skin, raw",foundation,root_vegetables,81.0,2.3,17.8,0.4,1.3,2268,5 lb bag,2048,sr_legacy:170027
+red potatoes,red potato,2346402,"Potatoes, red, without skin, raw",foundation,root_vegetables,73.4,2.1,16.3,0.2,1.7,1361,3 lb bag,2048,sr_legacy:170029
+yukon gold potatoes,gold potatoes|yukon gold|yellow potatoes,2346403,"Potatoes, gold, without skin, raw",foundation,root_vegetables,71.6,1.8,16.0,0.3,2.4,1361,3 lb bag,2048,sr_legacy:170028
+sweet potato,sweet potatoes|yams|yam,2346404,"Sweet potatoes, orange flesh, without skin, raw",foundation,root_vegetables,77.4,1.6,17.3,0.4,3.0,454,1 lb (~2 each),2048,sr_legacy:168482
+carrots,carrot|carrots 2lb|whole carrots,2258586,"Carrots, mature, raw",foundation,root_vegetables,45.0,0.9,10.3,0.4,3.1,907,2 lb bag,2048,fdc
+baby carrots,carrots baby|mini carrots,2258587,"Carrots, baby, raw",foundation,root_vegetables,38.3,0.8,9.1,0.1,2.7,454,1 lb bag,2048,fdc
+yellow onion,onion|onions|yellow onions|sweet onion,790646,"Onions, yellow, raw",foundation,root_vegetables,38.0,0.8,8.6,0.1,1.9,1361,3 lb bag,1008,fdc
+red onion,red onions|purple onion,790577,"Onions, red, raw",foundation,root_vegetables,44.0,0.9,9.9,0.1,2.2,454,1 lb (~2 each),1008,fdc
+white onion,white onions,1104962,"Onions, white, raw",foundation,root_vegetables,35.0,0.9,7.7,0.1,1.2,454,1 lb (~2 each),1008,fdc
+garlic,garlic bulb|garlic head|fresh garlic,1104647,"Garlic, raw",foundation,root_vegetables,143.0,6.6,28.2,0.4,2.7,227,3-pack bulbs (~8 oz),1008,fdc
+shallots,shallot,170499,"Shallots, raw",sr_legacy,root_vegetables,72.0,2.5,16.8,0.1,3.2,227,8 oz bag,1008,fdc
+ginger,ginger root|fresh ginger,169231,"Ginger root, raw",sr_legacy,root_vegetables,80.0,1.8,17.8,0.8,2.0,113,4 oz piece,1008,fdc
+beets,beet|red beets,2685576,"Beets, raw",foundation,root_vegetables,41.0,1.7,8.8,0.3,3.1,680,1 bunch (~3),2048,fdc
+parsnips,parsnip,2747659,"Parsnips, raw",foundation,root_vegetables,87.1,1.3,19.3,0.5,5.4,454,1 lb bag,2047,fdc
+turnips,turnip,2747674,"Turnips, raw",foundation,root_vegetables,34.0,1.0,7.3,0.1,1.9,454,1 lb,2047,fdc
+jicama,jicama root,170073,"Yambean (jicama), raw",sr_legacy,root_vegetables,38.0,0.7,8.8,0.1,4.9,600,1 each,1008,fdc
+butternut squash,butternut,2685570,"Squash, winter, butternut, raw",foundation,root_vegetables,41.7,1.1,10.5,0.2,2.0,1100,1 each,2048,fdc
+acorn squash,acorn,2685571,"Squash, winter, acorn, raw",foundation,root_vegetables,42.0,1.2,10.5,0.2,2.6,700,1 each,2048,fdc
+spaghetti squash,spaghetti squash whole,169298,"Squash, winter, spaghetti, raw",sr_legacy,root_vegetables,31.0,0.6,6.9,0.6,1.5,1400,1 each,1008,fdc
+cilantro,coriander leaves|cilantro bunch,169997,"Coriander (cilantro) leaves, raw",sr_legacy,herbs,23.0,2.1,3.7,0.5,2.8,60,1 bunch,1008,fdc
+parsley,italian parsley|flat leaf parsley|curly parsley,170416,"Parsley, fresh",sr_legacy,herbs,36.0,3.0,6.3,0.8,3.3,60,1 bunch,1008,fdc
+basil,fresh basil|sweet basil,172232,"Basil, fresh",sr_legacy,herbs,23.0,3.1,2.6,0.6,1.6,21,0.75 oz clamshell,1008,fdc
+mint,fresh mint|spearmint,173475,"Spearmint, fresh",sr_legacy,herbs,44.0,3.3,8.4,0.7,6.8,21,0.75 oz clamshell,1008,fdc
+dill,fresh dill|dill weed,172233,"Dill weed, fresh",sr_legacy,herbs,43.0,3.5,7.0,1.1,2.1,21,0.75 oz clamshell,1008,fdc
+rosemary,fresh rosemary,173473,"Rosemary, fresh",sr_legacy,herbs,131.0,3.3,20.7,5.9,14.1,21,0.75 oz clamshell,1008,fdc
+thyme,fresh thyme,173470,"Thyme, fresh",sr_legacy,herbs,101.0,5.6,24.4,1.7,14.0,21,0.75 oz clamshell,1008,fdc
+chives,fresh chives,169994,"Chives, raw",sr_legacy,herbs,30.0,3.3,4.3,0.7,2.5,21,0.75 oz clamshell,1008,fdc
+whole milk,milk|milk whole|vitamin d milk|gal milk,746782,"Milk, whole, 3.25% milkfat, with added vitamin D",foundation,dairy_milk,60.0,3.3,4.6,3.2,0.0,3900,1 gallon,1008,assumed_zero
+2% milk,reduced fat milk|milk 2%|2 percent milk,746778,"Milk, reduced fat, fluid, 2% milkfat, with added vitamin A and vitamin D",foundation,dairy_milk,50.0,3.4,4.9,1.9,0.0,3900,1 gallon,1008,assumed_zero
+1% milk,lowfat milk|milk 1%,746772,"Milk, lowfat, fluid, 1% milkfat, with added vitamin A and vitamin D",foundation,dairy_milk,43.0,3.4,5.2,0.9,0.0,3900,1 gallon,1008,assumed_zero
+skim milk,fat free milk|nonfat milk|milk skim,746776,"Milk, nonfat, fluid, with added vitamin A and vitamin D (fat free or skim)",foundation,dairy_milk,34.0,3.4,4.9,0.1,0.0,3900,1 gallon,1008,assumed_zero
+buttermilk,lowfat buttermilk,2259792,"Buttermilk, low fat",foundation,dairy_milk,42.9,3.5,4.8,1.1,0.0,946,1 quart,2048,assumed_zero
+heavy cream,heavy whipping cream|whipping cream|hvy cream,2346386,"Cream, heavy",foundation,dairy_milk,335.9,2.0,3.8,35.6,0.0,473,1 pint,2048,assumed_zero
+half and half,half & half|half n half,171255,"Cream, fluid, half and half",sr_legacy,dairy_milk,131.0,3.1,4.3,11.5,0.0,946,1 quart,1008,fdc
+coffee creamer,creamer|liquid creamer|flavored creamer,173453,"Cream substitute, flavored, liquid",sr_legacy,dairy_milk,251.0,0.7,35.1,13.5,1.1,946,32 oz bottle,1008,fdc
+whipped cream,reddi wip|whipped topping can,170860,"Cream, whipped, cream topping, pressurized",sr_legacy,dairy_milk,257.0,3.2,12.5,22.2,0.0,184,6.5 oz can,1008,fdc
+kefir,plain kefir,170904,"Kefir, lowfat, plain, LIFEWAY",sr_legacy,dairy_milk,43.0,3.8,4.8,1.0,0.0,946,32 oz bottle,1008,fdc
+almond milk,almondmilk|unsweetened almond milk|almond milk unsweet,2257045,"Almond milk, unsweetened, plain, refrigerated",foundation,dairy_milk,19.3,0.7,0.7,1.6,0.0,1890,half gallon,2047,fdc
+oat milk,oatmilk|oatly,2257046,"Oat milk, unsweetened, plain, refrigerated",foundation,dairy_milk,48.3,0.8,5.1,2.7,0.0,1890,half gallon,2047,fdc
+soy milk,soymilk,2257044,"Soy milk, sweetened, plain, refrigerated",foundation,dairy_milk,40.7,2.8,3.0,2.0,0.0,1890,half gallon,2047,fdc
+butter,salted butter|butter salted|butter sticks|bttr,173410,"Butter, salted",sr_legacy,dairy_cheese,717.0,0.8,0.1,81.1,0.0,454,1 lb (4 sticks),1008,fdc
+unsalted butter,butter unsalted|sweet cream butter unsalted,173430,"Butter, without salt",sr_legacy,dairy_cheese,717.0,0.8,0.1,81.1,0.0,454,1 lb (4 sticks),1008,fdc
+cheddar cheese,cheddar|sharp cheddar|mild cheddar|shredded cheddar|chdr,328637,"Cheese, cheddar",foundation,dairy_cheese,408.0,23.3,2.4,34.0,0.0,227,8 oz block/bag,1008,assumed_zero
+mozzarella,shredded mozzarella|mozzarella cheese|low moisture mozzarella|string cheese|mozz,329370,"Cheese, mozzarella, low moisture, part-skim",foundation,dairy_cheese,298.0,23.7,4.4,20.4,0.0,227,8 oz bag,1008,assumed_zero
+fresh mozzarella,mozzarella ball|buffalo mozzarella|burrata,170845,"Cheese, mozzarella, whole milk",sr_legacy,dairy_cheese,299.0,22.2,2.4,22.1,0.0,227,8 oz ball,1008,fdc
+parmesan,parmesan cheese|grated parmesan|parmigiano|parm,325036,"Cheese, parmesan, grated",foundation,dairy_cheese,421.0,29.6,12.4,28.0,0.0,142,5 oz container,1008,assumed_zero
+swiss cheese,swiss|sliced swiss,746767,"Cheese, swiss",foundation,dairy_cheese,393.0,27.0,1.4,31.0,0.0,227,8 oz package,1008,assumed_zero
+provolone,provolone cheese|sliced provolone,2647440,"Cheese, provolone, sliced",foundation,dairy_cheese,356.9,23.5,2.5,28.1,0.0,227,8 oz package,2048,assumed_zero
+monterey jack,jack cheese|pepper jack|monterey jack cheese,2647438,"Cheese, monterey jack, solid",foundation,dairy_cheese,390.7,22.6,1.9,32.6,0.0,227,8 oz block,2048,assumed_zero
+colby jack,colby|colby jack cheese,173416,"Cheese, colby",sr_legacy,dairy_cheese,394.0,23.8,2.6,32.1,0.0,227,8 oz block,1008,fdc
+american cheese,american singles|cheese singles|kraft singles,2647439,"Cheese, pasteurized process cheese food or product, American, singles",foundation,dairy_cheese,307.9,15.6,8.2,23.9,0.0,340,12 oz (16 slices),2048,assumed_zero
+feta,feta cheese|crumbled feta,2259796,"Cheese, feta, whole milk, crumbled",foundation,dairy_cheese,273.5,19.7,5.6,19.1,0.0,170,6 oz container,2048,assumed_zero
+goat cheese,chevre,173435,"Cheese, goat, soft type",sr_legacy,dairy_cheese,264.0,18.5,0.0,21.1,0.0,113,4 oz log,1008,fdc
+ricotta,ricotta cheese|whole milk ricotta,746766,"Cheese, ricotta, whole milk",foundation,dairy_cheese,157.0,7.8,6.9,11.0,0.0,425,15 oz container,1008,assumed_zero
+cottage cheese,cottage cheese 4%|small curd cottage cheese,2346384,"Cottage cheese, full fat, large or small curd",foundation,dairy_cheese,104.6,11.6,4.6,4.2,0.0,454,16 oz container,2048,assumed_zero
+lowfat cottage cheese,cottage cheese 2%|low fat cottage cheese,328841,"Cheese, cottage, lowfat, 2% milkfat",foundation,dairy_cheese,84.0,11.0,4.3,2.3,0.0,454,16 oz container,1008,assumed_zero
+cream cheese,philadelphia|cream cheese block|crm chs,2346385,"Cream cheese, full fat, block",foundation,dairy_cheese,336.7,5.8,4.6,33.5,0.0,227,8 oz block,2048,assumed_zero
+brie,brie cheese,172177,"Cheese, brie",sr_legacy,dairy_cheese,334.0,20.8,0.5,27.7,0.0,227,8 oz wheel,1008,fdc
+gouda,gouda cheese|smoked gouda,171241,"Cheese, gouda",sr_legacy,dairy_cheese,356.0,24.9,2.2,27.4,0.0,198,7 oz wedge,1008,fdc
+blue cheese,bleu cheese|gorgonzola|blue cheese crumbles,172175,"Cheese, blue",sr_legacy,dairy_cheese,353.0,21.4,2.3,28.7,0.0,142,5 oz container,1008,fdc
+queso fresco,queso fresco cheese,2647442,"Cheese, queso fresco, solid",foundation,dairy_cheese,297.4,18.9,3.0,23.4,0.0,283,10 oz round,2048,assumed_zero
+cotija,cotija cheese,2647443,"Cheese, cotija, solid",foundation,dairy_cheese,351.8,23.8,2.7,27.2,0.0,283,10 oz wedge,2048,assumed_zero
+plain yogurt,yogurt|whole milk yogurt|plain whole milk yogurt,2259793,"Yogurt, plain, whole milk",foundation,yogurt,77.3,3.8,5.6,4.5,0.0,907,32 oz tub,2048,assumed_zero
+nonfat yogurt,plain nonfat yogurt|fat free yogurt,2647437,"Yogurt, plain, nonfat",foundation,yogurt,50.1,4.2,8.1,0.1,0.0,907,32 oz tub,2048,assumed_zero
+greek yogurt,nonfat greek yogurt|greek yogurt plain|fage 0%|chobani plain,330137,"Yogurt, Greek, plain, nonfat",foundation,yogurt,61.0,10.3,3.6,0.4,0.0,907,32 oz tub,1008,assumed_zero
+whole milk greek yogurt,greek yogurt whole|fage total,2259794,"Yogurt, Greek, plain, whole milk",foundation,yogurt,94.5,8.8,4.8,4.4,0.0,907,32 oz tub,2048,assumed_zero
+vanilla yogurt,yogurt vanilla,172219,"Yogurt, vanilla, low fat, fortified with vitamin D",sr_legacy,yogurt,85.0,4.9,13.8,1.2,0.0,907,32 oz tub,1008,fdc
+fruit yogurt,strawberry yogurt|yogurt cup|flavored yogurt,171285,"Yogurt, fruit, low fat, 10 grams protein per 8 ounce",sr_legacy,yogurt,102.0,4.4,19.1,1.1,0.0,150,5.3 oz cup,1008,fdc
+sour cream,sour crm|sour cream full fat,2346387,"Cream, sour, full fat",foundation,yogurt,192.7,3.1,5.6,18.0,0.0,454,16 oz tub,2048,assumed_zero
+eggs,large eggs|egg|eggs dozen|grade a large eggs|brown eggs|lg eggs,748967,"Eggs, Grade A, Large, egg whole",foundation,eggs,148.0,12.4,1.0,10.0,0.0,600,"12 eggs (dozen, large, edible portion)",1008,fdc
+egg whites,liquid egg whites|egg white,172183,"Egg, white, raw, fresh",sr_legacy,eggs,52.0,10.9,0.7,0.2,0.0,454,16 oz carton,1008,fdc
+firm tofu,tofu|extra firm tofu|tofu firm,172475,"Tofu, raw, firm, prepared with calcium sulfate",sr_legacy,tofu,144.0,17.3,2.8,8.7,2.3,397,14 oz block,1008,fdc
+silken tofu,soft tofu,172449,"Tofu, soft, prepared with calcium sulfate and magnesium chloride (nigari)",sr_legacy,tofu,61.0,7.2,1.2,3.7,0.2,340,12 oz package,1008,fdc
+tempeh,tempeh block,174272,Tempeh,sr_legacy,tofu,192.0,20.3,7.6,10.8,,227,8 oz package,1008,
+chicken breast,boneless skinless chicken breast|chicken breasts|bnls chkn brst|chicken tenders|chicken tenderloins,2646170,"Chicken, breast, boneless, skinless, raw",foundation,raw_poultry,112.2,22.5,0.0,1.9,0.0,680,1.5 lb tray,2048,assumed_zero
+bone-in chicken breast,split chicken breast|chicken breast bone in,2727569,"Chicken, breast, meat and skin, raw",foundation,raw_poultry,132.8,21.4,0.0,4.8,0.0,1134,2.5 lb tray,2048,assumed_zero
+chicken thighs,boneless chicken thighs|boneless skinless chicken thighs|chkn thigh,2646171,"Chicken, thigh, boneless, skinless, raw",foundation,raw_poultry,149.3,18.6,0.0,7.9,0.0,680,1.5 lb tray,2048,assumed_zero
+bone-in chicken thighs,chicken thighs bone in skin on,2727567,"Chicken, thigh, meat and skin, raw",foundation,raw_poultry,192.8,17.1,0.0,13.3,0.0,1134,2.5 lb tray,2048,assumed_zero
+chicken drumsticks,drumsticks|chicken legs,2727566,"Chicken, drumstick, meat and skin, raw",foundation,raw_poultry,130.1,18.4,0.0,5.9,0.0,1134,2.5 lb tray,2048,assumed_zero
+chicken wings,wings|party wings,2727568,"Chicken, wing, meat and skin, raw",foundation,raw_poultry,172.8,18.4,0.0,10.6,0.0,907,2 lb tray,2048,assumed_zero
+whole chicken,whole fryer|fryer chicken|roaster,171447,"Chicken, broilers or fryers, meat and skin, raw",sr_legacy,raw_poultry,215.0,18.6,0.0,15.1,0.0,1814,1 each (~4 lb),1008,fdc
+ground chicken,chicken ground,2514746,"Chicken, ground, with additives, raw",foundation,raw_poultry,138.1,17.9,0.0,7.2,0.0,454,1 lb package,2048,assumed_zero
+ground turkey,turkey ground|ground turkey 93/7|93% lean ground turkey,2514747,"Turkey, ground, 93% lean/ 7% fat, raw",foundation,raw_poultry,157.6,17.3,0.0,9.6,0.0,454,1 lb package,2048,assumed_zero
+turkey breast,turkey breast tenderloin|turkey cutlets,174515,"Turkey, retail parts, breast, meat only, raw",sr_legacy,raw_poultry,114.0,23.3,0.0,2.3,0.0,680,1.5 lb package,1008,fdc
+ground beef 80/20,ground beef|ground chuck|hamburger|80% lean ground beef|grnd beef,2514744,"Beef, ground, 80% lean meat / 20% fat, raw",foundation,raw_meat,247.8,17.5,0.0,19.4,0.0,454,1 lb package,2048,assumed_zero
+ground beef 85/15,85% lean ground beef|ground round,171796,"Beef, ground, 85% lean meat / 15% fat, raw (Includes foods for USDA's Food Distribution Program)",sr_legacy,raw_meat,215.0,18.6,0.0,15.0,0.0,454,1 lb package,1008,fdc
+ground beef 90/10,90% lean ground beef|ground sirloin|lean ground beef,2514743,"Beef, ground, 90% lean meat / 10% fat, raw",foundation,raw_meat,190.1,18.2,0.0,12.8,0.0,454,1 lb package,2048,assumed_zero
+ground beef 93/7,93% lean ground beef|extra lean ground beef,173110,"Beef, ground, 93% lean meat / 7% fat, raw",sr_legacy,raw_meat,152.0,20.9,0.0,7.0,0.0,454,1 lb package,1008,fdc
+ribeye steak,ribeye|rib eye|ribeye steak boneless,2646172,"Beef, ribeye, steak, boneless, choice, raw",foundation,raw_meat,259.6,18.7,0.0,20.0,0.0,454,1 lb (1 steak),2048,assumed_zero
+new york strip,ny strip|strip steak|new york strip steak,2727572,"Beef, short loin (NY strip steak), raw",foundation,raw_meat,196.0,21.3,0.2,11.5,0.0,400,1 steak (~14 oz),2048,assumed_zero
+sirloin steak,top sirloin|sirloin,2727574,"Beef, top sirloin steak, raw",foundation,raw_meat,146.2,22.0,0.2,5.7,0.0,454,1 lb package,2048,assumed_zero
+filet mignon,beef tenderloin|tenderloin steak,2727573,"Beef, tenderloin steak, raw",foundation,raw_meat,149.0,21.1,0.2,6.5,0.0,227,2 steaks (~8 oz),2048,assumed_zero
+flank steak,flank,2646175,"Beef, flank, steak, boneless, choice, raw",foundation,raw_meat,169.6,20.1,0.0,9.4,0.0,680,1.5 lb,2048,assumed_zero
+chuck roast,beef chuck roast|pot roast|beef stew meat|stew meat,2646174,"Beef, chuck, roast, boneless, choice, raw",foundation,raw_meat,237.1,18.4,0.0,17.8,0.0,1134,2.5 lb roast,2048,assumed_zero
+top round,london broil|top round steak|round steak,2646173,"Beef, round, top round, boneless, choice, raw",foundation,raw_meat,146.4,21.5,0.9,5.7,0.0,680,1.5 lb,2048,assumed_zero
+beef brisket,brisket,168714,"Beef, brisket, flat half, boneless, separable lean and fat, trimmed to 0"" fat, all grades, raw",sr_legacy,raw_meat,165.0,20.3,0.0,9.3,0.0,1361,3 lb flat,1008,fdc
+pork chops,pork chop|center cut pork chops|boneless pork chops,2727575,"Pork, chop, center cut, raw",foundation,raw_meat,144.6,22.8,0.0,5.5,0.0,680,1.5 lb tray,2048,assumed_zero
+pork tenderloin,pork tndrln,2646169,"Pork, loin, tenderloin, boneless, raw",foundation,raw_meat,125.0,21.6,0.0,3.9,0.0,567,1.25 lb package,2048,assumed_zero
+pork loin,pork loin roast|boneless pork loin,2646168,"Pork, loin, boneless, raw",foundation,raw_meat,173.7,21.1,0.0,9.5,0.0,1361,3 lb roast,2048,assumed_zero
+pork shoulder,pork butt|boston butt|pork shoulder roast,167849,"Pork, fresh, shoulder, (Boston butt), blade (steaks), separable lean and fat, raw",sr_legacy,raw_meat,186.0,17.4,0.0,12.4,0.0,1814,4 lb roast,1008,fdc
+ground pork,pork ground,2514745,"Pork, ground, raw",foundation,raw_meat,233.4,17.8,0.0,17.5,0.0,454,1 lb package,2048,assumed_zero
+pork belly,pork belly slab,2727576,"Pork, belly, with skin, raw",foundation,raw_meat,385.4,15.2,0.0,35.8,0.0,680,1.5 lb,2048,assumed_zero
+baby back ribs,pork ribs|back ribs,168299,"Pork, fresh, backribs, separable lean and fat, raw",sr_legacy,raw_meat,224.0,19.1,0.0,16.3,0.0,1134,1 rack (~2.5 lb),1008,fdc
+spare ribs,pork spare ribs|st louis ribs,167853,"Pork, fresh, spareribs, separable lean and fat, raw",sr_legacy,raw_meat,277.0,15.5,0.0,23.4,0.0,1361,1 rack (~3 lb),1008,fdc
+bacon,thick cut bacon|sliced bacon|hickory smoked bacon,168277,"Pork, cured, bacon, unprepared",sr_legacy,raw_meat,393.0,13.7,0.0,37.1,0.0,340,12 oz package,1008,fdc
+breakfast sausage,pork sausage|sausage links|sausage patties|jimmy dean,172934,"Pork sausage, link/patty, unprepared",sr_legacy,raw_meat,288.0,15.4,0.9,24.8,0.0,340,12 oz package,1008,fdc
+italian sausage,sweet italian sausage|hot italian sausage|mild italian sausage,171631,"Sausage, Italian, pork, mild, raw",sr_legacy,raw_meat,290.0,13.9,3.0,24.3,0.0,539,19 oz package (5 links),1008,fdc
+turkey sausage,turkey breakfast sausage,746783,"Sausage, turkey, breakfast links, mild, raw",foundation,raw_meat,169.0,16.7,0.9,10.4,0.0,340,12 oz package,1008,assumed_zero
+chorizo,pork chorizo|mexican chorizo,173859,"Sausage, pork, chorizo, link or ground, raw",sr_legacy,raw_meat,296.0,13.6,3.8,25.1,0.0,255,9 oz package,1008,fdc
+lamb chops,lamb loin chops,172551,"Lamb, loin, separable lean and fat, trimmed to 1/8"" fat, choice, raw",sr_legacy,raw_meat,279.0,17.2,0.0,22.8,0.0,454,1 lb package,1008,fdc
+ground lamb,lamb ground,2727570,"Lamb, ground, raw",foundation,raw_meat,241.7,17.5,0.0,18.6,0.0,454,1 lb package,2048,assumed_zero
+ground bison,bison|buffalo ground,2727571,"Bison, ground, raw",foundation,raw_meat,164.4,19.9,0.0,8.9,0.0,454,1 lb package,2048,assumed_zero
+salmon,atlantic salmon|salmon fillet|farmed salmon|salmon filet,2684441,"Fish, salmon, Atlantic, farm raised, raw",foundation,raw_seafood,203.1,20.3,0.0,13.1,0.0,454,1 lb fillet,2048,assumed_zero
+sockeye salmon,wild salmon|wild sockeye,2684440,"Fish, salmon, sockeye, wild caught, raw",foundation,raw_seafood,136.2,22.3,0.0,4.9,0.0,454,1 lb fillet,2048,assumed_zero
+cod,cod fillet|atlantic cod,2684444,"Fish, cod, Atlantic, wild caught, raw",foundation,raw_seafood,70.5,16.1,0.0,0.7,0.0,454,1 lb,2048,assumed_zero
+tilapia,tilapia fillets,2684442,"Fish, tilapia, farm raised, raw",foundation,raw_seafood,100.0,19.0,0.0,2.5,0.0,454,1 lb,2048,assumed_zero
+shrimp,raw shrimp|jumbo shrimp|large shrimp|prawns|shrimp peeled deveined,2684443,"Crustaceans, shrimp, farm raised, raw",foundation,raw_seafood,75.7,15.6,0.5,0.8,0.0,454,1 lb bag,2048,assumed_zero
+catfish,catfish fillets,2684445,"Fish, catfish, farm raised, raw",foundation,raw_seafood,133.8,16.5,0.0,7.3,0.0,454,1 lb,2048,assumed_zero
+haddock,haddock fillet,333374,"Fish, haddock, raw",foundation,raw_seafood,74.0,16.3,0.0,0.5,0.0,454,1 lb,1008,assumed_zero
+pollock,alaska pollock|pollock fillets,333476,"Fish, pollock, raw",foundation,raw_seafood,56.0,12.3,0.0,0.4,0.0,454,1 lb,1008,assumed_zero
+halibut,halibut fillet,2747656,"Halibut, frozen, wild caught",foundation,raw_seafood,81.3,19.1,0.0,0.6,0.0,454,1 lb,2047,assumed_zero
+tuna steak,ahi tuna|yellowfin tuna|ahi,2747673,"Tuna, ahi or yellowfin, frozen, wild caught",foundation,raw_seafood,101.9,24.7,0.0,0.4,0.0,340,12 oz (2 steaks),2047,assumed_zero
+mahi mahi,mahi|mahi mahi fillets,2747658,"Mahi mahi, frozen, wild caught",foundation,raw_seafood,83.7,19.8,0.3,0.4,0.0,454,1 lb,2047,assumed_zero
+trout,rainbow trout,173717,"Fish, trout, rainbow, farmed, raw",sr_legacy,raw_seafood,141.0,19.9,0.0,6.2,0.0,454,1 lb,1008,fdc
+swordfish,swordfish steak,2747672,"Swordfish, frozen, wild caught",foundation,raw_seafood,151.9,19.2,0.4,8.1,0.0,454,1 lb,2047,assumed_zero
+sea bass,chilean sea bass,2747668,"Sea bass, Chilean, frozen, wild caught",foundation,raw_seafood,209.4,14.9,0.1,16.6,0.0,340,12 oz,2047,assumed_zero
+sea scallops,scallops|bay scallops,2747667,"Scallops, sea, frozen, wild caught",foundation,raw_seafood,66.4,13.5,2.0,0.5,0.0,454,1 lb,2047,assumed_zero
+crab meat,lump crab|crabmeat|lump crab meat,2684446,"Crustaceans, crab, blue swimming, lump, pasteurized, refrigerated",foundation,raw_seafood,86.0,18.6,0.0,0.8,0.0,227,8 oz container,2048,assumed_zero
+lobster tail,lobster tails|lobster,2747657,"Lobster, tail only, frozen, wild caught",foundation,raw_seafood,58.8,13.0,0.9,0.4,0.0,170,2 tails (~6 oz),2047,assumed_zero
+snow crab legs,crab legs,2747670,"Snow crab, legs only, frozen",foundation,raw_seafood,69.2,15.5,1.1,0.3,0.0,907,2 lb clusters,2047,assumed_zero
+mussels,blue mussels,174216,"Mollusks, mussel, blue, raw",sr_legacy,raw_seafood,86.0,11.9,3.7,2.2,0.0,907,2 lb bag,1008,fdc
+clams,littleneck clams|fresh clams,174214,"Mollusks, clam, mixed species, raw",sr_legacy,raw_seafood,86.0,14.7,3.6,1.0,0.0,907,2 lb bag,1008,fdc
+oysters,fresh oysters,171978,"Mollusks, oyster, eastern, wild, raw",sr_legacy,raw_seafood,51.0,5.7,2.7,1.7,0.0,340,12 each,1008,fdc
+calamari,squid,2747671,"Squid (calamari), frozen, tubes only",foundation,raw_seafood,43.9,8.8,0.9,0.6,0.0,454,1 lb,2047,assumed_zero
+deli turkey,sliced turkey|turkey breast deli|oven roasted turkey|turkey lunchmeat,172941,"Turkey breast, sliced, prepackaged",sr_legacy,deli_meat,106.0,14.8,2.2,3.8,0.0,255,9 oz package,1008,fdc
+deli ham,sliced ham|ham lunchmeat|honey ham|black forest ham,332397,"Ham, sliced, pre-packaged, deli meat (96%fat free, water added)",foundation,deli_meat,106.0,16.7,0.3,3.7,0.0,255,9 oz package,1008,assumed_zero
+deli chicken,sliced chicken breast|chicken lunchmeat,173874,"Chicken breast, deli, rotisserie seasoned, sliced, prepackaged",sr_legacy,deli_meat,98.0,17.4,2.9,1.9,0.0,255,9 oz package,1008,fdc
+roast beef,deli roast beef|sliced roast beef,174570,"Roast beef, deli style, prepackaged, sliced",sr_legacy,deli_meat,115.0,18.6,0.6,3.7,0.0,255,9 oz package,1008,fdc
+salami,genoa salami|hard salami,174603,"Salami, Italian, pork",sr_legacy,deli_meat,425.0,21.7,1.2,37.0,0.0,113,4 oz package,1008,fdc
+pepperoni,sliced pepperoni,174575,"Pepperoni, beef and pork, sliced",sr_legacy,deli_meat,504.0,19.2,1.2,46.3,0.0,170,6 oz package,1008,fdc
+bologna,bologna sliced,172013,"Bologna, beef and pork",sr_legacy,deli_meat,308.0,15.2,5.5,24.6,0.0,454,16 oz package,1008,fdc
+hot dogs,franks|beef franks|hot dog|frankfurters,323121,"Frankfurter, beef, unheated",foundation,deli_meat,314.0,11.7,2.9,28.0,0.0,425,15 oz package (8 franks),1008,assumed_zero
+smoked sausage,kielbasa|polish sausage,172953,"Sausage, Polish, beef with chicken, hot",sr_legacy,deli_meat,259.0,17.6,3.6,19.4,0.0,397,14 oz rope,1008,fdc
+smoked salmon,lox|nova lox,173687,"Fish, salmon, chinook, smoked",sr_legacy,deli_meat,117.0,18.3,0.0,4.3,0.0,113,4 oz package,1008,fdc
+rotisserie chicken,roasted chicken|rotis chicken,171450,"Chicken, broilers or fryers, meat and skin, cooked, roasted",sr_legacy,cooked_leftovers,239.0,27.3,0.0,13.6,0.0,900,1 each (~2 lb),1008,fdc
+hummus,classic hummus|sabra hummus,321358,"Hummus, commercial",foundation,other,229.0,7.3,14.9,17.1,5.4,283,10 oz tub,1008,fdc
+white bread,bread|sandwich bread|wonder bread|white sandwich bread,174924,"Bread, white, commercially prepared (includes soft bread crumbs)",sr_legacy,bread,266.0,8.8,49.4,3.3,2.7,567,20 oz loaf,1008,fdc
+whole wheat bread,wheat bread|100% whole wheat bread|whl wht bread,172688,"Bread, whole-wheat, commercially prepared",sr_legacy,bread,252.0,12.4,42.7,3.5,6.0,567,20 oz loaf,1008,fdc
+multigrain bread,multi grain bread|12 grain bread,168013,"Bread, multi-grain (includes whole-grain)",sr_legacy,bread,265.0,13.4,43.3,4.2,7.4,680,24 oz loaf,1008,fdc
+sourdough bread,sourdough|french bread|baguette,172675,"Bread, french or vienna (includes sourdough)",sr_legacy,bread,272.0,10.8,51.9,2.4,2.2,454,1 lb loaf,1008,fdc
+rye bread,rye|jewish rye,172684,"Bread, rye",sr_legacy,bread,259.0,8.5,48.3,3.3,5.8,454,16 oz loaf,1008,fdc
+bagels,bagel|plain bagels,174899,"Bagels, plain, enriched, with calcium propionate (includes onion, poppy, sesame)",sr_legacy,bread,264.0,10.6,52.4,1.3,1.6,567,6-pack (~20 oz),1008,fdc
+english muffins,english muffin,174994,"Muffins, English, plain, enriched, with ca prop (includes sourdough)",sr_legacy,bread,227.0,8.9,44.2,1.7,3.5,340,6-pack (12 oz),1008,fdc
+hamburger buns,burger buns|hot dog buns|buns,172796,"Rolls, hamburger or hotdog, plain",sr_legacy,bread,279.0,9.8,50.1,3.9,1.8,340,8-pack (12 oz),1008,fdc
+dinner rolls,rolls|hawaiian rolls,172793,"Rolls, dinner, plain, commercially prepared (includes brown-and-serve)",sr_legacy,bread,310.0,10.9,52.0,6.5,2.0,340,12-pack (12 oz),1008,fdc
+croissants,croissant|butter croissants,174987,"Croissants, butter",sr_legacy,bread,406.0,8.2,45.8,21.0,2.6,340,6-pack (12 oz),1008,fdc
+pita bread,pita|pitas,174915,"Bread, pita, white, enriched",sr_legacy,bread,275.0,9.1,55.7,1.2,2.2,340,6-pack (12 oz),1008,fdc
+naan,naan bread,171845,"Bread, naan, plain, commercially prepared, refrigerated",sr_legacy,bread,291.0,9.6,50.4,5.7,2.2,252,2-pack (8.8 oz),1008,fdc
+blueberry muffins,muffins|muffin,172765,"Muffins, blueberry, commercially prepared (Includes mini-muffins)",sr_legacy,bread,375.0,4.5,53.0,16.1,1.1,397,4-pack (14 oz),1008,fdc
+donuts,doughnuts|donut,174990,"Doughnuts, cake-type, plain (includes unsugared, old-fashioned)",sr_legacy,bread,434.0,5.3,47.1,24.9,1.7,340,6-pack (12 oz),1008,fdc
+flour tortillas,tortillas|tortillas flour|burrito tortillas,175037,"Tortillas, ready-to-bake or -fry, flour, refrigerated",sr_legacy,tortillas,306.0,8.2,49.4,8.0,3.5,454,10-pack (16 oz),1008,fdc
+corn tortillas,tortillas corn,175036,"Tortillas, ready-to-bake or -fry, corn",sr_legacy,tortillas,218.0,5.7,44.6,2.9,6.3,340,30-pack (~12 oz),1008,fdc
+frozen peas,peas|green peas frozen|frzn peas,170016,"Peas, green, frozen, unprepared (Includes foods for USDA's Food Distribution Program)",sr_legacy,frozen,77.0,5.2,13.6,0.4,4.5,340,12 oz bag,1008,fdc
+frozen corn,corn frozen|sweet corn frozen,168398,"Corn, sweet, yellow, frozen, kernels cut off cob, unprepared (Includes foods for USDA's Food Distribution Program)",sr_legacy,frozen,88.0,3.0,20.7,0.8,2.1,340,12 oz bag,1008,fdc
+frozen broccoli,broccoli florets frozen|frzn broccoli,169970,"Broccoli, frozen, spears, unprepared (Includes foods for USDA's Food Distribution Program)",sr_legacy,frozen,29.0,3.1,5.3,0.3,3.0,340,12 oz bag,1008,fdc
+frozen spinach,chopped spinach frozen,169287,"Spinach, frozen, chopped or leaf, unprepared (Includes foods for USDA's Food Distribution Program)",sr_legacy,frozen,29.0,3.6,4.2,0.6,2.9,283,10 oz box,1008,fdc
+frozen mixed vegetables,mixed vegetables|frozen veggies|stir fry vegetables,170471,"Vegetables, mixed, frozen, unprepared",sr_legacy,frozen,72.0,3.3,13.5,0.5,4.0,340,12 oz bag,1008,fdc
+frozen carrots,carrots frozen,746764,"Carrots, frozen, unprepared",foundation,frozen,37.0,0.8,7.9,0.5,3.2,340,12 oz bag,1008,fdc
+frozen green beans,green beans frozen,169962,"Beans, snap, green, frozen, all styles, unprepared (Includes foods for USDA's Food Distribution Program)",sr_legacy,frozen,33.0,1.8,7.5,0.2,2.6,340,12 oz bag,1008,fdc
+frozen edamame,edamame|shelled edamame,168410,"Edamame, frozen, unprepared",sr_legacy,frozen,109.0,11.2,7.6,4.7,4.8,340,12 oz bag,1008,fdc
+frozen strawberries,strawberries frozen,168173,"Strawberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",sr_legacy,frozen,35.0,0.4,9.1,0.1,2.1,454,16 oz bag,1008,fdc
+frozen blueberries,blueberries frozen|wild blueberries frozen,173950,"Blueberries, frozen, unsweetened (Includes foods for USDA's Food Distribution Program)",sr_legacy,frozen,51.0,0.4,12.2,0.6,2.7,454,16 oz bag,1008,fdc
+frozen mixed berries,mixed berries|berry blend,168209,"Raspberries, frozen, red, unsweetened",sr_legacy,frozen,56.0,1.1,12.6,0.8,4.3,454,16 oz bag,1008,fdc
+frozen french fries,french fries|fries|crinkle fries|shoestring fries,170523,"Potatoes, french fried, all types, salt not added in processing, frozen, as purchased",sr_legacy,frozen,147.0,2.2,24.8,4.7,1.9,907,32 oz bag,1008,fdc
+tater tots,potato puffs|tots,170047,"Potato puffs, frozen, unprepared",sr_legacy,frozen,178.0,1.9,24.8,8.7,2.3,907,32 oz bag,1008,fdc
+frozen hash browns,hash browns|shredded hash browns,170043,"Potatoes, hash brown, frozen, plain, unprepared",sr_legacy,frozen,82.0,2.1,17.7,0.6,1.4,850,30 oz bag,1008,fdc
+frozen pizza,pizza|cheese pizza frozen,170317,"Pizza, cheese topping, regular crust, frozen, cooked",sr_legacy,frozen,268.0,10.4,29.0,12.3,2.2,400,1 pizza (~14 oz),1008,fdc
+frozen waffles,waffles|eggo,175038,"Waffles, plain, frozen, ready-to-heat",sr_legacy,frozen,285.0,6.5,43.0,9.7,2.2,350,10-pack (12.3 oz),1008,fdc
+chicken nuggets,frozen chicken nuggets|nuggets|chicken tenders frozen,172112,"Chicken, nuggets, white meat, precooked, frozen, not reheated",sr_legacy,frozen,261.0,14.4,16.2,15.4,0.7,907,32 oz bag,1008,fdc
+fish sticks,fish fillets breaded,174195,"Fish, fish sticks, frozen, prepared",sr_legacy,frozen,277.0,11.0,21.7,16.2,1.5,680,24 oz box,1008,fdc
+frozen burritos,burrito,173336,"Burrito, bean and cheese, frozen",sr_legacy,frozen,221.0,7.1,34.0,6.3,3.4,142,1 burrito (5 oz),1008,fdc
+vanilla ice cream,ice cream|ice cream vanilla,167575,"Ice creams, vanilla",sr_legacy,frozen,207.0,3.5,23.6,11.0,0.7,870,1.5 quart carton (~48 fl oz),1008,fdc
+chocolate ice cream,ice cream chocolate,168809,"Ice creams, chocolate",sr_legacy,frozen,216.0,3.8,28.2,11.0,1.2,870,1.5 quart carton (~48 fl oz),1008,fdc
+frozen yogurt,froyo,168815,"Frozen yogurts, vanilla, soft-serve",sr_legacy,frozen,159.0,4.0,24.2,5.6,0.0,870,1.5 quart carton,1008,fdc
+canned tuna,tuna|chunk light tuna|tuna in water|starkist,334194,"Fish, tuna, light, canned in water, drained solids",foundation,canned,90.0,19.0,0.1,0.9,0.0,142,5 oz can (drained ~4 oz),1008,assumed_zero
+canned salmon,salmon canned|pink salmon can,175175,"Fish, salmon, pink, canned, drained solids",sr_legacy,canned,138.0,23.1,0.0,5.0,0.0,418,14.75 oz can,1008,fdc
+sardines,canned sardines,175139,"Fish, sardine, Atlantic, canned in oil, drained solids with bone",sr_legacy,canned,208.0,24.6,0.0,11.4,0.0,106,3.75 oz can,1008,fdc
+anchovies,anchovy fillets,2747652,"Anchovies, canned in olive oil, with salt, drained",foundation,canned,206.1,26.9,2.4,9.9,0.0,56,2 oz tin,2047,assumed_zero
+canned chicken,chicken breast canned,171099,"Chicken, canned, meat only, with broth",sr_legacy,canned,165.0,21.8,0.0,8.0,0.0,354,12.5 oz can,1008,fdc
+black beans,canned black beans|black beans can|blk beans,2644285,"Beans, black, canned, sodium added, drained and rinsed",foundation,canned,115.3,6.9,19.8,1.3,6.9,425,15 oz can,2048,sr_legacy:175238
+kidney beans,red kidney beans|canned kidney beans,2644289,"Beans, kidney, dark red, canned, sodium added, sugar added, drained and rinsed",foundation,canned,123.2,7.8,21.0,1.3,5.5,425,15 oz can,2048,sr_legacy:174285
+pinto beans,canned pinto beans,2644292,"Beans, pinto, canned, sodium added, drained and rinsed",foundation,canned,113.6,6.7,19.6,1.3,5.5,425,15 oz can,2048,sr_legacy:174286
+chickpeas,garbanzo beans|canned chickpeas|garbanzos,2644288,"Chickpeas (garbanzo beans, bengal gram), canned, sodium added, drained and rinsed",foundation,canned,133.0,7.0,20.3,3.1,6.3,425,15 oz can,2048,sr_legacy:173801
+cannellini beans,white beans|white kidney beans,2644287,"Beans, cannellini, canned, sodium added, drained and rinsed",foundation,canned,112.1,7.4,18.8,1.2,4.9,425,15 oz can,2048,sr_legacy:175192
+navy beans,canned navy beans,2644286,"Beans, navy, canned, sodium added, drained and rinsed",foundation,canned,115.8,6.6,20.0,1.4,5.1,425,15 oz can,2048,sr_legacy:173747
+great northern beans,great northern,2644294,"Beans, great northern, canned, sodium added, drained and rinsed",foundation,canned,113.7,7.0,19.3,1.3,4.9,425,15 oz can,2048,sr_legacy:175192
+black-eyed peas,black eyed peas|blackeye peas,2644293,"Blackeye pea, canned, sodium added, drained and rinsed",foundation,canned,112.9,6.9,19.2,1.3,3.3,425,15 oz can,2048,sr_legacy:173760
+refried beans,refried|refried pinto beans,172438,"Refried beans, canned, traditional style",sr_legacy,canned,90.0,5.0,13.6,2.0,3.7,454,16 oz can,1008,fdc
+baked beans,bush's baked beans|pork and beans,175182,"Beans, baked, canned, plain or vegetarian",sr_legacy,canned,94.0,4.8,21.1,0.4,4.1,454,16 oz can,1008,fdc
+canned corn,corn canned|whole kernel corn,169214,"Corn, sweet, yellow, canned, whole kernel, drained solids",sr_legacy,canned,67.0,2.3,14.3,1.2,2.0,432,15.25 oz can,1008,fdc
+canned green beans,green beans canned|cut green beans,321611,"Beans, snap, green, canned, regular pack, drained solids",foundation,canned,21.0,1.0,4.1,0.4,1.9,411,14.5 oz can,1008,sr_legacy:169143
+canned peas,sweet peas canned,2644291,"Peas, green, sweet, canned, sodium added, sugar added, drained and rinsed",foundation,canned,77.8,4.7,12.7,1.2,4.1,425,15 oz can,2048,sr_legacy:170104
+diced tomatoes,canned tomatoes|petite diced tomatoes|tomatoes diced,333281,"Tomatoes, canned, red, ripe, diced",foundation,canned,18.0,0.8,3.3,0.5,1.9,411,14.5 oz can,1008,sr_legacy:170051
+crushed tomatoes,tomatoes crushed,2685581,"Tomatoes, crushed, canned",foundation,canned,32.3,1.4,7.1,0.4,1.9,794,28 oz can,2048,fdc
+whole peeled tomatoes,san marzano|whole tomatoes canned,2685578,"Tomatoes, whole, canned, solids and liquids, with salt added",foundation,canned,19.1,0.9,4.3,0.2,0.9,794,28 oz can,2048,fdc
+tomato sauce,canned tomato sauce,2685579,"Tomato, sauce, canned, with salt added",foundation,canned,29.1,1.4,6.3,0.4,1.6,425,15 oz can,2048,fdc
+tomato paste,tom paste,2685580,"Tomato, paste, canned, without salt added",foundation,canned,88.5,4.2,20.2,0.7,4.7,170,6 oz can,2048,fdc
+tomato puree,tomato purée,2685582,"Tomato, puree, canned",foundation,canned,34.8,1.6,8.0,0.3,2.0,822,29 oz can,2048,fdc
+pasta sauce,marinara|spaghetti sauce|marinara sauce|ragu|prego,332282,"Sauce, pasta, spaghetti/marinara, ready-to-serve",foundation,canned,45.0,1.4,8.1,1.5,1.8,680,24 oz jar,1008,fdc
+coconut milk,canned coconut milk|coconut milk can,170173,"Nuts, coconut milk, canned (liquid expressed from grated meat and water)",sr_legacy,canned,197.0,2.0,2.8,21.3,2.2,400,13.5 oz can,1008,sr_legacy:170172
+chicken broth,chicken stock|broth|chkn broth,174536,"Soup, chicken broth, ready-to-serve",sr_legacy,canned,6.0,0.6,0.4,0.2,0.0,960,32 oz carton,1008,fdc
+beef broth,beef stock,171538,"Soup, beef broth or bouillon canned, ready-to-serve",sr_legacy,canned,7.0,1.1,0.0,0.2,0.0,960,32 oz carton,1008,fdc
+vegetable broth,vegetable stock|veggie broth,171583,"Soup, vegetable broth, ready to serve",sr_legacy,canned,5.0,0.2,0.9,0.1,0.0,960,32 oz carton,1008,fdc
+chicken noodle soup,canned soup|campbells chicken noodle,171543,"Soup, chicken noodle, canned, condensed",sr_legacy,canned,48.0,2.4,6.1,1.6,0.9,305,10.75 oz can (condensed),1008,fdc
+tomato soup,campbells tomato,172882,"Soup, tomato, canned, condensed",sr_legacy,canned,66.0,1.5,15.2,0.4,1.1,305,10.75 oz can (condensed),1008,fdc
+cream of mushroom soup,cream of mushroom,171155,"Soup, cream of mushroom, canned, condensed",sr_legacy,canned,79.0,1.4,6.8,5.3,0.7,298,10.5 oz can (condensed),1008,fdc
+canned pumpkin,pumpkin puree|libbys pumpkin,168450,"Pumpkin, canned, without salt",sr_legacy,canned,34.0,1.1,8.1,0.3,2.9,425,15 oz can,1008,fdc
+canned peaches,peaches canned|sliced peaches,169111,"Peaches, canned, light syrup pack, solids and liquids",sr_legacy,canned,54.0,0.5,14.6,0.0,1.3,425,15 oz can,1008,fdc
+canned pineapple,pineapple chunks|pineapple tidbits,169126,"Pineapple, canned, juice pack, solids and liquids",sr_legacy,canned,60.0,0.4,15.7,0.1,0.8,567,20 oz can,1008,fdc
+mandarin oranges canned,mandarin oranges,169924,"Tangerines, (mandarin oranges), canned, light syrup pack",sr_legacy,canned,61.0,0.5,16.2,0.1,0.7,425,15 oz can,1008,fdc
+applesauce,apple sauce|unsweetened applesauce,2346414,"Applesauce, unsweetened, with added vitamin C",foundation,canned,46.4,0.3,12.3,0.2,1.1,680,24 oz jar,2048,sr_legacy:167772
+black olives,ripe olives|sliced black olives,169094,"Olives, ripe, canned (small-extra large)",sr_legacy,canned,116.0,0.8,6.0,10.9,1.6,170,6 oz can (drained),1008,fdc
+green olives,manzanilla olives|stuffed olives,332791,"Olives, green, Manzanilla, stuffed with pimiento",foundation,canned,130.0,1.1,5.0,12.9,4.0,198,7 oz jar,1008,fdc
+evaporated milk,carnation evaporated,171276,"Milk, canned, evaporated, with added vitamin D and without added vitamin A",sr_legacy,canned,134.0,6.8,10.0,7.6,0.0,354,12 fl oz can,1008,fdc
+sweetened condensed milk,condensed milk,171275,"Milk, canned, condensed, sweetened",sr_legacy,canned,321.0,7.9,54.4,8.7,0.0,397,14 oz can,1008,fdc
+white rice,rice|long grain rice|jasmine rice|basmati rice|white rice 5lb,2512381,"Rice, white, long grain, unenriched, raw",foundation,dry_goods,369.6,7.0,80.3,1.0,0.1,2268,5 lb bag,2048,fdc
+brown rice,long grain brown rice,2512380,"Rice, brown, long grain, unenriched, raw",foundation,dry_goods,368.4,7.3,76.7,3.3,3.0,907,2 lb bag,2048,fdc
+wild rice,wild rice blend,2710821,"Wild rice, dry, raw",foundation,dry_goods,358.6,12.8,75.7,1.7,4.3,454,1 lb,2048,fdc
+quinoa,white quinoa|tri color quinoa,168874,"Quinoa, uncooked",sr_legacy,dry_goods,368.0,14.1,64.2,6.1,7.0,340,12 oz bag,1008,fdc
+rolled oats,oats|old fashioned oats|oatmeal|quaker oats,2346396,"Oats, whole grain, rolled, old fashioned",foundation,dry_goods,378.9,13.5,68.7,5.9,10.1,1190,42 oz canister,2048,sr_legacy:173904
+steel cut oats,irish oats,2346397,"Oats, whole grain, steel cut",foundation,dry_goods,379.2,12.5,69.8,5.8,10.1,680,24 oz canister,2048,sr_legacy:173904
+spaghetti,pasta|penne|rotini|elbow macaroni|linguine|fettuccine|spaghetti pasta,169736,"Pasta, dry, enriched",sr_legacy,dry_goods,371.0,13.0,74.7,1.5,3.2,454,1 lb box,1008,fdc
+whole wheat pasta,whole wheat spaghetti|whole grain pasta,169738,"Pasta, whole-wheat, dry (Includes foods for USDA's Food Distribution Program)",sr_legacy,dry_goods,352.0,13.9,73.4,2.9,9.2,454,1 lb box,1008,fdc
+egg noodles,wide egg noodles,169731,"Noodles, egg, dry, enriched",sr_legacy,dry_goods,384.0,14.2,71.3,4.4,3.3,340,12 oz bag,1008,fdc
+ramen noodles,ramen|instant ramen|top ramen|cup noodles,171177,"Soup, ramen noodle, any flavor, dry",sr_legacy,dry_goods,440.0,10.2,60.3,17.6,2.9,85,3 oz packet,1008,fdc
+rice noodles,pad thai noodles|rice vermicelli,169742,"Rice noodles, dry",sr_legacy,dry_goods,364.0,6.0,80.2,0.6,1.6,454,16 oz package,1008,fdc
+couscous,pearl couscous,169699,"Couscous, dry",sr_legacy,dry_goods,376.0,12.8,77.4,0.6,5.0,283,10 oz box,1008,fdc
+bulgur,bulgur wheat,2710820,"Bulgur, dry, raw",foundation,dry_goods,349.3,11.8,75.9,2.4,11.7,680,24 oz bag,2048,fdc
+farro,pearled farro,2710828,"Farro, pearled, dry, raw",foundation,dry_goods,344.0,12.6,72.1,3.1,7.3,454,16 oz bag,2048,fdc
+pearl barley,barley,170284,"Barley, pearled, raw",sr_legacy,dry_goods,352.0,9.9,77.7,1.2,15.6,454,16 oz bag,1008,fdc
+macaroni and cheese,mac and cheese|mac n cheese|kraft mac,173340,"Macaroni and cheese dinner with dry sauce mix, boxed, uncooked",sr_legacy,dry_goods,379.0,13.9,70.1,4.8,3.2,206,7.25 oz box,1008,fdc
+dry lentils,lentils|green lentils|brown lentils|red lentils,2644283,"Lentils, dry",foundation,dry_goods,350.9,23.6,62.2,1.9,10.7,454,1 lb bag,2048,sr_legacy:172420
+split peas,green split peas,172428,"Peas, green, split, mature seeds, raw",sr_legacy,dry_goods,364.0,23.1,61.6,3.9,22.2,454,1 lb bag,1008,fdc
+dry black beans,black beans dry|dried black beans,173734,"Beans, black, mature seeds, raw",sr_legacy,dry_goods,341.0,21.6,62.4,1.4,15.5,454,1 lb bag,1008,fdc
+dry pinto beans,pinto beans dry|dried pinto beans,175199,"Beans, pinto, mature seeds, raw (Includes foods for USDA's Food Distribution Program)",sr_legacy,dry_goods,347.0,21.4,62.5,1.2,15.5,907,2 lb bag,1008,fdc
+dry chickpeas,dried chickpeas|dried garbanzo,2644282,"Chickpeas, (garbanzo beans, bengal gram), dry",foundation,dry_goods,372.0,21.3,60.4,6.3,12.2,454,1 lb bag,2048,sr_legacy:173756
+all-purpose flour,flour|ap flour|all purpose flour|white flour,789890,"Flour, wheat, all-purpose, enriched, bleached",foundation,dry_goods,366.0,10.9,77.3,1.5,2.7,2268,5 lb bag,1008,sr_legacy:168894
+bread flour,bread flour unbleached,790146,"Flour, bread, white, enriched, unbleached",foundation,dry_goods,363.0,14.3,72.8,1.6,2.4,2268,5 lb bag,1008,sr_legacy:168896
+whole wheat flour,wheat flour,790085,"Flour, whole wheat, unenriched",foundation,dry_goods,370.0,15.1,71.2,2.7,10.6,2268,5 lb bag,1008,fdc
+almond flour,almond meal,2261420,"Flour, almond",foundation,dry_goods,577.6,26.2,16.2,50.2,9.3,454,16 oz bag,2048,fdc
+cornmeal,yellow cornmeal|corn meal|polenta,790276,"Flour, corn, yellow, fine meal, enriched",foundation,dry_goods,364.0,6.2,80.8,1.7,4.3,907,2 lb bag,1008,fdc
+masa harina,masa|maseca,2710835,"Corn flour, masa harina, white or yellow, dry, raw",foundation,dry_goods,366.0,7.6,76.7,4.3,7.0,1814,4 lb bag,2048,fdc
+cornstarch,corn starch,169698,Cornstarch,sr_legacy,dry_goods,381.0,0.3,91.3,0.1,0.9,454,16 oz box,1008,fdc
+sugar,granulated sugar|white sugar|cane sugar,746784,"Sugars, granulated",foundation,dry_goods,385.0,0.0,99.6,0.3,0.0,1814,4 lb bag,1008,assumed_zero
+brown sugar,light brown sugar|dark brown sugar,168833,"Sugars, brown",sr_legacy,dry_goods,380.0,0.1,98.1,0.0,0.0,907,2 lb bag,1008,fdc
+powdered sugar,confectioners sugar|icing sugar,169656,"Sugars, powdered",sr_legacy,dry_goods,389.0,0.0,99.8,0.0,0.0,907,2 lb bag,1008,fdc
+cocoa powder,unsweetened cocoa|baking cocoa,169593,"Cocoa, dry powder, unsweetened",sr_legacy,dry_goods,228.0,19.6,57.9,13.7,37.0,227,8 oz canister,1008,fdc
+chocolate chips,semisweet chocolate chips|choc chips,167976,"Candies, semisweet chocolate",sr_legacy,dry_goods,480.0,4.2,63.9,30.0,5.9,340,12 oz bag,1008,fdc
+breadcrumbs,bread crumbs|panko,174928,"Bread, crumbs, dry, grated, plain",sr_legacy,dry_goods,395.0,13.3,72.0,5.3,4.5,425,15 oz canister,1008,fdc
+pancake mix,bisquick|baking mix|waffle mix,172772,"Pancakes, plain, dry mix, complete (includes buttermilk)",sr_legacy,dry_goods,368.0,9.8,73.7,3.1,2.9,907,32 oz box,1008,fdc
+yeast,active dry yeast|instant yeast,175043,"Leavening agents, yeast, baker's, active dry",sr_legacy,dry_goods,325.0,40.4,41.2,7.6,26.9,21,3-pack strip (0.75 oz),1008,fdc
+baking powder,baking pwdr,172803,"Leavening agents, baking powder, double-acting, sodium aluminum sulfate",sr_legacy,dry_goods,53.0,0.0,27.7,0.0,0.2,227,8.1 oz can,1008,fdc
+corn flakes,cereal|cornflakes,174648,"Cereals ready-to-eat, RALSTON Corn Flakes",sr_legacy,dry_goods,384.0,5.9,88.0,0.9,2.7,340,12 oz box,1008,fdc
+granola,granola cereal,171646,"Cereals ready-to-eat, granola, homemade",sr_legacy,dry_goods,489.0,13.7,53.9,24.3,8.9,340,12 oz bag,1008,fdc
+salt,table salt|iodized salt|kosher salt|sea salt,746775,"Salt, table, iodized",foundation,dry_goods,0.0,0.0,0.0,0.0,0.0,737,26 oz canister,2047,assumed_zero
+black pepper,ground black pepper|pepper|peppercorns,170931,"Spices, pepper, black",sr_legacy,dry_goods,251.0,10.4,64.0,3.3,25.3,57,2 oz jar,1008,fdc
+cinnamon,ground cinnamon,171320,"Spices, cinnamon, ground",sr_legacy,dry_goods,247.0,4.0,80.6,1.2,53.1,68,2.4 oz jar,1008,fdc
+garlic powder,granulated garlic,171325,"Spices, garlic powder",sr_legacy,dry_goods,331.0,16.6,72.7,0.7,9.0,88,3.1 oz jar,1008,fdc
+onion powder,granulated onion,171327,"Spices, onion powder",sr_legacy,dry_goods,341.0,10.4,79.1,1.0,15.2,74,2.6 oz jar,1008,fdc
+chili powder,chile powder,171319,"Spices, chili powder",sr_legacy,dry_goods,282.0,13.5,49.7,14.3,34.8,71,2.5 oz jar,1008,fdc
+paprika,smoked paprika,171329,"Spices, paprika",sr_legacy,dry_goods,282.0,14.1,54.0,12.9,34.9,60,2.1 oz jar,1008,fdc
+cumin,ground cumin,170923,"Spices, cumin seed",sr_legacy,dry_goods,375.0,17.8,44.2,22.3,10.5,43,1.5 oz jar,1008,fdc
+oregano,dried oregano,171328,"Spices, oregano, dried",sr_legacy,dry_goods,265.0,9.0,68.9,4.3,42.5,21,0.75 oz jar,1008,fdc
+red pepper flakes,crushed red pepper|chili flakes,170932,"Spices, pepper, red or cayenne",sr_legacy,dry_goods,318.0,12.0,56.6,17.3,27.2,43,1.5 oz jar,1008,fdc
+vanilla extract,vanilla|pure vanilla extract,173471,Vanilla extract,sr_legacy,dry_goods,288.0,0.1,12.7,0.1,0.0,59,2 fl oz bottle,1008,fdc
+almonds,raw almonds|whole almonds,2346393,"Nuts, almonds, whole, raw",foundation,dry_goods,583.6,21.5,20.0,51.1,10.8,454,16 oz bag,2048,fdc
+roasted almonds,roasted salted almonds,323294,"Nuts, almonds, dry roasted, with salt added",foundation,dry_goods,620.0,20.4,16.2,57.8,11.0,454,16 oz bag,1008,fdc
+cashews,raw cashews|cashew,2515374,"Nuts, cashew nuts, raw",foundation,dry_goods,533.5,17.4,36.3,38.9,4.1,454,16 oz bag,2048,fdc
+walnuts,walnut halves|chopped walnuts,2346394,"Nuts, walnuts, English, halves, raw",foundation,dry_goods,678.7,14.6,10.9,69.7,5.2,454,16 oz bag,2048,fdc
+pecans,pecan halves,2346395,"Nuts, pecans, halves, raw",foundation,dry_goods,699.6,10.0,12.7,73.3,5.8,340,12 oz bag,2048,fdc
+pistachios,pistachio,2515379,"Nuts, pistachio nuts, raw",foundation,dry_goods,560.7,20.5,27.7,45.0,7.0,454,16 oz bag,2048,fdc
+peanuts,roasted peanuts|dry roasted peanuts,174262,"Peanuts, all types, dry-roasted, with salt",sr_legacy,dry_goods,587.0,24.4,21.3,49.7,8.4,454,16 oz jar,1008,fdc
+macadamia nuts,macadamias,2515378,"Nuts, macadamia nuts, raw",foundation,dry_goods,668.5,7.8,24.1,64.9,7.6,227,8 oz bag,2048,fdc
+pine nuts,pignoli,2346392,"Nuts, pine nuts, raw",foundation,dry_goods,643.0,15.7,18.6,61.3,3.9,57,2 oz bag,2048,fdc
+mixed nuts,deluxe mixed nuts,170586,"Nuts, mixed nuts, dry roasted, with peanuts, salt added, PLANTERS pistachio blend",sr_legacy,dry_goods,572.0,23.3,23.1,47.5,8.1,454,16 oz can,1008,fdc
+sunflower seeds,sunflower kernels,325524,"Seeds, sunflower seed kernels, dry roasted, with salt added",foundation,dry_goods,612.0,21.0,17.1,56.1,10.3,454,16 oz bag,1008,fdc
+pumpkin seeds,pepitas,2515380,"Seeds, pumpkin seeds (pepitas), raw",foundation,dry_goods,514.8,29.9,18.7,40.0,5.1,340,12 oz bag,2048,fdc
+chia seeds,chia,2710819,"Chia seeds, dry, raw",foundation,dry_goods,490.1,17.0,38.3,32.9,34.4,340,12 oz bag,2048,sr_legacy:170554
+flaxseed,ground flaxseed|flax meal|flax seeds,2262075,"Flaxseed, ground",foundation,dry_goods,514.4,18.0,34.4,37.3,23.1,454,16 oz bag,2048,fdc
+sesame seeds,sesame,170150,"Seeds, sesame seeds, whole, dried",sr_legacy,dry_goods,573.0,17.7,23.4,49.7,11.8,57,2 oz jar,1008,fdc
+peanut butter,creamy peanut butter|crunchy peanut butter|pb|jif|skippy,2262072,"Peanut butter, creamy",foundation,condiments,589.4,24.0,22.7,49.4,6.3,454,16 oz jar,2048,fdc
+almond butter,almond butter creamy,2262074,"Almond butter, creamy",foundation,condiments,602.5,20.8,21.2,53.0,9.7,340,12 oz jar,2048,fdc
+tahini,sesame paste,2262073,"Sesame butter, creamy",foundation,condiments,648.4,19.7,14.2,62.4,8.4,454,16 oz jar,2048,fdc
+nutella,hazelnut spread|chocolate hazelnut spread,168000,Chocolate-flavored hazelnut spread,sr_legacy,condiments,539.0,5.4,62.4,29.7,5.4,371,13 oz jar,1008,fdc
+trail mix,trail mix regular,167561,"Snacks, trail mix, regular",sr_legacy,snacks,462.0,13.8,44.9,29.4,5.0,737,26 oz bag,1008,sr_legacy:167969
+raisins,raisin|sun maid,168165,"Raisins, dark, seedless (Includes foods for USDA's Food Distribution Program)",sr_legacy,dry_goods,299.0,3.3,79.3,0.2,4.5,340,12 oz box,1008,fdc
+dried cranberries,craisins|cranberries dried,171723,"Cranberries, dried, sweetened (Includes foods for USDA's Food Distribution Program)",sr_legacy,dry_goods,308.0,0.2,82.8,1.1,5.3,340,12 oz bag,1008,fdc
+prunes,dried plums,168162,"Plums, dried (prunes), uncooked",sr_legacy,dry_goods,240.0,2.2,63.9,0.4,7.1,454,16 oz bag,1008,fdc
+dates,medjool dates,168191,"Dates, medjool",sr_legacy,dry_goods,277.0,1.8,75.0,0.1,6.7,454,16 oz package,1008,fdc
+dried figs,figs,746768,"Figs, dried, uncooked",foundation,dry_goods,249.0,3.3,63.9,0.9,9.8,198,7 oz bag,1008,fdc
+olive oil,extra virgin olive oil|evoo|olive oil ev,171413,"Oil, olive, salad or cooking",sr_legacy,dry_goods,884.0,0.0,0.0,100.0,0.0,920,1 L bottle,1008,fdc
+vegetable oil,soybean oil|veg oil|cooking oil,171411,"Oil, soybean, salad or cooking",sr_legacy,dry_goods,884.0,0.0,0.0,100.0,0.0,1306,48 fl oz bottle,1008,fdc
+canola oil,canola,172336,"Oil, canola",sr_legacy,dry_goods,884.0,0.0,0.0,100.0,0.0,1306,48 fl oz bottle,1008,fdc
+coconut oil,virgin coconut oil,330458,"Oil, coconut",foundation,dry_goods,833.0,0.0,0.8,99.1,0.0,397,14 oz jar,1008,assumed_zero
+avocado oil,avocado oil bottle,173573,"Oil, avocado",sr_legacy,dry_goods,884.0,0.0,0.0,100.0,0.0,460,500 ml bottle,1008,fdc
+sesame oil,toasted sesame oil,171016,"Oil, sesame, salad or cooking",sr_legacy,dry_goods,884.0,0.0,0.0,100.0,0.0,230,250 ml bottle,1008,fdc
+cooking spray,pam|nonstick spray,169867,"Oil, corn and canola",sr_legacy,dry_goods,884.0,0.0,0.0,100.0,0.0,170,6 oz can,1008,fdc
+shortening,crisco,173584,"Shortening, vegetable, household, composite",sr_legacy,dry_goods,884.0,0.0,0.0,100.0,0.0,454,16 oz can,1008,fdc
+ghee,clarified butter,173412,"Butter oil, anhydrous",sr_legacy,dry_goods,876.0,0.3,0.0,99.5,0.0,368,13 oz jar,1008,fdc
+ketchup,catsup|tomato ketchup|heinz ketchup,747693,"Ketchup, restaurant",foundation,condiments,117.0,1.1,26.8,0.6,0.3,907,32 oz bottle,1008,sr_legacy:168556
+yellow mustard,mustard|french's mustard,326698,"Mustard, prepared, yellow",foundation,condiments,61.0,4.2,5.3,3.4,4.3,397,14 oz bottle,1008,fdc
+dijon mustard,dijon,172234,"Mustard, prepared, yellow",sr_legacy,condiments,60.0,3.7,5.8,3.3,4.0,340,12 oz jar,1008,fdc
+mayonnaise,mayo|hellmanns|best foods mayo,171009,"Salad dressing, mayonnaise, regular",sr_legacy,condiments,680.0,1.0,0.6,74.8,0.0,850,30 oz jar,1008,fdc
+ranch dressing,ranch,173592,"Salad dressing, ranch dressing, regular",sr_legacy,condiments,430.0,1.3,5.9,44.5,0.0,473,16 oz bottle,1008,fdc
+italian dressing,italian,171019,"Salad dressing, italian dressing, commercial, regular",sr_legacy,condiments,240.0,0.4,12.1,21.1,0.0,473,16 oz bottle,1008,fdc
+caesar dressing,caesar,169055,"Salad dressing, caesar dressing, regular",sr_legacy,condiments,542.0,2.2,3.3,57.9,0.5,355,12 oz bottle,1008,fdc
+bbq sauce,barbecue sauce,174523,"Sauce, barbecue",sr_legacy,condiments,172.0,0.8,40.8,0.6,0.9,510,18 oz bottle,1008,fdc
+hot sauce,tabasco|franks red hot|louisiana hot sauce,174527,"Sauce, ready-to-serve, pepper or hot",sr_legacy,condiments,11.0,0.5,1.8,0.4,0.3,148,5 fl oz bottle,1008,fdc
+sriracha,sriracha sauce,171186,"Sauce, hot chile, sriracha",sr_legacy,condiments,93.0,1.9,19.2,0.9,2.2,482,17 oz bottle,1008,fdc
+soy sauce,shoyu|low sodium soy sauce|kikkoman,174277,Soy sauce made from soy and wheat (shoyu),sr_legacy,condiments,53.0,8.1,4.9,0.6,0.8,296,10 fl oz bottle,1008,fdc
+teriyaki sauce,teriyaki,171167,"Sauce, teriyaki, ready-to-serve",sr_legacy,condiments,89.0,5.9,15.6,0.0,0.1,296,10 fl oz bottle,1008,fdc
+worcestershire sauce,worcestershire,171610,"Sauce, worcestershire",sr_legacy,condiments,77.0,0.0,19.2,0.0,0.0,296,10 fl oz bottle,1008,fdc
+hoisin sauce,hoisin,172886,"Sauce, hoisin, ready-to-serve",sr_legacy,condiments,220.0,3.3,44.1,3.4,2.8,240,8.5 oz jar,1008,fdc
+fish sauce,nam pla,174531,"Sauce, fish, ready-to-serve",sr_legacy,condiments,35.0,5.1,3.6,0.0,0.0,200,6.76 fl oz bottle,1008,fdc
+pesto,basil pesto,171579,"Sauce, pesto, ready-to-serve, refrigerated",sr_legacy,condiments,418.0,9.8,10.1,37.6,1.8,198,7 oz jar,1008,fdc
+alfredo sauce mix,alfredo mix|alfredo sauce packet,171603,"Sauce, alfredo mix, dry",sr_legacy,condiments,535.0,15.3,36.5,36.4,2.0,45,1.6 oz packet (dry mix; no jarred alfredo in FDC Foundation/SR),1008,fdc
+salsa,chunky salsa|pico de gallo|salsa medium,746777,"Sauce, salsa, ready-to-serve",foundation,condiments,29.0,1.4,6.7,0.2,1.8,454,16 oz jar,1008,fdc
+dill pickles,pickles|kosher dill pickles|pickle spears,324653,"Pickles, cucumber, dill or kosher dill",foundation,condiments,12.0,0.5,2.0,0.4,1.0,680,24 oz jar,1008,fdc
+pickle relish,relish|sweet relish,168561,"Pickle relish, sweet",sr_legacy,condiments,130.0,0.4,35.1,0.5,1.1,283,10 oz jar,1008,fdc
+white vinegar,vinegar|distilled vinegar,172237,"Vinegar, distilled",sr_legacy,condiments,18.0,0.0,0.0,0.0,0.0,946,32 fl oz bottle,1008,fdc
+apple cider vinegar,acv|cider vinegar,173469,"Vinegar, cider",sr_legacy,condiments,21.0,0.0,0.9,0.0,0.0,473,16 fl oz bottle,1008,fdc
+balsamic vinegar,balsamic,172241,"Vinegar, balsamic",sr_legacy,condiments,88.0,0.5,17.0,0.0,0.0,250,8.5 fl oz bottle,1008,sr_legacy:172240
+honey,clover honey|raw honey,169640,Honey,sr_legacy,condiments,304.0,0.3,82.4,0.0,0.2,340,12 oz bear bottle,1008,fdc
+maple syrup,pure maple syrup,169661,"Syrups, maple",sr_legacy,condiments,260.0,0.0,67.0,0.1,0.0,488,12.5 fl oz bottle,1008,fdc
+pancake syrup,syrup|table syrup|aunt jemima,169578,"Syrups, table blends, pancake",sr_legacy,condiments,234.0,0.0,61.5,0.0,0.0,920,24 fl oz bottle,1008,fdc
+jam,jelly|strawberry jam|grape jelly|preserves,169641,Jams and preserves,sr_legacy,condiments,278.0,0.4,68.9,0.1,1.1,510,18 oz jar,1008,fdc
+potato chips,chips|lays|kettle chips,169677,"Snacks, potato chips, plain, salted",sr_legacy,snacks,532.0,6.4,53.8,34.0,3.1,227,8 oz bag,1008,fdc
+tortilla chips,tortilla chip|tostitos,167558,"Snacks, tortilla chips, plain, white corn, salted",sr_legacy,snacks,472.0,7.1,67.8,20.7,5.4,368,13 oz bag,1008,fdc
+pretzels,pretzel twists|pretzel rods,167555,"Snacks, pretzels, hard, plain, salted",sr_legacy,snacks,384.0,10.0,80.4,2.9,3.4,454,16 oz bag,1008,fdc
+microwave popcorn,popcorn,173141,"Popcorn, microwave, regular (butter) flavor, made with palm oil",sr_legacy,snacks,535.0,8.4,57.3,30.2,10.0,278,3-pack (9.8 oz),1008,fdc
+saltine crackers,saltines|premium saltines,172746,"Crackers, saltines (includes oyster, soda, soup)",sr_legacy,snacks,418.0,9.5,74.0,8.6,2.8,454,16 oz box,1008,fdc
+snack crackers,crackers|ritz,174982,"Crackers, standard snack-type, regular",sr_legacy,snacks,510.0,6.6,61.3,26.4,2.3,391,13.7 oz box,1008,fdc
+cheese crackers,cheez-its|goldfish,174975,"Crackers, cheese, regular",sr_legacy,snacks,489.0,10.9,59.4,22.7,2.3,351,12.4 oz box,1008,fdc
+graham crackers,graham,174957,"Cookies, graham crackers, plain or honey (includes cinnamon)",sr_legacy,snacks,430.0,6.7,77.7,10.6,3.4,408,14.4 oz box,1008,fdc
+granola bars,granola bar|chewy bars,167954,"Snacks, granola bars, soft, uncoated, plain",sr_legacy,snacks,443.0,7.4,67.3,17.2,4.6,238,8-pack box (8.4 oz),1008,fdc
+chocolate chip cookies,cookies|chips ahoy,172716,"Cookies, chocolate chip, commercially prepared, regular, higher fat, enriched",sr_legacy,snacks,492.0,5.1,65.4,24.7,2.0,368,13 oz package,1008,fdc
+sandwich cookies,oreos|oreo,172718,"Cookies, chocolate sandwich, with creme filling, regular",sr_legacy,snacks,464.0,5.2,71.0,19.1,2.9,405,14.3 oz package,1008,fdc
+dark chocolate,dark chocolate bar|70% dark chocolate,170273,"Chocolate, dark, 70-85% cacao solids",sr_legacy,snacks,598.0,7.8,45.9,42.6,10.9,100,3.5 oz bar,1008,fdc
+milk chocolate,chocolate bar|hershey bar,167587,"Candies, milk chocolate",sr_legacy,snacks,535.0,7.7,59.4,29.7,3.4,43,1.55 oz bar,1008,fdc
+rice cakes,rice cake,170250,"Snacks, rice cakes, brown rice, plain, unsalted",sr_legacy,snacks,387.0,8.2,81.5,2.8,4.2,125,4.47 oz sleeve,1008,fdc
+beef jerky,jerky,167536,"Snacks, beef jerky, chopped and formed",sr_legacy,snacks,410.0,33.2,11.0,25.6,1.8,85,3 oz bag,1008,fdc
+orange juice,oj|orange juice no pulp|tropicana,2003597,"Orange juice, no pulp, not fortified, not from concentrate, refrigerated",foundation,beverages,45.0,0.8,10.0,0.4,0.3,1550,52 fl oz carton,2048,sr_legacy:169100
+apple juice,apple juice 64oz,2003590,"Apple juice, with added vitamin C, from concentrate, shelf stable",foundation,beverages,47.2,0.1,11.4,0.3,0.2,1890,64 fl oz bottle,2048,sr_legacy:167771
+cranberry juice,cranberry juice cocktail|cran juice,2003594,"Cranberry juice, not fortified, from concentrate, shelf stable",foundation,beverages,31.3,0.0,7.3,0.3,0.1,1890,64 fl oz bottle,2048,sr_legacy:168117
+grape juice,welchs grape juice,2003592,"Grape juice, purple, with added vitamin C, from concentrate, shelf stable",foundation,beverages,64.5,0.3,15.6,0.3,0.2,1890,64 fl oz bottle,2048,sr_legacy:173041
+lemonade,lemonade 59oz,173217,"Lemonade, frozen concentrate, white, prepared with water",sr_legacy,beverages,40.0,0.1,10.4,0.0,0.0,1750,59 fl oz bottle,1008,fdc
+cola,soda|coke|pepsi|soft drink,174852,"Beverages, carbonated, cola, regular",sr_legacy,beverages,42.0,0.0,10.4,0.2,0.0,4260,12-pack 12 fl oz cans,1008,fdc
+lemon-lime soda,sprite|7up,173205,"Beverages, carbonated, lemon-lime soda, no caffeine",sr_legacy,beverages,41.0,0.1,10.4,0.0,0.0,2000,2 L bottle,1008,fdc
+sparkling water,seltzer|club soda|lacroix|carbonated water,174842,"Beverages, carbonated, club soda",sr_legacy,beverages,0.0,0.0,0.0,0.0,0.0,4260,12-pack 12 fl oz cans,1008,fdc
+bottled water,water|spring water|purified water,174158,"Water, bottled, generic",sr_legacy,beverages,0.0,0.0,0.0,0.0,0.0,12000,24-pack 16.9 fl oz bottles,1008,fdc
+sports drink,gatorade|powerade,173660,"Beverages, PEPSICO QUAKER, Gatorade, G performance O 2, ready-to-drink.",sr_legacy,beverages,26.0,0.0,6.4,0.0,0.0,946,32 fl oz bottle,1008,fdc
+energy drink,red bull|monster,173210,"Beverages, Energy drink, RED BULL",sr_legacy,beverages,43.0,0.5,10.2,0.0,0.0,250,8.4 fl oz can,1008,fdc
+iced tea,sweet tea|bottled tea,171888,"Beverages, tea, black, ready-to-drink, lemon, sweetened",sr_legacy,beverages,45.0,0.0,10.8,0.2,0.0,1890,64 fl oz bottle,1008,fdc
+coconut water,coconut water bottle,170174,"Nuts, coconut water (liquid from coconuts)",sr_legacy,beverages,19.0,0.7,3.7,0.2,1.1,1000,1 L carton,1008,fdc
+tomato juice,v8,2003596,"Tomato juice, with added ingredients, from concentrate, shelf stable",foundation,beverages,19.9,0.9,4.3,0.3,0.4,1360,46 fl oz bottle,2048,sr_legacy:170458
+beer,lager|ale|beer 12pk,168746,"Alcoholic beverage, beer, regular, all",sr_legacy,beverages,43.0,0.5,3.5,0.0,0.0,4260,12-pack 12 fl oz cans,1008,fdc
+red wine,cabernet|merlot|pinot noir,173190,"Alcoholic beverage, wine, table, red",sr_legacy,beverages,85.0,0.1,2.6,0.0,0.0,750,750 ml bottle,1008,fdc
+white wine,chardonnay|sauvignon blanc|pinot grigio,174837,"Alcoholic beverage, wine, table, white",sr_legacy,beverages,82.0,0.1,2.6,0.0,0.0,750,750 ml bottle,1008,fdc
+cold brew coffee,iced coffee|bottled coffee,171890,"Beverages, coffee, brewed, prepared with tap water",sr_legacy,beverages,1.0,0.1,0.0,0.0,0.0,1420,48 fl oz bottle,1008,fdc
+diet cola,diet coke|diet soda|coke zero|pepsi zero,175099,"Beverages, carbonated, low calorie, cola or pepper-type, with aspartame, contains caffeine",sr_legacy,beverages,2.0,0.1,0.3,0.0,0.0,4260,12-pack 12 fl oz cans,1008,fdc

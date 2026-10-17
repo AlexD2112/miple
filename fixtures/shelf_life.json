@@ -1,0 +1,38 @@
+{
+  "_status": "DRAFT PROPOSAL - not in the repo. The repo has no fixtures/shelf_life.json; the authoritative table is supabase/migrations/0001_init.sql (public.shelf_life) mirrored by server/src/domain/schemas.ts CATEGORIES. 'days' below is copied verbatim from that migration (what the app uses today). fridge_days / pantry_days / freezer_days are proposed per-storage estimates (null = not a normal way to store it), roughly following USDA FoodKeeper-style guidance; they are suggestions for a future storage-aware expiry, not verified values.",
+  "_source_commit": "AlexD2112/miple main @ 914c23e",
+  "categories": {
+    "leafy_greens":     {"days": 5,   "default_storage": "fridge",  "fridge_days": 5,   "pantry_days": null, "freezer_days": null},
+    "berries":          {"days": 4,   "default_storage": "fridge",  "fridge_days": 4,   "pantry_days": 1,    "freezer_days": 240},
+    "fresh_fruit":      {"days": 7,   "default_storage": "pantry",  "fridge_days": 14,  "pantry_days": 5,    "freezer_days": 240},
+    "fresh_vegetables": {"days": 7,   "default_storage": "fridge",  "fridge_days": 7,   "pantry_days": 3,    "freezer_days": 240},
+    "root_vegetables":  {"days": 21,  "default_storage": "pantry",  "fridge_days": 21,  "pantry_days": 30,   "freezer_days": 240},
+    "herbs":            {"days": 5,   "default_storage": "fridge",  "fridge_days": 7,   "pantry_days": null, "freezer_days": 120},
+    "raw_poultry":      {"days": 2,   "default_storage": "fridge",  "fridge_days": 2,   "pantry_days": null, "freezer_days": 270},
+    "raw_meat":         {"days": 3,   "default_storage": "fridge",  "fridge_days": 3,   "pantry_days": null, "freezer_days": 120},
+    "raw_seafood":      {"days": 2,   "default_storage": "fridge",  "fridge_days": 2,   "pantry_days": null, "freezer_days": 180},
+    "deli_meat":        {"days": 5,   "default_storage": "fridge",  "fridge_days": 5,   "pantry_days": null, "freezer_days": 60},
+    "dairy_milk":       {"days": 7,   "default_storage": "fridge",  "fridge_days": 7,   "pantry_days": null, "freezer_days": 90},
+    "dairy_cheese":     {"days": 21,  "default_storage": "fridge",  "fridge_days": 21,  "pantry_days": null, "freezer_days": 180},
+    "yogurt":           {"days": 14,  "default_storage": "fridge",  "fridge_days": 14,  "pantry_days": null, "freezer_days": 60},
+    "eggs":             {"days": 28,  "default_storage": "fridge",  "fridge_days": 28,  "pantry_days": null, "freezer_days": 365},
+    "tofu":             {"days": 7,   "default_storage": "fridge",  "fridge_days": 7,   "pantry_days": null, "freezer_days": 150},
+    "bread":            {"days": 5,   "default_storage": "pantry",  "fridge_days": 10,  "pantry_days": 5,    "freezer_days": 90},
+    "tortillas":        {"days": 14,  "default_storage": "fridge",  "fridge_days": 21,  "pantry_days": 7,    "freezer_days": 180},
+    "cooked_leftovers": {"days": 4,   "default_storage": "fridge",  "fridge_days": 4,   "pantry_days": null, "freezer_days": 90},
+    "frozen":           {"days": 90,  "default_storage": "freezer", "fridge_days": null, "pantry_days": null, "freezer_days": 240},
+    "canned":           {"days": 365, "default_storage": "pantry",  "fridge_days": 4,   "pantry_days": 365,  "freezer_days": null},
+    "dry_goods":        {"days": 180, "default_storage": "pantry",  "fridge_days": null, "pantry_days": 180,  "freezer_days": 365},
+    "condiments":       {"days": 90,  "default_storage": "fridge",  "fridge_days": 90,  "pantry_days": 365,  "freezer_days": null},
+    "snacks":           {"days": 60,  "default_storage": "pantry",  "fridge_days": null, "pantry_days": 60,   "freezer_days": null},
+    "beverages":        {"days": 30,  "default_storage": "pantry",  "fridge_days": 7,   "pantry_days": 180,  "freezer_days": null},
+    "other":            {"days": 7,   "default_storage": "fridge",  "fridge_days": 7,   "pantry_days": null, "freezer_days": null}
+  },
+  "_notes": {
+    "canned.fridge_days": "after opening",
+    "condiments": "fridge_days = after opening; pantry_days = unopened",
+    "beverages": "fridge_days = juice/milk-alternatives after opening; pantry_days = unopened soda/shelf-stable",
+    "frozen": "repo uses 90; frozen vegetables/fruit generally keep 8-12 months, so 240 is proposed for freezer_days",
+    "dry_goods": "covers rice, pasta, flour, spices, nuts, oils in nutrition.csv; nuts/whole-grain flour go rancid sooner (~90-120 days pantry)"
+  }
+}
