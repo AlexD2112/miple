@@ -1,0 +1,65 @@
+import { Router } from "express";
+import multer from "multer";
+import type Anthropic from "@anthropic-ai/sdk";
+import { structured } from "../lib/claude.js";
+import { perceptronOcr } from "../lib/perceptron.js";
+import { getShelfLife, requireUser } from "../lib/supabase.js";
+import { CATEGORIES, ParsedReceipt } from "../domain/schemas.js";
+
+const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 10 * 1024 * 1024 } });
+
+const SYSTEM = `You turn grocery receipts into pantry items.
+Expand abbreviations into plain food names ("ORG SPNCH 5OZ" -> name "organic spinach", quantity 5, unit "oz").
+Pick the closest category from: ${CATEGORIES.join(", ")}.
+Mark bags, bottle deposits, coupons, tax, and non-food products with is_food=false.
+Never invent items that are not on the receipt.`;
+
+const IMAGE_TYPES = ["image/jpeg", "image/png", "image/webp", "image/gif"] as const;
+type ImageType = (typeof IMAGE_TYPES)[number];
+
+export const receipts = Router();
+
+/** POST /receipts/parse (multipart field "image"): returns items for the user to review. */
+receipts.post("/parse", requireUser, upload.single("image"), async (req, res) => {
+  const file = req.file;
+  if (!file) return res.status(400).json({ error: "expected multipart field 'image'" });
+  const mime = (IMAGE_TYPES as readonly string[]).includes(file.mimetype)
+    ? (file.mimetype as ImageType)
+    : "image/jpeg";
+
+  // 1. Perceptron OCR, 2. Claude normalization. Without Perceptron, Claude reads the image directly.
+  const ocrText = await perceptronOcr(file.buffer, mime);
+  const content: Anthropic.ContentBlockParam[] = ocrText
+    ? [{ type: "text", text: `Receipt text from OCR:\n\n${ocrText}` }]
+    : [
+        { type: "image", source: { type: "base64", media_type: mime, data: file.buffer.toString("base64") } },
+        { type: "text", text: "Read this grocery receipt." },
+      ];
+
+  const parsed = await structured(ParsedReceipt, { system: SYSTEM, content });
+  const shelfLife = await getShelfLife();
+  const purchaseDate = isIsoDate(parsed.purchased_at) ? parsed.purchased_at! : today();
+
+  res.json({
+    ocr: ocrText ? "perceptron" : "claude_vision",
+    store: parsed.store,
+    purchased_at: purchaseDate,
+    total: parsed.total,
+    items: parsed.items
+      .filter((i) => i.is_food)
+      .map((i) => ({
+        ...i,
+        purchase_date: purchaseDate,
+        estimated_expiry: addDays(purchaseDate, shelfLife.get(i.category) ?? 7),
+      })),
+  });
+});
+
+const today = () => new Date().toISOString().slice(0, 10);
+const isIsoDate = (s: string | null) => !!s && /^\d{4}-\d{2}-\d{2}$/.test(s) && !isNaN(Date.parse(s));
+
+function addDays(isoDate: string, days: number): string {
+  const d = new Date(`${isoDate}T00:00:00Z`);
+  d.setUTCDate(d.getUTCDate() + days);
+  return d.toISOString().slice(0, 10);
+}

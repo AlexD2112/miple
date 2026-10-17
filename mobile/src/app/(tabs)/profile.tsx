@@ -1,0 +1,122 @@
+import { useState } from "react";
+import { Alert, Switch, Text } from "react-native";
+import { Button, Card, Chip, Field, Row, Screen, Title, colors, styles } from "@/components/ui";
+import { isHealthKitSupported, requestHealthPermissions } from "@/lib/health";
+import { useProfile } from "@/lib/profile";
+import { supabase } from "@/lib/supabase";
+import { ALLERGENS, DIETS, type Profile } from "@/lib/types";
+
+export default function ProfileScreen() {
+  const { profile } = useProfile();
+  if (!profile) return <Screen>{null}</Screen>;
+  // Remount the form when the saved profile changes so the draft resets.
+  return <ProfileForm key={JSON.stringify(profile)} profile={profile} />;
+}
+
+function ProfileForm({ profile }: { profile: Profile }) {
+  const { save } = useProfile();
+  const [draft, setDraft] = useState<Profile>(profile);
+  const [dislikes, setDislikes] = useState(profile.dislikes.join(", "));
+  const [saving, setSaving] = useState(false);
+
+  const set = (patch: Partial<Profile>) => setDraft({ ...draft, ...patch });
+  const num = (v: string) => Math.max(0, parseInt(v.replace(/\D/g, ""), 10) || 0);
+  const toggleAllergy = (a: string) =>
+    set({ allergies: draft.allergies.includes(a) ? draft.allergies.filter((x) => x !== a) : [...draft.allergies, a] });
+
+  async function toggleHealth(on: boolean) {
+    if (on && !(await requestHealthPermissions())) {
+      return Alert.alert(
+        "Apple Health unavailable",
+        "Health needs an iPhone running the Miple development build. Miple will use your manual targets instead.",
+      );
+    }
+    set({ healthkit_enabled: on });
+  }
+
+  async function onSave() {
+    setSaving(true);
+    try {
+      await save({
+        diet: draft.diet,
+        allergies: draft.allergies,
+        dislikes: dislikes.split(",").map((d) => d.trim().toLowerCase()).filter(Boolean),
+        calorie_target: draft.calorie_target,
+        protein_target_g: draft.protein_target_g,
+        carbs_target_g: draft.carbs_target_g,
+        fat_target_g: draft.fat_target_g,
+        phone: draft.phone?.trim() || null,
+        nudges_enabled: draft.nudges_enabled,
+        healthkit_enabled: draft.healthkit_enabled,
+        timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+      });
+      Alert.alert("Saved");
+    } catch (err) {
+      Alert.alert("Save failed", String(err));
+    } finally {
+      setSaving(false);
+    }
+  }
+
+  return (
+    <Screen>
+      <Title>Me</Title>
+
+      <Card>
+        <Text style={styles.h2}>Diet</Text>
+        <Row style={{ flexWrap: "wrap" }}>
+          {DIETS.map((d) => (
+            <Chip key={d} label={d} selected={draft.diet === d} onPress={() => set({ diet: d })} />
+          ))}
+        </Row>
+      </Card>
+
+      <Card>
+        <Text style={styles.h2}>Allergies</Text>
+        <Text style={[styles.muted, { marginBottom: 8 }]}>Recipes containing these are always filtered out.</Text>
+        <Row style={{ flexWrap: "wrap" }}>
+          {ALLERGENS.map((a) => (
+            <Chip key={a} label={a} selected={draft.allergies.includes(a)} onPress={() => toggleAllergy(a)} />
+          ))}
+        </Row>
+        <Field label="Dislikes (comma separated)" value={dislikes} onChangeText={setDislikes} placeholder="cilantro, olives" />
+      </Card>
+
+      <Card>
+        <Text style={styles.h2}>Daily targets</Text>
+        <Row>
+          <Field label="Calories" keyboardType="number-pad" value={String(draft.calorie_target)} onChangeText={(v) => set({ calorie_target: num(v) })} />
+          <Field label="Protein g" keyboardType="number-pad" value={String(draft.protein_target_g)} onChangeText={(v) => set({ protein_target_g: num(v) })} />
+        </Row>
+        <Row>
+          <Field label="Carbs g" keyboardType="number-pad" value={String(draft.carbs_target_g)} onChangeText={(v) => set({ carbs_target_g: num(v) })} />
+          <Field label="Fat g" keyboardType="number-pad" value={String(draft.fat_target_g)} onChangeText={(v) => set({ fat_target_g: num(v) })} />
+        </Row>
+      </Card>
+
+      <Card>
+        <Row style={{ justifyContent: "space-between" }}>
+          <Text style={styles.h2}>Apple Health</Text>
+          <Switch value={draft.healthkit_enabled} onValueChange={toggleHealth} trackColor={{ true: colors.brand }} />
+        </Row>
+        <Text style={styles.muted}>
+          {isHealthKitSupported()
+            ? "Reads today's calories, macros and active energy (including what MyFitnessPal logs) and writes the meals you cook. Health data stays on your phone; only your remaining-macro totals are used for planning."
+            : "Not available in this build. Miple uses your manual targets."}
+        </Text>
+      </Card>
+
+      <Card>
+        <Row style={{ justifyContent: "space-between" }}>
+          <Text style={styles.h2}>Expiry texts</Text>
+          <Switch value={draft.nudges_enabled} onValueChange={(v) => set({ nudges_enabled: v })} trackColor={{ true: colors.brand }} />
+        </Row>
+        <Field label="Phone (E.164)" value={draft.phone ?? ""} onChangeText={(phone) => set({ phone })} keyboardType="phone-pad" placeholder="+15551234567" />
+      </Card>
+
+      <Button label="Save" onPress={onSave} loading={saving} />
+      <Text style={{ height: 12 }} />
+      <Button kind="secondary" label="Sign out" onPress={() => supabase.auth.signOut()} />
+    </Screen>
+  );
+}

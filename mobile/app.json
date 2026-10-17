@@ -1,0 +1,51 @@
+{
+  "expo": {
+    "name": "Miple",
+    "slug": "miple",
+    "scheme": "miple",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.miple.app",
+      "infoPlist": {
+        "NSCalendarsFullAccessUsageDescription": "Miple finds free time in your calendar to plan meals and adds the meals you choose.",
+        "NSCalendarsUsageDescription": "Miple finds free time in your calendar to plan meals and adds the meals you choose.",
+        "NSCameraUsageDescription": "Miple uses the camera to scan grocery receipts.",
+        "NSPhotoLibraryUsageDescription": "Miple reads receipt photos you pick to fill your pantry."
+      }
+    },
+    "android": {
+      "package": "com.miple.app"
+    },
+    "plugins": [
+      "expo-router",
+      [
+        "react-native-health",
+        {
+          "healthSharePermission": "Miple reads the calories and macros you have logged today, and your active energy, to plan meals that fit your targets.",
+          "healthUpdatePermission": "Miple logs the calories and macros of meals you cook so they show up in your other health apps."
+        }
+      ],
+      [
+        "expo-calendar",
+        {
+          "calendarPermission": "Miple finds free time in your calendar to plan meals and adds the meals you choose."
+        }
+      ],
+      [
+        "expo-image-picker",
+        {
+          "photosPermission": "Miple reads receipt photos you pick to fill your pantry.",
+          "cameraPermission": "Miple uses the camera to scan grocery receipts."
+        }
+      ],
+      "expo-dev-client"
+    ],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
