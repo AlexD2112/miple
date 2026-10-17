@@ -56,27 +56,66 @@ export const RecipeRequest = z.object({
   count: z.number().int().min(1).max(8).default(5),
 });
 
-export const GeneratedRecipes = z.object({
-  recipes: z.array(
+export const RecipeDraft = z.object({
+  title: z.string(),
+  minutes: z.number().int(),
+  servings: z.number().int(),
+  ingredients: z.array(
     z.object({
-      title: z.string(),
-      minutes: z.number().int(),
-      servings: z.number().int(),
-      ingredients: z.array(
-        z.object({
-          pantry_item_id: z.string().nullable().describe("id from the pantry list, or null for staples"),
-          name: z.string(),
-          quantity: z.string(),
-        }),
-      ),
-      steps: z.array(z.string()),
-      calories: z.number().int().describe("per serving"),
-      protein_g: z.number().int(),
-      carbs_g: z.number().int(),
-      fat_g: z.number().int(),
-      declared_allergens: z
-        .array(z.string())
-        .describe("allergen keys present: peanut, tree_nut, milk, egg, wheat, gluten, soy, fish, shellfish, sesame"),
+      pantry_item_id: z.string().nullable().describe("id from the pantry list, or null for staples"),
+      name: z.string(),
+      quantity: z.string(),
+    }),
+  ),
+  steps: z.array(z.string()),
+  calories: z.number().int().describe("per serving"),
+  protein_g: z.number().int(),
+  carbs_g: z.number().int(),
+  fat_g: z.number().int(),
+  declared_allergens: z
+    .array(z.string())
+    .describe("allergen keys present: peanut, tree_nut, milk, egg, wheat, gluten, soy, fish, shellfish, sesame"),
+});
+export type RecipeDraft = z.infer<typeof RecipeDraft>;
+
+export const GeneratedRecipes = z.object({
+  recipes: z.array(RecipeDraft),
+});
+
+export const ChefMessage = z.object({
+  role: z.enum(["user", "chef"]),
+  text: z.string().max(2000),
+});
+
+export const PlannedMeal = z.object({
+  slot_id: z.string().uuid(),
+  starts_at: z.string(),
+  ends_at: z.string(),
+  minutes_available: z.number().int().min(5).max(240),
+  title: z.string(),
+  minutes: z.number(),
+  calories: z.number(),
+  protein_g: z.number(),
+  carbs_g: z.number(),
+  fat_g: z.number(),
+  ingredients: z.array(z.string()).max(40),
+});
+
+/** Chat turns plus the plan the chef is allowed to change. Allergies still come from the database. */
+export const ChefRequest = z.object({
+  messages: z.array(ChefMessage).min(1).max(20),
+  plan: z.array(PlannedMeal).max(20),
+  pantry: RecipeRequest.shape.pantry,
+  remaining: RemainingMacros,
+});
+
+export const ChefTurn = z.object({
+  message: z.string().describe("What you say out loud. No slot ids, no JSON."),
+  changes: z.array(
+    z.object({
+      slot_id: z.string().describe("slot_id copied from the current plan"),
+      action: z.enum(["replace", "skip"]),
+      recipe: RecipeDraft.nullable().describe("full new recipe when action is replace, otherwise null"),
     }),
   ),
 });

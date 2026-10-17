@@ -80,7 +80,7 @@ export interface ParsedReceiptItem {
 }
 
 export interface ParsedReceipt {
-  ocr: "perceptron" | "claude_vision";
+  ocr: "perceptron" | "gemini_vision";
   store: string | null;
   purchased_at: string;
   total: number | null;

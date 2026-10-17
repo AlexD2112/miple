@@ -1,7 +1,6 @@
 import { Router } from "express";
 import multer from "multer";
-import type Anthropic from "@anthropic-ai/sdk";
-import { structured } from "../lib/claude.js";
+import { structured, type UserPart } from "../lib/gemini.js";
 import { perceptronOcr } from "../lib/perceptron.js";
 import { getShelfLife, requireUser } from "../lib/supabase.js";
 import { CATEGORIES, ParsedReceipt } from "../domain/schemas.js";
@@ -27,13 +26,13 @@ receipts.post("/parse", requireUser, upload.single("image"), async (req, res) =>
     ? (file.mimetype as ImageType)
     : "image/jpeg";
 
-  // 1. Perceptron OCR, 2. Claude normalization. Without Perceptron, Claude reads the image directly.
+  // 1. Perceptron OCR, 2. Gemini normalization. Without Perceptron, Gemini reads the image directly.
   const ocrText = await perceptronOcr(file.buffer, mime);
-  const content: Anthropic.ContentBlockParam[] = ocrText
-    ? [{ type: "text", text: `Receipt text from OCR:\n\n${ocrText}` }]
+  const content: UserPart[] = ocrText
+    ? [{ text: `Receipt text from OCR:\n\n${ocrText}` }]
     : [
-        { type: "image", source: { type: "base64", media_type: mime, data: file.buffer.toString("base64") } },
-        { type: "text", text: "Read this grocery receipt." },
+        { inlineData: { mimeType: mime, data: file.buffer.toString("base64") } },
+        { text: "Read this grocery receipt." },
       ];
 
   const parsed = await structured(ParsedReceipt, { system: SYSTEM, content });
@@ -41,7 +40,7 @@ receipts.post("/parse", requireUser, upload.single("image"), async (req, res) =>
   const purchaseDate = isIsoDate(parsed.purchased_at) ? parsed.purchased_at! : today();
 
   res.json({
-    ocr: ocrText ? "perceptron" : "claude_vision",
+    ocr: ocrText ? "perceptron" : "gemini_vision",
     store: parsed.store,
     purchased_at: purchaseDate,
     total: parsed.total,

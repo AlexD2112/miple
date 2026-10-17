@@ -4,7 +4,7 @@ Scan your grocery receipt, and Miple tracks what's expiring, plans meals around 
 
 ```
 mobile/    Expo (SDK 58) dev-build app: pantry, scan, plan, budget/Wrapped, profile. HealthKit + calendar live here.
-server/    Node + Express (TypeScript): receipt OCR → Claude normalization, recipe generation with allergen filter, Photon nudges.
+server/    Node + Express (TypeScript): receipt OCR → Gemini normalization, recipe generation with allergen filter, chef chat, Photon nudges.
 supabase/  Postgres schema, RLS, shelf-life table, cook_meal_slot() and weekly_stats.
 ```
 
@@ -12,8 +12,8 @@ supabase/  Postgres schema, RLS, shelf-life table, cook_meal_slot() and weekly_s
 
 | Step | What happens | Code |
 |---|---|---|
-| **Scan** | Photo → Perceptron OCR (or Claude vision if Perceptron isn't configured) → Claude normalizes "ORG SPNCH 5OZ" into *organic spinach, 5 oz, leafy_greens* → expiry = purchase date + shelf life | `server/src/routes/receipts.ts`, `mobile/src/app/(tabs)/scan.tsx`, `shelf_life` table + `items_set_expiry` trigger |
-| **Plan** | Free lunch/dinner gaps for the next 3 days from the device calendar → Claude returns structured recipes from pantry items → **code** drops anything with an allergen → ranked by urgency (50%), macro fit (30%), time fit (20%) → greedy assignment to slots | `mobile/src/lib/calendar.ts`, `server/src/routes/recipes.ts`, `server/src/domain/allergens.ts`, `mobile/src/lib/planner.ts` |
+| **Scan** | Photo → Perceptron OCR (or Gemini vision if Perceptron isn't configured) → Gemini normalizes "ORG SPNCH 5OZ" into *organic spinach, 5 oz, leafy_greens* → expiry = purchase date + shelf life | `server/src/routes/receipts.ts`, `mobile/src/app/(tabs)/scan.tsx`, `shelf_life` table + `items_set_expiry` trigger |
+| **Plan** | Free lunch/dinner gaps for the next 3 days from the device calendar → Gemini returns structured recipes from pantry items → **code** drops anything with an allergen → ranked by urgency (50%), macro fit (30%), time fit (20%) → greedy assignment to slots. Chat with your chef to replace or skip those slots | `mobile/src/lib/calendar.ts`, `server/src/routes/recipes.ts`, `server/src/domain/allergens.ts`, `mobile/src/lib/planner.ts`, `mobile/src/app/chef.tsx` |
 | **Nudge** | Daily cron: items expiring within 48h → text with the planned slot and recipe. Reply DONE / SKIP | `server/src/jobs/nudges.ts`, `server/src/routes/photon.ts` |
 | **Cook** | `cook_meal_slot()` marks the slot cooked, consumes linked items, creates a 4-day leftover. The app writes the meal's macros to Apple Health | `supabase/migrations/0001_init.sql`, `mobile/src/lib/health.ts` |
 
@@ -28,7 +28,7 @@ Macros flow through one function, `getRemainingMacros(profile)` in `mobile/src/l
 ### 2. Server
 ```bash
 cd server
-cp .env.example .env    # fill SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, ANTHROPIC_API_KEY
+cp .env.example .env    # fill SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, GEMINI_API_KEY
 npm install
 npm run dev             # http://localhost:8787
 npm test                # allergen filter tests
@@ -36,7 +36,7 @@ npm run nudge           # fire the daily nudge job now (dry-run logs texts if Ph
 ```
 A physical iPhone can't reach `localhost`, so expose the server with your LAN IP or `ngrok http 8787`.
 
-The model defaults to `claude-opus-5-5` (set `MIPLE_MODEL` to change it). Server-side refusal fallbacks are enabled in `server/src/lib/claude.ts`.
+The model defaults to `gemini-2.5-flash` (set `MIPLE_MODEL` to change it). Structured JSON calls live in `server/src/lib/gemini.ts`.
 
 ### 3. Mobile (dev build, not Expo Go)
 HealthKit breaks Expo Go, so everyone develops on the dev client from the start.
@@ -57,7 +57,7 @@ npm start                      # Metro for the dev client
 ## ⚠️ Known risks and TODOs
 
 - **`react-native-health` vs. New Architecture.** `expo-doctor` reports it as *unmaintained* and *untested on the New Architecture* (SDK 58 / RN 0.88). The Health owner should confirm the read and write on a device first. If it fails, swap in `@kingstinct/react-native-healthkit`. Only `mobile/src/lib/health.ts` needs to change.
-- **Perceptron OCR.** `server/src/lib/perceptron.ts` is an adapter with a guessed request shape. Match it to the sponsor docs. Until then, Claude vision reads the receipt.
+- **Perceptron OCR.** `server/src/lib/perceptron.ts` is an adapter with a guessed request shape. Match it to the sponsor docs. Until then, Gemini vision reads the receipt.
 - **Photon 2.0.** `server/src/lib/photon.ts` (send) and `parseInbound` (webhook) are adapters too. Without credentials, texts are logged as `[photon:dry-run]`. Point the Photon inbound webhook at `POST /photon/webhook` and set `PHOTON_WEBHOOK_SECRET`. The handler checks it against the `x-photon-secret` header.
 - **Health writes after an SMS "done".** The server can't write to HealthKit. Slots cooked by text get `logged_to_health=false`, and the app syncs them the next time it's opened (`syncCookedMealsToHealth`).
 

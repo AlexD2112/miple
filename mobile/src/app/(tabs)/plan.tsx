@@ -1,3 +1,4 @@
+import { router } from "expo-router";
 import { useState } from "react";
 import { Alert, Text, View } from "react-native";
 import { Button, Card, Pill, Row, Screen, Title, styles } from "@/components/ui";
@@ -119,6 +120,8 @@ export default function Plan() {
       <Title sub={`Next ${PLAN_DAYS} days, fitted to your calendar and macros`}>Plan</Title>
       {data?.macros ? <MacroSummary m={data.macros} /> : null}
       <Button label="Plan my meals" onPress={planMeals} loading={planning} disabled={!profile} />
+      <View style={{ height: 8 }} />
+      <Button kind="secondary" label="Chat with your chef" onPress={() => router.push("/chef")} disabled={!profile} />
       <View style={{ height: 12 }} />
 
       {(data?.slots ?? []).map((slot) => {
