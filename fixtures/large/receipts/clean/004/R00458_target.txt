@@ -1,0 +1,21 @@
+                 TARGET
+           Seattle WA  T-0947
+             (555) 030-0768
+
+MKT PANTRY CTTG CHS               3.21 N
+  2 @ 2.93
+ITALIAN PARSLEY                   5.86 N
+BAGELS                            3.77 N
+GG CHKN THIGHS                    9.29 N
+  3.66 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                7.17 N
+
+SUBTOTAL                           29.30
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              29.30
+DEBIT TEND                         29.30
+CHANGE                              0.00
+
+09/10/26 12:45  ITEMS 6
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

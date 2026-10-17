@@ -1,0 +1,43 @@
+               FRED MEYER
+               Seattle WA
+               Store 3087
+
+  PRICE OVERRIDE  WAS 1.47
+CHOBANI PLAIN GREEK YOGURT 32 OZ  1.12 F
+FM PLUS CARD SAV                 0.34-  
+SLCD SRDGH PAN LOAF               4.74 F
+SMPL TRTH ORANGE JUICE            7.69 F
+KRO CAT LITTER                   14.03 T
+SMPL TRTH ITALIAN PARSLEY         2.93 F
+COLA 12PK                         1.83 T
+LG EGGS 12 CT                     8.69 F
+KRO PAPER PLATES                  3.31 T
+SMPL TRTH GENOA SALAMI            4.76 F
+FM ORANGE JUICE                   7.69 F
+SMPL TRTH BARTLETT PEARS          3.00 F
+FM PLUS CARD SAV                 0.90-  
+KRO PAPER TOWELS 6 ROLL           3.75 T
+2 @ 2 FOR 2.00 CILANTRO           2.00 F
+SHREDDED MOZZ 8 OZ                2.92 F
+FM CORN TORT                      2.79 F
+KRO PLSTC WRAP                    4.77 T
+FM GRND BF 80/20                  6.57 F
+PENNE 16 OZ                       3.51 F
+LG EGGS 12 CT                     8.69 F
+KRO SAVINGS                      1.15-  
+  4 @ 4.93
+PEPSI 12 PK CANS                 19.72 T
+JASMINE RICE                     12.13 F
+DIGITAL CPN                      1.06-  
+HANDMADE STYLE CORN TORTILLAS     3.55 F
+
+SUBTOTAL                          126.74
+TAX 10.55% ON 47.41                 5.00
+TOTAL                             131.74
+VISA TEND                         131.74
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  3.45
+01/10/26 07:06  ITEMS 26
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

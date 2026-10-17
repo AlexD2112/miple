@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0022  Seattle WA
+            MEMBER ************
+
+  PRICE OVERRIDE  WAS 8.09
+1368385 JASMINE RICE 25 LB            6.58 E
+1140595 EVERYTHING BUT THE BAGEL SEA  7.01 E
+1743310 TRTLL CHIPS                   9.99 E
+     3 @ 3.33
+429160 CLNTR BUNCH                    2.02 E
+1455035 FRZN BROC FLRTS               8.13 E
+8608611 TPD/FRZN BROC FL             2.44-  
+1815433 GROUND CHICKEN               13.31 E
+     2.63 lb @ 5.06 /lb
+2115145 TPD/GROUND CHICK             2.91-  
+1562076 KS PAPER TOWELS 6 ROLL        3.75 A
+1265864 GREETING CARD                20.34 A
+343578 CELERY                        17.28 E
+     4 @ 4.32
+211867 MISSION FLOUR TORTILLAS 40 CT  5.22 E
+
+SUBTOTAL                               88.28
+TAX 10.55% ON 24.09                     2.54
+**** TOTAL                             90.82
+AMEX TEND                              90.82
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      5.35
+07/09/26 09:28  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

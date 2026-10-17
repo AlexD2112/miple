@@ -1,0 +1,20 @@
+               FRED MEYER
+              Portland OR
+               Store 0846
+
+2 @ 2 FOR 4.00 BOTTLED WTR 40 PK  4.00 F
+2 @ 2 FOR 10.00 ORG TOMATO BASI  10.00 F
+  REFUND - ORIG RECEIPT
+RETURN 2 @ 2 FOR 4.00 BOTTLED W  2.45- F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           11.65
+TAX                                 0.00
+TOTAL                              11.65
+DEBIT TEND                         11.65
+CHANGE                              0.00
+
+06/07/26 13:31  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

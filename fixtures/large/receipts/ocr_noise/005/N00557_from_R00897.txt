@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1519  Seattle WA
+ MEMBER ************
+
+   l8990B8 REDUCED FAT 2% MLK GALLON     6.S4 E
+693734 KS RANCH DRSSNG                7.98 E
+     2 @ 3.99
+15539 KS PINEAPPLE                    1.75 E
+     1.40 lb @ 1.25 /lb
+1866841 ORG BASIL CLAMSHELL           1.49 E
+651632 SHREDDED CHDR 8 OZ             6.42 E
+717684 KS UNSLTD BTR                  9.95 E
+ REFUND - ORIG RECEIPT
+RETURN 1866841 ORG BASIL CLAMSHELL   1.49- E
+
+SUBTOTAL                               32.64
+TAX l0.55% ON 0.00                      0.O0
+**** TOTAL                             32.64
+DISCOVER TEND 32.64
+CHANGE 0.00
+
+01/01/26 14:03  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

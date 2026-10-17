@@ -1,0 +1,16 @@
+                SAFEWAY
+         Store 0772  Seattle WA
+             (555) 010-3279
+
+ROTIS CHKN                        5.04 T
+
+SUBTOTAL                            5.04
+TAX 10.55% ON 5.04                  0.53
+**** TOTAL                          5.57
+GIFT CARD TEND                      3.16
+DEBIT TEND                          2.41
+CHANGE                              0.00
+
+04/18/26 14:34  ITEMS 1
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

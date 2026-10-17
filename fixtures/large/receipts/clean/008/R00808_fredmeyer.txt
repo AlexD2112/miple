@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 1837
+
+YELLOW ONIN                       1.78 F
+  2 @ 4.67
+SMPL TRTH HONEYCRISP APPLES       9.34 F
+2 @ 2 FOR 3.00 JASMINE RICE 5 LB  3.00 F
+GROUND TURKEY                     5.19 F
+  2 @ 3.99
+FM RANCH DRESSING                 7.98 F
+JSMN RICE 5 LB                    1.49 F
+KRO SAVINGS                      0.45-  
+MISSION FLOUR TORTILLAS 40 CT     5.22 F
+COCA-COLA 12 PK CANS              2.77 T
+SMPL TRTH ROMAINE LETTUCE         2.79 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           39.35
+TAX 10.55% ON 3.01                  0.32
+TOTAL                              39.67
+MASTERCARD TEND                    39.67
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.45
+09/12/26 09:19  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

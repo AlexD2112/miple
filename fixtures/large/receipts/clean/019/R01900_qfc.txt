@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1341
+
+PRIV SEL SOY SCE                  6.79 F
+PRIV SEL SOY SCE                  6.79 F
+** VOID ** PRIV SEL SOY SCE      6.79-  
+2 @ 2 FOR 5.00 PRIV SEL SRIRACHA  5.00 F
+  0.50 lb @ 2.08 /lb
+SMPL TRTH KIWI                    1.04 F
+PRIV SEL HALIBUT                 10.82 F
+  3.11 lb @ 3.34 /lb
+HASS AVOCADO LG                  10.39 F
+
+SUBTOTAL                           34.04
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              34.04
+DEBIT TEND                         34.04
+CHANGE                              0.00
+
+07/18/26 16:04  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

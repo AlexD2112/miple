@@ -1,0 +1,21 @@
+               FRED MEYER
+              Portland OR
+               Store 1134
+
+2% MLK 2 X 1 GAL                  4.70 F
+SMPL TRTH AVCDS                   4.05 F
+2 @ 2 FOR 5.00 HOUSE FOODS EXTRA  5.00 F
+FM ROLLED OATS                    3.98 F
+TILLAMOOK MEDIUM CHDR            11.77 F
+SPONGES 3PK                       9.54 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+
+SUBTOTAL                           48.52
+TAX                                 0.00
+TOTAL                              48.52
+AMEX TEND                          48.52
+CHANGE                              0.00
+
+04/15/26 16:41  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

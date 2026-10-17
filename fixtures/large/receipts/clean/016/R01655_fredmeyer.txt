@@ -1,0 +1,15 @@
+               FRED MEYER
+               Seattle WA
+               Store 3386
+
+KRO ITLN SAUSAGE BULK             9.93 F
+
+SUBTOTAL                            9.93
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               9.93
+AMEX TEND                           9.93
+CHANGE                              0.00
+
+10/01/26 10:52  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 0471
+
+BLACK BEANS CAN                   8.77 F
+  0.81 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 2.35 F
+YELLOW ONIONS                     1.78 F
+  1.38 lb @ 17.07 /lb
+SMPL TRTH LAMB CHOPS             23.56 F
+  3 @ 2.09
+SMPL TRTH SALSA JAR               6.27 F
+
+SUBTOTAL                           42.73
+TAX                                 0.00
+TOTAL                              42.73
+CASH TEND                          42.00
+MASTERCARD TEND                     0.73
+CHANGE                              0.00
+
+07/19/26 08:05  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

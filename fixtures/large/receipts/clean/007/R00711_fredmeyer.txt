@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 3437
+
+KRO COLA 12PK CANS                1.51 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+  2.58 lb @ 9.93 /lb
+BONELESS PORK LOIN CHOPS         25.62 F
+  1.77 lb @ 2.08 /lb
+KIWI                              3.68 F
+  3 @ 0.05
+PAPER BAG                         0.15  
+
+SUBTOTAL                           32.16
+TAX                                 0.00
+TOTAL                              32.16
+VISA TEND                          32.16
+CHANGE                              0.00
+
+03/29/26 19:05  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

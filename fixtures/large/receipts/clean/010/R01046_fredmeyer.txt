@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 0867
+
+  PRICE OVERRIDE  WAS 6.02
+KRO GINGER ALE 12PK               3.93 T
+KRO SHRP CHDR BLOCK              10.33 F
+ORGANIC ROMAINE HEARTS 3 CT       3.76 F
+SMPL TRTH STRWB                   4.35 F
+  1.46 lb @ 9.65 /lb
+KRO PORK TNDRLN                  14.09 F
+MANDARINS                         2.72 F
+SMPL TRTH ROLLED OATS             3.98 F
+MFR CPN                          1.10-  
+  2 @ 2.81
+CHKN BROTH 32 OZ                  5.62 F
+FM KERRYGOLD BTR                 10.81 F
+  2 @ 4.87
+CROISSANTS 12 CT                  9.74 F
+DIGITAL CPN                      2.91-  
+  3 @ 2.74
+FRESH MINT                        8.22 F
+
+SUBTOTAL                           73.54
+TAX 10.55% ON 3.93                  0.41
+TOTAL                              73.95
+AMEX TEND                          73.95
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  4.01
+01/10/26 10:43  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

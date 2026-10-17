@@ -1,0 +1,28 @@
+                SAFEWAY
+         Store 0702  Seattle WA
+             (555) 010-5705
+
+SIG SLCT KETCHUP                  5.49 S
+HEINZ KETCHUP 32 OZ               4.48 S
+SW ORANGE JUICE 52OZ              9.39 S
+SW ORANGE JUICE 52OZ              9.39 S
+** VOID ** SW ORANGE JUICE 52    9.39-  
+SIG KTCHNS CHKN BROTH CARTON      8.38 S
+2 @ 2 FOR 5.00 BARTLETT PEARS     5.00 S
+SIG SLCT SPAGHETTI                9.54 S
+J4U PERSONAL DEAL                0.33-  
+SW FRZN MIXED BERRIES             2.06 S
+SLTD BTR 4 STICKS                 9.37 S
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           53.70
+TAX 10.55% ON 0.32                  0.03
+**** TOTAL                         53.73
+AMEX TEND                          53.73
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.33
+10/17/26 18:28  ITEMS 9
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

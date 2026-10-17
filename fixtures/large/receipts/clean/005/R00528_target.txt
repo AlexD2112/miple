@@ -1,0 +1,15 @@
+                 TARGET
+        San Francisco CA  T-1955
+             (555) 030-9129
+
+BABY CARROTS                      2.49 N
+
+SUBTOTAL                            2.49
+TAX 8.625% ON 0.00                  0.00
+TOTAL                               2.49
+MASTERCARD TEND                     2.49
+CHANGE                              0.00
+
+03/12/26 17:22  ITEMS 1
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

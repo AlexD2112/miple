@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2924  Seattle WA
+            MEMBER ************
+
+1046377 KS ATLANTIC SLMN FLLT        19.77 E
+352151 DICED TOMATOES 14.5 OZ         1.00 E
+
+SUBTOTAL                               20.77
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             20.77
+DEBIT TEND                             20.77
+CHANGE                                  0.00
+
+05/16/26 14:56  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

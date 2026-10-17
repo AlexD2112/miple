@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3846  Seattle WA
+            MEMBER ************
+
+1624447 KS KTCHP                     21.96 E
+     4 @ 5.49
+1624447 KS KTCHP                     21.96 E
+** VOID ** 1624447 KS KTCHP         21.96-  
+2592015 TPD/KTCHP                    2.82-  
+623755 SILKEN TOFU                    2.29 E
+50043 GREETING CARD                  20.34 A
+542661 KS DIET COLA 12PK CANS         4.42 A
+735985 BONELESS CHICKEN THIGHS       16.67 E
+     3.84 lb @ 4.34 /lb
+180178 BOTTLED WTR 40 PK              2.45 E
+746946 ORIGINAL HUMMUS 10 OZ          8.88 E
+100615 BNLS PORK LOIN CHOPS          20.85 E
+     2.10 lb @ 9.93 /lb
+
+SUBTOTAL                               95.04
+TAX 10.55% ON 24.76                     2.61
+**** TOTAL                             97.65
+VISA TEND                              97.65
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      2.82
+08/12/26 21:45  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

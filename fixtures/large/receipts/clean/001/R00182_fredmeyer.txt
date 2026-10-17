@@ -1,0 +1,39 @@
+               FRED MEYER
+               Seattle WA
+               Store 3615
+
+SMPL TRTH ITLN PARSLEY            2.93 F
+FM RIBEYE STEAK                  19.87 F
+FLOUR TORT 10 CT                  2.35 F
+HUY FONG SRIRACHA                 2.55 F
+ICEBERG LTTC                      5.11 F
+SMPL TRTH SALSA JAR               2.09 F
+AVOCADOS BAG 4 CT                 3.54 F
+KRRYGLD BTR                      10.81 F
+
+      **** COUPONS & SAVINGS ****
+MFR CPN KRRYGLD BTR              2.79-  
+MFR CPN FLOUR TORT 10            1.18-  
+KRO SAVINGS HUY FONG SRIRA       0.58-  
+SC HUY FONG SRIRA                0.40-  
+DIGITAL CPN ICEBERG LTTC         0.60-  
+MFR CPN RIBEYE STEAK             1.50-  
+MFR CPN KRRYGLD BTR              1.31-  
+MFR CPN RIBEYE STEAK             1.34-  
+SC HUY FONG SRIRA                0.29-  
+KRO SAVINGS ITLN PARSLEY         1.41-  
+SC ICEBERG LTTC                  1.96-  
+TOTAL COUPONS                   13.36-  
+        ************************
+
+SUBTOTAL                           35.89
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              35.89
+GIFT CARD TEND                     19.84
+DEBIT TEND                         16.05
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                 13.36
+05/26/26 09:59  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

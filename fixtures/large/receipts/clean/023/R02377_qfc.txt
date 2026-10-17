@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0013
+
+SMPL TRTH DRIED LENTILS           4.26 F
+PRIV SEL EXTRA FIRM TOFU          2.32 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+SMPL TRTH WHL MLK HALF GALLON     6.79 F
+SMPL TRTH PENNE                  13.38 F
+MFR CPN                          0.80-  
+JASMINE RICE                     12.13 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           55.75
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              55.78
+CASH TEND                           2.00
+AMEX TEND                          53.78
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.80
+05/08/26 18:10  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

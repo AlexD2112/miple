@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 0063
+
+FM CRL                            6.63 F
+ORANGE JUICE 52OZ                 9.39 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  0.73 lb @ 3.34 /lb
+HASS AVOCADO LARGE                2.44 F
+CRM CHS                           8.63 F
+SMPL TRTH TUNA CAN                1.08 F
+JSMN RICE 25 LB                   8.09 F
+CROISSANTS 12 CT                  4.87 F
+KRO KERRYGOLD BTR                10.81 F
+BANANA                            2.37 F
+SMPL TRTH ROMA TOM                2.38 F
+  3 @ 2.74
+SMPL TRTH FRESH BASIL             8.22 F
+
+SUBTOTAL                           65.01
+TAX                                 0.00
+TOTAL                              65.01
+MASTERCARD TEND                    65.01
+CHANGE                              0.00
+
+01/31/26 07:35  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

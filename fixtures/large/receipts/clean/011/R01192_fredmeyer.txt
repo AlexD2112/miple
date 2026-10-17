@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 3021
+
+SMPL TRTH CREMINI MUSHROOMS       1.14 F
+SMPL TRTH CREMINI MUSHROOMS       1.14 F
+** VOID ** SMPL TRTH CREMINI     1.14-  
+  4 @ 2.80
+SMPL TRTH LIMES                  11.20 F
+SMPL TRTH FRZN MIXED BERRIES      2.06 F
+BABY SPNCH                        5.42 F
+SMPL TRTH PASTURE RAISED EGGS     7.37 F
+SMPL TRTH COTTAGE CHS             3.21 F
+JASMINE RICE                     12.13 F
+
+SUBTOTAL                           42.53
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              42.53
+GIFT CARD TEND                     28.36
+VISA TEND                          14.17
+CHANGE                              0.00
+
+04/21/26 17:24  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

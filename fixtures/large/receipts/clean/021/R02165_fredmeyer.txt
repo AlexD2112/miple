@@ -1,0 +1,25 @@
+               FRED MEYER
+              Portland OR
+               Store 0764
+
+SMPL TRTH PEANUT BUTTER           6.90 F
+KRO TILAPIA FILLETS              21.66 F
+DIGITAL CPN                      2.33-  
+EVERYTHING BUT THE
+BAGEL SEASONING                   7.01 F
+KRO RICOTTA                       8.76 F
+PENNE 16 OZ                       3.51 F
+LG BROWN EGGS                     4.29 F
+  4 @ 0.05
+PAPER BAG                         0.20  
+
+SUBTOTAL                           50.00
+TAX                                 0.00
+TOTAL                              50.00
+DEBIT TEND                         50.00
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.33
+02/25/26 13:53  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

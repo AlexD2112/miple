@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1871  Portland OR
+            MEMBER ************
+
+657201 KS ORANGE JUICE 52OZ           9.39 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+
+SUBTOTAL                                9.49
+TAX                                     0.00
+**** TOTAL                              9.49
+GIFT CARD TEND                          8.90
+AMEX TEND                               0.59
+CHANGE                                  0.00
+
+05/20/26 14:58  ITEMS 1
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

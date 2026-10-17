@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 2322
+
+KRO NAPKINS                      24.05 F
+HONEYCRISP APPLES                 4.67 F
+FM KRRYGLD BTR                   10.81 F
+  2.39 lb @ 2.08 /lb
+KIWI                              4.97 F
+SMPL TRTH SOY SCE                 6.79 F
+SMPL TRTH PENNE                  13.38 F
+SMPL TRTH FLOUR TORTILLAS         6.18 F
+FM RICOTTA                        8.76 F
+
+SUBTOTAL                           79.61
+TAX                                 0.00
+TOTAL                              79.61
+DEBIT TEND                         79.61
+CHANGE                              0.00
+
+06/16/26 20:56  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

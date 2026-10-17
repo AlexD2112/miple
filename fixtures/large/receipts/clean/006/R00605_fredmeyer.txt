@@ -1,0 +1,37 @@
+               FRED MEYER
+               Seattle WA
+               Store 2753
+
+  3 @ 5.94
+ORG TOMATO BASIL MARINARA        17.82 F
+SMPL TRTH SWEET POTS              3.28 F
+DIGITAL CPN                      0.98-  
+  2 @ 2.59
+SMPL TRTH GREEN ONIN BUNCH        5.18 F
+DAVES KILLER BRD 21 WHL
+GRAINS                            4.78 F
+KRO SAVINGS                      1.43-  
+AVOCADOS BAG 4 CT                 3.54 F
+  2 @ 1.00
+DICED TOM 14.5 OZ                 2.00 F
+SMPL TRTH FRESH DILL              0.90 F
+  3.81 lb @ 1.48 /lb
+RED ONIN                          5.64 F
+GRASS-FED GRND BF 85/15           7.35 F
+SMPL TRTH CILANTRO                1.16 F
+WILD COD FILLET                  18.56 F
+  0.69 lb @ 17.07 /lb
+LAMB CHOPS                       11.78 F
+  1.29 lb @ 2.08 /lb
+KIWI                              2.68 F
+
+SUBTOTAL                           82.26
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              82.26
+DISCOVER TEND                      82.26
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.41
+04/23/26 14:14  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

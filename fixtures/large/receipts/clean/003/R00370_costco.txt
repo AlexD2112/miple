@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1575  Seattle WA
+            MEMBER ************
+
+1252290 FRESH DILL                    0.90 E
+  PRICE OVERRIDE  WAS 19.37
+1842960 BARILLA PENNE                17.94 E
+1408074 KS CHERRIES                  17.07 E
+     3 @ 5.69
+
+SUBTOTAL                               35.91
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             35.91
+DISCOVER TEND                          35.91
+CHANGE                                  0.00
+
+08/27/26 21:10  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

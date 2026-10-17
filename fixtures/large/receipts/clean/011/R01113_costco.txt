@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1808  San Francisco CA
+            MEMBER ************
+
+902458 AVOCADOS BAG 4 CT             10.62 E
+     3 @ 3.54
+1135790 KS JALAPENO                   4.26 E
+     2.66 lb @ 1.60 /lb
+1486216 JENNIE-O GRND TRKY 1 LB       6.60 E
+1486216 JENNIE-O GRND TRKY 1 LB       6.60 E
+** VOID ** 1486216 JENNIE-O G        6.60-  
+183732 SHRDDD MOZZ 8 OZ               2.92 E
+1237218 COCA-COLA 12 PK CANS          2.77 A
+  1 @ 0.05
+CA CRV                                0.05 A
+947503 KS CRL                         6.63 E
+693545 FLOWERS BOUQUET               23.70 A
+262250 YELLOW ONIN                    1.78 E
+1107619 FROZEN THREE BERRY BLEND 4 L  2.56 E
+113164 MSSN FLOUR TORT 40 CT          5.22 E
+3959358 TPD/MSSN FLOUR T             1.57-  
+
+SUBTOTAL                               65.54
+TAX 8.625% ON 26.52                     2.29
+**** TOTAL                             67.83
+VISA TEND                              67.83
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.57
+04/23/26 19:43  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,25 @@
+                 TARGET
+        San Francisco CA  T-0365
+             (555) 030-0025
+
+  1.26 lb @ 9.25 /lb
+SWISS CHS                        11.66 N
+TILLAMOOK MEDIUM CHEDDAR         11.77 N
+BABY SPINACH                      5.42 N
+MKT PANTRY FRESH BASIL            2.74 N
+BANANA                            2.37 N
+CAT LITTER                       14.03 T
+TOOTHPASTE                       16.40 T
+SPAGHETTI                         9.54 N
+BAG FEE                           0.25  
+
+SUBTOTAL                           74.18
+TAX 8.625% ON 30.43                 2.62
+TOTAL                              76.80
+CASH TEND                           3.00
+DEBIT TEND                         73.80
+CHANGE                              0.00
+
+03/30/26 12:45  ITEMS 8
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

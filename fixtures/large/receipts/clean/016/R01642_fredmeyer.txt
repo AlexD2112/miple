@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 0272
+
+KRO GRND PORK                     6.60 F
+ORG EGGS 24 CT                    7.83 F
+KRO SAVINGS                      2.35-  
+SMPL TRTH MAYONNAISE              6.36 F
+SMPL TRTH MAYONNAISE              6.36 F
+** VOID ** SMPL TRTH MAYONNAI    6.36-  
+DIGITAL CPN                      0.31-  
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           18.29
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              18.31
+MASTERCARD TEND                    18.31
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.66
+09/26/26 14:18  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

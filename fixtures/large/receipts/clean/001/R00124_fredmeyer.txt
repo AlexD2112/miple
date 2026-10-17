@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 1879
+
+SMPL TRTH CARROTS                 1.79 F
+FM PLUS CARD SAV                 0.54-  
+  3.22 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                7.82 F
+FM FRZN BROC                      1.72 F
+LG EGGS 18 CT                     7.52 F
+FM SPARKLING WATER                3.74 F
+MFR CPN                          1.12-  
+EXTRA FIRM TOFU                   2.32 F
+  3.56 lb @ 9.65 /lb
+KRO PORK TENDERLOIN              34.35 F
+
+SUBTOTAL                           57.60
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              57.60
+CASH TEND                          24.00
+AMEX TEND                          33.60
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.66
+07/11/26 21:49  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

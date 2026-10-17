@@ -1,0 +1,30 @@
+                 TARGET
+        San Francisco CA  T-1672
+             (555) 030-4522
+
+MKT PANTRY CELERY                 4.32 N
+GG CHERRIES                       5.69 N
+GG CHERRIES                       5.69 N
+** VOID ** GG CHERRIES           5.69-  
+MANDARIN ORANGE CHKN             15.87 N
+  3 @ 5.44
+GG SPRING MIX                    16.32 N
+  2 @ 4.43
+MKT PANTRY COLD BREW
+COFFEE 32OZ                       8.86 N
+  2 @ 0.10
+CA CRV                            0.20  
+GG CHICKEN DRUMSTICKS             8.97 N
+GG CILANTRO                       1.16 N
+  1.23 lb @ 3.42 /lb
+MKT PANTRY RED BELL PEPR          4.21 N
+
+SUBTOTAL                           65.60
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              65.60
+DEBIT TEND                         65.60
+CHANGE                              0.00
+
+05/15/26 17:05  ITEMS 11
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

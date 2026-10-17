@@ -1,0 +1,19 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-7807
+
+365 ORG FRZN MIXED BERRIES        2.06 F
+365 NAPKINS                      24.05 T
+WF HONEYCRISP APPLES              4.67 F
+365 ORG TILLAMOOK
+MEDIUM CHDR                      11.77 F
+
+SUBTOTAL                           42.55
+TAX 10.55% ON 24.05                 2.54
+TOTAL                              45.09
+AMEX TEND                          45.09
+CHANGE                              0.00
+
+08/31/26 14:46  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

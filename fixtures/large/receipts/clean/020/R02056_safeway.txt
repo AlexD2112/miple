@@ -1,0 +1,30 @@
+                SAFEWAY
+         Store 1517  Seattle WA
+             (555) 010-6861
+
+SIG ALUMINUM FOIL                18.03 T
+  2 @ 5.22
+STRWB 1 LB                       10.44 S
+STRAWBERRIES 2 LB                 5.88 S
+STRAWBERRIES 2 LB                 5.88 S
+** VOID ** STRAWBERRIES 2 LB     5.88-  
+  2.58 lb @ 3.76 /lb
+CAULIFLOWER                       9.70 S
+ROMA TOMATOES                     2.38 S
+POTATO CHIPS                      5.07 S
+SIG KTCHNS GRND TRKY              5.19 S
+HEINZ KETCHUP 32 OZ               4.48 S
+  1.44 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              15.83 S
+CAGE FREE EGGS 18CT               6.85 S
+CELERY HEARTS                     4.34 S
+
+SUBTOTAL                           88.19
+TAX 10.55% ON 18.03                 1.90
+**** TOTAL                         90.09
+DEBIT TEND                         90.09
+CHANGE                              0.00
+
+06/09/26 12:10  ITEMS 12
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

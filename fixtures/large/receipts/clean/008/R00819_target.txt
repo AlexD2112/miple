@@ -1,0 +1,18 @@
+                 TARGET
+           Seattle WA  T-3399
+             (555) 030-9929
+
+  4 @ 1.15
+ORG BLACK BEANS 8 CANS            4.60 N
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                            4.76
+TAX 10.55% ON 0.16                  0.02
+TOTAL                               4.78
+CASH TEND                          20.00
+CHANGE                             15.22
+
+09/11/26 18:13  ITEMS 4
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

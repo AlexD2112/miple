@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0550  Seattle WA
+            MEMBER ************
+
+1006206 KS GREEN BEANS                4.62 E
+     2 @ 2.31
+1743356 BIBIGO PORK MANDU DUMPLINGS  10.32 E
+7184385 TPD/BIBIGO PORK              1.41-  
+876157 KS JASMINE RICE               12.13 E
+1401511 KS PORK TNDRLN               22.97 E
+     2.38 lb @ 9.65 /lb
+1154359 KS AHI TUNA STEAK            14.71 E
+5023886 TPD/AHI TUNA STE             2.34-  
+1932806 EVERYTHING BUT THE BAGEL SEA  7.01 E
+1035838 KS KIWI                       0.64 E
+     0.31 lb @ 2.08 /lb
+945122 DARK CHOCOLATE PEANUT BUTTER  11.22 E
+     2 @ 5.61
+1790264 KS JASMINE RICE              12.13 E
+
+SUBTOTAL                               92.00
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             92.00
+DEBIT TEND                             92.00
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      3.75
+02/13/26 07:50  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

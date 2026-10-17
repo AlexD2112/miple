@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2609  San Francisco CA
+            MEMBER ************
+
+1834345 KS ORANGE JUICE 52OZ          9.39 E
+1834345 KS ORANGE JUICE 52OZ          9.39 E
+** VOID ** 1834345 KS ORANGE         9.39-  
+  1 @ 0.10
+CA CRV                                0.10  
+6248993 TPD/ORANGE JUICE             0.48-  
+710589 LAUNDRY DETERGENT PODS        20.18 A
+1890753 KS APPLE JUICE 64OZ           7.25 E
+  1 @ 0.10
+CA CRV                                0.10  
+571960 YELLOW ONIN                    1.78 E
+8146982 TPD/YELLOW ONIN              0.53-  
+119736 PLAIN GOAT CHEESE              5.77 E
+1486708 KS LEMONS                    12.57 E
+     3 @ 4.19
+683573 ORG TOMATO BASIL MARINARA      5.94 E
+279007 MAYONNAISE 30 OZ               6.42 E
+2973501 TPD/MAYONNAISE 3             1.93-  
+1567720 KS JASMINE RICE              12.13 E
+282674 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+
+SUBTOTAL                               81.47
+TAX 8.625% ON 20.18                     1.74
+**** TOTAL                             83.21
+VISA TEND                              83.21
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      2.94
+10/08/26 10:47  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

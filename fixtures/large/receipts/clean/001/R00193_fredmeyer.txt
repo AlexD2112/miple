@@ -1,0 +1,44 @@
+               FRED MEYER
+              Portland OR
+               Store 0589
+
+SMPL TRTH ORANGE JUICE            7.69 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+CREMINI MSHRM                     1.14 F
+FRZN PEAS 12 OZ                   5.40 F
+KRO PASTURE RAISED EGGS           7.37 F
+  1.32 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS              12.21 F
+FM RCTT                           8.76 F
+  0.82 lb @ 1.13 /lb
+RUSSET POTS                       0.93 F
+ITALIAN SAUSAGE BULK              9.93 F
+KRO OAT MLK                       3.10 F
+  1.52 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             15.09 F
+
+      **** COUPONS & SAVINGS ****
+MFR CPN CREMINI MSHRM            0.57-  
+SC FRZN PEAS 12 O                0.91-  
+SC OAT MLK                       1.49-  
+KRO SAVINGS RCTT                 1.44-  
+KRO SAVINGS SWISS CHS            0.27-  
+DIGITAL CPN RCTT                 1.20-  
+MFR CPN ORANGE JUICE             0.53-  
+KRO SAVINGS BNLS PORK LOIN       2.52-  
+TOTAL COUPONS                    8.93-  
+        ************************
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           62.89
+TAX                                 0.00
+TOTAL                              62.89
+DEBIT TEND                         62.89
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  8.93
+06/14/26 11:37  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

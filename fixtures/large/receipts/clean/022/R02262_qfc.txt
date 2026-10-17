@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3977
+
+  1.05 lb @ 11.10 /lb
+PRIV SEL PORK CHOPS              11.66 F
+  1.34 lb @ 2.43 /lb
+PRSNPS                            3.26 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+PRIV SEL FRZN MIXED BERRIES       2.06 F
+
+SUBTOTAL                           25.81
+TAX 10.55% ON 8.83                  0.93
+TOTAL                              26.74
+CASH TEND                          40.00
+CHANGE                             13.26
+
+05/07/26 14:01  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

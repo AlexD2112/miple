@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLE5ALE
+        Warehouse #0506  Portland OR
+            NEM8FR ************
+
+1588697 PLAIN NONFAT GRK YGRT        18.60 E
+     4 @ 4.65
+1588697 PLAIN NONFAT GRK YGRT        18.60 E
+** VOID ** 15B8697 PLAIN NONF 18.6O-  
+52O428 HNDMD STYLF CORN TORT          3.55 F
+   9760758 TPD/HNDMD STYLE              0.72-  
+1162024 PEACHES                       1.03 E
+     1.52 lb @ 0.68 /lb
+1287799 BLUBRY 18 OZ                  4.61 E
+430486 KS PLSTC WRAP                  4.77 E
+82404 CHKN BROTH 32 OZ                2.81 E
+434332 KS VAN YGRT CUP5              10.78    E
+     2 @ 5.39
+67514 DARIGOLD UNSLTD BTR 6.67 E
+200519 CFLERY HEARTS                  4.34 F
+180277 LEMON                         12.90 E
+     3 @ 4.30
+170119 LARGE EGGS 12 CT               8.69 E
+289812 SLCD SRDGH PAN LOAF            9.48 F
+     2 @ 4.74
+1947208 KS PREPARED MAC AND CHEESE 10.62 E
+1969791 KS ALL PURPOSE FLOUR         11.36 E
+
+SUBTOTAL 109.49
+TAX                                     0.00
+**** TOTAL                            109.49
+DISCOVER TEND                         109.49
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      0.72
+04/08/26 13:31  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

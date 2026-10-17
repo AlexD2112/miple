@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 3672
+
+CARROTS 2 LB                      1.74 F
+SMPL TRTH SPARKLING WATER 8PK     5.13 F
+  8 @ 0.10
+OR BTL DEP                        0.80  
+KRO HAND SOAP                    24.27 F
+KRO ICE CRM                      14.51 F
+MFR CPN                          1.03-  
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           45.57
+TAX                                 0.00
+TOTAL                              45.57
+AMEX TEND                          45.57
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.03
+09/23/26 16:37  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

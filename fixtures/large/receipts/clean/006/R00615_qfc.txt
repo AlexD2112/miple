@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0539
+
+SMPL TRTH UNSLTD BTR              9.95 F
+PRIV SEL RICOTTA                  8.76 F
+BABY SPINACH                      5.42 F
+BABY SPINACH                      5.42 F
+** VOID ** BABY SPINACH          5.42-  
+PRIV SEL CRL                      6.63 F
+PAPER PLATES                      3.31 T
+  REFUND - ORIG RECEIPT
+RETURN PAPER PLATES              3.31- T
+  3 @ 0.08
+PAPER BAG                         0.24 T
+
+SUBTOTAL                           31.00
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              31.03
+DISCOVER TEND                      31.03
+CHANGE                              0.00
+
+04/28/26 14:22  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

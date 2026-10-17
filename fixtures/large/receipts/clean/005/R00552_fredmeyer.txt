@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 3895
+
+SMPL TRTH CHKN THIGHS             9.29 F
+  2 @ 3.77
+SMPL TRTH BAGELS                  7.54 F
+  3.04 lb @ 0.68 /lb
+PCHS                              2.07 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           19.06
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              19.08
+MASTERCARD TEND                    19.08
+CHANGE                              0.00
+
+06/01/26 09:22  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

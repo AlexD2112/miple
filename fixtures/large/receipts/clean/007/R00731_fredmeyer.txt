@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 0805
+
+SMPL TRTH SPGHTT                  9.54 F
+FM PNT BTR                        6.90 F
+KRO PLASTIC WRAP                  4.77 F
+YUKON GOLD POTS                   3.99 F
+SMPL TRTH ORANGE JUICE
+52OZ                              9.39 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  2 @ 0.05
+PAPER BAG                         0.10  
+
+SUBTOTAL                           34.79
+TAX                                 0.00
+TOTAL                              34.79
+CASH TEND                          40.00
+CHANGE                              5.21
+
+02/28/26 16:00  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

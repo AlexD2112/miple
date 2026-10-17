@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1120
+
+PRIV SEL ORANGE JUICE             7.69 F
+  1.16 lb @ 13.18 /lb
+SLCD TRKY BRST                   15.29 F
+2 @ 2 FOR 7.00 BLCKBRRS           7.00 F
+TTHPST                           16.40 T
+PRIV SEL APPLE JUICE 64OZ         7.25 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           53.71
+TAX 10.55% ON 16.48                 1.74
+TOTAL                              55.45
+VISA TEND                          55.45
+CHANGE                              0.00
+
+07/22/26 09:42  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

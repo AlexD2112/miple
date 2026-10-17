@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               5tore 0555
+
+KRO HAND SOAP                    24.27 T
+SMPL TRTH AVOCADOS                4.05 F
+KRO GRND COFFEE                   9.64 F
+  2 @ 5.49
+ORG SPRING MIX 1 LB              10.98 F
+ORG BASIL CLMSHLL                 1.49 F
+SMPL TRTH ITALIAN PRSLY           2.93 F
+AVCDS BAG 4 CT                    3.54 F
+
+SUBTOTAL                           56.90
+TAX 10.55% ON 24.27                 2.56
+TOTAL 59.46
+DEBIT TEND                         59.46
+CHANGE                              0.00
+
+07/31/26 12:18  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

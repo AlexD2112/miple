@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3497  Seattle WA
+            MEMBER ************
+
+1640981 KS GRNLA BRS                  6.07 E
+
+SUBTOTAL                                6.07
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              6.07
+GIFT CARD TEND                          5.35
+DEBIT TEND                              0.72
+CHANGE                                  0.00
+
+02/13/26 21:48  ITEMS 1
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

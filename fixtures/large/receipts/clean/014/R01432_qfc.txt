@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3996
+
+APPLE JUICE 64OZ                  7.25 F
+RUSSET POTS 5 LB BAG              4.53 F
+FLOUR TORT 10 CT                  2.35 F
+ORGANIC CARROTS BUNCH             4.63 F
+CHKN BROTH 32 OZ                  2.81 F
+FROZEN THREE BERRY BLEND 4 LB     2.56 F
+
+SUBTOTAL                           24.13
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              24.13
+DISCOVER TEND                      24.13
+CHANGE                              0.00
+
+04/20/26 17:00  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

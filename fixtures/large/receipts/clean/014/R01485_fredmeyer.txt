@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 3760
+
+  3 @ 4.48
+HEINZ KETCHUP 32 OZ              13.44 F
+SPAGHETTI                         9.54 F
+2 @ 2 FOR 5.00 SWISS CHARD        5.00 F
+SOY SCE                           6.79 F
+SMPL TRTH GINGER ALE 12PK         6.02 T
+FM PREPARED MAC & CHS            10.62 F
+LAUNDRY DETERGENT PODS           20.18 T
+KRO ROOT BEER 2L                  5.24 T
+SMPL TRTH ALMOND MILK             5.08 F
+KRO DISH SOAP                    19.39 T
+
+      **** COUPONS & SAVINGS ****
+MFR CPN HEINZ KETCHUP            1.87-  
+SC ROOT BEER 2L                  2.46- T
+MFR CPN DISH SOAP                2.59- T
+DIGITAL CPN LAUNDRY DETERG       2.41- T
+DIGITAL CPN LAUNDRY DETERG       0.42- T
+MFR CPN GINGER ALE 12P           0.57- T
+TOTAL COUPONS                   10.32-  
+        ************************
+
+SUBTOTAL                           90.98
+TAX 10.55% ON 42.38                 4.47
+TOTAL                              95.45
+VISA TEND                          95.45
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                 10.32
+05/25/26 07:34  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

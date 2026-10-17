@@ -1,0 +1,15 @@
+               FRED MEYER
+               Seattle WA
+               Store 0160
+
+SMPL TRTH SILKEN TOFU             2.29 F
+
+SUBTOTAL                            2.29
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               2.29
+VISA TEND                           2.29
+CHANGE                              0.00
+
+01/14/26 21:23  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

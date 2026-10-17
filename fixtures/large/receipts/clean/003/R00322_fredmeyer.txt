@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 0720
+
+CELERY HEARTS                     4.34 F
+KRO ATLNTC SLMN FLLT             19.77 F
+JASMINE RICE                     12.13 F
+JASMINE RICE                     12.13 F
+** VOID ** JASMINE RICE         12.13-  
+  1.19 lb @ 5.06 /lb
+KRO GRND CHKN                     6.02 F
+SMPL TRTH GENOA SALAMI            4.76 F
+  3.72 lb @ 7.09 /lb
+TRKY BRST                        26.37 F
+
+SUBTOTAL                           73.39
+TAX                                 0.00
+TOTAL                              73.39
+VISA TEND                          73.39
+CHANGE                              0.00
+
+06/18/26 18:40  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2333  Seattle WA
+            MEMBER ************
+
+  PRICE OVERRIDE  WAS 7.82
+1992612 KS PRMGN REGGIANO             5.51 E
+998541 RUSSET POTATOES 5 LB BAG       4.53 E
+924984 RASPBERRIES                    7.24 E
+622135 KS ENGLISH CCMBR               5.71 E
+     1.63 lb @ 3.50 /lb
+1221986 KS ROLLED OATS                3.98 E
+
+SUBTOTAL                               26.97
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             26.97
+AMEX TEND                              26.97
+CHANGE                                  0.00
+
+06/25/26 13:20  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

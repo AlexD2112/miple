@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 1197
+
+  PRICE OVERRIDE  WAS 2.02
+CILANTRO BUNCH                    1.24 F
+FM PLUS CARD SAV                 0.37-  
+  0.37 lb @ 14.17 /lb
+SMPL TRTH BLACK FOREST HAM        5.24 F
+  3.37 lb @ 13.74 /lb
+KRO CHUCK ROAST                  46.30 F
+HNYCRSP APPLES                    4.67 F
+  3 @ 4.00
+ARGL                             12.00 F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           69.24
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              69.26
+CASH TEND                          80.00
+CHANGE                             10.74
+
+YOUR SAVINGS TODAY                  0.37
+02/18/26 09:56  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

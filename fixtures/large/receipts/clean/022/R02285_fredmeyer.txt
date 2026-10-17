@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 2974
+
+2 @ 2 FOR 6.00 AVCDS BAG 4 CT     6.00 F
+BLACK FOREST HAM 9 OZ             7.00 F
+  4 @ 4.32
+CELERY                           17.28 F
+SRRCH                             3.16 F
+CREAM CHEESE 8 OZ                 3.15 F
+CILANTRO                          1.16 F
+DIGIORNO RISING CRUST PEPPERONI   5.73 F
+  3 @ 0.05
+PAPER BAG                         0.15  
+
+SUBTOTAL                           43.63
+TAX                                 0.00
+TOTAL                              43.63
+CASH TEND                          60.00
+CHANGE                             16.37
+
+01/27/26 15:27  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

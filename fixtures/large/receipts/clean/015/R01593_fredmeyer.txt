@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 0172
+
+SMPL TRTH HONEYCRISP
+APPLES                            4.67 F
+FM CHICKEN THIGHS                 9.29 F
+  2.74 lb @ 6.69 /lb
+BNLS SKNLS CHKN BRST             18.33 F
+  3.07 lb @ 0.76 /lb
+SMPL TRTH MANGO                   2.33 F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           34.78
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              34.80
+VISA TEND                          34.80
+CHANGE                              0.00
+
+10/16/26 14:18  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

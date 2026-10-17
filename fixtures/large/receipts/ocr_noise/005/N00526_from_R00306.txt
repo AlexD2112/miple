@@ -1,0 +1,29 @@
+               FRED MEYER
+               5eattle WA
+               Store 2488
+
+  2 @ 1.00
+D1CED TOM l4.5 0Z                 2.00 F
+SMPL TRTH LEMONS                  4.19 F
+2 @ 2 FOR 5.00 LIMES              5.00 F
+ORG BASIL CLMSHLL                 1.49 F
+SMPL TRTH GRK YGRT PLAIN          4.11     F
+KRO CREAM CHEESE                  8.63 F
+  1.06 lb @ 9.93 /lb
+B0NFLE5S PORK LOIN CHOPS         10.53 F
+  2 @ 3.74
+SPRKLG WTR 7.48 F
+ 3.18 lb @ 0.68 /lb
+SMPL TRTH PCHS                    2.16 F
+  3 @ 0.08
+BA6 FEE                           O.Z4 T
+
+SUBTOTAL                           45.83
+TAX 10.55% ON 0.24                  0.03
+  TOTAL                              45.86
+VISA TEND                          45.86
+CHANGE                              0.00
+
+08/03/26 07:29  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK Y0U

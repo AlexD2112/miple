@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0907
+
+  0.88 lb @ 6.00 /lb
+GRND BF 88/12                     5.28 F
+SMPL TRTH BLUEBERRIES             5.87 F
+DIGITAL CPN                      1.76-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                            9.55
+TAX 10.55% ON 0.16                  0.02
+TOTAL                               9.57
+DEBIT TEND                          9.57
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.76
+09/02/26 07:19  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

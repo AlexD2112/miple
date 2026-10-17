@@ -1,0 +1,19 @@
+               FRED MEYER
+              Portland OR
+               Store 0385
+
+  3 @ 2.56
+FRZN THREE BERRY BLEND
+4 LB                              7.68 F
+CAULIFLOWER GNOCCHI               7.85 F
+
+SUBTOTAL                           15.53
+TAX                                 0.00
+TOTAL                              15.53
+GIFT CARD TEND                      3.66
+MASTERCARD TEND                    11.87
+CHANGE                              0.00
+
+03/14/26 19:55  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

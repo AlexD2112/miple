@@ -1,0 +1,23 @@
+                 TARGET
+           Seattle WA  T-1227
+             (555) 030-4794
+
+  4 @ 3.77
+MKT PANTRY BAGELS                15.08 N
+CREAM CHEESE 8 OZ                 3.15 N
+  2 @ 4.48
+HEINZ KETCHUP 32 OZ               8.96 N
+GG AVOCADOS                       4.05 N
+GG TILLAMOOK MEDIUM CHDR         11.77 N
+GG FRESH DILL                     0.90 N
+
+SUBTOTAL                           43.91
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              43.91
+GIFT CARD TEND                     30.00
+DEBIT TEND                         13.91
+CHANGE                              0.00
+
+01/16/26 09:12  ITEMS 10
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

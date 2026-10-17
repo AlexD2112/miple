@@ -1,0 +1,27 @@
+ COSTCO
+                 WHOLESALE
+        Warehouse #3491  Seattle WA
+            MEMBER ************
+
+267065 KS CHUCK ROAST                30.78 E
+     2.24 lb @ 13.74 /lb
+607000 KS PORK CHOPS                 18.43 E
+     1.66 lb @ 11.10 /lb
+1190662 RED BELL PEPR                13.47 E
+     3.94 lb @ 3.42 /lb
+1456127 ZIP TOP BAG5                 24.79 A
+1064924 ORG SPROUTED TOFU             2.61 E
+643lZ3 D1CED TOMATOES CAN             2.98   E
+  1202434 JASMINE RICE 5 LB             1.49 E
+605974 PCHS                           1.18 E
+     1.74 lb @ 0.68 /lb
+
+SUBTOTAL                               95.73
+TAX 10.55% ON 24.79                     2.62
+**** TOTAL                             98.35
+DISCOVFR TEND                          98.3S
+CHANGE                                     0.00
+
+06/21/26 17:55 1TEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1607
+
+  2.49 lb @ 1.05 /lb
+RADISHES                          2.61 F
+  2 @ 2.77
+KRO HAMBURGER BUNS                5.54 F
+KRO ZIP TOP BAGS                 24.79 T
+PRIV SEL PREPARED MAC & CHS      10.62 F
+BARILLA PENNE                    19.37 F
+GREETING CARD                    20.34 T
+SMPL TRTH KETCHUP                 5.49 F
+PAPER TOWELS 6 ROLL               3.75 T
+  2.89 lb @ 17.07 /lb
+PRIV SEL LAMB CHOPS              49.33 F
+SMPL TRTH CELERY                  4.32 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                          146.48
+TAX 10.55% ON 49.20                 5.19
+TOTAL                             151.67
+DISCOVER TEND                     151.67
+CHANGE                              0.00
+
+01/18/26 18:21  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

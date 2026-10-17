@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 1561
+
+  3 @ 5.79
+SMPL TRTH LEMONADE 52OZ          17.37 T
+KRO RIBEYE STEAK                 19.87 F
+KRO ROLLED OATS                   3.98 F
+DIGITAL CPN                      1.19-  
+FM TILLAMOOK MEDIUM
+CHEDDAR                          11.77 F
+ORG CARROTS BUNCH                 4.63 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+SPONGES 3PK                       9.54 T
+ORG SPRING MIX 1 LB               5.49 F
+  1.70 lb @ 11.10 /lb
+PORK CHOPS                       18.87 F
+  1.60 lb @ 3.50 /lb
+SMPL TRTH ENGLISH CCMBR           5.60 F
+  3.78 lb @ 3.72 /lb
+ZCCHN                            14.06 F
+DRIED LNTLS                       4.26 F
+LEMONADE 52OZ                     5.79 T
+CRM CHS 8 OZ                      3.15 F
+MFR CPN                          0.51-  
+
+SUBTOTAL                          131.56
+TAX 10.55% ON 32.70                 3.45
+TOTAL                             135.01
+VISA TEND                         135.01
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.70
+10/17/26 15:06  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

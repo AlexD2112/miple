@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2990
+
+  0.90 lb @ 3.42 /lb
+SMPL TRTH RED BELL PEPPER         3.08 F
+  1.54 lb @ 2.33 /lb
+BRUSSELS SPROUTS                  3.59 F
+BRUSSELS SPROUTS                  3.59 F
+** VOID ** BRUSSELS SPROUTS      3.59-  
+  2.75 lb @ 6.00 /lb
+GRND BF 88/12                    16.50 F
+CAT LITTER                       14.03 T
+  0.26 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                0.38 F
+KRO HALIBUT                      10.82 F
+PRIV SEL KEFIR                    1.27 F
+
+SUBTOTAL                           49.67
+TAX 10.55% ON 14.03                 1.48
+TOTAL                              51.15
+CASH TEND                          60.00
+CHANGE                              8.85
+
+08/12/26 08:58  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

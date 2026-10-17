@@ -1,0 +1,33 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0254
+
+KRO SHRP CHDR BLOCK              10.33 F
+KRO SAVINGS                      0.72-  
+PREPARED MAC & CHS               10.62 F
+WHITE BRD                         6.34 F
+CAT LITTER                       14.03 T
+  3 @ 1.95
+ORGANIC ITALIAN PARSLEY           5.85 F
+  1.79 lb @ 1.13 /lb
+RUSSET POTS                       2.02 F
+DIGITAL CPN                      0.61-  
+ORG BLACK BEANS 8 CANS            1.15 F
+MFR CPN                          0.35-  
+SMPL TRTH NAVEL ORANGES           1.01 F
+PRIV SEL FRZN BROC                1.72 F
+BOTTLED WTR 40 PK                 2.45 F
+KRO HALIBUT                      10.82 F
+CILANTRO                          1.16 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           65.90
+TAX 10.55% ON 14.11                 1.49
+TOTAL                              67.39
+AMEX TEND                          67.39
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.68
+10/04/26 08:01  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

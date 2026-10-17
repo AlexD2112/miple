@@ -1,0 +1,30 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2013
+
+GRSS-FD GRND BF 85/15             7.35 F
+2% MLK HALF GALLON                6.08 F
+  3.44 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             34.16 F
+PRIV SEL CHICKEN THIGHS           9.29 F
+SILKEN TOFU                       2.29 F
+  0.83 lb @ 5.06 /lb
+GROUND CHICKEN                    4.20 F
+  1.21 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              13.30 F
+CHOBANI PLAIN GREEK YOGURT 32 OZ  1.47 F
+2 @ 2 FOR 8.00 SLICED SOURDOUGH   8.00 F
+  3.22 lb @ 2.30 /lb
+GALA APPLES                       7.41 F
+CELERY                            4.32 F
+POTATO CHIPS                      5.07 F
+
+SUBTOTAL                          102.94
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             102.94
+CASH TEND                         120.00
+CHANGE                             17.06
+
+01/04/26 18:03  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

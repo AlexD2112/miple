@@ -1,0 +1,28 @@
+                   COSTCO
+                     WHOLESALE
+        Warehouse #0632  Seattle WA
+            MEMBER ************
+
+1997363 KS COD FLLT                  35.05 E
+     1.93 lb @ 18.16 /lb
+1838581 PAPER TOWELS 6 ROLL           3.75 A
+446238 STRWB 2 LB                     5.88 E
+1337455 GRND CHKN                    18.47 E
+     3.65 lb @ 5.06 /lb
+34499l KS WHL CHKN                    7.09 E
+     1.12 lb @ 6.33 /lb
+829938 LIMES                          Z.B0 E
+5776485 TPD/LIMES                    0.84-  
+277740 KS OAT MLK                     3.10 E
+
+SUBTOTAL                                  75.30
+TAX 10.55% ON 3.75                      0.40
+**** TOTAL                             75.70
+61FT CARD TEND                         57.35
+NASTERCARD TEND                        1B.35
+CHANGE                                      0.00
+
+  YOUR SAVINGS TODAY                      0.84
+02/09/ZG 11:30  ITEM5 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

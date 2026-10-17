@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3827
+
+  1.92 lb @ 3.72 /lb
+SMPL TRTH ZCCHN                   7.14 F
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH ZCCHN           3.72- F
+
+SUBTOTAL                            3.42
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               3.42
+DISCOVER TEND                       3.42
+CHANGE                              0.00
+
+08/16/26 21:09  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

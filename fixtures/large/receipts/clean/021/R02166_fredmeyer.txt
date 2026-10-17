@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 2678
+
+LEMON                             4.30 F
+  3 @ 1.57
+ORG GALA APPLES                   4.71 F
+FM HALIBUT                       10.82 F
+SMPL TRTH APPLE JUICE 64OZ        7.25 F
+LG EGGS 18 CT                     7.52 F
+SMPL TRTH CELERY                  4.32 F
+PLAIN NONFAT GREEK YOGURT         4.65 F
+  4 @ 0.08
+PAPER BAG                         0.32 T
+
+SUBTOTAL                           43.89
+TAX 10.55% ON 0.32                  0.03
+TOTAL                              43.92
+CASH TEND                          60.00
+CHANGE                             16.08
+
+10/15/26 18:14  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

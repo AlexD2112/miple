@@ -1,0 +1,19 @@
+                SAFEWAY
+         Store 1063  Seattle WA
+             (555) 010-1702
+
+SW PNT BTR                        6.90 S
+CHICKEN BROTH CARTON              8.38 S
+HUY FONG SRRCH                    2.55 S
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           18.15
+TAX 10.55% ON 0.32                  0.03
+**** TOTAL                         18.18
+VISA TEND                          18.18
+CHANGE                              0.00
+
+04/04/26 10:14  ITEMS 3
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

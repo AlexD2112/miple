@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 1129
+
+NAPKINS                          24.05 T
+SMPL TRTH CHKN DRUMSTICKS         8.97 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           33.26
+TAX 10.55% ON 24.29                 2.56
+TOTAL                              35.82
+VISA TEND                          35.82
+CHANGE                              0.00
+
+03/04/26 11:05  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

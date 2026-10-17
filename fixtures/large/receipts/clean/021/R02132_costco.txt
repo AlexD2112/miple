@@ -1,0 +1,16 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0032  Seattle WA
+            MEMBER ************
+
+1593259 ROMAINE LTTC                  2.79 E
+
+SUBTOTAL                                2.79
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              2.79
+DISCOVER TEND                           2.79
+CHANGE                                  0.00
+
+07/03/26 09:50  ITEMS 1
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 2376
+
+  PRICE OVERRIDE  WAS 9.32
+BOTTLED WTR 24PK                  6.85 F
+FM ROTIS CHKN                     5.04 T
+FM ROTIS CHKN                     5.04 T
+** VOID ** FM ROTIS CHKN         5.04-  
+KRO GRND COFFEE                   9.64 F
+KRO DISH SOAP                    19.39 T
+ZIP TOP BAGS                     24.79 T
+KRO SAVINGS                      2.79- T
+EXTRA FIRM TOFU                   2.32 F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           65.40
+TAX 10.55% ON 46.59                 4.92
+TOTAL                              70.32
+VISA TEND                          70.32
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.79
+09/25/26 11:22  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 0645
+
+KRO GREETING CARD                20.34 T
+SMPL TRTH ROMA TOM                2.38 F
+FM KERRYGOLD BTR                 10.81 F
+FM KERRYGOLD BTR                 10.81 F
+** VOID ** FM KERRYGOLD BTR     10.81-  
+BATH TISSUE 12 ROLL              23.08 T
+FM OAT MLK                        3.10 F
+2 @ 2 FOR 8.00 KRO COLD BREW COF  8.00 F
+SHREDDED CHDR 8 OZ                6.42 F
+  2.44 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        5.69 F
+  3 @ 0.08
+PAPER BAG                         0.24 T
+
+SUBTOTAL                           80.06
+TAX 10.55% ON 43.66                 4.61
+TOTAL                              84.67
+DEBIT TEND                         84.67
+CHANGE                              0.00
+
+06/21/26 21:14  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

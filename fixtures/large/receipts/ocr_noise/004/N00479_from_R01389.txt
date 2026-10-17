@@ -1,0 +1,23 @@
+               FRED MEYER
+              Port1and 0R
+               Store 1842
+
+FM GEN0A SALAMI                   4.76 F
+FRZN PEAS 12 OZ                   5.40 F
+KRO CEREAL                        6.G3 F
+  4 @ 1.00
+DICED TOM 14.5 OZ 4.00 F
+FM FRZN PEAS                     13.98 F
+FM PLUS CARD SAV                 Z.S5-  
+SMPL TRTH YELLOW ONIN             1.78 F
+
+SU8TOTAL                           34.O0
+TAX                                 0.00
+TOTAL                              34.00
+VISA TEND                          34.00
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.55
+07/27/26 17:25  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+   THANK YOU

@@ -1,0 +1,26 @@
+                 TARGET
+           Seattle WA  T-0140
+             (555) 030-1540
+
+  2 @ 1.14
+GG CREMINI MSHRM                  2.28 N
+  0.32 lb @ 2.90 /lb
+GG BANANAS                        0.93 N
+KERRYGOLD BTR                    10.81 N
+GG CRL                            6.63 N
+GG SWISS CHARD                    2.87 N
+ALMOND MLK                        5.08 N
+MKT PANTRY ICBRG LTTC             5.11 N
+  1.13 lb @ 3.72 /lb
+GG ZCCHN                          4.20 N
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           37.99
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              38.00
+DEBIT TEND                         38.00
+CHANGE                              0.00
+
+01/08/26 10:50  ITEMS 9
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

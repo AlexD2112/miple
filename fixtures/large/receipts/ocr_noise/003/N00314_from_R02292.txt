@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1261
+
+KRO KFRRYGOLD 8UTTER             10.81 F
+KRO KERRYGOLD BUTTER             10.81 F
+** VOID ** KRO KERRYGOLD BUTT   10.81-  
+KRO PNT 8TR G.9O F
+PRIV SFL SHRP CHDR BL0CK         10.33 F
+SMPL TRTH ROMAINE LETTUCE         2.79   F
+NAVFL 0RN6S 1.01 F
+   PRIV SEL VAN YGRT CUPS            5.39 F
+CELERY HEARTS                     4.34 F
+  2 @ 0.0B
+PAPFR BAG 0.lG    T
+
+SUBTOTAL 41.73
+TAX 10.55% ON 0.16                  0.02
+T0TAL                              4l.75
+CASH TEND                          GO.00
+    CHANGE 18.25
+
+ 09/06/26 21:18  ITFMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

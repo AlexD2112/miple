@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3494
+
+ICBRG LTTC                        5.11 F
+DAVES KILLER BREAD 21 WHOLE GRAI  4.78 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           10.21
+TAX 10.55% ON 0.32                  0.03
+TOTAL                              10.24
+GIFT CARD TEND                      4.25
+DISCOVER TEND                       5.99
+CHANGE                              0.00
+
+06/23/26 21:50  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

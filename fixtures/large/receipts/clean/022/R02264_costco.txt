@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1319  Seattle WA
+            MEMBER ************
+
+970254 KS FLOUR TORT                  6.18 E
+193059 KS MAYONNAISE                  6.36 E
+1860476 KS ROOT BEER 2L              10.48 A
+     2 @ 5.24
+946406 SPARKLING WATER 8PK            5.13 E
+1686252 HANDMADE STYLE CORN TORTILLA  3.55 E
+
+SUBTOTAL                               31.70
+TAX 10.55% ON 10.48                     1.11
+**** TOTAL                             32.81
+AMEX TEND                              32.81
+CHANGE                                  0.00
+
+10/11/26 21:38  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

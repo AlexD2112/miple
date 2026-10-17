@@ -1,0 +1,20 @@
+ QFC
+          Qua1ity Food Centers
+         Seattle WA  Store 0204
+
+PRIV SEL FROZEN PIZZA            13.3O F
+ORG BABY SPNCH 5 OZ               5.85 F
+SPONGES 3PK                       9.54 T
+  6.45 lb @ 7.O9 /lb
+TRKY BRST                        45.73   F
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           74.50
+TAX 10.55% ON 9.62                  1.01
+TOTAL                              75.51
+CASH TEND                          80.00
+CHAN6E                              4.49
+
+06/24/26 11:24  ITEMS 4
+T=TAXABLE F=NONTAXABLE FOOD
+               THANK YOU

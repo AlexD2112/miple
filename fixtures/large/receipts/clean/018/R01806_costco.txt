@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0345  Seattle WA
+            MEMBER ************
+
+1616154 SHREDDED MOZZ 8 OZ            2.92 E
+1292050 KS GRND COFFEE                9.64 E
+5386808 TPD/GRND COFFEE              0.70-  
+1100057 ARUGULA                       8.00 E
+     2 @ 4.00
+910513 KS CHICKEN BROTH CARTON        8.38 E
+2756887 TPD/CHICKEN BROT             2.51-  
+1332364 KS GALA APPLES                4.69 E
+     2.04 lb @ 2.30 /lb
+1660705 JLPN                          5.89 E
+     3.68 lb @ 1.60 /lb
+
+SUBTOTAL                               36.31
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             36.31
+CASH TEND                              33.00
+DEBIT TEND                              3.31
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      3.21
+08/17/26 20:16  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

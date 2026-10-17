@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 2120
+
+  0.40 lb @ 0.68 /lb
+PEACHES                           0.27 F
+3 @ 3 FOR 6.00 BOTTLED WTR 40 PK  6.00 F
+TRASH BAGS 40CT                   6.49 T
+ORG RASPB 6 OZ                    6.28 F
+FM SALSA JAR                      2.09 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           21.45
+TAX 10.55% ON 6.81                  0.72
+TOTAL                              22.17
+DEBIT TEND                         22.17
+CHANGE                              0.00
+
+03/16/26 14:44  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

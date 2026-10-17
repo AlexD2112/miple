@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 2560
+
+  0.60 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               6.59 F
+2 @ 2 FOR 4.00 ORG SPROUTED TOFU  4.00 F
+ORGANIC BASIL CLAMSHELL           1.49 F
+LG EGGS 12 CT                     8.69 F
+FROZEN THREE BERRY BLEND 4 LB     2.56 F
+FM LG BROWN EGGS                  4.29 F
+SMPL TRTH DRIED LENTILS           4.26 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           32.03
+TAX                                 0.00
+TOTAL                              32.03
+CASH TEND                          40.00
+CHANGE                              7.97
+
+03/24/26 20:58  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

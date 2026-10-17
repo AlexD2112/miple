@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1082
+
+  4 @ 5.87
+BLUBRY                           23.48 F
+BLUBRY                           23.48 F
+** VOID ** BLUBRY               23.48-  
+SMPL TRTH JSMN RICE              12.13 F
+  4 @ 2.77
+KRO HAMBURGER BUNS               11.08 F
+ROMAINE LTTC                      2.79 F
+  2 @ 3.33
+KRO TRTLL CHIPS                   6.66 F
+DARIGOLD UNSLTD BTR               6.67 F
+NAPKINS                          24.05 T
+SLCD SOURDOUGH PAN LOAF           4.74 F
+PRIV SEL GRNLA BRS                6.07 F
+
+SUBTOTAL                           97.67
+TAX 10.55% ON 24.05                 2.54
+TOTAL                             100.21
+CASH TEND                          54.00
+DEBIT TEND                         46.21
+CHANGE                              0.00
+
+06/07/26 17:29  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

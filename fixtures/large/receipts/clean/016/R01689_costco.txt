@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0095  Seattle WA
+            MEMBER ************
+
+952599 KS RIBEYE STEAK               19.87 E
+1624003 LACROIX LIME SPRKLG WTR 8 PK  4.40 E
+     2 @ 2.20
+
+SUBTOTAL                               24.27
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             24.27
+GIFT CARD TEND                         17.32
+AMEX TEND                               6.95
+CHANGE                                  0.00
+
+02/11/26 18:21  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

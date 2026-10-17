@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 3571
+
+  PRICE OVERRIDE  WAS 4.29
+SMPL TRTH LARGE BROWN EGGS        3.51 F
+LARGE EGGS 18 CT                  7.52 F
+  2 @ 2.74
+SMPL TRTH FRESH BASIL             5.48 F
+KRO SAVINGS                      1.64-  
+LCRX LIME SPRKLG WTR 8 PK         2.20 F
+FM PLUS CARD SAV                 0.66-  
+FM ALMOND MLK                     5.08 F
+MFR CPN                          1.52-  
+VAN YGRT CUPS                     5.39 F
+CAT LITTER                       14.03 T
+RIBEYE STEAK                     19.87 F
+KRO SAVINGS                      2.12-  
+KRO FROZEN PIZZA                 13.30 F
+SMPL TRTH SALSA JAR               2.09 F
+WHITE BREAD                       6.34 F
+FLOUR TORTILLAS 10 CT             2.35 F
+ALMOND MILK                       5.08 F
+CHOBANI PLAIN GRK YGRT
+32 OZ                             1.47 F
+  3 @ 0.08
+PAPER BAG                         0.24 T
+
+SUBTOTAL                           88.01
+TAX 10.55% ON 14.27                 1.51
+TOTAL                              89.52
+DEBIT TEND                         89.52
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  5.94
+08/21/26 13:10  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

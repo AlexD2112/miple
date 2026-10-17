@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1557  San Francisco CA
+            MEMBER ************
+
+546172 DIJON MUSTARD                  7.38 E
+     3 @ 2.46
+4220826 TPD/DIJON MUSTAR             2.21-  
+1844195 CELERY                        8.64 E
+     2 @ 4.32
+1329745 PLAIN NONFAT GRK YGRT         4.65 E
+1329745 PLAIN NONFAT GRK YGRT         4.65 E
+** VOID ** 1329745 PLAIN NONF        4.65-  
+1163209 TPD/PLAIN NONFAT             1.08-  
+1886069 ORG HONEYCRISP APPLES         2.13 E
+     1.60 lb @ 1.33 /lb
+409588 AVOCADOS BAG 4 CT              7.08 E
+     2 @ 3.54
+798928 BARTLETT PEARS                 3.00 E
+1185746 CILANTRO BUNCH                2.02 E
+869982 CILANTRO BUNCH                 4.04 E
+     2 @ 2.02
+1929985 ORGANIC SPROUTED TOFU         5.22 E
+     2 @ 2.61
+1380843 DARIGOLD UNSALTED BUTTER      6.67 E
+1251956 JLPN                          4.21 E
+     2.63 lb @ 1.60 /lb
+729110 KS FLOUR TORT                  6.18 E
+89485 KS 2% MLK GALLON                6.49 E
+
+SUBTOTAL                               64.42
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             64.42
+DEBIT TEND                             64.42
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      3.29
+07/02/26 10:26  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

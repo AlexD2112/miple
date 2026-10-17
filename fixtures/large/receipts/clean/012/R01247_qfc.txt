@@ -1,0 +1,15 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1951
+
+PRIV SEL PARMIGIANO REGGIANO      7.82 F
+
+SUBTOTAL                            7.82
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               7.82
+AMEX TEND                           7.82
+CHANGE                              0.00
+
+10/13/26 11:42  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

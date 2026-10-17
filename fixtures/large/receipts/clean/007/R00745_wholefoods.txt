@@ -1,0 +1,18 @@
+           WHOLE FOODS MARKET
+            San Francisco CA
+             (555) 020-9316
+
+  PRICE OVERRIDE  WAS 7.69
+ORANGE JUICE                      5.41 F
+  1 @ 0.05
+CA CRV                            0.05  
+
+SUBTOTAL                            5.46
+TAX 8.625% ON 0.00                  0.00
+TOTAL                               5.46
+DEBIT TEND                          5.46
+CHANGE                              0.00
+
+06/09/26 21:51  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 2322
+
+  3.64 lb @ 2.30 /lb
+GALA APPLES                       8.37 F
+GRASS-FED GRND BF 85/15           7.35 F
+DIGITAL CPN                      0.40-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           15.48
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              15.50
+DEBIT TEND                         15.50
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.40
+01/02/26 18:24  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,28 @@
+               FRED MEYER
+              Portland OR
+               Store 3541
+
+LIMES                             2.80 F
+FM CRKRS                          2.00 F
+  1.75 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                2.80 F
+  2 @ 1.15
+ORG BLACK BEANS 8 CANS            2.30 F
+FM COLD BREW COFFEE 32OZ          4.43 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+CRM CHS 8 OZ                      3.15 F
+KRO FLOUR TORT                    6.18 F
+PAPER TOWELS 6 ROLL               3.75 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           27.56
+TAX                                 0.00
+TOTAL                              27.56
+CASH TEND                          19.00
+VISA TEND                           8.56
+CHANGE                              0.00
+
+05/26/26 10:44  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

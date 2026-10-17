@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3056  Portland OR
+            MEMBER ************
+
+1340932 CRSSNTS 12 CT                 4.87 E
+1124625 LG EGGS 12 CT                 8.69 E
+106043 PORK CHOPS                    28.08 E
+     2.53 lb @ 11.10 /lb
+
+SUBTOTAL                               41.64
+TAX                                     0.00
+**** TOTAL                             41.64
+AMEX TEND                              41.64
+CHANGE                                  0.00
+
+09/07/26 10:48  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

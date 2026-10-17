@@ -1,0 +1,24 @@
+                 TARGET
+           Seattle WA  T-2895
+             (555) 030-5380
+
+  PRICE OVERRIDE  WAS 8.83
+HOT BAR PRPRD FOOD BY WEIGHT      6.54 T
+GG BAGGED CAESAR SALAD KIT        2.21 N
+GG CRKRS                          2.00 N
+GG MAYONNAISE                     6.36 N
+TILLAMOOK MEDIUM CHEDDAR 2.5 LB   4.21 N
+MKT PANTRY RICOTTA                8.76 N
+POTATO CHIPS                      5.07 N
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           35.23
+TAX 10.55% ON 6.62                  0.70
+TOTAL                              35.93
+CASH TEND                          15.00
+AMEX TEND                          20.93
+CHANGE                              0.00
+
+02/01/26 08:20  ITEMS 7
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

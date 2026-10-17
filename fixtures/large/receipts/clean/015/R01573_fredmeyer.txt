@@ -1,0 +1,16 @@
+               FRED MEYER
+              Portland OR
+               Store 2439
+
+  PRICE OVERRIDE  WAS 9.88
+CHKN GYOZA PTSTCKRS               8.92 F
+
+SUBTOTAL                            8.92
+TAX                                 0.00
+TOTAL                               8.92
+DISCOVER TEND                       8.92
+CHANGE                              0.00
+
+02/28/26 20:04  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

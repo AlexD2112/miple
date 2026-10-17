@@ -1,0 +1,26 @@
+                   COSTCO
+                  WHOLESALE
+        Warehouse #0254  Seattle WA
+            MEMBFR ************
+
+391213 K5 ORANGE JUICE                7.G9 E
+  732239 CILANTRO BUNCH 2.02 E
+1958229 JENNIE-O GRND TRKY 1 LB       6.60 E
+    1004824 DIGIORNO RISING CRUST PEPPE  22.92 E
+     4 @ 5.73
+1232432 BONELESS RIBEYE STEAK        50.73 E
+     3.26 lb @ 15.56 /lb
+911099 KS FRZN MIXED BERRIES          2.06 E
+880406 TRASH BAGS 40CT                6.49 A
+93l7252 TPD/TRA5H BAGS 4             1.7l- A
+
+SUBTOTAL                               96.80
+TAX 10.55% ON 4.78                      0.50
+**** TOTAL 97.30
+DEBIT TEND                             97.30
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.71
+05/09/26 13:17  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

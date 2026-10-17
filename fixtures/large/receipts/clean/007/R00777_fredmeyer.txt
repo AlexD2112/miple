@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 3125
+
+  PRICE OVERRIDE  WAS 3.74
+SPARKLING WATER                   3.36 F
+FM GROUND COFFEE                  9.64 F
+KRO SAVINGS                      1.91-  
+
+SUBTOTAL                           11.09
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              11.09
+MASTERCARD TEND                    11.09
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.91
+04/08/26 11:34  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

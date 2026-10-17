@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0274  Seattle WA
+            MEMBER ************
+
+1986511 KS ORANGE JUICE               7.69 E
+997702 ROMA TOM                       2.38 E
+1860451 VAN YGRT CUPS                 5.39 E
+402722 KS TOOTHPASTE                 16.40 A
+453461 ICE CRM                       14.51 E
+774679 DAVES KILLER BREAD             6.69 E
+3502667 TPD/DAVES KILLER             2.01-  
+420240 SWEET POTS                     3.28 E
+3676701 TPD/SWEET POTS               0.98-  
+513622 LAUNDRY DETERGENT PODS        20.18 A
+1302239 KS JALAPENO                   3.90 E
+     2.44 lb @ 1.60 /lb
+
+SUBTOTAL                               77.43
+TAX 10.55% ON 36.58                     3.86
+**** TOTAL                             81.29
+DISCOVER TEND                          81.29
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      2.99
+05/23/26 13:13  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

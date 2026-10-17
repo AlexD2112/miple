@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 1166
+
+ICEBERG LETTUCE                   5.11 F
+  3 @ 1.49
+ORG BASIL CLAMSHELL               4.47 F
+ORG BASIL CLAMSHELL               4.47 F
+** VOID ** ORG BASIL CLAMSHEL    4.47-  
+DIGITAL CPN                      1.34-  
+CABOT SHRP CHDR 8 OZ              8.48 F
+3 @ 3 FOR 3.00 ORG BLACK BEANS 8  3.00 F
+HUY FONG SRIRACHA                 2.55 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+2 @ 2 FOR 3.00 COLA 12PK CANS     3.00 T
+
+SUBTOTAL                           33.69
+TAX 10.55% ON 3.00                  0.32
+TOTAL                              34.01
+CASH TEND                          40.00
+CHANGE                              5.99
+
+YOUR SAVINGS TODAY                  1.34
+09/01/26 07:14  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 3437
+
+SMPL TRTH UNSLTD BTR              9.95 F
+SMPL TRTH CARROTS                 1.79 F
+
+      **** COUPONS & SAVINGS ****
+DIGITAL CPN CARROTS              0.90-  
+TOTAL COUPONS                    0.90-  
+        ************************
+
+SUBTOTAL                           10.84
+TAX                                 0.00
+TOTAL                              10.84
+DEBIT TEND                         10.84
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.90
+09/19/26 21:38  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

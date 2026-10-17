@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0068  Seattle WA
+            MEMBER ************
+
+1217202 BLUEBERRIES 18 OZ             9.22 E
+     2 @ 4.61
+7230296 TPD/BLUEBERRIES              2.61-  
+
+SUBTOTAL                                6.61
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              6.61
+DEBIT TEND                              6.61
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      2.61
+O4/23/26 10:28  ITFM5 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

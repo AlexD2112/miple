@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0329  Seattle WA
+            MEMBER ************
+
+512331 KS COTTAGE CHS                 3.21 E
+1988077 KS BLACK BEANS CAN            8.77 E
+311555 BONELESS CHICKEN THIGHS       22.13 E
+     5.10 lb @ 4.34 /lb
+967007 KS ALMOND MLK                  5.08 E
+633105 PLAIN GOAT CHEESE              5.77 E
+333730 RADISHES                       3.31 E
+     3.15 lb @ 1.05 /lb
+763017 COD FILLET                    11.26 E
+     0.62 lb @ 18.16 /lb
+712248 KS SLCD TRKY BRST             12.39 E
+     0.94 lb @ 13.18 /lb
+316568 KS RADISHES                    2.57 E
+     2.45 lb @ 1.05 /lb
+
+SUBTOTAL                               74.49
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             74.49
+VISA TEND                              74.49
+CHANGE                                  0.00
+
+08/17/26 10:55  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

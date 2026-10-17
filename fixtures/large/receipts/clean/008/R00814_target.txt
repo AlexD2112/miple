@@ -1,0 +1,18 @@
+                 TARGET
+           Seattle WA  T-1311
+             (555) 030-9799
+
+  2 @ 3.77
+GG BAGELS                         7.54 N
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                            7.70
+TAX 10.55% ON 0.16                  0.02
+TOTAL                               7.72
+DISCOVER TEND                       7.72
+CHANGE                              0.00
+
+07/04/26 13:59  ITEMS 2
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

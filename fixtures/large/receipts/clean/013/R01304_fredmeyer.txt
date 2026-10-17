@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 3863
+
+  PRICE OVERRIDE  WAS 8.63
+FM CRM CHS                        7.60 F
+
+      **** COUPONS & SAVINGS ****
+MFR CPN CRM CHS                  2.27-  
+TOTAL COUPONS                    2.27-  
+        ************************
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                            5.43
+TAX                                 0.00
+TOTAL                               5.43
+AMEX TEND                           5.43
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.27
+08/21/26 17:08  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

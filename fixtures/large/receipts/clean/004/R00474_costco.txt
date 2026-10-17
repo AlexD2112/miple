@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3359  Seattle WA
+            MEMBER ************
+
+636729 KS TOOTHPASTE                 16.40 A
+410879 TLLMK ICE CRM 48 OZ            8.88 E
+1662769 2% MLK HALF GALLON            6.08 E
+1440052 TILLAMOOK MEDIUM CHDR        11.77 E
+6979 BLACK FOREST HAM                 5.95 E
+     0.42 lb @ 14.17 /lb
+
+SUBTOTAL                               49.08
+TAX 10.55% ON 16.40                     1.73
+**** TOTAL                             50.81
+DISCOVER TEND                          50.81
+CHANGE                                  0.00
+
+02/09/26 09:18  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

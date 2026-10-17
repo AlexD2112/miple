@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0606  Seattle WA
+            MEMBER ************
+
+237211 FRZN BROC FLORETS              8.13 E
+259743 KS COLA 12PK CANS              1.51 A
+1168491 KS AVOCADOS                   8.10 E
+     2 @ 4.05
+1147345 ORG EGGS 24 CT                7.83 E
+666718 EXTRA FIRM TOFU                4.64 E
+     2 @ 2.32
+
+SUBTOTAL                               30.21
+TAX 10.55% ON 1.51                      0.16
+**** TOTAL                             30.37
+DISCOVER TEND                          30.37
+CHANGE                                  0.00
+
+06/09/26 18:58  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

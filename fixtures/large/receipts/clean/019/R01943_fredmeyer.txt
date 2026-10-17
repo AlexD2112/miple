@@ -1,0 +1,39 @@
+               FRED MEYER
+              Portland OR
+               Store 1399
+
+SMPL TRTH SLCD ROAST BF           5.94 F
+SMPL TRTH ROOT BEER 2L            5.24 F
+SMPL TRTH ROOT BEER 2L            5.24 F
+** VOID ** SMPL TRTH ROOT BEE    5.24-  
+  1 @ 0.10
+OR BTL DEP                        0.10  
+FM PLUS CARD SAV                 1.57-  
+  4 @ 5.85
+ORG BABY SPNCH 5 OZ              23.40 F
+SHREDDED MOZZ 8 OZ                2.92 F
+FM PLUS CARD SAV                 0.88-  
+JENNIE-O GRND TRKY 1 LB           6.60 F
+SOURDOUGH LOAF                    7.47 F
+DIGITAL CPN                      1.24-  
+  0.49 lb @ 3.76 /lb
+CLFLWR                            1.84 F
+BLACK FOREST HAM 9 OZ             7.00 F
+SMPL TRTH MNDRNS                  2.72 F
+KRO FRZN DMPLNGS                 15.61 F
+SMPL TRTH DELI FRIED CHKN        11.75 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           97.37
+TAX                                 0.00
+TOTAL                              97.37
+CASH TEND                          53.00
+MASTERCARD TEND                    44.37
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  3.69
+01/15/26 10:15  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0612  Seattle WA
+            MEMBER ************
+
+545381 ORG GALA APPLES                4.71 E
+     3 @ 1.57
+271223 KS KIWI                        1.93 E
+     0.93 lb @ 2.08 /lb
+768213 STRWB 1 LB                     5.22 E
+837653 KS MANGO                       1.35 E
+     1.78 lb @ 0.76 /lb
+435791 HUY FONG SRIRACHA              2.55 E
+1810194 KS CRKRS                      2.00 E
+1834010 KS SPARKLING WATER 8PK        5.13 E
+400509 TRTLL CHIPS                    3.33 E
+
+SUBTOTAL                               26.22
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             26.22
+GIFT CARD TEND                         18.04
+MASTERCARD TEND                         8.18
+CHANGE                                  0.00
+
+05/21/26 19:14  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

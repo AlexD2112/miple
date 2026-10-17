@@ -1,0 +1,23 @@
+                SAFEWAY
+         Store 0504  Seattle WA
+             (555) 010-9170
+
+ROOT BEER 2L                      5.24 T
+  3.16 lb @ 11.10 /lb
+SIG KTCHNS PORK CHOPS            35.08 S
+O ORGANICS ASPARAGUS              2.93 S
+  2.36 lb @ 17.07 /lb
+SIG KTCHNS LAMB CHOPS            40.29 S
+FRZN THREE BERRY BLEND 4 LB       2.56 S
+ORG CARROTS BUNCH                 4.63 S
+APPLE JUICE 64OZ                  7.25 S
+
+SUBTOTAL                           97.98
+TAX 10.55% ON 5.24                  0.55
+**** TOTAL                         98.53
+DEBIT TEND                         98.53
+CHANGE                              0.00
+
+10/04/26 10:48  ITEMS 7
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

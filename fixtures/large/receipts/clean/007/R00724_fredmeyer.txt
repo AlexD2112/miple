@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 1343
+
+  4 @ 3.92
+BLACKBERRIES                     15.68 F
+FM GINGER ALE 12PK                6.02 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+DOUBLE CREME BRIE                 5.40 F
+  2.74 lb @ 1.79 /lb
+BEETS                             4.90 F
+LEMONS                            4.19 F
+  1.02 lb @ 9.25 /lb
+FM SWISS CHS                      9.44 F
+DAVES KILLER BRD                  6.69 F
+  2.39 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             23.73 F
+
+SUBTOTAL                           77.25
+TAX                                 0.00
+TOTAL                              77.25
+CASH TEND                          63.00
+MASTERCARD TEND                    14.25
+CHANGE                              0.00
+
+09/28/26 21:13  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 0796
+
+  2 @ 3.92
+SMPL TRTH BLACKBERRIES            7.84 F
+FM BOTTLED WATER 24PK             9.32 F
+  24 @ 0.10
+OR BTL DEP                        2.40  
+KRO BLACK BEANS CAN               8.77 F
+DIGITAL CPN                      1.44-  
+SMPL TRTH SRDGH LOAF              7.47 F
+KRO SAVINGS                      1.07-  
+HNDMD STYLE CORN TORT             3.55 F
+DIGITAL CPN                      1.07-  
+BAG FEE                           0.05  
+
+SUBTOTAL                           35.82
+TAX                                 0.00
+TOTAL                              35.82
+AMEX TEND                          35.82
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  3.58
+05/19/26 18:39  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

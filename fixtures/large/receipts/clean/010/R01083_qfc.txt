@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2138
+
+SMPL TRTH ARUGULA                 4.00 F
+SMPL TRTH CRL                     6.63 F
+  3 @ 2.45
+BTTLD WTR 40 PK                   7.35 F
+KRO PENNE                        13.38 F
+TORTILLA CHIPS                    3.33 F
+  3 @ 4.42
+KRO DIET COLA 12PK CANS          13.26 T
+PRIV SEL GOAT CHS                 8.35 F
+
+SUBTOTAL                           56.30
+TAX 10.55% ON 13.26                 1.40
+TOTAL                              57.70
+GIFT CARD TEND                     50.64
+DEBIT TEND                          7.06
+CHANGE                              0.00
+
+03/17/26 20:10  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

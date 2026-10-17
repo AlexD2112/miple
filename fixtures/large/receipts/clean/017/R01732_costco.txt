@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2005  Seattle WA
+            MEMBER ************
+
+883357 ORG EGGS 24 CT                 7.83 E
+386090 KS COLA 12PK CANS              1.51 A
+1014980 KS PLASTIC WRAP               4.77 A
+9363509 TPD/PLASTIC WRAP             1.04- A
+623995 KS SPAGHETTI                   9.54 E
+623995 KS SPAGHETTI                   9.54 E
+** VOID ** 623995 KS SPAGHETT        9.54-  
+1268564 DICED TOM CAN                 5.96 E
+     2 @ 2.98
+1751195 2% MLK HALF GALLON            6.08 E
+1767891 FLOWERS BOUQUET              23.70 A
+1766055 LAUNDRY DETERGENT PODS       20.18 A
+1382297 LARGE BROWN CAGE FREE EGGS    4.10 E
+756549 MANDARIN ORANGE CHKN          15.87 E
+
+SUBTOTAL                               98.50
+TAX 10.55% ON 49.12                     5.18
+**** TOTAL                            103.68
+DISCOVER TEND                         103.68
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.04
+06/08/26 09:15  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

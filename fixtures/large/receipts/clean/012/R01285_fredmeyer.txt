@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 1985
+
+  PRICE OVERRIDE  WAS 6.82
+DOG TREATS                        5.12 T
+CROISSANTS 12 CT                  4.87 F
+AA BATTERIES 8PK                 24.36 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           34.43
+TAX 10.55% ON 29.56                 3.12
+TOTAL                              37.55
+AMEX TEND                          37.55
+CHANGE                              0.00
+
+03/19/26 14:46  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

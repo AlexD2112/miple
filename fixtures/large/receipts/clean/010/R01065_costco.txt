@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3820  Portland OR
+            MEMBER ************
+
+1480430 KS GREEN BEANS                2.31 E
+1480430 KS GREEN BEANS                2.31 E
+** VOID ** 1480430 KS GREEN B        2.31-  
+167164 ORG RASPB 6 OZ                 6.28 E
+
+SUBTOTAL                                8.59
+TAX                                     0.00
+**** TOTAL                              8.59
+AMEX TEND                               8.59
+CHANGE                                  0.00
+
+10/17/26 11:49  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

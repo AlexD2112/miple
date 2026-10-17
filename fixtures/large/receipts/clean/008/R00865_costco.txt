@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3180  Seattle WA
+            MEMBER ************
+
+1055405 NAVEL ORANGES                 1.01 E
+595242 COLA 12PK CANS                 1.51 A
+1646333 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+1483252 CILANTRO BUNCH                8.08 E
+     4 @ 2.02
+1345304 ORG HNYCRSP APPLES            3.19 E
+     2.40 lb @ 1.33 /lb
+1117745 KS TORTILLA CHIPS             3.33 E
+1539006 KS DAVES KILLER BRD           6.69 E
+1836131 BANANAS                       9.98 E
+     3.44 lb @ 2.90 /lb
+560444 SPARKLING WATER                3.74 E
+
+SUBTOTAL                               40.31
+TAX 10.55% ON 1.51                      0.16
+**** TOTAL                             40.47
+VISA TEND                              40.47
+CHANGE                                  0.00
+
+08/24/26 18:12  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

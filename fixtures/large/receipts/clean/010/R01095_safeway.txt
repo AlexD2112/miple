@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 2823  Seattle WA
+             (555) 010-4650
+
+SIG SLCT SILKEN TOFU              2.29 S
+  3 @ 5.40
+FRZN PEAS 12 OZ                  16.20 S
+
+SUBTOTAL                           18.49
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         18.49
+CASH TEND                          20.00
+CHANGE                              1.51
+
+02/18/26 10:52  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

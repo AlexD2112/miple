@@ -1,0 +1,16 @@
+               FRED MEYER
+              Portland OR
+               Store 1548
+
+  PRICE OVERRIDE  WAS 3.10
+KRO OAT MLK                       2.09 F
+
+SUBTOTAL                            2.09
+TAX                                 0.00
+TOTAL                               2.09
+CASH TEND                          20.00
+CHANGE                             17.91
+
+09/04/26 19:39  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

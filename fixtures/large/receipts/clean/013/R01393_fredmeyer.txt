@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 0380
+
+JASMINE RICE 5 LB                 1.49 F
+PLSTC WRAP                        4.77 T
+  4 @ 1.08
+SMPL TRTH TUNA CAN                4.32 F
+GREETING CARD                    20.34 T
+HALF & HALF                       5.34 F
+TLP FLLTS                        21.66 F
+EVERYTHING BUT THE BAGEL SSNNG    7.01 F
+SPNGS 3PK                         9.54 T
+
+SUBTOTAL                           74.47
+TAX 10.55% ON 34.65                 3.66
+TOTAL                              78.13
+DEBIT TEND                         78.13
+CHANGE                              0.00
+
+07/22/26 18:52  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 1049  Seattle WA
+             (555) 010-3937
+
+HLBT                             10.82 S
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           10.98
+TAX 10.55% ON 0.16                  0.02
+**** TOTAL                         11.00
+DEBIT TEND                         11.00
+CHANGE                              0.00
+
+10/09/26 12:41  ITEMS 1
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

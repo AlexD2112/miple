@@ -1,0 +1,22 @@
+ QFC
+          Qua1ity Food Centers
+         Seattle WA  Store 3887
+
+  1.33 lb @ 13.18 /lb
+SMPL TRTH SLCD TRKY 8RST         17.S3 F
+KRO BATH TISSUE 12 ROLL          23.08     T
+PNT BTR                           6.90 F
+ 0.64 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                0.85 F
+KRO ROOT BEER 2L                  5.24 T
+SMPL TRTH BABY SPNCH              5.42 F
+
+SUBTOTAL                           59.02
+TAX 10.55% ON 28.32                 2.99
+ TOTAL                              62.01
+CASH TEND                          80.00
+CHANGE                             17.99
+
+06/l7/Z6 14:20  ITEM5 6
+T=TAXABLF  F=NONTAXABLE FOOD
+               THANK YOU

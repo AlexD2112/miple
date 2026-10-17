@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1708  Seattle WA
+            MEMBER ************
+
+1146810 KS KERRYGOLD BTR             10.81 E
+1105935 KS ROMA TOM                   2.38 E
+2015328 TPD/ROMA TOM                 0.71-  
+1834474 DRIED LNTLS                   8.52 E
+     2 @ 4.26
+1834474 DRIED LNTLS                   8.52 E
+** VOID ** 1834474 DRIED LNTL        8.52-  
+296479 ORG SPRING MIX 1 LB            5.49 E
+1174186 ORG ROMAINE HEARTS 3 CT       3.76 E
+1333884 TPD/ORG ROMAINE              1.13-  
+10108 KS FRZN PEAS                   13.98 E
+9754783 TPD/FRZN PEAS                0.39-  
+1119499 ORG ITLN PRSLY                3.90 E
+     2 @ 1.95
+955281 2% MLK GALLON                  6.49 E
+278804 CRL                            6.63 E
+  REFUND - ORIG RECEIPT
+RETURN 10108 KS FRZN PEAS           13.98- E
+
+SUBTOTAL                               45.75
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             45.75
+GIFT CARD TEND                         32.39
+DEBIT TEND                             13.36
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      2.23
+02/27/26 14:08  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

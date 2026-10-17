@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0005
+
+PRIV SEL FLOUR TORT               6.18 F
+FRZN DUMPLINGS                   15.61 F
+  3.57 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 15.49 F
+KRO SAVINGS                      1.30-  
+PRIV SEL DIET COLA 12PK CANS      4.42 T
+  3 @ 0.08
+PAPER BAG                         0.24 T
+
+SUBTOTAL                           40.64
+TAX 10.55% ON 4.66                  0.49
+TOTAL                              41.13
+DEBIT TEND                         41.13
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.30
+10/16/26 10:15  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

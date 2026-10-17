@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 2575
+
+BABY SPNCH                        5.42 F
+BLACK FOREST HAM 9 OZ             7.00 F
+  4 @ 0.08
+8AG FEF                           0.32 T
+
+SUBTOTAL                           12.74
+TAX 10.55% ON 0.32                   0.03
+TOTAL                              12.77
+DEBIT TEND                         12.77
+CHANGE                              0.00
+
+06/O4/26 07:41  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+ THANK YOU

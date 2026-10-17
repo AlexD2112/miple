@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 3108
+
+SMPL TRTH SHRP CHDR BLOCK        10.33 F
+  2.88 lb @ 3.72 /lb
+ZCCHN                            10.71 F
+ORGANIC SPROUTED TOFU             2.61 F
+CHKN GYOZA POTSTICKERS            9.88 F
+KRO LIGHT BULBS 4PK              17.04 T
+SMPL TRTH SPRING MIX              5.44 F
+
+      **** COUPONS & SAVINGS ****
+SC SPRING MIX                    0.27-  
+DIGITAL CPN SPRING MIX           2.45-  
+KRO SAVINGS CHKN GYOZA POT       0.85-  
+DIGITAL CPN SHRP CHDR BLOC       0.33-  
+DIGITAL CPN ORGANIC SPROUT       1.31-  
+KRO SAVINGS LIGHT BULBS 4P       0.46- T
+DIGITAL CPN LIGHT BULBS 4P       2.67- T
+DIGITAL CPN CHKN GYOZA POT       2.44-  
+KRO SAVINGS LIGHT BULBS 4P       1.70- T
+TOTAL COUPONS                   12.48-  
+        ************************
+
+SUBTOTAL                           43.53
+TAX 10.55% ON 12.21                 1.29
+TOTAL                              44.82
+VISA TEND                          44.82
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                 12.48
+01/26/26 10:04  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

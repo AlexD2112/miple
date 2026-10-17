@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 3787
+
+  PRICE OVERRIDE  WAS 1.78
+SMPL TRTH YELLOW ONIN             1.53 F
+  5.16 lb @ 6.69 /lb
+KRO BNLS SKNLS CHKN BRST         34.52 F
+BTR LTTC                          2.45 F
+  REFUND - ORIG RECEIPT
+RETURN KRO BNLS SKNLS CHKN BRST  6.69- F
+
+SUBTOTAL                           31.81
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              31.81
+AMEX TEND                          31.81
+CHANGE                              0.00
+
+06/01/26 13:55  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

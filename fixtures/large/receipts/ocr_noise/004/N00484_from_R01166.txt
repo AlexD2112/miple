@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 27SZ
+
+FRZN THRFE BERRY 8LEND 4 LB       Z.56 F
+SMPL TRTH PNT BTR                 6.90 F
+SMPL TRTH MNDRNS                  2.72 F
+KRO PARMIGIANO RGGN               7.82 F
+LIMES 2.80 F
+
+SUBTOTAL 2Z.80
+TAX 10.SS% ON 0.00                  0.0O
+T0TAL                              Z2.80
+CASH TEND                          40.00
+CHANGE                             17.20
+
+0B/16/26 09:27  ITEMS 5
+   T=TAXABLF  F=NONTAXA8LE FOOD
+               THANK YOU

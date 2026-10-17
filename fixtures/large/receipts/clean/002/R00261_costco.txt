@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2624  Seattle WA
+            MEMBER ************
+
+987456 GENOA SALAMI                   4.76 E
+829238 KS PORK CHOPS                 10.10 E
+     0.91 lb @ 11.10 /lb
+203782 KS KETCHUP                     5.49 E
+5116601 TPD/KETCHUP                  1.65-  
+731608 KS CHICKEN DRUMSTICKS          8.97 E
+980234 KS TLLMK MEDIUM CHDR          11.77 E
+
+SUBTOTAL                               39.44
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             39.44
+MASTERCARD TEND                        39.44
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.65
+02/09/26 17:56  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

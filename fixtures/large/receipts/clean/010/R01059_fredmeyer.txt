@@ -1,0 +1,31 @@
+               FRED MEYER
+              Portland OR
+               Store 1878
+
+SMPL TRTH BARTLETT PEARS          3.00 F
+TILLAMOOK VAN YGRT                4.05 F
+SMPL TRTH GENOA SALAMI            4.76 F
+MFR CPN                          1.43-  
+  3 @ 1.01
+NAVEL ORNGS                       3.03 F
+SLCD SOURDOUGH PAN LOAF           4.74 F
+FM HALIBUT                       10.82 F
+FM CREAM CHEESE                   8.63 F
+FM ORANGE JUICE                   7.69 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+AVOCADOS BAG 4 CT                 3.54 F
+  1.31 lb @ 9.25 /lb
+FM SWISS CHS                     12.12 F
+FM GRNLA BRS                      6.07 F
+
+SUBTOTAL                           67.12
+TAX                                 0.00
+TOTAL                              67.12
+MASTERCARD TEND                    67.12
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.43
+09/03/26 11:24  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

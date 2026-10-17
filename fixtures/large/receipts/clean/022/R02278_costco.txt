@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3231  Seattle WA
+            MEMBER ************
+
+1193600 DGRN RISING CRUST PPPRN PIZZ  5.73 E
+1769099 ROOT BEER 2L                  5.24 A
+1238943 SILKEN TOFU                   2.29 E
+253422 KS LAMB CHOPS                 12.12 E
+     0.71 lb @ 17.07 /lb
+1204040 KS WHL MLK HALF GALLON        6.79 E
+765260 ORG SPROUTED TOFU              7.83 E
+     3 @ 2.61
+1996038 ORG BABY SPNCH 5 OZ           5.85 E
+1164396 BLUBRY 18 OZ                 13.83 E
+     3 @ 4.61
+
+SUBTOTAL                               59.68
+TAX 10.55% ON 5.24                      0.55
+**** TOTAL                             60.23
+VISA TEND                              60.23
+CHANGE                                  0.00
+
+05/21/26 16:46  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

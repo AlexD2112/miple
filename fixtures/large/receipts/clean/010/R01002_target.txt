@@ -1,0 +1,19 @@
+                 TARGET
+           Seattle WA  T-1599
+             (555) 030-6093
+
+CAULIFLOWER GNCCH                 7.85 N
+WHITE BRD                         6.34 N
+GG SHRP CHDR BLOCK               10.33 N
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           24.68
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              24.70
+DEBIT TEND                         24.70
+CHANGE                              0.00
+
+05/31/26 20:33  ITEMS 3
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

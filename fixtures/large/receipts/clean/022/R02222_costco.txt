@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0730  Seattle WA
+            MEMBER ************
+
+607919 HASS AVCD LG                  11.19 E
+     3.35 lb @ 3.34 /lb
+1829953 KS FRZN MIXED BERRIES         8.24 E
+     4 @ 2.06
+761661 PORK TNDRLN                   13.03 E
+     1.35 lb @ 9.65 /lb
+1587438 CAULIFLOWER GNOCCHI           7.85 E
+236153 LIGHT BULBS 4PK               17.04 A
+1357815 KS ORANGE JUICE 52OZ          9.39 E
+1533095 2% MLK HALF GALLON            6.08 E
+
+SUBTOTAL                               72.82
+TAX 10.55% ON 17.04                     1.80
+**** TOTAL                             74.62
+AMEX TEND                              74.62
+CHANGE                                  0.00
+
+03/08/26 16:13  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

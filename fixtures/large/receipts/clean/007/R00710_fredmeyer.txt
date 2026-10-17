@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 2424
+
+  2 @ 1.49
+ORGANIC BASIL CLAMSHELL           2.98 F
+ORGANIC BASIL CLAMSHELL           2.98 F
+** VOID ** ORGANIC BASIL CLAM    2.98-  
+MANDARIN ORANGE CHKN             15.87 F
+HNDMD STYLE CORN TORT             3.55 F
+  3.75 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 16.28 F
+2 @ 2 FOR 5.00 FRESH BASIL        5.00 F
+SHRDDD CHDR 8 OZ                  6.42 F
+BLACK FOREST HAM 9 OZ             7.00 F
+3 @ 3 FOR 14.00 FRZN PEAS 12 OZ  14.00 F
+JASMINE RICE 25 LB                8.09 F
+RIBEYE STEAK                     19.87 F
+KRO AHI TUNA STEAK               14.71 F
+  3 @ 4.48
+HEINZ KETCHUP 32 OZ              13.44 F
+KRO BATH TISSUE 12 ROLL          23.08 T
+
+SUBTOTAL                          150.29
+TAX 10.55% ON 23.08                 2.43
+TOTAL                             152.72
+VISA TEND                         152.72
+CHANGE                              0.00
+
+04/24/26 17:01  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

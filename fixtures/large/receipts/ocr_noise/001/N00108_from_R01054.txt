@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 0058  Seattle WA
+             (555) 010-0159
+
+SIG KTCHNS CRL                    6.63 S
+CHKN BROTH 32 OZ                  2.81 S
+FRZN THREE BERRY BLEND 4 LB 2.56 S
+CHERRIES 5.69 S
+SW CCNT MLK CAN                   3.83 S
+UNSALTED BUTTER 4 X 1 LB 9.48 S
+LUCERNE OAT MLK                   3.10 S
+
+SUBTOTAL                           34.10
+TAX 1O.55% ON O.00 0.00
+**** TOTAL                         34.10
+DISCOVER TEND                      34.10
+CHANGE                              0.00
+
+   01/20/26 21:13  ITEMS 7
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

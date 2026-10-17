@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0980
+
+BARILLA PENNE                    19.37 F
+  3.84 lb @ 9.65 /lb
+PRIV SEL PORK TENDERLOIN         37.06 F
+AA BATTERIES 8PK                 24.36 T
+CELERY HEARTS                     4.34 F
+WHITE BRD                         6.34 F
+  4 @ 3.77
+KRO BAGELS                       15.08 F
+SMPL TRTH FRZN DMPLNGS           15.61 F
+
+SUBTOTAL                          122.16
+TAX 10.55% ON 24.36                 2.57
+TOTAL                             124.73
+CASH TEND                          23.00
+VISA TEND                         101.73
+CHANGE                              0.00
+
+03/19/26 19:08  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

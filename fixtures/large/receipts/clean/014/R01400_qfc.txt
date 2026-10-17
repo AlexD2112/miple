@@ -1,0 +1,35 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0587
+
+  2 @ 0.90
+SMPL TRTH FRESH DILL              1.80 F
+DIGITAL CPN                      0.54-  
+FRESH BASIL                       2.74 F
+PRIV SEL CRM CHS                  8.63 F
+ORG TOMATO BASIL MARINARA         5.94 F
+GREEK YOGURT 48 OZ                1.97 F
+JSMN RICE 25 LB                   8.09 F
+  3.21 lb @ 0.68 /lb
+PEACHES                           2.18 F
+KRO KETCHUP                       5.49 F
+  2.18 lb @ 1.13 /lb
+RUSSET POTATOES                   2.46 F
+  3 @ 5.87
+SMPL TRTH BLUEBERRIES            17.61 F
+DELI FRIED CHICKEN               11.75 T
+BLACK BEANS 15 OZ CAN            10.76 F
+WHITE SNDWCH BRD                  7.03 F
+LIGHT BULBS 4PK                  17.04 T
+PAPER BAG                         0.08 T
+
+SUBTOTAL                          103.03
+TAX 10.55% ON 28.87                 3.05
+TOTAL                             106.08
+DEBIT TEND                        106.08
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.54
+06/19/26 07:28  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

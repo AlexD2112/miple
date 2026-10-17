@@ -1,0 +1,43 @@
+               FRED MEYER
+               Seattle WA
+               Store 1179
+
+SMPL TRTH OAT MILK                3.10 F
+  3.16 lb @ 13.74 /lb
+KRO CHUCK ROAST                  43.42 F
+  3.14 lb @ 3.34 /lb
+HASS AVOCADO LG                  10.49 F
+GRNLA BRS                         6.07 F
+SMPL TRTH BRIE                    4.85 F
+FM ATLANTIC SALMON FILLET        19.77 F
+  1.92 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             2.55 F
+TILLAMOOK MEDIUM CHDR            11.77 F
+TILLAMOOK MEDIUM CHDR            11.77 F
+** VOID ** TILLAMOOK MEDIUM C   11.77-  
+KRO ORANGE JUICE                  7.69 F
+
+      **** COUPONS & SAVINGS ****
+KRO SAVINGS GRNLA BRS            2.61-  
+KRO SAVINGS GRNLA BRS            0.43-  
+SC ATLANTIC SALMO                1.93-  
+SC BRIE                          1.41-  
+DIGITAL CPN BRIE                 0.72-  
+KRO SAVINGS BRIE                 0.29-  
+KRO SAVINGS ORANGE JUICE         1.61-  
+MFR CPN OAT MILK                 1.55-  
+MFR CPN TILLAMOOK MEDI           0.68-  
+SC HASS AVOCADO L                1.71-  
+TOTAL COUPONS                   12.94-  
+        ************************
+
+SUBTOTAL                           96.77
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              96.77
+VISA TEND                          96.77
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                 12.94
+01/27/26 15:13  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,25 @@
+               FRED MEYER
+              Portland OR
+               Store 0362
+
+FRESH DILL                        0.90 F
+KRO DELI FRIED CHKN              11.75 F
+  1.90 lb @ 4.34 /lb
+BNLS CHKN THIGHS                  8.25 F
+HANDMADE STYLE CORN TORT          3.55 F
+COCA-COLA 12 PK CANS              2.77 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+PLAIN NONFAT GREEK YOGURT         4.65 F
+  2 @ 0.05
+PAPER BAG                         0.10  
+
+SUBTOTAL                           32.07
+TAX                                 0.00
+TOTAL                              32.07
+MASTERCARD TEND                    32.07
+CHANGE                              0.00
+
+06/14/26 20:04  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 0157
+
+SMPL TRTH AVOCADOS                4.05 F
+FM COCONUT MLK CAN                3.83 F
+SMPL TRTH YUKON GOLD POTS         3.99 F
+SMPL TRTH GOAT CHEESE             8.35 F
+DIGITAL CPN                      0.44-  
+CHKN BROTH 32 OZ                  2.81 F
+KRO POTATO CHIPS                  5.07 F
+  4 @ 0.05
+PAPER BAG                         0.20  
+
+SUBTOTAL                           27.86
+TAX                                 0.00
+TOTAL                              27.86
+AMEX TEND                          27.86
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.44
+05/19/26 10:55  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

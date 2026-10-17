@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 2931
+
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+BUTTER LETTUCE                    2.45 F
+KRO GRND COFFEE                   9.64 F
+LIGHT BULBS 4PK                  17.04 T
+FM COLA 12PK                      1.83 T
+KRO SAVINGS                      0.55- T
+KRO ZIP TOP BAGS                 24.79 T
+SMPL TRTH LIMES                   2.80 F
+ORANGE JUICE                      7.69 F
+SMPL TRTH ASPARAGUS               2.93 F
+2 @ 2 FOR 3.00 CRKRS              3.00 F
+
+SUBTOTAL                           75.83
+TAX 10.55% ON 43.11                 4.55
+TOTAL                              80.38
+MASTERCARD TEND                    80.38
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.55
+09/02/26 16:53  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

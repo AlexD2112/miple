@@ -1,0 +1,26 @@
+                SAFEWAY
+         Store 2217  Seattle WA
+             (555) 010-5196
+
+  4 @ 1.27
+KEFIR                             5.08 S
+KEFIR                             5.08 S
+** VOID ** KEFIR                 5.08-  
+LUCERNE UNSLTD BTR                9.95 S
+SIG NAPKINS                      24.05 T
+NAVEL ORANGES                     1.01 S
+SHAMPOO                          17.57 T
+BLUBRY                            5.87 S
+SIG PAPER TOWELS 6 ROLL           3.75 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           67.44
+TAX 10.55% ON 45.53                 4.80
+**** TOTAL                         72.24
+VISA TEND                          72.24
+CHANGE                              0.00
+
+09/28/26 07:06  ITEMS 10
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

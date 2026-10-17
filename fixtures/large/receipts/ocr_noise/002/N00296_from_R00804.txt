@@ -1,0 +1,24 @@
+                    COSTCO
+                 WHOLESALE
+     Warehouse #3575  San Francisco CA
+            MEMBER ************
+
+1l69249 KS SPRKLG WTR                11.2Z A
+     3 @ 3.74
+  3 @ 0.05
+CA CRV                                O.1S A
+1098028 KOMBUCHA 16OZ                 4.58 E
+  1 @ 0.05
+   CA CRV                                0.05  
+886818 KS ALMOND MLK                  5.08 E
+
+SUBTOTAL 21.08
+TAX 8.G25% ON 11.37                        0.98
+**** TOTAL                             ZZ.06
+GIFT CARD TEND                         16.06
+VISA TEND                                 6.00
+CHANGE                                  0.00
+
+08/24/26 10:54  ITEMS 5
+A=TAXABLE  E=N0NTAXABLE FOOD
+                 THANK Y0U

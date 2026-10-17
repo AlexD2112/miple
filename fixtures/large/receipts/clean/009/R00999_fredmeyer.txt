@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 2931
+
+  0.27 lb @ 1.05 /lb
+SMPL TRTH RADISHES                0.28 F
+  1.57 lb @ 2.30 /lb
+GALA APPLES                       3.61 F
+
+SUBTOTAL                            3.89
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               3.89
+AMEX TEND                           3.89
+CHANGE                              0.00
+
+03/20/26 19:03  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2373
+
+SMPL TRTH ROOT BEER 2L            5.24 T
+PRIV SEL KERRYGOLD BTR           10.81 F
+PRIV SEL GINGER ALE 12PK          6.02 T
+LG EGGS 18 CT                     7.52 F
+
+SUBTOTAL                           29.59
+TAX 10.55% ON 11.26                 1.19
+TOTAL                              30.78
+MASTERCARD TEND                    30.78
+CHANGE                              0.00
+
+09/14/26 11:00  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

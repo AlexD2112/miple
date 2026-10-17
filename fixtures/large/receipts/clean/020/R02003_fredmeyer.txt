@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 0147
+
+SWISS CHARD                       2.87 F
+SMPL TRTH GRNLA BRS               6.07 F
+SMPL TRTH GRNLA BRS               6.07 F
+** VOID ** SMPL TRTH GRNLA BR    6.07-  
+ORGANIC BLACK BEANS 8 CANS        1.15 F
+SMPL TRTH YELLOW ONIONS           1.78 F
+  3.39 lb @ 0.76 /lb
+SMPL TRTH MANGO                   2.58 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+OLD FASHIONED ROLLED
+OATS 42 OZ                       17.43 F
+DOUBLE CREME BRIE                 5.40 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           47.00
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              47.03
+VISA TEND                          47.03
+CHANGE                              0.00
+
+03/15/26 07:16  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

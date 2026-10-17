@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 0844
+
+  PRICE OVERRIDE  WAS 9.37
+SLTD BTR 4 STICKS                 6.63 F
+FM FRZN DUMPLINGS                15.61 F
+CAT LITTER                       14.03 T
+BLUBRY 18 OZ                      4.61 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+  2.23 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             5.13 F
+FM GRANOLA BARS                   6.07 F
+DIGITAL CPN                      1.20-  
+JASMINE RICE 25 LB                8.09 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           67.96
+TAX 10.55% ON 23.02                 2.43
+TOTAL                              70.39
+VISA TEND                          70.39
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.20
+09/01/26 16:43  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

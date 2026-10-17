@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1832  Seattle WA
+            MEMBER ************
+
+1222698 BTR LTTC                      9.80 E
+     4 @ 2.45
+1222698 BTR LTTC                      9.80 E
+** VOID ** 1222698 BTR LTTC          9.80-  
+1519579 KS DIJON MUSTARD              2.46 E
+651706 KS TTHPST                     16.40 A
+154080 RED GRAPES                    12.16 E
+     4 @ 3.04
+47945 KS GRK YGRT PLAIN               8.22 E
+     2 @ 4.11
+
+SUBTOTAL                               49.04
+TAX 10.55% ON 16.40                     1.73
+**** TOTAL                             50.77
+DISCOVER TEND                          50.77
+CHANGE                                  0.00
+
+04/26/26 12:53  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

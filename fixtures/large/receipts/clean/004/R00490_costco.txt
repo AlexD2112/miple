@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3300  Seattle WA
+            MEMBER ************
+
+148055 KS PENNE                      13.38 E
+822400 KS TUNA CAN                    1.08 E
+1857112 KS COD FLLT                  38.32 E
+     2.11 lb @ 18.16 /lb
+46825 KS DOG TREATS                   6.82 A
+878774 SHRP CHDR BLOCK               10.33 E
+1997657 CHOBANI PLAIN GRK YGRT 32 OZ  1.47 E
+923295 RUSSET POTS 5 LB BAG           4.53 E
+1787756 LEMONADE 52OZ                23.16 A
+     4 @ 5.79
+746795 KS SWISS CHARD                 2.87 E
+974914 KS RIBEYE STEAK               19.87 E
+
+SUBTOTAL                              121.83
+TAX 10.55% ON 29.98                     3.16
+**** TOTAL                            124.99
+DISCOVER TEND                         124.99
+CHANGE                                  0.00
+
+07/05/26 11:45  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

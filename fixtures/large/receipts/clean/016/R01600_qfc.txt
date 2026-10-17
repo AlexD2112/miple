@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1469
+
+CRM CHS                           8.63 F
+RUSSET POTS 5 LB BAG              4.53 F
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+  4.67 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 20.27 F
+3 @ 3 FOR 7.00 ASPRGS             7.00 F
+  3.94 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                61.31 F
+
+SUBTOTAL                          103.94
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             103.94
+GIFT CARD TEND                     43.86
+DEBIT TEND                         60.08
+CHANGE                              0.00
+
+01/18/26 20:34  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

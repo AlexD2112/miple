@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0423  Seatt1e WA
+            MEMBER ************
+
+1004471 WHL CHKN                     33.74 E
+     5.33 lb @ G.33 /1b
+713662 AVCDS BAG 4 CT                10.62    E
+     3 @ 3.54
+4306239 TPD/AVCDS BAG 4              0.53-  
+102031 KS DISH SOAP 19.39 A
+ REFUND - ORIG RECEIPT
+RFTURN l02031 KS DISH SOAP 19.39- A
+
+5UBTOTAL                               43.83
+TAX 10.55% ON 0.00                      0.00
+**** T0TAL                             43.B3
+MASTERCARD TEND                        43.83
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      0.53
+05/15/26 13:35  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+ THANK Y0U

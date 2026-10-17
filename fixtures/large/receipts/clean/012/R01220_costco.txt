@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3946  Seattle WA
+            MEMBER ************
+
+65449 KS GOAT CHS                     8.35 E
+3065 KS SHRP CHDR BLOCK              10.33 E
+547015 KS SOY SCE                     6.79 E
+
+SUBTOTAL                               25.47
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             25.47
+AMEX TEND                              25.47
+CHANGE                                  0.00
+
+02/12/26 18:29  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

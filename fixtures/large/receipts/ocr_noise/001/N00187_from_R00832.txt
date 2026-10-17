@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seatt1e WA
+               Store 2202
+
+UNSLTD BTR                        9.95 F
+SMPL TRTH BLUBRY                  5.87  F
+  Z @ Z.4G
+D1JON MU5TARD                     4.92 F
+  Z @ 2.9B
+SMPL TRTH DICED TOM CAN           5.96 F
+  0.75 lb @ 1.60 /lb
+SMPL TRTH JLPN                    1.20 F
+KRO FRZN DMPLNGS                 15.61 F
+GREEN 8EANS                       2.31 F
+CRRTS 2 LB                        1.74 F
+ 4 @ 0.08
+PAPER BAG                         0.32 T
+
+SUBTOTAL                           47.88
+TAX 10.55% ON 0.32                  0.03
+TOTAL                              47.91
+V1SA TEND                          47.9l
+CHANGE                              0.00
+
+02/06/26 17:59  ITEMS     10
+T=TAXA8LE  F=NONTAXABLE FO0D
+               THANK YOU

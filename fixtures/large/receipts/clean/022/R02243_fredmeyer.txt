@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 0276
+
+SMPL TRTH CRKRS                   2.00 F
+  4 @ 1.57
+ORG GALA APPLES                   6.28 F
+FM PLUS CARD SAV                 1.32-  
+  2.77 lb @ 7.09 /lb
+TRKY BRST                        19.64 F
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           26.68
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              26.69
+CASH TEND                          40.00
+CHANGE                             13.31
+
+YOUR SAVINGS TODAY                  1.32
+07/29/26 16:43  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

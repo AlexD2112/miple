@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 3793
+
+  3.65 lb @ 2.83 /lb
+ORGANIC LEMONS                   10.33 F
+SMPL TRTH KALE                    4.17 F
+ORG SPRING MIX 1 LB               5.49 F
+AVOCADOS BAG 4 CT                 3.54 F
+ORG ITLN PRSLY                    1.95 F
+
+SUBTOTAL                           25.48
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              25.48
+MASTERCARD TEND                    25.48
+CHANGE                              0.00
+
+09/07/26 11:03  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,15 @@
+               FRED MEYER
+               Seattle WA
+               Store 1764
+
+PLASTIC WRAP                      4.77 T
+
+SUBTOTAL                            4.77
+TAX 10.55% ON 4.77                  0.50
+TOTAL                               5.27
+DEBIT TEND                          5.27
+CHANGE                              0.00
+
+09/25/26 16:16  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

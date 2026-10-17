@@ -1,0 +1,34 @@
+                 TARGET
+          Portland OR  T-0467
+             (555) 030-5549
+
+MKT PANTRY PSTR RAISED
+EGGS                              7.37 N
+  1.58 lb @ 7.09 /lb
+TRKY BRST                        11.20 N
+HAND SOAP                        24.27 N
+JENNIE-O GROUND TURKEY
+1 LB                              6.60 N
+GREEN BEANS                       2.31 N
+GG GROUND TURKEY                  5.19 N
+GG BAGELS                         3.77 N
+PASTURE RAISED EGGS               7.37 N
+CHKN BROTH CARTON                 8.38 N
+COCONUT MLK CAN                   3.83 N
+LIMES                             2.80 N
+  0.52 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               5.71 N
+BIBIGO PORK MANDU
+DUMPLINGS 6 LB                   10.32 N
+MKT PANTRY CHERRY TOM             1.15 N
+MKT PANTRY FRESH DILL             0.90 N
+
+SUBTOTAL                          101.17
+TAX                                 0.00
+TOTAL                             101.17
+DEBIT TEND                        101.17
+CHANGE                              0.00
+
+07/07/26 15:20  ITEMS 15
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

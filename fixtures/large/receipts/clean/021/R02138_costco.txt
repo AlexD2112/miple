@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0095  Seattle WA
+            MEMBER ************
+
+1413778 DRIED LNTLS                   4.26 E
+514294 GRND CHKN                     16.75 E
+     3.31 lb @ 5.06 /lb
+1069618 VANILLA YOGURT CUPS           5.39 E
+1830216 DAVES KILLER BRD 21 WHL GRAI  4.78 E
+
+SUBTOTAL                               31.18
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             31.18
+DEBIT TEND                             31.18
+CHANGE                                  0.00
+
+06/07/26 19:54  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

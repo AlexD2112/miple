@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0732
+
+JASMINE RICE 5 LB                 1.49 F
+BLUBRY                            5.87 F
+PRIV SEL CRM CHS                  8.63 F
+KRO FLOWERS BQT                  23.70 T
+SMPL TRTH AVOCADOS                4.05 F
+DICED TOM 14.5 OZ                 1.00 F
+KRO CHKN DRUMSTICKS               8.97 F
+PRIV SEL KETCHUP                  5.49 F
+BARILLA PENNE                    19.37 F
+PRMGN REGGIANO                    7.82 F
+
+SUBTOTAL                           86.39
+TAX 10.55% ON 23.70                 2.50
+TOTAL                              88.89
+CASH TEND                          40.00
+AMEX TEND                          48.89
+CHANGE                              0.00
+
+09/02/26 11:05  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

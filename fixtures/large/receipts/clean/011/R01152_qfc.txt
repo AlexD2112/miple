@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3390
+
+SPONGES 3PK                       9.54 T
+KRO SALSA JAR                     2.09 F
+CRM CHS 8 OZ                      3.15 F
+SMPL TRTH COLD BREW COFFEE 32OZ   4.43 F
+LEMON                             4.30 F
+ICE CRM                          14.51 F
+SLTD BTR 4 STICKS                 9.37 F
+CELERY                            4.32 F
+SPAGHETTI                         9.54 F
+SMPL TRTH CEREAL                  6.63 F
+KRO FRESH MOZZ                    8.65 F
+MAYONNAISE 30 OZ                  6.42 F
+SMPL TRTH LIMES                   2.80 F
+
+SUBTOTAL                           85.75
+TAX 10.55% ON 9.54                  1.01
+TOTAL                              86.76
+CASH TEND                         100.00
+CHANGE                             13.24
+
+03/02/26 18:50  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

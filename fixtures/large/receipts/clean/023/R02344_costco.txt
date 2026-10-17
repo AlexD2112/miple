@@ -1,0 +1,68 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2341  Portland OR
+            MEMBER ************
+
+257011 BANANA                         2.37 E
+257011 BANANA                         2.37 E
+** VOID ** 257011 BANANA             2.37-  
+9620019 TPD/BANANA                   0.71-  
+223229 SLTD BTR                       5.73 E
+1838847 STRWB 2 LB                   23.52 E
+     4 @ 5.88
+62507 GRND BF 88/12                   9.18 E
+     1.53 lb @ 6.00 /lb
+2764901 TPD/GRND BF 88/1             2.60-  
+1916790 KS EXTRA FIRM TOFU            2.32 E
+1877728 BONELESS RIBEYE STEAK        46.06 E
+     2.96 lb @ 15.56 /lb
+136402 KS EXTRA FIRM TOFU             2.32 E
+706240 LEMON                          4.30 E
+0751339 TPD/LEMON                    1.29-  
+1917587 FRZN DMPLNGS                 15.61 E
+7750389 TPD/FRZN DMPLNGS             0.64-  
+713000 KS CAULIFLOWER                 1.05 E
+     0.28 lb @ 3.76 /lb
+1089402 TPD/CAULIFLOWER              0.32-  
+1675302 PEACHES                       1.68 E
+     2.47 lb @ 0.68 /lb
+710963 DAVES KILLER BRD 21 WHL GRAIN  4.78 E
+1999973 LG EGGS 18 CT                 7.52 E
+251115 KS KOMBUCHA 16OZ               4.58 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+8150 KS PRPRD MAC & CHS              10.62 E
+1632705 PAPER PLATES                  3.31 E
+778983 CARROTS 2 LB                   1.74 E
+1595008 KS RMN LTTC                   2.79 E
+304054 ITALIAN SAUSAGE BULK           9.93 E
+1188818 SHRP CHDR BLOCK              10.33 E
+1650559 CELERY HEARTS                 4.34 E
+597199 ORGANIC GALA APPLES            4.71 E
+     3 @ 1.57
+7811555 TPD/ORGANIC GALA             1.41-  
+283000 KS BLUBRY                     17.61 E
+     3 @ 5.87
+1815834 KS ROLLED OATS                3.98 E
+898013 KS KEFIR                       1.27 E
+598173 KS HONEYCRISP APPLES           4.67 E
+965102 ICE CREAM                     14.51 E
+9867541 TPD/ICE CREAM                2.43-  
+68141 FRZN BROC                       1.72 E
+261891 KS SILKEN TOFU                 4.58 E
+     2 @ 2.29
+230008 BEETS                          4.12 E
+     2.30 lb @ 1.79 /lb
+393637 LG EGGS 12 CT                  8.69 E
+1369211 LG EGGS 18 CT                 7.52 E
+
+SUBTOTAL                              238.16
+TAX                                     0.00
+**** TOTAL                            238.16
+AMEX TEND                             238.16
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      9.40
+08/05/26 10:57  ITEMS 40
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

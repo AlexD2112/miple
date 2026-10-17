@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0298  Seattle WA
+            MEMBER ************
+
+940559 MNDRNS                         2.72 E
+1825623 KS UNSLTD BTR                 9.95 E
+813871 KS CORN TORT                   2.79 E
+1171232 BIBIGO PORK MANDU DUMPLINGS  10.32 E
+121199 BIBIGO PORK MANDU DUMPLINGS   10.32 E
+1904405 SLTD BTR                      5.73 E
+695501 CELERY                         4.32 E
+535275 FRZN PIZZA                    13.30 E
+
+SUBTOTAL                               59.45
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             59.45
+DISCOVER TEND                          59.45
+CHANGE                                  0.00
+
+03/27/26 07:47  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

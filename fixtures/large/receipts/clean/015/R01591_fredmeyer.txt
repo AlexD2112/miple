@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 1029
+
+SMPL TRTH HAMBURGER BUNS          2.77 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+KRO FROZEN MIXED BERRIES          2.06 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+KRO HAND SOAP                    24.27 T
+SMPL TRTH BABY CARROTS            2.49 F
+HANDMADE STYLE CORN TORT          3.55 F
+GREETING CARD                    20.34 T
+DIGITAL CPN                      2.82- T
+SMPL TRTH BROC CROWNS             2.25 F
+2 @ 2 FOR 3.00 CHOBANI PLAIN GRE  3.00 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           75.35
+TAX 10.55% ON 41.87                 4.42
+TOTAL                              79.77
+MASTERCARD TEND                    79.77
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.82
+08/08/26 10:07  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

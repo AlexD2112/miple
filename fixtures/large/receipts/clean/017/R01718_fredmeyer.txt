@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 0577
+
+KRO VANILLA YOGURT CUPS           5.39 F
+FM PLUS CARD SAV                 0.27-  
+
+SUBTOTAL                            5.12
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               5.12
+GIFT CARD TEND                      2.75
+MASTERCARD TEND                     2.37
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.27
+06/07/26 15:00  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,34 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0008
+
+STRWB 1 LB                        5.22 F
+  2 @ 1.15
+SMPL TRTH CHERRY TOM              2.30 F
+SMPL TRTH CHICKEN DRUMSTICKS      8.97 F
+ORG SPRING MIX 1 LB               5.49 F
+  4 @ 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS   13.84 F
+PRIV SEL SOY SCE                  6.79 F
+  2 @ 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS    6.92 F
+
+      **** COUPONS & SAVINGS ****
+DIGITAL CPN CHICKEN DRUMST       2.50-  
+KRO SAVINGS CHERRY TOM           1.04-  
+MFR CPN CHICKEN DRUMST           1.99-  
+TOTAL COUPONS                    5.53-  
+        ************************
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           44.32
+TAX 10.55% ON 0.32                  0.03
+TOTAL                              44.35
+AMEX TEND                          44.35
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  5.53
+06/30/26 17:41  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

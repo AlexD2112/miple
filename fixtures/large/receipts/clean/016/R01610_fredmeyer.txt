@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 0259
+
+FM SPRKLG WTR 8PK                 5.13 F
+TILAPIA FLLTS                    21.66 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           27.11
+TAX 10.55% ON 0.32                  0.03
+TOTAL                              27.14
+DEBIT TEND                         27.14
+CHANGE                              0.00
+
+04/10/26 12:10  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

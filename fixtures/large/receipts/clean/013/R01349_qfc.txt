@@ -1,0 +1,30 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2994
+
+  3 @ 5.44
+SMPL TRTH SPRING MIX             16.32 F
+  PRICE OVERRIDE  WAS 4.11
+SMPL TRTH GREEK YOGURT PLAIN      3.51 F
+PLAIN NONFAT GRK YGRT             4.65 F
+
+      **** COUPONS & SAVINGS ****
+DIGITAL CPN SPRING MIX           2.79-  
+KRO SAVINGS GREEK YOGURT P       0.69-  
+SC GREEK YOGURT P                1.07-  
+DIGITAL CPN PLAIN NONFAT G       2.33-  
+MFR CPN SPRING MIX               2.89-  
+MFR CPN SPRING MIX               0.48-  
+TOTAL COUPONS                   10.25-  
+        ************************
+
+SUBTOTAL                           14.23
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              14.23
+DISCOVER TEND                      14.23
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                 10.25
+10/15/26 18:03  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 2438
+
+  PRICE OVERRIDE  WAS 3.00
+SMPL TRTH BARTLETT PEARS          2.50 F
+FM PLUS CARD SAV                 0.75-  
+FM LG BROWN EGGS                  4.29 F
+  2.79 lb @ 6.00 /lb
+GROUND BEEF 88/12                16.74 F
+KRO GENOA SALAMI                  4.76 F
+LG BROWN EGGS                     4.29 F
+
+SUBTOTAL                           31.83
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              31.83
+GIFT CARD TEND                      4.63
+VISA TEND                          27.20
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.75
+05/20/26 17:59  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

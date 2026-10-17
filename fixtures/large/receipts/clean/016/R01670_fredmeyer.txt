@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 2965
+
+SMPL TRTH COTTAGE CHS             3.21 F
+KRO SAVINGS                      0.96-  
+BTR LTTC                          2.45 F
+FRZN PEAS                        13.98 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           18.76
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              18.77
+GIFT CARD TEND                     10.00
+DEBIT TEND                          8.77
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.96
+09/19/26 19:08  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

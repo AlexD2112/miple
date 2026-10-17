@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3455  Seattle WA
+            MEMBER ************
+
+1728533 DARK CHOC PNT BTR CUPS       11.22 E
+     2 @ 5.61
+1728533 DARK CHOC PNT BTR CUPS       11.22 E
+** VOID ** 1728533 DARK CHOC        11.22-  
+1021054 FRZN PEAS 12 OZ              10.80 E
+     2 @ 5.40
+1638952 BONELESS RIBEYE STEAK        38.43 E
+     2.47 lb @ 15.56 /lb
+1149810 KS CAT LITTER                14.03 A
+1416772 KS UNSLTD BTR                 9.95 E
+1639547 BLACK BEANS 15 OZ CAN        10.76 E
+1726370 CHOBANI PLAIN GRK YGRT 32 OZ  1.47 E
+1485805 BEETS                         3.44 E
+     1.92 lb @ 1.79 /lb
+6619 KS FROZEN WAFFLES                7.05 E
+
+SUBTOTAL                              107.15
+TAX 10.55% ON 14.03                     1.48
+**** TOTAL                            108.63
+DEBIT TEND                            108.63
+CHANGE                                  0.00
+
+06/21/26 15:18  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

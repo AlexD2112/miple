@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0648  Seattle WA
+            MEMBER ************
+
+1417578 KS AVOCADOS                   8.10 E
+     2 @ 4.05
+1307081 GOAT CHS                      8.35 E
+860323 CABOT SHARP CHEDDAR 8 OZ       8.48 E
+1526825 WHITE SANDWICH BRD            7.03 E
+1203944 KS ROLLED OATS               11.94 E
+     3 @ 3.98
+842675 ORG LEMONS                     3.79 E
+     1.34 lb @ 2.83 /lb
+1055139 KS ROTIS CHKN                 5.04 A
+682902 KS STRWB                       4.35 E
+1493700 KS RICOTTA                    8.76 E
+984748 2% MLK 2 X 1 GAL               4.70 E
+
+SUBTOTAL                               70.54
+TAX 10.55% ON 5.04                      0.53
+**** TOTAL                             71.07
+AMEX TEND                              71.07
+CHANGE                                  0.00
+
+03/17/26 10:34  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

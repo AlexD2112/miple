@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 0049
+
+  2 @ 1.08
+TUNA CAN                          2.16 F
+  2.03 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                31.59 F
+FM PLUS CARD SAV                 0.37-  
+  6.26 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 27.17 F
+STRWB                             4.35 F
+  3.51 lb @ 6.00 /lb
+GRND BF 88/12                    21.06 F
+FM DICED TOM CAN                  2.98 F
+  4 @ 4.26
+DRIED LNTLS                      17.04 F
+STRAUS PLAIN GREEK YOGURT         1.74 F
+MFR CPN                          0.52-  
+FM DELI FRIED CHKN               11.75 T
+BLACKBERRIES                      3.92 F
+
+SUBTOTAL                          122.87
+TAX 10.55% ON 11.75                 1.24
+TOTAL                             124.11
+VISA TEND                         124.11
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.89
+05/14/26 20:04  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

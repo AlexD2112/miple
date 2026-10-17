@@ -1,0 +1,16 @@
+                SAFEWAY
+         Store 2526  Seattle WA
+             (555) 010-4390
+
+PAPER TOWELS 6 ROLL               3.75 T
+SIG KTCHNS GRND BF 80/20          6.57 S
+
+SUBTOTAL                           10.32
+TAX 10.55% ON 3.75                  0.40
+**** TOTAL                         10.72
+DISCOVER TEND                      10.72
+CHANGE                              0.00
+
+10/08/26 20:26  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2029  Seattle WA
+            MEMBER ************
+
+1041179 DIGIORNO RISING CRUST PEPPER  5.73 E
+1751007 ORG CRRTS BUNCH               4.63 E
+48480 KS TRKY BRST                   26.52 E
+     3.74 lb @ 7.09 /lb
+588062 PEACHES                        2.48 E
+     3.64 lb @ 0.68 /lb
+650041 KS PINEAPPLE                   4.79 E
+     3.83 lb @ 1.25 /lb
+132239 KS VAN YGRT CUPS               5.39 E
+1143456 KS ZIP TOP BAGS              24.79 A
+1355545 KS SILKEN TOFU                2.29 E
+394181 KS BABY CARROTS                2.49 E
+
+SUBTOTAL                               79.11
+TAX 10.55% ON 24.79                     2.62
+**** TOTAL                             81.73
+DISCOVER TEND                          81.73
+CHANGE                                  0.00
+
+08/12/26 14:57  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0541  San Francisco CA
+            MEMBER ************
+
+242147 KS PENNE                      13.38 E
+242147 KS PENNE                      13.38 E
+** VOID ** 242147 KS PENNE          13.38-  
+1946059 ROTIS CHKN                    5.04 A
+640997 OLD FASHIONED ROLLED OATS 42  17.43 E
+1263257 KS AVOCADOS                   4.05 E
+1562919 KS BTR LTTC                   2.45 E
+1308829 MNDRN ORANGE CHKN            15.87 E
+1321652 KS POTATO CHIPS               5.07 E
+0655584 TPD/POTATO CHIPS             0.75-  
+783245 KS FLOUR TORT                  6.18 E
+481606 LEMON                          4.30 E
+
+SUBTOTAL                               73.02
+TAX 8.625% ON 5.04                      0.43
+**** TOTAL                             73.45
+AMEX TEND                              73.45
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      0.75
+05/31/26 14:42  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

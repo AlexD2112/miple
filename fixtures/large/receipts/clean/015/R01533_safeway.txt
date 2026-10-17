@@ -1,0 +1,29 @@
+                SAFEWAY
+         Store 0506  Seattle WA
+             (555) 010-3186
+
+SIG KTCHNS DIJON MSTRD            2.46 S
+SIG KTCHNS DIJON MSTRD            2.46 S
+** VOID ** SIG KTCHNS DIJON M    2.46-  
+SHAMPOO                          17.57 T
+2 @ 2 FOR 4.00 SIG SLCT FRZN MIX  4.00 S
+  4 @ 2.25
+O ORGANICS BROC CROWNS            9.00 S
+  0.41 lb @ 3.34 /lb
+HASS AVOCADO LG                   1.37 S
+FLOUR TORT                        6.18 S
+SIG DISH SOAP                    19.39 T
+ORG GALA APPLES                   1.57 S
+LIGHT BULBS 4PK                  17.04 T
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           78.74
+TAX 10.55% ON 54.16                 5.71
+**** TOTAL                         84.45
+VISA TEND                          84.45
+CHANGE                              0.00
+
+08/24/26 15:38  ITEMS 13
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

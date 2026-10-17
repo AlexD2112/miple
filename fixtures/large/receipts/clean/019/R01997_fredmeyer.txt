@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 0578
+
+CAULIFLOWER GNOCCHI               7.85 F
+FM BTTLD WTR 24PK                 9.32 F
+MFR CPN                          0.44-  
+FM FROZEN PIZZA                  13.30 F
+FM GENOA SALAMI                   4.76 F
+CRM CHS 8 OZ                      3.15 F
+FM APPLE JUICE 64OZ               7.25 F
+2 @ 2 FOR 10.00 ORG BABY SPNCH   10.00 F
+BIBIGO PORK MANDU DMPLNGS 6 LB   10.32 F
+KRO SAVINGS                      1.41-  
+
+SUBTOTAL                           64.10
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              64.10
+DEBIT TEND                         64.10
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.85
+08/22/26 10:46  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

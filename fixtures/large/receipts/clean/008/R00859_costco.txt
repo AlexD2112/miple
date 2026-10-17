@@ -1,0 +1,16 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1018  Seattle WA
+            MEMBER ************
+
+1141340 KS HONEYCRISP APPLES          4.67 E
+
+SUBTOTAL                                4.67
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              4.67
+VISA TEND                               4.67
+CHANGE                                  0.00
+
+02/08/26 11:22  ITEMS 1
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

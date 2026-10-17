@@ -1,0 +1,17 @@
+              TRADER JOE'S
+     Store #1887  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+TJ'S CEREAL                       6.63  
+  4 @ 0.25
+BAG FEE                           1.00  
+
+SUBTOTAL                            7.63
+TAX 8.625% ON 0.00                  0.00
+TOTAL                               7.63
+DEBIT TEND                          7.63
+CHANGE                              0.00
+
+07/16/26 16:13  ITEMS 1
+T=TAXABLE
+               THANK YOU

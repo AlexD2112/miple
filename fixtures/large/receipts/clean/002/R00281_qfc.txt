@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0665
+
+PRIV SEL TILAPIA FILLETS         21.66 F
+  4 @ 2.77
+PRIV SEL HAMBURGER BUNS          11.08 F
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+  REFUND - ORIG RECEIPT
+RETURN PRIV SEL TILAPIA FILLET  21.66- F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           15.91
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              15.93
+DISCOVER TEND                      15.93
+CHANGE                              0.00
+
+01/20/26 19:07  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

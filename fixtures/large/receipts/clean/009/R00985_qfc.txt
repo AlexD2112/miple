@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0208
+
+CHKN DRUMSTICKS                   8.97 F
+AVOCADOS BAG 4 CT                 3.54 F
+ORGANIC SPRING MIX 1 LB           5.49 F
+  2 @ 1.57
+ORGANIC GALA APPLES               3.14 F
+SMPL TRTH BOTTLED WTR 24PK        9.32 F
+KRO APPLE JUICE 64OZ              7.25 F
+PRIV SEL ROOT BEER 2L             5.24 T
+PRIV SEL FRZN PIZZA              13.30 F
+
+SUBTOTAL                           56.25
+TAX 10.55% ON 5.24                  0.55
+TOTAL                              56.80
+AMEX TEND                          56.80
+CHANGE                              0.00
+
+09/06/26 15:03  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2927  Seattle WA
+            MEMBER ************
+
+484762 KS SWISS CHS                   2.50 E
+     0.27 lb @ 9.25 /lb
+1360902 ICEBERG LTTC                 10.22 E
+     2 @ 5.11
+1360902 ICEBERG LTTC                 10.22 E
+** VOID ** 1360902 ICEBERG LT       10.22-  
+  PRICE OVERRIDE  WAS 2.80
+194800 LIMES                          2.24 E
+3743752 TPD/LIMES                    0.67-  
+709626 KS BANANAS                     1.48 E
+     0.51 lb @ 2.90 /lb
+95770 FRESH DILL                      0.90 E
+377522 KS TUNA CAN                    1.08 E
+581981 COCA-COLA 12 PACK CANS         5.54 A
+     2 @ 2.77
+408850 KS GREEN BEANS                 2.31 E
+
+SUBTOTAL                               25.60
+TAX 10.55% ON 5.54                      0.58
+**** TOTAL                             26.18
+GIFT CARD TEND                         19.32
+MASTERCARD TEND                         6.86
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      0.67
+10/02/26 14:47  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

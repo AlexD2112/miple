@@ -1,0 +1,19 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-8209
+
+365 CHKN DRUMSTICKS               8.97 F
+STRWB 1 LB                        5.22 F
+365 SPAGHETTI                     9.54 F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           23.89
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              23.91
+DEBIT TEND                         23.91
+CHANGE                              0.00
+
+01/24/26 21:05  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

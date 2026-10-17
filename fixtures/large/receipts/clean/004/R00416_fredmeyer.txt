@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 0638
+
+  PRICE OVERRIDE  WAS 2.56
+FRZN THREE BERRY BLEND
+4 LB                              2.23 F
+KRO OAT MLK                       3.10 F
+HAND SOAP                        24.27 T
+  0.74 lb @ 11.10 /lb
+SMPL TRTH PORK CHOPS              8.21 F
+SRIRACHA                          3.16 F
+  2 @ 2.37
+BANANA                            4.74 F
+KRO DISH SOAP                    19.39 T
+LARGE BROWN CAGE FREE EGGS        4.10 F
+  2 @ 2.32
+EXTRA FIRM TOFU                   4.64 F
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           73.92
+TAX 10.55% ON 43.74                 4.61
+TOTAL                              78.53
+GIFT CARD TEND                     29.37
+DEBIT TEND                         49.16
+CHANGE                              0.00
+
+05/10/26 07:38  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

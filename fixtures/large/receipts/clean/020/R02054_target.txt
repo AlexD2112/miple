@@ -1,0 +1,17 @@
+                 TARGET
+           Seattle WA  T-0163
+             (555) 030-7610
+
+ORGANIC GALA APPLES               1.57 N
+GG SLCD ROAST BF                  5.94 N
+CHERRIES                          5.69 N
+
+SUBTOTAL                           13.20
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              13.20
+DEBIT TEND                         13.20
+CHANGE                              0.00
+
+09/08/26 13:07  ITEMS 3
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

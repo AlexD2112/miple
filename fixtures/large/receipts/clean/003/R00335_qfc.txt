@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0744
+
+  2.79 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                6.78 F
+  0.65 lb @ 3.76 /lb
+CAULIFLOWER                       2.44 F
+CRM CHS 8 OZ                      3.15 F
+GRK YGRT 48 OZ                    1.97 F
+  4.80 lb @ 6.69 /lb
+SMPL TRTH BNLS SKNLS CHKN BRST   32.11 F
+KRO LIGHT BULBS 4PK              17.04 T
+KRO GINGER ALE 12PK               6.02 T
+LACROIX LIME SPARKLING WATER 8 P  2.20 F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           71.87
+TAX 10.55% ON 23.22                 2.45
+TOTAL                              74.32
+DEBIT TEND                         74.32
+CHANGE                              0.00
+
+04/23/26 19:35  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

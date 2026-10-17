@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3032  Seattle WA
+            MEMBER ************
+
+1742278 CELERY HEARTS                 4.34 E
+1031472 KS BLUBRY                     5.87 E
+681553 BLACK BEANS 15 OZ CAN         10.76 E
+1882353 KS LIMES                      8.40 E
+     3 @ 2.80
+1882353 KS LIMES                      8.40 E
+** VOID ** 1882353 KS LIMES          8.40-  
+
+SUBTOTAL                               29.37
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             29.37
+DISCOVER TEND                          29.37
+CHANGE                                  0.00
+
+02/18/26 13:18  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

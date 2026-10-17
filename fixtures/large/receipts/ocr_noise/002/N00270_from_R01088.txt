@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 3364
+
+  0.89 lb @ 1.48 /lb
+RFD ONIN 1.32     F
+SMPL TRTH POTATO CHIPS 5.07 F
+L6 EG6S 18 CT                     7.S2 F
+KR0 VAN YGRT CUPS                 S.39    F
+2 @ 2 FOR 6.00 HANDMADE STYLE CO  6.00 F
+
+      **** COUPONS & SAVINGS ****
+DI6ITAL CPN VAN YGRT CUPS        Z.43-  
+DIGITAL CPN POTATO CHIPS         0.99-  
+ MFR CPN RED ONIN                 0.66-  
+MFR CPN LG EGGS 18 CT            0.9O-  
+KRO SAVINGS HANDMADE STYLE       0.30-  
+MFR CPN LG EGGS 18 CT            1.48-  
+MFR CPN HANDMADE STYLE 1.63-  
+KR0 SAVINGS LG EG6S 18 CT        1.38-  
+SC HANDMADE STYLE                1.07-  
+DIGITAL CPN VAN YGRT CUPS        0.26-  
+TOTAL COUPONS                   11.10-  
+          ************************
+
+SUBTOTAL                           14.20
+TAX 10.55% ON 0.00                  0.00
+TOTAL                                  14.20
+D1SCOVER TFND                      l4.20
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY 11.10
+01/21/26 08:54  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

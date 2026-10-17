@@ -1,0 +1,25 @@
+                SAFEWAY
+         Store 2974  Seattle WA
+             (555) 010-6846
+
+DRGLD UNSLTD BTR                  6.67 S
+GRK YGRT 48 OZ                    1.97 S
+SIG KTCHNS HALIBUT               10.82 S
+SIG KTCHNS RANCH DRESSING         3.99 S
+SIG PLSTC WRAP                    4.77 T
+SIG CAT LITTER                   14.03 T
+SIG NPKNS                        24.05 T
+  2.82 lb @ 3.76 /lb
+CAULIFLOWER                      10.60 S
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           77.22
+TAX 10.55% ON 43.17                 4.55
+**** TOTAL                         81.77
+DEBIT TEND                         81.77
+CHANGE                              0.00
+
+02/16/26 20:31  ITEMS 8
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

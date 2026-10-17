@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 0611  Seattle WA
+             (555) 010-7904
+
+SHRP CHDR BLOCK                  10.33 S
+PRMGN RGGN                        7.82 S
+DOG TREATS                        6.82 T
+ORG CARROTS BUNCH                 4.63 S
+ORG CARROTS BUNCH                 4.63 S
+** VOID ** ORG CARROTS BUNCH     4.63-  
+CHICKEN BROTH 32 OZ               2.81 S
+
+SUBTOTAL                           32.41
+TAX 10.55% ON 6.82                  0.72
+**** TOTAL                         33.13
+DEBIT TEND                         33.13
+CHANGE                              0.00
+
+04/24/26 16:23  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

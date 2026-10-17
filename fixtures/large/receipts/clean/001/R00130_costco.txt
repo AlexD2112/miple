@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0021  Seattle WA
+            MEMBER ************
+
+688377 EXTRA FIRM TOFU                2.32 E
+1936363 TPD/EXTRA FIRM T             0.58-  
+1878805 DRIED LENTILS                 4.26 E
+1878805 DRIED LENTILS                 4.26 E
+** VOID ** 1878805 DRIED LENT        4.26-  
+0491867 TPD/DRIED LENTIL             1.28-  
+1998893 GRK YGRT 48 OZ                1.97 E
+45472 MANGO                           1.43 E
+     1.88 lb @ 0.76 /lb
+6450 CABOT SHRP CHDR 8 OZ             8.48 E
+2916766 TPD/CABOT SHRP C             1.17-  
+1905998 KS SILKEN TOFU                2.29 E
+714386 KS DAVES KILLER BRD            6.69 E
+3862894 TPD/DAVES KILLER             0.63-  
+889627 DAVES KILLER BREAD             6.69 E
+676740 ORG RASPB 6 OZ                 6.28 E
+1029474 CHICKEN BROTH CARTON          8.38 E
+8186589 TPD/CHICKEN BROT             2.51-  
+1401494 KS GRND TRKY                  5.19 E
+1020364 KS SPRING MIX                10.88 E
+     2 @ 5.44
+295889 ORG RASPB 6 OZ                 6.28 E
+  REFUND - ORIG RECEIPT
+RETURN 1878805 DRIED LENTILS         4.26- E
+
+SUBTOTAL                               60.71
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             60.71
+AMEX TEND                              60.71
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      6.17
+02/04/26 17:32  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

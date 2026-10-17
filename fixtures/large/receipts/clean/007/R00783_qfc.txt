@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3228
+
+  2.24 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             2.98 F
+  PRICE OVERRIDE  WAS 4.29
+KRO LG BROWN EGGS                 3.67 F
+ORG RASPB 6 OZ                    6.28 F
+HUY FONG SRIRACHA                 2.55 F
+SALTED BUTTER 4 STICKS            9.37 F
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+DISH SOAP                        19.39 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           46.60
+TAX 10.55% ON 19.55                 2.06
+TOTAL                              48.66
+VISA TEND                          48.66
+CHANGE                              0.00
+
+01/10/26 19:35  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

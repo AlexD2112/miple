@@ -1,0 +1,46 @@
+               FRED MEYER
+              Portland OR
+               Store 0602
+
+  1.28 lb @ 17.98 /lb
+UNEXPECTED CHDR                  23.01 F
+KRO SAVINGS                      2.57-  
+SMPL TRTH SOURDOUGH LOAF          7.47 F
+TORTILLA CHIPS                    3.33 F
+  0.44 lb @ 2.43 /lb
+SMPL TRTH PRSNPS                  1.07 F
+DARIGOLD UNSLTD BTR               6.67 F
+DISH SOAP                        19.39 F
+KRO SAVINGS                      2.09-  
+  2 @ 2.55
+HUY FONG SRIRACHA                 5.10 F
+  2 @ 3.00
+BRTLTT PEARS                      6.00 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+DIGITAL CPN                      1.33-  
+SMPL TRTH CRKRS                   2.00 F
+TSTTS SCOOPS TRTLL CHIPS          3.46 F
+  4 @ 1.83
+SMPL TRTH COLA 12PK               7.32 F
+  48 @ 0.10
+OR BTL DEP                        4.80  
+ROOT BEER 2L                      5.24 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+PASTURE RAISED EGGS               7.37 F
+ORGANIC ROMAINE HEARTS
+3 CT                              3.76 F
+DIGITAL CPN                      1.13-  
+  4 @ 0.05
+BAG FEE                           0.20  
+
+SUBTOTAL                          108.05
+TAX                                 0.00
+TOTAL                             108.05
+AMEX TEND                         108.05
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  7.12
+03/02/26 16:46  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

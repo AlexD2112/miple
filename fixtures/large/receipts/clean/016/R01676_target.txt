@@ -1,0 +1,19 @@
+                 TARGET
+           Seattle WA  T-0226
+             (555) 030-2556
+
+  PRICE OVERRIDE  WAS 3.00
+MKT PANTRY BARTLETT PEARS         1.96 N
+MKT PANTRY KALE                   4.17 N
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                            6.29
+TAX 10.55% ON 0.16                  0.02
+TOTAL                               6.31
+MASTERCARD TEND                     6.31
+CHANGE                              0.00
+
+04/13/26 07:48  ITEMS 2
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

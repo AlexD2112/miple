@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0122  Seattle WA
+            MEMBER ************
+
+1340508 COCONUT MLK CAN               7.66 E
+     2 @ 3.83
+834220 WILD COD FLLT                 18.56 E
+161937 KS QUINOA                      7.75 E
+1398994 REDUCED FAT 2% MLK GALLON     6.54 E
+5750224 TPD/REDUCED FAT              1.96-  
+1820103 KS ORANGE JUICE               7.69 E
+373189 DISH SOAP                     19.39 A
+3391723 TPD/DISH SOAP                2.30- A
+
+SUBTOTAL                               63.33
+TAX 10.55% ON 17.09                     1.80
+**** TOTAL                             65.13
+VISA TEND                              65.13
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      4.26
+09/04/26 21:49  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,29 @@
+                 TARGET
+           Seattle WA  T-2927
+             (555) 030-9554
+
+SHRP CHDR BLOCK                  10.33 N
+GG GRND TRKY                      5.19 N
+GG YUKON GOLD POTATOES            3.99 N
+TARGET CIRCLE OFFER              1.20-  
+  2.22 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             2.95 N
+ORGANIC SPROUTED TOFU             2.61 N
+GG TLP FLLTS                     21.66 N
+MKT PANTRY SPGHTT                 9.54 N
+GG GOAT CHEESE                    8.35 N
+PLAIN GOAT CHS                    5.77 N
+MKT PANTRY LIMES                  2.80 N
+BAG FEE                           0.08 T
+
+SUBTOTAL                           72.07
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              72.08
+CASH TEND                          43.00
+MASTERCARD TEND                    29.08
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.20
+02/21/26 12:35  ITEMS 10
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

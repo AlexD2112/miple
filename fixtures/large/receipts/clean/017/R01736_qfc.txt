@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3975
+
+CHERRY TOMATOES                   1.15 F
+PRIV SEL GENOA SALAMI             4.76 F
+GRK YGRT 48 OZ                    1.97 F
+ORG SPRTD TOFU                    2.61 F
+SMPL TRTH BROC CROWNS             2.25 F
+
+SUBTOTAL                           12.74
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              12.74
+AMEX TEND                          12.74
+CHANGE                              0.00
+
+03/12/26 10:11  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

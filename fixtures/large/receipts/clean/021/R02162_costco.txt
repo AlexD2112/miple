@@ -1,0 +1,16 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1128  Seattle WA
+            MEMBER ************
+
+811316 KS TILAPIA FILLETS            21.66 E
+
+SUBTOTAL                               21.66
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             21.66
+MASTERCARD TEND                        21.66
+CHANGE                                  0.00
+
+10/13/26 09:29  ITEMS 1
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

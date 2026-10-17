@@ -1,0 +1,15 @@
+                SAFEWAY
+         Store 2776  Seattle WA
+             (555) 010-2921
+
+SIG PAPER PLATES                  3.31 T
+
+SUBTOTAL                            3.31
+TAX 10.55% ON 3.31                  0.35
+**** TOTAL                          3.66
+DISCOVER TEND                       3.66
+CHANGE                              0.00
+
+04/29/26 08:39  ITEMS 1
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3774  Seattle WA
+            MEMBER ************
+
+  PRICE OVERRIDE  WAS 3.15
+71823 CRM CHS 8 OZ                    2.40 E
+1934446 SILKEN TOFU                   2.29 E
+1934446 SILKEN TOFU                   2.29 E
+** VOID ** 1934446 SILKEN TOF        2.29-  
+76919 KS GALA APPLES                  7.87 E
+     3.42 lb @ 2.30 /lb
+1565688 KS LEMONS                     4.19 E
+85122 COLA 12PK CANS                  1.51 A
+8576197 TPD/COLA 12PK CA             0.45- A
+1620913 RED ONIN                      3.91 E
+     2.64 lb @ 1.48 /lb
+1518334 FROZEN WAFFLES                7.05 E
+1089973 KS RIBEYE STEAK              19.87 E
+1389240 KS AHI TUNA STEAK            14.71 E
+1940976 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+108017 KS PENNE                      13.38 E
+785856 KS 2% MILK GALLON              6.49 E
+7886518 TPD/2% MILK GALL             1.95-  
+1670685 SALTED BUTTER 4 STICKS        9.37 E
+1951977 ORGANIC ROMAINE HEARTS 3 CT  15.04 E
+     4 @ 3.76
+1767898 TPD/ORGANIC ROMA             0.58-  
+1238954 LG BROWN EGGS                 4.29 E
+2290769 TPD/LG BROWN EGG             0.80-  
+
+SUBTOTAL                              111.37
+TAX 10.55% ON 1.06                      0.11
+**** TOTAL                            111.48
+VISA TEND                             111.48
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      3.78
+03/02/26 10:27  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

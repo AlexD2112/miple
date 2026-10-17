@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0899
+
+CARROTS 2 LB                      1.74 F
+CARROTS 2 LB                      1.74 F
+** VOID ** CARROTS 2 LB          1.74-  
+PLAIN GOAT CHEESE                 5.77 F
+PRIV SEL SPRKLG WTR               3.74 F
+PRIV SEL GRND COFFEE              9.64 F
+KRO TORTILLA CHIPS                3.33 F
+LIMES                             2.80 F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           27.18
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              27.20
+DEBIT TEND                         27.20
+CHANGE                              0.00
+
+08/26/26 15:26  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

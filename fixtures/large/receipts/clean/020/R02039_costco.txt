@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1876  Seattle WA
+            MEMBER ************
+
+973529 LEMON                          4.30 E
+879878 KS CHKN DRMSTCKS               8.97 E
+344228 ORGANIC RASPBERRIES 6 OZ       6.28 E
+1352075 STRAUS PLAIN GRK YGRT         1.74 E
+325070 ORG HNYCRSP APPLES             3.76 E
+     2.83 lb @ 1.33 /lb
+301350 KS BABY SPNCH                 10.84 E
+     2 @ 5.42
+60998 KS PORK TENDERLOIN             31.65 E
+     3.28 lb @ 9.65 /lb
+280146 KS DISH SOAP                  19.39 A
+347027 UNSLTD BTR 4 X 1 LB            9.48 E
+
+SUBTOTAL                               96.41
+TAX 10.55% ON 19.39                     2.05
+**** TOTAL                             98.46
+DISCOVER TEND                          98.46
+CHANGE                                  0.00
+
+09/13/26 12:33  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

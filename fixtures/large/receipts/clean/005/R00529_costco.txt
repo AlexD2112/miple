@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1723  Seattle WA
+            MEMBER ************
+
+1617533 SLTD BTR 4 STICKS             9.37 E
+678977 KS GRND PORK                   6.60 E
+1588312 KS PLASTIC WRAP               4.77 A
+1041893 KS ALMOND MILK                5.08 E
+917273 PORK TENDERLOIN               10.04 E
+     1.04 lb @ 9.65 /lb
+
+SUBTOTAL                               35.86
+TAX 10.55% ON 4.77                      0.50
+**** TOTAL                             36.36
+DISCOVER TEND                          36.36
+CHANGE                                  0.00
+
+03/20/26 10:52  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

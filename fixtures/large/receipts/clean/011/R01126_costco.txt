@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0069  Seattle WA
+            MEMBER ************
+
+594902 KS AVOCADOS                    4.05 E
+837083 KS NAVEL ORANGES               1.01 E
+84097 JASMINE RICE 25 LB              8.09 E
+515753 HMBRGR BUNS                    2.77 E
+1888793 TRKY BRST                    41.12 E
+     5.80 lb @ 7.09 /lb
+417375 COCONUT MILK CAN               3.83 E
+1902240 FRESH MINT                    5.48 E
+     2 @ 2.74
+965602 CHICKEN GYOZA POTSTICKERS      9.88 E
+9983537 TPD/CHICKEN GYOZ             0.99-  
+1543485 KS ALMNM FOIL                18.03 A
+1783534 ROOT BEER 2L                  5.24 A
+1047154 KS YELLOW ONIN                1.78 E
+3371185 TPD/YELLOW ONIN              0.53-  
+305871 KS WHL CHKN                   38.23 E
+     6.04 lb @ 6.33 /lb
+556619 SPONGES 3PK                    9.54 A
+917317 GALA APPLES                    6.28 E
+     2.73 lb @ 2.30 /lb
+
+SUBTOTAL                              153.81
+TAX 10.55% ON 32.81                     3.46
+**** TOTAL                            157.27
+MASTERCARD TEND                       157.27
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.52
+08/19/26 14:54  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

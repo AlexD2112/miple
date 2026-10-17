@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2434  Seattle WA
+            MEMBER ************
+
+1251228 TILLAMOOK ICE CREAM 48 OZ     8.88 E
+1251228 TILLAMOOK ICE CREAM 48 OZ     8.88 E
+** VOID ** 1251228 TILLAMOOK         8.88-  
+1322426 KS CELERY                     4.32 E
+4317684 TPD/CELERY                   1.30-  
+1742276 GRK YGRT PLAIN               16.44 E
+     4 @ 4.11
+572740 KS SLCD TRKY BRST              5.27 E
+     0.40 lb @ 13.18 /lb
+919184 ORGANIC EGGS 24 CT             7.83 E
+1535557 KS COLA 12PK CANS             1.51 A
+54884 KS DIJON MUSTARD                4.92 E
+     2 @ 2.46
+7973373 TPD/DIJON MUSTAR             1.48-  
+1983749 SPRING MIX                   10.88 E
+     2 @ 5.44
+1969566 KS BAGGED CAESAR SALAD KIT    2.21 E
+
+SUBTOTAL                               59.48
+TAX 10.55% ON 1.51                      0.16
+**** TOTAL                             59.64
+AMEX TEND                              59.64
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      2.78
+01/02/26 12:18  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

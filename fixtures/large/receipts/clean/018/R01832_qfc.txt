@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0059
+
+  0.95 lb @ 13.18 /lb
+SMPL TRTH SLCD TRKY BRST         12.52 F
+  PRICE OVERRIDE  WAS 2.72
+SMPL TRTH MANDARINS               2.08 F
+PNT BTR                           6.90 F
+SMPL TRTH SPRKLG WTR              3.74 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+ICE CRM                          14.51 F
+  3.12 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  23.84 F
+  3 @ 1.83
+PRIV SEL COLA 12PK                5.49 T
+KRO GINGER ALE 12PK               6.02 T
+MFR CPN                          1.81- T
+
+SUBTOTAL                           77.50
+TAX 10.55% ON 9.70                  1.02
+TOTAL                              78.52
+AMEX TEND                          78.52
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.81
+07/14/26 15:01  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

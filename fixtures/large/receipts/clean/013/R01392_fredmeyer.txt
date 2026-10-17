@@ -1,0 +1,25 @@
+               FRED MEYER
+              Portland OR
+               Store 3836
+
+TOOTHPASTE                       16.40 F
+SMPL TRTH LIMES                   2.80 F
+2 @ 2 FOR 7.00 SMPL TRTH COCONUT  7.00 F
+KRO GRND PORK                     6.60 F
+TILLAMOOK VAN YGRT                4.05 F
+2% MLK 2 X 1 GAL                  4.70 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+SMPL TRTH BROC CROWNS             2.25 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           50.50
+TAX                                 0.00
+TOTAL                              50.50
+CASH TEND                          44.00
+MASTERCARD TEND                     6.50
+CHANGE                              0.00
+
+09/24/26 08:46  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

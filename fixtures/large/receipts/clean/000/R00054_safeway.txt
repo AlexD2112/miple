@@ -1,0 +1,27 @@
+                SAFEWAY
+         Store 3476  Seattle WA
+             (555) 010-2500
+
+  PRICE OVERRIDE  WAS 6.63
+SIG KTCHNS CRL                    4.74 S
+WHITE BRD                         6.34 S
+J4U PERSONAL DEAL                0.62-  
+SIG SLCT FROZEN BROCCOLI          1.72 S
+SIG KTCHNS FLOUR TORT             6.18 S
+TLLMK VAN YGRT                    4.05 S
+J4U DIGITAL CPN                  0.38-  
+LUCERNE ALMOND MILK               5.08 S
+SWEET POTS                        3.28 S
+J4U DIGITAL CPN                  0.53-  
+LUCERNE COTTAGE CHEESE            3.21 S
+
+SUBTOTAL                           33.07
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         33.07
+VISA TEND                          33.07
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.53
+01/02/26 17:31  ITEMS 8
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

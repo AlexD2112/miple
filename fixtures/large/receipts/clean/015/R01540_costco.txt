@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3796  Seattle WA
+            MEMBER ************
+
+1945075 HALF AND HALF                 5.34 E
+445477 FROZEN BROCCOLI FLORETS        8.13 E
+122583 KS QUINOA                      7.75 E
+1080964 STRAUS PLAIN GRK YGRT         1.74 E
+868094 ORG ITALIAN PRSLY              7.80 E
+     4 @ 1.95
+1062785 PORK TENDERLOIN               8.88 E
+     0.92 lb @ 9.65 /lb
+1477260 ORG GRAPE TOM PINT            1.63 E
+     0.83 lb @ 1.96 /lb
+1960621 ORGANIC BABY SPINACH 5 OZ    11.70 E
+     2 @ 5.85
+1630558 LG EGGS 12 CT                 8.69 E
+891613 YUKON GOLD POTS                3.99 E
+1207969 SHRP CHDR BLOCK              10.33 E
+1177044 KS RUSSET POTS                2.45 E
+     2.17 lb @ 1.13 /lb
+
+SUBTOTAL                               78.43
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             78.43
+DEBIT TEND                             78.43
+CHANGE                                  0.00
+
+05/02/26 21:49  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

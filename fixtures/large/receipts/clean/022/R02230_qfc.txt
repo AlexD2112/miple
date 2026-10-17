@@ -1,0 +1,36 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3235
+
+SMPL TRTH ITLN PRSLY              2.93 F
+SMPL TRTH AVOCADOS                4.05 F
+SMPL TRTH AVOCADOS                4.05 F
+** VOID ** SMPL TRTH AVOCADOS    4.05-  
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+STRWB 2 LB                        5.88 F
+CAT LITTER                       14.03 T
+DIGITAL CPN                      2.80- T
+DISH SOAP                        19.39 T
+MFR CPN                          2.93- T
+SMPL TRTH CRRTS                   1.79 F
+  3.33 lb @ 17.07 /lb
+LAMB CHOPS                       56.84 F
+DIGITAL CPN                      2.96-  
+ORG CARROTS BUNCH                 4.63 F
+DIGITAL CPN                      1.39-  
+SMPL TRTH GRND BF 80/20           6.57 F
+KRO SAVINGS                      1.81-  
+SMPL TRTH GOAT CHS                8.35 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          119.74
+TAX 10.55% ON 27.85                 2.94
+TOTAL                             122.68
+MASTERCARD TEND                   122.68
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                 11.89
+09/23/26 16:28  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

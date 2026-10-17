@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2551
+
+ORG BASIL CLAMSHELL               1.49 F
+CROISSANTS 12 CT                  4.87 F
+  6.05 lb @ 6.33 /lb
+SMPL TRTH WHOLE CHICKEN          38.30 F
+KRO BRIE                          4.85 F
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+FRZN BROC FLORETS                 8.13 F
+
+SUBTOTAL                           67.03
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              67.03
+AMEX TEND                          67.03
+CHANGE                              0.00
+
+04/13/26 13:04  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

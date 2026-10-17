@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 0818
+
+PENNE                            13.38 F
+KRO SAVINGS                      2.32-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           11.22
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              11.24
+CASH TEND                           6.00
+MASTERCARD TEND                     5.24
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.32
+02/13/26 13:37  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

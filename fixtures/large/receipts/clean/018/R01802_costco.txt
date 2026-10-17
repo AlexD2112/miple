@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0183  Seattle WA
+            MEMBER ************
+
+1257962 BNLS CHKN THIGHS             16.62 E
+     3.83 lb @ 4.34 /lb
+8916955 TPD/BNLS CHKN TH             0.36-  
+1792132 ORG LEMONS                    3.11 E
+     1.10 lb @ 2.83 /lb
+1208491 ORG ITLN PARSLEY              3.90 E
+     2 @ 1.95
+596280 KS RED BELL PEPR               8.17 E
+     2.39 lb @ 3.42 /lb
+37792 KS SLCD ROAST BF                5.94 E
+525824 KS FRESH BASIL                 5.48 E
+     2 @ 2.74
+642200 KS LAMB CHOPS                 35.33 E
+     2.07 lb @ 17.07 /lb
+917242 KS TRKY BRST                  35.88 E
+     5.06 lb @ 7.09 /lb
+847377 KS SALSA JAR                   2.09 E
+821428 COTTAGE CHS                    3.21 E
+1346956 TILLAMOOK VAN YGRT            4.05 E
+8012239 TPD/TILLAMOOK VA             1.21-  
+1050517 WHL CHKN                      8.29 E
+     1.31 lb @ 6.33 /lb
+1182510 ROTIS CHKN                    5.04 A
+
+SUBTOTAL                              135.54
+TAX 10.55% ON 5.04                      0.53
+**** TOTAL                            136.07
+MASTERCARD TEND                       136.07
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.57
+01/17/26 20:07  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

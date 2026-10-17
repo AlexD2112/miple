@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2887  Seattle WA
+            MEMBER ************
+
+672060 HONEYCRISP APPLES              4.67 E
+992338 GRND BF 88/12                 26.28 E
+     4.38 lb @ 6.00 /lb
+1002684 BLUBRY                        5.87 E
+1571796 UNSLTD BTR 4 X 1 LB           9.48 E
+1627292 KS SRRCH                      3.16 E
+601596 ORG BABY SPNCH                 5.54 E
+
+SUBTOTAL                               55.00
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             55.00
+MASTERCARD TEND                        55.00
+CHANGE                                  0.00
+
+03/08/26 19:20  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

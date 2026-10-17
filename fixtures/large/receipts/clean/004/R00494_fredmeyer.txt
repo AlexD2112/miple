@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 1705
+
+  2.80 lb @ 1.48 /lb
+RED ONIN                          4.14 F
+  1.29 lb @ 7.09 /lb
+SMPL TRTH TRKY BRST               9.15 F
+  0.87 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             1.16 F
+DIGITAL CPN                      0.35-  
+KRO PAPER PLATES                  3.31 T
+CHERRY TOM                        1.15 F
+  1.81 lb @ 18.16 /lb
+COD FLLT                         32.87 F
+  0.36 lb @ 1.25 /lb
+SMPL TRTH PNPPL                   0.45 F
+SPNGS 3PK                         9.54 T
+SMPL TRTH HONEYCRISP
+APPLES                            4.67 F
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+** VOID ** SMPL TRTH HONEYCRI    4.67-  
+  4 @ 2.93
+SMPL TRTH ASPARAGUS              11.72 F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           77.97
+TAX 10.55% ON 13.01                 1.37
+TOTAL                              79.34
+CASH TEND                          36.00
+AMEX TEND                          43.34
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.35
+08/12/26 13:35  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

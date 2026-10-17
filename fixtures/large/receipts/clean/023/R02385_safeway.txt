@@ -1,0 +1,16 @@
+                SAFEWAY
+      Store 3116  San Francisco CA
+             (555) 010-9125
+
+  2.77 lb @ 18.16 /lb
+SIG KTCHNS COD FLLT              50.30 S
+
+SUBTOTAL                           50.30
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         50.30
+DEBIT TEND                         50.30
+CHANGE                              0.00
+
+09/17/26 20:53  ITEMS 1
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

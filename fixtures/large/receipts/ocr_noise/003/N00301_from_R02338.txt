@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+ Warehouse #1281  San Francisco CA
+             MFMBFR ************
+
+  PRICE OVERRIDE  WAS 9.64
+1191892 KS GRND COFFEE                6.64 E
+  1 @ 0.05
+CA CRV                                0.05  
+1464946 CLFLWR                        8.84 E
+     2.35 lb @ 3.76 /lb
+
+SUBTOTAL 15.53
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             15.53
+MASTERCARD TEND                        15.53
+CHANGE 0.00
+
+07/26/26 21:41  ITEMS 2
+A=TAXABLE E=NONTAXABLE FOOD
+ THANK    YOU

@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 3192
+
+  0.81 lb @ 13.74 /lb
+CHUCK ROAST                      11.13 F
+  2.50 lb @ 1.13 /lb
+RUSSET POTS                       2.83 F
+KRO CRM CHS                       8.63 F
+SMPL TRTH CELERY                  4.32 F
+SMPL TRTH FRESH DILL              0.90 F
+KRO SPRKLG WTR 8PK                5.13 F
+REDUCED FAT 2% MLK GALLON         6.54 F
+PEPSI 12 PK CANS                  4.93 T
+
+SUBTOTAL                           44.41
+TAX 10.55% ON 4.93                  0.52
+TOTAL                              44.93
+DEBIT TEND                         44.93
+CHANGE                              0.00
+
+09/04/26 19:50  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

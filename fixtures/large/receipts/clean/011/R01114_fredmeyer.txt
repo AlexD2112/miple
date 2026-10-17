@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 0064
+
+BOTTLED WTR 40 PK                 2.45 F
+TTHPST                           16.40 T
+  4 @ 4.43
+FM COLD BREW COFFEE 32OZ         17.72 F
+MAYONNAISE 30 OZ                  6.42 F
+MFR CPN                          1.67-  
+CRM CHS 8 OZ                      3.15 F
+WHITE SANDWICH BRD                7.03 F
+
+SUBTOTAL                           51.50
+TAX 10.55% ON 16.40                 1.73
+TOTAL                              53.23
+GIFT CARD TEND                     32.04
+MASTERCARD TEND                    21.19
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.67
+03/30/26 15:12  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

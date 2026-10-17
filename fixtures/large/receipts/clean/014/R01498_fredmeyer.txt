@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 0794
+
+LARGE EGGS 12 CT                  8.69 F
+GROUND COFFEE                     9.64 F
+  1.06 lb @ 3.34 /lb
+HASS AVOCADO LG                   3.54 F
+YUKON GOLD POTS                   3.99 F
+KRO PAPER TOWELS 6 ROLL           3.75 T
+FM GRK YGRT PLAIN                 4.11 F
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           33.80
+TAX 10.55% ON 3.83                  0.40
+TOTAL                              34.20
+VISA TEND                          34.20
+CHANGE                              0.00
+
+02/16/26 14:39  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

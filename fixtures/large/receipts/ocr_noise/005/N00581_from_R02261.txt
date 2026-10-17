@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2245  Portland OR
+            MEMBER ************
+
+715644 KS FRESH MOZZARELLA            8.65 E
+1039527 KS PASTURE RAISED EGGS        7.37 E
+1248318 KS PAPER PLATES               3.31 E
+662301 FLOWERS BOUQUET               23.70 E
+421513 KS DIET COLA 12PK CANS         4.42 E
+  12 @ 0.10
+OR BTL DEP                            1.20  
+  1433476 PLASTIC WRAP                  4.77 E
+
+SUBTOTAL                               53.42
+TAX                                     0.00
+**** TOTAL                             S3.42
+V15A TEND                              53.4Z
+CHAN6F                                  0.0O
+
+07/25/26 21:33  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK Y0U

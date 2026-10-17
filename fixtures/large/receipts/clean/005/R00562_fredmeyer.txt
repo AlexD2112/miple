@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 0933
+
+FM BLACK BEANS CAN                8.77 F
+OAT MILK                          3.10 F
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+FM DELI FRIED CHKN               11.75 T
+SMPL TRTH JASMINE RICE           12.13 F
+  1.63 lb @ 1.05 /lb
+RADISHES                          1.71 F
+  0.40 lb @ 1.79 /lb
+SMPL TRTH BEETS                   0.72 F
+2 @ 2 FOR 4.00 SMPL TRTH GREEN O  4.00 F
+TOSTITOS SCOOPS TORTILLA CHIPS    3.46 F
+KRO GRND BF 80/20                 6.57 F
+2 @ 2 FOR 5.00 SWISS CHARD        5.00 F
+KRO CHKN DRUMSTICKS               8.97 F
+  3 @ 0.08
+PAPER BAG                         0.24 T
+
+SUBTOTAL                           75.25
+TAX 10.55% ON 20.82                 2.20
+TOTAL                              77.45
+CASH TEND                          75.00
+DISCOVER TEND                       2.45
+CHANGE                              0.00
+
+01/20/26 18:58  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

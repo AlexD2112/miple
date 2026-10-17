@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 1636  Seattle WA
+             (555) 010-3312
+
+  PRICE OVERRIDE  WAS 13.38
+SIG KTCHNS PENNE                  8.79 S
+SIG KTCHNS PENNE                  8.79 S
+** VOID ** SIG KTCHNS PENNE      8.79-  
+O ORGANICS HONEYCRISP APPLES      4.67 S
+CLUB CARD SAVINGS                1.40-  
+
+SUBTOTAL                           12.06
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         12.06
+AMEX TEND                          12.06
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.40
+01/26/26 17:19  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 0484  Seattle WA
+             (555) 010-9252
+
+ORGANIC CARROTS BUNCH             4.63 S
+SLTD BTR 4 STICKS                 9.37 S
+BAG FEE                           0.08 T
+
+SUBTOTAL                           14.08
+TAX 10.55% ON 0.08                  0.01
+**** TOTAL                         14.09
+AMEX TEND                          14.09
+CHANGE                              0.00
+
+04/29/26 11:20  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

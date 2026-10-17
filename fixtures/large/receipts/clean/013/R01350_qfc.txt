@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3785
+
+SLTD BTR                          5.73 F
+  0.83 lb @ 1.60 /lb
+SMPL TRTH JLPN                    1.33 F
+  0.86 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS              8.54 F
+DIGITAL CPN                      0.76-  
+BAG FEE                           0.08 T
+
+SUBTOTAL                           14.92
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              14.93
+CASH TEND                          20.00
+CHANGE                              5.07
+
+YOUR SAVINGS TODAY                  0.76
+08/08/26 19:11  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+                   C0STC0
+                 WHOLESALE
+     Warehouse #1951  San Francisco CA
+            MEMBER ************
+
+1861496 KS GENOA SALAMI               4.76  E
+131977O KS DRIED LENT1LS              B.52 E
+     2 @ 4.26
+317771 LAUNDRY DETERGENT PODS        20.18 A
+   171813 KS YELLOW ONIONS               1.78 E
+632959 KS ALMOND MILK                 5.08 E
+1579206 KS COLD BREW COFFEE 32OZ      4.43 E
+  1 @ 0.10
+CA CRV                                0.10  
+365750 CHUCK ROAST                   18.41 E
+     1.34 lb @ 13.74 /lb
+854317 KS FRESH DILL                  0.90 E
+
+SUBTOTAL                               64.16
+TAX B.6ZS% ON 20.18                     1.74
+**** T0TAL                             G5.90
+DEBIT TFND                             G5.90
+CHANGE                                  0.00
+
+05/16/26 14:52  ITEMS 9
+A=TAXABLE  F=NONTAXABLF FO0D
+                 THANK YOU

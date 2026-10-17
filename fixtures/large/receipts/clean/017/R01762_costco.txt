@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2314  Seattle WA
+            MEMBER ************
+
+542657 KS SHMP                       17.57 A
+542657 KS SHMP                       17.57 A
+** VOID ** 542657 KS SHMP           17.57-  
+433805 ORG ITLN PARSLEY               3.90 E
+     2 @ 1.95
+1567993 TTHPST                       16.40 A
+1661486 KS SPRKLG WTR                 3.74 E
+230402 KS ICE CRM                    14.51 E
+979158 FLWRS BQT                     23.70 A
+933009 KS SPGHTT                      9.54 E
+536017 KS BLACK FOREST HAM            7.65 E
+     0.54 lb @ 14.17 /lb
+1285103 BLACK BEANS 15 OZ CAN        10.76 E
+1939853 KS RED GRAPES                 6.08 E
+     2 @ 3.04
+691951 KS HALF AND HALF               5.34 E
+5921591 TPD/HALF AND HAL             0.48-  
+1056632 KS PEACHES                    2.45 E
+     3.60 lb @ 0.68 /lb
+
+SUBTOTAL                              121.16
+TAX 10.55% ON 57.67                     6.08
+**** TOTAL                            127.24
+DEBIT TEND                            127.24
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      0.48
+05/17/26 20:04  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

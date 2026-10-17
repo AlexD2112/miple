@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3526  Seattle WA
+            MEMBER ************
+
+258670 MISSION FLOUR TORTILLAS 40 CT  5.22 E
+83117 OLD FASHIONED ROLLED OATS 42   17.43 E
+1894339 KS GREETING CARD             20.34 A
+118312 AVOCADOS BAG 4 CT              3.54 E
+579904 PRMGN REGGIANO WEDGE           8.42 E
+
+SUBTOTAL                               54.95
+TAX 10.55% ON 20.34                     2.15
+**** TOTAL                             57.10
+GIFT CARD TEND                         53.70
+AMEX TEND                               3.40
+CHANGE                                  0.00
+
+05/08/26 10:28  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

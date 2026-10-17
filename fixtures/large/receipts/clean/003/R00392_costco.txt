@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0006  Seattle WA
+            MEMBER ************
+
+1583037 CILANTRO                      1.16 E
+51820 REDUCED FAT 2% MLK GALLON       6.54 E
+842341 ORIGINAL HUMMUS 10 OZ          8.88 E
+5415986 TPD/ORIGINAL HUM             2.50-  
+651764 ORG HONEYCRISP APPLES          4.56 E
+     3.43 lb @ 1.33 /lb
+1988553 SLTD BTR                      5.73 E
+1734678 KS DELI FRIED CHKN           11.75 A
+3738221 TPD/DELI FRIED C             0.73- A
+109528 ENGLSH CUCUMBER                5.85 E
+     1.67 lb @ 3.50 /lb
+2610453 TPD/ENGLSH CUCUM             1.76-  
+
+SUBTOTAL                               39.48
+TAX 10.55% ON 11.02                     1.16
+**** TOTAL                             40.64
+DEBIT TEND                             40.64
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      4.99
+05/27/26 18:35  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

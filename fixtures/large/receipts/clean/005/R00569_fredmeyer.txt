@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 1518
+
+HEINZ KTCHP 32 OZ                 4.48 F
+SMPL TRTH GRND BF 80/20           6.57 F
+CC-CL 12 PK CANS                  2.77 T
+SLTD BTR 4 STICKS                 9.37 F
+DIGITAL CPN                      1.39-  
+  2 @ 2.35
+FLOUR TORT 10 CT                  4.70 F
+SMPL TRTH BLCKBRRS                3.92 F
+SMPL TRTH ROOT BEER 2L            5.24 T
+2 @ 2 FOR 3.00 JASMINE RICE 5 LB  3.00 F
+  2 @ 4.05
+TILLAMOOK VAN YGRT                8.10 F
+  2.38 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             3.17 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+  3 @ 0.08
+PAPER BAG                         0.24 T
+
+SUBTOTAL                           59.65
+TAX 10.55% ON 8.25                  0.87
+TOTAL                              60.52
+DEBIT TEND                         60.52
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.39
+03/27/26 21:00  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

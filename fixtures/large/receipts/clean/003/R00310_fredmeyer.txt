@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 1482
+
+KRO ALMOND MLK                    5.08 F
+ORG GALA APPLES                   1.57 F
+ORGNL HUMMUS 10 OZ                8.88 F
+SMPL TRTH LEMONADE 52OZ           5.79 T
+  2.98 lb @ 9.93 /lb
+BONELESS PORK LOIN CHOPS         29.59 F
+MFR CPN                          1.21-  
+KRO DISH SOAP                    19.39 T
+SHAMPOO                          17.57 T
+  0.96 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                1.28 F
+DIGITAL CPN                      0.38-  
+  2 @ 4.11
+KRO GRK YGRT PLAIN                8.22 F
+RDCD FAT 2% MLK GALLON            6.54 F
+SMPL TRTH BABY SPNCH              5.42 F
+KRRYGLD BTR                      10.81 F
+SMPL TRTH SWEET POTS              3.28 F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                          121.99
+TAX 10.55% ON 42.91                 4.53
+TOTAL                             126.52
+AMEX TEND                         126.52
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.59
+05/25/26 15:42  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

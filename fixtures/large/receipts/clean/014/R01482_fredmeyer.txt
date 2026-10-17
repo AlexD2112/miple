@@ -1,0 +1,37 @@
+               FRED MEYER
+               Seattle WA
+               Store 2619
+
+  4 @ 1.97
+GRK YGRT 48 OZ                    7.88 F
+  3 @ 4.67
+HONEYCRISP APPLES                14.01 F
+CARROTS                           1.79 F
+GRTNG CARD                       20.34 T
+SMPL TRTH BLUBRY                  5.87 F
+CRM CHS 8 OZ                      3.15 F
+  6.08 lb @ 6.69 /lb
+KRO BNLS SKNLS CHKN BRST         40.68 F
+FM PLUS CARD SAV                 1.26-  
+BLACK BEANS 15 OZ CAN            10.76 F
+SMPL TRTH DRIED LENTILS           4.26 F
+FM PLUS CARD SAV                 1.18-  
+SHREDDED MOZZ 8 OZ                2.92 F
+FM SALSA JAR                      2.09 F
+  3.93 lb @ 1.60 /lb
+JALAPENO                          6.29 F
+MANDARIN ORANGE CHKN             15.87 F
+FM APPLE JUICE 64OZ               7.25 F
+MFR CPN                          2.02-  
+SMPL TRTH SWEET POTATOES          3.28 F
+
+SUBTOTAL                          141.98
+TAX 10.55% ON 20.34                 2.15
+TOTAL                             144.13
+AMEX TEND                         144.13
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  4.46
+04/07/26 11:57  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

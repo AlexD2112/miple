@@ -1,0 +1,16 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0973  Seattle WA
+            MEMBER ************
+
+134635 FROZEN THREE BERRY BLEND 4 LB  2.56 E
+
+SUBTOTAL                                2.56
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              2.56
+AMEX TEND                               2.56
+CHANGE                                  0.00
+
+02/03/26 08:41  ITEMS 1
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

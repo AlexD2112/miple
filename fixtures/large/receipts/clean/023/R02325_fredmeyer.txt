@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 1379
+
+  PRICE OVERRIDE  WAS 2.72
+SMPL TRTH MNDRNS                  1.96 F
+DIGITAL CPN                      0.59-  
+  4 @ 1.47
+CHOBANI PLAIN GREEK YOGURT 32 OZ  5.88 F
+FM PLUS CARD SAV                 1.01-  
+  1.22 lb @ 13.18 /lb
+SMPL TRTH SLCD TRKY BRST         16.08 F
+2% MLK HALF GALLON                6.08 F
+BLACK FOREST HAM 9 OZ             7.00 F
+DIGITAL CPN                      0.25-  
+  1.55 lb @ 2.83 /lb
+ORGANIC LEMONS                    4.39 F
+  4 @ 2.45
+BOTTLED WTR 40 PK                 9.80 F
+SMPL TRTH YUKON GOLD POTS         3.99 F
+SMPL TRTH ITALIAN PARSLEY         2.93 F
+2% MLK HALF GALLON                6.08 F
+KRO SPONGES 3PK                   9.54 T
+KRO FLOWERS BOUQUET              23.70 T
+MFR CPN                          2.59- T
+CHKN DRUMSTICKS                   8.97 F
+FM PENNE                         13.38 F
+
+SUBTOTAL                          115.34
+TAX 10.55% ON 30.65                 3.23
+TOTAL                             118.57
+DISCOVER TEND                     118.57
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  4.44
+07/10/26 16:46  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

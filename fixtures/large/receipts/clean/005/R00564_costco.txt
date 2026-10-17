@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2313  Seattle WA
+            MEMBER ************
+
+442563 KS SPRKLG WTR 8PK              5.13 E
+1883838 PAPER PLATES                  3.31 A
+58291 HOT BAR PREPARED FOOD BY WEIGH  8.83 A
+850917 KS SPRKLG WTR 8PK              5.13 E
+
+SUBTOTAL                               22.40
+TAX 10.55% ON 12.14                     1.28
+**** TOTAL                             23.68
+GIFT CARD TEND                         12.45
+VISA TEND                              11.23
+CHANGE                                  0.00
+
+01/13/26 11:09  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

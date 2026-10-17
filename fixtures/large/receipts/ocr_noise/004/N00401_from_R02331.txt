@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+ Seattle WA  Store 2382
+
+GRK YGRT 48 OZ 1.97 F
+SNPL TRTH GRNLA 8RS               6.07 F
+ORG CARR0TS BUNCH                 4.63 F
+FROZEN PEAS                      13.98   F
+
+SUBTOTAL                           26.65
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              ZG.G5
+DEBIT TEND                         26.65
+CHANGE                              0.00
+
+O4/O3/2G 18:51  ITEMS 4
+T=TAXABLE  F=NONTAXA8LE F0OD
+               THANK Y0U

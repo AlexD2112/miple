@@ -1,0 +1,20 @@
+               FRED MEYER
+              Portland OR
+               Store 2113
+
+SMPL TRTH BABY SPINACH            5.42 F
+EVERYTHING BUT THE
+BAGEL SEASONING                   7.01 F
+SLCD ROAST BF                     5.94 F
+KRO NAPKINS                      24.05 F
+WHITE BRD                         6.34 F
+
+SUBTOTAL                           48.76
+TAX                                 0.00
+TOTAL                              48.76
+DEBIT TEND                         48.76
+CHANGE                              0.00
+
+01/03/26 09:41  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

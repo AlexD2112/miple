@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2671  Seattle WA
+            MEMBER ************
+
+1383715 FLOUR TORTILLAS 10 CT         7.05 E
+     3 @ 2.35
+615560 KS SHRP CHDR BLOCK            10.33 E
+1079762 PLAIN NONFAT GRK YGRT         4.65 E
+472109 PAPER TOWELS 6 ROLL            3.75 A
+1782234 KS CAGE FREE EGGS 18CT        6.85 E
+
+SUBTOTAL                               32.63
+TAX 10.55% ON 3.75                      0.40
+**** TOTAL                             33.03
+AMEX TEND                              33.03
+CHANGE                                  0.00
+
+06/07/26 09:30  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

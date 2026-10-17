@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 0598
+
+  0.91 lb @ 13.18 /lb
+SMPL TRTH SLICED TURKEY
+BREAST                           11.99 F
+KRO SAVINGS                      2.47-  
+ALL PURPOSE FLOUR                11.36 F
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH SLICED TURKEY  13.18- F
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                            7.86
+TAX 10.55% ON 0.16                  0.02
+TOTAL                               7.88
+AMEX TEND                           7.88
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.47
+04/15/26 19:04  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

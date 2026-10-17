@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 0763
+
+KRO ORANGE JUICE                  7.69 F
+CHKN GYOZA PTSTCKRS               9.88 F
+LARGE EGGS 18 CT                  7.52 F
+DIGITAL CPN                      0.52-  
+
+SUBTOTAL                           24.57
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              24.57
+DISCOVER TEND                      24.57
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.52
+02/24/26 08:43  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

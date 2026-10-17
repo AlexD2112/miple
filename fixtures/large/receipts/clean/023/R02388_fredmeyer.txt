@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 3299
+
+3 @ 3 FOR 11.00 HEINZ KETCHUP 3  11.00 F
+2 @ 2 FOR 8.00 HONEYCRISP APPLES  8.00 F
+SMPL TRTH SWEET POTATOES          3.28 F
+SMPL TRTH OAT MLK                 3.10 F
+KRO SILKEN TOFU                   2.29 F
+SMPL TRTH YELLOW ONIN             1.78 F
+SMPL TRTH ROTIS CHKN              5.04 T
+LG EGGS 18 CT                     7.52 F
+
+      **** COUPONS & SAVINGS ****
+SC HEINZ KETCHUP                 0.31-  
+MFR CPN HONEYCRISP APP           1.47-  
+DIGITAL CPN OAT MLK              0.63-  
+MFR CPN SILKEN TOFU              1.15-  
+DIGITAL CPN OAT MLK              0.92-  
+SC HEINZ KETCHUP                 0.39-  
+TOTAL COUPONS                    4.87-  
+        ************************
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           37.30
+TAX 10.55% ON 5.20                  0.55
+TOTAL                              37.85
+VISA TEND                          37.85
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  4.87
+03/04/26 07:03  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

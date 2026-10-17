@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0784  San Francisco CA
+            MEMBER ************
+
+483673 OLD FSHND ROLLED OATS 42 OZ   17.43 E
+5189964 TPD/OLD FSHND RO             0.55-  
+719039 ARGL                           4.00 E
+388369 FRZN PEAS 12 OZ                5.40 E
+1881140 KS ALMOND MLK                 5.08 E
+521020 KS GRND COFFEE                 9.64 E
+  1 @ 0.05
+CA CRV                                0.05  
+672882 RASPBERRIES                    7.24 E
+427154 KS CREMINI MUSHROOMS           1.14 E
+1075375 ORG GALA APPLES               4.71 E
+     3 @ 1.57
+1579347 TPD/ORG GALA APP             1.41-  
+274883 PARMIGIANO REGGIANO            7.82 E
+221983 PORK CHOPS                    25.86 E
+     2.33 lb @ 11.10 /lb
+1037532 KS ROTISSERIE CHICKEN         5.04 A
+
+SUBTOTAL                               91.45
+TAX 8.625% ON 5.04                      0.43
+**** TOTAL                             91.88
+VISA TEND                              91.88
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.96
+09/22/26 17:55  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

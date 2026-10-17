@@ -1,0 +1,27 @@
+                 TARGET
+           Seattle WA  T-0002
+             (555) 030-7043
+
+  3.49 lb @ 1.60 /lb
+JALAPENO                          5.58 N
+LG EGGS 18 CT                     7.52 N
+HANDMADE STYLE CORN TORT          3.55 N
+GG RIBEYE STEAK                  19.87 N
+CAT LITTER                       14.03 T
+GG HALF & HALF                    5.34 N
+GG CRACKERS                       2.00 N
+PAPER PLATES                      3.31 T
+AVOCADOS BAG 4 CT                 3.54 N
+GG TLP FILLETS                   21.66 N
+BLUEBERRIES                       5.87 N
+CHKN DRUMSTICKS                   8.97 N
+
+SUBTOTAL                          101.24
+TAX 10.55% ON 17.34                 1.83
+TOTAL                             103.07
+DEBIT TEND                        103.07
+CHANGE                              0.00
+
+10/16/26 08:47  ITEMS 12
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

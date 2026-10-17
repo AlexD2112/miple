@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 2318
+
+SMPL TRTH ROMA TOM                2.38 F
+  3.80 lb @ 13.74 /lb
+FM CHUCK ROAST                   52.21 F
+FM CHUCK ROAST                   52.21 F
+** VOID ** FM CHUCK ROAST       52.21-  
+RUSSET POTATOES 5 LB BAG          4.53 F
+FM PARMIGIANO REGGIANO            7.82 F
+EXTRA FIRM TOFU                   2.32 F
+CHERRY TOM                        1.15 F
+MAYONNAISE 30 OZ                  6.42 F
+ORG ITALIAN PARSLEY               1.95 F
+RASPBERRIES                       7.24 F
+FM DAVES KILLER BRD               6.69 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           92.95
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              92.98
+CASH TEND                         100.00
+CHANGE                              7.02
+
+09/18/26 20:55  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

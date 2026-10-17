@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1780  San Francisco CA
+            MEMBER ************
+
+  PRICE OVERRIDE  WAS 4.70
+707530 2% MLK 2 X 1 GAL               4.44 E
+85792 KS YUKON GOLD POTS              3.99 E
+648493 TUNA CAN                       1.08 E
+1320654 KS RICOTTA                    8.76 E
+1245066 KS COD FILLET                31.96 E
+     1.76 lb @ 18.16 /lb
+181195 KS ROLLED OATS                 3.98 E
+74271 ORG BLACK BEANS 8 CANS          1.15 E
+1535059 FRZN THREE BERRY BLEND 4 LB   2.56 E
+92564 LACROIX LIME SPARKLING WATER 8  8.80 A
+     4 @ 2.20
+  32 @ 0.05
+CA CRV                                1.60 A
+
+SUBTOTAL                               68.32
+TAX 8.625% ON 10.40                     0.90
+**** TOTAL                             69.22
+DEBIT TEND                             69.22
+CHANGE                                  0.00
+
+07/05/26 21:39  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

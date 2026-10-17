@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 0156
+
+FM FRZN PIZZA                    13.30 F
+LEMONS                            4.19 F
+FM PLUS CARD SAV                 0.37-  
+SRIRACHA                          3.16 F
+ORG RASPB 6 OZ                    6.28 F
+  1.74 lb @ 1.79 /lb
+BEETS                             3.11 F
+  2.39 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                37.19 F
+
+SUBTOTAL                           66.86
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              66.86
+DEBIT TEND                         66.86
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.37
+01/11/26 18:59  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

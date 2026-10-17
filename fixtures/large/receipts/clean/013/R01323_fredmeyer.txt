@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1403
+
+  2.81 lb @ 1.05 /lb
+SMPL TRTH RDSHS                   2.95 F
+BARILLA PENNE                    19.37 F
+  2.29 lb @ 1.60 /lb
+JALAPENO                          3.66 F
+KRO HAND SOAP                    24.27 T
+KRO RICOTTA                       8.76 F
+KRO CHICKEN BROTH CARTON          8.38 F
+FM PLUS CARD SAV                 1.96-  
+ICE CRM                          14.51 F
+
+SUBTOTAL                           79.94
+TAX 10.55% ON 24.27                 2.56
+TOTAL                              82.50
+VISA TEND                          82.50
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.96
+02/17/26 15:31  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

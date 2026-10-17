@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+ Store O793
+
+JSMN RICE 5 LB                    1.49 F
+SMPL TRTH QUINOA                  7.75 F
+SMPL TRTH CORN TORT 2.79 F
+  2.85 lb @ 13.74 /lb
+KRO CHUCK ROAST                  39.l6 F
+YUKON GOLD P0T5                   3.99 F
+DOUBLE CREME BRIE                 5.40 F
+  REFUND - 0RIG RECF1PT
+RETURN DOUBLE CREME BRIE         5.40- F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+5UBTOTAL                           55.42
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              55.45
+GIFT CARD TEND                     27.BG
+VISA TEND                          27.59
+CHANGE                              0.00
+
+04/05/26 14:36  ITEMS 6
+T=TAXABLE F=NONTAXABLE FOOD
+               THANK YOU

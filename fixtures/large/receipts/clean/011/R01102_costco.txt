@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0700  Seattle WA
+            MEMBER ************
+
+135410 KS DRIED LNTLS                 4.26 E
+9517317 TPD/DRIED LNTLS              1.28-  
+1812825 KS RIBEYE STEAK              19.87 E
+1973128 KRRYGLD BTR                  10.81 E
+1982306 OLD FASHIONED ROLLED OATS 4  17.43 E
+1541704 KS PINEAPPLE                  1.99 E
+     1.59 lb @ 1.25 /lb
+
+SUBTOTAL                               53.08
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             53.08
+DEBIT TEND                             53.08
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.28
+02/21/26 11:29  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 1310
+
+FM FRZN PEAS                     13.98 F
+2 @ 2 FOR 9.00 ORG BABY SPNCH     9.00 F
+YELLOW ONIONS                     1.78 F
+KRO CRM CHS                       8.63 F
+  2 @ 5.22
+STRWB 1 LB                       10.44 F
+  3 @ 0.08
+PAPER BAG                         0.24 T
+
+SUBTOTAL                           44.07
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              44.10
+GIFT CARD TEND                      4.37
+DISCOVER TEND                      39.73
+CHANGE                              0.00
+
+07/09/26 18:27  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

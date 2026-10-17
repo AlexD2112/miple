@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 3314
+
+MANDARIN ORANGE CHKN             15.87 F
+DIGITAL CPN                      2.30-  
+BAG FEE                           0.08 T
+
+SUBTOTAL                           13.65
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              13.66
+GIFT CARD TEND                     10.86
+MASTERCARD TEND                     2.80
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.30
+08/27/26 16:00  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

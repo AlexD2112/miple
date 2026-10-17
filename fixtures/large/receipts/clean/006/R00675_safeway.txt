@@ -1,0 +1,27 @@
+                SAFEWAY
+         Store 1804  Seattle WA
+             (555) 010-8906
+
+  4 @ 2.38
+O ORGANICS ROMA TOM               9.52 S
+SIG KTCHNS ROTISSERIE CHICKEN     5.04 T
+SIG KTCHNS DIET COLA 12PK CANS    4.42 T
+SIG KTCHNS DIET COLA 12PK CANS    4.42 T
+** VOID ** SIG KTCHNS DIET CO    4.42-  
+O ORGANICS KALE                   4.17 S
+ORIGINAL HUMMUS 10 OZ             8.88 S
+O ORGANICS AVOCADOS               4.05 S
+GROUND COFFEE                     9.64 S
+  4 @ 1.01
+O ORGANICS NAVEL ORANGES          4.04 S
+3 @ 3 FOR 5.00 SW COLA 12PK       5.00 T
+
+SUBTOTAL                           54.76
+TAX 10.55% ON 14.46                 1.53
+**** TOTAL                         56.29
+DEBIT TEND                         56.29
+CHANGE                              0.00
+
+07/13/26 08:32  ITEMS 17
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

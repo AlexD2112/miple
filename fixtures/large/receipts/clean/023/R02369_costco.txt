@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0909  Seattle WA
+            MEMBER ************
+
+1271105 UNXPCTD CHDR                 13.49 E
+     0.75 lb @ 17.98 /lb
+2304717 TPD/UNXPCTD CHDR             1.96-  
+533144 REDUCED FAT 2% MLK GALLON      6.54 E
+522924 ZIP TOP BAGS                  24.79 A
+1277440 TILLAMOOK ICE CRM 48 OZ       8.88 E
+9681859 TPD/TILLAMOOK IC             2.11-  
+825461 BNLS SKNLS CHKN BRST          18.93 E
+     2.83 lb @ 6.69 /lb
+99023 ORG LEMONS                      5.35 E
+     1.89 lb @ 2.83 /lb
+476332 ORG LEMONS                     4.25 E
+     1.50 lb @ 2.83 /lb
+1998647 KS BLUEBERRIES                5.87 E
+
+SUBTOTAL                               84.03
+TAX 10.55% ON 24.79                     2.62
+**** TOTAL                             86.65
+VISA TEND                              86.65
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      4.07
+03/18/26 15:50  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

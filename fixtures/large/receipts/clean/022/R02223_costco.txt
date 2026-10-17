@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0696  Seattle WA
+            MEMBER ************
+
+215004 ORG BABY SPNCH                 5.54 E
+516343 KS WHOLE WHEAT SANDWICH BREAD  2.54 E
+
+SUBTOTAL                                8.08
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              8.08
+AMEX TEND                               8.08
+CHANGE                                  0.00
+
+08/07/26 08:00  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

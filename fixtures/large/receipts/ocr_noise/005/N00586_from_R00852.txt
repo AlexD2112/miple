@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2670  Portland OR
+            MEMBER ************
+
+1460988 KS ALUMINUM FOIL             18.03 E
+672018 BOTTLED WATER 40 PK            7.35 E
+     3 @ 2.45
+  120 @ 0.10
+OR BTL DEP                           12.00  
+l495446 KS CHKN THI6HS 9.29 E
+387020 ORG TOMATO BASIL MRNR          5.94 E
+445305 BR1E                           4.85 E
+1776786 KS FRZN PIZZA                13.30 E
+1776786 KS FRZN PIZZA                13.30 E
+** VOID ** 1776786 KS FRZN PI       13.30-  
+l50501G KS LAMB CHOPS                3l.92 E
+     1.87 lb @ 17.07 /1b
+1634160 TILLAMOOK MEDIUM CHDR 2.5 LB  4.21 E
+623833 ORANGE JUICE                   7.69 E
+  1 @ 0.10
+OR BTL DEP 0.10  
+996814 TILLAMOOK VANILLA YOGURT       4.05 E
+
+SUBTOTAL                              118.73
+TAX                                     0.00
+**** TOTAL                            118.73
+DEBIT TEND                            118.73
+CHAN6E                                  0.O0
+
+05/08/26 09:24  ITEM5 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

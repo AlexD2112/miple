@@ -1,0 +1,28 @@
+               FRED MEYER
+              Portland OR
+               Store 2378
+
+  PRICE OVERRIDE  WAS 7.83
+ORG EGGS 24 CT                    7.49 F
+  0.26 lb @ 17.98 /lb
+UNEXPECTED CHDR                   4.67 F
+  1.65 lb @ 2.83 /lb
+ORG LEMONS                        4.67 F
+  4 @ 1.49
+ORG BASIL CLAMSHELL               5.96 F
+  5.52 lb @ 6.33 /lb
+KRO WHL CHKN                     34.94 F
+KRO SAVINGS                      2.40-  
+  3 @ 0.05
+PAPER BAG                         0.15  
+
+SUBTOTAL                           55.48
+TAX                                 0.00
+TOTAL                              55.48
+AMEX TEND                          55.48
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.40
+08/19/26 16:05  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

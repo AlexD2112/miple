@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 3947
+
+  PRICE OVERRIDE  WAS 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS    2.26 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+  0.72 lb @ 9.25 /lb
+KRO SWISS CHS                     6.66 F
+QUINOA                            7.75 F
+  2.48 lb @ 1.33 /lb
+ORGANIC HONEYCRISP APPLES         3.30 F
+KRO VAN YGRT CUPS                 5.39 F
+SMPL TRTH APPLE JUICE 64OZ        7.25 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+BAG FEE                           0.05  
+
+SUBTOTAL                           43.08
+TAX                                 0.00
+TOTAL                              43.08
+DEBIT TEND                         43.08
+CHANGE                              0.00
+
+09/15/26 17:55  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

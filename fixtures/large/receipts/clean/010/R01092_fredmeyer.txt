@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 0914
+
+KRO ATLANTIC SLMN FLLT           19.77 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+FM ROOT BEER 2L                   5.24 T
+KRO SAVINGS                      0.59- T
+CRM CHS 8 OZ                      3.15 F
+HNYCRSP APPLES                    4.67 F
+  2 @ 0.90
+FRESH DILL                        1.80 F
+  3.97 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                7.78 F
+SMPL TRTH SLICED ROAST BEEF       5.94 F
+FM SILKEN TOFU                    2.29 F
+ORG SPRING MIX 1 LB               5.49 F
+  2 @ 4.05
+SMPL TRTH AVOCADOS                8.10 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           72.79
+TAX 10.55% ON 13.80                 1.46
+TOTAL                              74.25
+MASTERCARD TEND                    74.25
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.59
+09/17/26 07:29  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

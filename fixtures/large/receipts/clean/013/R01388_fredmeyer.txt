@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 0427
+
+  2 @ 5.11
+SMPL TRTH ICEBERG LETTUCE        10.22 F
+ICE CRM                          14.51 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           25.05
+TAX 10.55% ON 0.32                  0.03
+TOTAL                              25.08
+MASTERCARD TEND                    25.08
+CHANGE                              0.00
+
+04/16/26 18:54  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

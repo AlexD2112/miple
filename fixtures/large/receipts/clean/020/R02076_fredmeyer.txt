@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 0295
+
+SMPL TRTH KALE                    4.17 F
+PEPSI 12 PACK CANS                4.93 T
+KRO GREETING CARD                20.34 T
+FRZN BROC FLORETS                 8.13 F
+WHITE SANDWICH BREAD              7.03 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+WHITE SANDWICH BREAD              7.03 F
+KRO SAVINGS                      1.75-  
+  REFUND - ORIG RECEIPT
+RETURN FRZN BROC FLORETS         8.13- F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           50.47
+TAX 10.55% ON 25.51                 2.69
+TOTAL                              53.16
+VISA TEND                          53.16
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.75
+06/03/26 12:16  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

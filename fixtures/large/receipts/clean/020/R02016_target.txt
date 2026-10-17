@@ -1,0 +1,16 @@
+                 TARGET
+        San Francisco CA  T-2628
+             (555) 030-3506
+
+GG SWEET POTATOES                 3.28 N
+MKT PANTRY PENNE                 13.38 N
+
+SUBTOTAL                           16.66
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              16.66
+VISA TEND                          16.66
+CHANGE                              0.00
+
+01/16/26 17:30  ITEMS 2
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

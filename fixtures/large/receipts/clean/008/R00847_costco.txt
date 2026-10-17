@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0153  Portland OR
+            MEMBER ************
+
+1860787 PARMIGIANO REGGIANO           7.82 E
+655678 CHKN BROTH 32 OZ               2.81 E
+147182 PLASTIC WRAP                   4.77 E
+776768 KS VAN YGRT CUPS              10.78 E
+     2 @ 5.39
+1024849 YELLOW ONIN                   1.78 E
+
+SUBTOTAL                               27.96
+TAX                                     0.00
+**** TOTAL                             27.96
+VISA TEND                              27.96
+CHANGE                                  0.00
+
+07/24/26 19:54  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

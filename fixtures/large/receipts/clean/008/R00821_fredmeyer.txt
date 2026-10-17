@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 3736
+
+SMPL TRTH ARUGULA                 4.00 F
+  0.62 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        1.44 F
+MANDARIN ORANGE CHKN             15.87 F
+  4 @ 1.83
+COLA 12PK                         7.32 T
+  6.21 lb @ 6.33 /lb
+WHL CHKN                         39.31 F
+SWISS CHARD                       2.87 F
+GREEK YOGURT 48 OZ                1.97 F
+FM FLOUR TORT                     6.18 F
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           79.04
+TAX 10.55% ON 7.40                  0.78
+TOTAL                              79.82
+GIFT CARD TEND                     61.09
+AMEX TEND                          18.73
+CHANGE                              0.00
+
+10/08/26 16:34  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

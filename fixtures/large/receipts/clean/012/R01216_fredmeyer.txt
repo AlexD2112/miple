@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 2697
+
+LG EGGS 18 CT                     7.52 F
+SMPL TRTH BAGGED CAESAR
+SALAD KIT                         2.21 F
+  2.70 lb @ 1.79 /lb
+SMPL TRTH BEETS                   4.83 F
+SMPL TRTH FRZN PEAS              13.98 F
+FM FLOUR TORT                     6.18 F
+CHERRY TOM                        1.15 F
+PAPER BAG                         0.05  
+
+SUBTOTAL                           35.92
+TAX                                 0.00
+TOTAL                              35.92
+CASH TEND                          40.00
+CHANGE                              4.08
+
+08/17/26 20:40  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3296  Seattle WA
+            MEMBER ************
+
+892002 KS MANDARINS                   5.44 E
+     2 @ 2.72
+326378 KS UNSLTD BTR                  9.95 E
+624657 KS PORK TENDERLOIN            30.20 E
+     3.13 lb @ 9.65 /lb
+1118322 JALAPENO                      6.26 E
+     3.91 lb @ 1.60 /lb
+941384 ORG CARROTS BUNCH              4.63 E
+1008447 ORIGINAL HUMMUS 10 OZ         8.88 E
+242373 KS GINGER ALE 12PK             6.02 A
+8490 BNLS PORK LOIN CHOPS            11.82 E
+     1.19 lb @ 9.93 /lb
+
+SUBTOTAL                               83.20
+TAX 10.55% ON 6.02                      0.64
+**** TOTAL                             83.84
+DISCOVER TEND                          83.84
+CHANGE                                  0.00
+
+09/27/26 10:07  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

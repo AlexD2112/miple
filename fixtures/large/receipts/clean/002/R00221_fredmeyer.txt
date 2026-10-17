@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1990
+
+ORGANIC BLACK BEANS 8 CANS        1.15 F
+DAVES KILLER BREAD                6.69 F
+3 @ 3 FOR 4.00 JASMINE RICE 5 LB  4.00 F
+  3.01 lb @ 3.76 /lb
+CAULIFLOWER                      11.32 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+  2.03 lb @ 0.76 /lb
+SMPL TRTH MANGO                   1.54 F
+JASMINE RICE 25 LB                8.09 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           41.99
+TAX 10.55% ON 0.32                  0.03
+TOTAL                              42.02
+MASTERCARD TEND                    42.02
+CHANGE                              0.00
+
+10/05/26 09:07  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

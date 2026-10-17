@@ -1,0 +1,20 @@
+              TRADER JOE'S
+        Store #0280  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+SOURDOUGH LOAF                    7.47  
+CHOBANI PLAIN GRK YGRT 32 OZ      1.47  
+DISH SOAP                        19.39 T
+SPARKLING WATER                   3.74  
+OAT MILK                          3.10  
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           35.25
+TAX 10.55% ON 19.47                 2.05
+TOTAL                              37.30
+DEBIT TEND                         37.30
+CHANGE                              0.00
+
+05/03/26 08:37  ITEMS 5
+T=TAXABLE
+               THANK YOU

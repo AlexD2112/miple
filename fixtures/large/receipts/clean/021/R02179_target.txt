@@ -1,0 +1,18 @@
+                 TARGET
+           Seattle WA  T-1461
+             (555) 030-0810
+
+  4 @ 4.43
+GG COLD BREW COFFEE 32OZ         17.72 N
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           26.63
+TAX 10.55% ON 8.91                  0.94
+TOTAL                              27.57
+MASTERCARD TEND                    27.57
+CHANGE                              0.00
+
+09/23/26 21:52  ITEMS 5
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

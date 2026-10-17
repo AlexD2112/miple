@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 3034
+
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+FRZN WAFFLES                      7.05 F
+FRZN WAFFLES                      7.05 F
+** VOID ** FRZN WAFFLES          7.05-  
+FM QUINOA                         7.75 F
+KRO SAVINGS                      1.32-  
+KRO PAPER TOWELS 6 ROLL           3.75 T
+KRO KETCHUP                       5.49 F
+  1.25 lb @ 1.25 /lb
+SMPL TRTH PINEAPPLE               1.56 F
+  4 @ 4.74
+SLCD SOURDOUGH PAN LOAF          18.96 F
+BANANA                            2.37 F
+  2.88 lb @ 3.34 /lb
+HASS AVOCADO LG                   9.62 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           59.52
+TAX 10.55% ON 3.83                  0.40
+TOTAL                              59.92
+GIFT CARD TEND                     34.32
+MASTERCARD TEND                    25.60
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.32
+02/03/26 10:12  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

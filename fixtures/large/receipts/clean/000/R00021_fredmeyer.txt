@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 0049
+
+  1.42 lb @ 9.25 /lb
+SWISS CHS                        13.14 F
+FM PLUS CARD SAV                 0.73-  
+  PRICE OVERRIDE  WAS 5.79
+LEMONADE 52OZ                     3.64 T
+JASMINE RICE 25 LB                8.09 F
+FLOUR TORT                        6.18 F
+ORG ITALIAN PARSLEY               1.95 F
+  4 @ 0.08
+PAPER BAG                         0.32 T
+
+SUBTOTAL                           32.59
+TAX 10.55% ON 3.96                  0.42
+TOTAL                              33.01
+GIFT CARD TEND                     30.45
+DISCOVER TEND                       2.56
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.73
+01/06/26 19:12  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

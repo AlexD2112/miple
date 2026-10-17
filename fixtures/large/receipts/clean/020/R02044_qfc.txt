@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2781
+
+  3.56 lb @ 13.74 /lb
+CHUCK ROAST                      48.91 F
+  PRICE OVERRIDE  WAS 10.81
+SMPL TRTH KRRYGLD BTR             8.29 F
+  2.10 lb @ 9.65 /lb
+KRO PORK TENDERLOIN              20.27 F
+  1.25 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              13.74 F
+PENNE 16 OZ                       3.51 F
+DICED TOM 14.5 OZ                 1.00 F
+KRO BATH TISSUE 12 ROLL          23.08 T
+
+SUBTOTAL                          118.80
+TAX 10.55% ON 23.08                 2.43
+TOTAL                             121.23
+MASTERCARD TEND                   121.23
+CHANGE                              0.00
+
+01/11/26 21:24  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

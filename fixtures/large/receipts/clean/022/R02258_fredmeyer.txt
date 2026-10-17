@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 2434
+
+SMPL TRTH FRZN MIXED
+BERRIES                           2.06 F
+  1.06 lb @ 10.99 /lb
+DELI SLICED TURKEY BREAST        11.65 F
+  0.81 lb @ 13.18 /lb
+SLCD TRKY BRST                   10.68 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           24.63
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              24.66
+VISA TEND                          24.66
+CHANGE                              0.00
+
+08/05/26 14:22  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

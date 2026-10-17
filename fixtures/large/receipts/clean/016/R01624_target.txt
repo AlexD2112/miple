@@ -1,0 +1,16 @@
+                 TARGET
+           Seattle WA  T-2751
+             (555) 030-6898
+
+2% MILK 2 X 1 GAL                 4.70 N
+BAG FEE                           0.08 T
+
+SUBTOTAL                            4.78
+TAX 10.55% ON 0.08                  0.01
+TOTAL                               4.79
+AMEX TEND                           4.79
+CHANGE                              0.00
+
+04/18/26 19:19  ITEMS 1
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 2057
+
+  3 @ 3.74
+FM SPRKLG WTR                    11.22 F
+LIGHT BULBS 4PK                  17.04 T
+KRO ZIP TOP BAGS                 24.79 T
+AA BATTERIES 8PK                 24.36 T
+LG BROWN CAGE FREE EGGS           4.10 F
+ORG CARROTS BUNCH                 4.63 F
+
+SUBTOTAL                           86.14
+TAX 10.55% ON 66.19                 6.98
+TOTAL                              93.12
+VISA TEND                          93.12
+CHANGE                              0.00
+
+02/23/26 08:14  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

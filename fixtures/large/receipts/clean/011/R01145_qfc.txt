@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2931
+
+WHITE BRD                         6.34 F
+  1.87 lb @ 2.08 /lb
+KIWI                              3.89 F
+BANANA                            2.37 F
+KRO DIET COLA 12PK CANS           4.42 T
+CELERY                            4.32 F
+  1.03 lb @ 1.79 /lb
+BEETS                             1.84 F
+KRO HALIBUT                      10.82 F
+SLTD BTR 4 STICKS                 9.37 F
+
+SUBTOTAL                           43.37
+TAX 10.55% ON 4.42                  0.47
+TOTAL                              43.84
+DEBIT TEND                         43.84
+CHANGE                              0.00
+
+02/05/26 13:16  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

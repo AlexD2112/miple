@@ -1,0 +1,15 @@
+               FRED MEYER
+               Seattle WA
+               Store 1748
+
+2 @ 2 FOR 4.00 ROMA TOM           4.00 F
+
+SUBTOTAL                            4.00
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               4.00
+VISA TEND                           4.00
+CHANGE                              0.00
+
+08/19/26 15:36  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

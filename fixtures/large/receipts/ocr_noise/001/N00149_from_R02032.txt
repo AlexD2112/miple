@@ -1,0 +1,23 @@
+               FRED MEYER
+                5eatt1e WA
+               Store 2143
+
+3 @ 3 FOR 10.00 AVOCADOS         10.00   F
+L1MES                             2.80 F
+LG EGGS 12 CT                     8.69 F
+  0.41 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                0.55 F
+CHKN GYOZA PTSTCKRS               9.88 F
+KRO COLA 12PK                     1.83 T
+  4 @ O.0B
+PAPER BAG                         0.32 T
+
+SU8TOTAL                           34.07
+TAX 10.55% ON 2.15                  0.23
+T0TAL                              34.3O
+DISCOVER TEND                      34.30
+CHANGE                              0.0O
+
+09/Z3/26 14:15  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0267  Seattle WA
+            MEMBER ************
+
+1594099 KS ICE CREAM                 14.51 E
+674431 BARILLA PENNE                 19.37 E
+519915 OLD FASHIONED ROLLED OATS 42  17.43 E
+294605 FLOUR TORT                     6.18 E
+700996 ZUCCHINI                       8.15 E
+     2.19 lb @ 3.72 /lb
+197487 FLOUR TORT                     6.18 E
+1989604 KS BLUBRY                     5.87 E
+214537 TTHPST                        16.40 A
+1948476 AVOCADOS BAG 4 CT             7.08 E
+     2 @ 3.54
+335148 KS BROC CROWNS                 9.00 E
+     4 @ 2.25
+
+SUBTOTAL                              110.17
+TAX 10.55% ON 16.40                     1.73
+**** TOTAL                            111.90
+AMEX TEND                             111.90
+CHANGE                                  0.00
+
+08/02/26 14:45  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

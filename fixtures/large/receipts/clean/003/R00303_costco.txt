@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1024  Seattle WA
+            MEMBER ************
+
+276610 KS PENNE                      13.38 E
+612373 STRWB 2 LB                    11.76 E
+     2 @ 5.88
+
+SUBTOTAL                               25.14
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             25.14
+MASTERCARD TEND                        25.14
+CHANGE                                  0.00
+
+03/15/26 10:28  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

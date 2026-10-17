@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0112  Seattle WA
+            MEMBER ************
+
+1846927 RDSHS                         3.64 E
+     3.47 lb @ 1.05 /lb
+1221376 TPD/RDSHS                    0.51-  
+1970102 DARK CHOCOLATE PEANUT BUTTER  5.61 E
+439201 KS GENOA SALAMI                4.76 E
+928444 HANDMADE STYLE CORN TORTILLAS  3.55 E
+1197941 LIGHT BULBS 4PK              17.04 A
+1062001 GRND PORK                     6.60 E
+0939382 TPD/GRND PORK                1.36-  
+1705751 AVOCADOS                      4.05 E
+1276786 KS GOAT CHS                   8.35 E
+218711 LG BROWN EGGS                  4.29 E
+5049251 TPD/LG BROWN EGG             1.29-  
+
+SUBTOTAL                               54.73
+TAX 10.55% ON 17.04                     1.80
+**** TOTAL                             56.53
+VISA TEND                              56.53
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      3.16
+05/13/26 16:17  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

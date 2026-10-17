@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 3984
+
+  PRICE OVERRIDE  WAS 3.77
+KRO BAGELS                        3.11 F
+MFR CPN                          0.93-  
+ORG SPRING MIX 1 LB               5.49 F
+  2 @ 1.49
+ORG BASIL CLAMSHELL               2.98 F
+KRO SLTD BTR                      5.73 F
+BLACK FOREST HAM 9 OZ             7.00 F
+
+SUBTOTAL                           23.38
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              23.38
+MASTERCARD TEND                    23.38
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.93
+09/25/26 12:47  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

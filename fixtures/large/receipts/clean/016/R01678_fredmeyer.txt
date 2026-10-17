@@ -1,0 +1,35 @@
+               FRED MEYER
+              Portland OR
+               Store 0928
+
+SMPL TRTH ARGL                    4.00 F
+  2 @ 5.49
+KRO KTCHP                        10.98 F
+DIGITAL CPN                      1.57-  
+  5.79 lb @ 6.69 /lb
+KRO BNLS SKNLS CHKN BRST         38.74 F
+PLAIN GOAT CHEESE                 5.77 F
+DIGITAL CPN                      1.03-  
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+MFR CPN                          0.53-  
+KRO PAPER TOWELS 6 ROLL           3.75 F
+  3 @ 2.20
+LACROIX LIME SPRKLG WTR 8 PK      6.60 F
+  24 @ 0.10
+OR BTL DEP                        2.40  
+  3.68 lb @ 2.43 /lb
+PARSNIPS                          8.94 F
+ORG EGGS 24 CT                    7.83 F
+  3 @ 2.80
+LIMES                             8.40 F
+
+SUBTOTAL                           99.06
+TAX                                 0.00
+TOTAL                              99.06
+DISCOVER TEND                      99.06
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  3.13
+06/06/26 17:57  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

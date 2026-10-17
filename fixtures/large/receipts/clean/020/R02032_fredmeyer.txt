@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 2143
+
+3 @ 3 FOR 10.00 AVOCADOS         10.00 F
+LIMES                             2.80 F
+LG EGGS 12 CT                     8.69 F
+  0.41 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                0.55 F
+CHKN GYOZA PTSTCKRS               9.88 F
+KRO COLA 12PK                     1.83 T
+  4 @ 0.08
+PAPER BAG                         0.32 T
+
+SUBTOTAL                           34.07
+TAX 10.55% ON 2.15                  0.23
+TOTAL                              34.30
+DISCOVER TEND                      34.30
+CHANGE                              0.00
+
+09/23/26 14:15  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

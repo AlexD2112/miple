@@ -1,0 +1,32 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2810
+
+  4 @ 3.92
+BLACKBERRIES                     15.68 F
+  PRICE OVERRIDE  WAS 11.36
+PRIV SEL ALL PURPOSE FLOUR       10.40 F
+MFR CPN                          1.13-  
+  1.30 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 3.77 F
+  0.58 lb @ 1.60 /lb
+JALAPENO                          0.93 F
+PRIV SEL HALIBUT                 10.82 F
+ORG SPRING MIX 1 LB               5.49 F
+MFR CPN                          0.30-  
+  2.60 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                3.85 F
+  0.95 lb @ 1.25 /lb
+PNPPL                             1.19 F
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           50.78
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              50.79
+DEBIT TEND                         50.79
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.43
+06/20/26 12:01  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

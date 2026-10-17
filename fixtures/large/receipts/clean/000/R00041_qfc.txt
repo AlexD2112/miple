@@ -1,0 +1,16 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0788
+
+DOUBLE CREME BRIE                 5.40 F
+PRIV SEL ATLANTIC SLMN FLLT      19.77 F
+
+SUBTOTAL                           25.17
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              25.17
+VISA TEND                          25.17
+CHANGE                              0.00
+
+03/28/26 16:40  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

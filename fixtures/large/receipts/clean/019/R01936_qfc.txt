@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0046
+
+SMPL TRTH CHRRS                   5.69 F
+SMPL TRTH POTATO CHIPS            5.07 F
+SMPL TRTH UNSLTD BTR              9.95 F
+MFR CPN                          2.72-  
+KRO QUINOA                        7.75 F
+GENOA SALAMI                      4.76 F
+
+SUBTOTAL                           30.50
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              30.50
+DEBIT TEND                         30.50
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.72
+08/27/26 12:27  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

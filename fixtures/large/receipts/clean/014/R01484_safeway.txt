@@ -1,0 +1,27 @@
+                SAFEWAY
+      Store 1942  San Francisco CA
+             (555) 010-5990
+
+ORG GALA APPLES                   1.57 S
+J4U DIGITAL CPN                  0.47-  
+SIG KTCHNS BLACK BEANS CAN        8.77 S
+  0.94 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                14.63 S
+  4 @ 4.35
+STRWB                            17.40 S
+3 @ 3 FOR 7.00 SW HAMBURGER BUNS  7.00 S
+O ORGANICS AVCDS                  4.05 S
+JNN- GRND TRKY 1 LB               6.60 S
+JNN- GRND TRKY 1 LB               6.60 S
+** VOID ** JNN- GRND TRKY 1 L    6.60-  
+
+SUBTOTAL                           59.55
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         59.55
+VISA TEND                          59.55
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.47
+02/18/26 09:12  ITEMS 12
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

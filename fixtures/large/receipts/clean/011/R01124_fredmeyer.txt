@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 3414
+
+  3.78 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               14.06 F
+SMPL TRTH ZUCCHINI               14.06 F
+** VOID ** SMPL TRTH ZUCCHINI   14.06-  
+  2 @ 2.74
+SMPL TRTH FRESH BASIL             5.48 F
+  4 @ 2.77
+COCA-COLA 12 PACK CANS           11.08 T
+ASPRGS                            2.93 F
+KRO COLA 12PK CANS                1.51 T
+DARK CHOC PNT BTR CUPS            5.61 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+
+SUBTOTAL                           50.15
+TAX 10.55% ON 12.59                 1.33
+TOTAL                              51.48
+CASH TEND                          60.00
+CHANGE                              8.52
+
+02/27/26 07:05  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

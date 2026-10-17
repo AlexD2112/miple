@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3500
+
+PRIV SEL GRND PORK                6.60 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                            6.92
+TAX 10.55% ON 0.32                  0.03
+TOTAL                               6.95
+GIFT CARD TEND                      5.34
+DEBIT TEND                          1.61
+CHANGE                              0.00
+
+08/27/26 11:15  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

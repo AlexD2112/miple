@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0293  Seattle WA
+            MEMBER ************
+
+261392 KS ATLNTC SLMN FLLT           19.77 E
+
+SUBTOTAL                               19.77
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             19.77
+CASH TEND                              16.00
+DISCOVER TEND                           3.77
+CHANGE                                  0.00
+
+02/08/26 21:09  ITEMS 1
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

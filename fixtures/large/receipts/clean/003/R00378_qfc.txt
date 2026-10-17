@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3791
+
+KRO UNSLTD BTR                    9.95 F
+  REFUND - ORIG RECEIPT
+RETURN KRO UNSLTD BTR            9.95- F
+PAPER BAG                         0.08 T
+
+SUBTOTAL                            0.08
+TAX 10.55% ON 0.08                  0.01
+TOTAL                               0.09
+AMEX TEND                           0.09
+CHANGE                              0.00
+
+03/15/26 15:12  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

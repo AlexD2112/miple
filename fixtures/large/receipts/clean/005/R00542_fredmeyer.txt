@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1428
+
+ORG CRRTS BUNCH                   4.63 F
+KRO SAVINGS                      1.39-  
+BANANA                            2.37 F
+BABY CARROTS                      2.49 F
+DIGITAL CPN                      0.36-  
+KRO PLSTC WRAP                    4.77 T
+  3.60 lb @ 6.00 /lb
+GRND BF 88/12                    21.60 F
+KRO WHL MLK HALF GALLON           6.79 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+
+SUBTOTAL                           49.73
+TAX 10.55% ON 13.60                 1.43
+TOTAL                              51.16
+VISA TEND                          51.16
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.75
+04/24/26 13:13  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

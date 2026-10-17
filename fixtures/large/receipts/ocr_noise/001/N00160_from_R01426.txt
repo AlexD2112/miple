@@ -1,0 +1,19 @@
+                FRED MEYER
+               5eatt1e WA
+               Store 0547
+
+KRO GRND BF 80/20                 6.57 F
+CABOT SHRP CHDR 8 OZ 8.48 F
+SMPL TRTH BLCKBRRS                3.92 F
+   CHKN BROTH 32 OZ                  2.81 F
+KRO APPLE JUICE 64OZ              7.25 F
+
+SUBTOTAL                           29.03
+TAX 10.55% ON 0.00                  0.00
+T0TAL                              Z9.O3
+VISA TEND                          29.03
+CHANGE                              0.00
+
+07/16/26 17:46  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK Y0U

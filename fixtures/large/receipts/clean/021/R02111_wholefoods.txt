@@ -1,0 +1,15 @@
+           WHOLE FOODS MARKET
+              Portland OR
+             (555) 020-1240
+
+365 ORG STRWB                     4.35 F
+
+SUBTOTAL                            4.35
+TAX                                 0.00
+TOTAL                               4.35
+DEBIT TEND                          4.35
+CHANGE                              0.00
+
+01/28/26 14:13  ITEMS 1
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

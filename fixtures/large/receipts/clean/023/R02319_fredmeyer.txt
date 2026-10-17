@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 2477
+
+SMPL TRTH BARTLETT PEARS          3.00 F
+CARROTS                           1.79 F
+  1.82 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                28.32 F
+  1.52 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                2.43 F
+MFR CPN                          0.35-  
+3 @ 3 FOR 6.00 ROMA TOM           6.00 F
+SMPL TRTH DIJON MUSTARD           2.46 F
+DICED TOMATOES CAN                2.98 F
+FM PLUS CARD SAV                 0.87-  
+KRO DOG TREATS                    6.82 T
+FM KERRYGOLD BUTTER              10.81 F
+SPRKLG WTR 8PK                    5.13 F
+MFR CPN                          1.54-  
+
+SUBTOTAL                           66.98
+TAX 10.55% ON 6.82                  0.72
+TOTAL                              67.70
+MASTERCARD TEND                    67.70
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.76
+07/08/26 18:09  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

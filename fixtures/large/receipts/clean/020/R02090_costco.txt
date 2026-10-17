@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #3986  San Francisco CA
+            MEMBER ************
+
+271053 LAUNDRY DETERGENT PODS        20.18 A
+608685 KS HALF & HALF                 5.34 E
+805347 KS SPRKLG WTR                  7.48 A
+     2 @ 3.74
+  2 @ 0.05
+CA CRV                                0.10 A
+241932 SALTED BUTTER 4 STICKS         9.37 E
+1122826 2% MLK HALF GALLON            6.08 E
+1225622 RUSSET POTATOES 5 LB BAG      4.53 E
+1797895 KS PREPARED MAC AND CHEESE   10.62 E
+74951 KS ARUGULA                     16.00 E
+     4 @ 4.00
+916482 PEPSI 12 PK CANS               4.93 A
+  1 @ 0.05
+CA CRV                                0.05 A
+597242 FROZEN DUMPLINGS              15.61 E
+
+SUBTOTAL                              100.29
+TAX 8.625% ON 32.74                     2.82
+**** TOTAL                            103.11
+AMEX TEND                             103.11
+CHANGE                                  0.00
+
+02/24/26 17:33  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

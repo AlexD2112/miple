@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3404  Seattle WA
+            MEMBER ************
+
+1691425 CROISSANTS 12 CT              4.87 E
+973209 SLCD SOURDOUGH PAN LOAF        4.74 E
+782445 HUY FONG SRRCH                 2.55 E
+782445 HUY FONG SRRCH                 2.55 E
+** VOID ** 782445 HUY FONG SR        2.55-  
+1691691 KS FLOUR TORT                 6.18 E
+1976521 ORGANIC SPROUTED TOFU         2.61 E
+969585 KS CHUCK ROAST                24.32 E
+     1.77 lb @ 13.74 /lb
+1809049 BLACK BEANS 15 OZ CAN        10.76 E
+1631588 KS KETCHUP                    5.49 E
+589714 HALF & HALF                    5.34 E
+
+SUBTOTAL                               66.86
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             66.86
+DEBIT TEND                             66.86
+CHANGE                                  0.00
+
+02/10/26 10:26  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

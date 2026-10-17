@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 3895
+
+UNSLTD BTR 4 X 1 LB               9.48 F
+YELLOW ONIN                       1.78 F
+BLUBRY 18 OZ                      4.61 F
+CAULIFLOWER GNOCCHI               7.85 F
+
+SUBTOTAL                           23.72
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              23.72
+CASH TEND                          40.00
+CHANGE                             16.28
+
+09/17/26 14:48  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

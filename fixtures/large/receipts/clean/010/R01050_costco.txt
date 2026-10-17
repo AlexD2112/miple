@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2329  Seattle WA
+            MEMBER ************
+
+390957 KS RANCH DRESSING              3.99 E
+313683 KS LIGHT BULBS 4PK            17.04 A
+197454 CHKN BROTH 32 OZ               2.81 E
+
+SUBTOTAL                               23.84
+TAX 10.55% ON 17.04                     1.80
+**** TOTAL                             25.64
+MASTERCARD TEND                        25.64
+CHANGE                                  0.00
+
+07/09/26 10:46  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

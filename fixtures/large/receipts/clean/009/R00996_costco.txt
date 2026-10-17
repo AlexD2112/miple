@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3932  Seattle WA
+            MEMBER ************
+
+224364 FOSTER FARMS BNLS SKNLS CHKN  28.12 E
+     3.68 lb @ 7.64 /lb
+1730170 FRZN BROC FLORETS             8.13 E
+
+SUBTOTAL                               36.25
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             36.25
+VISA TEND                              36.25
+CHANGE                                  0.00
+
+04/07/26 21:50  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

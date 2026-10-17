@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 0852
+
+FROZEN THREE BERRY
+BLEND 4 LB                        2.56 F
+FM PLUS CARD SAV                 0.77-  
+SMPL TRTH CHKN DRUMSTICKS         8.97 F
+KRO ALMNM FOIL                   18.03 T
+LIMES                             2.80 F
+LMND 52OZ                         5.79 T
+KRO SOY SAUCE                     6.79 F
+KRO SAVINGS                      1.00-  
+TOSTITOS SCOOPS
+TORTILLA CHIPS                    3.46 F
+
+SUBTOTAL                           46.63
+TAX 10.55% ON 23.82                 2.51
+TOTAL                              49.14
+DEBIT TEND                         49.14
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.77
+03/09/26 18:52  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

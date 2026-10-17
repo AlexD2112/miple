@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 1185
+
+KRO CEREAL                        6.63 F
+  4 @ 2.74
+FRESH BASIL                      10.96 F
+  4 @ 1.97
+GREEK YOGURT 48 OZ                7.88 F
+  4 @ 2.20
+LCRX LIME SPRKLG WTR 8 PK         8.80 F
+  32 @ 0.10
+OR BTL DEP                        3.20  
+DICED TOM 14.5 OZ                 1.00 F
+FM BAGELS                         3.77 F
+  3 @ 0.05
+PAPER BAG                         0.15  
+
+SUBTOTAL                           42.39
+TAX                                 0.00
+TOTAL                              42.39
+MASTERCARD TEND                    42.39
+CHANGE                              0.00
+
+07/31/26 21:57  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

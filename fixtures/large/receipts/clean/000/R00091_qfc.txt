@@ -1,0 +1,32 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2255
+
+  1.38 lb @ 2.08 /lb
+SMPL TRTH KIWI                    2.87 F
+CILANTRO BUNCH                    2.02 F
+2 @ 2 FOR 8.00 HEINZ KETCHUP 32   8.00 F
+KRO ICE CRM                      14.51 F
+KRO LG BROWN EGGS                 4.29 F
+  3.19 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             7.34 F
+PRIV SEL CHKN BROTH CARTON        8.38 F
+CHBN PLAIN GRK YGRT 32 OZ         1.47 F
+KRO BOTTLED WATER 24PK            9.32 F
+CELERY HEARTS                     4.34 F
+POTATO CHIPS                      5.07 F
+SLCD SOURDOUGH PAN LOAF           4.74 F
+CELERY                            4.32 F
+KRO OAT MLK                       3.10 F
+PAPER BAG                         0.08 T
+
+SUBTOTAL                           79.85
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              79.86
+GIFT CARD TEND                      5.09
+VISA TEND                          74.77
+CHANGE                              0.00
+
+10/15/26 21:54  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

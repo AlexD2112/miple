@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 1249
+
+  1.29 lb @ 17.98 /lb
+UNXPCTD CHDR                     23.19 F
+BLACK BEANS 15 OZ CAN            10.76 F
+SMPL TRTH SPAGHETTI               9.54 F
+  3.54 lb @ 2.83 /lb
+ORG LEMONS                       10.02 F
+AVOCADOS BAG 4 CT                 3.54 F
+FLOUR TORT 10 CT                  2.35 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+CELERY                            4.32 F
+  4 @ 4.67
+SMPL TRTH HNYCRSP APPLES         18.68 F
+DIGITAL CPN                      2.60-  
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           88.92
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              88.95
+VISA TEND                          88.95
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.60
+01/15/26 15:25  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

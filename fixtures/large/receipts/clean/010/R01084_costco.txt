@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0858  Seattle WA
+            MEMBER ************
+
+409862 PLSTC WRAP                     4.77 A
+8074569 TPD/PLSTC WRAP               1.35- A
+190604 SHREDDED MOZZ 8 OZ             2.92 E
+4518346 TPD/SHREDDED MOZ             0.88-  
+619459 ITLN SAUSAGE BULK              9.93 E
+3803302 TPD/ITLN SAUSAGE             1.17-  
+1326672 KS BAGELS                    11.31 E
+     3 @ 3.77
+1797788 DICED TOM 14.5 OZ             1.00 E
+1840528 RASPB                         7.24 E
+40065 CAULIFLOWER GNOCCHI             7.85 E
+664530 CHKN GYOZA POTSTICKERS         9.88 E
+331514 KS CAULIFLOWER                 3.38 E
+     0.90 lb @ 3.76 /lb
+1443616 CILANTRO BUNCH                2.02 E
+28257 KS COLD BREW COFFEE 32OZ        8.86 E
+     2 @ 4.43
+804067 KS DISH SOAP                  19.39 A
+1987066 SPAGHETTI                     9.54 E
+
+SUBTOTAL                               94.69
+TAX 10.55% ON 22.81                     2.41
+**** TOTAL                             97.10
+MASTERCARD TEND                        97.10
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      3.40
+08/03/26 17:39  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

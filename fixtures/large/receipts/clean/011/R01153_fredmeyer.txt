@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 2957
+
+KRO BATH TISSUE 12 ROLL          23.08 T
+OLD FASHIONED ROLLED
+OATS 42 OZ                       17.43 F
+PAPER TOWELS 6 ROLL               3.75 T
+FM PLUS CARD SAV                 1.13- T
+JSMN RICE 25 LB                   8.09 F
+GRNLA BRS                         6.07 F
+SMPL TRTH RIBEYE STEAK           19.87 F
+GREEN BEANS                       2.31 F
+ORG TOMATO BASIL MRNR             5.94 F
+DOUBLE CREME BRIE                 5.40 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           90.89
+TAX 10.55% ON 25.78                 2.72
+TOTAL                              93.61
+AMEX TEND                          93.61
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.13
+09/26/26 17:12  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

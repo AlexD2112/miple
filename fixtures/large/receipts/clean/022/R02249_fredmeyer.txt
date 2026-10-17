@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 2865
+
+SHREDDED CHEDDAR 8 OZ             6.42 F
+  1.67 lb @ 18.16 /lb
+FM COD FILLET                    30.33 F
+KRO DOG TREATS                    6.82 T
+WILD COD FLLT                    18.56 F
+CAULIFLOWER GNOCCHI               7.85 F
+  4 @ 0.08
+BAG FEE                           0.32 T
+
+SUBTOTAL                           70.30
+TAX 10.55% ON 7.14                  0.75
+TOTAL                              71.05
+CASH TEND                          80.00
+CHANGE                              8.95
+
+07/20/26 10:36  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

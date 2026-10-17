@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 1785  Seattle WA
+             (555) 010-1515
+
+  PRICE OVERRIDE  WAS 8.63
+CRM CHS                           5.92 S
+  3.21 lb @ 0.68 /lb
+PEACHES                           2.18 S
+
+SUBTOTAL                            8.10
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                          8.10
+DISCOVER TEND                       8.10
+CHANGE                              0.00
+
+09/17/26 10:50  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

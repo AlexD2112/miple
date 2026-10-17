@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0501  Portland OR
+            MEMBER ************
+
+233169 DRGLD UNSLTD BTR               6.67 E
+399002 DAVES KILLER BREAD             6.69 E
+1798124 KS RIBEYE STEAK              19.87 E
+1724156 BAGELS                       15.08 E
+     4 @ 3.77
+1773382 KS LIGHT BULBS 4PK           17.04 E
+579551 KS CAT LITTER                 14.03 E
+211863 KS RED GRAPES                  3.04 E
+341910 BLACK FOREST HAM 9 OZ          7.00 E
+1522256 HUY FONG SRRCH                2.55 E
+
+SUBTOTAL                               91.97
+TAX                                     0.00
+**** TOTAL                             91.97
+DEBIT TEND                             91.97
+CHANGE                                  0.00
+
+05/24/26 19:48  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

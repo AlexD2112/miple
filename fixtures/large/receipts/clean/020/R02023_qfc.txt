@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0191
+
+PRIV SEL FROZEN PIZZA            13.30 F
+PRIV SEL SLCD ROAST BF            5.94 F
+PAPER PLATES                      3.31 T
+KRO GRND PORK                     6.60 F
+PASTURE RAISED EGGS               7.37 F
+  4 @ 0.08
+PAPER BAG                         0.32 T
+
+SUBTOTAL                           36.84
+TAX 10.55% ON 3.63                  0.38
+TOTAL                              37.22
+GIFT CARD TEND                     14.29
+AMEX TEND                          22.93
+CHANGE                              0.00
+
+02/28/26 12:36  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

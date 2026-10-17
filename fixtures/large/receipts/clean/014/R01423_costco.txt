@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0442  Seattle WA
+            MEMBER ************
+
+290379 KS HALF AND HALF               5.34 E
+290379 KS HALF AND HALF               5.34 E
+** VOID ** 290379 KS HALF AND        5.34-  
+1371073 RUSSET POTATOES               2.94 E
+     2.60 lb @ 1.13 /lb
+507541 KS CHERRIES                    5.69 E
+1669406 SLTD BTR 4 STICKS             9.37 E
+8433119 TPD/SLTD BTR 4 S             1.26-  
+1655204 DAVES KILLER BRD 21 WHL GRAI  4.78 E
+686939 KS ROTIS CHKN                  5.04 A
+497255 KS BABY CARROTS                2.49 E
+971365 KS KEFIR                       1.27 E
+405249 KS GRND BF 80/20               6.57 E
+
+SUBTOTAL                               42.23
+TAX 10.55% ON 5.04                      0.53
+**** TOTAL                             42.76
+MASTERCARD TEND                        42.76
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      1.26
+06/28/26 13:49  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0746  Seattle WA
+            MEMBER ************
+
+712581 CHKN BROTH 32 OZ               2.81 E
+1852599 KS GRND COFFEE                9.64 E
+501872 HASS AVCD LG                  11.32 E
+     3.39 lb @ 3.34 /lb
+7637114 TPD/HASS AVCD LG             1.08-  
+1995817 KS BABY SPNCH                 5.42 E
+5386824 TPD/BABY SPNCH               1.09-  
+
+SUBTOTAL                               27.02
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             27.02
+VISA TEND                              27.02
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      2.17
+05/17/26 12:14  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

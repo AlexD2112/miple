@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0698
+
+SMPL TRTH FLOUR TORT              6.18 F
+SMPL TRTH CRM CHS                 8.63 F
+SMPL TRTH BABY SPNCH              5.42 F
+HUY FONG SRRCH                    2.55 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           22.94
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              22.96
+GIFT CARD TEND                     15.24
+DEBIT TEND                          7.72
+CHANGE                              0.00
+
+01/11/26 18:04  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

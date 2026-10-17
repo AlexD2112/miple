@@ -1,0 +1,27 @@
+                 TARGET
+           Seattle WA  T-3241
+             (555) 030-7957
+
+STRWB                             4.35 N
+GREETING CARD                    20.34 T
+MKT PANTRY FRZN MIXED BRRS        2.06 N
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+FRESH MOZZ                        8.65 N
+LAUNDRY DTRGNT PODS              20.18 T
+  4 @ 4.42
+DIET COLA 12PK CANS              17.68 T
+YELLOW ONIN                       1.78 N
+  REFUND - ORIG RECEIPT
+RETURN MKT PANTRY FRZN MIXED BR  2.06- N
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           82.05
+TAX 10.55% ON 67.27                 7.10
+TOTAL                              89.15
+MASTERCARD TEND                    89.15
+CHANGE                              0.00
+
+03/07/26 21:01  ITEMS 11
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

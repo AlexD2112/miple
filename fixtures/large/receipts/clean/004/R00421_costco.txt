@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0278  San Francisco CA
+            MEMBER ************
+
+568745 CHKN THIGHS                    9.29 E
+1599304 KS TRKY BRST                 34.03 E
+     4.80 lb @ 7.09 /lb
+1278811 UNSLTD BTR                    9.95 E
+1045612 KS SPRKLG WTR                 3.74 A
+  1 @ 0.05
+CA CRV                                0.05 A
+850747 KS ALMOND MLK                  5.08 E
+1530245 KS FRESH BASIL                2.74 E
+
+SUBTOTAL                               64.88
+TAX 8.625% ON 3.79                      0.33
+**** TOTAL                             65.21
+GIFT CARD TEND                         58.55
+VISA TEND                               6.66
+CHANGE                                  0.00
+
+02/17/26 09:09  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

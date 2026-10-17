@@ -1,0 +1,19 @@
+                 TARGET
+           Seattle WA  T-3371
+             (555) 030-9081
+
+CLFLWR GNCCH                      7.85 N
+CIRCLE DEAL                      2.36-  
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                            5.73
+TAX 10.55% ON 0.24                  0.03
+TOTAL                               5.76
+DEBIT TEND                          5.76
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  2.36
+03/20/26 15:21  ITEMS 1
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

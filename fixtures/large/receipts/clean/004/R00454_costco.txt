@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0265  Seattle WA
+            MEMBER ************
+
+1924165 FLOUR TORT 10 CT              2.35 E
+238928 PEPSI 12 PK CANS               4.93 A
+238928 PEPSI 12 PK CANS               4.93 A
+** VOID ** 238928 PEPSI 12 PK        4.93-  
+1788709 KS KERRYGOLD BUTTER          10.81 E
+1949506 KS LIGHT BULBS 4PK           17.04 A
+1439027 KS FRESH MOZZ                 8.65 E
+1061129 FRESH MOZZ                    8.65 E
+1996764 KS SWISS CHS                 13.69 E
+     1.48 lb @ 9.25 /lb
+1540609 GINGER ALE 12PK               6.02 A
+888983 LACROIX LIME SPARKLING WATER   2.20 E
+1485945 TPD/LACROIX LIME             0.66-  
+1500797 ORGNL HUMMUS 10 OZ            8.88 E
+486988 FRZN THREE BERRY BLEND 4 LB    2.56 E
+1927129 KS ITALIAN PARSLEY            2.93 E
+
+SUBTOTAL                               88.05
+TAX 10.55% ON 27.99                     2.95
+**** TOTAL                             91.00
+GIFT CARD TEND                         77.84
+VISA TEND                              13.16
+CHANGE                                  0.00
+
+YOUR SAVINGS TODAY                      0.66
+10/07/26 13:27  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

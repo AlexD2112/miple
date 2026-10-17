@@ -1,0 +1,37 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0652
+
+ORG ITLN PRSLY                    1.95 F
+ORG ITLN PRSLY                    1.95 F
+** VOID ** ORG ITLN PRSLY        1.95-  
+PRIV SEL CORN TORT                2.79 F
+  3.11 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             30.88 F
+KRO TORTILLA CHIPS                3.33 F
+  4 @ 2.32
+PRIV SEL EXTRA FIRM TOFU          9.28 F
+  2 @ 2.61
+ORG SPRTD TOFU                    5.22 F
+SMPL TRTH DAVES KILLER BRD        6.69 F
+STRAWBERRIES 1 LB                 5.22 F
+
+      **** COUPONS & SAVINGS ****
+KRO SAVINGS ORG SPRTD TOFU       2.15-  
+MFR CPN BNLS PORK LOIN           1.91-  
+KRO SAVINGS CORN TORT            1.40-  
+KRO SAVINGS TORTILLA CHIPS       0.93-  
+KRO SAVINGS ORG SPRTD TOFU       0.46-  
+TOTAL COUPONS                    6.85-  
+        ************************
+
+SUBTOTAL                           58.51
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              58.51
+CASH TEND                          60.00
+CHANGE                              1.49
+
+YOUR SAVINGS TODAY                  6.85
+09/01/26 16:31  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 2989
+
+HLBT                             10.82 F
+  0.78 lb @ 0.76 /lb
+MANGO                             0.59 F
+
+SUBTOTAL                           11.41
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              11.41
+DISCOVER TEND                      11.41
+CHANGE                              0.00
+
+05/04/26 10:08  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

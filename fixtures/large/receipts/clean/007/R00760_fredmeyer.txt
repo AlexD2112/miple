@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 1366
+
+KRO FROZEN PEAS                  13.98 F
+PLASTIC WRAP                      4.77 T
+  3.46 lb @ 6.33 /lb
+FM WHL CHKN                      21.90 F
+KRO PAPER PLATES                  3.31 T
+SMPL TRTH JASMINE RICE           12.13 F
+MFR CPN                          0.62-  
+  2 @ 0.08
+PAPER BAG                         0.16 T
+
+SUBTOTAL                           55.63
+TAX 10.55% ON 8.24                  0.87
+TOTAL                              56.50
+VISA TEND                          56.50
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  0.62
+05/02/26 18:15  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

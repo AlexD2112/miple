@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 1528
+
+  0.45 lb @ 1.79 /lb
+SMPL TRTH BEETS                   0.81 F
+  1.38 lb @ 7.09 /lb
+TURKEY BREAST                     9.78 F
+  0.86 lb @ 1.96 /lb
+ORGANIC GRAPE TOMATOES
+PINT                              1.69 F
+SHRP CHDR BLOCK                  10.33 F
+BRIE                              4.85 F
+MFR CPN                          1.45-  
+  2.03 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                31.59 F
+
+SUBTOTAL                           57.60
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              57.60
+MASTERCARD TEND                    57.60
+CHANGE                              0.00
+
+YOUR SAVINGS TODAY                  1.45
+01/05/26 07:33  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3543
+
+  3 @ 2.93
+ASPARAGUS                         8.79 F
+  0.57 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS               5.27 F
+BABY SPINACH                      5.42 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           19.56
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              19.57
+AMEX TEND                          19.57
+CHANGE                              0.00
+
+03/31/26 21:17  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

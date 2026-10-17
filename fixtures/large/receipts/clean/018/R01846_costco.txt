@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0723  Seattle WA
+            MEMBER ************
+
+  PRICE OVERRIDE  WAS 7.52
+1834266 LG EGGS 18 CT                 6.25 E
+1789414 KS ROLLED OATS                3.98 E
+1649305 KS GREEN BEANS                4.62 E
+     2 @ 2.31
+546446 KS GRND CHKN                   9.11 E
+     1.80 lb @ 5.06 /lb
+1862345 KS BRIE                       4.85 E
+
+SUBTOTAL                               28.81
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             28.81
+AMEX TEND                              28.81
+CHANGE                                  0.00
+
+04/17/26 07:47  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

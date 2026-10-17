@@ -1,0 +1,31 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1652
+
+ORG GALA APPLES                   1.57 F
+SMPL TRTH FRESH MINT              2.74 F
+  2 @ 1.83
+COLA 12PK                         3.66 T
+  2.04 lb @ 11.10 /lb
+PORK CHOPS                       22.64 F
+  1.02 lb @ 1.25 /lb
+PINEAPPLE                         1.28 F
+SMPL TRTH RANCH DRESSING          3.99 F
+BAGELS                            3.77 F
+PRIV SEL JASMINE RICE            12.13 F
+  2.23 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  17.04 F
+  2 @ 1.95
+ORG ITALIAN PARSLEY               3.90 F
+  4 @ 0.08
+PAPER BAG                         0.32 T
+
+SUBTOTAL                           73.04
+TAX 10.55% ON 3.98                  0.42
+TOTAL                              73.46
+VISA TEND                          73.46
+CHANGE                              0.00
+
+06/19/26 12:12  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
