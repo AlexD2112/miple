@@ -2,14 +2,14 @@ import { router } from "expo-router";
 import { useState } from "react";
 import { Alert, Text, View } from "react-native";
 import { Button, Card, Pill, Row, Screen, Title, styles } from "@/components/ui";
-import { generateRecipes } from "@/lib/api";
-import { addMealToCalendar, findFreeMealWindows } from "@/lib/calendar";
-import { daysUntil, timeRange } from "@/lib/dates";
+import { addMealToCalendar } from "@/lib/calendar";
+import { timeRange } from "@/lib/dates";
 import { getRemainingMacros, logMealToHealth, type MacroStatus } from "@/lib/health";
-import { assignRecipes } from "@/lib/planner";
 import { useProfile } from "@/lib/profile";
-import { currentUserId, supabase } from "@/lib/supabase";
-import type { Item, MealSlot } from "@/lib/types";
+import { mealNotes, planOpenWindows, syncMealsToCalendar } from "@/lib/schedule";
+import { supabase } from "@/lib/supabase";
+import type { MealSlot } from "@/lib/types";
+import { stepText } from "@/lib/types";
 import { useFocusData } from "@/lib/useFocusData";
 
 const PLAN_DAYS = 3;
@@ -32,52 +32,17 @@ export default function Plan() {
         .neq("status", "skipped")
         .order("starts_at"),
     ]);
-    return { macros, slots: (slots.data ?? []) as MealSlot[] };
+    const planned = (slots.data ?? []) as MealSlot[];
+    await syncMealsToCalendar(planned);
+    return { macros, slots: planned };
   }, [profile]);
 
   async function planMeals() {
     if (!profile || !data) return;
     setPlanning(true);
     try {
-      const { data: items } = await supabase.from("items").select("*").eq("status", "active");
-      const pantry = (items ?? []) as Item[];
-      if (pantry.length === 0) throw new Error("Your pantry is empty. Scan a receipt first.");
-
-      // Skip windows that already have a meal planned.
-      const taken = data.slots.filter((s) => s.status === "planned").map((s) => new Date(s.starts_at).getTime());
-      const windows = (await findFreeMealWindows(PLAN_DAYS)).filter(
-        (w) => !taken.some((t) => Math.abs(t - w.start.getTime()) < 3 * 60 * 60 * 1000),
-      );
-      if (windows.length === 0) throw new Error("No free meal windows in the next 3 days.");
-
-      const { recipes, rejected } = await generateRecipes({
-        pantry: pantry.map((i) => ({
-          id: i.id,
-          name: i.name,
-          category: i.category,
-          quantity: Number(i.quantity),
-          unit: i.unit,
-          days_left: daysUntil(i.estimated_expiry),
-        })),
-        remaining: data.macros.remaining,
-        max_minutes: Math.max(...windows.map((w) => w.minutes)),
-        count: Math.min(8, windows.length + 2),
-      });
-      if (rejected) console.log(`[plan] ${rejected} recipes dropped by allergen/dislike/time filters`);
-
-      const plan = assignRecipes(windows, recipes, pantry, data.macros.remaining, data.macros.target);
-      if (plan.length === 0) throw new Error("Couldn't fit any recipes into your free time.");
-
-      const user_id = await currentUserId();
-      const { error } = await supabase.from("meal_slots").insert(
-        plan.map((p) => ({
-          user_id,
-          starts_at: p.window.start.toISOString(),
-          ends_at: p.window.end.toISOString(),
-          recipe_id: p.recipe.id,
-        })),
-      );
-      if (error) throw error;
+      const count = await planOpenWindows({ remaining: data.macros.remaining, target: data.macros.target });
+      if (count === 0) throw new Error("No free meal windows in the next 3 days, or nothing fit.");
       reload();
     } catch (err) {
       Alert.alert("Planning failed", err instanceof Error ? err.message : String(err));
@@ -88,14 +53,13 @@ export default function Plan() {
 
   async function addToCalendar(slot: MealSlot) {
     if (!slot.recipes) return;
-    const notes = [
-      `${slot.recipes.minutes} min · ${slot.recipes.calories} kcal · ${slot.recipes.protein_g}g protein`,
-      "",
-      ...slot.recipes.ingredients.map((i) => `• ${i.quantity} ${i.name}`),
-      "",
-      ...slot.recipes.steps.map((s, n) => `${n + 1}. ${s}`),
-    ].join("\n");
-    const eventId = await addMealToCalendar(slot.recipes.title, new Date(slot.starts_at), new Date(slot.ends_at), notes);
+    const eventId = await addMealToCalendar(
+      slot.recipes.title,
+      new Date(slot.starts_at),
+      new Date(slot.ends_at),
+      mealNotes(slot.recipes),
+      slot.calendar_event_id,
+    );
     if (!eventId) return Alert.alert("Calendar access is needed to add events.");
     await supabase.from("meal_slots").update({ calendar_event_id: eventId }).eq("id", slot.id);
     reload();
@@ -156,7 +120,7 @@ export default function Plan() {
                 <View style={{ height: 6 }} />
                 {r.steps.map((s, n) => (
                   <Text key={n} style={[styles.body, { marginBottom: 4 }]}>
-                    {n + 1}. {s}
+                    {n + 1}. {stepText(s)}
                   </Text>
                 ))}
               </View>
@@ -165,6 +129,7 @@ export default function Plan() {
               <Row style={{ marginTop: 10 }}>
                 {!slot.calendar_event_id ? <Button small kind="secondary" label="Add to calendar" onPress={() => addToCalendar(slot)} /> : null}
                 <View style={{ flex: 1 }} />
+                <Button small kind="secondary" label="Follow" onPress={() => router.push({ pathname: "/cook", params: { slot: slot.id } })} />
                 <Button small kind="secondary" label="Skip" onPress={() => skip(slot)} />
                 <Button small label="Cooked" onPress={() => markCooked(slot)} />
               </Row>

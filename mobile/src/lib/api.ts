@@ -37,10 +37,53 @@ export interface PantryForLLM {
   days_left: number;
 }
 
-export interface ChefApplied {
-  slot_id: string;
-  action: "replace" | "skip";
+export interface CookStep {
+  phase: "prep" | "cook";
+  text: string;
+  timer_minutes: number | null;
+}
+
+export interface IngredientGap {
+  name: string;
+  quantity: string;
+  status: "have" | "need" | "substitute";
+  pantry_item_id: string | null;
+  substitute: string | null;
+  note: string;
+}
+
+export interface ChefProposal {
+  action: "add" | "replace" | "skip";
+  replaces_slot_id: string | null;
+  starts_at: string;
+  ends_at: string;
+  recipe: {
+    title: string;
+    minutes: number;
+    servings: number;
+    ingredients: { pantry_item_id: string | null; name: string; quantity: string }[];
+    steps: string[];
+    calories: number;
+    protein_g: number;
+    carbs_g: number;
+    fat_g: number;
+    declared_allergens: string[];
+  } | null;
+  guide: CookStep[];
+  gaps: IngredientGap[];
+  shopping_at: string | null;
+  rebuild_week: boolean;
+}
+
+export interface ChefApplyResult {
+  slot_id: string | null;
   title: string | null;
+  starts_at: string;
+  ends_at: string;
+  calendar_event_id: string | null;
+  shopping_items: string[];
+  shopping_at: string | null;
+  rebuild_week: boolean;
 }
 
 export async function chatWithChef(input: {
@@ -60,11 +103,22 @@ export async function chatWithChef(input: {
   }[];
   pantry: PantryForLLM[];
   remaining: Macros;
-}): Promise<{ message: string; applied: ChefApplied[]; rejected: number }> {
+  now: string;
+  windows: { start: string; end: string; minutes: number; meal: "lunch" | "dinner" }[];
+}): Promise<{ message: string; proposal: ChefProposal | null }> {
   const res = await fetch(`${API_URL}/recipes/chef`, {
     method: "POST",
     headers: { ...(await authHeader()), "Content-Type": "application/json" },
     body: JSON.stringify(input),
+  });
+  return check(res);
+}
+
+export async function applyChefProposal(proposal: ChefProposal): Promise<ChefApplyResult> {
+  const res = await fetch(`${API_URL}/recipes/chef/apply`, {
+    method: "POST",
+    headers: { ...(await authHeader()), "Content-Type": "application/json" },
+    body: JSON.stringify({ proposal }),
   });
   return check(res);
 }

@@ -47,13 +47,21 @@ export interface Macros {
   fat_g: number;
 }
 
+export type RecipeStep =
+  | string
+  | { phase?: "prep" | "cook" | string; text: string; timer_minutes?: number | null };
+
 export interface Recipe extends Macros {
   id: string;
   title: string;
   ingredients: { item_id: string | null; name: string; quantity: string }[];
-  steps: string[];
+  steps: RecipeStep[];
   minutes: number;
   servings: number;
+}
+
+export function stepText(step: RecipeStep): string {
+  return typeof step === "string" ? step : step.text;
 }
 
 export interface MealSlot {
@@ -62,6 +70,7 @@ export interface MealSlot {
   ends_at: string;
   recipe_id: string | null;
   calendar_event_id: string | null;
+  shopping_event_id?: string | null;
   status: "planned" | "cooked" | "skipped";
   logged_to_health: boolean;
   cooked_at: string | null;

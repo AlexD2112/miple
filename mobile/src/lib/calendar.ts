@@ -85,24 +85,78 @@ function firstGap(from: number, to: number, busy: { start: number; end: number }
 
 const roundUpToQuarter = (t: number) => Math.ceil(t / (15 * 60_000)) * 15 * 60_000;
 
-/** "Add to calendar": writes the cooking block and returns the event id. */
-export async function addMealToCalendar(title: string, start: Date, end: Date, notes: string): Promise<string | null> {
+async function writableCalendarId(): Promise<string | null> {
   const { granted } = await Calendar.requestCalendarPermissions();
   if (!granted) return null;
+  if (Platform.OS === "ios") return Calendar.getDefaultCalendarSync()?.id ?? null;
+  const calendars = await Calendar.getCalendars(Calendar.EntityTypes.EVENT);
+  return (
+    calendars.find((c) => c.allowsModifications && c.isPrimary)?.id ??
+    calendars.find((c) => c.allowsModifications)?.id ??
+    null
+  );
+}
 
-  const calendar =
-    Platform.OS === "ios"
-      ? Calendar.getDefaultCalendarSync()
-      : (await Calendar.getCalendars()).find((c) => c.allowsModifications && c.isPrimary) ??
-        (await Calendar.getCalendars()).find((c) => c.allowsModifications);
-  if (!calendar) return null;
+/** Creates or updates an event. A stale id falls through to create. */
+export async function upsertCalendarEvent(
+  existingId: string | null,
+  details: { title: string; start: Date; end: Date; notes: string; alarmMinutes: number },
+): Promise<string | null> {
+  const calendarId = await writableCalendarId();
+  if (!calendarId) return null;
+  const event = {
+    title: details.title,
+    startDate: details.start,
+    endDate: details.end,
+    notes: details.notes,
+    alarms: [{ relativeOffset: -details.alarmMinutes }],
+  };
+  if (existingId) {
+    try {
+      await Calendar.updateEventAsync(existingId, event);
+      return existingId;
+    } catch (err) {
+      console.warn("[calendar] update failed, creating a new event", err);
+    }
+  }
+  return Calendar.createEventAsync(calendarId, event);
+}
 
-  const event = await calendar.createEvent({
-    title: `🍳 ${title}`,
-    startDate: start,
-    endDate: end,
-    notes,
-    alarms: [{ relativeOffset: -15 }],
+/** Writes the cooking block and returns the event id. */
+export async function addMealToCalendar(
+  title: string,
+  start: Date,
+  end: Date,
+  notes: string,
+  existingId: string | null = null,
+): Promise<string | null> {
+  return upsertCalendarEvent(existingId, { title: `🍳 ${title}`, start, end, notes, alarmMinutes: 15 });
+}
+
+/** A shopping block before the meal. */
+export async function addShoppingToCalendar(
+  mealTitle: string,
+  start: Date,
+  items: string[],
+  existingId: string | null = null,
+): Promise<string | null> {
+  const end = new Date(start.getTime() + 45 * 60_000);
+  return upsertCalendarEvent(existingId, {
+    title: `🛒 Shop for ${mealTitle}`,
+    start,
+    end,
+    notes: items.map((item) => `• ${item}`).join("\n"),
+    alarmMinutes: 30,
   });
-  return event.id;
+}
+
+/** When the model doesn't name a time, shop two hours before the meal, or the previous morning. */
+export function defaultShoppingTime(mealStart: Date, now = new Date()): Date {
+  const twoHoursBefore = new Date(mealStart.getTime() - 2 * 60 * 60 * 1000);
+  if (twoHoursBefore.getTime() > now.getTime() + 30 * 60_000) return twoHoursBefore;
+  const morning = new Date(mealStart);
+  morning.setDate(morning.getDate() - 1);
+  morning.setHours(10, 0, 0, 0);
+  if (morning.getTime() > now.getTime() + 30 * 60_000) return morning;
+  return new Date(now.getTime() + 30 * 60_000);
 }

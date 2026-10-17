@@ -2,7 +2,15 @@ import { Router } from "express";
 import { structured } from "../lib/gemini.js";
 import { db, getProfile, requireUser, type AuthedRequest } from "../lib/supabase.js";
 import { containsDisliked, findAllergens, violatesAllergies } from "../domain/allergens.js";
-import { ChefRequest, ChefTurn, GeneratedRecipes, RecipeRequest, type RecipeDraft } from "../domain/schemas.js";
+import {
+  ChefApplyRequest,
+  ChefRequest,
+  ChefTurn,
+  GeneratedRecipes,
+  RecipeRequest,
+  type ChefProposal,
+  type RecipeDraft,
+} from "../domain/schemas.js";
 
 const SYSTEM = `You are Miple's recipe planner for busy students and young professionals on a budget.
 Create simple, realistic recipes that use the pantry items closest to expiring first.
@@ -10,12 +18,14 @@ Use pantry_item_id for every ingredient that comes from the pantry list; use nul
 staples (oil, salt, pepper, spices, water). Macros are per serving and must be honest estimates.
 Respect the diet, allergies and dislikes strictly, and list every allergen key the recipe contains.`;
 
-const CHEF_SYSTEM = `You are Miple's home chef. The user already has a meal plan and is talking to you to adjust it.
-Speak in a short, warm, practical voice. Your message is shown in chat: never mention slot ids or JSON.
-You may replace a planned meal with a new recipe or skip it. Leave changes empty when you are only answering.
-Only use slot_id values from the current plan. A replacement recipe must fit minutes_available, use pantry items
-closest to expiring, and respect diet, allergies, and dislikes. Use pantry_item_id from the pantry list, or null
-for staples. If they ask for meals that are not on the plan yet, tell them to tap Plan my meals first.`;
+const CHEF_SYSTEM = `You are Miple's home chef. Speak in a short, warm, practical voice. Never mention slot ids or JSON.
+The user can ask for a specific dish ("shakshuka tonight") or to change the plan. Do not say the plan is already updated.
+When they want a meal change, fill proposal and ask them to approve it. Otherwise set proposal to null.
+For a requested dish: check the pantry. Mark each ingredient have, need, or substitute. Use pantry_item_id only for
+items on the pantry list. Offer a substitute they can make from what they have, and still list anything they must buy.
+Put prep and cook in guide, with timer_minutes when a step waits (simmer, rest, roast) and null otherwise.
+Pick starts_at and ends_at from the free windows when one fits, including adding a meal that is not on the plan yet.
+Set rebuild_week true when this meal should replace the surrounding plan. Respect diet, allergies, and dislikes.`;
 
 export const recipes = Router();
 
@@ -57,25 +67,22 @@ recipes.post("/generate", requireUser, async (req: AuthedRequest, res) => {
   res.json({ recipes: data, rejected: out.recipes.length - accepted.length });
 });
 
-/**
- * POST /recipes/chef: one chat turn. The model may replace or skip planned slots.
- * New recipes go through the same allergen and dislike filters as /generate.
- */
+/** POST /recipes/chef: one chat turn. Proposals are not saved until /recipes/chef/apply. */
 recipes.post("/chef", requireUser, async (req: AuthedRequest, res) => {
   const body = ChefRequest.safeParse(req.body);
   if (!body.success) return res.status(400).json({ error: body.error.flatten() });
-  const { messages, plan, pantry, remaining } = body.data;
+  const { messages, plan, pantry, remaining, now, windows } = body.data;
 
   const profile = await getProfile(req.userId!);
   const safePantry = pantry.filter((p) => findAllergens([p.name], profile.allergies).length === 0);
-  const pantryIds = new Set(safePantry.map((p) => p.id));
-  const slots = new Map(plan.map((slot) => [slot.slot_id, slot]));
 
   const prompt = {
     diet: profile.diet,
     allergies: profile.allergies,
     dislikes: profile.dislikes,
     remaining_macros_today: remaining,
+    now,
+    free_windows: windows,
     pantry: [...safePantry]
       .sort((a, b) => a.days_left - b.days_left)
       .map(({ id, name, quantity, unit, days_left }) => ({ id, name, quantity, unit, days_left })),
@@ -88,82 +95,149 @@ recipes.post("/chef", requireUser, async (req: AuthedRequest, res) => {
     content: JSON.stringify(prompt),
   });
 
-  const applied: { slot_id: string; action: "replace" | "skip"; title: string | null }[] = [];
-  let rejected = 0;
-  let clearedCalendar = false;
+  const proposal = turn.proposal ? sanitizeProposal(turn.proposal, profile, new Set(safePantry.map((p) => p.id))) : null;
+  let message = turn.message.trim();
+  if (turn.proposal && !proposal) {
+    message += " I couldn't offer that dish with your allergies and dislikes.";
+  }
 
-  for (const change of turn.changes) {
-    const slot = slots.get(change.slot_id);
-    if (!slot) {
-      rejected += 1;
-      continue;
-    }
+  res.json({ message, proposal });
+});
 
-    if (change.action === "skip") {
-      const { data, error } = await db
-        .from("meal_slots")
-        .update({ status: "skipped" })
-        .eq("id", slot.slot_id)
-        .eq("user_id", req.userId!)
-        .eq("status", "planned")
-        .select("id");
-      if (error) throw error;
-      if (!data?.length) {
-        rejected += 1;
-        continue;
-      }
-      applied.push({ slot_id: slot.slot_id, action: "skip", title: slot.title });
-      continue;
-    }
+/** POST /recipes/chef/apply: save a proposal the user accepted. */
+recipes.post("/chef/apply", requireUser, async (req: AuthedRequest, res) => {
+  const body = ChefApplyRequest.safeParse(req.body);
+  if (!body.success) return res.status(400).json({ error: body.error.flatten() });
 
-    if (!change.recipe) {
-      rejected += 1;
-      continue;
-    }
-    const [recipe] = acceptRecipes([change.recipe], profile, pantryIds, slot.minutes_available);
-    if (!recipe) {
-      rejected += 1;
-      continue;
-    }
-    const [saved] = await insertRecipes(req.userId!, [recipe]);
+  const profile = await getProfile(req.userId!);
+  const { data: pantryRows, error: pantryError } = await db
+    .from("items")
+    .select("id, name")
+    .eq("user_id", req.userId!)
+    .eq("status", "active");
+  if (pantryError) throw pantryError;
+  const pantryIds = new Set(
+    (pantryRows ?? [])
+      .filter((row) => findAllergens([row.name as string], profile.allergies).length === 0)
+      .map((row) => row.id as string),
+  );
+
+  const proposal = sanitizeProposal(body.data.proposal, profile, pantryIds);
+  if (!proposal) return res.status(400).json({ error: "that meal doesn't fit your allergies or dislikes" });
+
+  const start = new Date(proposal.starts_at);
+  const end = new Date(proposal.ends_at);
+  if (Number.isNaN(start.getTime()) || Number.isNaN(end.getTime()) || end <= start) {
+    return res.status(400).json({ error: "proposal has an invalid time" });
+  }
+
+  if (proposal.action === "skip") {
+    if (!proposal.replaces_slot_id) return res.status(400).json({ error: "skip needs a meal to skip" });
+    const { data, error } = await db
+      .from("meal_slots")
+      .update({ status: "skipped" })
+      .eq("id", proposal.replaces_slot_id)
+      .eq("user_id", req.userId!)
+      .eq("status", "planned")
+      .select("id")
+      .maybeSingle();
+    if (error) throw error;
+    if (!data) return res.status(404).json({ error: "that meal is no longer planned" });
+    return res.json({
+      slot_id: data.id,
+      title: null,
+      starts_at: proposal.starts_at,
+      ends_at: proposal.ends_at,
+      calendar_event_id: null,
+      shopping_items: [],
+      shopping_at: null,
+      rebuild_week: proposal.rebuild_week,
+    });
+  }
+
+  const recipe = proposal.recipe;
+  if (!recipe) return res.status(400).json({ error: "that meal needs a recipe" });
+  const [accepted] = acceptRecipes(
+    [{ ...recipe, steps: [...recipe.steps, ...proposal.guide.map((step) => step.text)] }],
+    profile,
+    pantryIds,
+    180,
+  );
+  if (!accepted) return res.status(400).json({ error: "that meal doesn't fit your allergies or dislikes" });
+
+  const guide =
+    proposal.guide.length > 0
+      ? proposal.guide
+      : recipe.steps.map((text) => ({ phase: "cook" as const, text, timer_minutes: null }));
+  const [saved] = await insertRecipes(req.userId!, [{ ...accepted, steps: guide }]);
+
+  let slotId = proposal.replaces_slot_id;
+  let calendarEventId: string | null = null;
+  if (slotId) {
     const existing = await db
       .from("meal_slots")
-      .select("calendar_event_id")
-      .eq("id", slot.slot_id)
+      .select("id, calendar_event_id")
+      .eq("id", slotId)
       .eq("user_id", req.userId!)
       .eq("status", "planned")
       .maybeSingle();
     if (existing.error) throw existing.error;
-    if (!existing.data) {
-      rejected += 1;
-      continue;
-    }
-    const { data, error } = await db
+    if (!existing.data) return res.status(404).json({ error: "that meal is no longer planned" });
+    calendarEventId = existing.data.calendar_event_id;
+    const updated = await db
       .from("meal_slots")
-      .update({ recipe_id: saved.id, calendar_event_id: null })
-      .eq("id", slot.slot_id)
+      .update({ recipe_id: saved.id, starts_at: start.toISOString(), ends_at: end.toISOString() })
+      .eq("id", slotId)
       .eq("user_id", req.userId!)
-      .eq("status", "planned")
-      .select("id");
-    if (error) throw error;
-    if (!data?.length) {
-      rejected += 1;
-      continue;
-    }
-    if (existing.data.calendar_event_id) clearedCalendar = true;
-    applied.push({ slot_id: slot.slot_id, action: "replace", title: saved.title });
+      .select("id")
+      .maybeSingle();
+    if (updated.error) throw updated.error;
+  } else {
+    const inserted = await db
+      .from("meal_slots")
+      .insert({
+        user_id: req.userId!,
+        starts_at: start.toISOString(),
+        ends_at: end.toISOString(),
+        recipe_id: saved.id,
+      })
+      .select("id")
+      .single();
+    if (inserted.error) throw inserted.error;
+    slotId = inserted.data.id;
   }
 
-  let message = turn.message.trim();
-  if (rejected > 0) {
-    message += " I dropped a change that didn't fit your allergies, dislikes, or the time you have.";
-  }
-  if (clearedCalendar && applied.some((a) => a.action === "replace")) {
-    message += " Re-add any changed meals to your calendar so the event matches the new recipe.";
-  }
-
-  res.json({ message, applied, rejected });
+  const shopping = proposal.gaps.filter((gap) => gap.status === "need" || gap.status === "substitute");
+  res.json({
+    slot_id: slotId,
+    title: saved.title,
+    starts_at: start.toISOString(),
+    ends_at: end.toISOString(),
+    calendar_event_id: calendarEventId,
+    shopping_items: shopping.map((gap) => `${gap.quantity} ${gap.name}${gap.substitute ? ` (or ${gap.substitute})` : ""}`),
+    shopping_at: proposal.shopping_at,
+    rebuild_week: proposal.rebuild_week,
+  });
 });
+
+function sanitizeProposal(
+  proposal: ChefProposal,
+  profile: { allergies: string[]; dislikes: string[] },
+  pantryIds: Set<string>,
+): ChefProposal | null {
+  if (proposal.action === "skip") return proposal;
+  if (!proposal.recipe) return null;
+  const [recipe] = acceptRecipes([proposal.recipe], profile, pantryIds, 180);
+  if (!recipe) return null;
+  return {
+    ...proposal,
+    recipe: proposal.recipe,
+    gaps: proposal.gaps.map((gap) => ({
+      ...gap,
+      pantry_item_id: gap.pantry_item_id && pantryIds.has(gap.pantry_item_id) ? gap.pantry_item_id : null,
+    })),
+  };
+}
 
 function acceptRecipes(
   drafts: RecipeDraft[],
@@ -190,7 +264,7 @@ async function insertRecipes(
   accepted: {
     title: string;
     ingredients: { item_id: string | null; name: string; quantity: string }[];
-    steps: string[];
+    steps: unknown[];
     minutes: number;
     servings: number;
     calories: number;

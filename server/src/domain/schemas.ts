@@ -102,20 +102,56 @@ export const PlannedMeal = z.object({
 });
 
 /** Chat turns plus the plan the chef is allowed to change. Allergies still come from the database. */
+export const FreeWindowInput = z.object({
+  start: z.string(),
+  end: z.string(),
+  minutes: z.number().int(),
+  meal: z.enum(["lunch", "dinner"]),
+});
+
 export const ChefRequest = z.object({
   messages: z.array(ChefMessage).min(1).max(20),
   plan: z.array(PlannedMeal).max(20),
   pantry: RecipeRequest.shape.pantry,
   remaining: RemainingMacros,
+  now: z.string(),
+  windows: z.array(FreeWindowInput).max(14),
 });
 
+export const CookStep = z.object({
+  phase: z.enum(["prep", "cook"]),
+  text: z.string(),
+  timer_minutes: z.number().int().min(0).max(240).nullable().describe("null when the step has no timer"),
+});
+
+export const IngredientGap = z.object({
+  name: z.string(),
+  quantity: z.string(),
+  status: z.enum(["have", "need", "substitute"]),
+  pantry_item_id: z.string().nullable().describe("pantry id when status is have or the item being substituted, else null"),
+  substitute: z.string().nullable().describe("what to use instead, or null"),
+  note: z.string(),
+});
+
+/** A meal the user has not accepted yet. Nothing is saved until /recipes/chef/apply. */
+export const ChefProposal = z.object({
+  action: z.enum(["add", "replace", "skip"]),
+  replaces_slot_id: z.string().nullable().describe("existing slot to change, or null when adding"),
+  starts_at: z.string().describe("ISO datetime"),
+  ends_at: z.string().describe("ISO datetime"),
+  recipe: RecipeDraft.nullable().describe("null only when action is skip"),
+  guide: z.array(CookStep).max(24),
+  gaps: z.array(IngredientGap).max(30),
+  shopping_at: z.string().nullable().describe("ISO datetime for a shopping block, or null if nothing to buy"),
+  rebuild_week: z.boolean().describe("true when the rest of the week should be replanned around this meal"),
+});
+export type ChefProposal = z.infer<typeof ChefProposal>;
+
 export const ChefTurn = z.object({
-  message: z.string().describe("What you say out loud. No slot ids, no JSON."),
-  changes: z.array(
-    z.object({
-      slot_id: z.string().describe("slot_id copied from the current plan"),
-      action: z.enum(["replace", "skip"]),
-      recipe: RecipeDraft.nullable().describe("full new recipe when action is replace, otherwise null"),
-    }),
-  ),
+  message: z.string().describe("What you say out loud. No slot ids, no JSON. Ask them to approve before anything changes."),
+  proposal: ChefProposal.nullable().describe("null when you are only answering and not changing the plan"),
+});
+
+export const ChefApplyRequest = z.object({
+  proposal: ChefProposal,
 });
