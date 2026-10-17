@@ -36,7 +36,7 @@ npm run nudge           # fire the daily nudge job now (dry-run logs texts if Ph
 ```
 A physical iPhone can't reach `localhost`, so expose the server with your LAN IP or `ngrok http 8787`.
 
-Gemini runs on Vertex AI with Application Default Credentials, not an API key. In the Cloud project, enable the Vertex AI API and give your user `roles/aiplatform.user`. Then:
+Gemini runs on Gemini Enterprise Agent Platform (formerly Vertex AI) with Application Default Credentials, not an API key. In the Cloud project, open Agent Platform and enable the Vertex AI API (`aiplatform.googleapis.com`) if it is not already on. Give your user **Vertex AI User** (`roles/aiplatform.user`). Then:
 
 ```bash
 gcloud auth application-default login
