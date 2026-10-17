@@ -1,0 +1,108 @@
+{
+ "$id": "miple/fixtures/large2.date_headers.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 6000 record(s) of large2/dates/header_cases.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "edge_kind": {
+   "type": "string"
+  },
+  "expected": {
+   "additionalProperties": false,
+   "properties": {
+    "after_midnight": {
+     "type": "boolean"
+    },
+    "ambiguous_local_time": {
+     "type": "boolean"
+    },
+    "business_date": {
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+     "type": [
+      "null",
+      "string"
+     ]
+    },
+    "clock": {
+     "type": "string"
+    },
+    "date": {
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+     "type": "string"
+    },
+    "seconds": {
+     "type": [
+      "integer",
+      "null"
+     ]
+    },
+    "time": {
+     "type": "string"
+    },
+    "timezone": {
+     "type": [
+      "null",
+      "string"
+     ]
+    },
+    "two_digit_year": {
+     "type": "boolean"
+    },
+    "tz_abbrev": {
+     "type": [
+      "null",
+      "string"
+     ]
+    }
+   },
+   "required": [
+    "after_midnight",
+    "ambiguous_local_time",
+    "business_date",
+    "clock",
+    "date",
+    "seconds",
+    "time",
+    "timezone",
+    "two_digit_year",
+    "tz_abbrev"
+   ],
+   "type": "object"
+  },
+  "format_id": {
+   "type": "string"
+  },
+  "id": {
+   "type": "string"
+  },
+  "store": {
+   "enum": [
+    "Costco",
+    "Fred Meyer",
+    "QFC",
+    "Safeway",
+    "Target",
+    "Trader Joe's",
+    "Whole Foods"
+   ],
+   "type": "string"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "text": {
+   "type": "string"
+  }
+ },
+ "required": [
+  "edge_kind",
+  "expected",
+  "format_id",
+  "id",
+  "store",
+  "synthetic",
+  "text"
+ ],
+ "title": "large2.date_headers",
+ "type": "object"
+}

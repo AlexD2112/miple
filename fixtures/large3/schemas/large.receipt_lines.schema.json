@@ -1,0 +1,94 @@
+{
+ "$id": "miple/fixtures/large.receipt_lines.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 24000 record(s) of large/receipt_lines/*.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "applies_to": {
+   "type": "string"
+  },
+  "category": {
+   "type": "string"
+  },
+  "clean_text": {
+   "type": "string"
+  },
+  "detail_of": {
+   "type": "string"
+  },
+  "id": {
+   "type": "string"
+  },
+  "line_type": {
+   "type": "string"
+  },
+  "location": {
+   "type": "string"
+  },
+  "normalized_name": {
+   "type": "string"
+  },
+  "note": {
+   "type": "string"
+  },
+  "observed": {
+   "type": "boolean"
+  },
+  "ocr_noise": {
+   "type": "boolean"
+  },
+  "price": {
+   "type": "number"
+  },
+  "quantity": {
+   "type": "number"
+  },
+  "raw_text": {
+   "type": "string"
+  },
+  "store": {
+   "enum": [
+    "Costco",
+    "Fred Meyer",
+    "QFC",
+    "Safeway",
+    "Target",
+    "Trader Joe's",
+    "Whole Foods"
+   ],
+   "type": "string"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "taxable": {
+   "type": "boolean"
+  },
+  "unit": {
+   "type": "string"
+  },
+  "unit_price": {
+   "type": "number"
+  },
+  "voids": {
+   "type": "string"
+  }
+ },
+ "required": [
+  "category",
+  "id",
+  "line_type",
+  "location",
+  "normalized_name",
+  "observed",
+  "price",
+  "quantity",
+  "raw_text",
+  "store",
+  "synthetic",
+  "taxable",
+  "unit"
+ ],
+ "title": "large.receipt_lines",
+ "type": "object"
+}

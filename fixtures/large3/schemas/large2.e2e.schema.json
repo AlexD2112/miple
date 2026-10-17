@@ -1,0 +1,499 @@
+{
+ "$id": "miple/fixtures/large2.e2e.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 2000 record(s) of large2/e2e/cases.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "expected": {
+   "additionalProperties": false,
+   "properties": {
+    "excluded_lines": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "item_index": {
+        "type": "integer"
+       },
+       "reason": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "item_index",
+       "reason"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "pantry": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "allergen_keys": {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       "app_category_key": {
+        "enum": [
+         "berries",
+         "beverages",
+         "bread",
+         "canned",
+         "condiments",
+         "cooked_leftovers",
+         "dairy_cheese",
+         "dairy_milk",
+         "deli_meat",
+         "dry_goods",
+         "eggs",
+         "fresh_fruit",
+         "fresh_vegetables",
+         "frozen",
+         "herbs",
+         "leafy_greens",
+         "other",
+         "raw_meat",
+         "raw_poultry",
+         "raw_seafood",
+         "root_vegetables",
+         "snacks",
+         "tofu",
+         "tortillas",
+         "yogurt"
+        ],
+        "type": "string"
+       },
+       "category": {
+        "enum": [
+         "berries",
+         "beverages",
+         "bread",
+         "butter",
+         "canned goods",
+         "cooked leftovers",
+         "deli meat",
+         "deposit",
+         "discount",
+         "dry goods/grains",
+         "eggs",
+         "fee",
+         "fresh herbs",
+         "frozen foods",
+         "hard cheese",
+         "leafy greens",
+         "milk",
+         "non_food",
+         "opened condiments",
+         "other fresh fruit",
+         "other fresh vegetables",
+         "raw fish",
+         "raw ground meat",
+         "raw poultry",
+         "raw whole cuts",
+         "root vegetables",
+         "snacks",
+         "soft cheese",
+         "tofu",
+         "tortillas",
+         "yogurt"
+        ],
+        "type": "string"
+       },
+       "estimated_expiry": {
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+        "type": [
+         "null",
+         "string"
+        ]
+       },
+       "item_index": {
+        "type": "integer"
+       },
+       "may_contain_keys": {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       "normalized_name": {
+        "type": "string"
+       },
+       "purchase_date": {
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+        "type": "string"
+       },
+       "quantity": {
+        "type": "number"
+       },
+       "raw_text": {
+        "type": "string"
+       },
+       "shelf_life_days": {
+        "type": [
+         "integer",
+         "null"
+        ]
+       },
+       "storage": {
+        "enum": [
+         "freezer",
+         "fridge",
+         "pantry"
+        ],
+        "type": "string"
+       },
+       "unit": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "allergen_keys",
+       "app_category_key",
+       "category",
+       "estimated_expiry",
+       "item_index",
+       "may_contain_keys",
+       "normalized_name",
+       "purchase_date",
+       "quantity",
+       "raw_text",
+       "shelf_life_days",
+       "storage",
+       "unit"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "profiles": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "allergies": {
+        "items": {
+         "type": "string"
+        },
+        "type": "array"
+       },
+       "caution_pantry_indexes": {
+        "items": {
+         "type": "integer"
+        },
+        "type": "array"
+       },
+       "flagged_pantry_indexes": {
+        "items": {
+         "type": "integer"
+        },
+        "type": "array"
+       }
+      },
+      "required": [
+       "allergies",
+       "caution_pantry_indexes",
+       "flagged_pantry_indexes"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "receipt": {
+     "additionalProperties": false,
+     "properties": {
+      "change": {
+       "type": "number"
+      },
+      "city": {
+       "type": "string"
+      },
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "features": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "flag_legend": {
+       "additionalProperties": false,
+       "properties": {
+        "nontaxable": {
+         "type": "string"
+        },
+        "taxable": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "nontaxable",
+        "taxable"
+       ],
+       "type": "object"
+      },
+      "item_count": {
+       "type": "integer"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "applies_to": {
+          "type": "string"
+         },
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "flag": {
+          "type": "string"
+         },
+         "line_type": {
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "observed": {
+          "type": "boolean"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "number"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "source_line": {
+          "type": "integer"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         },
+         "unit_price": {
+          "type": "number"
+         }
+        },
+        "required": [
+         "category",
+         "flag",
+         "line_type",
+         "normalized_name",
+         "observed",
+         "price",
+         "quantity",
+         "raw_text",
+         "source_line",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "location": {
+       "type": "string"
+      },
+      "printed": {
+       "additionalProperties": false,
+       "properties": {
+        "subtotal": {
+         "type": "number"
+        },
+        "tax": {
+         "type": "number"
+        },
+        "total": {
+         "type": "number"
+        }
+       },
+       "required": [
+        "subtotal",
+        "tax",
+        "total"
+       ],
+       "type": "object"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "synthetic": {
+       "type": "boolean"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_exempt": {
+       "type": "boolean"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "tenders": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "amount": {
+          "type": "number"
+         },
+         "type": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "amount",
+         "type"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "time": {
+       "type": "string"
+      },
+      "total": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "change",
+      "city",
+      "date",
+      "features",
+      "flag_legend",
+      "item_count",
+      "items",
+      "location",
+      "printed",
+      "store",
+      "subtotal",
+      "synthetic",
+      "tax",
+      "tax_exempt",
+      "tax_rate",
+      "taxable_base",
+      "tenders",
+      "time",
+      "total"
+     ],
+     "type": "object"
+    }
+   },
+   "required": [
+    "excluded_lines",
+    "pantry",
+    "profiles",
+    "receipt"
+   ],
+   "type": "object"
+  },
+  "file": {
+   "type": "string"
+  },
+  "id": {
+   "type": "string"
+  },
+  "input": {
+   "additionalProperties": false,
+   "properties": {
+    "purchase_date": {
+     "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+     "type": "string"
+    },
+    "timezone": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "purchase_date",
+    "timezone"
+   ],
+   "type": "object"
+  },
+  "seed": {
+   "type": "integer"
+  },
+  "synthetic": {
+   "type": "boolean"
+  }
+ },
+ "required": [
+  "expected",
+  "file",
+  "id",
+  "input",
+  "seed",
+  "synthetic"
+ ],
+ "title": "large2.e2e",
+ "type": "object"
+}

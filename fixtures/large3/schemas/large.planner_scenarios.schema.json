@@ -1,0 +1,351 @@
+{
+ "$id": "miple/fixtures/large.planner_scenarios.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 3000 record(s) of large/planner/scenarios.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "calendar_events": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "all_day": {
+      "type": "boolean"
+     },
+     "availability": {
+      "type": "string"
+     },
+     "end": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}(:\\d{2})?)?$",
+      "type": "string"
+     },
+     "id": {
+      "type": "string"
+     },
+     "start": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}(:\\d{2})?)?$",
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "all_day",
+     "availability",
+     "end",
+     "id",
+     "start",
+     "title"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "days": {
+   "type": "integer"
+  },
+  "derived": {
+   "additionalProperties": false,
+   "properties": {
+    "caution_item_ids": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "excluded_item_ids": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "expected_free_windows": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "end": {
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}(:\\d{2})?)?$",
+        "type": "string"
+       },
+       "meal": {
+        "type": "string"
+       },
+       "minutes": {
+        "type": "integer"
+       },
+       "start": {
+        "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}(:\\d{2})?)?$",
+        "type": "string"
+       }
+      },
+      "required": [
+       "end",
+       "meal",
+       "minutes",
+       "start"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "expired_item_ids": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "expiring_within_days": {
+     "additionalProperties": false,
+     "properties": {
+      "0": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "1": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "3": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "7": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "0",
+      "1",
+      "3",
+      "7"
+     ],
+     "type": "object"
+    },
+    "ignored_event_ids": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "macro_kcal_from_targets": {
+     "type": "integer"
+    },
+    "unknown_expiry_item_ids": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    }
+   },
+   "required": [
+    "caution_item_ids",
+    "excluded_item_ids",
+    "expected_free_windows",
+    "expired_item_ids",
+    "expiring_within_days",
+    "ignored_event_ids",
+    "macro_kcal_from_targets",
+    "unknown_expiry_item_ids"
+   ],
+   "type": "object"
+  },
+  "has_calendar_access": {
+   "type": "boolean"
+  },
+  "id": {
+   "type": "string"
+  },
+  "now": {
+   "type": "string"
+  },
+  "pantry": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "category": {
+      "enum": [
+       "berries",
+       "berries",
+       "beverages",
+       "beverages",
+       "bread",
+       "bread",
+       "butter",
+       "canned",
+       "canned goods",
+       "condiments",
+       "cooked leftovers",
+       "cooked_leftovers",
+       "dairy_cheese",
+       "dairy_milk",
+       "deli meat",
+       "deli_meat",
+       "deposit",
+       "discount",
+       "dry goods/grains",
+       "dry_goods",
+       "eggs",
+       "eggs",
+       "fee",
+       "fresh herbs",
+       "fresh_fruit",
+       "fresh_vegetables",
+       "frozen",
+       "frozen foods",
+       "hard cheese",
+       "herbs",
+       "leafy greens",
+       "leafy_greens",
+       "milk",
+       "non_food",
+       "opened condiments",
+       "other",
+       "other fresh fruit",
+       "other fresh vegetables",
+       "raw fish",
+       "raw ground meat",
+       "raw poultry",
+       "raw whole cuts",
+       "raw_meat",
+       "raw_poultry",
+       "raw_seafood",
+       "root vegetables",
+       "root_vegetables",
+       "snacks",
+       "snacks",
+       "soft cheese",
+       "tofu",
+       "tofu",
+       "tortillas",
+       "tortillas",
+       "yogurt",
+       "yogurt"
+      ],
+      "type": "string"
+     },
+     "estimated_expiry": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": [
+       "null",
+       "string"
+      ]
+     },
+     "id": {
+      "type": "string"
+     },
+     "name": {
+      "type": "string"
+     },
+     "name_allergen_keys": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "name_may_contain": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "purchase_date": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+     },
+     "quantity": {
+      "type": "number"
+     },
+     "shelf_life_category": {
+      "type": "string"
+     },
+     "storage": {
+      "enum": [
+       "freezer",
+       "fridge",
+       "pantry"
+      ],
+      "type": "string"
+     },
+     "unit": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "category",
+     "estimated_expiry",
+     "id",
+     "name",
+     "name_allergen_keys",
+     "name_may_contain",
+     "purchase_date",
+     "quantity",
+     "shelf_life_category",
+     "storage",
+     "unit"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "profile": {
+   "additionalProperties": false,
+   "properties": {
+    "allergies": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "calorie_target": {
+     "type": "integer"
+    },
+    "carbs_target_g": {
+     "type": "integer"
+    },
+    "fat_target_g": {
+     "type": "integer"
+    },
+    "protein_target_g": {
+     "type": "integer"
+    },
+    "timezone": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "allergies",
+    "calorie_target",
+    "carbs_target_g",
+    "fat_target_g",
+    "protein_target_g",
+    "timezone"
+   ],
+   "type": "object"
+  },
+  "synthetic": {
+   "type": "boolean"
+  }
+ },
+ "required": [
+  "calendar_events",
+  "days",
+  "derived",
+  "has_calendar_access",
+  "id",
+  "now",
+  "pantry",
+  "profile",
+  "synthetic"
+ ],
+ "title": "large.planner_scenarios",
+ "type": "object"
+}

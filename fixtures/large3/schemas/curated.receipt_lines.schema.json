@@ -1,0 +1,153 @@
+{
+ "$id": "miple/fixtures/curated.receipt_lines.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 1 record(s) of receipt_lines.json + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "_meta": {
+   "additionalProperties": false,
+   "properties": {
+    "description": {
+     "type": "string"
+    },
+    "extra_categories": {
+     "additionalProperties": false,
+     "properties": {
+      "deposit": {
+       "type": "string"
+      },
+      "discount": {
+       "type": "string"
+      },
+      "fee": {
+       "type": "string"
+      },
+      "non_food": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "deposit",
+      "discount",
+      "fee",
+      "non_food"
+     ],
+     "type": "object"
+    },
+    "observed_note": {
+     "type": "string"
+    },
+    "observed_sources": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    }
+   },
+   "required": [
+    "description",
+    "extra_categories",
+    "observed_note",
+    "observed_sources"
+   ],
+   "type": "object"
+  },
+  "lines": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "category": {
+      "enum": [
+       "berries",
+       "beverages",
+       "bread",
+       "butter",
+       "canned goods",
+       "cooked leftovers",
+       "deli meat",
+       "deposit",
+       "discount",
+       "dry goods/grains",
+       "eggs",
+       "fee",
+       "fresh herbs",
+       "frozen foods",
+       "hard cheese",
+       "leafy greens",
+       "milk",
+       "non_food",
+       "opened condiments",
+       "other fresh fruit",
+       "other fresh vegetables",
+       "raw fish",
+       "raw ground meat",
+       "raw poultry",
+       "raw whole cuts",
+       "root vegetables",
+       "snacks",
+       "soft cheese",
+       "tofu",
+       "tortillas",
+       "yogurt"
+      ],
+      "type": "string"
+     },
+     "normalized_name": {
+      "type": "string"
+     },
+     "observed": {
+      "type": "boolean"
+     },
+     "price": {
+      "type": [
+       "null",
+       "number"
+      ]
+     },
+     "quantity": {
+      "type": "number"
+     },
+     "raw_text": {
+      "type": "string"
+     },
+     "source_url": {
+      "type": "string"
+     },
+     "store": {
+      "enum": [
+       "Costco",
+       "Fred Meyer",
+       "QFC",
+       "Safeway",
+       "Target",
+       "Trader Joe's",
+       "Whole Foods"
+      ],
+      "type": "string"
+     },
+     "unit": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "category",
+     "normalized_name",
+     "observed",
+     "price",
+     "quantity",
+     "raw_text",
+     "store",
+     "unit"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "_meta",
+  "lines"
+ ],
+ "title": "curated.receipt_lines",
+ "type": "object"
+}

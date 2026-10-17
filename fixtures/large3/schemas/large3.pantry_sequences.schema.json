@@ -1,0 +1,401 @@
+{
+ "$id": "miple/fixtures/large3.pantry_sequences.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 3000 record(s) of large3/pantry_sequences/*.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "checkpoints": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "active_lots": {
+      "items": {
+       "additionalProperties": false,
+       "properties": {
+        "app_category_key": {
+         "enum": [
+          "berries",
+          "beverages",
+          "bread",
+          "canned",
+          "condiments",
+          "cooked_leftovers",
+          "dairy_cheese",
+          "dairy_milk",
+          "deli_meat",
+          "dry_goods",
+          "eggs",
+          "fresh_fruit",
+          "fresh_vegetables",
+          "frozen",
+          "herbs",
+          "leafy_greens",
+          "other",
+          "raw_meat",
+          "raw_poultry",
+          "raw_seafood",
+          "root_vegetables",
+          "snacks",
+          "tofu",
+          "tortillas",
+          "yogurt"
+         ],
+         "type": "string"
+        },
+        "category": {
+         "enum": [
+          "berries",
+          "beverages",
+          "bread",
+          "butter",
+          "canned goods",
+          "cooked leftovers",
+          "deli meat",
+          "deposit",
+          "discount",
+          "dry goods/grains",
+          "eggs",
+          "fee",
+          "fresh herbs",
+          "frozen foods",
+          "hard cheese",
+          "leafy greens",
+          "milk",
+          "non_food",
+          "opened condiments",
+          "other fresh fruit",
+          "other fresh vegetables",
+          "raw fish",
+          "raw ground meat",
+          "raw poultry",
+          "raw whole cuts",
+          "root vegetables",
+          "snacks",
+          "soft cheese",
+          "tofu",
+          "tortillas",
+          "yogurt"
+         ],
+         "type": "string"
+        },
+        "days_left": {
+         "type": "integer"
+        },
+        "estimated_expiry": {
+         "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+         "type": "string"
+        },
+        "expiry_source": {
+         "type": "string"
+        },
+        "lot_id": {
+         "type": "string"
+        },
+        "name": {
+         "type": "string"
+        },
+        "purchase_date": {
+         "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+         "type": "string"
+        },
+        "quantity": {
+         "type": "number"
+        },
+        "receipt_id": {
+         "type": [
+          "null",
+          "string"
+         ]
+        },
+        "shelf_life_days": {
+         "type": "integer"
+        },
+        "source": {
+         "type": "string"
+        },
+        "status": {
+         "enum": [
+          "active",
+          "used",
+          "wasted"
+         ],
+         "type": "string"
+        },
+        "unit": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "app_category_key",
+        "category",
+        "days_left",
+        "estimated_expiry",
+        "expiry_source",
+        "lot_id",
+        "name",
+        "purchase_date",
+        "quantity",
+        "receipt_id",
+        "shelf_life_days",
+        "source",
+        "status",
+        "unit"
+       ],
+       "type": "object"
+      },
+      "type": "array"
+     },
+     "day": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+     },
+     "expired_active_lot_ids": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "next_to_use": {
+      "additionalProperties": {
+       "type": "string"
+      },
+      "type": "object"
+     },
+     "status_counts": {
+      "additionalProperties": false,
+      "properties": {
+       "active": {
+        "type": "integer"
+       },
+       "used": {
+        "type": "integer"
+       },
+       "wasted": {
+        "type": "integer"
+       }
+      },
+      "required": [
+       "active",
+       "used",
+       "wasted"
+      ],
+      "type": "object"
+     },
+     "totals": {
+      "additionalProperties": {
+       "type": "number"
+      },
+      "type": "object"
+     },
+     "used_totals": {
+      "additionalProperties": {
+       "type": "number"
+      },
+      "type": "object"
+     },
+     "wasted_totals": {
+      "additionalProperties": {
+       "type": "number"
+      },
+      "type": "object"
+     }
+    },
+    "required": [
+     "active_lots",
+     "day",
+     "expired_active_lot_ids",
+     "next_to_use",
+     "status_counts",
+     "totals",
+     "used_totals",
+     "wasted_totals"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "end": {
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}(:\\d{2})?)?$",
+   "type": "string"
+  },
+  "events": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "category": {
+      "enum": [
+       "berries",
+       "beverages",
+       "bread",
+       "butter",
+       "canned goods",
+       "cooked leftovers",
+       "deli meat",
+       "deposit",
+       "discount",
+       "dry goods/grains",
+       "eggs",
+       "fee",
+       "fresh herbs",
+       "frozen foods",
+       "hard cheese",
+       "leafy greens",
+       "milk",
+       "non_food",
+       "opened condiments",
+       "other fresh fruit",
+       "other fresh vegetables",
+       "raw fish",
+       "raw ground meat",
+       "raw poultry",
+       "raw whole cuts",
+       "root vegetables",
+       "snacks",
+       "soft cheese",
+       "tofu",
+       "tortillas",
+       "yogurt"
+      ],
+      "type": "string"
+     },
+     "day": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+     },
+     "lines": {
+      "items": {
+       "additionalProperties": false,
+       "properties": {
+        "category": {
+         "enum": [
+          "berries",
+          "beverages",
+          "bread",
+          "butter",
+          "canned goods",
+          "cooked leftovers",
+          "deli meat",
+          "deposit",
+          "discount",
+          "dry goods/grains",
+          "eggs",
+          "fee",
+          "fresh herbs",
+          "frozen foods",
+          "hard cheese",
+          "leafy greens",
+          "milk",
+          "non_food",
+          "opened condiments",
+          "other fresh fruit",
+          "other fresh vegetables",
+          "raw fish",
+          "raw ground meat",
+          "raw poultry",
+          "raw whole cuts",
+          "root vegetables",
+          "snacks",
+          "soft cheese",
+          "tofu",
+          "tortillas",
+          "yogurt"
+         ],
+         "type": "string"
+        },
+        "name": {
+         "type": "string"
+        },
+        "quantity": {
+         "type": "number"
+        },
+        "unit": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "category",
+        "name",
+        "quantity",
+        "unit"
+       ],
+       "type": "object"
+      },
+      "type": "array"
+     },
+     "lot_id": {
+      "type": "string"
+     },
+     "name": {
+      "type": "string"
+     },
+     "quantity": {
+      "type": "number"
+     },
+     "reason": {
+      "type": "string"
+     },
+     "receipt_id": {
+      "type": "string"
+     },
+     "type": {
+      "type": "string"
+     },
+     "unit": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "day",
+     "type"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "id": {
+   "type": "string"
+  },
+  "shortfalls": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "day": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+     },
+     "name": {
+      "type": "string"
+     },
+     "shortfall": {
+      "type": "number"
+     }
+    },
+    "required": [
+     "day",
+     "name",
+     "shortfall"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "start": {
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}(T\\d{2}:\\d{2}(:\\d{2})?)?$",
+   "type": "string"
+  },
+  "synthetic": {
+   "type": "boolean"
+  }
+ },
+ "required": [
+  "checkpoints",
+  "end",
+  "events",
+  "id",
+  "shortfalls",
+  "start",
+  "synthetic"
+ ],
+ "title": "large3.pantry_sequences",
+ "type": "object"
+}

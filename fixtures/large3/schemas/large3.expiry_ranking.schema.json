@@ -1,0 +1,249 @@
+{
+ "$id": "miple/fixtures/large3.expiry_ranking.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 3000 record(s) of large3/expiry_ranking/cases.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "expected": {
+   "additionalProperties": false,
+   "properties": {
+    "adjacent_day_ties": {
+     "type": "integer"
+    },
+    "excluded": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "expired": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "days_left": {
+        "type": "integer"
+       },
+       "id": {
+        "type": "string"
+       },
+       "name": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "days_left",
+       "id",
+       "name"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "expiring_within": {
+     "additionalProperties": false,
+     "properties": {
+      "0": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "1": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "3": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "7": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "0",
+      "1",
+      "3",
+      "7"
+     ],
+     "type": "object"
+    },
+    "top3": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "unknown_expiry": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "use_first": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "days_left": {
+        "type": "integer"
+       },
+       "id": {
+        "type": "string"
+       },
+       "name": {
+        "type": "string"
+       },
+       "urgency": {
+        "type": "number"
+       }
+      },
+      "required": [
+       "days_left",
+       "id",
+       "name",
+       "urgency"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    }
+   },
+   "required": [
+    "adjacent_day_ties",
+    "excluded",
+    "expired",
+    "expiring_within",
+    "top3",
+    "unknown_expiry",
+    "use_first"
+   ],
+   "type": "object"
+  },
+  "id": {
+   "type": "string"
+  },
+  "pantry": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "category": {
+      "enum": [
+       "berries",
+       "beverages",
+       "bread",
+       "canned",
+       "condiments",
+       "cooked_leftovers",
+       "dairy_cheese",
+       "dairy_milk",
+       "deli_meat",
+       "dry_goods",
+       "eggs",
+       "fresh_fruit",
+       "fresh_vegetables",
+       "frozen",
+       "herbs",
+       "leafy_greens",
+       "other",
+       "raw_meat",
+       "raw_poultry",
+       "raw_seafood",
+       "root_vegetables",
+       "snacks",
+       "tofu",
+       "tortillas",
+       "yogurt"
+      ],
+      "type": "string"
+     },
+     "estimated_expiry": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": [
+       "null",
+       "string"
+      ]
+     },
+     "id": {
+      "type": "string"
+     },
+     "name": {
+      "type": "string"
+     },
+     "price": {
+      "type": "number"
+     },
+     "purchase_date": {
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+      "type": "string"
+     },
+     "quantity": {
+      "type": "number"
+     },
+     "raw_name": {
+      "type": "null"
+     },
+     "receipt_id": {
+      "type": "null"
+     },
+     "source": {
+      "type": "string"
+     },
+     "status": {
+      "enum": [
+       "active",
+       "used",
+       "wasted"
+      ],
+      "type": "string"
+     },
+     "unit": {
+      "type": "string"
+     },
+     "updated_at": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "category",
+     "estimated_expiry",
+     "id",
+     "name",
+     "price",
+     "purchase_date",
+     "quantity",
+     "raw_name",
+     "receipt_id",
+     "source",
+     "status",
+     "unit",
+     "updated_at"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "today": {
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+   "type": "string"
+  }
+ },
+ "required": [
+  "expected",
+  "id",
+  "pantry",
+  "synthetic",
+  "today"
+ ],
+ "title": "large3.expiry_ranking",
+ "type": "object"
+}

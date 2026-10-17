@@ -1,0 +1,485 @@
+{
+ "app_source": "server/src/domain/allergens.ts",
+ "expansions": {
+  "basil pesto": [
+   "basil",
+   "pine nuts",
+   "parmesan",
+   "olive oil",
+   "garlic"
+  ],
+  "pesto": [
+   "basil",
+   "pine nuts",
+   "parmesan",
+   "olive oil",
+   "garlic"
+  ],
+  "teriyaki sauce": [
+   "soy sauce",
+   "mirin",
+   "sugar",
+   "ginger"
+  ],
+  "worcestershire sauce": [
+   "vinegar",
+   "molasses",
+   "anchovies",
+   "tamarind",
+   "onion"
+  ],
+  "caesar dressing": [
+   "olive oil",
+   "anchovies",
+   "egg yolk",
+   "parmesan",
+   "lemon juice",
+   "garlic"
+  ],
+  "pad thai sauce": [
+   "tamarind paste",
+   "fish sauce",
+   "palm sugar"
+  ],
+  "pad thai": [
+   "rice noodles",
+   "peanuts",
+   "fish sauce",
+   "eggs",
+   "tamarind paste",
+   "bean sprouts"
+  ],
+  "naan": [
+   "wheat flour",
+   "yogurt",
+   "ghee",
+   "yeast"
+  ],
+  "garlic naan": [
+   "wheat flour",
+   "yogurt",
+   "ghee",
+   "garlic"
+  ],
+  "parmesan": [
+   "cheese"
+  ],
+  "feta": [
+   "cheese"
+  ],
+  "mozzarella": [
+   "cheese"
+  ],
+  "paneer": [
+   "cheese"
+  ],
+  "soy sauce": [
+   "soybeans",
+   "wheat",
+   "salt"
+  ],
+  "shoyu": [
+   "soybeans",
+   "wheat",
+   "salt"
+  ],
+  "hoisin sauce": [
+   "soybeans",
+   "sugar",
+   "wheat flour",
+   "garlic",
+   "sesame oil"
+  ],
+  "oyster sauce": [
+   "oysters",
+   "sugar",
+   "salt",
+   "corn starch"
+  ],
+  "fish sauce": [
+   "anchovies",
+   "salt"
+  ],
+  "aioli": [
+   "egg yolk",
+   "garlic",
+   "olive oil"
+  ],
+  "alfredo sauce": [
+   "butter",
+   "heavy cream",
+   "parmesan"
+  ],
+  "bechamel": [
+   "butter",
+   "wheat flour",
+   "milk"
+  ],
+  "ranch dressing": [
+   "buttermilk",
+   "mayonnaise",
+   "herbs"
+  ],
+  "tzatziki": [
+   "greek yogurt",
+   "cucumber",
+   "garlic"
+  ],
+  "hummus": [
+   "chickpeas",
+   "tahini",
+   "lemon juice"
+  ],
+  "baba ganoush": [
+   "eggplant",
+   "tahini",
+   "lemon juice"
+  ],
+  "dukkah": [
+   "hazelnuts",
+   "sesame seeds",
+   "coriander",
+   "cumin"
+  ],
+  "romesco": [
+   "roasted red peppers",
+   "almonds",
+   "bread",
+   "olive oil"
+  ],
+  "muhammara": [
+   "roasted red peppers",
+   "walnuts",
+   "bread crumbs",
+   "pomegranate molasses"
+  ],
+  "korma sauce": [
+   "cashews",
+   "heavy cream",
+   "onion",
+   "spices"
+  ],
+  "satay sauce": [
+   "peanut butter",
+   "coconut milk",
+   "soy sauce",
+   "lime juice"
+  ],
+  "katsu": [
+   "panko",
+   "eggs",
+   "wheat flour",
+   "pork cutlet"
+  ],
+  "tempura batter": [
+   "wheat flour",
+   "eggs",
+   "ice water"
+  ],
+  "red curry paste": [
+   "chilies",
+   "lemongrass",
+   "shrimp paste",
+   "garlic"
+  ],
+  "kimchi": [
+   "napa cabbage",
+   "chili flakes",
+   "fish sauce",
+   "garlic"
+  ],
+  "xo sauce": [
+   "dried shrimp",
+   "dried scallops",
+   "chilies",
+   "oil"
+  ],
+  "baklava": [
+   "phyllo dough",
+   "walnuts",
+   "pistachios",
+   "butter",
+   "honey"
+  ],
+  "phyllo dough": [
+   "wheat flour",
+   "water",
+   "oil"
+  ],
+  "spaghetti": [
+   "durum wheat semolina"
+  ],
+  "pasta": [
+   "durum wheat semolina"
+  ],
+  "gnocchi": [
+   "potatoes",
+   "wheat flour",
+   "eggs"
+  ],
+  "miso soup": [
+   "miso paste",
+   "tofu",
+   "seaweed"
+  ],
+  "tamari": [
+   "soybeans",
+   "salt"
+  ],
+  "mole sauce": [
+   "chilies",
+   "peanuts",
+   "sesame seeds",
+   "chocolate",
+   "bread"
+  ],
+  "gado gado dressing": [
+   "peanuts",
+   "soy sauce",
+   "lime juice"
+  ],
+  "ponzu": [
+   "soy sauce",
+   "citrus juice",
+   "mirin"
+  ],
+  "furikake": [
+   "sesame seeds",
+   "seaweed",
+   "bonito flakes"
+  ],
+  "bonito flakes": [
+   "fish"
+  ],
+  "pho broth": [
+   "beef bones",
+   "fish sauce",
+   "spices"
+  ],
+  "crab rangoon": [
+   "crab meat",
+   "cream cheese",
+   "wonton wrappers"
+  ],
+  "wonton wrappers": [
+   "wheat flour",
+   "eggs"
+  ]
+ },
+ "foreign": {
+  "cacahuetes": "peanuts",
+  "cacahuate": "peanuts",
+  "maní": "peanuts",
+  "arachides": "peanuts",
+  "erdnüsse": "peanuts",
+  "nueces": "walnuts",
+  "noix": "walnuts",
+  "almendras": "almonds",
+  "amandes": "almonds",
+  "mandeln": "almonds",
+  "piñones": "pine nuts",
+  "leche": "milk",
+  "lait": "milk",
+  "milch": "milk",
+  "queso": "cheese",
+  "fromage": "cheese",
+  "käse": "cheese",
+  "mantequilla": "butter",
+  "beurre": "butter",
+  "crema": "cream",
+  "nata": "cream",
+  "huevos": "eggs",
+  "œufs": "eggs",
+  "oeufs": "eggs",
+  "eier": "eggs",
+  "tamago": "eggs",
+  "harina de trigo": "wheat flour",
+  "farine de blé": "wheat flour",
+  "weizenmehl": "wheat flour",
+  "camarones": "shrimp",
+  "gambas": "shrimp",
+  "crevettes": "shrimp",
+  "garnelen": "shrimp",
+  "ebi": "shrimp",
+  "cangrejo": "crab meat",
+  "kani": "crab meat",
+  "pescado": "fish",
+  "poisson": "fish",
+  "salmón": "salmon",
+  "atún": "tuna",
+  "anchoas": "anchovies",
+  "sésamo": "sesame seeds",
+  "ajonjolí": "sesame seeds",
+  "goma": "sesame seeds",
+  "sésame": "sesame seeds",
+  "soja": "soybeans",
+  "shoyu": "soy sauce",
+  "salsa de soja": "soy sauce",
+  "tofu frito": "tofu"
+ },
+ "misspellings": {
+  "peanuts": [
+   "penuts",
+   "peanutts",
+   "peanus",
+   "pea nuts"
+  ],
+  "peanut butter": [
+   "penut butter",
+   "peanutbutter"
+  ],
+  "almonds": [
+   "almods",
+   "almnds",
+   "allmonds"
+  ],
+  "cashews": [
+   "cashwes",
+   "cashues",
+   "cashew's"
+  ],
+  "walnuts": [
+   "walnts",
+   "wallnuts"
+  ],
+  "pine nuts": [
+   "pinenuts",
+   "pine-nuts",
+   "pinnuts"
+  ],
+  "pistachios": [
+   "pistachoes",
+   "pistacios"
+  ],
+  "parmesan": [
+   "parmasan",
+   "parmesean",
+   "parmigian"
+  ],
+  "mayonnaise": [
+   "mayonaise",
+   "mayonase",
+   "mayo-naise"
+  ],
+  "eggs": [
+   "egs",
+   "eggz"
+  ],
+  "sesame seeds": [
+   "sesmae seeds",
+   "seseme seeds",
+   "sesame-seeds"
+  ],
+  "tahini": [
+   "tahina",
+   "tahinni"
+  ],
+  "soy sauce": [
+   "soysauce",
+   "soy-sauce",
+   "soya sauce"
+  ],
+  "worcestershire sauce": [
+   "worchestershire sauce",
+   "worcester sauce",
+   "woostershire sauce"
+  ],
+  "shrimp": [
+   "shrimps",
+   "srimp",
+   "shirmp"
+  ],
+  "anchovies": [
+   "anchovys",
+   "anchovie"
+  ],
+  "yogurt": [
+   "yougurt",
+   "yoghurt"
+  ],
+  "butter": [
+   "buttter",
+   "buter"
+  ],
+  "cheese": [
+   "cheeze",
+   "chese"
+  ],
+  "wheat flour": [
+   "weat flour",
+   "wheatflour"
+  ],
+  "tofu": [
+   "tofoo"
+  ],
+  "crab meat": [
+   "crabmeat",
+   "krab meat"
+  ],
+  "salmon": [
+   "samon",
+   "salmón"
+  ],
+  "heavy cream": [
+   "heavy creme",
+   "heavycream"
+  ],
+  "hazelnuts": [
+   "hazlenuts",
+   "hazel nuts"
+  ]
+ },
+ "plurals": {
+  "anchovy": "anchovies",
+  "peanut": "peanuts",
+  "cashew": "cashews",
+  "egg": "eggs",
+  "shrimp": "shrimp",
+  "walnut": "walnuts",
+  "almond": "almonds",
+  "oyster": "oysters",
+  "loaf of bread": "loaves of bread",
+  "tortilla": "tortillas",
+  "noodle": "noodles",
+  "prawn": "prawns",
+  "clam": "clams",
+  "sardine": "sardines",
+  "scallop": "scallops",
+  "mussel": "mussels",
+  "anchovy fillet": "anchovy fillets",
+  "hazelnut": "hazelnuts",
+  "brazil nut": "brazil nuts",
+  "pine nut": "pine nuts",
+  "crab": "crabs",
+  "lobster tail": "lobster tails",
+  "sesame seed": "sesame seeds",
+  "mozzarella ball": "mozzarella balls",
+  "berry": "berries",
+  "pastry": "pastries",
+  "cheese": "cheeses",
+  "tomato": "tomatoes",
+  "potato": "potatoes"
+ },
+ "traps": [
+  "coconut milk",
+  "cream of tartar",
+  "cocoa butter",
+  "buckwheat noodles",
+  "rice noodles",
+  "corn tortillas",
+  "gluten-free pasta",
+  "sunflower seed butter",
+  "eggplant",
+  "butternut squash",
+  "nutmeg",
+  "water chestnuts",
+  "peanut-free granola",
+  "coconut yogurt",
+  "rice flour",
+  "oat milk",
+  "almond-free pesto (basil, sunflower seeds, olive oil)",
+  "nutritional yeast",
+  "dairy-free butter (coconut oil)"
+ ],
+ "note": "EXPANSIONS/FOREIGN/MISSPELL are documented assumptions; component labels come from allergens.json via the batch-1 matcher"
+}

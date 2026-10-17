@@ -1,0 +1,184 @@
+{
+ "sets": [
+  {
+   "schema": "curated.shelf_life.schema.json",
+   "files": [
+    "shelf_life.json"
+   ],
+   "jsonl": false,
+   "records": 1
+  },
+  {
+   "schema": "curated.receipt_lines.schema.json",
+   "files": [
+    "receipt_lines.json"
+   ],
+   "jsonl": false,
+   "records": 1
+  },
+  {
+   "schema": "curated.allergens.schema.json",
+   "files": [
+    "allergens.json"
+   ],
+   "jsonl": false,
+   "records": 1
+  },
+  {
+   "schema": "curated.receipts_expected.schema.json",
+   "files": [
+    "receipts/expected.json"
+   ],
+   "jsonl": false,
+   "records": 1
+  },
+  {
+   "schema": "large.receipts_clean.schema.json",
+   "files": [
+    "large/receipts/expected_clean.jsonl"
+   ],
+   "jsonl": true,
+   "records": 2400
+  },
+  {
+   "schema": "large.receipts_ocr_noise.schema.json",
+   "files": [
+    "large/receipts/expected_ocr_noise.jsonl"
+   ],
+   "jsonl": true,
+   "records": 600
+  },
+  {
+   "schema": "large.receipt_lines.schema.json",
+   "files": [
+    "large/receipt_lines/*.jsonl"
+   ],
+   "jsonl": true,
+   "records": 24000
+  },
+  {
+   "schema": "large.pantry_expiry.schema.json",
+   "files": [
+    "large/pantry/expiry_cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 12000
+  },
+  {
+   "schema": "large.allergen_cases.schema.json",
+   "files": [
+    "large/allergens/cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 9900
+  },
+  {
+   "schema": "large.planner_scenarios.schema.json",
+   "files": [
+    "large/planner/scenarios.jsonl"
+   ],
+   "jsonl": true,
+   "records": 3000
+  },
+  {
+   "schema": "large2.adversarial.schema.json",
+   "files": [
+    "large2/adversarial/expected.jsonl"
+   ],
+   "jsonl": true,
+   "records": 2260
+  },
+  {
+   "schema": "large2.normalization_pairs.schema.json",
+   "files": [
+    "large2/normalization/pairs_*.jsonl"
+   ],
+   "jsonl": true,
+   "records": 30000
+  },
+  {
+   "schema": "large2.normalization_items.schema.json",
+   "files": [
+    "large2/normalization/items.jsonl"
+   ],
+   "jsonl": true,
+   "records": 335
+  },
+  {
+   "schema": "large2.e2e.schema.json",
+   "files": [
+    "large2/e2e/cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 2000
+  },
+  {
+   "schema": "large2.date_headers.schema.json",
+   "files": [
+    "large2/dates/header_cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 6000
+  },
+  {
+   "schema": "large2.date_receipts.schema.json",
+   "files": [
+    "large2/dates/receipts_expected.jsonl"
+   ],
+   "jsonl": true,
+   "records": 300
+  },
+  {
+   "schema": "large3.llm_safety.schema.json",
+   "files": [
+    "large3/llm_safety/cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 5150
+  },
+  {
+   "schema": "large3.llm_lookup_tables.schema.json",
+   "files": [
+    "large3/llm_safety/lookup_tables.json"
+   ],
+   "jsonl": false,
+   "records": 1
+  },
+  {
+   "schema": "large3.pantry_sequences.schema.json",
+   "files": [
+    "large3/pantry_sequences/*.jsonl"
+   ],
+   "jsonl": true,
+   "records": 3000
+  },
+  {
+   "schema": "large3.quantity_parsing.schema.json",
+   "files": [
+    "large3/quantity_parsing/cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 10000
+  },
+  {
+   "schema": "large3.expiry_ranking.schema.json",
+   "files": [
+    "large3/expiry_ranking/cases.jsonl"
+   ],
+   "jsonl": true,
+   "records": 3000
+  }
+ ],
+ "allergen_keys": [
+  "peanut",
+  "tree_nut",
+  "milk",
+  "egg",
+  "wheat",
+  "gluten",
+  "soy",
+  "fish",
+  "shellfish",
+  "sesame"
+ ]
+}

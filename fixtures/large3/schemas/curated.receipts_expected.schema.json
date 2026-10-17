@@ -1,0 +1,1432 @@
+{
+ "$id": "miple/fixtures/curated.receipts_expected.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 1 record(s) of receipts/expected.json + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "_meta": {
+   "additionalProperties": false,
+   "properties": {
+    "dates": {
+     "type": "string"
+    },
+    "note": {
+     "type": "string"
+    },
+    "tax_rate": {
+     "type": "number"
+    },
+    "tax_rule": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "dates",
+    "note",
+    "tax_rate",
+    "tax_rule"
+   ],
+   "type": "object"
+  },
+  "receipts": {
+   "additionalProperties": false,
+   "properties": {
+    "01_safeway_easy.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "number"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "02_qfc_coupons.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "integer"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "03_fredmeyer_void.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "number"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "price": {
+          "type": "number"
+         },
+         "raw_text": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "price",
+         "raw_text"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "04_traderjoes_easy.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "integer"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "05_costco_instant_savings.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "number"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "06_wholefoods_hotbar.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "number"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "07_target_mixed.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "integer"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "08_safeway_messy.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "number"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "09_costco_big.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "number"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    },
+    "10_traderjoes_tiny.txt": {
+     "additionalProperties": false,
+     "properties": {
+      "date": {
+       "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+       "type": "string"
+      },
+      "items": {
+       "items": {
+        "additionalProperties": false,
+        "properties": {
+         "category": {
+          "enum": [
+           "berries",
+           "beverages",
+           "bread",
+           "butter",
+           "canned goods",
+           "cooked leftovers",
+           "deli meat",
+           "deposit",
+           "discount",
+           "dry goods/grains",
+           "eggs",
+           "fee",
+           "fresh herbs",
+           "frozen foods",
+           "hard cheese",
+           "leafy greens",
+           "milk",
+           "non_food",
+           "opened condiments",
+           "other fresh fruit",
+           "other fresh vegetables",
+           "raw fish",
+           "raw ground meat",
+           "raw poultry",
+           "raw whole cuts",
+           "root vegetables",
+           "snacks",
+           "soft cheese",
+           "tofu",
+           "tortillas",
+           "yogurt"
+          ],
+          "type": "string"
+         },
+         "normalized_name": {
+          "type": "string"
+         },
+         "price": {
+          "type": "number"
+         },
+         "quantity": {
+          "type": "integer"
+         },
+         "raw_text": {
+          "type": "string"
+         },
+         "store": {
+          "enum": [
+           "Costco",
+           "Fred Meyer",
+           "QFC",
+           "Safeway",
+           "Target",
+           "Trader Joe's",
+           "Whole Foods"
+          ],
+          "type": "string"
+         },
+         "taxable": {
+          "type": "boolean"
+         },
+         "unit": {
+          "type": "string"
+         }
+        },
+        "required": [
+         "category",
+         "normalized_name",
+         "price",
+         "quantity",
+         "raw_text",
+         "store",
+         "taxable",
+         "unit"
+        ],
+        "type": "object"
+       },
+       "type": "array"
+      },
+      "store": {
+       "enum": [
+        "Costco",
+        "Fred Meyer",
+        "QFC",
+        "Safeway",
+        "Target",
+        "Trader Joe's",
+        "Whole Foods"
+       ],
+       "type": "string"
+      },
+      "subtotal": {
+       "type": "number"
+      },
+      "tax": {
+       "type": "number"
+      },
+      "tax_rate": {
+       "type": "number"
+      },
+      "taxable_base": {
+       "type": "number"
+      },
+      "total": {
+       "type": "number"
+      },
+      "voided_lines": {
+       "type": "array"
+      }
+     },
+     "required": [
+      "date",
+      "items",
+      "store",
+      "subtotal",
+      "tax",
+      "tax_rate",
+      "taxable_base",
+      "total",
+      "voided_lines"
+     ],
+     "type": "object"
+    }
+   },
+   "required": [
+    "01_safeway_easy.txt",
+    "02_qfc_coupons.txt",
+    "03_fredmeyer_void.txt",
+    "04_traderjoes_easy.txt",
+    "05_costco_instant_savings.txt",
+    "06_wholefoods_hotbar.txt",
+    "07_target_mixed.txt",
+    "08_safeway_messy.txt",
+    "09_costco_big.txt",
+    "10_traderjoes_tiny.txt"
+   ],
+   "type": "object"
+  }
+ },
+ "required": [
+  "_meta",
+  "receipts"
+ ],
+ "title": "curated.receipts_expected",
+ "type": "object"
+}

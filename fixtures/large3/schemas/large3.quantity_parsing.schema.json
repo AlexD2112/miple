@@ -1,0 +1,203 @@
+{
+ "$id": "miple/fixtures/large3.quantity_parsing.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 10000 record(s) of large3/quantity_parsing/cases.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "category": {
+   "type": "string"
+  },
+  "expected": {
+   "additionalProperties": false,
+   "properties": {
+    "app_quantity": {
+     "type": "number"
+    },
+    "app_unit": {
+     "type": [
+      "null",
+      "string"
+     ]
+    },
+    "deal": {
+     "additionalProperties": false,
+     "properties": {
+      "discount": {
+       "type": "number"
+      },
+      "n": {
+       "type": "integer"
+      },
+      "per_unit": {
+       "type": "number"
+      },
+      "price": {
+       "type": "number"
+      },
+      "type": {
+       "type": "string"
+      }
+     },
+     "required": [],
+     "type": [
+      "null",
+      "object"
+     ]
+    },
+    "discount_total": {
+     "type": "number"
+    },
+    "gross_total": {
+     "type": "number"
+    },
+    "line_total": {
+     "type": "number"
+    },
+    "pack": {
+     "additionalProperties": false,
+     "properties": {
+      "count": {
+       "type": "integer"
+      },
+      "size": {
+       "type": [
+        "null",
+        "number"
+       ]
+      },
+      "size_unit": {
+       "type": [
+        "null",
+        "string"
+       ]
+      }
+     },
+     "required": [
+      "count",
+      "size",
+      "size_unit"
+     ],
+     "type": [
+      "null",
+      "object"
+     ]
+    },
+    "quantity": {
+     "type": "number"
+    },
+    "size": {
+     "additionalProperties": false,
+     "properties": {
+      "unit": {
+       "type": "string"
+      },
+      "value": {
+       "type": "number"
+      }
+     },
+     "required": [
+      "unit",
+      "value"
+     ],
+     "type": [
+      "null",
+      "object"
+     ]
+    },
+    "unit": {
+     "type": "string"
+    },
+    "unit_price": {
+     "type": [
+      "null",
+      "number"
+     ]
+    },
+    "weight_embedded": {
+     "additionalProperties": false,
+     "properties": {
+      "embedded_price": {
+       "type": "number"
+      },
+      "format": {
+       "type": "string"
+      },
+      "upc": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "embedded_price",
+      "format",
+      "upc"
+     ],
+     "type": [
+      "null",
+      "object"
+     ]
+    }
+   },
+   "required": [
+    "app_quantity",
+    "app_unit",
+    "deal",
+    "discount_total",
+    "gross_total",
+    "line_total",
+    "pack",
+    "quantity",
+    "size",
+    "unit",
+    "unit_price",
+    "weight_embedded"
+   ],
+   "type": "object"
+  },
+  "id": {
+   "type": "string"
+  },
+  "lines": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "normalized_name": {
+   "type": "string"
+  },
+  "observed": {
+   "type": "boolean"
+  },
+  "pricing_type": {
+   "type": "string"
+  },
+  "store": {
+   "enum": [
+    "Costco",
+    "Fred Meyer",
+    "QFC",
+    "Safeway",
+    "Target",
+    "Trader Joe's",
+    "Whole Foods"
+   ],
+   "type": "string"
+  },
+  "synthetic": {
+   "type": "boolean"
+  }
+ },
+ "required": [
+  "category",
+  "expected",
+  "id",
+  "lines",
+  "normalized_name",
+  "observed",
+  "pricing_type",
+  "store",
+  "synthetic"
+ ],
+ "title": "large3.quantity_parsing",
+ "type": "object"
+}

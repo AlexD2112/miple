@@ -1,0 +1,110 @@
+{
+ "$id": "miple/fixtures/large2.normalization_pairs.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 30000 record(s) of large2/normalization/pairs_*.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "app_category_key": {
+   "enum": [
+    "berries",
+    "beverages",
+    "bread",
+    "canned",
+    "condiments",
+    "cooked_leftovers",
+    "dairy_cheese",
+    "dairy_milk",
+    "deli_meat",
+    "dry_goods",
+    "eggs",
+    "fresh_fruit",
+    "fresh_vegetables",
+    "frozen",
+    "herbs",
+    "leafy_greens",
+    "other",
+    "raw_meat",
+    "raw_poultry",
+    "raw_seafood",
+    "root_vegetables",
+    "snacks",
+    "tofu",
+    "tortillas",
+    "yogurt",
+    null
+   ],
+   "type": [
+    "null",
+    "string"
+   ]
+  },
+  "category": {
+   "type": "string"
+  },
+  "confusable_with": {
+   "type": [
+    "null",
+    "string"
+   ]
+  },
+  "hard_negative": {
+   "type": "boolean"
+  },
+  "id": {
+   "type": "string"
+  },
+  "label_source": {
+   "type": "string"
+  },
+  "normalized_name": {
+   "type": "string"
+  },
+  "observed": {
+   "type": "boolean"
+  },
+  "ocr_noise": {
+   "type": "boolean"
+  },
+  "raw_text": {
+   "type": "string"
+  },
+  "store": {
+   "enum": [
+    "Costco",
+    "Fred Meyer",
+    "QFC",
+    "Safeway",
+    "Target",
+    "Trader Joe's",
+    "Whole Foods"
+   ],
+   "type": "string"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "variant_ops": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "app_category_key",
+  "category",
+  "confusable_with",
+  "hard_negative",
+  "id",
+  "label_source",
+  "normalized_name",
+  "observed",
+  "ocr_noise",
+  "raw_text",
+  "store",
+  "synthetic",
+  "variant_ops"
+ ],
+ "title": "large2.normalization_pairs",
+ "type": "object"
+}

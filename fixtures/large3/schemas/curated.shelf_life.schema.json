@@ -1,0 +1,227 @@
+{
+ "$id": "miple/fixtures/curated.shelf_life.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 1 record(s) of shelf_life.json + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "app_category_key_note": {
+   "type": "string"
+  },
+  "categories": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "app_category_key": {
+      "enum": [
+       "berries",
+       "beverages",
+       "bread",
+       "canned",
+       "condiments",
+       "cooked_leftovers",
+       "dairy_cheese",
+       "dairy_milk",
+       "deli_meat",
+       "dry_goods",
+       "eggs",
+       "fresh_fruit",
+       "fresh_vegetables",
+       "frozen",
+       "herbs",
+       "leafy_greens",
+       "other",
+       "raw_meat",
+       "raw_poultry",
+       "raw_seafood",
+       "root_vegetables",
+       "snacks",
+       "tofu",
+       "tortillas",
+       "yogurt"
+      ],
+      "type": "string"
+     },
+     "category": {
+      "enum": [
+       "berries",
+       "beverages",
+       "bread",
+       "butter",
+       "canned goods",
+       "cooked leftovers",
+       "deli meat",
+       "deposit",
+       "discount",
+       "dry goods/grains",
+       "eggs",
+       "fee",
+       "fresh herbs",
+       "frozen foods",
+       "hard cheese",
+       "leafy greens",
+       "milk",
+       "non_food",
+       "opened condiments",
+       "other fresh fruit",
+       "other fresh vegetables",
+       "raw fish",
+       "raw ground meat",
+       "raw poultry",
+       "raw whole cuts",
+       "root vegetables",
+       "snacks",
+       "soft cheese",
+       "tofu",
+       "tortillas",
+       "yogurt"
+      ],
+      "type": "string"
+     },
+     "default_storage": {
+      "enum": [
+       "freezer",
+       "fridge",
+       "pantry"
+      ],
+      "type": "string"
+     },
+     "foodkeeper_product_ids": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "freezer_days": {
+      "type": [
+       "integer",
+       "null"
+      ]
+     },
+     "fridge_days": {
+      "type": [
+       "integer",
+       "null"
+      ]
+     },
+     "pantry_days": {
+      "type": [
+       "integer",
+       "null"
+      ]
+     },
+     "source_note": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "app_category_key",
+     "category",
+     "default_storage",
+     "foodkeeper_product_ids",
+     "freezer_days",
+     "fridge_days",
+     "pantry_days",
+     "source_note"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "examples": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "category": {
+      "enum": [
+       "berries",
+       "beverages",
+       "bread",
+       "butter",
+       "canned goods",
+       "cooked leftovers",
+       "deli meat",
+       "deposit",
+       "discount",
+       "dry goods/grains",
+       "eggs",
+       "fee",
+       "fresh herbs",
+       "frozen foods",
+       "hard cheese",
+       "leafy greens",
+       "milk",
+       "non_food",
+       "opened condiments",
+       "other fresh fruit",
+       "other fresh vegetables",
+       "raw fish",
+       "raw ground meat",
+       "raw poultry",
+       "raw whole cuts",
+       "root vegetables",
+       "snacks",
+       "soft cheese",
+       "tofu",
+       "tortillas",
+       "yogurt"
+      ],
+      "type": "string"
+     },
+     "item": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "category",
+     "item"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "examples_note": {
+   "type": "string"
+  },
+  "source": {
+   "additionalProperties": false,
+   "properties": {
+    "catalog": {
+     "type": "string"
+    },
+    "license": {
+     "type": "string"
+    },
+    "method": {
+     "type": "string"
+    },
+    "name": {
+     "type": "string"
+    },
+    "retrieved_via": {
+     "type": "string"
+    },
+    "url": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "catalog",
+    "license",
+    "method",
+    "name",
+    "retrieved_via",
+    "url"
+   ],
+   "type": "object"
+  }
+ },
+ "required": [
+  "app_category_key_note",
+  "categories",
+  "examples",
+  "examples_note",
+  "source"
+ ],
+ "title": "curated.shelf_life",
+ "type": "object"
+}

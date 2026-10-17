@@ -1,0 +1,240 @@
+{
+ "$id": "miple/fixtures/large.receipts_clean.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 2400 record(s) of large/receipts/expected_clean.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "change": {
+   "type": "number"
+  },
+  "city": {
+   "type": "string"
+  },
+  "date": {
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+   "type": "string"
+  },
+  "features": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "file": {
+   "type": "string"
+  },
+  "id": {
+   "type": "string"
+  },
+  "item_count": {
+   "type": "integer"
+  },
+  "items": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "applies_to": {
+      "type": "string"
+     },
+     "category": {
+      "enum": [
+       "berries",
+       "beverages",
+       "bread",
+       "butter",
+       "canned goods",
+       "cooked leftovers",
+       "deli meat",
+       "deposit",
+       "discount",
+       "dry goods/grains",
+       "eggs",
+       "fee",
+       "fresh herbs",
+       "frozen foods",
+       "hard cheese",
+       "leafy greens",
+       "milk",
+       "non_food",
+       "opened condiments",
+       "other fresh fruit",
+       "other fresh vegetables",
+       "raw fish",
+       "raw ground meat",
+       "raw poultry",
+       "raw whole cuts",
+       "root vegetables",
+       "snacks",
+       "soft cheese",
+       "tofu",
+       "tortillas",
+       "yogurt"
+      ],
+      "type": "string"
+     },
+     "line_type": {
+      "type": "string"
+     },
+     "normalized_name": {
+      "type": "string"
+     },
+     "observed": {
+      "type": "boolean"
+     },
+     "price": {
+      "type": "number"
+     },
+     "price_override_from": {
+      "type": "number"
+     },
+     "quantity": {
+      "type": "number"
+     },
+     "raw_text": {
+      "type": "string"
+     },
+     "store": {
+      "enum": [
+       "Costco",
+       "Fred Meyer",
+       "QFC",
+       "Safeway",
+       "Target",
+       "Trader Joe's",
+       "Whole Foods"
+      ],
+      "type": "string"
+     },
+     "taxable": {
+      "type": "boolean"
+     },
+     "unit": {
+      "type": "string"
+     },
+     "unit_price": {
+      "type": "number"
+     }
+    },
+    "required": [
+     "category",
+     "line_type",
+     "normalized_name",
+     "observed",
+     "price",
+     "quantity",
+     "raw_text",
+     "store",
+     "taxable",
+     "unit"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "location": {
+   "type": "string"
+  },
+  "seed": {
+   "type": "integer"
+  },
+  "store": {
+   "enum": [
+    "Costco",
+    "Fred Meyer",
+    "QFC",
+    "Safeway",
+    "Target",
+    "Trader Joe's",
+    "Whole Foods"
+   ],
+   "type": "string"
+  },
+  "subtotal": {
+   "type": "number"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "tax": {
+   "type": "number"
+  },
+  "tax_rate": {
+   "type": "number"
+  },
+  "taxable_base": {
+   "type": "number"
+  },
+  "tenders": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "amount": {
+      "type": "number"
+     },
+     "type": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "amount",
+     "type"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  },
+  "time": {
+   "type": "string"
+  },
+  "total": {
+   "type": "number"
+  },
+  "variant": {
+   "type": "string"
+  },
+  "voided_lines": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "price": {
+      "type": "number"
+     },
+     "raw_text": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "price",
+     "raw_text"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "change",
+  "city",
+  "date",
+  "features",
+  "file",
+  "id",
+  "item_count",
+  "items",
+  "location",
+  "seed",
+  "store",
+  "subtotal",
+  "synthetic",
+  "tax",
+  "tax_rate",
+  "taxable_base",
+  "tenders",
+  "time",
+  "total",
+  "variant",
+  "voided_lines"
+ ],
+ "title": "large.receipts_clean",
+ "type": "object"
+}

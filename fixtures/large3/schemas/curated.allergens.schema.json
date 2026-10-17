@@ -1,0 +1,142 @@
+{
+ "$id": "miple/fixtures/curated.allergens.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 1 record(s) of allergens.json + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "_meta": {
+   "additionalProperties": false,
+   "properties": {
+    "description": {
+     "type": "string"
+    },
+    "fields": {
+     "additionalProperties": false,
+     "properties": {
+      "may_contain": {
+       "type": "string"
+      },
+      "not_this_allergen": {
+       "type": "string"
+      },
+      "notes": {
+       "type": "string"
+      },
+      "terms": {
+       "type": "string"
+      }
+     },
+     "required": [
+      "may_contain",
+      "not_this_allergen",
+      "notes",
+      "terms"
+     ],
+     "type": "object"
+    },
+    "matching_advice": {
+     "type": "string"
+    },
+    "regulatory_sources": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "verified_on": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "description",
+    "fields",
+    "matching_advice",
+    "regulatory_sources",
+    "verified_on"
+   ],
+   "type": "object"
+  },
+  "allergens": {
+   "items": {
+    "additionalProperties": false,
+    "properties": {
+     "added_terms": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "allergen": {
+      "type": "string"
+     },
+     "cross_reactive_not_major": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "fda_excluded_since_2025": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "may_contain": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "mollusks_optional": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "not_this_allergen": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "notes": {
+      "type": "string"
+     },
+     "sources": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     },
+     "term_count": {
+      "type": "integer"
+     },
+     "terms": {
+      "items": {
+       "type": "string"
+      },
+      "type": "array"
+     }
+    },
+    "required": [
+     "added_terms",
+     "allergen",
+     "may_contain",
+     "not_this_allergen",
+     "notes",
+     "sources",
+     "term_count",
+     "terms"
+    ],
+    "type": "object"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "_meta",
+  "allergens"
+ ],
+ "title": "curated.allergens",
+ "type": "object"
+}

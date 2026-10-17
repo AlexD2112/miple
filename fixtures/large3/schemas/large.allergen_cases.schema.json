@@ -1,0 +1,161 @@
+{
+ "$id": "miple/fixtures/large.allergen_cases.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 9900 record(s) of large/allergens/cases.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "expected_app_keys": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "expected_contains": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "expected_cross_reactive": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "expected_fda_excluded_tree_nuts": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "expected_may_contain": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "expected_mollusks": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "id": {
+   "type": "string"
+  },
+  "ingredients": {
+   "type": [
+    "null",
+    "string"
+   ]
+  },
+  "kind": {
+   "type": "string"
+  },
+  "matched_terms": {
+   "additionalProperties": false,
+   "properties": {
+    "crustacean shellfish": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "eggs": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "fish": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "milk": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "peanuts": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "sesame": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "soy": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "tree nuts": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "wheat": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    }
+   },
+   "required": [],
+   "type": "object"
+  },
+  "note": {
+   "type": "string"
+  },
+  "product_name": {
+   "type": "string"
+  },
+  "store": {
+   "enum": [
+    "Costco",
+    "Fred Meyer",
+    "QFC",
+    "Safeway",
+    "Target",
+    "Trader Joe's",
+    "Whole Foods"
+   ],
+   "type": "string"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "traps_present": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "expected_app_keys",
+  "expected_contains",
+  "expected_cross_reactive",
+  "expected_fda_excluded_tree_nuts",
+  "expected_may_contain",
+  "expected_mollusks",
+  "id",
+  "ingredients",
+  "kind",
+  "matched_terms",
+  "product_name",
+  "synthetic",
+  "traps_present"
+ ],
+ "title": "large.allergen_cases",
+ "type": "object"
+}

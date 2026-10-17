@@ -1,0 +1,82 @@
+{
+ "$id": "miple/fixtures/large.pantry_expiry.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 12000 record(s) of large/pantry/expiry_cases.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "expected_app_category_key": {
+   "type": "string"
+  },
+  "expected_category": {
+   "type": "string"
+  },
+  "expected_expiry_date": {
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+   "type": [
+    "null",
+    "string"
+   ]
+  },
+  "expected_storage": {
+   "enum": [
+    "freezer",
+    "fridge",
+    "pantry"
+   ],
+   "type": "string"
+  },
+  "foodkeeper_product_ids": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "id": {
+   "type": "string"
+  },
+  "item": {
+   "type": "string"
+  },
+  "purchase_date": {
+   "pattern": "^\\d{4}-\\d{2}-\\d{2}$",
+   "type": "string"
+  },
+  "requested_storage": {
+   "type": [
+    "null",
+    "string"
+   ]
+  },
+  "shelf_life_days": {
+   "type": [
+    "integer",
+    "null"
+   ]
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "tags": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "expected_app_category_key",
+  "expected_category",
+  "expected_expiry_date",
+  "expected_storage",
+  "foodkeeper_product_ids",
+  "id",
+  "item",
+  "purchase_date",
+  "requested_storage",
+  "shelf_life_days",
+  "synthetic",
+  "tags"
+ ],
+ "title": "large.pantry_expiry",
+ "type": "object"
+}

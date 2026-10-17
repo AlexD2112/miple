@@ -1,0 +1,430 @@
+{
+ "$id": "miple/fixtures/large3.llm_safety.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 5150 record(s) of large3/llm_safety/cases.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "app": {
+   "additionalProperties": false,
+   "properties": {
+    "hits": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "matched_terms": {
+     "additionalProperties": false,
+     "properties": {
+      "celery": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "corn": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "egg": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "fish": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "garlic": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "gluten": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "kiwi": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "lupin": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "mango": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "milk": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "mustard": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "peanut": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "sesame": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "shellfish": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "soy": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "strawberry": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "tree_nut": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      },
+      "wheat": {
+       "items": {
+        "type": "string"
+       },
+       "type": "array"
+      }
+     },
+     "required": [],
+     "type": "object"
+    },
+    "reason": {
+     "type": "string"
+    },
+    "violates": {
+     "type": "boolean"
+    }
+   },
+   "required": [
+    "hits",
+    "matched_terms",
+    "reason",
+    "violates"
+   ],
+   "type": "object"
+  },
+  "app_verdict": {
+   "enum": [
+    "allow",
+    "reject"
+   ],
+   "type": "string"
+  },
+  "canonical_ingredients": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "caution_allergens": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "declared_hits": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "expected_verdict": {
+   "enum": [
+    "allow",
+    "caution",
+    "reject"
+   ],
+   "type": "string"
+  },
+  "gap": {
+   "type": [
+    "null",
+    "string"
+   ]
+  },
+  "id": {
+   "type": "string"
+  },
+  "kind": {
+   "type": "string"
+  },
+  "offending": {
+   "additionalProperties": false,
+   "properties": {
+    "celery": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "corn": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "egg": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "fish": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "garlic": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "gluten": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "kiwi": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "lupin": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "mango": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "milk": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "mustard": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "peanut": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "sesame": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "shellfish": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "soy": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "strawberry": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "tree_nut": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "wheat": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    }
+   },
+   "required": [],
+   "type": "object"
+  },
+  "present_allergens": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  },
+  "profile": {
+   "additionalProperties": false,
+   "properties": {
+    "allergies": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    }
+   },
+   "required": [
+    "allergies"
+   ],
+   "type": "object"
+  },
+  "recipe": {
+   "additionalProperties": false,
+   "properties": {
+    "calories": {
+     "type": "integer"
+    },
+    "carbs_g": {
+     "type": "integer"
+    },
+    "declared_allergens": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "fat_g": {
+     "type": "integer"
+    },
+    "ingredients": {
+     "items": {
+      "additionalProperties": false,
+      "properties": {
+       "name": {
+        "type": "string"
+       },
+       "pantry_item_id": {
+        "type": "null"
+       },
+       "quantity": {
+        "type": "string"
+       }
+      },
+      "required": [
+       "name",
+       "pantry_item_id",
+       "quantity"
+      ],
+      "type": "object"
+     },
+     "type": "array"
+    },
+    "minutes": {
+     "type": "integer"
+    },
+    "protein_g": {
+     "type": "integer"
+    },
+    "servings": {
+     "type": "integer"
+    },
+    "steps": {
+     "items": {
+      "type": "string"
+     },
+     "type": "array"
+    },
+    "title": {
+     "type": "string"
+    }
+   },
+   "required": [
+    "calories",
+    "carbs_g",
+    "declared_allergens",
+    "fat_g",
+    "ingredients",
+    "minutes",
+    "protein_g",
+    "servings",
+    "steps",
+    "title"
+   ],
+   "type": "object"
+  },
+  "synthetic": {
+   "type": "boolean"
+  },
+  "tricks": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "app",
+  "app_verdict",
+  "canonical_ingredients",
+  "caution_allergens",
+  "declared_hits",
+  "expected_verdict",
+  "gap",
+  "id",
+  "kind",
+  "offending",
+  "present_allergens",
+  "profile",
+  "recipe",
+  "synthetic",
+  "tricks"
+ ],
+ "title": "large3.llm_safety",
+ "type": "object"
+}

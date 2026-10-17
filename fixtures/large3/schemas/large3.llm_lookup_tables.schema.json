@@ -1,0 +1,61 @@
+{
+ "$id": "miple/fixtures/large3.llm_lookup_tables.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 1 record(s) of large3/llm_safety/lookup_tables.json + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "app_source": {
+   "type": "string"
+  },
+  "expansions": {
+   "additionalProperties": {
+    "items": {
+     "type": "string"
+    },
+    "type": "array"
+   },
+   "type": "object"
+  },
+  "foreign": {
+   "additionalProperties": {
+    "type": "string"
+   },
+   "type": "object"
+  },
+  "misspellings": {
+   "additionalProperties": {
+    "items": {
+     "type": "string"
+    },
+    "type": "array"
+   },
+   "type": "object"
+  },
+  "note": {
+   "type": "string"
+  },
+  "plurals": {
+   "additionalProperties": {
+    "type": "string"
+   },
+   "type": "object"
+  },
+  "traps": {
+   "items": {
+    "type": "string"
+   },
+   "type": "array"
+  }
+ },
+ "required": [
+  "app_source",
+  "expansions",
+  "foreign",
+  "misspellings",
+  "note",
+  "plurals",
+  "traps"
+ ],
+ "title": "large3.llm_lookup_tables",
+ "type": "object"
+}

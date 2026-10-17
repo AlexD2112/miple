@@ -1,0 +1,41 @@
+{
+ "$id": "miple/fixtures/large2.normalization_items.schema.json",
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "additionalProperties": false,
+ "description": "Inferred from 335 record(s) of large2/normalization/items.jsonl + overlays (see _gen/gen_schemas.py).",
+ "properties": {
+  "branded": {
+   "type": "boolean"
+  },
+  "category": {
+   "type": "string"
+  },
+  "confusable_with": {
+   "type": "string"
+  },
+  "hard_negative": {
+   "type": "boolean"
+  },
+  "id": {
+   "type": "string"
+  },
+  "label_source": {
+   "type": "string"
+  },
+  "name": {
+   "type": "string"
+  },
+  "note": {
+   "type": "string"
+  }
+ },
+ "required": [
+  "category",
+  "hard_negative",
+  "id",
+  "label_source",
+  "name"
+ ],
+ "title": "large2.normalization_items",
+ "type": "object"
+}
