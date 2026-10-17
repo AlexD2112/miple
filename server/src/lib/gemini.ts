@@ -2,7 +2,13 @@ import { GoogleGenAI, type Part } from "@google/genai";
 import { z } from "zod";
 import { env } from "../env.js";
 
-export const gemini = new GoogleGenAI({ apiKey: env.geminiApiKey });
+// Vertex AI with Application Default Credentials. No API key: google-auth-library
+// reads `gcloud auth application-default login` locally, or the runtime service account.
+export const gemini = new GoogleGenAI({
+  vertexai: true,
+  project: env.googleCloudProject,
+  location: env.googleCloudLocation,
+});
 
 export type UserPart = { text: string } | { inlineData: { mimeType: string; data: string } };
 

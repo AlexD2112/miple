@@ -28,7 +28,7 @@ Macros flow through one function, `getRemainingMacros(profile)` in `mobile/src/l
 ### 2. Server
 ```bash
 cd server
-cp .env.example .env    # fill SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, GEMINI_API_KEY
+cp .env.example .env    # fill SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, GOOGLE_CLOUD_PROJECT
 npm install
 npm run dev             # http://localhost:8787
 npm test                # allergen filter tests
@@ -36,7 +36,14 @@ npm run nudge           # fire the daily nudge job now (dry-run logs texts if Ph
 ```
 A physical iPhone can't reach `localhost`, so expose the server with your LAN IP or `ngrok http 8787`.
 
-The model defaults to `gemini-2.5-flash` (set `MIPLE_MODEL` to change it). Structured JSON calls live in `server/src/lib/gemini.ts`.
+Gemini runs on Vertex AI with Application Default Credentials, not an API key. In the Cloud project, enable the Vertex AI API and give your user `roles/aiplatform.user`. Then:
+
+```bash
+gcloud auth application-default login
+gcloud auth application-default set-quota-project YOUR_PROJECT_ID
+```
+
+Set `GOOGLE_CLOUD_PROJECT` to that project id. `GOOGLE_CLOUD_LOCATION` defaults to `us-central1`. On Cloud Run or GCE, the attached service account is the credential, so the `gcloud` login is only for a laptop. The model defaults to `gemini-2.5-flash` (set `MIPLE_MODEL` to change it). Structured JSON calls live in `server/src/lib/gemini.ts`.
 
 ### 3. Mobile (dev build, not Expo Go)
 HealthKit breaks Expo Go, so everyone develops on the dev client from the start.
