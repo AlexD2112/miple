@@ -14,7 +14,7 @@ export const env = {
   googleCloudLocation: process.env.GOOGLE_CLOUD_LOCATION || "us-central1",
   model: process.env.MIPLE_MODEL || "gemini-2.5-flash",
   perceptronApiKey: process.env.PERCEPTRON_API_KEY || null,
-  perceptronOcrUrl: process.env.PERCEPTRON_OCR_URL || null,
+  perceptronOcrUrl: process.env.PERCEPTRON_OCR_URL || "https://api.perceptron.inc/v1/chat/completions",
   photonApiKey: process.env.PHOTON_API_KEY || null,
   photonSendUrl: process.env.PHOTON_SEND_URL || null,
   photonWebhookSecret: process.env.PHOTON_WEBHOOK_SECRET || null,
