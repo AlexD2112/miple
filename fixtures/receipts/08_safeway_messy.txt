@@ -1,0 +1,28 @@
+               SAFEWAY
+        Store 3O18  Seattle W A
+              (206) 555-O163
+
+2  @ 2 F0R 5.00 BARILLA PENNE     5.00 S
+  1.87 lb @ 4.99 /lb
+FSTR  FRMS BNLS BRST              9.33 S
+  3 @ 1.99
+AV0CAD0S  HASS LG                 5.97 S
+J4U  DIGITAL CPN                 1.00-  
+CAB0T  SHRP CHDR 80Z              4.49 S
+SIG  KTCHNS T0RT FLR 10CT         2.99 S
+CILANTR0                          0.99 S
+  0.62 lb @ 11.99 /lb
+SW  DELI TRKY BRST SLCD           7.44 S
+PEPSI  12PK 120Z CAN              7.99 T
+CLUB  CARD SAVINGS               2.00- T
+
+SUBTOTAL                           41.20
+TAX 10.55% ON 5.99                  0.63
+**** BALANCE                       41.83
+VISA TEND                          41.83
+CHANGE                              0.00
+
+CARD # ************                 CHIP
+10/10/26 21:48  ITEMS 11
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

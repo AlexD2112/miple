@@ -1,0 +1,1021 @@
+{
+  "source": {
+    "name": "USDA FSIS FoodKeeper data (English JSON)",
+    "url": "https://www.foodsafety.gov/sites/default/files/foodkeeper_data_url_en.json",
+    "retrieved_via": "https://web.archive.org/web/20260416174248id_/https://www.foodsafety.gov/sites/default/files/foodkeeper_data_url_en.json (direct fsis.usda.gov/foodsafety.gov downloads returned HTTP 403 from our network)",
+    "catalog": "https://catalog.data.gov/dataset/fsis-foodkeeper-data",
+    "license": "CC0 1.0 (per data.gov)",
+    "method": "For each category, cited FoodKeeper products; each range reduced to its shorter end; category value = minimum across cited products. Weeks x7, months x30, years x365. Non-numeric values ('When Ripe', 'Package use-by date', 'Not Recommended', 'Indefinitely') are never converted; they yield null."
+  },
+  "categories": [
+    {
+      "category": "leafy greens",
+      "fridge_days": 3,
+      "pantry_days": null,
+      "freezer_days": null,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "291",
+        "415"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=3 (min of shorter range ends): #415 \"Bagged greens (leaf, spinach, lettuce, etc.)\" refrigerate=\"3 - 5 Days\"->3d; #291 \"Lettuce (leaf, spinach)\" refrigerate from purchase=\"3 - 7 Days\"->3d | pantry_days null: No FoodKeeper pantry entry for leafy greens. | freezer_days null: FoodKeeper lists freezing as 'Not Recommended' for #415 and #291.",
+      "app_category_key": "leafy_greens"
+    },
+    {
+      "category": "berries",
+      "fridge_days": 2,
+      "pantry_days": null,
+      "freezer_days": 240,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "253",
+        "254",
+        "481",
+        "482"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=2 (min of shorter range ends): #481 \"Strawberries\" refrigerate from purchase=\"2 - 3 Days\"->2d; #482 \"Raspberries\" refrigerate from purchase=\"2 - 3 Days\"->2d; #253 \"Berries (blackberries, boysenberries, currant)\" refrigerate from purchase=\"3 - 6 Days\"->3d; #254 \"Blueberries\" refrigerate from purchase=\"1 - 2 Weeks\"->7d | pantry_days null: No FoodKeeper pantry entry for berries. | freezer_days=240 (min of shorter range ends): #481 \"Strawberries\" freeze=\"8 - 12 Months\"->240d; #482 \"Raspberries\" freeze=\"8 - 12 Months\"->240d; #254 \"Blueberries\" freeze=\"8 - 12 Months\"->240d; #253 \"Berries (blackberries, boysenberries, currant)\" freeze=\"12 Months\"->360d",
+      "app_category_key": "berries"
+    },
+    {
+      "category": "other fresh fruit",
+      "fridge_days": 3,
+      "pantry_days": 1,
+      "freezer_days": 30,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "248",
+        "250",
+        "251",
+        "256",
+        "261",
+        "266"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=3 (min of shorter range ends): #248 \"Apples\" refrigerate from purchase=\"4 - 6 Weeks\"->28d; #251 \"Bananas\" refrigerate=\"3 Days\"->3d; #256 \"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)\" refrigerate from purchase=\"10 - 21 Days\"->10d; #261 \"Grapes\" refrigerate from purchase=\"1 Week\"->7d; #266 \"Peaches, nectarines, plums, pears, sapote\" refrigerate=\"3 - 5 Days\"->3d; #250 \"Avocados\" refrigerate=\"3 - 4 Days\"->3d | pantry_days=1 (min of shorter range ends): #248 \"Apples\" pantry from purchase=\"3 Weeks\"->21d; #256 \"Citrus fruit (lemon, lime, orange, grapefruit, tangerines, clementines)\" pantry from purchase=\"10 Days\"->10d; #261 \"Grapes\" pantry from purchase=\"1 Day\"->1d | freezer_days=30 (min of shorter range ends): #248 \"Apples\" freeze=\"8 Months\"->240d; #251 \"Bananas\" freeze=\"2 - 3 Months\"->60d; #261 \"Grapes\" freeze=\"1 Month\"->30d; #266 \"Peaches, nectarines, plums, pears, sapote\" freeze=\"2 Months\"->60d | Bananas/avocados/stone fruit list pantry as 'When Ripe' (non-numeric) and are excluded from pantry_days. Citrus and avocado freezing is 'Not Recommended'. Category value is the most conservative cited product; apples/citrus actually last much longer (apples Rp 4-6 Weeks).",
+      "app_category_key": "fresh_fruit"
+    },
+    {
+      "category": "root vegetables",
+      "fridge_days": 7,
+      "pantry_days": 14,
+      "freezer_days": 180,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "274",
+        "279",
+        "294",
+        "297",
+        "299",
+        "307",
+        "422"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=7 (min of shorter range ends): #279 \"Carrots, parsnips\" refrigerate from purchase=\"2 - 3 Weeks\"->14d; #274 \"Beets\" refrigerate from purchase=\"1 - 2 Weeks\"->7d; #297 \"Potatoes\" refrigerate from purchase=\"1 - 2 Weeks\"->7d; #294 \"Onions (yellow, white, red, etc.)\" refrigerate from purchase=\"2 Months\"->60d; #307 \"Turnips\" refrigerate from purchase=\"2 Weeks\"->14d; #299 \"Radishes\" refrigerate from purchase=\"10 - 14 Days\"->10d | pantry_days=14 (min of shorter range ends): #297 \"Potatoes\" pantry from purchase=\"1 - 2 Months\"->30d; #294 \"Onions (yellow, white, red, etc.)\" pantry from purchase=\"1 Month\"->30d; #422 \"Yams/sweet potatoes\" pantry from purchase=\"2 - 3 Weeks\"->14d | freezer_days=180 (min of shorter range ends): #279 \"Carrots, parsnips\" freeze from purchase=\"10 - 12 Months\"->300d; #274 \"Beets\" freeze from purchase=\"6 - 8 Months\"->180d; #297 \"Potatoes\" freeze=\"10 - 12 Months\"->300d; #294 \"Onions (yellow, white, red, etc.)\" freeze from purchase=\"10 - 12 Months\"->300d | pantry_days applies only to potatoes/onions/sweet potatoes; carrots, beets (Pp 1 Day) and radishes should be refrigerated. Radishes freezing 'Not Recommended'.",
+      "app_category_key": "root_vegetables"
+    },
+    {
+      "category": "other fresh vegetables",
+      "fridge_days": 3,
+      "pantry_days": null,
+      "freezer_days": 150,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "271",
+        "276",
+        "280",
+        "281",
+        "283",
+        "292",
+        "296",
+        "302",
+        "600"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=3 (min of shorter range ends): #276 \"Broccoli and broccoli raab (rapini)\" refrigerate from purchase=\"3 - 5 Days\"->3d; #280 \"Cauliflower\" refrigerate from purchase=\"3 - 5 Days\"->3d; #296 \"Peppers\" refrigerate from purchase=\"4 - 14 Days\"->4d; #283 \"Cucumbers\" refrigerate from purchase=\"4 - 6 Days\"->4d; #302 \"Squash (summer and zucchini)\" refrigerate from purchase=\"4 - 5 Days\"->4d; #292 \"Mushrooms\" refrigerate from purchase=\"3 - 7 Days\"->3d; #271 \"Asparagus\" refrigerate from purchase=\"3 - 4 Days\"->3d; #281 \"Celery\" refrigerate from purchase=\"1 - 2 Weeks\"->7d; #600 \"Cherry tomatoes\" refrigerate=\"5 Days\"->5d | pantry_days null: No single numeric pantry value: whole tomatoes are 'When Ripe' (#306); cherry tomatoes P=10 Days (#600); most others have no pantry entry. Left null. | freezer_days=150 (min of shorter range ends): #276 \"Broccoli and broccoli raab (rapini)\" freeze from purchase=\"10 - 12 Months\"->300d; #296 \"Peppers\" freeze from purchase=\"6 - 8 Months\"->180d; #271 \"Asparagus\" freeze from purchase=\"5 Months\"->150d; #292 \"Mushrooms\" freeze from purchase=\"10 - 12 Months\"->300d; #302 \"Squash (summer and zucchini)\" freeze from purchase=\"10 - 12 Months\"->300d | Cucumbers freezing 'Not Recommended' (#283).",
+      "app_category_key": "fresh_vegetables"
+    },
+    {
+      "category": "fresh herbs",
+      "fridge_days": 7,
+      "pantry_days": null,
+      "freezer_days": 30,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "288"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=7 (min of shorter range ends): #288 \"Herbs\" refrigerate from purchase=\"7 - 10 Days\"->7d | pantry_days null: Generic 'Herbs' (#288) has no pantry entry (fresh basil #509 lists P=5 Days, but not generalized). | freezer_days=30 (min of shorter range ends): #288 \"Herbs\" freeze from purchase=\"1 - 2 Months\"->30d | Uses generic FoodKeeper 'Herbs' product. Item-level FoodKeeper values vary: parsley #611 R=2-3 Days, basil #509 R=10 Days, cilantro #506 R=2-3 Weeks.",
+      "app_category_key": "herbs"
+    },
+    {
+      "category": "raw poultry",
+      "fridge_days": 1,
+      "pantry_days": null,
+      "freezer_days": 270,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "113",
+        "114",
+        "116",
+        "117",
+        "118"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=1 (min of shorter range ends): #113 \"Chicken (whole)\" refrigerate from purchase=\"1 - 2 Days\"->1d; #116 \"Chicken parts (breast halves, bone-in)\" refrigerate from purchase=\"1 - 2 Days\"->1d; #117 \"Chicken parts (breast halves, boneless)\" refrigerate from purchase=\"1 - 2 Days\"->1d; #118 \"Chicken parts (legs or thighs)\" refrigerate from purchase=\"1 - 2 Days\"->1d; #114 \"Turkey (whole)\" refrigerate from purchase=\"1 - 2 Days\"->1d | pantry_days null: Not applicable (perishable raw meat). | freezer_days=270 (min of shorter range ends): #113 \"Chicken (whole)\" freeze from purchase=\"12 Months\"->360d; #116 \"Chicken parts (breast halves, bone-in)\" freeze from purchase=\"9 Months\"->270d; #117 \"Chicken parts (breast halves, boneless)\" freeze from purchase=\"9 Months\"->270d; #118 \"Chicken parts (legs or thighs)\" freeze from purchase=\"9 Months\"->270d",
+      "app_category_key": "raw_poultry"
+    },
+    {
+      "category": "raw ground meat",
+      "fridge_days": 1,
+      "pantry_days": null,
+      "freezer_days": 90,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "43",
+        "50",
+        "73",
+        "115"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=1 (min of shorter range ends): #43 \"Beef (ground)\" refrigerate from purchase=\"1 - 2 Days\"->1d; #73 \"Pork (ground)\" refrigerate from purchase=\"1 - 2 Days\"->1d; #115 \"Ground turkey or chicken\" refrigerate from purchase=\"1 - 2 Days\"->1d; #50 \"Lamb (ground)\" refrigerate from purchase=\"1 - 2 Days\"->1d | pantry_days null: Not applicable (perishable raw meat). | freezer_days=90 (min of shorter range ends): #43 \"Beef (ground)\" freeze from purchase=\"3 - 4 Months\"->90d; #73 \"Pork (ground)\" freeze from purchase=\"3 - 4 Months\"->90d; #115 \"Ground turkey or chicken\" freeze from purchase=\"3 - 4 Months\"->90d",
+      "app_category_key": "raw_meat"
+    },
+    {
+      "category": "raw whole cuts",
+      "fridge_days": 3,
+      "pantry_days": null,
+      "freezer_days": 120,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "36",
+        "40",
+        "51",
+        "64",
+        "67"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=3 (min of shorter range ends): #40 \"Beef (steaks)\" refrigerate from purchase=\"3 - 5 Days\"->3d; #36 \"Beef (round or rump roast)\" refrigerate from purchase=\"3 - 5 Days\"->3d; #64 \"Pork (loin chops, boneless)\" refrigerate from purchase=\"3 - 5 Days\"->3d; #67 \"Pork (tenderloin)\" refrigerate from purchase=\"3 - 5 Days\"->3d; #51 \"Lamb (chops, ribs, or loin)\" refrigerate from purchase=\"3 - 5 Days\"->3d | pantry_days null: Not applicable (perishable raw meat). | freezer_days=120 (min of shorter range ends): #40 \"Beef (steaks)\" freeze from purchase=\"4 - 12 Months\"->120d; #64 \"Pork (loin chops, boneless)\" freeze from purchase=\"4 - 12 Months\"->120d; #51 \"Lamb (chops, ribs, or loin)\" freeze from purchase=\"4 - 12 Months\"->120d",
+      "app_category_key": "raw_meat"
+    },
+    {
+      "category": "raw fish",
+      "fridge_days": 1,
+      "pantry_days": null,
+      "freezer_days": 60,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "144",
+        "145",
+        "146"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=1 (min of shorter range ends): #144 \"Lean fish (cod, flounder, haddock, halibut, sole, etc.)\" refrigerate from purchase=\"1 - 2 Days\"->1d; #145 \"Lean fish (pollock, ocean perch, rockfish, sea trout.)\" refrigerate from purchase=\"1 - 2 Days\"->1d; #146 \"Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)\" refrigerate from purchase=\"1 - 2 Days\"->1d | pantry_days null: Not applicable. | freezer_days=60 (min of shorter range ends): #144 \"Lean fish (cod, flounder, haddock, halibut, sole, etc.)\" freeze from purchase=\"6 - 8 Months\"->180d; #145 \"Lean fish (pollock, ocean perch, rockfish, sea trout.)\" freeze from purchase=\"4 - 8 Months\"->120d; #146 \"Fatty fish (bluefish, catfish, mackerel, mullet, salmon, tuna, etc.)\" freeze from purchase=\"2 - 3 Months\"->60d | Raw shellfish (shrimp etc., FoodKeeper Seafood/Shellfish) not covered by this category.",
+      "app_category_key": "raw_seafood"
+    },
+    {
+      "category": "deli meat",
+      "fridge_days": 3,
+      "pantry_days": null,
+      "freezer_days": 30,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "184",
+        "192"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=3 (min of shorter range ends): #184 \"Luncheon meat or poultry (store-sliced)\" refrigerate from purchase=\"3 - 5 Days\"->3d | pantry_days null: Not applicable. | freezer_days=30 (min of shorter range ends): #184 \"Luncheon meat or poultry (store-sliced)\" freeze=\"1 - 2 Months\"->30d; #192 \"Luncheon meat or poultry (pre-packaged)\" freeze from purchase=\"1 - 2 Months\"->30d | fridge_days uses store-sliced deli meat (#184). Pre-packaged unopened luncheon meat (#192) is Rp=2 Weeks, but only 3-5 Days after opening.",
+      "app_category_key": "deli_meat"
+    },
+    {
+      "category": "eggs",
+      "fridge_days": 21,
+      "pantry_days": null,
+      "freezer_days": null,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "21"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=21 (min of shorter range ends): #21 \"Eggs (in shell)\" refrigerate from purchase=\"3 - 5 Weeks\"->21d | pantry_days null: No FoodKeeper pantry entry (US eggs must be refrigerated). | freezer_days null: FoodKeeper: freezing eggs in shell 'Not Recommended' (#21). (Raw whites/yolks out of shell #22 F=12 Months.)",
+      "app_category_key": "eggs"
+    },
+    {
+      "category": "milk",
+      "fridge_days": null,
+      "pantry_days": null,
+      "freezer_days": 90,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "27"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days null: FoodKeeper gives 'Package use-by date' for milk (#27), not a number. Left null: app should use printed date or ask user. (Lactose-free milk #543 Ro=1 Week after opening; ultra-pasteurized #659 R=1-3 Months unopened.) | pantry_days null: Not applicable (refrigerated milk). | freezer_days=90 (min of shorter range ends): #27 \"Milk (plain or flavored)\" freeze from purchase=\"3 Months\"->90d",
+      "app_category_key": "dairy_milk"
+    },
+    {
+      "category": "yogurt",
+      "fridge_days": 7,
+      "pantry_days": null,
+      "freezer_days": 30,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "33"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=7 (min of shorter range ends): #33 \"Yogurt\" refrigerate from purchase=\"1 - 2 Weeks\"->7d | pantry_days null: Not applicable. | freezer_days=30 (min of shorter range ends): #33 \"Yogurt\" freeze=\"1 - 2 Months\"->30d",
+      "app_category_key": "yogurt"
+    },
+    {
+      "category": "soft cheese",
+      "fridge_days": 7,
+      "pantry_days": null,
+      "freezer_days": 180,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "7",
+        "9",
+        "10",
+        "490"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=7 (min of shorter range ends): #7 \"Cheese (soft such as brie, bel paese, goat)\" refrigerate from purchase=\"1 - 2 Weeks\"->7d; #10 \"Cream cheese\" refrigerate from purchase=\"2 Weeks\"->14d; #9 \"Cottage cheese\" refrigerate from purchase=\"2 Weeks\"->14d; #490 \"Ricotta\" refrigerate from purchase=\"2 Weeks\"->14d | pantry_days null: Not applicable. | freezer_days=180 (min of shorter range ends): #7 \"Cheese (soft such as brie, bel paese, goat)\" freeze from purchase=\"6 Months\"->180d | Includes brie/goat (#7), cream cheese (#10), cottage cheese (#9), ricotta (#490). Cream/cottage/ricotta freezing 'Not Recommended'; freezer value comes from #7 only.",
+      "app_category_key": "dairy_cheese"
+    },
+    {
+      "category": "hard cheese",
+      "fridge_days": 180,
+      "pantry_days": null,
+      "freezer_days": 180,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "3"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=180 (min of shorter range ends): #3 \"Cheese (hard such as cheddar, swiss, block parmesan)\" refrigerate from purchase=\"6 Months\"->180d | pantry_days null: Not applicable. | freezer_days=180 (min of shorter range ends): #3 \"Cheese (hard such as cheddar, swiss, block parmesan)\" freeze from purchase=\"6 Months\"->180d | Unopened from purchase (#3 Rp=6 Months). After opening FoodKeeper says 3-4 Weeks (21 days). Shredded cheese (#5) Rp=1 Month.",
+      "app_category_key": "dairy_cheese"
+    },
+    {
+      "category": "butter",
+      "fridge_days": 30,
+      "pantry_days": 1,
+      "freezer_days": 180,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "1"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=30 (min of shorter range ends): #1 \"Butter\" refrigerate from purchase=\"1 - 2 Months\"->30d | pantry_days=1 (min of shorter range ends): #1 \"Butter\" pantry tip=\"May be left at room temperature for 1 - 2 days.\"->1d | freezer_days=180 (min of shorter range ends): #1 \"Butter\" freeze from purchase=\"6 - 9 Months\"->180d | pantry_days from FoodKeeper pantry_tips text for #1: 'May be left at room temperature for 1 - 2 days.'",
+      "app_category_key": "other"
+    },
+    {
+      "category": "bread",
+      "fridge_days": 14,
+      "pantry_days": 14,
+      "freezer_days": 90,
+      "default_storage": "pantry",
+      "foodkeeper_product_ids": [
+        "195"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=14 (min of shorter range ends): #195 \"Commercial bread products (including pan breads, flat breads, rolls, and buns)\" refrigerate after opening=\"2 - 3 Weeks\"->14d | pantry_days=14 (min of shorter range ends): #195 \"Commercial bread products (including pan breads, flat breads, rolls, and buns)\" pantry from purchase=\"14 - 18 Days\"->14d | freezer_days=90 (min of shorter range ends): #195 \"Commercial bread products (including pan breads, flat breads, rolls, and buns)\" freeze from purchase=\"3 - 5 Months\"->90d | Commercial bread products (#195). fridge_days uses FoodKeeper 'refrigerate after opening' (2-3 Weeks).",
+      "app_category_key": "bread"
+    },
+    {
+      "category": "tortillas",
+      "fridge_days": 60,
+      "pantry_days": 25,
+      "freezer_days": 180,
+      "default_storage": "pantry",
+      "foodkeeper_product_ids": [
+        "196",
+        "553"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=60 (min of shorter range ends): #196 \"Tortillas (flour)\" refrigerate after opening=\"3 Months\"->90d; #553 \"Tortillas (corn)\" refrigerate from purchase=\"60 - 90 Days\"->60d | pantry_days=25 (min of shorter range ends): #196 \"Tortillas (flour)\" pantry from purchase=\"3 Months\"->90d; #553 \"Tortillas (corn)\" pantry from purchase=\"25 - 45 Days\"->25d | freezer_days=180 (min of shorter range ends): #196 \"Tortillas (flour)\" freeze from purchase=\"6 Months\"->180d | Corn tortillas (#553) have no freezer entry; freezer value is flour tortillas (#196) only.",
+      "app_category_key": "tortillas"
+    },
+    {
+      "category": "cooked leftovers",
+      "fridge_days": 3,
+      "pantry_days": null,
+      "freezer_days": 30,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "141",
+        "173",
+        "174",
+        "185"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=3 (min of shorter range ends): #173 \"Leftovers (with meat, fish, poultry, or egg)\" refrigerate=\"3 - 4 Days\"->3d; #174 \"Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))\" refrigerate=\"3 - 4 Days\"->3d; #141 \"Rotisserie chicken\" refrigerate from purchase=\"3 - 4 Days\"->3d; #185 \"Main dishes or meals (hot or refrigerated)\" refrigerate from purchase=\"3 - 4 Days\"->3d | pantry_days null: Not applicable (perishable). | freezer_days=30 (min of shorter range ends): #173 \"Leftovers (with meat, fish, poultry, or egg)\" freeze=\"2 - 3 Months\"->60d; #174 \"Leftovers (without meat, fish, poultry, or egg (such as cooked vegitables, rice, or potatoes))\" freeze=\"1 - 2 Months\"->30d; #141 \"Rotisserie chicken\" freeze from purchase=\"4 Months\"->120d | Also covers store-prepared hot foods such as rotisserie chicken (#141 Rp=3-4 Days) and deli main dishes (#185).",
+      "app_category_key": "cooked_leftovers"
+    },
+    {
+      "category": "tofu",
+      "fridge_days": 7,
+      "pantry_days": null,
+      "freezer_days": 150,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "168"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=7 (min of shorter range ends): #168 \"Tofu\" refrigerate from purchase=\"1 Week\"->7d | pantry_days null: Not applicable. | freezer_days=150 (min of shorter range ends): #168 \"Tofu\" freeze from purchase=\"5 Months\"->150d",
+      "app_category_key": "tofu"
+    },
+    {
+      "category": "opened condiments",
+      "fridge_days": 30,
+      "pantry_days": null,
+      "freezer_days": null,
+      "default_storage": "fridge",
+      "foodkeeper_product_ids": [
+        "348",
+        "350",
+        "351",
+        "356",
+        "357",
+        "360"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=30 (min of shorter range ends): #348 \"Ketchup, cocktail, or chili sauce\" refrigerate after opening=\"6 Months\"->180d; #350 \"Mayonnaise (commercial)\" refrigerate after opening=\"2 Months\"->60d; #351 \"Mustard\" refrigerate after opening=\"1 Year\"->365d; #360 \"Soy sauce or teriyaki sauce\" refrigerate after opening=\"1 Month\"->30d; #356 \"Salad dressings (commercial, bottled)\" refrigerate after opening=\"1 - 3 Months\"->30d; #357 \"Salsa (picante and taco sauces)\" refrigerate after opening=\"1 Month\"->30d | pantry_days null: Values here are refrigerate-after-opening. Unopened pantry life is long (e.g. ketchup #348 Pp=1 Year, mayo #350 Pp=3-6 Months) but this category represents opened items; left null. | freezer_days null: No FoodKeeper freezer entry for these condiments. | Excludes short-lived jarred sauces: pesto #354 Ro=3 Days, spaghetti sauce #359 Ro=4 Days - map those items explicitly if needed.",
+      "app_category_key": "condiments"
+    },
+    {
+      "category": "canned goods",
+      "fridge_days": 3,
+      "pantry_days": 360,
+      "freezer_days": null,
+      "default_storage": "pantry",
+      "foodkeeper_product_ids": [
+        "372",
+        "373"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=3 (min of shorter range ends): #372 \"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))\" refrigerate after opening=\"3 - 4 Days\"->3d; #373 \"Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))\" refrigerate after opening=\"5 - 7 Days\"->5d | pantry_days=360 (min of shorter range ends): #372 \"Canned goods (low acid (such as meat, poultry, fish, gravy, stew, soups, beans, carrots, corn, pasta, peas, potatoes, spinach))\" pantry from purchase=\"2 - 5 Years\"->730d; #373 \"Canned goods (high acid (such as juices, fruit, pickles, sauerkraut, tomato soup, and foods in vinegar-based sauce))\" pantry from purchase=\"12 - 18 Months\"->360d | freezer_days null: No FoodKeeper freezer entry for canned goods; pantry-after-opening 'Not Recommended'. | fridge_days is AFTER OPENING (transfer contents to fridge).",
+      "app_category_key": "canned"
+    },
+    {
+      "category": "dry goods/grains",
+      "fridge_days": 180,
+      "pantry_days": 90,
+      "freezer_days": 240,
+      "default_storage": "pantry",
+      "foodkeeper_product_ids": [
+        "222",
+        "223",
+        "333",
+        "334",
+        "335",
+        "338",
+        "339",
+        "577",
+        "581",
+        "585"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=180 (min of shorter range ends): #338 \"Rice (white or wild)\" refrigerate after opening=\"6 Months\"->180d; #339 \"Rice (brown)\" refrigerate after opening=\"6 Months\"->180d; #223 \"Flour (whole wheat)\" refrigerate after opening=\"6 - 8 Months\"->180d | pantry_days=90 (min of shorter range ends): #338 \"Rice (white or wild)\" pantry from purchase=\"2 Years\"->730d; #339 \"Rice (brown)\" pantry from purchase=\"1 Year\"->365d; #335 \"Pasta (dry, without eggs)\" pantry from purchase=\"2 Years\"->730d; #222 \"Flour (white)\" pantry from purchase=\"6 - 12 Months\"->180d; #223 \"Flour (whole wheat)\" pantry from purchase=\"3 - 6 Months\"->90d; #585 \"Oats (whole grain)\" pantry=\"4 Months\"->120d; #333 \"Beans (dried)\" pantry from purchase=\"1 - 2 Years\"->365d; #334 \"Lentils (dried)\" pantry from purchase=\"1 Year\"->365d | freezer_days=240 (min of shorter range ends): #585 \"Oats (whole grain)\" freeze=\"8 Months\"->240d; #577 \"Barley (whole grain)\" freeze=\"12 Months\"->360d; #581 \"Farro (whole grain)\" freeze=\"12 Months\"->360d | Most conservative cited product is whole wheat flour (#223 Pp=3-6 Months). White rice/dry pasta last 2 Years. fridge_days is FoodKeeper 'refrigerate after opening'.",
+      "app_category_key": "dry_goods"
+    },
+    {
+      "category": "frozen foods",
+      "fridge_days": 3,
+      "pantry_days": null,
+      "freezer_days": 90,
+      "default_storage": "freezer",
+      "foodkeeper_product_ids": [
+        "313",
+        "315",
+        "317",
+        "321",
+        "330",
+        "331"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=3 (min of shorter range ends): #331 \"Vegetables\" refrigerate=\"3 - 4 Days\"->3d | pantry_days null: Not applicable. | freezer_days=90 (min of shorter range ends): #331 \"Vegetables\" freeze from purchase=\"10 - 18 Months\"->300d; #330 \"Frozen entrees (prepared meals)\" freeze from purchase=\"12 Months\"->360d; #315 \"Fruits (such as berries, melons)\" freeze from purchase=\"10 - 18 Months\"->300d; #321 \"Pancakes, waffles\" freeze from purchase=\"3 Months\"->90d; #317 \"Ice cream\" freeze from purchase=\"6 Months\"->180d; #313 \"Frozen potato products (fries, hashbrowns, tater tots)\" freeze from purchase=\"12 Months\"->360d | fridge_days applies to thawed frozen vegetables (#331 R=3-4 Days); frozen entrees/pancakes/potato products say refrigerating is 'Not Recommended'. Most conservative freezer value is pancakes/waffles (#321 Fp=3 Months).",
+      "app_category_key": "frozen"
+    },
+    {
+      "category": "beverages",
+      "fridge_days": 2,
+      "pantry_days": 21,
+      "freezer_days": null,
+      "default_storage": "pantry",
+      "foodkeeper_product_ids": [
+        "404",
+        "407"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days=2 (min of shorter range ends): #407 \"Soda (carbonated cola drinks, mixers, diet sodas; bottles or cans)\" refrigerate after opening=\"2 - 3 Days\"->2d; #404 \"Fruit Juice in cartons, fruit drinks, punch\" refrigerate after opening=\"8 - 12 Days\"->8d | pantry_days=21 (min of shorter range ends): #404 \"Fruit Juice in cartons, fruit drinks, punch\" pantry from purchase=\"3 Weeks\"->21d | freezer_days null: No FoodKeeper freezer value used (not typical). | Extra category (beyond the 25 requested) for shelf-stable drinks. pantry_days = juice cartons/fruit drinks (#404 Pp=3 Weeks); soda (#407) has no unopened value; bottled water (#413) 'Indefinitely'. fridge_days = after opening (soda #407 Ro=2-3 Days).",
+      "app_category_key": "beverages"
+    },
+    {
+      "category": "snacks",
+      "fridge_days": null,
+      "pantry_days": 60,
+      "freezer_days": null,
+      "default_storage": "pantry",
+      "foodkeeper_product_ids": [
+        "374",
+        "377",
+        "392",
+        "394",
+        "658"
+      ],
+      "source_note": "USDA FoodKeeper (foodsafety.gov JSON). Conversion: 1 week=7d, 1 month=30d, 1 year=365d. fridge_days null: Not typical; left null. | pantry_days=60 (min of shorter range ends): #392 \"Potato chips\" pantry from purchase=\"2 Months\"->60d; #377 \"Crackers\" pantry from purchase=\"8 Months\"->240d; #394 \"Pretzels\" pantry from purchase=\"4 - 9 Months\"->120d; #374 \"Cereal (ready-to-eat)\" pantry from purchase=\"6 - 12 Months\"->180d; #658 \"Cereal or granola bars\" pantry=\"6 - 12 Months\"->180d | freezer_days null: Not typical; left null. | Extra category for chips/crackers/pretzels/cereal/bars. Most conservative: potato chips #392 Pp=2 Months (1-2 Weeks after opening).",
+      "app_category_key": "snacks"
+    }
+  ],
+  "examples": [
+    {
+      "item": "baby spinach",
+      "category": "leafy greens"
+    },
+    {
+      "item": "romaine lettuce",
+      "category": "leafy greens"
+    },
+    {
+      "item": "iceberg lettuce",
+      "category": "leafy greens"
+    },
+    {
+      "item": "spring mix",
+      "category": "leafy greens"
+    },
+    {
+      "item": "arugula",
+      "category": "leafy greens"
+    },
+    {
+      "item": "kale",
+      "category": "leafy greens"
+    },
+    {
+      "item": "butter lettuce",
+      "category": "leafy greens"
+    },
+    {
+      "item": "swiss chard",
+      "category": "leafy greens"
+    },
+    {
+      "item": "bagged caesar salad kit",
+      "category": "leafy greens"
+    },
+    {
+      "item": "strawberries",
+      "category": "berries"
+    },
+    {
+      "item": "blueberries",
+      "category": "berries"
+    },
+    {
+      "item": "raspberries",
+      "category": "berries"
+    },
+    {
+      "item": "blackberries",
+      "category": "berries"
+    },
+    {
+      "item": "cherries",
+      "category": "berries"
+    },
+    {
+      "item": "bananas",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "gala apples",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "honeycrisp apples",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "lemons",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "limes",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "navel oranges",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "mandarins",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "red grapes",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "avocados",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "peaches",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "bartlett pears",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "mango",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "pineapple",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "kiwi",
+      "category": "other fresh fruit"
+    },
+    {
+      "item": "russet potatoes",
+      "category": "root vegetables"
+    },
+    {
+      "item": "yukon gold potatoes",
+      "category": "root vegetables"
+    },
+    {
+      "item": "sweet potatoes",
+      "category": "root vegetables"
+    },
+    {
+      "item": "yellow onions",
+      "category": "root vegetables"
+    },
+    {
+      "item": "red onions",
+      "category": "root vegetables"
+    },
+    {
+      "item": "carrots",
+      "category": "root vegetables"
+    },
+    {
+      "item": "baby carrots",
+      "category": "root vegetables"
+    },
+    {
+      "item": "beets",
+      "category": "root vegetables"
+    },
+    {
+      "item": "radishes",
+      "category": "root vegetables"
+    },
+    {
+      "item": "parsnips",
+      "category": "root vegetables"
+    },
+    {
+      "item": "broccoli crowns",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "cauliflower",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "red bell pepper",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "english cucumber",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "zucchini",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "cremini mushrooms",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "asparagus",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "celery",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "cherry tomatoes",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "roma tomatoes",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "green beans",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "brussels sprouts",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "jalapeno",
+      "category": "other fresh vegetables"
+    },
+    {
+      "item": "cilantro",
+      "category": "fresh herbs"
+    },
+    {
+      "item": "italian parsley",
+      "category": "fresh herbs"
+    },
+    {
+      "item": "fresh basil",
+      "category": "fresh herbs"
+    },
+    {
+      "item": "green onions bunch",
+      "category": "fresh herbs"
+    },
+    {
+      "item": "fresh mint",
+      "category": "fresh herbs"
+    },
+    {
+      "item": "fresh dill",
+      "category": "fresh herbs"
+    },
+    {
+      "item": "boneless skinless chicken breast",
+      "category": "raw poultry"
+    },
+    {
+      "item": "chicken thighs",
+      "category": "raw poultry"
+    },
+    {
+      "item": "whole chicken",
+      "category": "raw poultry"
+    },
+    {
+      "item": "chicken drumsticks",
+      "category": "raw poultry"
+    },
+    {
+      "item": "turkey breast",
+      "category": "raw poultry"
+    },
+    {
+      "item": "ground beef 80/20",
+      "category": "raw ground meat"
+    },
+    {
+      "item": "ground turkey",
+      "category": "raw ground meat"
+    },
+    {
+      "item": "ground pork",
+      "category": "raw ground meat"
+    },
+    {
+      "item": "italian sausage bulk",
+      "category": "raw ground meat"
+    },
+    {
+      "item": "ground chicken",
+      "category": "raw ground meat"
+    },
+    {
+      "item": "ribeye steak",
+      "category": "raw whole cuts"
+    },
+    {
+      "item": "pork chops",
+      "category": "raw whole cuts"
+    },
+    {
+      "item": "pork tenderloin",
+      "category": "raw whole cuts"
+    },
+    {
+      "item": "chuck roast",
+      "category": "raw whole cuts"
+    },
+    {
+      "item": "lamb chops",
+      "category": "raw whole cuts"
+    },
+    {
+      "item": "atlantic salmon fillet",
+      "category": "raw fish"
+    },
+    {
+      "item": "cod fillet",
+      "category": "raw fish"
+    },
+    {
+      "item": "halibut",
+      "category": "raw fish"
+    },
+    {
+      "item": "tilapia fillets",
+      "category": "raw fish"
+    },
+    {
+      "item": "ahi tuna steak",
+      "category": "raw fish"
+    },
+    {
+      "item": "sliced turkey breast",
+      "category": "deli meat"
+    },
+    {
+      "item": "black forest ham",
+      "category": "deli meat"
+    },
+    {
+      "item": "genoa salami",
+      "category": "deli meat"
+    },
+    {
+      "item": "sliced roast beef",
+      "category": "deli meat"
+    },
+    {
+      "item": "large brown eggs",
+      "category": "eggs"
+    },
+    {
+      "item": "cage free eggs 18ct",
+      "category": "eggs"
+    },
+    {
+      "item": "pasture raised eggs",
+      "category": "eggs"
+    },
+    {
+      "item": "2% milk gallon",
+      "category": "milk"
+    },
+    {
+      "item": "whole milk half gallon",
+      "category": "milk"
+    },
+    {
+      "item": "oat milk",
+      "category": "milk"
+    },
+    {
+      "item": "almond milk",
+      "category": "milk"
+    },
+    {
+      "item": "half and half",
+      "category": "milk"
+    },
+    {
+      "item": "greek yogurt plain",
+      "category": "yogurt"
+    },
+    {
+      "item": "vanilla yogurt cups",
+      "category": "yogurt"
+    },
+    {
+      "item": "kefir",
+      "category": "yogurt"
+    },
+    {
+      "item": "brie",
+      "category": "soft cheese"
+    },
+    {
+      "item": "goat cheese",
+      "category": "soft cheese"
+    },
+    {
+      "item": "cream cheese",
+      "category": "soft cheese"
+    },
+    {
+      "item": "cottage cheese",
+      "category": "soft cheese"
+    },
+    {
+      "item": "ricotta",
+      "category": "soft cheese"
+    },
+    {
+      "item": "fresh mozzarella",
+      "category": "soft cheese"
+    },
+    {
+      "item": "sharp cheddar block",
+      "category": "hard cheese"
+    },
+    {
+      "item": "parmigiano reggiano",
+      "category": "hard cheese"
+    },
+    {
+      "item": "swiss cheese",
+      "category": "hard cheese"
+    },
+    {
+      "item": "tillamook medium cheddar",
+      "category": "hard cheese"
+    },
+    {
+      "item": "unsalted butter",
+      "category": "butter"
+    },
+    {
+      "item": "salted butter",
+      "category": "butter"
+    },
+    {
+      "item": "kerrygold butter",
+      "category": "butter"
+    },
+    {
+      "item": "sourdough loaf",
+      "category": "bread"
+    },
+    {
+      "item": "whole wheat sandwich bread",
+      "category": "bread"
+    },
+    {
+      "item": "hamburger buns",
+      "category": "bread"
+    },
+    {
+      "item": "bagels",
+      "category": "bread"
+    },
+    {
+      "item": "dave's killer bread",
+      "category": "bread"
+    },
+    {
+      "item": "flour tortillas",
+      "category": "tortillas"
+    },
+    {
+      "item": "corn tortillas",
+      "category": "tortillas"
+    },
+    {
+      "item": "rotisserie chicken",
+      "category": "cooked leftovers"
+    },
+    {
+      "item": "deli fried chicken",
+      "category": "cooked leftovers"
+    },
+    {
+      "item": "prepared mac and cheese",
+      "category": "cooked leftovers"
+    },
+    {
+      "item": "extra firm tofu",
+      "category": "tofu"
+    },
+    {
+      "item": "silken tofu",
+      "category": "tofu"
+    },
+    {
+      "item": "ketchup",
+      "category": "opened condiments"
+    },
+    {
+      "item": "mayonnaise",
+      "category": "opened condiments"
+    },
+    {
+      "item": "dijon mustard",
+      "category": "opened condiments"
+    },
+    {
+      "item": "soy sauce",
+      "category": "opened condiments"
+    },
+    {
+      "item": "sriracha",
+      "category": "opened condiments"
+    },
+    {
+      "item": "ranch dressing",
+      "category": "opened condiments"
+    },
+    {
+      "item": "salsa jar",
+      "category": "opened condiments"
+    },
+    {
+      "item": "peanut butter",
+      "category": "opened condiments"
+    },
+    {
+      "item": "black beans can",
+      "category": "canned goods"
+    },
+    {
+      "item": "diced tomatoes can",
+      "category": "canned goods"
+    },
+    {
+      "item": "chicken broth carton",
+      "category": "canned goods"
+    },
+    {
+      "item": "coconut milk can",
+      "category": "canned goods"
+    },
+    {
+      "item": "tuna can",
+      "category": "canned goods"
+    },
+    {
+      "item": "jasmine rice",
+      "category": "dry goods/grains"
+    },
+    {
+      "item": "spaghetti",
+      "category": "dry goods/grains"
+    },
+    {
+      "item": "penne",
+      "category": "dry goods/grains"
+    },
+    {
+      "item": "rolled oats",
+      "category": "dry goods/grains"
+    },
+    {
+      "item": "all purpose flour",
+      "category": "dry goods/grains"
+    },
+    {
+      "item": "quinoa",
+      "category": "dry goods/grains"
+    },
+    {
+      "item": "dried lentils",
+      "category": "dry goods/grains"
+    },
+    {
+      "item": "frozen peas",
+      "category": "frozen foods"
+    },
+    {
+      "item": "frozen broccoli",
+      "category": "frozen foods"
+    },
+    {
+      "item": "frozen pizza",
+      "category": "frozen foods"
+    },
+    {
+      "item": "frozen mixed berries",
+      "category": "frozen foods"
+    },
+    {
+      "item": "ice cream",
+      "category": "frozen foods"
+    },
+    {
+      "item": "frozen waffles",
+      "category": "frozen foods"
+    },
+    {
+      "item": "frozen dumplings",
+      "category": "frozen foods"
+    },
+    {
+      "item": "orange juice",
+      "category": "beverages"
+    },
+    {
+      "item": "sparkling water",
+      "category": "beverages"
+    },
+    {
+      "item": "cola 12pk",
+      "category": "beverages"
+    },
+    {
+      "item": "ground coffee",
+      "category": "beverages"
+    },
+    {
+      "item": "tortilla chips",
+      "category": "snacks"
+    },
+    {
+      "item": "potato chips",
+      "category": "snacks"
+    },
+    {
+      "item": "crackers",
+      "category": "snacks"
+    },
+    {
+      "item": "granola bars",
+      "category": "snacks"
+    },
+    {
+      "item": "cereal",
+      "category": "snacks"
+    }
+  ],
+  "examples_note": "Item->category mapping is our editorial judgment (not from FoodKeeper). Items like peanut butter (FoodKeeper #387 opened 2-3 Months) are approximated by their category.",
+  "app_category_key_note": "app_category_key maps to CATEGORIES in server/src/domain/schemas.ts (main @ 4db1960). Lossy: raw ground meat + raw whole cuts -> raw_meat (1 vs 3 fridge days), soft + hard cheese -> dairy_cheese (7 vs 180), butter has no app key (-> other). receipt_lines extra categories non_food/discount/deposit/fee have no app key (use 'other' or drop before pantry insert)."
+}

@@ -1,0 +1,29 @@
+               FRED MEYER
+       Ballard  Seattle WA 98107
+               Store 0021
+
+  1.47 lb @ 1.99 /lb
+BROCCOLI CROWNS                   2.92 F
+  2.86 lb @ 1.99 /lb
+GALA APPLES                       5.69 F
+CHOBANI GRK YGRT PLN 32           5.99 F
+CHOBANI GRK YGRT PLN 32           5.99 F
+** VOID ** CHOBANI GRK YGRT P    5.99-  
+  2.04 lb @ 3.99 /lb
+PORK LOIN CHOPS BNLS              8.14 F
+KRO JASMINE RICE 5LB              6.99 F
+DAVES KLR BRD 21 GRN              6.49 F
+CPN DAVES KLR BRD                1.50-  
+TIDE PODS 42CT                   13.99 T
+LACROIX LIME 8PK                  4.99 F
+
+SUBTOTAL                           53.70
+TAX 10.55% ON 13.99                 1.48
+TOTAL                              55.18
+VISA TEND                          55.18
+CHANGE                              0.00
+
+CARD # ************                 CHIP
+10/01/26 19:55  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

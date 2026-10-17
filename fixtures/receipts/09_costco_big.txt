@@ -1,0 +1,36 @@
+                 COSTCO
+               WHOLESALE
+       Seattle #0001 (fictional)
+       4401 4th Ave S  Seattle WA
+
+E  MEMBER ************                  
+
+1201000 ORG SPRING MIX 1LB        4.99 E
+1110000 STRAWBERRIES 2LB          5.99 E
+1131000 KS 2% MILK 2/1GAL         6.49 E
+1122000 KS BUTTER UNSALTD 4LB    12.99 E
+1123000 KS GRK YOGURT 48OZ        6.99 E
+1124000 TILLAMOOK MED CHED 2.5L  10.99 E
+1150000 KS GRND BEEF 88/12       20.56 E
+1150002 ATL SALMON FILLET        30.47 E
+1161000 KS ORG BLK BEANS 8PK     10.49 E
+1170001 KS CROISSANT 12CT         6.99 E
+1180000 MISSION FLR TORT 40CT     6.99 E
+1190000 KS FRZN BERRIES 4LB      12.99 E
+1190001 BIBIGO MANDU 6LB         15.99 E
+1191000 KS WATER 40PK             4.99 E
+
+SUBTOTAL                          157.91
+TAX                                 0.00
+**** TOTAL                        157.91
+
+A 10.55% TAX                        0.00
+TOTAL TAX                           0.00
+TOTAL NUMBER OF ITEMS SOLD =          14
+VISA TEND                         157.91
+CHANGE                              0.00
+
+CARD # ************                 CHIP
+10/12/26 15:10  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+               THANK YOU

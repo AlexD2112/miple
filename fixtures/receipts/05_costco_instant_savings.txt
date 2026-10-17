@@ -1,0 +1,31 @@
+                 COSTCO
+               WHOLESALE
+       Seattle #0001 (fictional)
+       4401 4th Ave S  Seattle WA
+
+E  MEMBER ************                  
+
+1170000 KS ROTIS CHKN             4.99 A
+1092000 KS ORG EGGS 24CT          8.49 E
+1110001 BLUEBERRY 18OZ           11.98 E
+     2 @ 5.99
+0000355 TPD/BLUEBERRY            2.00-  
+1150001 KS BNLS SKNLS CHKN BRST  23.81 E
+1160000 KS JASMINE RICE 25LB     19.99 E
+1191001 KS BATH TISSUE 30RL      23.99 A
+0000356 TPD/KS BATH              4.00- A
+
+SUBTOTAL                           87.25
+TAX                                 2.64
+**** TOTAL                         89.89
+
+A 10.55% TAX                        2.64
+TOTAL TAX                           2.64
+TOTAL NUMBER OF ITEMS SOLD =           7
+VISA TEND                          89.89
+CHANGE                              0.00
+
+CARD # ************                 CHIP
+10/04/26 10:34  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+               THANK YOU
