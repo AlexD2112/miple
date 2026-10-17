@@ -8,7 +8,14 @@ import { ALLERGENS, DIETS, type Profile } from "@/lib/types";
 
 export default function ProfileScreen() {
   const { profile } = useProfile();
-  if (!profile) return <Screen>{null}</Screen>;
+  if (!profile) {
+    return (
+      <Screen>
+        <Title>Me</Title>
+        <Button kind="secondary" label="Sign out" onPress={() => supabase.auth.signOut()} />
+      </Screen>
+    );
+  }
   // Remount the form when the saved profile changes so the draft resets.
   return <ProfileForm key={JSON.stringify(profile)} profile={profile} />;
 }

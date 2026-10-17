@@ -23,7 +23,7 @@ Macros flow through one function, `getRemainingMacros(profile)` in `mobile/src/l
 
 ### 1. Supabase
 1. Create a project and run `supabase/migrations/0001_init.sql` in the SQL editor (or `supabase db push`).
-2. In Auth → Providers, keep Email enabled. In the email template, include `{{ .Token }}` so users get a 6-digit code. The app signs in with an email OTP, so no deep links are needed.
+2. In Auth → Providers, enable Google. In Google Cloud, create a **Web** OAuth client and set its authorized redirect URI to `https://YOUR-PROJECT.supabase.co/auth/v1/callback`. Paste that client ID and secret into Supabase. Under Authentication → URL Configuration, add `miple://auth` to the redirect allow list. The app signs in with Google, so no email codes are sent.
 
 ### 2. Server
 ```bash
