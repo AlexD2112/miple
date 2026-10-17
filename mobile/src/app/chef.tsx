@@ -25,6 +25,11 @@ import { useFocusData } from "@/lib/useFocusData";
 
 const SUGGESTIONS = ["I want shakshuka tonight", "Use what's expiring first", "Skip tomorrow's lunch"];
 
+function goBack() {
+  if (router.canGoBack()) router.back();
+  else router.replace("/plan");
+}
+
 interface ChatMessage {
   role: "user" | "chef";
   text: string;
@@ -181,7 +186,7 @@ export default function Chef() {
         keyboardVerticalOffset={8}
       >
         <View style={{ flex: 1, padding: 16, paddingBottom: Math.max(insets.bottom, 12) }}>
-          <Pressable onPress={() => router.back()} style={{ marginBottom: 8 }}>
+          <Pressable onPress={goBack} style={{ marginBottom: 8 }}>
             <Text style={{ color: colors.brand, fontWeight: "700" }}>← Plan</Text>
           </Pressable>
           <Title sub="Ask for a dish. Nothing changes until you approve.">Your chef</Title>

@@ -16,6 +16,11 @@ interface GuideStep {
 
 const PREP = /\b(chop|dice|mince|slice|wash|peel|measure|preheat|grate|whisk)\b/i;
 
+function goBack() {
+  if (router.canGoBack()) router.back();
+  else router.replace("/plan");
+}
+
 function minutesIn(text: string): number | null {
   const match = text.match(/(\d+)\s*(?:min|mins|minute|minutes)\b/i);
   return match ? Number(match[1]) : null;
@@ -73,7 +78,7 @@ export default function Cook() {
 
   return (
     <Screen>
-      <Pressable onPress={() => router.back()} style={{ marginBottom: 8 }}>
+      <Pressable onPress={goBack} style={{ marginBottom: 8 }}>
         <Text style={{ color: colors.brand, fontWeight: "700" }}>← Plan</Text>
       </Pressable>
       <Title sub={slot?.recipes ? `${slot.recipes.minutes} min` : "Loading"}>{slot?.recipes?.title ?? "Recipe"}</Title>
@@ -83,7 +88,7 @@ export default function Cook() {
           <Text style={styles.h2}>That's dinner.</Text>
           <Text style={styles.body}>The meal is marked cooked.</Text>
           <View style={{ height: 12 }} />
-          <Button label="Back to plan" onPress={() => router.back()} />
+          <Button label="Back to plan" onPress={goBack} />
         </Card>
       ) : step ? (
         <Card>
