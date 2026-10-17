@@ -1,15 +1,31 @@
 import express, { type NextFunction, type Request, type Response } from "express";
 import cron from "node-cron";
 import { env } from "./env.js";
+import { GEMINI_API_ENDPOINT } from "./lib/gemini.js";
 import { receipts } from "./routes/receipts.js";
 import { recipes } from "./routes/recipes.js";
 import { photon } from "./routes/photon.js";
 import { runDailyNudges } from "./jobs/nudges.js";
 
+/** Model-backed routes. Each handler calls `@google/genai` `generateContent` on GEMINI_API_ENDPOINT. */
+export const AI_ROUTES = [
+  "POST /recipes/generate",
+  "POST /recipes/chef",
+  "POST /receipts/parse",
+] as const;
+
 const app = express();
 app.use(express.json({ limit: "1mb" }));
 
-app.get("/health", (_req, res) => res.json({ ok: true }));
+app.get("/health", (_req, res) =>
+  res.json({
+    ok: true,
+    provider: "google-genai",
+    model: env.model,
+    endpoint: GEMINI_API_ENDPOINT,
+    ai_routes: AI_ROUTES,
+  }),
+);
 app.use("/receipts", receipts);
 app.use("/recipes", recipes);
 app.use("/photon", photon);

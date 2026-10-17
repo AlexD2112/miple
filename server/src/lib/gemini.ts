@@ -2,9 +2,12 @@ import { GoogleGenAI, type Part } from "@google/genai";
 import { z } from "zod";
 import { env } from "../env.js";
 
-// Gemini Enterprise Agent Platform (the successor to Vertex AI) with Application
-// Default Credentials. No API key: google-auth-library reads
-// `gcloud auth application-default login` locally, or the runtime service account.
+/**
+ * Gemini Enterprise Agent Platform (formerly Vertex AI). `@google/genai` calls
+ * this host with Application Default Credentials. There is no API key.
+ */
+export const GEMINI_API_ENDPOINT = "https://aiplatform.googleapis.com";
+
 export const gemini = new GoogleGenAI({
   enterprise: true,
   project: env.googleCloudProject,
