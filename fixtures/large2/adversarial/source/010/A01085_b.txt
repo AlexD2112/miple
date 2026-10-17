@@ -1,0 +1,34 @@
+               FRED MEYER
+               Seattle WA
+               Store 0820
+
+DIGIORNO RISING CRUST PEPPERONI   5.73 F
+SMPL TRTH BABY CRRTS              2.49 F
+SHMP                             17.57 T
+  3.34 lb @ 3.34 /lb
+HASS AVOCADO LG                  11.16 F
+FM BOTTLED WATER 24PK             9.32 F
+  1.11 lb @ 13.18 /lb
+KRO SLCD TRKY BRST               14.63 F
+FM PLUS CARD SAV                 2.34-  
+GRSS-FD GRND BF 85/15             7.35 F
+KRO SAVINGS                      2.07-  
+WHOLE MILK HALF GALLON            6.79 F
+CLNTR                             1.16 F
+GRND TRKY                         5.19 F
+SMPL TRTH WHL WHT SANDWICH BRD    2.54 F
+AA BTTRS 8PK                     24.36 T
+SLTD BTR                          5.73 F
+SMPL TRTH JSMN RICE              12.13 F
+KRO BAGELS                        3.77 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          125.59
+TAX 10.55% ON 42.01                 4.43
+TOTAL                             130.02
+DISCOVER TEND                     130.02
+CHANGE                              0.00
+
+02/11/26 18:39  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

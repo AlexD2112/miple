@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 0931
+
+GINGER ALE 12PK                   6.02 T
+MFR CPN                          1.81- T
+KRO LEMONADE 52OZ                 5.79 T
+KRO BAGELS                        3.77 F
+SMPL TRTH MANDARINS               2.72 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+  2 @ 4.32
+SMPL TRTH CELERY                  8.64 F
+KRO ROTIS CHKN                    5.04 T
+ORG EGGS 24 CT                    7.83 F
+FM PLUS CARD SAV                 2.10-  
+  2 @ 5.87
+BLUEBERRIES                      11.74 F
+AVOCADOS                          4.05 F
+WHITE BRD                         6.34 F
+
+SUBTOTAL                           66.86
+TAX 10.55% ON 23.87                 2.52
+TOTAL                              69.38
+DEBIT TEND                         69.38
+CHANGE                              0.00
+
+01/31/26 19:26  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 0522
+
+SMPL TRTH COLA 12PK               1.83 T
+BLACK FOREST HAM 9 OZ             7.00 F
+KRO SAVINGS                      1.97-  
+CRM CHS 8 OZ                      3.15 F
+  5.80 lb @ 7.09 /lb
+FM TRKY BRST                     41.12 F
+WHITE SNDWCH BRD                  7.03 F
+SMPL TRTH BLACKBERRIES            3.92 F
+  3.90 lb @ 0.76 /lb
+MANGO                             2.96 F
+LARGE EGGS 12 CT                  8.69 F
+ROMAINE LETTUCE                   2.79 F
+PLASTIC WRAP                      4.77 T
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           81.53
+TAX 10.55% ON 6.84                  0.72
+TOTAL                              82.25
+AMEX TEND                          82.25
+CHANGE                              0.00
+
+02/06/26 13:59  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,40 @@
+               FRED MEYER
+              Portland OR
+               Store 3015
+
+CC-CL 12 PK CANS                  2.77 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  2.15 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             21.35 F
+FM FRZN PIZZA                    13.30 F
+SHRDDD MOZZ 8 OZ                  2.92 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+  4 @ 1.72
+FM FRZN BROC                      6.88 F
+DIGITAL CPN                      1.39-  
+SMPL TRTH SLTD BTR                5.73 F
+CREAM CHEESE 8 OZ                 3.15 F
+KRO SAVINGS                      0.74-  
+PLAIN NONFAT GRK YGRT             4.65 F
+WHITE BRD                         6.34 F
+  1.29 lb @ 9.25 /lb
+KRO SWISS CHS                    11.93 F
+KRO SAVINGS                      2.70-  
+  4 @ 2.06
+FRZN MIXED BERRIES                8.24 F
+EXTRA FIRM TOFU                   2.32 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+KRO SAVINGS                      0.55-  
+SMPL TRTH ARUGULA                 4.00 F
+SMPL TRTH FRESH DILL              0.90 F
+
+SUBTOTAL                          103.73
+TAX                                 0.00
+TOTAL                             103.73
+DISCOVER TEND                     103.73
+CHANGE                              0.00
+
+08/26/26 18:46  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

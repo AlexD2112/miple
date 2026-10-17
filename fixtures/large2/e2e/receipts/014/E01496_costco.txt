@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2089  Seattle WA
+            MEMBER ************
+
+331353 KS GALA APPLES                 2.14 E
+     0.93 lb @ 2.30 /lb
+270508 LAMB CHOPS                    11.95 E
+     0.70 lb @ 17.07 /lb
+1565689 SHRP CHDR BLOCK              10.33 E
+583817 KS CELERY                      4.32 E
+1882133 KS HAND SOAP                 24.27 A
+96788 KS PAPER TOWELS 6 ROLL          3.75 A
+1756923 KS TUNA CAN                   1.08 E
+
+SUBTOTAL                               57.84
+TAX 10.55% ON 28.02                     2.96
+**** TOTAL                             60.80
+DISCOVER TEND                          60.80
+CHANGE                                  0.00
+
+10/10/26 20:53  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

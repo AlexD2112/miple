@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3966  Seattle WA
+            MEMBER ************
+
+  390767 KS SPRKLG WTR                 14.96 E
+     4 @ 3.74
+812481 KS SPAGHETTI                   9.54 E
+1553550 FROZEN PEAS 12 OZ 5.40 E
+1390520 LEMON                         4.30 E
+1190499 FLOWERS BOUQUET              23.70 A
+209356 TORTILLA CHIPS	3.33 E
+1598483 PCHS                          2.65 E
+     3.90 lb @ 0.68 /lb
+
+SUBTOTAL                                 63.88
+TAX 10.55% ON 23.70                     2.50
+**** TOTAL                             66.38    
+VISA TEND	66.38
+CHANGE                                  0.00   
+
+01/28/26 09:29  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

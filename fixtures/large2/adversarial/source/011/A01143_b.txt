@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 0773
+
+SMPL TRTH SWEET POTS              3.28 F
+KRO SAVINGS                      0.98-  
+  2.06 lb @ 7.09 /lb
+FM TRKY BRST                     14.61 F
+GREEK YOGURT 48 OZ                1.97 F
+SMPL TRTH CHKN DRUMSTICKS         8.97 F
+FM DIJON MSTRD                    2.46 F
+SMPL TRTH FRZN PEAS              13.98 F
+BRIE                              4.85 F
+KRO JSMN RICE                    12.13 F
+DIGITAL CPN                      2.48-  
+FM ITALIAN SAUSAGE BULK           9.93 F
+  2 @ 3.77
+BABY SPNCH 5 OZ                   7.54 F
+DOG TREATS                        6.82 T
+  3 @ 5.22
+MISSION FLOUR TORT 40 CT         15.66 F
+FM HALIBUT                       10.82 F
+PAPER PLATES                      3.31 T
+  3.45 lb @ 6.69 /lb
+SMPL TRTH BNLS SKNLS CHKN BRST   23.08 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+  0.74 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS              7.35 F
+
+SUBTOTAL                          151.78
+TAX 10.55% ON 10.13                 1.07
+TOTAL                             152.85
+MASTERCARD TEND                   152.85
+CHANGE                              0.00
+
+03/26/26 14:15  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

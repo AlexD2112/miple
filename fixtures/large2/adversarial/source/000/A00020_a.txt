@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1222
+
+  1.37 lb @ 6.00 /lb
+GRND BF 88/12                     8.22 F
+COCONUT MLK CAN                   3.83 F
+  3.13 lb @ 3.34 /lb
+HASS AVOCADO LG                  10.45 F
+  4 @ 3.00
+SMPL TRTH BARTLETT PEARS         12.00 F
+  2 @ 5.07
+SMPL TRTH POTATO CHIPS           10.14 F
+PRIV SEL GRND TRKY                5.19 F
+
+SUBTOTAL                           49.83
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              49.83
+AMEX TEND                          49.83
+CHANGE                              0.00
+
+08/18/26 15:39  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

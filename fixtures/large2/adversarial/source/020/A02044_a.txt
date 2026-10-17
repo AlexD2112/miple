@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #3837  San Francisco CA
+            MEMBER ************
+
+1824228 PLASTIC WRAP                  4.77 A
+851162 SHMP                          17.57 A
+727034 SHAMPOO                       17.57 A
+
+SUBTOTAL                               39.91
+TAX 8.625% ON 39.91                     3.44
+**** TOTAL                             43.35
+MASTERCARD TEND                        43.35
+CHANGE                                  0.00
+
+07/26/26 14:30  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

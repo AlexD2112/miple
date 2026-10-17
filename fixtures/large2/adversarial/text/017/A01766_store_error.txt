@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3149  Seattle WA
+            MEMBER ************
+
+177531 TILLAMOOK ICE CRM 48 OZ        8.88 E
+519835 HEINZ KETCHUP 32 OZ            4.48 E
+1734278 KS BONELESS SKINLESS CHICKE  16.46 E
+     2.46 lb @ 6.69 /lb
+7704517 TPD/BONELESS SKI             2.51-  
+648400 KS PREPARED MAC & CHS         10.62 E
+0195837 TPD/PREPARED MAC             2.72-  
+1632021 KS SHRP CHDR BLOCK           10.33 E
+1980461 KS FRZN PIZZA                13.30 E
+1847930 KS LIMES                     11.20 E
+     4 @ 2.80
+
+SUBTOTAL                               70.04
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             70.14
+MASTERCARD TEND                        70.14
+CHANGE                                  0.00
+
+10/12/26 20:04  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

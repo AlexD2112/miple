@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 2424
+FUEL POINTS BALANCE     580
+TELL US HOW WE DID  22965964
+
+SMPL TRTH CARROTS                 1.79 F
+  0.64 lb @ 3.42 /lb
+SMPL TRTH RED BELL PEPR           2.19 F
+ASPARAGUS                         2.93 F
+DIGITAL CPN                      0.88-  
+KRO FLOUR TORT                    6.18 F
+DIGITAL CPN                      1.65-  
+CHKN GYOZA POTSTICKERS            9.88 F
+KRO AA BATTERIES 8PK             24.36 T
+DIGITAL CPN                      0.49- T
+  2.56 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             3.40 F
+FM PASTURE RAISED EGGS            7.37 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+  5.19 lb @ 6.69 /lb
+SMPL TRTH BNLS SKNLS CHKN BRST   34.72 F
+CAT LITTER                       14.03 T
+FM PLUS CARD SAV                 2.41- T
+FM GRNLA BRS                      6.07 F
+  3 @ 3.16
+SMPL TRTH SRRCH                   9.48 F
+
+SUBTOTAL                          119.75
+TAX 10.55% ON 35.49                 3.74
+TOTAL                             123.49
+DEBIT TEND                        123.49
+CHANGE                              0.00
+
+03/21/26 11:52  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+CARD #: ************1301
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+RETURNS WITHIN 90 DAYS
+               THANK YOU

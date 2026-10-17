@@ -1,0 +1,23 @@
+                 TARGET
+        San Francisco CA  T-2523
+             (555) 030-3183
+
+GG FRESH MINT                     2.74 N
+CILANTRO BUNCH                    2.02 N
+CIRCLE DEAL                      0.61-  
+MKT PANTRY DELI FRIED CHKN       11.75 T
+UP&UP TRASH BAGS 40CT             6.49 T
+GG FROZEN PEAS                   13.98 N
+STRAUS PLAIN GREEK YOGURT         1.74 N
+GG POTATO CHIPS                   5.07 N
+
+SUBTOTAL                           43.18
+TAX 8.625% ON 18.24                 1.57
+TOTAL                              44.75
+CASH TEND                          60.00
+CHANGE                             15.25
+
+23-JUN-28 01:24
+ITEMS 29   REG 09  TRANS 3836
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

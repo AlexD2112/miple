@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2498  San Francisco CA
+            MEMBER ************
+
+1257032 WHOLE CHICKEN                19.88 E
+     3.14 lb @ 6.33 /lb
+1601143 KS CHKN BROTH CARTON          8.38 E
+1336363 KS PREPARED MAC & CHS        10.62 E
+893097 CHKN BROTH 32 OZ               2.81 E
+183698 PLAIN GOAT CHS                 5.77 E
+207483 KS SPRING MIX                  5.44 E
+12659 KS BLACK BEANS CAN              8.77 E
+5496444 TPD/BLACK BEANS              2.51-  
+
+SUBTOTAL                               59.16
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             59.16
+VISA TEND                              59.16
+CHANGE                                  0.00
+
+10/01/26 09:53  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

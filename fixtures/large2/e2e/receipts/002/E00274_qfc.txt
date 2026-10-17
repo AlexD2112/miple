@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3436
+
+SMPL TRTH DIJON MSTRD             2.46 F
+  2 @ 1.57
+ORG GALA APPLES                   3.14 F
+KRO SPNGS 3PK                     9.54 T
+COLD BREW COFFEE 32OZ             4.43 F
+KRO MAYONNAISE                    6.36 F
+
+SUBTOTAL                           25.93
+TAX 10.55% ON 9.54                  1.01
+TOTAL                              26.94
+AMEX TEND                          26.94
+CHANGE                              0.00
+
+03/27/26 18:43  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

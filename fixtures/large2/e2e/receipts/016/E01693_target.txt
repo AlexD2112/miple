@@ -1,0 +1,24 @@
+                 TARGET
+        San Francisco CA  T-2597
+             (555) 030-9988
+
+GG TUNA CAN                       1.08 N
+CHKN DRMSTCKS                     8.97 N
+CIRCLE DEAL                      1.72-  
+PARMIGIANO REGGIANO WEDGE         8.42 N
+SPRKLG WTR 8PK                    5.13 T
+  8 @ 0.05
+CA CRV                            0.40 T
+BATH TISSUE 12 ROLL              23.08 T
+VANILLA YOGURT CUPS               5.39 N
+BLUBRY 18 OZ                      4.61 N
+
+SUBTOTAL                           55.36
+TAX 8.625% ON 28.61                 2.47
+TOTAL                              57.83
+VISA TEND                          57.83
+CHANGE                              0.00
+
+08/04/26 18:34  ITEMS 7
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

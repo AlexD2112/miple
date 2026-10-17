@@ -1,0 +1,46 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1430  Seattle WA
+            MEMBER ************
+
+134011 BROC CROWNS                    4.50 E
+     2 @ 2.25
+3378507 TPD/BROC CROWNS              1.35-  
+1980944 FRZN PEAS                    13.98 E
+183692 KS GREETING CARD              20.34 A
+1539293 STRAUS PLAIN GRK YGRT         1.74 E
+1539692 WHITE BREAD                   6.34 E
+0419481 TPD/WHITE BREAD              1.90-  
+1697187 KS CAULIFLOWER                5.38 E
+     1.43 lb @ 3.76 /lb
+527321 FRZN THREE BERRY BLEND 4 LB    5.12 E
+     2 @ 2.56
+939857 GRND PORK                      6.60 E
+3402037 TPD/GRND PORK                1.98-  
+204279 KS MANGO                       1.29 E
+     1.70 lb @ 0.76 /lb
+1893287 KS LAMB CHOPS                53.26 E
+     3.12 lb @ 17.07 /lb
+1375643 CHERRY TOM                    1.15 E
+1396757 ORGANIC LEMONS                5.29 E
+     1.87 lb @ 2.83 /lb
+1931134 BNLS RIBEYE STEAK            32.52 E
+     2.09 lb @ 15.56 /lb
+1887647 KS SRIRACHA                   3.16 E
+341299 UNEXPECTED CHEDDAR            24.27 E
+     1.35 lb @ 17.98 /lb
+1553627 ROLLED OATS                   3.98 E
+783407 GRND TRKY                      5.19 E
+0003321 TPD/GRND TRKY                1.56-  
+100135 KS BEETS                       3.63 E
+     2.03 lb @ 1.79 /lb
+
+SUBTOTAL                              190.95
+TAX 10.55% ON 20.34                     2.15
+**** TOTAL                            193.10
+VISA TEND                             193.10
+CHANGE                                  0.00
+
+02/01/26 17:12  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

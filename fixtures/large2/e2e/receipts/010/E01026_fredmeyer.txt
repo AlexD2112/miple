@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 0930
+
+  5.91 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  45.15 F
+  2.74 lb @ 11.10 /lb
+PORK CHOPS                       30.41 F
+  4 @ 1.14
+CREMINI MSHRM                     4.56 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+FM CRKRS                          2.00 F
+SMPL TRTH SPAGHETTI               9.54 F
+SHREDDED MOZZ 8 OZ                2.92 F
+KRO TILLAMOOK MEDIUM CHDR        11.77 F
+  3.42 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                8.31 F
+  2.29 lb @ 5.06 /lb
+KRO GRND CHKN                    11.59 F
+DELI FRIED CHKN                  11.75 T
+FLOWERS BOUQUET                  23.70 T
+  2.15 lb @ 1.13 /lb
+RUSSET POTS                       2.43 F
+GENOA SALAMI                      4.76 F
+  3.94 lb @ 3.34 /lb
+HASS AVOCADO LG                  13.16 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          190.77
+TAX 10.55% ON 35.69                 3.77
+TOTAL                             194.54
+DISCOVER TEND                     194.54
+CHANGE                              0.00
+
+05/12/26 20:38  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

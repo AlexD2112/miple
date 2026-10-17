@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 3570
+
+BOTTLED WTR 40 PK                 2.45 F
+DIGITAL CPN                      0.67-  
+SMPL TRTH GINGER ALE 12PK         6.02 T
+DIGIORNO RISING CRUST PEPPERONI   5.73 F
+SMPL TRTH CHERRIES                5.69 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+SMPL TRTH BLUEBERRIES             5.87 F
+MANDARINS                         2.72 F
+KRO WHL MLK HALF GALLON           6.79 F
+SMPL TRTH PARMIGIANO RGGN         7.82 F
+  2.67 lb @ 2.83 /lb
+ORGANIC LEMONS                    7.56 F
+STRAUS PLAIN GRK YGRT             1.74 F
+KRO JASMINE RICE                 12.13 F
+MFR CPN                          0.74-  
+  4 @ 2.55
+HUY FONG SRIRACHA                10.20 F
+GRND TRKY                         5.19 F
+JASMINE RICE                     12.13 F
+LG EGGS 18 CT                     7.52 F
+  3.99 lb @ 2.90 /lb
+SMPL TRTH BANANAS                11.57 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          118.71
+TAX 10.55% ON 15.01                 1.58
+TOTAL                             120.29
+DEBIT TEND                        120.29
+CHANGE                              0.00
+
+06/25/26 19:05  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

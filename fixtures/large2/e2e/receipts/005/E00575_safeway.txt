@@ -1,0 +1,22 @@
+                SAFEWAY
+         Store 2946  Seattle WA
+             (555) 010-3973
+
+TOOTHPASTE                       16.40 T
+LUCERNE SHRP CHDR BLOCK          10.33 S
+NAPKINS                          24.05 T
+CARROTS 2 LB                      1.74 S
+O ORGANICS GREEN BEANS            2.31 S
+RICOTTA                           8.76 S
+SIG KTCHNS CRL                    6.63 S
+SIG SLCT SPRKLG WTR 8PK           5.13 S
+
+SUBTOTAL                           75.35
+TAX 10.55% ON 40.45                 4.27
+**** TOTAL                         79.62
+DISCOVER TEND                      79.62
+CHANGE                              0.00
+
+09/15/26 07:35  ITEMS 8
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

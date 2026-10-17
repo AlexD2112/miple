@@ -1,0 +1,39 @@
+               FRED MEYER
+              Portland OR
+               Store 1348
+
+HNYCRSP APPLES                    4.67 F
+SMPL TRTH ATLNTC SLMN FLLT       19.77 F
+BANANA                            2.37 F
+ROMAINE LETTUCE                   2.79 F
+SMPL TRTH ROMA TOM                2.38 F
+ORG CARROTS BUNCH                 4.63 F
+GRSS-FD GRND BF 85/15             7.35 F
+BABY SPNCH 5 OZ                   3.77 F
+  0.41 lb @ 0.76 /lb
+MANGO                             0.31 F
+  2 @ 5.79
+KRO LEMONADE 52OZ                11.58 F
+  2 @ 0.10
+OR BTL DEP                        0.20  
+KRO GREETING CARD                20.34 F
+KRO SAVINGS                      1.24-  
+  3 @ 2.46
+DIJON MSTRD                       7.38 F
+SMPL TRTH FLOUR TORT              6.18 F
+  4 @ 2.06
+FM FRZN MIXED BRRS                8.24 F
+KRO SAVINGS                      1.62-  
+CRRTS                             1.79 F
+MFR CPN                          0.54-  
+SMPL TRTH CARROTS                 1.79 F
+
+SUBTOTAL                          102.14
+TAX                                 0.00
+TOTAL                             102.14
+MASTERCARD TEND                   102.14
+CHANGE                              0.00
+
+02/04/26 20:00  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

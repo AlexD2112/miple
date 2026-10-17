@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 1026
+
+  2.43 lb @ 6.69 /lb
+BONELESS SKINLESS CHICKEN BREAS  16.26 F
+  2 @ 3.16
+FM SRIRACHA                       6.32 F
+
+SUBTOTAL                           22.58
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              22.58
+AMEX TEND                          22.58
+CHANGE                              0.00
+
+08/01/2025 00:37 PDT  2792 01 802 4
+ITEMS 5   REG 19  TRANS 9820
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

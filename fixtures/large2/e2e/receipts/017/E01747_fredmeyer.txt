@@ -1,0 +1,41 @@
+               FRED MEYER
+              Portland OR
+               Store 0398
+
+SHAMPOO                          17.57 F
+SMPL TRTH CHERRY TOM              1.15 F
+TRASH BAGS 40CT                   6.49 F
+  4 @ 5.49
+SMPL TRTH KTCHP                  21.96 F
+  2 @ 2.38
+ROMA TOM                          4.76 F
+DIGITAL CPN                      1.43-  
+BTR LTTC                          2.45 F
+WHITE BREAD                       6.34 F
+DIGITAL CPN                      1.90-  
+FM TILLAMOOK MEDIUM CHEDDAR      11.77 F
+SMPL TRTH SLCD ROAST BF           5.94 F
+KRO DISH SOAP                    19.39 F
+KRO SAVINGS                      2.32-  
+DELI FRIED CHKN                  11.75 F
+HAND SOAP                        24.27 F
+KRO ATLANTIC SLMN FLLT           19.77 F
+FM PLUS CARD SAV                 0.34-  
+BABY SPINACH 5 OZ                 3.77 F
+  2 @ 3.33
+SMPL TRTH TORTILLA CHIPS          6.66 F
+KRO SAVINGS                      1.68-  
+SMPL TRTH CRKRS                   2.00 F
+BLACK BEANS 15 OZ CAN            10.76 F
+KRO SAVINGS                      0.71-  
+MAYONNAISE 30 OZ                  6.42 F
+
+SUBTOTAL                          174.84
+TAX                                 0.00
+TOTAL                             174.84
+AMEX TEND                         174.84
+CHANGE                              0.00
+
+09/23/26 15:35  ITEMS 23
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

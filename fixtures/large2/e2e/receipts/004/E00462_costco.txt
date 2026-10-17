@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0984  Portland OR
+            MEMBER ************
+
+1445834 CABOT SHARP CHEDDAR 8 OZ      8.48 E
+1857712 CRM CHS                       8.63 E
+1548494 KS ATLANTIC SLMN FLLT        19.77 E
+1694215 GRNLA BRS                     6.07 E
+1952932 DIGIORNO RISING CRUST PEPPER  5.73 E
+949740 KS DICED TOM CAN              11.92 E
+     4 @ 2.98
+
+SUBTOTAL                               60.60
+TAX                                     0.00
+**** TOTAL                             60.60
+MASTERCARD TEND                        60.60
+CHANGE                                  0.00
+
+10/06/26 20:17  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

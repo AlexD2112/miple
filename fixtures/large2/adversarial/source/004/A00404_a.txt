@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 1017
+
+DGRN RISING CRUST PEPPERONI PIZZ  5.73 F
+  3 @ 0.90
+FRESH DILL                        2.70 F
+ORANGE JUICE                      7.69 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+CILANTRO                          1.16 F
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           28.89
+TAX                                 0.00
+TOTAL                              28.89
+VISA TEND                          28.89
+CHANGE                              0.00
+
+09/05/26 19:31  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

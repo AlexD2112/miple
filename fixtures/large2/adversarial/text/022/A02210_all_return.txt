@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1807  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1433143 KS HONEYCRISP APPLES  4.67- E
+RETURN 153084 ORG ITALIAN PARSLEY    1.95- E
+
+SUBTOTAL                               6.62-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             6.62-
+VISA TEND                              6.62-
+CHANGE                                  0.00
+
+01/27/26 14:57  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

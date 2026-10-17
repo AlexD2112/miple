@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0355  Seattle WA
+            MEMBER ************
+
+1620488 KS LEMONS                     4.19 E
+1480522 KS DICED TOM CAN              2.98 E
+1940669 PLAIN GOAT CHS                5.77 E
+405857 FRZN PIZZA                    13.30 E
+
+SUBTOTAL                               26.24
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             25.74
+DISCOVER TEND                          25.74
+CHANGE                                  0.00
+
+08/10/26 14:49  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

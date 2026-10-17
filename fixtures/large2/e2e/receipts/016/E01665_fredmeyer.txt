@@ -1,0 +1,40 @@
+               FRED MEYER
+              Portland OR
+               Store 1709
+
+KRO PAPER PLATES                  3.31 F
+STRAWBERRIES 1 LB                 5.22 F
+  0.35 lb @ 2.08 /lb
+SMPL TRTH KIWI                    0.73 F
+  3.72 lb @ 2.90 /lb
+BNNS                             10.79 F
+  1.91 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             18.97 F
+  2.78 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             3.70 F
+RDCD FAT 2% MLK GALLON            6.54 F
+SMPL TRTH BUTTER LETTUCE          2.45 F
+KRO DELI FRIED CHKN              11.75 F
+KRO TORTILLA CHIPS                3.33 F
+KRO SAVINGS                      0.30-  
+KRO ALUMINUM FOIL                18.03 F
+GRND BF 80/20                     6.57 F
+DIGITAL CPN                      0.23-  
+UNSLTD BTR 4 X 1 LB               9.48 F
+FM GENOA SALAMI                   4.76 F
+CHKN BROTH 32 OZ                  2.81 F
+ORG SPRING MIX 1 LB               5.49 F
+HALF & HALF                       5.34 F
+PREPARED MAC & CHS               10.62 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                          129.46
+TAX                                 0.00
+TOTAL                             129.46
+DEBIT TEND                        129.46
+CHANGE                              0.00
+
+09/07/26 12:19  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

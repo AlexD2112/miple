@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2534
+
+SMPL TRTH BTR LTTC                2.45 F
+  3 @ 1.15
+CHERRY TOM                        3.45 F
+  2 @ 2.59
+SMPL TRTH GREEN ONIN BUNCH        5.18 F
+KRO SAVINGS                      1.55-  
+  2.01 lb @ 6.69 /lb
+KRO BONELESS SKINLESS CHICKEN B  13.45 F
+MFR CPN                          2.12-  
+SMPL TRTH LIMES                   2.80 F
+
+SUBTOTAL                           23.66
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              23.66
+AMEX TEND                          23.66
+CHANGE                              0.00
+
+03/10/26 20:45  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

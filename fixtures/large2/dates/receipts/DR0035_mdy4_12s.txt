@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3537
+
+  2.05 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                3.28 F
+LEMON                             4.30 F
+  3 @ 2.80
+SMPL TRTH LIMES                   8.40 F
+MYNNS 30 OZ                       6.42 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           22.48
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              22.49
+VISA TEND                          22.49
+CHANGE                              0.00
+
+03/03/2030 10:40:06 PM  9855 29 226 4
+ITEMS 6   REG 10  TRANS 5627
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

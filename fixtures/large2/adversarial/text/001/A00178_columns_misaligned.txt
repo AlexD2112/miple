@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0714  Seattle WA
+            MEMBER ************
+
+1525326 CAT LITTER	14.03 A
+35433 AVCDS BAG 4 CT                  3.54 E
+599655 KS CTTG CHS	3.21 E
+1284945 CELERY                        4.32 E
+668504 ORGNL HUMMUS 10 OZ             8.88 E
+4171462 TPD/ORGNL HUMMUS             0.41-  
+  676714 BLACK FOREST HAM 9 OZ          7.00 E
+1368122 KS SLCD ROAST BF              5.94 E
+238064 CRL	6.63 E
+1210598 KS PORK TENDERLOIN           32.04 E
+     3.32 lb @ 9.65 /lb
+995726 CHKN GYOZA POTSTICKERS 9.88 E
+877745 KS COLA 12PK                   7.32 A
+     4 @ 1.83
+1029455 HOUSE FOODS EXTRA FIRM TOFU   2.78 E  
+
+SUBTOTAL                              105.16
+TAX 10.55% ON 21.35                     2.25
+**** TOTAL                            107.41
+MASTERCARD TEND                       107.41
+CHANGE 0.00
+
+06/15/26 09:47  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

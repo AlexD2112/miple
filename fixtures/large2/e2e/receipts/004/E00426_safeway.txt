@@ -1,0 +1,20 @@
+                SAFEWAY
+      Store 2547  San Francisco CA
+             (555) 010-3118
+
+HNDMD STYLE CORN TORT             3.55 S
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 S
+  2.22 lb @ 18.16 /lb
+COD FLLT                         40.32 S
+  1.91 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  6.69 S
+
+SUBTOTAL                           60.88
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         60.88
+VISA TEND                          60.88
+CHANGE                              0.00
+
+05/11/26 20:55  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

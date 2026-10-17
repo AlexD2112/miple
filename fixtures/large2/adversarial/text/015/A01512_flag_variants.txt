@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 2289
+
+  2 @ 2.35
+FLOUR TORT 10 CT                  4.70  
+KRO DRIED LNTLS                   4.26  
+KRO BOTTLED WTR 24PK              9.32  
+KRO SAVINGS                      2.80-  
+KRO SILKEN TOFU                   2.29  
+SMPL TRTH ICEBERG LTTC            5.11  
+SOURDOUGH LOAF                    7.47  
+  2 @ 4.00
+SMPL TRTH ARUGULA                 8.00  
+FM SOY SCE                        6.79  
+  3 @ 5.24
+KRO ROOT BEER 2L                 15.72 T
+SMPL TRTH CRM CHS                 8.63  
+  0.53 lb @ 14.17 /lb
+BLACK FOREST HAM                  7.51  
+
+SUBTOTAL                           77.00
+TAX 10.55% ON 15.72                 1.66
+TOTAL                              78.66
+AMEX TEND                          78.66
+CHANGE                              0.00
+
+09/25/26 21:06  ITEMS 15
+T=TAXED ITEM
+               THANK YOU

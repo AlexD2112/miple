@@ -1,0 +1,22 @@
+                SAFEWAY
+         Store 1465  Seattle WA
+             (555) 010-3037
+
+PNT BTR                           6.90  
+O ORGANICS ROMA TOMATOES          2.38  
+  3 @ 4.34
+CELERY HEARTS                    13.02  
+O ORGANICS BARTLETT PEARS         3.00  
+  3 @ 3.33
+SW TORTILLA CHIPS                 9.99  
+GRASS-FED GRND BF 85/15           7.35  
+
+SUBTOTAL                           42.64
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         42.64
+DEBIT TEND                         42.64
+CHANGE                              0.00
+
+06/05/26 13:02  ITEMS 10
+TX=TAXABLE ITEM
+               THANK YOU

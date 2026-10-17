@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1317  Seattle WA
+            MEMBER ************
+
+658569 ROMA TOM                       2.38 E
+2761873 TPD/ROMA TOM                 0.71-  
+482250 BEETS                          4.40 E
+     2.46 lb @ 1.79 /lb
+876663 ZCCHN                          7.70 E
+     2.07 lb @ 3.72 /lb
+235900 KS CHUCK ROAST                23.63 E
+     1.72 lb @ 13.74 /lb
+498386 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+0054504 TPD/HOUSE FOODS              0.82-  
+1426134 KS DIET COLA 12PK CANS        4.42 A
+423995 DICED TOM 14.5 OZ              1.00 E
+1849845 KS RUSSET POTS                1.54 E
+     1.36 lb @ 1.13 /lb
+1498347 FRESH DILL                    0.90 E
+323601 POTATO CHIPS                   5.07 E
+285389 CHKN GYOZA POTSTICKERS         9.88 E
+1674202 TPD/CHKN GYOZA P             0.65-  
+1080951 KS BLACK FOREST HAM          11.62 E
+     0.82 lb @ 14.17 /lb
+1733407 KS SHARP CHEDDAR BLOCK       10.33 E
+1746555 KS HALF & HALF                5.34 E
+
+SUBTOTAL                               88.81
+TAX 10.55% ON 4.42                      0.47
+**** TOTAL                             89.28
+AMEX TEND                              89.28
+CHANGE                                  0.00
+
+12/31/26 07:24  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

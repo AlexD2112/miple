@@ -1,0 +1,24 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+08/14/26 11:23  ITEMS 7
+
+CHANGE                             11.46
+CASH TEND                         120.00
+TOTAL                             108.54
+TAX 10.55% ON 47.52                 5.01
+SUBTOTAL                          103.53
+
+LMND 52OZ                         5.79 T
+KRO SAVINGS                      2.93-  
+BNLS SKNLS CHKN BRST             29.17 F
+  4.36 lb @ 6.69 /lb
+KRO FLWRS BOUQUET                23.70 T
+SMPL TRTH WHL MLK HALF GALLON     6.79 F
+DIGITAL CPN                      2.53-  
+PRIV SEL JSMN RICE               12.13 F
+KRO PENNE                        13.38 F
+KRO ALUMINUM FOIL                18.03 T
+
+         Seattle WA  Store 1331
+          Quality Food Centers
+                  QFC

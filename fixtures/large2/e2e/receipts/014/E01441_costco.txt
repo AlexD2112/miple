@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1440  Seattle WA
+            MEMBER ************
+
+1685873 TUNA CAN                      1.08 E
+1198581 KS GRND COFFEE                9.64 E
+1782619 CHKN BROTH 32 OZ              2.81 E
+1685421 SHREDDED CHDR 8 OZ            6.42 E
+393738 MISSION FLOUR TORT 40 CT       5.22 E
+778784 KS ENGLISH CUCUMBER            7.56 E
+     2.16 lb @ 3.50 /lb
+1739404 GREETING CARD                20.34 A
+1827973 LG EGGS 12 CT                 8.69 E
+7623299 TPD/LG EGGS 12 C             1.86-  
+1387189 DELI SLCD TRKY BRST          13.41 E
+     1.22 lb @ 10.99 /lb
+
+SUBTOTAL                               73.31
+TAX 10.55% ON 20.34                     2.15
+**** TOTAL                             75.46
+MASTERCARD TEND                        75.46
+CHANGE                                  0.00
+
+07/10/26 11:29  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

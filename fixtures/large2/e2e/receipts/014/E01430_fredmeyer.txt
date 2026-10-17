@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 1625
+
+ORG GALA APPLES                   1.57 F
+GENOA SALAMI                      4.76 F
+SMPL TRTH CELERY                  4.32 F
+DIGITAL CPN                      1.30-  
+LG EGGS 18 CT                     7.52 F
+BABY SPNCH                        5.42 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+FRESH MOZZ                        8.65 F
+KRO UNSLTD BTR                    9.95 F
+  4 @ 2.74
+FRESH BASIL                      10.96 F
+HANDMADE STYLE CORN TORT          3.55 F
+KRO SAVINGS                      0.42-  
+SMPL TRTH FRZN PEAS              13.98 F
+KRO ITLN SAUSAGE BULK             9.93 F
+
+SUBTOTAL                           96.32
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              96.32
+VISA TEND                          96.32
+CHANGE                              0.00
+
+06/30/26 07:13  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

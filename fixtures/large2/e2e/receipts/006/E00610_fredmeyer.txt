@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 1134
+
+FM WHL MLK HALF GALLON            6.79 F
+FM CHKN BROTH CARTON              8.38 F
+DIGITAL CPN                      1.87-  
+SMPL TRTH LIMES                   2.80 F
+KRO SOY SCE                       6.79 F
+KRO DISH SOAP                    19.39 T
+CABOT SHRP CHDR 8 OZ              8.48 F
+CILANTRO BUNCH                    2.02 F
+KRO FRZN WAFFLES                  7.05 F
+SMPL TRTH CARROTS                 1.79 F
+
+SUBTOTAL                           61.62
+TAX 10.55% ON 19.39                 2.05
+TOTAL                              63.67
+DEBIT TEND                         63.67
+CHANGE                              0.00
+
+09/12/26 17:26  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

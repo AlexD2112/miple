@@ -1,0 +1,34 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2113
+
+SMPL TRTH GRANOLA BARS            6.07 F
+HEINZ KETCHUP 32 OZ               4.48 F
+  2 @ 1.00
+DICED TOM 14.5 OZ                 2.00 F
+  4 @ 2.25
+BROC CROWNS                       9.00 F
+WILD COD FLLT                    18.56 F
+KRO WHL MLK HALF GALLON           6.79 F
+MFR CPN                          2.04-  
+PRIV SEL COCONUT MLK CAN          3.83 F
+KRO COCONUT MLK CAN               3.83 F
+GRND TRKY                         5.19 F
+KRO ORANGE JUICE 52OZ             9.39 F
+BTR LTTC                          2.45 F
+CARROTS 2 LB                      1.74 F
+SMPL TRTH ORANGE JUICE            7.69 F
+DIGITAL CPN                      1.12-  
+KRO OAT MILK                      3.10 F
+FLOUR TORT 10 CT                  2.35 F
+PARMIGIANO RGGN                   7.82 F
+
+SUBTOTAL                           91.13
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              91.13
+AMEX TEND                          91.13
+CHANGE                              0.00
+
+08/27/26 18:04  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

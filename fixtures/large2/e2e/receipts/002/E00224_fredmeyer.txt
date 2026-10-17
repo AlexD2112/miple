@@ -1,0 +1,37 @@
+               FRED MEYER
+              Portland OR
+               Store 0780
+
+SMPL TRTH HAMBURGER BUNS          2.77 F
+SMPL TRTH SWEET POTS              3.28 F
+MAYONNAISE                        6.36 F
+STRWB 1 LB                        5.22 F
+SMPL TRTH TLLMK MEDIUM CHDR      11.77 F
+MFR CPN                          1.08-  
+DOUBLE CREME BRIE                 5.40 F
+KRO SAVINGS                      1.62-  
+DELI FRIED CHKN                  11.75 F
+RUSSET POTATOES 5 LB BAG          4.53 F
+RUSSET POTS 5 LB BAG              4.53 F
+DIGITAL CPN                      1.36-  
+SMPL TRTH CLNTR                   1.16 F
+  1.88 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                29.25 F
+  2 @ 2.56
+FRZN THREE BERRY BLEND 4 LB       5.12 F
+SMPL TRTH FRZN PEAS              13.98 F
+SLTD BTR                          5.73 F
+FROZEN THREE BERRY BLEND 4 LB     2.56 F
+TRASH BAGS 40CT                   6.49 F
+  3 @ 2.54
+SMPL TRTH WHL WHT SNDWCH BRD      7.62 F
+
+SUBTOTAL                          123.46
+TAX                                 0.00
+TOTAL                             123.46
+CASH TEND                         140.00
+CHANGE                             16.54
+
+12/31/26 11:59  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

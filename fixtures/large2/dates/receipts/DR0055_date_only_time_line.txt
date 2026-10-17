@@ -1,0 +1,22 @@
+                SAFEWAY
+         Store 3502  Seattle WA
+             (555) 010-2817
+
+  3.62 lb @ 7.09 /lb
+SW TRKY BRST                     25.67 S
+  2 @ 2.25
+BROC CROWNS                       4.50 S
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           30.33
+TAX 10.55% ON 0.16                  0.02
+**** TOTAL                         30.35
+AMEX TEND                          30.35
+CHANGE                              0.00
+
+01/01/30  203 21 8044 6992
+TIME: 00:03
+ITEMS 7   REG 02  TRANS 9854
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

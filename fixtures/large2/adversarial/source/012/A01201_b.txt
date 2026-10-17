@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3409  Seattle WA
+            MEMBER ************
+
+1479991 KS LEMONS                     4.19 E
+919855 ORG ITALIAN PARSLEY            5.85 E
+     3 @ 1.95
+1230105 FRZN THREE BERRY BLEND 4 LB   2.56 E
+
+SUBTOTAL                               12.60
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             12.60
+MASTERCARD TEND                        12.60
+CHANGE                                  0.00
+
+09/27/26 13:58  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 1883
+
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 E
+2% MLK HALF GALLON                6.08 E
+KRO SAVINGS                      0.29-  
+  1.25 lb @ 10.99 /lb
+DELI SLICED TURKEY BREAST        13.74 E
+SHMP                             17.57 A
+KRO COLD BREW COFFEE 32OZ         4.43 E
+MFR CPN                          1.33-  
+FM PENNE                         13.38 E
+  2.63 lb @ 1.60 /lb
+JALAPENO                          4.21 E
+MFR CPN                          1.26-  
+GENOA SALAMI                      4.76 E
+KRO FROZEN PEAS                  13.98 E
+ORGANIC BASIL CLAMSHELL           1.49 E
+  3 @ 1.47
+CHOBANI PLAIN GREEK YOGURT 32 OZ  4.41 E
+KRO SAVINGS                      1.27-  
+FM COLA 12PK CANS                 1.51 A
+SMPL TRTH SLCD ROAST BF           5.94 E
+  1.25 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 3.63 E
+ITLN SAUSAGE BULK                 9.93 E
+  1.47 lb @ 18.16 /lb
+KRO COD FILLET                   26.70 E
+CHKN GYOZA POTSTICKERS            9.88 E
+
+SUBTOTAL                          147.81
+TAX 10.55% ON 19.08                 2.01
+TOTAL                             149.82
+MASTERCARD TEND                   149.82
+CHANGE                              0.00
+
+02/25/26 12:26  ITEMS 19
+A=TAXABLE  E=EXEMPT
+               THANK YOU

@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 3053  Seattle WA
+             (555) 010-1098
+
+  REFUND - ORIG RECEIPT
+RETURN SIG SLCT WHOLE CHICKEN   38.23- S
+RETURN CILANTRO BUNCH            2.02- S
+RETURN GREEN ONIN BUNCH          2.59- S
+RETURN LUCERNE BRIE              4.85- S
+RETURN GREEN BEANS               2.31- S
+RETURN ORG BLACK BEANS 8 CANS    1.15- S
+
+SUBTOTAL                          51.15-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                        51.15-
+DISCOVER TEND                     51.15-
+CHANGE                              0.00
+
+05/14/26 18:21  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

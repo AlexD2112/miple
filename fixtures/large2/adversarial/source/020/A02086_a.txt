@@ -1,0 +1,16 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0336
+
+TRASH BAGS 40CT                   6.49 T
+PAPER PLATES                      3.31 T
+
+SUBTOTAL                            9.80
+TAX 10.55% ON 9.80                  1.03
+TOTAL                              10.83
+DEBIT TEND                         10.83
+CHANGE                              0.00
+
+01/26/26 08:51  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0443
+
+CRRTS 2 LB                        1.74 F
+SMPL TRTH QUINOA                  7.75 F
+SMPL TRTH KALE                    4.17 F
+GRSS-FD GRND BF 85/15             7.35 F
+
+SUBTOTAL                           21.01
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              21.01
+AMEX TEND                          21.01
+CHANGE                              0.00
+
+06/19/26 16:40  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

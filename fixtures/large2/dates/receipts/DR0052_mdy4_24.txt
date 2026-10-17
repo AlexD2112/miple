@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2430  Seattle WA
+            MEMBER ************
+
+1096973 DAVES KILLER BRD              6.69 E
+1921699 STRWB 1 LB                    5.22 E
+111261 LG BROWN EGGS                  4.29 E
+357321 REDUCED FAT 2% MLK GALLON      6.54 E
+8300184 TPD/REDUCED FAT              1.50-  
+1065685 OLD FSHND ROLLED OATS 42 OZ  17.43 E
+1749198 KS CCNT MLK CAN               3.83 E
+3302630 TPD/CCNT MLK CAN             1.15-  
+412322 KS PORK CHOPS                 30.19 E
+     2.72 lb @ 11.10 /lb
+1507223 BNLS RIBEYE STEAK            47.30 E
+     3.04 lb @ 15.56 /lb
+723584 RED GRAPES                     3.04 E
+1668802 KS FRZN PIZZA                13.30 E
+
+SUBTOTAL                              135.18
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            135.18
+DEBIT TEND                            135.18
+CHANGE                                  0.00
+
+07/06/2029 00:14  659 659 2314 29
+ITEMS 26   REG 17  TRANS 3050
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

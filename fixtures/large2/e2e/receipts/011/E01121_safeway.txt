@@ -1,0 +1,33 @@
+                SAFEWAY
+         Store 1302  Seattle WA
+             (555) 010-0714
+
+SIG NPKNS                        24.05 T
+O ORGANICS ROMA TOM               2.38 S
+CLUB CARD SAVINGS                0.23-  
+SIG SLCT COLD BREW COFFEE 32OZ    4.43 S
+SIG SHAMPOO                      17.57 T
+  3 @ 2.25
+O ORGANICS BROC CROWNS            6.75 S
+SIG PAPER TOWELS 6 ROLL           3.75 T
+GREETING CARD                    20.34 T
+COCA-COLA 12 PACK CANS            2.77 T
+HANDMADE STYLE CORN TORT          3.55 S
+SIG KTCHNS CHKN BROTH CARTON      8.38 S
+SPRING MIX                        5.44 S
+BARTLETT PEARS                    3.00 S
+DIGIORNO RISING CRUST PEPPERONI   5.73 S
+J4U DIGITAL CPN                  1.06-  
+SW COLA 12PK CANS                 1.51 T
+CLUB CARD SAVINGS                0.45- T
+AVCDS BAG 4 CT                    3.54 S
+
+SUBTOTAL                          111.45
+TAX 10.55% ON 69.54                 7.34
+**** TOTAL                        118.79
+AMEX TEND                         118.79
+CHANGE                              0.00
+
+06/13/26 12:38  ITEMS 17
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

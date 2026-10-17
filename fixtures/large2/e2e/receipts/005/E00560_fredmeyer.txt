@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 1083
+
+TILLAMOOK MEDIUM CHEDDAR         11.77 F
+  0.73 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS               6.75 F
+CILANTRO BUNCH                    2.02 F
+  3 @ 1.49
+JASMINE RICE 5 LB                 4.47 F
+  2 @ 5.07
+POTATO CHIPS                     10.14 F
+BAGELS                            3.77 F
+  5.47 lb @ 6.33 /lb
+SMPL TRTH WHL CHKN               34.63 F
+BANANA                            2.37 F
+POTATO CHIPS                      5.07 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           81.09
+TAX                                 0.00
+TOTAL                              81.09
+DISCOVER TEND                      81.09
+CHANGE                              0.00
+
+08/16/26 18:00  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

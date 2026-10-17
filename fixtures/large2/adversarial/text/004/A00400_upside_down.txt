@@ -1,0 +1,31 @@
+               THANK YOU
+T=TAXABLE  S=NONTAXABLE FOOD
+01/31/26 10:28  ITEMS 16
+
+CHANGE                              0.00
+DISCOVER TEND                      93.71
+**** TOTAL                         93.71
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                           93.71
+
+CLUB CARD SAVINGS                0.96-  
+SIG SLCT JASMINE RICE            12.13 S
+CLUB CARD SAVINGS                0.95-  
+SRIRACHA                          3.16 S
+EVRYTHNG BUT THE BAGEL SSNNG      7.01 S
+JSMN RICE                        12.13 S
+PLAIN NONFAT GRK YGRT            18.60 S
+  4 @ 4.65
+BOTTLED WTR 40 PK                 2.45 S
+SIG SLCT FROZEN DUMPLINGS        15.61 S
+TORTILLA CHIPS                    6.66 S
+  2 @ 3.33
+BANANA                            2.37 S
+J4U PERSONAL DEAL                1.23-  
+SIG SLCT MAYONNAISE               6.36 S
+CILANTRO BUNCH                    2.02 S
+LUCERNE GOAT CHEESE               8.35 S
+
+             (555) 010-7489
+         Store 1818  Seattle WA
+                SAFEWAY

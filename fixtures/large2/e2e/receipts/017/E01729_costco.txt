@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0727  Seattle WA
+            MEMBER ************
+
+1429005 DOUBLE CREME BRIE             5.40 E
+1074661 KS GRND BF 80/20              6.57 E
+940013 KS RANCH DRSSNG                3.99 E
+1611689 KS OAT MILK                   3.10 E
+194211 ORG BLACK BEANS 8 CANS         3.45 E
+     3 @ 1.15
+4174441 TPD/ORG BLACK BE             0.27-  
+652372 LAMB CHOPS                    16.05 E
+     0.94 lb @ 17.07 /lb
+0695415 TPD/LAMB CHOPS               2.86-  
+1329771 KS GRND COFFEE                9.64 E
+1131841 SPRKLG WTR                    7.48 E
+     2 @ 3.74
+726411 LEMON                          8.60 E
+     2 @ 4.30
+1009743 PAPER PLATES                  3.31 A
+1783581 UNEXPECTED CHDR              17.44 E
+     0.97 lb @ 17.98 /lb
+182446 KS KETCHUP                     5.49 E
+522493 KS SHRP CHDR BLOCK            10.33 E
+745983 UNXPCTD CHDR                   5.03 E
+     0.28 lb @ 17.98 /lb
+
+SUBTOTAL                              102.75
+TAX 10.55% ON 3.31                      0.35
+**** TOTAL                            103.10
+VISA TEND                             103.10
+CHANGE                                  0.00
+
+10/14/26 12:44  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

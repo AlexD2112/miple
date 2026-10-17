@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 2900
+
+HAND SOAP                        24.27 T
+  2 @ 2.77
+COCA-COLA 12 PACK CANS            5.54 T
+PNT BTR                           6.90 F
+  1.83 lb @ 3.76 /lb
+CAULIFLOWER                       6.88 F
+CARROTS                           1.79 F
+
+SUBTOTAL                           45.38
+TAX 10.55% ON 29.81                 3.14
+TOTAL                              48.52
+DISCOVER TEND                      48.52
+CHANGE                              0.00
+
+07/05/2028 05:15 PDT  2663 16 653 9
+ITEMS 4   REG 13  TRANS 4083
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

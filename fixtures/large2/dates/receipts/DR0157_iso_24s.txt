@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3095  Seattle WA
+            MEMBER ************
+
+1556485 CILANTRO BUNCH                2.02 E
+635046 KS FRZN PEAS                  13.98 E
+439588 MANDARINS                      2.72 E
+651662 CC-CL 12 PK CANS               5.54 A
+     2 @ 2.77
+5757427 TPD/CC-CL 12 PK              1.66- A
+1262941 KS NAVEL ORANGES              2.02 E
+     2 @ 1.01
+
+SUBTOTAL                               24.62
+TAX 10.55% ON 3.88                      0.41
+**** TOTAL                             25.03
+DISCOVER TEND                          25.03
+CHANGE                                  0.00
+
+2030-04-04 19:59:45  376 376 2437 01
+ITEMS 23   REG 08  TRANS 8931
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

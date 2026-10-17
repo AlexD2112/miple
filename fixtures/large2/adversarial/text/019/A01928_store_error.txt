@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0569
+
+ORG GALA APPLES                   1.57 F
+KRO CCNT MLK CAN                  3.83 F
+SMPL TRTH GRND TRKY               5.19 F
+SMPL TRTH CARROTS                 1.79 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           12.38
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              12.39
+VISA TEND                          12.39
+CHANGE                              0.00
+
+01/30/26 09:52  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

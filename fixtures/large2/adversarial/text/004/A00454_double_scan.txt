@@ -1,0 +1,35 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1312
+
+  2 @ 2.35
+FLOUR TORT 10 CT                  4.70 F
+PRIV SEL ORANGE JUICE 52OZ        9.39 F
+LG EGGS 18 CT                     7.52 F
+  2.35 lb @ 18.16 /lb
+SMPL TRTH COD FLLT               42.68 F
+  6.16 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  47.06 F
+KRO ATLANTIC SLMN FLLT           19.77 F
+PRIV SEL CRM CHS                  8.63 F
+KRO ALMNM FOIL                   18.03 T
+SWISS CHARD                       2.87 F
+ORG ITALIAN PRSLY                 1.95 F
+COCA-COLA 12 PK CANS              2.77 T
+MFR CPN                          0.29- T
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+DIGITAL CPN                      0.86-  
+COCA-COLA 12 PK CANS              2.77 T
+MFR CPN                          0.29- T
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+DIGITAL CPN                      0.86-  
+
+SUBTOTAL                          173.61
+TAX 10.55% ON 20.51                 2.16
+TOTAL                             175.77
+VISA TEND                         175.77
+CHANGE                              0.00
+
+03/25/26 07:47  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

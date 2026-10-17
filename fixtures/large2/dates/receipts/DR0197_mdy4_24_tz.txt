@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 1277
+
+KRO PNT BTR                       6.90 F
+  0.82 lb @ 13.74 /lb
+KRO CHUCK ROAST                  11.27 F
+  1.73 lb @ 2.83 /lb
+ORG LEMONS                        4.90 F
+WHITE SANDWICH BRD                7.03 F
+  4 @ 3.55
+HANDMADE STYLE CORN TORT         14.20 F
+
+SUBTOTAL                           44.30
+TAX                                 0.00
+TOTAL                              44.30
+AMEX TEND                          44.30
+CHANGE                              0.00
+
+11/17/2030 17:29 PST  5870 31 148 5
+ITEMS 23   REG 14  TRANS 1668
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 3868
+
+KRO CHKN DRUMSTICKS               8.97 F
+KRO PAPER PLATES                  3.31 T
+FM GRND PORK                      6.60 F
+  0.87 lb @ 14.17 /lb
+FM BLACK FOREST HAM              12.33 F
+  2 @ 5.39
+VAN YGRT CUPS                    10.78 F
+KRO FROZEN DUMPLINGS             15.61 F
+CILANTRO BUNCH                    2.02 F
+CABOT SHARP CHEDDAR 8 OZ          8.48 F
+  1.87 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                2.99 F
+KRO GROUND BEEF 80/20             6.57 F
+  1.84 lb @ 1.13 /lb
+RUSSET POTS                       2.08 F
+  2 @ 2.77
+COCA-COLA 12 PK CANS              5.54 T
+FM ALL PURPOSE FLOUR             11.36 F
+
+SUBTOTAL                           96.64
+TAX 10.55% ON 8.85                  0.93
+TOTAL                              97.57
+AMEX TEND                          97.57
+CHANGE                              0.00
+
+02/18/26 10:23  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

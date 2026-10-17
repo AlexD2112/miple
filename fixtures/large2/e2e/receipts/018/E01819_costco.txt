@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0973  Seattle WA
+            MEMBER ************
+
+1785592 PLAIN GOAT CHEESE             5.77 E
+552574 UNEXPECTED CHDR               10.79 E
+     0.60 lb @ 17.98 /lb
+791246 JASMINE RICE                  12.13 E
+858884 ORGANIC GRAPE TOMATOES PINT    4.19 E
+     2.14 lb @ 1.96 /lb
+618264 KS ROTISSERIE CHICKEN          5.04 A
+984947 KS TORTILLA CHIPS              9.99 E
+     3 @ 3.33
+1108441 KS COLA 12PK                  1.83 A
+193093 KS BLACK FOREST HAM            5.95 E
+     0.42 lb @ 14.17 /lb
+1173677 HALF & HALF                   5.34 E
+484830 PARMIGIANO REGGIANO WEDGE      8.42 E
+
+SUBTOTAL                               69.45
+TAX 10.55% ON 6.87                      0.72
+**** TOTAL                             70.17
+VISA TEND                              70.17
+CHANGE                                  0.00
+
+03/17/26 15:43  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

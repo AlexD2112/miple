@@ -1,0 +1,23 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+09/05/26 20:28  ITEMS 7
+
+CHANGE                             19.83
+CASH TEND                          60.00
+TOTAL                              40.17
+TAX 10.55% ON 5.17                  0.55
+SUBTOTAL                           39.62
+
+BAG FEE                           0.24 T
+  3 @ 0.08
+ORGANIC CARROTS BUNCH             4.63 F
+WHITE SANDWICH BRD                7.03 F
+DARIGOLD UNSLTD BTR               6.67 F
+RASPB                             7.24 F
+PEPSI 12 PK CANS                  4.93 T
+RUSSET POTS 5 LB BAG              4.53 F
+SMPL TRTH STRWB                   4.35 F
+
+         Seattle WA  Store 3025
+          Quality Food Centers
+                  QFC

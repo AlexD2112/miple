@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 2932
+
+  2 @ 3.16
+SRIRACHA                          6.32 F
+  3.46 lb @ 1.13 /lb
+RUSSET POTS                       3.91 F
+CORN TORTILLAS                    2.79 F
+FM LG BROWN EGGS                  4.29 F
+  1.90 lb @ 0.76 /lb
+MANGO                             1.44 F
+KRO PENNE                        13.38 F
+FM PLUS CARD SAV                 2.09-  
+KRO ALUMINUM FOIL                18.03 T
+DIGITAL CPN                      1.93- T
+ICBRG LTTC                        5.11 F
+JASMINE RICE 25 LB                8.09 F
+  3 @ 1.97
+GRK YGRT 48 OZ                    5.91 F
+
+SUBTOTAL                           65.25
+TAX 10.55% ON 16.10                 1.70
+TOTAL                              66.95
+MASTERCARD TEND                    66.95
+CHANGE                              0.00
+
+11-07-27 01:10:33  6429 30 372 1
+ITEMS 22   REG 07  TRANS 7546
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

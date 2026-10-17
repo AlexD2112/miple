@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 1881
+
+  2 @ 3.46
+TSTTS SCOOPS TRTLL CHIPS          6.92 F
+KRO KEFIR                         1.27 F
+KRO GRND COFFEE                   9.64 F
+  2 @ 2.38
+SMPL TRTH ROMA TOM                4.76 F
+BLACK BEANS 15 OZ CAN            10.76 F
+SMPL TRTH AVOCADOS                4.05 F
+MFR CPN                          1.21-  
+BRLL PENNE                       19.37 F
+
+SUBTOTAL                           55.56
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              55.56
+DEBIT TEND                         55.56
+CHANGE                              0.00
+
+05/10/26 08:37  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 1241
+
+ALMNM FOIL                       18.03 T
+TRASH BAGS 40CT                   6.49 T
+KRO HAND SOAP                    24.27 T
+PAPER PLATES                      3.31 T
+PAPER PLATES                      3.31 T
+KRO BATH TISSUE 12 ROLL          23.08 T
+FM PLUS CARD SAV                 0.77- T
+PLASTIC WRAP                      4.77 T
+KRO BATH TISSUE 12 ROLL          23.08 T
+KRO GRTNG CARD                   20.34 T
+LIGHT BULBS 4PK                  17.04 T
+MFR CPN                          2.45- T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          140.66
+TAX 10.55% ON 140.66               14.84
+TOTAL                             155.50
+DEBIT TEND                        155.50
+CHANGE                              0.00
+
+06/04/26 11:39  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1940  Seattle WA
+            MEMBER ************
+
+621167 FRZN PEAS 12 OZ                5.40 E
+271157 FLOWERS BOUQUET               23.70 A
+1033148 KS SPRKLG WTR 8PK             5.13 E
+6228251 TPD/SPRKLG WTR 8             1.54-  
+1185813 HOT BAR PRPRD FOOD BY WEIGHT  8.83 A
+1896774 KS ICEBERG LTTC               5.11 E
+2438390 TPD/ICEBERG LTTC             0.99-  
+1107301 KS PINEAPPLE                  3.66 E
+     2.93 lb @ 1.25 /lb
+5836866 TPD/PINEAPPLE                1.10-  
+
+SUBTOTAL                               48.20
+TAX 10.55% ON 32.53                     3.43
+**** TOTAL                             51.63
+AMEX TEND                              51.63
+CHANGE                                  0.00
+
+02/29/28 17:42  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1821  Seattle WA
+            MEMBER ************
+
+554658 GRASS-FED GRND BF 85/15        7.35 E
+123761 KS STRWB                       4.35 E
+1826164 KS GALA APPLES                4.67 E
+     2.03 lb @ 2.30 /lb
+8272421 TPD/GALA APPLES              1.40-  
+678241 VANILLA YOGURT CUPS            5.39 E
+484423 KS PARMIGIANO REGGIANO         7.82 E
+7634283 TPD/PARMIGIANO R             2.19-  
+216604 HASS AVCD LG                  12.69 E
+     3.80 lb @ 3.34 /lb
+1323297 REDUCED FAT 2% MILK GALLON    6.54 E
+1574605 KS SWISS CHS                 12.86 E
+     1.39 lb @ 9.25 /lb
+
+SUBTOTAL                               58.08
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             58.08
+MASTERCARD TEND                        58.08
+CHANGE                                  0.00
+
+2028-02-29 10:47:28  683 683 1239 01
+ITEMS 30   REG 18  TRANS 5485
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

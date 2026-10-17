@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 3147
+
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+  8 @ 0.10
+OR BTL DEP                        0.80  
+SMPL TRTH ROMAINE LTTC            2.79 F
+  0.84 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  2.94 F
+SOURDOUGH LOAF                    7.47 F
+  2.04 lb @ 1.13 /lb
+RUSSET POTS                       2.31 F
+KRO FRZN PIZZA                   13.30 F
+  4 @ 2.45
+BTR LTTC                          9.80 F
+  3.94 lb @ 2.83 /lb
+ORG LEMONS                       11.15 F
+JSMN RICE 5 LB                    1.49 F
+
+SUBTOTAL                           54.25
+TAX                                 0.00
+TOTAL                              54.25
+CASH TEND                          60.00
+CHANGE                              5.75
+
+04/19/26 16:03  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

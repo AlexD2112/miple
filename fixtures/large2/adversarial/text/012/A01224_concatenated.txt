@@ -1,0 +1,65 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0019
+
+KRO SHRP CHDR BLOCK              10.33 F
+PRIV SEL KRRYGLD BTR             10.81 F
+KRO CORN TORT                     2.79 F
+KRO SAVINGS                      0.84-  
+PRIV SEL TORTILLA CHIPS           3.33 F
+  4 @ 5.13
+SMPL TRTH SPRKLG WTR 8PK         20.52 F
+DIGITAL CPN                      1.20-  
+  2 @ 2.80
+LIMES                             5.60 F
+LEMON                             4.30 F
+KRO SPNGS 3PK                     9.54 T
+KRO SHAMPOO                      17.57 T
+KRO SAVINGS                      1.38- T
+KRO FRZN WAFFLES                  7.05 F
+SMPL TRTH CELERY                  4.32 F
+
+SUBTOTAL                           92.74
+TAX 10.55% ON 25.73                 2.71
+TOTAL                              95.45
+VISA TEND                          95.45
+CHANGE                              0.00
+
+06/27/26 08:25  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-3178
+
+WF UNSALTED BUTTER                9.95 F
+FRESH DILL                        0.90 F
+365 HAND SOAP                    24.27 T
+ORG EGGS 24 CT                    7.83 F
+  4 @ 5.49
+KETCHUP                          21.96 F
+BLACK BEANS 15 OZ CAN            10.76 F
+365 ORG GRND PORK                 6.60 F
+365 BABY CARROTS                  2.49 F
+  3 @ 5.61
+DARK CHOC PNT BTR CUPS           16.83 F
+365 ORG SPAGHETTI                 9.54 F
+WF FRZN PEAS                     13.98 F
+PRIME 10% OFF                    1.96-  
+365 GINGER ALE 12PK               6.02 T
+ORG CARROTS BUNCH                 4.63 F
+CHKN GYOZA PTSTCKRS               9.88 F
+WILD COD FLLT                    18.56 F
+  4 @ 1.00
+DICED TOM 14.5 OZ                 4.00 F
+
+SUBTOTAL                          166.24
+TAX 10.55% ON 30.29                 3.20
+TOTAL                             169.44
+VISA TEND                         169.44
+CHANGE                              0.00
+
+03/17/26 11:04  ITEMS 24
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

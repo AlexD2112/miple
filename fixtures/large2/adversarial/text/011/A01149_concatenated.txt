@@ -1,0 +1,63 @@
+               FRED MEYER
+               Seattle WA
+               Store 2581
+
+GRASS-FED GROUND BEEF 85/15       7.35 F
+  3.14 lb @ 6.69 /lb
+SMPL TRTH BONELESS SKINLESS CHI  21.01 F
+KRO KERRYGOLD BTR                10.81 F
+DIGITAL CPN                      0.49-  
+BATH TISSUE 12 ROLL              23.08 T
+FM BOTTLED WTR 24PK               9.32 F
+JASMINE RICE 25 LB                8.09 F
+
+SUBTOTAL                           79.17
+TAX 10.55% ON 23.08                 2.43
+TOTAL                              81.60
+VISA TEND                          81.60
+CHANGE                              0.00
+
+02/11/26 16:02  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+
+           WHOLE FOODS MARKET
+              Portland OR
+             (555) 020-3002
+
+365 ORG FROZEN WAFFLES            7.05 F
+BARTLETT PEARS                    3.00 F
+GRND TRKY                         5.19 F
+ORG BABY SPNCH 5 OZ               5.85 F
+365 CHKN DRMSTCKS                 8.97 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+PRIME 10% OFF                    1.96-  
+365 ORG TLLMK MEDIUM CHDR        11.77 F
+PNT BTR                           6.90 F
+PEPSI 12 PK CANS                  4.93 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+ARUGULA                           4.00 F
+PRIME MEMBER DEAL                1.20-  
+  0.44 lb @ 9.25 /lb
+SWISS CHS                         4.07 F
+BLUBRY                            5.87 F
+  2 @ 2.80
+LIMES                             5.60 F
+PRIME MEMBER DEAL                1.68-  
+WF CHERRIES                       5.69 F
+SALTED BUTTER 4 STICKS            9.37 F
+  1.32 lb @ 17.07 /lb
+365 ORG LAMB CHOPS               22.53 F
+ROLLED OATS                       3.98 F
+
+SUBTOTAL                          119.51
+TAX                                 0.00
+TOTAL                             119.51
+MASTERCARD TEND                   119.51
+CHANGE                              0.00
+
+05/19/26 16:06  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

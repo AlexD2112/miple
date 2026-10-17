@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 0433
+
+SMPL TRTH SPARKLING WATER 8PK     5.13 F
+DIGITAL CPN                      1.08-  
+RED GRAPES                        3.04 F
+KRO FRZN DMPLNGS                 15.61 F
+FM PLUS CARD SAV                 0.60-  
+SMPL TRTH GINGER ALE 12PK         6.02 T
+FM BRIE                           4.85 F
+CARROTS 2 LB                      1.74 F
+MFR CPN                          0.52-  
+  3 @ 2.55
+HUY FONG SRIRACHA                 7.65 F
+  2.03 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  15.51 F
+SMPL TRTH GREEN BEANS             2.31 F
+SMPL TRTH LG BROWN EGGS           4.29 F
+  2 @ 3.00
+BARTLETT PEARS                    6.00 F
+ROMAINE LETTUCE                   2.79 F
+
+SUBTOTAL                           72.74
+TAX 10.55% ON 6.02                  0.64
+TOTAL                              73.38
+VISA TEND                          73.38
+CHANGE                              0.00
+
+02/16/26 20:41  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

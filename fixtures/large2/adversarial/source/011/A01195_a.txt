@@ -1,0 +1,23 @@
+                 TARGET
+          Portland OR  T-0544
+             (555) 030-2825
+
+LG EGGS 12 CT                     8.69 N
+MKT PANTRY DRIED LENTILS          4.26 N
+GG GENOA SALAMI                   4.76 N
+WHL WHT SNDWCH BRD                2.54 N
+WHITE SANDWICH BREAD              7.03 N
+PNT BTR                           6.90 N
+ORG BABY SPNCH 5 OZ               5.85 N
+MKT PANTRY BABY CARROTS           2.49 N
+MKT PANTRY OAT MILK               3.10 N
+
+SUBTOTAL                           45.62
+TAX                                 0.00
+TOTAL                              45.62
+CASH TEND                          60.00
+CHANGE                             14.38
+
+10/10/26 20:15  ITEMS 9
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

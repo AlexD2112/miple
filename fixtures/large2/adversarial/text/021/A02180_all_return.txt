@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 1791
+
+  REFUND - ORIG RECEIPT
+RETURN FM PARMIGIANO RGGN        7.82- F
+RETURN SMPL TRTH SWISS CHARD    11.48- F
+RETURN HASS AVOCADO LG          13.33- F
+RETURN FM GOAT CHS               8.35- F
+  REFUND - ORIG RECEIPT
+RETURN FM ORANGE JUICE 52OZ      9.39- F
+RETURN FM BLACK BEANS CAN        8.77- F
+
+SUBTOTAL                          59.14-
+TAX                                 0.00
+TOTAL                             59.14-
+DISCOVER TEND                     59.14-
+CHANGE                              0.00
+
+06/23/26 10:22  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

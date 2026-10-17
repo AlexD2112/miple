@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3094
+
+SMPL TRTH SILKEN TOFU             2.29 F
+  1.19 lb @ 1.79 /lb
+BEETS                             2.13 F
+MANDARIN ORANGE CHKN             15.87 F
+DIGITAL CPN                      0.65-  
+FROZEN MIXED BERRIES              2.06 F
+PRIV SEL CRACKERS                 2.00 F
+PRIV SEL CHICKEN BROTH CARTON     8.38 F
+
+SUBTOTAL                           32.08
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              32.08
+MASTERCARD TEND                    32.08
+CHANGE                              0.00
+
+01/11/26 20:14  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

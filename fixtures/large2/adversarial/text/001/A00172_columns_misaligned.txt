@@ -1,0 +1,19 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-4217
+
+365 SHRP CHDR BLOCK              10.33 F
+  4 @ 1.95
+ORG ITLN PRSLY                     7.80 F
+PRIME 10% OFF 2.05-
+365 TLP FILLETS                      21.66 F
+
+SUBTOTAL                           37.74
+TAX 10.55% ON 0.00                  0.00
+TOTAL                                  37.74
+VISA TEND                          37.74
+CHANGE	0.00
+
+06/24/26 11:25  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

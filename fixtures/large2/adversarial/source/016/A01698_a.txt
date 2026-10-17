@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3772  Seattle WA
+            MEMBER ************
+
+424762 BLACK BEANS 15 OZ CAN         10.76 E
+2540420 TPD/BLACK BEANS              1.75-  
+1690808 KS RANCH DRSSNG              15.96 E
+     4 @ 3.99
+1898255 FRZN PEAS                    13.98 E
+1882284 JASMINE RICE 25 LB            8.09 E
+1228761 KS BRIE                       4.85 E
+144030 GRASS-FED GRND BF 85/15        7.35 E
+1526255 ORG BLACK BEANS 8 CANS        1.15 E
+349926 KS ROLLED OATS                 7.96 E
+     2 @ 3.98
+1317599 KS RICOTTA                    8.76 E
+
+SUBTOTAL                               77.11
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             77.11
+DISCOVER TEND                          77.11
+CHANGE                                  0.00
+
+06/21/26 13:06  ITEMS 13
+A=TAXABLE  E=EXEMPT
+                 THANK YOU

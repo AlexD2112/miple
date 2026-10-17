@@ -1,0 +1,19 @@
+               FRED MEYER
+              Portland OR
+               Store 1481
+
+SHMP                             17.57 F
+KRO HAND SOAP                    24.27 F
+TRASH BAGS 40CT                   6.49 F
+KRO TOOTHPASTE                   16.40 F
+KRO ALMNM FOIL                   18.03 F
+
+SUBTOTAL                           82.76
+TAX                                 0.00
+TOTAL                              82.76
+AMEX TEND                          82.76
+CHANGE                              0.00
+
+08/21/26 10:50  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

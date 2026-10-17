@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 1303
+TAX EXEMPT ID ******2496
+
+  2 @ 1.00
+DICED TOM 14.5 OZ                 2.00 F
+ITALIAN PARSLEY                   2.93 F
+  2.39 lb @ 9.93 /lb
+BONELESS PORK LOIN CHOPS         23.73 F
+LG BROWN CAGE FREE EGGS           4.10 F
+  3 @ 2.93
+SMPL TRTH ITALIAN PARSLEY         8.79 F
+KRO SPNGS 3PK                     9.54 T
+MFR CPN                          2.74- T
+  2 @ 2.54
+WHL WHT SANDWICH BRD              5.08 F
+  3.66 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             4.87 F
+DICED TOM 14.5 OZ                 1.00 F
+  0.29 lb @ 3.76 /lb
+SMPL TRTH CAULIFLOWER             1.09 F
+KRO GRND PORK                     6.60 F
+  3.73 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             8.58 F
+FM SPARKLING WATER                3.74 F
+
+SUBTOTAL                           79.31
+TAX EXEMPT                          0.00
+TOTAL                              79.31
+AMEX TEND                          79.31
+CHANGE                              0.00
+
+04/29/26 16:59  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

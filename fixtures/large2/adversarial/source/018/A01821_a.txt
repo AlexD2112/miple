@@ -1,0 +1,21 @@
+              TRADER JOE'S
+        Store #0434  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+PNT BTR                           6.90  
+LEMONS                            4.19  
+ROOT BEER 2L                      5.24 T
+HALIBUT                          10.82  
+ICEBERG LTTC                      5.11  
+  0.63 lb @ 10.99 /lb
+DELI SLICED TURKEY BREAST         6.92  
+
+SUBTOTAL                           32.26
+TAX 10.55% ON 5.24                  0.55
+TOTAL                              32.81
+DEBIT TEND                         32.81
+CHANGE                              0.00
+
+09/24/26 17:02  ITEMS 6
+T=TAXABLE
+               THANK YOU

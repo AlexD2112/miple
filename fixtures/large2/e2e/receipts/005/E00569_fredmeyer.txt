@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 0106
+
+  2.43 lb @ 2.08 /lb
+SMPL TRTH KIWI                    5.05 F
+SMPL TRTH YUKON GOLD POTS         3.99 F
+  4 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS   19.12 F
+AHI TUNA STEAK                   14.71 F
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH YUKON GOLD POT  3.99- F
+
+SUBTOTAL                           38.88
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              38.88
+AMEX TEND                          38.88
+CHANGE                              0.00
+
+02/16/26 16:26  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

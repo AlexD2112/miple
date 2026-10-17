@@ -1,0 +1,32 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3320
+
+SMPL TRTH ICE CRM                14.51 F
+SHREDDED CHEDDAR 8 OZ             6.42 F
+  1.10 lb @ 10.99 /lb
+DELI SLICED TURKEY BREAST        12.09 F
+  2 @ 2.81
+CHKN BROTH 32 OZ                  5.62 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+JASMINE RICE 5 LB                 1.49 F
+GRSS-FD GRND BF 85/15             7.35 F
+FRZN DUMPLINGS                   15.61 F
+KRO WHL MLK HALF GALLON           6.79 F
+BLACK FOREST HAM 9 OZ             7.00 F
+  2 @ 1.47
+CHOBANI PLAIN GREEK YOGURT 32 OZ  2.94 F
+  2 @ 5.73
+DGRN RISING CRUST PEPPERONI PIZ  11.46 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           95.65
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              95.67
+MASTERCARD TEND                    95.67
+CHANGE                              0.00
+
+07/24/26 20:36  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

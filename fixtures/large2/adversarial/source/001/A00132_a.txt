@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0138  Seattle WA
+            MEMBER ************
+
+1625205 LEMON                         4.30 E
+1939295 ORGANIC ROMAINE HEARTS 3 CT   3.76 E
+4335231 TPD/ORGANIC ROMA             1.13-  
+1088839 GRND BF 88/12                14.58 E
+     2.43 lb @ 6.00 /lb
+23996 KS DELI FRIED CHKN             11.75 A
+1915155 KS YUKON GOLD POTS            3.99 E
+276157 KS CHICKEN BROTH CARTON        8.38 E
+1395773 DGRN RISING CRUST PEPPERONI  11.46 E
+     2 @ 5.73
+1835904 KS QUINOA                     7.75 E
+
+SUBTOTAL                               64.84
+TAX 10.55% ON 11.75                     1.24
+**** TOTAL                             66.08
+MASTERCARD TEND                        66.08
+CHANGE                                  0.00
+
+06/14/26 16:14  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

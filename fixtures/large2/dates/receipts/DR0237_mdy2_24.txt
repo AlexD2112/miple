@@ -1,0 +1,22 @@
+                SAFEWAY
+         Store 1147  Seattle WA
+             (555) 010-0213
+
+JENNIE-O GRND TRKY 1 LB           6.60 S
+SIG KTCHNS APPLE JUICE 64OZ       7.25 S
+LAUNDRY DETERGENT PODS           20.18 T
+  4 @ 4.42
+SIG SLCT DIET COLA 12PK CANS     17.68 T
+LUCERNE UNSALTED BUTTER           9.95 S
+O ORGANICS CREMINI MSHRM          1.14 S
+
+SUBTOTAL                           62.80
+TAX 10.55% ON 37.86                 3.99
+**** TOTAL                         66.79
+DEBIT TEND                         66.79
+CHANGE                              0.00
+
+11/01/26 01:13  686 09 7404 4156
+ITEMS 26   REG 11  TRANS 7714
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

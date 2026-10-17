@@ -1,0 +1,20 @@
+               FRED MEYER
+              Portland OR
+               Store 2192
+
+DGRN RISING CRUST PPPRN PIZZA     5.73 F
+  1.45 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              15.94 F
+KRO HAND SOAP                    24.27 F
+GRK YGRT 48 OZ                    1.97 F
+DIGITAL CPN                      0.36-  
+
+SUBTOTAL                           47.55
+TAX                                 0.00
+TOTAL                              47.55
+MASTERCARD TEND                    47.55
+CHANGE                              0.00
+
+05/31/26 08:21  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

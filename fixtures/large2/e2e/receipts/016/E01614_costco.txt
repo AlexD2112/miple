@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0110  Seattle WA
+            MEMBER ************
+
+718204 DARK CHOCOLATE PEANUT BUTTER   5.61 E
+247027 WHOLE MILK HALF GALLON         6.79 E
+2097782 TPD/WHOLE MILK H             2.04-  
+621590 KS SHRP CHDR BLOCK            10.33 E
+
+SUBTOTAL                               20.69
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             20.69
+AMEX TEND                              20.69
+CHANGE                                  0.00
+
+06/23/26 19:58  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

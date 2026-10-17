@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3948  Seattle WA
+            MEMBER ************
+
+1144998 KS LAMB CHOPS                31.07 E
+     1.82 lb @ 17.07 /lb
+1716183 TPD/LAMB CHOPS               1.08-  
+1574386 KS CAT LITTER                14.03 A
+575998 TILLAMOOK ICE CRM 48 OZ        8.88 E
+9221454 TPD/TILLAMOOK IC             1.83-  
+
+SUBTOTAL                               51.07
+TAX 10.55% ON 14.03                     1.48
+**** TOTAL                             52.55
+VISA TEND                              52.55
+CHANGE                                  0.00
+
+01/30/26 18:48  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

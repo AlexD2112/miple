@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2103  Seattle WA
+            MEMBER ************
+
+1122824 CELERY                        4.32 E
+1293811 MYNNS 30 OZ                   6.42 E
+6396175 TPD/MYNNS 30 OZ              1.49-  
+1599348 KS 2% MLK GALLON              6.49 E
+1027705 STRWB 2 LB                    5.88 E
+9375464 TPD/STRWB 2 LB               1.76-  
+139314 CHBN PLAIN GRK YGRT 32 OZ      2.94 E
+     2 @ 1.47
+1565980 BTTLD WTR 40 PK               9.80 E
+     4 @ 2.45
+1192316 KS LIMES                      5.60 E
+     2 @ 2.80
+645477 KS ALL PURPOSE FLOUR          11.36 E
+525417 KS FRESH DILL                  0.90 E
+1175350 RED GRAPES                    3.04 E
+5514708 TPD/RED GRAPES               0.58-  
+595680 KS GRK YGRT PLAIN              4.11 E
+1197513 KS ITALIAN PARSLEY            2.93 E
+1537084 BROC CROWNS                   2.25 E
+265799 KS PAPER TOWELS 6 ROLL         3.75 A
+23779 KS SPONGES 3PK                  9.54 A
+564886 KS GREETING CARD              20.34 A
+858863 KS RIBEYE STEAK               19.87 E
+784008 KS POTATO CHIPS               15.21 E
+     3 @ 5.07
+1748142 TRASH BAGS 40CT               6.49 A
+990765 KS SWISS CHS                   9.99 E
+     1.08 lb @ 9.25 /lb
+
+SUBTOTAL                              147.40
+TAX 10.55% ON 40.12                     4.23
+**** TOTAL                            151.63
+DEBIT TEND                            151.63
+CHANGE                                  0.00
+
+01/28/26 16:47  ITEMS 27
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

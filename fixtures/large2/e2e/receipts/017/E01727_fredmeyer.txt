@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 0971
+
+FM ICE CRM                       14.51 F
+KRO GRND BF 80/20                 6.57 F
+FM PLUS CARD SAV                 1.48-  
+MAYONNAISE 30 OZ                  6.42 F
+TILLAMOOK ICE CREAM 48 OZ         8.88 F
+SMPL TRTH BLUEBERRIES             5.87 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+FM RICOTTA                        8.76 F
+  3 @ 2.74
+FRESH MINT                        8.22 F
+  3 @ 2.38
+ROMA TOMATOES                     7.14 F
+JASMINE RICE 5 LB                 1.49 F
+KRO SAVINGS                      0.45-  
+  2 @ 3.76
+ORGANIC ROMAINE HEARTS 3 CT       7.52 F
+
+SUBTOTAL                           82.28
+TAX 10.55% ON 8.83                  0.93
+TOTAL                              83.21
+MASTERCARD TEND                    83.21
+CHANGE                              0.00
+
+09/02/26 12:16  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

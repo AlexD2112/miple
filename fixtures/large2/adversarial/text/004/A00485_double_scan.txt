@@ -1,0 +1,42 @@
+               FRED MEYER
+               Seattle WA
+               Store 1989
+
+DARK CHOC PNT BTR CUPS            5.61 F
+SMPL TRTH TUNA CAN                1.08 F
+  0.69 lb @ 1.79 /lb
+BEETS                             1.24 F
+KEFIR                             1.27 F
+DARK CHOCOLATE PEANUT BUTTER CUP  5.61 F
+KRO COLA 12PK CANS                1.51 T
+BARILLA PENNE                    19.37 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+FM GOAT CHS                       8.35 F
+MFR CPN                          0.30-  
+  0.52 lb @ 2.08 /lb
+BARILLA PENNE                    19.37 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+FM GOAT CHS                       8.35 F
+MFR CPN                          0.30-  
+  0.52 lb @ 2.08 /lb
+KIWI                              1.08 F
+SMPL TRTH BLACK BEANS CAN         8.77 F
+FM ROLLED OATS                    3.98 F
+  2.76 lb @ 18.16 /lb
+FM COD FLLT                      50.12 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+  2 @ 2.31
+SMPL TRTH GREEN BEANS             4.62 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+FM SPRKLG WTR                     3.74 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          138.24
+TAX 10.55% ON 1.59                  0.17
+TOTAL                             138.41
+DEBIT TEND                        138.41
+CHANGE                              0.00
+
+08/21/26 13:58  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1658  Portland OR
+            MEMBER ************
+
+1581434 RANCH DRESSING                3.99  
+1275787 ICEBERG LTTC                  5.11  
+1400689 AHI TUNA STEAK               14.71  
+1026844 BARILLA PENNE                19.37  
+963695 KS SWISS CHARD                 2.87  
+830740 KS TRASH BAGS 40CT             6.49  
+665613 STRAUS PLAIN GRK YGRT          1.74  
+1804785 BLACK FOREST HAM 9 OZ         7.00  
+484553 GRK YGRT 48 OZ                 3.94  
+     2 @ 1.97
+146752 ORG ROMAINE HEARTS 3 CT        7.52  
+     2 @ 3.76
+1124263 STRAUS PLAIN GREEK YOGURT     1.74  
+
+SUBTOTAL                               74.48
+TAX                                     0.00
+**** TOTAL                             74.48
+DEBIT TEND                             74.48
+CHANGE                                  0.00
+
+07/25/26 17:32  ITEMS 13
+T=TAXED ITEM
+                 THANK YOU

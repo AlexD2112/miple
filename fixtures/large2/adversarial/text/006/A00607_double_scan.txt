@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2599
+
+ORG BABY SPNCH 5 OZ               5.85 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+SMPL TRTH ROMAINE LTTC            2.79 F
+KRO ALMOND MLK                    5.08 F
+JASMINE RICE 25 LB                8.09 F
+KRO GINGER ALE 12PK               6.02 T
+CHICKEN DRUMSTICKS                8.97 F
+GREEN BEANS                       2.31 F
+SMPL TRTH GRND BF 80/20           6.57 F
+CHICKEN DRUMSTICKS                8.97 F
+GREEN BEANS                       2.31 F
+SMPL TRTH GRND BF 80/20           6.57 F
+
+SUBTOTAL                           56.00
+TAX 10.55% ON 6.02                  0.64
+TOTAL                              56.64
+CASH TEND                          60.00
+CHANGE                              3.36
+
+03/26/26 16:07  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

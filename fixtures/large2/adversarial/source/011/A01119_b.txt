@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0891  Portland OR
+            MEMBER ************
+
+1357768 KS BARTLETT PEARS             3.00 E
+4765265 TPD/BARTLETT PEA             0.90-  
+1276312 KS FRESH DILL                 0.90 E
+462782 GRND BF 88/12                 24.84 E
+     4.14 lb @ 6.00 /lb
+1713646 CHKN GYOZA PTSTCKRS           9.88 E
+1035063 GREEN ONIN BUNCH              5.18 E
+     2 @ 2.59
+1315628 SLCD SOURDOUGH PAN LOAF       4.74 E
+355750 BNLS CHKN THIGHS              25.00 E
+     5.76 lb @ 4.34 /lb
+773537 KS MANDARINS                   2.72 E
+575950 KS BTTLD WTR 24PK              9.32 E
+  24 @ 0.10
+OR BTL DEP                            2.40  
+1394679 LEMON                         4.30 E
+579953 KS SILKEN TOFU                 2.29 E
+1844853 KS ZIP TOP BAGS              24.79 E
+1648604 ASPARAGUS                     5.86 E
+     2 @ 2.93
+1017933 ORG ITALIAN PARSLEY           1.95 E
+6643278 TPD/ORG ITALIAN              0.43-  
+
+SUBTOTAL                              125.84
+TAX                                     0.00
+**** TOTAL                            125.84
+AMEX TEND                             125.84
+CHANGE                                  0.00
+
+09/03/26 19:38  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

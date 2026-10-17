@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1440  Seattle WA
+            MEMBER ************
+
+209143 UNEXPECTED CHDR               23.19 E
+     1.29 lb @ 17.98 /lb
+1829909 KS RANCH DRESSING             7.98 E
+     2 @ 3.99
+1426494 ENGLISH CUCUMBER             12.81 E
+     3.66 lb @ 3.50 /lb
+140981 COD FILLET                    17.25 E
+     0.95 lb @ 18.16 /lb
+784142 ORGANIC GRAPE TOMATOES PINT    3.35 E
+     1.71 lb @ 1.96 /lb
+212306 KS WHL CHKN                    9.68 E
+     1.53 lb @ 6.33 /lb
+1635353 KS TRKY BRST                 38.36 E
+     5.41 lb @ 7.09 /lb
+6611155 TPD/TRKY BRST                1.67-  
+925764 ORG GALA APPLES                3.14 E
+     2 @ 1.57
+649824 STRWB                          8.70 E
+     2 @ 4.35
+
+SUBTOTAL                              122.79
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            122.79
+MASTERCARD TEND                       122.79
+CHANGE                                  0.00
+
+08/26/26 09:30  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

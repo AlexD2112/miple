@@ -1,0 +1,23 @@
+                 TARGET
+           Seattle WA  T-0465
+             (555) 030-2629
+
+MKT PANTRY BUTTER LETTUCE         2.45 N
+  2 @ 2.00
+MKT PANTRY CRKRS                  4.00 N
+MKT PANTRY BARTLETT PEARS         3.00 N
+GG CHKN DRMSTCKS                  8.97 N
+GG CHKN BROTH CARTON              8.38 N
+  3 @ 2.87
+GG SWISS CHARD                    8.61 N
+MKT PANTRY COTTAGE CHS            3.21 N
+
+SUBTOTAL                           38.62
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              38.62
+MASTERCARD TEND                    38.62
+CHANGE                              0.00
+
+06/07/26 14:35  ITEMS 10
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

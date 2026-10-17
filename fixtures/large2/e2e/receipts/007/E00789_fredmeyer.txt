@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 3112
+
+SILKEN TOFU                       2.29 F
+RDCD FAT 2% MLK GALLON            6.54 F
+ORG RASPB 6 OZ                    6.28 F
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+RUSSET POTS 5 LB BAG              4.53 F
+  2 @ 3.51
+PENNE 16 OZ                       7.02 F
+
+SUBTOTAL                           36.05
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              36.05
+DISCOVER TEND                      36.05
+CHANGE                              0.00
+
+06/28/26 21:37  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

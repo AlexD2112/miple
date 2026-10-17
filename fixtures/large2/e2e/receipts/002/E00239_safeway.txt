@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 3109  Seattle WA
+             (555) 010-1564
+
+JENNIE-O GRND TRKY 1 LB           6.60 S
+O ORGANICS GREEN ONIN BUNCH       2.59 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                            9.43
+TAX 10.55% ON 0.24                  0.03
+**** TOTAL                          9.46
+DEBIT TEND                          9.46
+CHANGE                              0.00
+
+06/09/26 08:01  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

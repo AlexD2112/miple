@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2179
+
+SMPL TRTH KERRYGOLD BTR          10.81 F
+  4 @ 2.54
+KRO WHL WHT SNDWCH BRD           10.16 F
+DIGIORNO RISING CRUST PPPRN PIZZ  5.73 F
+KRO SAVINGS                      1.72-  
+PRIV SEL SLCD ROAST BF            5.94 F
+
+SUBTOTAL                           30.92
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              30.92
+CASH TEND                          40.00
+CHANGE                              9.08
+
+08/28/26 17:38  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

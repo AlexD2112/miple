@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1117  San Francisco CA
+            MEMBER ************
+
+1888653 TSTTS SCOOPS TORTILLA CHIPS   3.46 E
+1633128 HASS AVCD LG                  4.84 E
+     1.45 lb @ 3.34 /lb
+1308426 KS CORN TORT                  2.79 E
+755177 DARIGOLD UNSLTD BTR            6.67 E
+514392 KS CHERRY TOM                  2.30 E
+     2 @ 1.15
+1844417 KS PNPPL                      0.45 E
+     0.36 lb @ 1.25 /lb
+357806 KS SOY SCE                     6.79 E
+
+SUBTOTAL                               27.30
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             27.30
+AMEX TEND                              27.30
+CHANGE                                  0.00
+
+08/13/26 10:07  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

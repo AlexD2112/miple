@@ -1,0 +1,20 @@
+                SAFEWAY
+         Store 2972  Seattle WA
+             (555) 010-2543
+
+  REFUND - ORIG RECEIPT
+RETURN SW ROTIS CHKN             5.04- T
+RETURN BABY SPNCH 5 OZ          15.08- S
+  REFUND - ORIG RECEIPT
+RETURN O ORGANICS PRSNPS         8.24- S
+RETURN CHKN BROTH 32 OZ          2.81- S
+
+SUBTOTAL                          31.17-
+TAX 10.55% ON 5.04-                0.53-
+**** TOTAL                        31.70-
+VISA TEND                         31.70-
+CHANGE                              0.00
+
+03/02/26 07:18  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

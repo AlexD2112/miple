@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0586
+
+HAMBURGER BUNS                    2.77 F
+KRO TTHPST                       16.40 T
+  2 @ 3.98
+PRIV SEL ROLLED OATS              7.96 F
+
+SUBTOTAL                           27.13
+TAX 10.55% ON 16.40                 1.73
+TOTAL                              28.86
+DEBIT TEND                         28.86
+CHANGE                              0.00
+
+04/24/26 14:03  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

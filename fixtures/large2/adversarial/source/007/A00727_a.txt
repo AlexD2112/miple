@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0083  Seattle WA
+            MEMBER ************
+
+1324905 KS RASPB                      7.24 E
+851851 KS PLASTIC WRAP                4.77 A
+851851 KS PLASTIC WRAP                4.77 A
+1067423 KS LG BROWN EGGS              4.29 E
+7272341 TPD/LG BROWN EGG             1.29-  
+
+SUBTOTAL                               19.78
+TAX 10.55% ON 9.54                      1.01
+**** TOTAL                             20.79
+VISA TEND                              20.79
+CHANGE                                  0.00
+
+04/26/26 12:13  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

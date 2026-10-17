@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0132
+
+TOOTHPASTE                       16.40 T
+LIGHT BULBS 4PK                  17.04 T
+LG EGGS 12 CT                     8.69 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           42.29
+TAX 10.55% ON 33.60                 3.54
+TOTAL                              45.83
+DISCOVER TEND                      45.83
+CHANGE                              0.00
+
+12/30/26 09:54  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

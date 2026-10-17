@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1388
+
+FM FROZEN WAFFLES                 7.05 F
+FM DAVES KILLER BRD               6.69 F
+KRO RIBEYE STEAK                 19.87 F
+DRIED LENTILS                     4.26 F
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+2% MLK GALLON                     6.49 F
+SMPL TRTH DAVES KILLER BRD        6.69 F
+SMPL TRTH CREAM CHEESE            8.63 F
+ORG EGGS 24 CT                    7.83 F
+FM PLUS CARD SAV                 1.74-  
+
+SUBTOTAL                           67.97
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              67.97
+AMEX TEND                          67.97
+CHANGE                              0.00
+
+11-27-27 08:33:01  8156 27 540 1
+ITEMS 6   REG 19  TRANS 6382
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

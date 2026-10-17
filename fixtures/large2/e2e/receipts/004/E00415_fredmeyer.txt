@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 1923
+
+  3 @ 4.48
+HEINZ KTCHP 32 OZ                13.44 F
+MFR CPN                          2.34-  
+TLLMK VAN YGRT                    4.05 F
+FRESH MOZZARELLA                  8.65 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           24.04
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              24.07
+DEBIT TEND                         24.07
+CHANGE                              0.00
+
+04/11/26 07:18  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

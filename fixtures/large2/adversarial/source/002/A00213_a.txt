@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 1989
+
+MANDARIN ORANGE CHKN             15.87 F
+PENNE                            13.38 F
+ROTIS CHKN                        5.04 T
+CAGE FREE EGGS 18CT               6.85 F
+FRZN BROC FLORETS                 8.13 F
+KRO CHKN THIGHS                   9.29 F
+COLA 12PK CANS                    1.51 T
+KRO AA BATTERIES 8PK             24.36 T
+ORG CARROTS BUNCH                 4.63 F
+
+SUBTOTAL                           89.06
+TAX 10.55% ON 30.91                 3.26
+TOTAL                              92.32
+AMEX TEND                          92.32
+CHANGE                              0.00
+
+04/26/26 10:29  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

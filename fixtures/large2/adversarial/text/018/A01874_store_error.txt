@@ -1,0 +1,38 @@
+               FRED MEYER
+              Portland OR
+               Store 1759
+
+  0.28 lb @ 17.98 /lb
+UNXPCTD CHDR                      5.03 F
+SHAMPOO                          17.57 F
+SWISS CHARD                       2.87 F
+PENNE 16 OZ                       3.51 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+FM OAT MLK                        3.10 F
+  2.35 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                4.61 F
+SMPL TRTH GROUND TURKEY           5.19 F
+MFR CPN                          1.56-  
+CARROTS                           1.79 F
+HUY FONG SRIRACHA                 2.55 F
+FM ROOT BEER 2L                   5.24 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+FM PLUS CARD SAV                 1.57-  
+SMPL TRTH ROLLED OATS             3.98 F
+MFR CPN                          1.19-  
+  0.60 lb @ 2.08 /lb
+SMPL TRTH KIWI                    1.25 F
+FM PLUS CARD SAV                 0.38-  
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           60.61
+TAX                                 0.00
+TOTAL                              60.60
+MASTERCARD TEND                    60.60
+CHANGE                              0.00
+
+05/31/26 19:42  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

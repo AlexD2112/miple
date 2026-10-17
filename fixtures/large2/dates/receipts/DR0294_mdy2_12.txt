@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1199
+
+  1.16 lb @ 17.98 /lb
+UNEXPECTED CHDR                  20.86 F
+MFR CPN                          2.62-  
+  3 @ 4.26
+PRIV SEL DRIED LENTILS           12.78 F
+ARUGULA                           4.00 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+KRO SPONGES 3PK                   9.54 T
+LG EGGS 12 CT                     8.69 F
+  3.45 lb @ 3.42 /lb
+RED BELL PEPR                    11.80 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           74.09
+TAX 10.55% ON 9.70                  1.02
+TOTAL                              75.11
+AMEX TEND                          75.11
+CHANGE                              0.00
+
+08/21/27 02:29 AM  6111 38 166 6
+ITEMS 10   REG 14  TRANS 3294
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0715  Seattle WA
+            MEMBER ************
+
+1406788 CAULIFLOWER GNOCCHI           7.85 E
+1425832 CAULIFLOWER GNOCCHI           7.85 E
+1803091 KS FRESH MINT                 2.74 E
+438711 MAYONNAISE 30 OZ               6.42 E
+535053 KS GRND TRKY                   5.19 E
+1373235 BABY SPNCH 5 OZ               7.54 E
+     2 @ 3.77
+1538763 CELERY HEARTS                 4.34 E
+539028 KS ORANGE JUICE 52OZ           9.39 E
+1026030 2% MILK 2 X 1 GAL             4.70 E
+1351239 KS DICED TOM CAN              5.96 E
+     2 @ 2.98
+795185 KS LMND 52OZ                   5.79 A
+58059 LEMONS                          8.38 E
+     2 @ 4.19
+1835770 CAT LITTER                   14.03 A
+
+SUBTOTAL                               90.18
+TAX 10.55% ON 19.82                     2.09
+**** TOTAL                             92.27
+DEBIT TEND                             92.27
+CHANGE                                  0.00
+
+01/31/26 10:39  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

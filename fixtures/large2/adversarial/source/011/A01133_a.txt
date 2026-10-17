@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2659
+
+  4 @ 2.93
+ASPARAGUS                        11.72 F
+  2 @ 1.51
+KRO COLA 12PK CANS                3.02 T
+SMPL TRTH PREPARED MAC & CHS     10.62 F
+ORG SPRING MIX 1 LB               5.49 F
+SMPL TRTH COLD BREW COFFEE 32OZ   4.43 F
+KRO CAT LITTER                   14.03 T
+  3.80 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 16.49 F
+SMPL TRTH SPGHTT                  9.54 F
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+LAUNDRY DETERGENT PODS           20.18 T
+CRL                               6.63 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          104.43
+TAX 10.55% ON 37.31                 3.94
+TOTAL                             108.37
+DEBIT TEND                        108.37
+CHANGE                              0.00
+
+02/12/26 17:53  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

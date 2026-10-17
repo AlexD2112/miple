@@ -1,0 +1,16 @@
+              TRADER JOE'S
+        Store #0092  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+CABOT SHRP CHDR 8 OZ              8.48  
+ALMOND MILK                       5.08  
+
+SUBTOTAL                           13.56
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              13.56
+DISCOVER TEND                      13.56
+CHANGE                              0.00
+
+05/10/26 13:23  ITEMS 2
+T=TAXABLE
+               THANK YOU

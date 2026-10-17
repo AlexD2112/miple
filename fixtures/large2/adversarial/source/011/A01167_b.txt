@@ -1,0 +1,37 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1463
+
+PRIV SEL ICE CRM                 14.51 F
+BRIE                              4.85 F
+  2.66 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                41.39 F
+  1.68 lb @ 9.65 /lb
+PORK TNDRLN                      16.21 F
+SMPL TRTH ARUGULA                 4.00 F
+LG EGGS 12 CT                     8.69 F
+CAULIFLOWER GNOCCHI               7.85 F
+  0.78 lb @ 14.17 /lb
+SMPL TRTH BLACK FOREST HAM       11.05 F
+FRESH MINT                        2.74 F
+CARROTS 2 LB                      1.74 F
+NPKNS                            24.05 T
+  4 @ 3.77
+KRO BAGELS                       15.08 F
+KRO VAN YGRT CUPS                 5.39 F
+PRIV SEL FRZN PIZZA              13.30 F
+ORG SPROUTED TOFU                 2.61 F
+PRIV SEL GROUND TURKEY            5.19 F
+ORGANIC SPROUTED TOFU             2.61 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          181.50
+TAX 10.55% ON 24.29                 2.56
+TOTAL                             184.06
+MASTERCARD TEND                   184.06
+CHANGE                              0.00
+
+04/26/26 19:43  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

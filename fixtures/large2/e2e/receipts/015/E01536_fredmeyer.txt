@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 1109
+
+  2 @ 3.33
+SMPL TRTH TORTILLA CHIPS          6.66 F
+GRND BF 80/20                     6.57 F
+FM FRZN DMPLNGS                  15.61 F
+CELERY                            4.32 F
+MFR CPN                          0.98-  
+RUSSET POTS 5 LB BAG              4.53 F
+FM FRZN PEAS                     13.98 F
+DIGITAL CPN                      2.89-  
+LEMON                             4.30 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+  3.11 lb @ 2.33 /lb
+BRUSSELS SPROUTS                  7.25 F
+FM SPARKLING WATER                3.74 F
+  1.14 lb @ 14.17 /lb
+FM BLACK FOREST HAM              16.15 F
+
+SUBTOTAL                           87.72
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              87.72
+AMEX TEND                          87.72
+CHANGE                              0.00
+
+02/08/26 14:32  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

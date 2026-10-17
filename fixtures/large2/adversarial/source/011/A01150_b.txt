@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 2078
+
+CELERY                            4.32 F
+SMPL TRTH SPRING MIX              5.44 F
+RUSSET POTS 5 LB BAG              4.53 F
+KRO CAT LITTER                   14.03 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           28.40
+TAX 10.55% ON 14.11                 1.49
+TOTAL                              29.89
+CASH TEND                          40.00
+CHANGE                             10.11
+
+07/24/26 17:22  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

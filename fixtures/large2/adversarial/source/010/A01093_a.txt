@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2966
+
+  2.89 lb @ 0.68 /lb
+SMPL TRTH PEACHES                 1.97 F
+MFR CPN                          0.59-  
+  2 @ 2.79
+SMPL TRTH CORN TORT               5.58 F
+  4 @ 3.83
+KRO CCNT MLK CAN                 15.32 F
+HUY FONG SRRCH                    2.55 F
+PRIV SEL VAN YGRT CUPS            5.39 F
+
+SUBTOTAL                           30.22
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              30.22
+MASTERCARD TEND                    30.22
+CHANGE                              0.00
+
+01/30/26 07:16  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

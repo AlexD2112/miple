@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2212  Seattle WA
+            MEMBER ************
+
+851492 KS SWISS CHS                   4.26 E
+     0.46 lb @ 9.25 /lb
+1547042 ALMNM FOIL                   18.03 A
+956986 KS ALUMINUM FOIL              18.03 A
+1609295 LG EGGS 18 CT                 7.52 E
+55585 KS COTTAGE CHS                  3.21 E
+693075 KS ITALIAN SAUSAGE BULK        9.93 E
+2065011 TPD/ITALIAN SAUS             2.27-  
+326620 ORG GRAPE TOM PINT             2.25 E
+     1.15 lb @ 1.96 /lb
+
+SUBTOTAL                               60.96
+TAX 10.55% ON 36.06                     3.80
+**** TOTAL                             64.76
+MASTERCARD TEND                        64.76
+CHANGE                                  0.00
+
+07/14/2024 01:48 PDT  783 783 1510 27
+ITEMS 8   REG 13  TRANS 3635
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

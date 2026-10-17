@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2576
+
+SMPL TRTH WHOLE MILK HALF GALLON  6.79 F
+ORG BASIL CLAMSHELL               1.49 F
+CAULIFLOWER GNOCCHI               7.85 F
+KRO SAVINGS                      0.77-  
+PRIV SEL CRL                      6.63 F
+CHICKEN GYOZA POTSTICKERS         9.88 F
+KRO SAVINGS                      2.34-  
+  2 @ 2.87
+SWISS CHARD                       5.74 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           35.51
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              35.54
+DEBIT TEND                         35.54
+CHANGE                              0.00
+
+08/24/26 07:44  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

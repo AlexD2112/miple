@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0759  Seattle WA
+            MEMBER ************
+
+1918212 KS CHICKEN BROTH CARTON       8.38 E
+508641 BLCKBRRS                       7.84 E
+     2 @ 3.92
+486607 KS PARMIGIANO REGGIANO         7.82 E
+5419215 TPD/PARMIGIANO R             0.41-  
+1478795 CORN TORTILLAS                2.79 E
+1253887 ORG RASPB 6 OZ                6.28 E
+985334 UNSLTD BTR                     9.95 E
+1147526 STRAUS PLAIN GRK YGRT         1.74 E
+1677936 ORG SPRING MIX 1 LB           5.49 E
+1941622 KS TRASH BAGS 40CT            6.49 A
+1890941 KS STRWB                     13.05 E
+     3 @ 4.35
+1226052 ZIP TOP BAGS                 24.79 A
+6114953 TPD/ZIP TOP BAGS             2.43- A
+1818013 MANDARIN ORANGE CHKN         15.87 E
+461729 KS LIGHT BULBS 4PK            17.04 A
+
+SUBTOTAL                              124.69
+TAX 10.55% ON 45.89                     4.84
+**** TOTAL                            129.53
+MASTERCARD TEND                       129.53
+CHANGE                                  0.00
+
+05/18/26 16:04  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

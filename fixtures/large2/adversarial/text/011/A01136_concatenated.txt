@@ -1,0 +1,48 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1447  Seattle WA
+            MEMBER ************
+
+1201020 KS GRNLA BRS                  6.07 E
+23301 MANGO                           2.67 E
+     3.51 lb @ 0.76 /lb
+1392806 KS SALSA JAR                  2.09 E
+
+SUBTOTAL                               10.83
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             10.83
+DISCOVER TEND                          10.83
+CHANGE                                  0.00
+
+08/29/26 11:08  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+                SAFEWAY
+      Store 1033  San Francisco CA
+             (555) 010-0443
+
+PLAIN GOAT CHEESE                 5.77 S
+  2 @ 4.67
+HONEYCRISP APPLES                 9.34 S
+JENNIE-O GROUND TURKEY 1 LB       6.60 S
+  1.16 lb @ 17.98 /lb
+UNEXPECTED CHEDDAR               20.86 S
+PRMGN RGGN WEDGE                  8.42 S
+HOUSE FOODS EXTRA FIRM TOFU       2.78 S
+  2.03 lb @ 1.05 /lb
+RADISHES                          2.13 S
+RANCH DRESSING                    3.99 S
+SIG KTCHNS AHI TUNA STEAK        14.71 S
+  1.23 lb @ 11.10 /lb
+SIG SLCT PORK CHOPS              13.65 S
+LEMON                             4.30 S
+
+SUBTOTAL                           92.55
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         92.55
+AMEX TEND                          92.55
+CHANGE                              0.00
+
+02/19/26 14:57  ITEMS 12
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

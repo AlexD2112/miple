@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3190  Seattle WA
+            MEMBER ************
+
+576747 ROOT BEER 2L                   5.24 A
+1169378 KS RED GRAPES                 3.04 E
+1492653 ORG TOMATO BASIL MARINARA    11.88 E
+     2 @ 5.94
+403519 KS KERRYGOLD BTR              10.81 E
+1608733 KS SILKEN TOFU                2.29 E
+522797 KS POTATO CHIPS                5.07 E
+175483 KS CLFLWR                      2.03 E
+     0.54 lb @ 3.76 /lb
+1906172 TILLAMOOK VAN YGRT            4.05 E
+7150590 TPD/TILLAMOOK VA             0.38-  
+862134 LEMON                          8.60 E
+     2 @ 4.30
+712699 KS MANDARINS                  10.88 E
+     4 @ 2.72
+1340429 DELI SLCD TRKY BRST           6.26 E
+     0.57 lb @ 10.99 /lb
+983200 CHICKEN BROTH CARTON           8.38 E
+804783 CROISSANTS 12 CT              14.61 E
+     3 @ 4.87
+32503 PREPARED MAC & CHS             10.62 E
+417736 2% MLK HALF GALLON             6.08 E
+989823 RED BELL PEPR                  5.23 E
+     1.53 lb @ 3.42 /lb
+
+SUBTOTAL                              114.69
+TAX 10.55% ON 5.24                      0.55
+**** TOTAL                            115.24
+AMEX TEND                             115.24
+CHANGE                                  0.00
+
+05/01/26 09:01  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

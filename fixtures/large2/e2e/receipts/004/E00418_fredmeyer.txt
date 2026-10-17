@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 2929
+
+MANDARIN ORANGE CHICKEN          15.87 F
+  3 @ 2.59
+GREEN ONIONS BUNCH                7.77 F
+PLAIN GOAT CHS                    5.77 F
+PENNE                            13.38 F
+WHITE SANDWICH BRD                7.03 F
+CILANTRO BUNCH                    2.02 F
+UNSALTED BUTTER 4 X 1 LB          9.48 F
+FM APPLE JUICE 64OZ               7.25 F
+
+SUBTOTAL                           68.57
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              68.57
+DEBIT TEND                         68.57
+CHANGE                              0.00
+
+05/03/26 09:45  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

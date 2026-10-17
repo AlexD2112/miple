@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2362  Seattle WA
+            MEMBER ************
+
+328674 SHREDDED CHEDDAR 8 OZ          6.42 E
+970371 BLUBRY 18 OZ                   4.61 E
+1184407 WILD COD FLLT                18.56 E
+11902 TILLAMOOK ICE CRM 48 OZ         8.88 E
+1198309 BNLS CHKN THIGHS             14.97 E
+     3.45 lb @ 4.34 /lb
+1570187 BNLS RIBEYE STEAK            14.00 E
+     0.90 lb @ 15.56 /lb
+3581941 TPD/BNLS RIBEYE              2.30-  
+1269127 KS SWISS CHS                  9.71 E
+     1.05 lb @ 9.25 /lb
+3432564 TPD/SWISS CHS                1.12-  
+1561967 COCONUT MILK CAN              3.83 E
+1851523 BNLS RIBEYE STEAK            43.88 E
+     2.82 lb @ 15.56 /lb
+
+SUBTOTAL                              121.44
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            121.44
+DEBIT TEND                            121.44
+CHANGE                                  0.00
+
+09/19/26 19:00  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

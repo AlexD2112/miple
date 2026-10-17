@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0261  Seattle WA
+            MEMBER ************
+
+601260 DISH SOAP                     19.39 A     
+979917 ORG EGGS 24 CT                 7.83 E
+1296400 KS AHI TUNA STEAK 14.71 E
+1619988 RED ONIN                      0.43 E
+     0.29 lb @ 1.48 /lb
+1300602 KS CLNTR	1.16 E
+1155222 TILLAMOOK ICE CRM 48 OZ	8.88 E
+   398910 KS CHERRY TOM                  2.30 E
+     2 @ 1.15
+   769913 ORG TOMATO BASIL MARINARA     23.76 E
+     4 @ 5.94
+6998463 TPD/ORG TOMATO B             1.79-   
+
+SUBTOTAL                               76.67
+TAX 10.55% ON 19.39                     2.05
+**** TOTAL                             78.72
+DEBIT TEND                             78.72
+CHANGE                                  0.00
+
+08/21/26 10:17  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3467  Seattle WA
+            MEMBER ************
+
+508777 WHL CHKN                      22.22 E
+     3.51 lb @ 6.33 /lb
+1944519 GRND TRKY                     5.19 E
+1011036 KS DELI FRIED CHKN           11.75 A
+1732581 SHREDDED MOZZARELLA 8 OZ      2.92 E
+1954114 CHKN BROTH 32 OZ              8.43 E
+     3 @ 2.81
+441459 KS TUNA CAN                    3.24 E
+     3 @ 1.08
+7846429 TPD/TUNA CAN                 0.20-  
+218354 PLASTIC WRAP                   4.77 A
+1272476 TPD/PLASTIC WRAP             1.43- A
+1903076 HUY FONG SRIRACHA             5.10 E
+     2 @ 2.55
+798167 MYNNS 30 OZ                    6.42 E
+1802958 ORG BLACK BEANS 8 CANS        1.15 E
+1945824 REDUCED FAT 2% MLK GALLON     6.54 E
+1046143 DELI FRIED CHICKEN           11.75 A
+1477742 NAVEL ORANGES                 4.04 E
+     4 @ 1.01
+667974 KS CHKN DRUMSTICKS             8.97 E
+201422 GRK YGRT 48 OZ                 1.97 E
+3804545 TPD/GRK YGRT 48              0.59-  
+1503472 KS PORK CHOPS                15.76 E
+     1.42 lb @ 11.10 /lb
+1851964 FRZN BROC                     1.72 E
+
+SUBTOTAL                              119.72
+TAX 10.55% ON 26.84                     2.83
+**** TOTAL                            122.55
+VISA TEND                             122.55
+CHANGE                                  0.00
+
+08/24/26 09:42  ITEMS 25
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3570  Seattle WA
+            MEMBER ************
+
+744636 ARGL                           4.00 E
+245483 ORG BLACK BEANS 8 CANS         1.15 E
+1004806 KS SILKEN TOFU                4.58 E
+     2 @ 2.29
+1586345 CRM CHS 8 OZ                  3.15 E
+1802129 BEETS                         4.35 E
+     2.43 lb @ 1.79 /lb
+1134910 HONEYCRISP APPLES            18.68 E
+     4 @ 4.67
+194097 KS GREEN ONIN BUNCH            5.18 E
+     2 @ 2.59
+756951 RUSSET POTS 5 LB BAG           4.53 E
+327474 PAPER TOWELS 6 ROLL            3.75 A
+20249 KS PLSTC WRAP                   4.77 A
+544164 KS BATH TISSUE 12 ROLL        23.08 A
+
+SUBTOTAL                               77.22
+TAX 10.55% ON 31.60                     3.33
+**** TOTAL                             80.55
+VISA TEND                              80.55
+CHANGE                                  0.00
+
+12/30/26 18:44  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

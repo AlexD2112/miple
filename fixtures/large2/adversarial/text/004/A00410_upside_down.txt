@@ -1,0 +1,29 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+04/24/26 17:27  ITEMS 12
+
+CHANGE                              0.00
+MASTERCARD TEND                    66.84
+TOTAL                              66.84
+TAX 10.55% ON 12.18                 1.28
+SUBTOTAL                           65.56
+
+BAG FEE                           0.08 T
+HLBT                             10.82 F
+GREEN BEANS                       2.31 F
+FRZN WAFFLES                      7.05 F
+MFR CPN                          0.91-  
+STRAUS PLAIN GRK YGRT             3.48 F
+  2 @ 1.74
+SMPL TRTH RICOTTA                 8.76 F
+BLACK FOREST HAM 9 OZ             7.00 F
+MAYONNAISE 30 OZ                  6.42 F
+DIGITAL CPN                      0.31-  
+RICOTTA                           8.76 F
+DIGITAL CPN                      1.16- T
+SMPL TRTH DIET COLA 12PK CANS    13.26 T
+  3 @ 4.42
+
+         Seattle WA  Store 3411
+          Quality Food Centers
+                  QFC

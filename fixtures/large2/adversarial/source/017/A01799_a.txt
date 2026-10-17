@@ -1,0 +1,31 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3040
+
+BRLL PENNE                       19.37 F
+  4 @ 2.74
+SMPL TRTH FRESH MINT             10.96 F
+WHITE SANDWICH BREAD              7.03 F
+MFR CPN                          2.11-  
+WHITE SANDWICH BRD                7.03 F
+MFR CPN                          2.11-  
+COCONUT MLK CAN                   3.83 F
+  1.10 lb @ 13.18 /lb
+SLCD TRKY BRST                   14.50 F
+PRIV SEL SHRP CHDR BLOCK         10.33 F
+SMPL TRTH DRIED LENTILS           4.26 F
+CILANTRO BUNCH                    2.02 F
+ORG RASPB 6 OZ                    6.28 F
+KRO SAVINGS                      1.65-  
+LEMON                             4.30 F
+WILD COD FLLT                    18.56 F
+
+SUBTOTAL                           84.04
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              84.04
+DEBIT TEND                         84.04
+CHANGE                              0.00
+
+06/03/26 13:42  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

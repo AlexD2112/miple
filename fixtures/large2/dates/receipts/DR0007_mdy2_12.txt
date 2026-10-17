@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2726
+
+SMPL TRTH CHERRY TOM              1.15 F
+CC-CL 12 PK CANS                  2.77 T
+KRO PNT BTR                       6.90 F
+SMPL TRTH SPAGHETTI               9.54 F
+MFR CPN                          0.31-  
+
+SUBTOTAL                           20.05
+TAX 10.55% ON 2.77                  0.29
+TOTAL                              20.34
+CASH TEND                          40.00
+CHANGE                             19.66
+
+07/19/25 02:25 AM  1712 03 581 6
+ITEMS 30   REG 02  TRANS 2417
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

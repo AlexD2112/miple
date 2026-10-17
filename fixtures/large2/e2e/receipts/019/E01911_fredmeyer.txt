@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 1196
+
+HONEYCRISP APPLES                 4.67 F
+TOOTHPASTE                       16.40 T
+DIGITAL CPN                      0.75- T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           20.40
+TAX 10.55% ON 15.73                 1.66
+TOTAL                              22.06
+AMEX TEND                          22.06
+CHANGE                              0.00
+
+04/20/26 10:01  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

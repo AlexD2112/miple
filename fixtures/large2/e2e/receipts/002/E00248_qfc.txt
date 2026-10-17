@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0543
+
+SMPL TRTH CHERRIES                5.69 F
+  3.89 lb @ 0.68 /lb
+SMPL TRTH PCHS                    2.65 F
+LG EGGS 18 CT                     7.52 F
+  2.26 lb @ 13.74 /lb
+KRO CHUCK ROAST                  31.05 F
+KRO SAVINGS                      0.76-  
+
+SUBTOTAL                           46.15
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              46.15
+VISA TEND                          46.15
+CHANGE                              0.00
+
+02/25/26 21:13  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

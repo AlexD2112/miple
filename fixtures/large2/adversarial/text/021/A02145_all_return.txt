@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 0373  Seattle WA
+             (555) 010-6046
+
+  REFUND - ORIG RECEIPT
+RETURN SIG KTCHNS GRND PORK      6.60- S
+RETURN HASS AVOCADO LARGE       12.96- S
+RETURN BABY SPNCH 5 OZ           3.77- S
+
+SUBTOTAL                          23.33-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                        23.33-
+AMEX TEND                         23.33-
+CHANGE                              0.00
+
+07/29/26 12:04  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

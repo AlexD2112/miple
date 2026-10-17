@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 2779
+TAX EXEMPT ID ******3781
+
+FRZN BROC FLORETS                 8.13 F
+MYNNS                             6.36 F
+FM SLCD ROAST BF                  5.94 F
+KRO SALTED BUTTER                 5.73 F
+RUSSET POTS 5 LB BAG              4.53 F
+SMPL TRTH TILAPIA FILLETS        21.66 F
+SMPL TRTH AVCDS                   4.05 F
+CAULIFLOWER GNOCCHI               7.85 F
+  2.05 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            28.17 F
+FRZN PEAS                        13.98 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          106.56
+TAX EXEMPT                          0.00
+TOTAL                             106.56
+AMEX TEND                         106.56
+CHANGE                              0.00
+
+06/12/26 08:14  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

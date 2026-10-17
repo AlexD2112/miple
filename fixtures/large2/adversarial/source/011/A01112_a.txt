@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1309
+
+PRMGN RGGN WEDGE                  8.42 F
+BLUBRY                            5.87 F
+PRIV SEL COCONUT MLK CAN          3.83 F
+PRIV SEL POTATO CHIPS             5.07 F
+
+SUBTOTAL                           23.19
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              23.19
+DISCOVER TEND                      23.19
+CHANGE                              0.00
+
+09/03/26 15:55  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

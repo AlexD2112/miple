@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 3977
+
+NPKNS                            24.05 T
+KRO AA BATTERIES 8PK             24.36 T
+ALUMINUM FOIL                    18.03 T
+SPONGES 3PK                       9.54 T
+KRO SAVINGS                      1.39- T
+ALMNM FOIL                       18.03 T
+
+SUBTOTAL                           92.62
+TAX 10.55% ON 92.62                 9.77
+TOTAL                             102.39
+CASH TEND                         120.00
+CHANGE                             17.61
+
+01/02/26 21:22  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

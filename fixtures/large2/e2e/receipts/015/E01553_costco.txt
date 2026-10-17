@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1525  Seattle WA
+            MEMBER ************
+
+1840209 KS VANILLA YOGURT CUPS        5.39 E
+1179489 COTTAGE CHS                   3.21 E
+646425 KS CCNT MLK CAN                7.66 E
+     2 @ 3.83
+73479 FROZEN BROCCOLI FLORETS         8.13 E
+1513563 KS FROZEN DUMPLINGS          15.61 E
+2470593 TPD/FROZEN DUMPL             2.92-  
+1271798 CAULIFLOWER GNOCCHI           7.85 E
+1002762 KS FLWRS BQT                 23.70 A
+1721400 2% MILK HALF GALLON           6.08 E
+1410551 KS ENGLSH CCMBR              12.99 E
+     3.71 lb @ 3.50 /lb
+2887889 TPD/ENGLSH CCMBR             2.66-  
+1249361 BANANA                        2.37 E
+132593 SHRP CHDR BLOCK               10.33 E
+348793 CHICKEN DRUMSTICKS             8.97 E
+8513011 TPD/CHICKEN DRUM             2.01-  
+51193 FRZN BROC                       3.44 E
+     2 @ 1.72
+730417 KS RIBEYE STEAK               19.87 E
+
+SUBTOTAL                              128.01
+TAX 10.55% ON 23.70                     2.50
+**** TOTAL                            130.51
+MASTERCARD TEND                       130.51
+CHANGE                                  0.00
+
+02/24/26 17:32  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,23 @@
+                 TARGET
+           Seattle WA  T-1457
+             (555) 030-4492
+
+GG ICE CRM                       14.51 N
+  1.07 lb @ 14.17 /lb
+GG BLACK FOREST HAM              15.16 N
+MKT PANTRY ROLLED OATS            3.98 N
+GG AVCDS                          4.05 N
+  0.31 lb @ 1.60 /lb
+GG JLPN                           0.50 N
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           38.36
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              38.38
+AMEX TEND                          38.38
+CHANGE                              0.00
+
+03/03/26 20:20  ITEMS 5
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

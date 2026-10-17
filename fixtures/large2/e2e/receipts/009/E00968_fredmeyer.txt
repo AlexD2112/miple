@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 2419
+
+HEINZ KETCHUP 32 OZ               4.48 F
+  2 @ 2.29
+KRO SILKEN TOFU                   4.58 F
+SMPL TRTH SWEET POTS              3.28 F
+  2 @ 1.16
+SMPL TRTH CILANTRO                2.32 F
+SMPL TRTH CRL                     6.63 F
+  4 @ 3.55
+HANDMADE STYLE CORN TORT         14.20 F
+KRO SAVINGS                      1.75-  
+TOSTITOS SCOOPS TORTILLA CHIPS    3.46 F
+  3.05 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             30.29 F
+MFR CPN                          0.53-  
+  0.98 lb @ 1.48 /lb
+RED ONIN                          1.45 F
+  3 @ 2.20
+LCRX LIME SPRKLG WTR 8 PK         6.60 F
+PEPSI 12 PACK CANS                4.93 T
+KRO GROUND COFFEE                 9.64 F
+SMPL TRTH GREEN ONIN BUNCH        2.59 F
+
+SUBTOTAL                           92.17
+TAX 10.55% ON 4.93                  0.52
+TOTAL                              92.69
+DEBIT TEND                         92.69
+CHANGE                              0.00
+
+04/23/26 16:51  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

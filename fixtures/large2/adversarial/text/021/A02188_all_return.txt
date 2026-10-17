@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2500  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1950686 FRZN THREE BERRY BLE  2.56- E
+  REFUND - ORIG RECEIPT
+RETURN 695204 KS PEANUT BUTTER       6.90- E
+  REFUND - ORIG RECEIPT
+RETURN 937304 KS CHKN DRUMSTICKS     8.97- E
+RETURN 626080 ORG RASPB 6 OZ         6.28- E
+RETURN 1144826 CHKN GYOZA POTSTICKE  9.88- E
+
+SUBTOTAL                              34.59-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            34.59-
+DISCOVER TEND                         34.59-
+CHANGE                                  0.00
+
+07/05/26 15:19  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

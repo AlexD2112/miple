@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 1587
+
+ALMNM FOIL                       18.03 F
+  1.86 lb @ 17.07 /lb
+LAMB CHOPS                       31.75 F
+SMPL TRTH SRIRACHA                3.16 F
+FM GENOA SALAMI                   4.76 F
+MFR CPN                          1.43-  
+HALF & HALF                       5.34 F
+AVCDS BAG 4 CT                    3.54 F
+CHKN GYOZA POTSTICKERS            9.88 F
+
+SUBTOTAL                           75.03
+TAX                                 0.00
+TOTAL                              75.03
+AMEX TEND                          75.03
+CHANGE                              0.00
+
+05/23/26 13:48  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

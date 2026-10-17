@@ -1,0 +1,16 @@
+                SAFEWAY
+      Store 0018  San Francisco CA
+             (555) 010-9037
+
+  REFUND - ORIG RECEIPT
+RETURN PLAIN NONFAT GRK YGRT     4.65- S
+
+SUBTOTAL                           4.65-
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         4.65-
+MASTERCARD TEND                    4.65-
+CHANGE                              0.00
+
+07/30/26 09:31  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

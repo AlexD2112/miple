@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2821  Seattle WA
+            MEMBER ************
+
+1426519 TLLMK ICE CRM 48 OZ           8.88 E
+270312 HUY FONG SRIRACHA              2.55 E
+333153 KS PINEAPPLE                   4.56 E
+     3.65 lb @ 1.25 /lb
+170288 KS ZCCHN                      10.94 E
+     2.94 lb @ 3.72 /lb
+901207 KS FROZEN DUMPLINGS           15.61 E
+1500374 KS BANANAS                   10.96 E
+     3.78 lb @ 2.90 /lb
+37985 TILLAMOOK MEDIUM CHEDDAR 2.5 L  4.21 E
+1047679 KS RED ONIN                   2.32 E
+     1.57 lb @ 1.48 /lb
+152344 BRLL PENNE                    19.37 E
+884418 DOG TREATS                     6.82 A
+1369432 ORG HONEYCRISP APPLES         1.28 E
+     0.96 lb @ 1.33 /lb
+1528595 DICED TOM CAN                 2.98 E
+0799939 TPD/DICED TOM CA             0.89-  
+1316733 ORG BLACK BEANS 8 CANS        1.15 E
+8116122 TPD/ORG BLACK BE             0.35-  
+971142 KS DAVES KILLER BRD            6.69 E
+835493 KS CELERY                      4.32 E
+
+SUBTOTAL                              101.40
+TAX 10.55% ON 6.82                      0.72
+**** TOTAL                            102.12
+AMEX TEND                             102.12
+CHANGE                                  0.00
+
+02/29/28 19:16  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3234
+
+HEINZ KETCHUP 32 OZ               4.48 F
+  3.40 lb @ 1.48 /lb
+RED ONIN                          5.03 F
+SMPL TRTH ORANGE JUICE            7.69 F
+  2 @ 2.56
+FRZN THREE BERRY BLEND 4 LB       5.12 F
+KRO DELI FRIED CHICKEN           11.75 T
+MFR CPN                          2.94- T
+  1.48 lb @ 13.18 /lb
+PRIV SEL SLCD TRKY BRST          19.51 F
+SMPL TRTH BROC CROWNS             2.25 F
+BABY SPINACH 5 OZ                 3.77 F
+SMPL TRTH FRZN PIZZA             13.30 F
+
+SUBTOTAL                           69.96
+TAX 10.55% ON 8.81                  0.93
+TOTAL                              70.89
+MASTERCARD TEND                    70.89
+CHANGE                              0.00
+
+08/29/26 20:57  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

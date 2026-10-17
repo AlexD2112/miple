@@ -1,0 +1,32 @@
+              TRADER JOE'S
+        Store #3306  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+ICE CREAM                        14.51  
+TJ'S CHKN THIGHS                  9.29  
+HONEYCRISP APPLES                 4.67  
+TILLAMOOK ICE CREAM 48 OZ         8.88  
+TJ'S HALF AND HALF                5.34  
+TJ'S ALL PURPOSE FLOUR           11.36  
+RASPBERRIES                       7.24  
+LEMONS                            4.19  
+CHICKEN THIGHS                    9.29  
+AVOCADOS                          4.05  
+DELI FRIED CHICKEN               11.75 T
+  0.82 lb @ 10.99 /lb
+DELI SLICED TURKEY BREAST         9.01  
+  2.38 lb @ 3.72 /lb
+ZUCCHINI                          8.85  
+CRM CHS 8 OZ                      3.15  
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32  
+CARROTS                           1.79  
+
+SUBTOTAL                          123.69
+TAX 10.55% ON 11.75                 1.24
+TOTAL                             124.93
+DEBIT TEND                        124.93
+CHANGE                              0.00
+
+02/22/26 18:24  ITEMS 16
+T=TAXABLE
+               THANK YOU

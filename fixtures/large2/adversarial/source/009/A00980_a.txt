@@ -1,0 +1,20 @@
+               FRED MEYER
+              Portland OR
+               Store 2920
+
+  4 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS   19.12 F
+SILKEN TOFU                       2.29 F
+FM GRND BF 80/20                  6.57 F
+DISH SOAP                        19.39 F
+FRZN PEAS                        13.98 F
+
+SUBTOTAL                           61.35
+TAX                                 0.00
+TOTAL                              61.35
+DISCOVER TEND                      61.35
+CHANGE                              0.00
+
+04/23/26 20:12  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

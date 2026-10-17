@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1562
+
+SHREDDED MOZZ 8 OZ                2.92 F
+GRND TRKY                         5.19 F
+ITALIAN PARSLEY                   2.93 F
+CREMINI MUSHROOMS                 1.14 F
+  4 @ 3.77
+SMPL TRTH BAGELS                 15.08 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           27.50
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              27.53
+CASH TEND                          40.00
+CHANGE                             12.47
+
+03/15/26 20:55  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

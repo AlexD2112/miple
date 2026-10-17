@@ -1,0 +1,43 @@
+               FRED MEYER
+               Seattle WA
+               Store 1603
+
+  3 @ 2.72
+SMPL TRTH MANDARINS               8.16 F
+SMPL TRTH YELLOW ONIN             1.78 F
+  4 @ 2.93
+SMPL TRTH ASPARAGUS              11.72 F
+  2 @ 1.95
+ORG ITALIAN PARSLEY               3.90 F
+BOTTLED WTR 40 PK                 2.45 F
+  2.26 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            31.05 F
+  0.26 lb @ 2.83 /lb
+ORG LEMONS                        0.74 F
+BLUBRY 18 OZ                      4.61 F
+  2.56 lb @ 17.07 /lb
+FM LAMB CHOPS                    43.70 F
+FM PASTURE RAISED EGGS            7.37 F
+COCONUT MILK CAN                  3.83 F
+  4 @ 1.72
+FRZN BROC                         6.88 F
+COCONUT MILK CAN                  3.83 F
+  4 @ 1.72
+FRZN BROC                         6.88 F
+FM FRZN DMPLNGS                  15.61 F
+KRO SLTD BTR                      5.73 F
+  0.36 lb @ 14.17 /lb
+KRO BLACK FOREST HAM              5.10 F
+DRIED LENTILS                     4.26 F
+  0.85 lb @ 2.30 /lb
+GALA APPLES                       1.96 F
+
+SUBTOTAL                          158.85
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             158.85
+DEBIT TEND                        158.85
+CHANGE                              0.00
+
+09/30/26 12:40  ITEMS 26
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

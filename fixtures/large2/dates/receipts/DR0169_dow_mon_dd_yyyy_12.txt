@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 3717
+
+FM OAT MLK                        3.10 F
+GRASS-FED GRND BF 85/15           7.35 F
+CHOBANI PLAIN GRK YGRT 32 OZ      1.47 F
+
+SUBTOTAL                           11.92
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              11.92
+DEBIT TEND                         11.92
+CHANGE                              0.00
+
+WED DEC 09 2026 8:44 PM  6744 39 634 9
+ITEMS 21   REG 18  TRANS 7873
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

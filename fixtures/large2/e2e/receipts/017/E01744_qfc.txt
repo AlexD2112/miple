@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0500
+
+STRWB                             4.35 F
+  0.33 lb @ 2.08 /lb
+KIWI                              0.69 F
+KRO ICE CRM                      14.51 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+
+SUBTOTAL                           24.33
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              24.33
+VISA TEND                          24.33
+CHANGE                              0.00
+
+03/21/26 14:37  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

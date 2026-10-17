@@ -1,0 +1,36 @@
+               FRED MEYER
+              Portland OR
+               Store 3712
+
+KRO GRND COFFEE                   9.64 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+KRO SAVINGS                      0.57-  
+FM GRND COFFEE                    9.64 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+SMPL TRTH DIET COLA 12PK CANS     4.42 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+KRO DOG TREATS                    6.82 F
+  0.48 lb @ 2.08 /lb
+KIWI                              1.00 F
+FM GRND BF 80/20                  6.57 F
+KRO JASMINE RICE                 12.13 F
+KRO CAT LITTER                   14.03 F
+ORG GALA APPLES                   1.57 F
+  5.74 lb @ 6.33 /lb
+FM WHL CHKN                      36.33 F
+CAULIFLOWER GNOCCHI               7.85 F
+  4 @ 1.16
+CLNTR                             4.64 F
+
+SUBTOTAL                          115.47
+TAX                                 0.00
+TOTAL                             115.47
+DEBIT TEND                        115.47
+CHANGE                              0.00
+
+08/05/26 15:26  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

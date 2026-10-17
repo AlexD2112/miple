@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2137  San Francisco CA
+            MEMBER ************
+
+1932066 KS CHKN BROTH CARTON          8.38 E
+164686 GRND BF 88/12                 21.42 E
+     3.57 lb @ 6.00 /lb
+521025 KS ARUGULA                     4.00 E
+2963697 TPD/ARUGULA                  0.27-  
+
+SUBTOTAL                               33.53
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             33.53
+VISA TEND                              33.53
+CHANGE                                  0.00
+
+02/18/26 15:03  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

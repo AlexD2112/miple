@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3733  Seattle WA
+            MEMBER ************
+
+539760 KS POTATO CHIPS                5.07 E
+5892685 TPD/POTATO CHIPS             0.28-  
+1113880 STRWB 2 LB                   11.76 E
+     2 @ 5.88
+
+SUBTOTAL                               16.55
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             16.55
+MASTERCARD TEND                        16.55
+CHANGE                                  0.00
+
+12/31/26 17:25  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

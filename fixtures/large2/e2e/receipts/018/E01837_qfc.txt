@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0806
+
+SMPL TRTH TUNA CAN                1.08 F
+SMPL TRTH POTATO CHIPS            5.07 F
+KRO TOOTHPASTE                   16.40 T
+  2 @ 2.74
+SMPL TRTH FRESH MINT              5.48 F
+
+SUBTOTAL                           28.03
+TAX 10.55% ON 16.40                 1.73
+TOTAL                              29.76
+AMEX TEND                          29.76
+CHANGE                              0.00
+
+02/29/28 16:36  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

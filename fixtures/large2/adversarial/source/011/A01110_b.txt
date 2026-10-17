@@ -1,0 +1,22 @@
+                 TARGET
+           Seattle WA  T-0618
+             (555) 030-4204
+
+GG LEMONADE 52OZ                  5.79 T
+GG CRL                            6.63 N
+  1.42 lb @ 1.25 /lb
+GG PINEAPPLE                      1.78 N
+CIRCLE DEAL                      0.53-  
+GG SPAGHETTI                      9.54 N
+  2.85 lb @ 9.65 /lb
+GG PORK TENDERLOIN               27.50 N
+
+SUBTOTAL                           50.71
+TAX 10.55% ON 5.79                  0.61
+TOTAL                              51.32
+DEBIT TEND                         51.32
+CHANGE                              0.00
+
+06/10/26 09:39  ITEMS 5
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

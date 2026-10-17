@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 2340  Seattle WA
+             (555) 010-6007
+
+SIG KTCHNS FRZN MIXED BERRIES     2.06 S
+PLASTIC WRAP                      4.77 T
+GRND COFFEE                       9.64 S
+LUCERNE 2% MLK GALLON             6.49 S
+
+SUBTOTAL                           22.96
+TAX 10.55% ON 4.77                  0.50
+**** TOTAL                         23.46
+DEBIT TEND                         23.46
+CHANGE                              0.00
+
+01/25/26 08:01  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

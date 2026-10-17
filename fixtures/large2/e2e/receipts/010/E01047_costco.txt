@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2059  Seattle WA
+            MEMBER ************
+
+975140 KS PLSTC WRAP                  4.77 A
+1649170 MANDARINS                     2.72 E
+323938 KS SHRP CHDR BLOCK            10.33 E
+811936 FROZEN PEAS                   13.98 E
+917841 SHRDDD MOZZ 8 OZ               2.92 E
+66257 KS SWISS CHS                   13.41 E
+     1.45 lb @ 9.25 /lb
+952542 GREEN BEANS                    2.31 E
+355837 ORG BLACK BEANS 8 CANS         1.15 E
+9370728 TPD/ORG BLACK BE             0.35-  
+693370 LEMON                          4.30 E
+1671467 KS SWEET POTS                 3.28 E
+1362316 KS DRIED LENTILS              4.26 E
+1483704 KS PNT BTR                    6.90 E
+1174034 BARILLA PENNE                19.37 E
+
+SUBTOTAL                               89.35
+TAX 10.55% ON 4.77                      0.50
+**** TOTAL                             89.85
+VISA TEND                              89.85
+CHANGE                                  0.00
+
+08/28/26 18:49  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

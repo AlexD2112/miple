@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0178  San Francisco CA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 137398 TILLAMOOK VAN YGRT     4.05- E
+RETURN 739225 KS SALSA JAR           2.09- E
+
+SUBTOTAL                               6.14-
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             6.14-
+DEBIT TEND                             6.14-
+CHANGE                                  0.00
+
+01/04/26 07:52  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

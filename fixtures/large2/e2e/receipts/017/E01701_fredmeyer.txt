@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 0882
+
+DARIGOLD UNSLTD BTR               6.67 F
+  3.78 lb @ 2.90 /lb
+SMPL TRTH BNNS                   10.96 F
+VAN YGRT CUPS                     5.39 F
+FM QUINOA                         7.75 F
+  4 @ 5.54
+ORG BABY SPNCH                   22.16 F
+WHITE SANDWICH BRD                7.03 F
+  1.54 lb @ 1.05 /lb
+SMPL TRTH RADISHES                1.62 F
+BARILLA PENNE                    19.37 F
+AVCDS BAG 4 CT                    3.54 F
+MFR CPN                          1.06-  
+
+SUBTOTAL                           83.43
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              83.43
+VISA TEND                          83.43
+CHANGE                              0.00
+
+02/28/27 18:20  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

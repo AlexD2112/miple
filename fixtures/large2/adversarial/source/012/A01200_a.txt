@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0787  Seattle WA
+            MEMBER ************
+
+1450455 LG EGGS 18 CT                 7.52 E
+3015372 TPD/LG EGGS 18 C             2.26-  
+1319036 WHITE BRD                     6.34 E
+428899 BLACK BEANS 15 OZ CAN         10.76 E
+1885451 KS PORK TENDERLOIN           20.65 E
+     2.14 lb @ 9.65 /lb
+137781 KS BNLS SKNLS CHKN BRST        9.70 E
+     1.45 lb @ 6.69 /lb
+791533 KS CORN TORT                   2.79 E
+1508210 GRASS-FED GROUND BEEF 85/15   7.35 E
+1579318 TPD/GRASS-FED GR             2.20-  
+751081 KS ROMA TOM                    9.52 E
+     4 @ 2.38
+1222924 MSSN FLOUR TORT 40 CT         5.22 E
+1151951 KS ASPARAGUS                  5.86 E
+     2 @ 2.93
+1644927 DELI SLCD TRKY BRST          12.20 E
+     1.11 lb @ 10.99 /lb
+4741492 TPD/DELI SLCD TR             2.03-  
+388792 KS ICEBERG LTTC                5.11 E
+131548 PARMIGIANO REGGIANO WEDGE      8.42 E
+6579285 TPD/PARMIGIANO R             0.53-  
+
+SUBTOTAL                              104.42
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            104.42
+DISCOVER TEND                         104.42
+CHANGE                                  0.00
+
+06/04/26 14:33  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

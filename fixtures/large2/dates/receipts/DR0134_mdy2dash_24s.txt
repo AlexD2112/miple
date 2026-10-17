@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 2279
+
+FLOUR TORT 10 CT                  2.35 F
+  1.04 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                2.53 F
+KRO PARMIGIANO REGGIANO           7.82 F
+LARGE BROWN CAGE FREE EGGS        4.10 F
+DIGITAL CPN                      1.23-  
+STRAUS PLAIN GRK YGRT             1.74 F
+SMPL TRTH CRM CHS                 8.63 F
+FM COLA 12PK                      1.83 T
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           28.01
+TAX 10.55% ON 2.07                  0.22
+TOTAL                              28.23
+DEBIT TEND                         28.23
+CHANGE                              0.00
+
+01-15-27 00:59:44  8908 10 642 8
+ITEMS 27   REG 20  TRANS 5349
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

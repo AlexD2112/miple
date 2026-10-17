@@ -1,0 +1,43 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1920
+REG 13 TRN 8064 OPR 522
+
+  4 @ 4.34
+CELERY HEARTS                    17.36 F
+KRO CAT LITTER                   14.03 T
+KRO SAVINGS                      1.58- T
+  4 @ 2.77
+KRO HAMBURGER BUNS               11.08 F
+MFR CPN                          0.94-  
+JSMN RICE                        12.13 F
+STRWB 1 LB                        5.22 F
+  2 @ 3.16
+SRIRACHA                          6.32 F
+KRO FRZN WFFLS                    7.05 F
+KRO SAVINGS                      0.53-  
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+  2.10 lb @ 3.72 /lb
+ZUCCHINI                          7.81 F
+KRO LARGE BROWN EGGS              4.29 F
+KRO SAVINGS                      1.29-  
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+SMPL TRTH KOMBUCHA 16OZ           4.58 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+CAULIFLOWER GNOCCHI               7.85 F
+SMPL TRTH HAMBURGER BUNS          2.77 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          126.84
+TAX 10.55% ON 12.61                 1.33
+TOTAL                             128.17
+AMEX TEND                         128.17
+CHANGE                              0.00
+
+05/05/26 16:13  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+SAVE 2.00 ON YOUR NEXT VISIT
+SURVEY CODE 8564 1844 5041
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+               THANK YOU

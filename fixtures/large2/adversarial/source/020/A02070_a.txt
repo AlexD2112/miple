@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2549  Seattle WA
+            MEMBER ************
+
+607865 FLWRS BQT                     23.70 A
+1512933 PLASTIC WRAP                  4.77 A
+1474136 KS DISH SOAP                 19.39 A
+1582029 KS GREETING CARD             20.34 A
+1753951 KS AA BATTERIES 8PK          24.36 A
+1859553 KS HAND SOAP                 24.27 A
+1603491 KS AA BTTRS 8PK              24.36 A
+709397 SPNGS 3PK                      9.54 A
+
+SUBTOTAL                              150.73
+TAX 10.55% ON 150.73                   15.90
+**** TOTAL                            166.63
+VISA TEND                             166.63
+CHANGE                                  0.00
+
+01/26/26 14:25  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

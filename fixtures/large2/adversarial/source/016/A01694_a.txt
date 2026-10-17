@@ -1,0 +1,34 @@
+               FRED MEYER
+               Seattle WA
+               Store 1140
+
+  3.92 lb @ 2.83 /lb
+ORG LEMONS                       11.09 N
+  3 @ 5.79
+FM LEMONADE 52OZ                 17.37 T
+PAPER PLATES                      3.31 T
+PAPER TOWELS 6 ROLL               3.75 T
+SMPL TRTH COLA 12PK               1.83 T
+GRND PORK                         6.60 N
+FLOWERS BOUQUET                  23.70 T
+FM PREPARED MAC & CHS            10.62 N
+SMPL TRTH GRND TRKY               5.19 N
+SMPL TRTH BABY CARROTS            2.49 N
+FM MYNNS                          6.36 N
+REDUCED FAT 2% MLK GALLON         6.54 N
+AVOCADOS BAG 4 CT                 3.54 N
+KRO APPLE JUICE 64OZ              7.25 N
+CARROTS 2 LB                      1.74 N
+FM FLOUR TORT                     6.18 N
+SMPL TRTH RASPBERRIES             7.24 N
+BAG FEE                           0.08 T
+
+SUBTOTAL                          124.88
+TAX 10.55% ON 50.04                 5.28
+TOTAL                             130.16
+DISCOVER TEND                     130.16
+CHANGE                              0.00
+
+03/18/26 11:05  ITEMS 19
+T=TAXABLE  N=NON-TAXABLE
+               THANK YOU

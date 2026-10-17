@@ -1,0 +1,19 @@
+               FRED MEYER
+              Portland OR
+               Store 0800
+
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+  2.97 lb @ 2.90 /lb
+BANANAS                           8.61 F
+  1.74 lb @ 1.25 /lb
+PNPPL                             2.18 F
+
+SUBTOTAL                           22.15
+TAX                                 0.00
+TOTAL                              22.15
+DISCOVER TEND                      22.15
+CHANGE                              0.00
+
+01/30/26 20:30  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

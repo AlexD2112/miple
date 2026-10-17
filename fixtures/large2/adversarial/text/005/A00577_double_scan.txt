@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 1038
+
+DOUBLE CREME BRIE                 5.40 F
+AVOCADOS                          4.05 F
+FM TORTILLA CHIPS                 3.33 F
+  2 @ 0.05
+BAG FEE                           0.10  
+FM TORTILLA CHIPS                 3.33 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           12.88
+TAX                                 0.00
+TOTAL                              12.88
+AMEX TEND                          12.88
+CHANGE                              0.00
+
+10/03/26 09:56  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

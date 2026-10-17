@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 1243
+
+KRO RANCH DRSSNG                  3.99 F
+ WHL WHT SANDWICH BRD              2.54 F
+ALL PURPOSE FLOUR                11.36 F
+KRO SAVINGS                      1.93-  
+SMPL TRTH CRL                     6.63 F
+SMPL TRTH GRND TRKY               5.19 F
+KRO SAVINGS	1.56-
+ICEBERG LTTC                      5.11 F
+BLUEBERRIES                       5.87 F 
+SMPL TRTH CHRRS 5.69 F
+
+SUBTOTAL                           42.89
+TAX 10.55% ON 0.00                  0.00
+TOTAL	42.89
+ AMEX TEND                          42.89
+CHANGE                              0.00
+
+09/28/26 07:45  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

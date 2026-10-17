@@ -1,0 +1,23 @@
+                SAFEWAY
+         Store 2658  Seattle WA
+             (555) 010-9862
+
+SIG SLCT PREPARED MAC & CHS      10.62 S
+WHL WHT SNDWCH BRD 2.54 S
+  LARGE EGGS 18 CT                  7.52 S
+J4U DIGITAL CPN                  2.18-  
+HOUSE FOODS EXTRA FIRM TOFU       2.78 S
+CLUB CARD SAVINGS                0.83-  
+SIG KTCHNS GRND COFFEE            9.64 S
+ATLANTIC SLMN FLLT               19.77 S
+J4U PERSONAL DEAL                1.82-   
+
+SUBTOTAL                           48.04
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         48.04
+AMEX TEND                          48.04    
+   CHANGE                              0.00
+
+03/26/26 11:50  ITEMS 6
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

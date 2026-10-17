@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 0985
+
+  1.09 lb @ 3.42 /lb
+RED BELL PEPR                     3.73 F
+SMPL TRTH ORANGE JUICE            7.69 F
+  4 @ 3.54
+AVCDS BAG 4 CT                   14.16 F
+  1.64 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTS             1.85 F
+  1.03 lb @ 9.25 /lb
+KRO SWISS CHS                     9.53 F
+FRESH DILL                        0.90 F
+SMPL TRTH YELLOW ONIN             1.78 F
+KRO ROTIS CHKN                    5.04 T
+SMPL TRTH EXTRA FIRM TOFU         2.32 F
+
+SUBTOTAL                           47.00
+TAX 10.55% ON 5.04                  0.53
+TOTAL                              47.53
+AMEX TEND                          47.53
+CHANGE                              0.00
+
+02-12-26 07:57:15  5714 21 389 5
+ITEMS 20   REG 09  TRANS 3658
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

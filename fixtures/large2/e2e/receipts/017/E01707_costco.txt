@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2788  Seattle WA
+            MEMBER ************
+
+1820721 KS LIMES                      2.80 E
+158039 KS SLCD TRKY BRST             19.37 E
+     1.47 lb @ 13.18 /lb
+661329 TILLAMOOK ICE CRM 48 OZ        8.88 E
+4755272 TPD/TILLAMOOK IC             1.64-  
+818409 RUSSET POTATOES                2.29 E
+     2.03 lb @ 1.13 /lb
+1012657 PEPSI 12 PACK CANS            9.86 A
+     2 @ 4.93
+1343366 KS JASMINE RICE              12.13 E
+797276 KS SPRKLG WTR                  3.74 E
+0851146 TPD/SPRKLG WTR               1.12-  
+1861509 MAYONNAISE 30 OZ              6.42 E
+584427 GRNLA BRS                      6.07 E
+4853741 TPD/GRNLA BRS                0.94-  
+1192354 KS TRASH BAGS 40CT            6.49 A
+690942 KS ICEBERG LTTC                5.11 E
+
+SUBTOTAL                               79.46
+TAX 10.55% ON 16.35                     1.72
+**** TOTAL                             81.18
+DISCOVER TEND                          81.18
+CHANGE                                  0.00
+
+04/01/26 07:43  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

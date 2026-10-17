@@ -1,0 +1,53 @@
+               FRED MEYER
+              Portland OR
+               Store 2369
+
+SMPL TRTH LIMES                   2.80 F
+  3.44 lb @ 5.06 /lb
+KRO GROUND CHICKEN               17.41 F
+DARIGOLD UNSLTD BTR               6.67 F
+KRO TORTILLA CHIPS                3.33 F
+SPRKLG WTR 8PK                    5.13 F
+  8 @ 0.10
+OR BTL DEP                        0.80  
+GRK YGRT PLAIN                    4.11 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           40.40
+TAX                                 0.00
+TOTAL                              40.40
+DEBIT TEND                         40.40
+CHANGE                              0.00
+
+08/04/26 10:25  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-6225
+
+DIJON MUSTARD                     2.46 F
+DIGIORNO RISING CRUST PPPRN PIZZ  5.73 F
+ORGANIC BASIL CLAMSHELL           1.49 F
+PLAIN GOAT CHEESE                 5.77 F
+PRIME MEMBER DEAL                1.73-  
+2% MLK 2 X 1 GAL                  4.70 F
+FROZEN BROCCOLI                   1.72 F
+  1.03 lb @ 2.33 /lb
+WF BRUSSELS SPROUTS               2.40 F
+365 ORG BRIE                      4.85 F
+  1.52 lb @ 1.13 /lb
+365 RUSSET POTS                   1.72 F
+DOUBLE CREME BRIE                 5.40 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           34.59
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              34.60
+DEBIT TEND                         34.60
+CHANGE                              0.00
+
+08/03/26 18:43  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

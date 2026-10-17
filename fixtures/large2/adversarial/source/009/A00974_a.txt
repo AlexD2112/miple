@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #3902  San Francisco CA
+            MEMBER ************
+
+491303 KS CRM CHS                     8.63 E
+1153623 KETCHUP                      10.98 E
+     2 @ 5.49
+3019971 TPD/KETCHUP                  1.15-  
+166882 KS CHUCK ROAST                35.86 E
+     2.61 lb @ 13.74 /lb
+869528 LARGE EGGS 18 CT               7.52 E
+5083142 TPD/LARGE EGGS 1             1.18-  
+512040 KS TUNA CAN                    1.08 E
+1441116 GREEN BEANS                   6.93 E
+     3 @ 2.31
+1751378 KS SPAGHETTI                  9.54 E
+1086042 CHERRIES                      5.69 E
+1550855 KS ALUMINUM FOIL             18.03 A
+941337 CHOBANI PLAIN GRK YGRT 32 OZ   1.47 E
+1731574 KS CAULIFLOWER                1.47 E
+     0.39 lb @ 3.76 /lb
+1232959 KS BLACKBERRIES               3.92 E
+199725 ORG TOMATO BASIL MARINARA      5.94 E
+138630 ORG BABY SPNCH                 5.54 E
+1912686 PEPSI 12 PACK CANS           14.79 A
+     3 @ 4.93
+  3 @ 0.05
+CA CRV                                0.15 A
+9524285 TPD/PEPSI 12 PAC             0.45- A
+1083098 MANDARIN ORANGE CHICKEN      15.87 E
+4642557 TPD/MANDARIN ORA             2.56-  
+1121828 KS ROMA TOM                   4.76 E
+     2 @ 2.38
+1856095 KS PASTURE RAISED EGGS        7.37 E
+
+SUBTOTAL                              160.20
+TAX 8.625% ON 32.52                     2.80
+**** TOTAL                            163.00
+DEBIT TEND                            163.00
+CHANGE                                  0.00
+
+08/28/26 21:12  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

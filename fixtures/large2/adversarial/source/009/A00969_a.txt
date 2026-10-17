@@ -1,0 +1,19 @@
+                SAFEWAY
+         Store 1138  Seattle WA
+             (555) 010-2533
+
+BOTTLED WTR 24PK                  9.32 S
+SIG PLSTC WRAP                    4.77 T
+KETCHUP                           5.49 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           19.82
+TAX 10.55% ON 5.01                  0.53
+**** TOTAL                         20.35
+DISCOVER TEND                      20.35
+CHANGE                              0.00
+
+04/20/26 19:40  ITEMS 3
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

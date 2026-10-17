@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0981  Seattle WA
+            MEMBER ************
+
+706528 DAVES KILLER BRD 21 WHL GRAIN  9.56 E
+     2 @ 4.78
+109089 KS SALSA JAR                   2.09 E
+7963357 TPD/SALSA JAR                0.60-  
+997103 BOTTLED WTR 40 PK              2.45 E
+369028 TRASH BAGS 40CT                6.49 A
+7580585 TPD/TRASH BAGS 4             0.54- A
+937838 KS FRZN DMPLNGS               15.61 E
+1324298 TPD/FRZN DMPLNGS             0.90-  
+1380581 CHKN GYOZA POTSTICKERS        9.88 E
+2328256 TPD/CHKN GYOZA P             2.72-  
+1493993 PEPSI 12 PACK CANS            4.93 A
+117587 KS KERRYGOLD BUTTER           10.81 E
+565456 YUKON GOLD POTS                3.99 E
+1327439 KS SWEET POTATOES             3.28 E
+251382 BLACK FOREST HAM 9 OZ          7.00 E
+119271 SHRP CHDR BLOCK               10.33 E
+1884983 ASPARAGUS                     2.93 E
+1808768 CHKN BROTH 32 OZ              2.81 E
+638595 KS BLACK BEANS CAN             8.77 E
+1801271 KS AVCDS                      4.05 E
+961153 SHREDDED MOZZ 8 OZ             2.92 E
+502094 CAULIFLOWER GNOCCHI            7.85 E
+
+SUBTOTAL                              110.99
+TAX 10.55% ON 10.88                     1.15
+**** TOTAL                            112.14
+MASTERCARD TEND                       112.14
+CHANGE                                  0.00
+
+08/10/26 13:31  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

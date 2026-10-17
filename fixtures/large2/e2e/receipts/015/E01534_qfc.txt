@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0480
+
+  2 @ 4.19
+SMPL TRTH LEMONS                  8.38 F
+ORG RASPB 6 OZ                    6.28 F
+PRIV SEL KRRYGLD BTR             10.81 F
+ORG ITALIAN PARSLEY               1.95 F
+FRZN BROC FLORETS                 8.13 F
+GREEN BEANS                       2.31 F
+LIGHT BULBS 4PK                  17.04 T
+KRO SAVINGS                      1.81- T
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+MYNNS 30 OZ                       6.42 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           68.58
+TAX 10.55% ON 24.30                 2.56
+TOTAL                              71.14
+MASTERCARD TEND                    71.14
+CHANGE                              0.00
+
+01/28/26 13:17  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

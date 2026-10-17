@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 0110
+
+PAPER TOWELS 6 ROLL               3.75 T
+COTTAGE CHEESE                    3.21 F
+ORG BLACK BEANS 8 CANS            1.15 F
+  3.53 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                54.93 F
+MFR CPN                          0.31-  
+
+SUBTOTAL                           62.73
+TAX 10.55% ON 3.75                  0.40
+TOTAL                              63.13
+CASH TEND                          80.00
+CHANGE                             16.87
+
+04/10/26 20:47  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0669  Seattle WA
+            MEMBER ************
+
+1609580 ICE CRM                      14.51 E
+1516875 KS APPLE JUICE 64OZ           7.25 E
+1560645 CROISSANTS 12 CT              4.87 E
+
+SUBTOTAL                               26.63
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             26.63
+MASTERCARD TEND                        26.63
+CHANGE                                  0.00
+
+Sep 9, 2029 2:56 am  637 637 6207 05
+ITEMS 10   REG 08  TRANS 4993
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

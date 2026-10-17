@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1224  Seattle WA
+            MEMBER ************
+
+1670568 BROC CROWNS                   2.25 E
+1270630 LG EGGS 18 CT                 7.52 E
+565617 KS BRTLTT PEARS                3.00 E
+406953 HUY FONG SRRCH                 7.65 E
+     3 @ 2.55
+1597688 TILLAMOOK VAN YGRT            4.05 E
+183936 BOTTLED WATER 40 PK            2.45 E
+712603 ORG SPRTD TOFU                 5.22 E
+     2 @ 2.61
+1998127 SWISS CHS                    10.27 E
+     1.11 lb @ 9.25 /lb
+186180 KS GRND PORK                   6.60 E
+285935 KS POTATO CHIPS               15.21 E
+     3 @ 5.07
+621278 KS CRRTS                       1.79 E
+
+SUBTOTAL                               66.01
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             66.01
+MASTERCARD TEND                        66.01
+CHANGE                                  0.00
+
+02/28/27 17:58  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

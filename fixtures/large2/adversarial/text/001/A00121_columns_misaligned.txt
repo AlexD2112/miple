@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0775  Seattle WA
+            MEMBER ************
+
+825714 SWISS CHS                      9.53 E
+     1.03 lb @ 9.25 /lb
+8212216 TPD/SWISS CHS                2.59-     
+37221 KS LG BROWN EGGS 4.29 E
+1939646 FRZN THREE BERRY BLEND 4 LB   2.56 E
+1864398 CHBN PLAIN GRK YGRT 32 OZ     1.47 E
+1553677 FOSTER FARMS BNLS SKNLS CHK  38.66 E
+     5.06 lb @ 7.64 /lb
+91986 ICE CRM 14.51 E
+78835 BABY SPINACH 5 OZ               3.77 E
+1753315 KS CAULIFLOWER                8.99 E
+     2.39 lb @ 3.76 /lb
+6158269 TPD/CAULIFLOWER              2.07-  
+883372 OLD FASHIONED ROLLED OATS 42	17.43 E
+2085455 TPD/OLD FASHIONE	1.11-
+1920784 RUSSET POTS 5 LB BAG 4.53 E
+827084 KS FLOWERS BQT                23.70 A    
+7608217 TPD/FLOWERS BQT              1.66- A
+1561684 KS BLACK FOREST HAM           3.97 E
+     0.28 lb @ 14.17 /lb
+572072 KS RDSHS                       2.81 E
+     2.68 lb @ 1.05 /lb
+1667882 ITALIAN PARSLEY               8.79 E 
+     3 @ 2.93
+
+SUBTOTAL                              137.58
+TAX 10.55% ON 22.04                     2.33
+**** TOTAL                            139.91
+MASTERCARD TEND                       139.91
+CHANGE	0.00
+
+05/03/26 14:38  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

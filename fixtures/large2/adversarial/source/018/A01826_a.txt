@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3715  Seattle WA
+            MEMBER ************
+
+474194 DAVES KILLER BRD               6.69 E
+1822444 KS CHUCK ROAST               34.08 E
+     2.48 lb @ 13.74 /lb
+698421 KS YUKON GOLD POTS             3.99 E
+1633530 KS CRACKERS                   8.00 E
+     4 @ 2.00
+1959418 LIMES                         2.80 E
+781615 GREEN ONIN BUNCH               2.59 E
+1794882 KS FLOWERS BOUQUET           23.70 A
+1179451 PLASTIC WRAP                  4.77 A
+1737827 DOUBLE CREME BRIE             5.40 E
+
+SUBTOTAL                               92.02
+TAX 10.55% ON 28.47                     2.95
+**** TOTAL                             94.97
+VISA TEND                              94.97
+CHANGE                                  0.00
+
+05/16/26 20:40  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

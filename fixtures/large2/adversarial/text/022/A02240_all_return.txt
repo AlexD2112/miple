@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 2362  Seattle WA
+             (555) 010-2612
+
+  REFUND - ORIG RECEIPT
+RETURN ORG RASPB 6 OZ            6.28- S
+  REFUND - ORIG RECEIPT
+RETURN CHKN BROTH 32 OZ          2.81- S
+
+SUBTOTAL                           9.09-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         9.09-
+DEBIT TEND                         9.09-
+CHANGE                              0.00
+
+07/21/26 21:14  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

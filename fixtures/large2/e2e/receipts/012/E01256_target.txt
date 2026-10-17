@@ -1,0 +1,29 @@
+                 TARGET
+        San Francisco CA  T-3049
+             (555) 030-3855
+
+PLSTC WRAP                        4.77 T
+GG TUNA CAN                       1.08 N
+DOUBLE CREME BRIE                 5.40 N
+  2 @ 4.93
+PEPSI 12 PK CANS                  9.86 T
+  2 @ 0.05
+CA CRV                            0.10 T
+GG GRND BF 80/20                  6.57 N
+GG GRNLA BRS                      6.07 N
+  0.42 lb @ 1.79 /lb
+GG BEETS                          0.75 N
+GRASS-FED GROUND BEEF 85/15       7.35 N
+GG CRL                            6.63 N
+  1.41 lb @ 3.42 /lb
+GG RED BELL PEPR                  4.82 N
+
+SUBTOTAL                           53.40
+TAX 8.625% ON 14.73                 1.27
+TOTAL                              54.67
+CASH TEND                          60.00
+CHANGE                              5.33
+
+07/31/26 12:39  ITEMS 11
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

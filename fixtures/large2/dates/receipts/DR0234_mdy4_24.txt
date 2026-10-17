@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1673  Portland OR
+            MEMBER ************
+
+259748 KS DICED TOM CAN               2.98 E
+383487 CELERY                         4.32 E
+1671274 TPD/CELERY                   0.67-  
+1652575 KS COCONUT MILK CAN           3.83 E
+1811096 FLOUR TORT 10 CT              4.70 E
+     2 @ 2.35
+1908664 ORG ITALIAN PARSLEY           5.85 E
+     3 @ 1.95
+1678634 DRIED LENTILS                 8.52 E
+     2 @ 4.26
+
+SUBTOTAL                               29.53
+TAX                                     0.00
+**** TOTAL                             29.53
+DISCOVER TEND                          29.53
+CHANGE                                  0.00
+
+11/06/2026 07:10  605 605 5891 32
+ITEMS 2   REG 18  TRANS 3574
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

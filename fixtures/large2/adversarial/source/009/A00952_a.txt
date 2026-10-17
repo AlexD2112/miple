@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2369  Seattle WA
+            MEMBER ************
+
+994631 KS LG BROWN EGGS               4.29 E
+254152 KS JALAPENO                    0.56 E
+     0.35 lb @ 1.60 /lb
+1425413 KS LEMONS                     4.19 E
+557073 DOUBLE CREME BRIE              5.40 E
+1986840 KS BLUBRY                     5.87 E
+0880097 TPD/BLUBRY                   1.76-  
+12269 KS ORANGE JUICE 52OZ            9.39 E
+131309 KS GALA APPLES                 6.67 E
+     2.90 lb @ 2.30 /lb
+1018740 KS HAMBURGER BUNS             2.77 E
+708938 BANANA                         7.11 E
+     3 @ 2.37
+1918172 KS QUINOA                     7.75 E
+227285 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+658185 ORG ROMAINE HEARTS 3 CT        3.76 E
+3207706 TPD/ORG ROMAINE              1.13-  
+26309 KS PAPER TOWELS 6 ROLL          3.75 A
+557184 BNLS RIBEYE STEAK             61.62 E
+     3.96 lb @ 15.56 /lb
+1992978 KS SPRKLG WTR 8PK            10.26 E
+     2 @ 5.13
+1363005 KS APPLE JUICE 64OZ           7.25 E
+8533079 TPD/APPLE JUICE              1.00-  
+1315921 KS NAPKINS                   24.05 A
+1569490 KS SWEET POTS                 3.28 E
+
+SUBTOTAL                              166.86
+TAX 10.55% ON 27.80                     2.93
+**** TOTAL                            169.79
+VISA TEND                             169.79
+CHANGE                                  0.00
+
+02/16/26 21:55  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

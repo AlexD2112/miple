@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 3377
+
+KRO PAPER PLATES                  3.31 T
+KRO GREETING CARD                20.34 T
+KRO SHAMPOO                      17.57 T
+KRO CAT LITTER                   14.03 T
+KRO PLASTIC WRAP                  4.77 T
+KRO LAUNDRY DETERGENT PODS       20.18 T
+GRTNG CARD                       20.34 T
+FM PLUS CARD SAV                 2.16- T
+KRO TRASH BAGS 40CT               6.49 T
+KRO TOOTHPASTE                   16.40 T
+AA BTTRS 8PK                     24.36 T
+
+SUBTOTAL                          145.63
+TAX 10.55% ON 145.63               15.36
+TOTAL                             160.99
+DISCOVER TEND                     160.99
+CHANGE                              0.00
+
+07/10/26 19:43  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

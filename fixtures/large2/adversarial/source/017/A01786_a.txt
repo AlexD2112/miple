@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 2356
+
+CHKN DRMSTCKS                     8.97 F
+SMPL TRTH CELERY                  4.32 F
+MFR CPN                          0.48-  
+  2 @ 2.79
+FM CORN TORT                      5.58 F
+KRO PARMIGIANO REGGIANO           7.82 F
+CC-CL 12 PK CANS                  2.77 T
+  3.92 lb @ 3.76 /lb
+CAULIFLOWER                      14.74 F
+  2.79 lb @ 3.76 /lb
+CAULIFLOWER                      10.49 F
+WHITE SANDWICH BRD                7.03 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+  2.76 lb @ 18.16 /lb
+FM COD FLLT                      50.12 F
+JASMINE RICE 25 LB                8.09 F
+SMPL TRTH CRRTS                   1.79 F
+DAVES KILLER BRD                  6.69 F
+
+SUBTOTAL                          156.10
+TAX 10.55% ON 2.77                  0.29
+TOTAL                             156.39
+VISA TEND                         156.39
+CHANGE                              0.00
+
+01/28/26 12:41  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 2762
+
+CRACKERS                          2.00 F
+FM GOAT CHS                       8.35 F
+SMPL TRTH POTATO CHIPS            5.07 F
+  0.96 lb @ 14.17 /lb
+SMPL TRTH BLACK FOREST HAM       13.60 F
+KRO SAVINGS                      1.31-  
+HEINZ KETCHUP 32 OZ               4.48 F
+  3.16 lb @ 2.08 /lb
+KIWI                              6.57 F
+FM PLUS CARD SAV                 1.44-  
+KRO BTTLD WTR 24PK                9.32 F
+  1.61 lb @ 1.96 /lb
+ORGANIC GRAPE TOMATOES PINT       3.16 F
+DARK CHOCOLATE PEANUT BUTTER CUP  5.61 F
+KRO SAVINGS                      0.21-  
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+  2.58 lb @ 6.33 /lb
+SMPL TRTH WHOLE CHICKEN          16.33 F
+CHKN GYOZA PTSTCKRS               9.88 F
+ITALIAN SSG BULK                  9.93 F
+MFR CPN                          2.91-  
+SMPL TRTH WHL WHT SANDWICH BRD    2.54 F
+
+SUBTOTAL                           99.85
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              99.85
+DEBIT TEND                         99.85
+CHANGE                              0.00
+
+08/29/26 14:55  ITEMS 14
+T=TAXABLE  F=FOOD
+               THANK YOU

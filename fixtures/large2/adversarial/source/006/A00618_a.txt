@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2632  Seattle WA
+            MEMBER ************
+
+326070 PAPER PLATES                   3.31 A
+177772 SLICED TURKEY BREAST           9.09 E
+     0.69 lb @ 13.18 /lb
+883784 KS PENNE                      13.38 E
+1513172 KS TORTILLA CHIPS             3.33 E
+1244616 KS GOAT CHS                   8.35 E
+1891189 KS SOY SAUCE                  6.79 E
+357897 BLACK BEANS 15 OZ CAN         10.76 E
+856051 HOUSE FOODS EXTRA FIRM TOFU    8.34 E
+     3 @ 2.78
+7665086 TPD/HOUSE FOODS              1.91-  
+1636272 BLACK FOREST HAM 9 OZ         7.00 E
+802206 KS CHKN BROTH CARTON           8.38 E
+1153889 ARUGULA                       4.00 E
+
+SUBTOTAL                               80.82
+TAX 10.55% ON 3.31                      0.35
+**** TOTAL                             81.17
+VISA TEND                              81.17
+CHANGE                                  0.00
+
+10/01/26 20:33  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

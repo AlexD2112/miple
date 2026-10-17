@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1830  Seattle WA
+            MEMBER ************
+
+1747654 ORG HNYCRSP APPLES            0.37 E
+     0.28 lb @ 1.33 /lb
+1507631 CILANTRO                      4.64 E
+     4 @ 1.16
+9848895 TPD/CILANTRO                 0.68-  
+318851 ALL PRPS FLOUR                11.36 E
+1028915 KS SRDGH LOAF                 7.47 E
+
+SUBTOTAL                               23.16
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             23.16
+DISCOVER TEND                          23.16
+CHANGE                                  0.00
+
+02/08/26 19:23  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

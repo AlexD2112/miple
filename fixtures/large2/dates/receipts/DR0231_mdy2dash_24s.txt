@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0066
+
+SMPL TRTH COLA 12PK               1.83 T
+KRO SPAGHETTI                     9.54 F
+  3 @ 2.77
+SMPL TRTH HAMBURGER BUNS          8.31 F
+KRO CAGE FREE EGGS 18CT           6.85 F
+DIGITAL CPN                      1.89-  
+CHKN THIGHS                       9.29 F
+YUKON GOLD POTS                   3.99 F
+KRO BAGELS                        3.77 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+
+SUBTOTAL                           50.11
+TAX 10.55% ON 1.83                  0.19
+TOTAL                              50.30
+DISCOVER TEND                      50.30
+CHANGE                              0.00
+
+09-14-28 02:28:39  1817 12 132 7
+ITEMS 17   REG 15  TRANS 5159
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

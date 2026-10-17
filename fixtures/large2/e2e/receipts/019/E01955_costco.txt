@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3168  Seattle WA
+            MEMBER ************
+
+1423907 ALUMINUM FOIL                18.03 A
+1017512 KS ORANGE JUICE 52OZ          9.39 E
+1164012 KS LAUNDRY DETERGENT PODS    20.18 A
+1205700 FOSTER FARMS BNLS SKNLS CHK  40.42 E
+     5.29 lb @ 7.64 /lb
+9651416 TPD/FOSTER FARMS             2.40-  
+195685 BABY SPNCH 5 OZ                7.54 E
+     2 @ 3.77
+2353460 TPD/BABY SPNCH 5             2.26-  
+1124176 KS KRRYGLD BTR               10.81 E
+1032530 KS QUINOA                     7.75 E
+0564232 TPD/QUINOA                   1.77-  
+1107478 SPRKLG WTR 8PK               20.52 E
+     4 @ 5.13
+330696 KS GRND TRKY                   5.19 E
+1244127 TPD/GRND TRKY                1.56-  
+608094 DARIGOLD UNSLTD BTR            6.67 E
+372804 RDCD FAT 2% MLK GALLON         6.54 E
+1327788 PLAIN GOAT CHS                5.77 E
+1186980 KS PORK CHOPS                43.29 E
+     3.90 lb @ 11.10 /lb
+1881949 SILKEN TOFU                   4.58 E
+     2 @ 2.29
+1950995 ORG LEMONS                    1.19 E
+     0.42 lb @ 2.83 /lb
+
+SUBTOTAL                              199.88
+TAX 10.55% ON 38.21                     4.03
+**** TOTAL                            203.91
+DEBIT TEND                            203.91
+CHANGE                                  0.00
+
+05/23/26 14:33  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

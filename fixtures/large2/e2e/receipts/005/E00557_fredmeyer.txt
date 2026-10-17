@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 1972
+
+  1.56 lb @ 1.79 /lb
+SMPL TRTH BEETS                   2.79 F
+  2 @ 5.22
+STRWB 1 LB                       10.44 F
+MANDARIN ORANGE CHKN             15.87 F
+KRO HMBRGR BUNS                   2.77 F
+MFR CPN                          0.83-  
+LG BROWN EGGS                     4.29 F
+FM PLUS CARD SAV                 1.29-  
+KRO FRZN PIZZA                   13.30 F
+SMPL TRTH SPAGHETTI               9.54 F
+KRO HAND SOAP                    24.27 T
+SMPL TRTH TILLAMOOK MEDIUM CHDR  11.77 F
+KRO TORTILLA CHIPS                3.33 F
+  4 @ 4.67
+HNYCRSP APPLES                   18.68 F
+  1.22 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            16.76 F
+FM DELI FRIED CHKN               11.75 T
+SMPL TRTH ROLLED OATS             3.98 F
+  2.63 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                5.15 F
+KRO SAVINGS                      1.55-  
+SMPL TRTH BABY CARROTS            2.49 F
+KRO SALTED BUTTER                 5.73 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          159.32
+TAX 10.55% ON 36.10                 3.81
+TOTAL                             163.13
+DEBIT TEND                        163.13
+CHANGE                              0.00
+
+01/27/26 17:53  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

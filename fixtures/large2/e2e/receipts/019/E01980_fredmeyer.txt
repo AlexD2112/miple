@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 1917
+
+PEPSI 12 PK CANS                  4.93 T
+FM LEMONADE 52OZ                  5.79 T
+FRESH MOZZ                        8.65 F
+SMPL TRTH GRND TRKY               5.19 F
+2% MLK 2 X 1 GAL                  4.70 F
+FM PLUS CARD SAV                 0.82-  
+  0.66 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             1.52 F
+ORG SPRTD TOFU                    2.61 F
+  2 @ 2.77
+COCA-COLA 12 PK CANS              5.54 T
+DIGITAL CPN                      1.08- T
+  2.71 lb @ 1.96 /lb
+ORGANIC GRAPE TOMATOES PINT       5.31 F
+FRESH MINT                        2.74 F
+FRESH MOZZ                        8.65 F
+FM 2% MLK GALLON                  6.49 F
+CHKN GYOZA POTSTICKERS            9.88 F
+RUSSET POTATOES 5 LB BAG          4.53 F
+
+SUBTOTAL                           74.63
+TAX 10.55% ON 15.18                 1.60
+TOTAL                              76.23
+AMEX TEND                          76.23
+CHANGE                              0.00
+
+07/12/26 11:45  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

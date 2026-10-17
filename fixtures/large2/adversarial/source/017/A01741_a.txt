@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 1161
+TAX EXEMPT ID ******2278
+
+  0.78 lb @ 17.98 /lb
+UNEXPECTED CHDR                  14.02 F
+SMPL TRTH ROTISSERIE CHICKEN      5.04 T
+LEMON                             4.30 F
+FROZEN DUMPLINGS                 15.61 F
+  3.79 lb @ 2.83 /lb
+ORGANIC LEMONS                   10.73 F
+KRO LMND 52OZ                     5.79 T
+DIGITAL CPN                      1.74- T
+DARK CHOC PNT BTR CUPS            5.61 F
+  2.73 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                42.48 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          102.08
+TAX EXEMPT                          0.00
+TOTAL                             102.08
+DEBIT TEND                        102.08
+CHANGE                              0.00
+
+03/14/26 14:52  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2148  Seattle WA
+            MEMBER ************
+
+1679039 KS ITALIAN SAUSAGE BULK       9.93 E
+3482573 TPD/ITALIAN SAUS             2.62-  
+1308520 KS SWISS CHARD                5.74 E
+     2 @ 2.87
+760151 BLACK FOREST HAM 9 OZ          7.00 E
+343674 EXTRA FIRM TOFU                9.28 E
+     4 @ 2.32
+4437297 TPD/EXTRA FIRM T             2.45-  
+1943513 TILLAMOOK VAN YGRT            4.05 E
+308385 TILLAMOOK ICE CRM 48 OZ        8.88 E
+1047906 TPD/TILLAMOOK IC             2.66-  
+1468033 KS ROLLED OATS                3.98 E
+1062425 ATLANTIC SLMN FLLT           19.77 E
+530712 KS GRND CHKN                  19.23 E
+     3.80 lb @ 5.06 /lb
+5730729 TPD/GRND CHKN                2.48-  
+
+SUBTOTAL                               77.65
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             77.65
+DEBIT TEND                             77.65
+CHANGE                                  0.00
+
+05/27/26 19:24  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

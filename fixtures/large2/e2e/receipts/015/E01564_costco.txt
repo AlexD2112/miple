@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1407  Seattle WA
+            MEMBER ************
+
+1637784 KS ROOT BEER 2L               5.24 A
+0305960 TPD/ROOT BEER 2L             1.52- A
+1096829 PAPER PLATES                  3.31 A
+899501 ORGANIC RASPBERRIES 6 OZ       6.28 E
+46225 BROCCOLI CROWNS                 6.75 E
+     3 @ 2.25
+348961 KS BABY CRRTS                  2.49 E
+1180518 KS COLA 12PK CANS             1.51 A
+774426 GRND BF 88/12                 12.96 E
+     2.16 lb @ 6.00 /lb
+1849683 KS SWEET POTATOES             3.28 E
+369016 BONELESS PORK LOIN CHOPS       7.65 E
+     0.77 lb @ 9.93 /lb
+
+SUBTOTAL                               47.95
+TAX 10.55% ON 8.54                      0.90
+**** TOTAL                             48.85
+DEBIT TEND                             48.85
+CHANGE                                  0.00
+
+04/30/26 10:21  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

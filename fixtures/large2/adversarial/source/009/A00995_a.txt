@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2813
+
+  2 @ 5.88
+STRWB 2 LB                       11.76 F
+  0.83 lb @ 2.83 /lb
+ORG LEMONS                        2.35 F
+PRIV SEL SPAGHETTI                9.54 F
+KRO UNSLTD BTR                    9.95 F
+
+SUBTOTAL                           33.60
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              33.60
+MASTERCARD TEND                    33.60
+CHANGE                              0.00
+
+05/12/26 10:17  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

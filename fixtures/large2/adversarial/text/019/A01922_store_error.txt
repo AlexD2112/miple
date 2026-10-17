@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1385  Seattle WA
+            MEMBER ************
+
+279328 KS SWEET POTS                  3.28 E
+1347101 ALMOND MLK                    5.08 E
+1282718 UNSLTD BTR                    9.95 E
+
+SUBTOTAL                               18.31
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             19.31
+DISCOVER TEND                          19.31
+CHANGE                                  0.00
+
+07/28/26 16:08  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 0303
+
+  2 @ 2.37
+BANANA                            4.74 F
+FM TORTILLA CHIPS                 3.33 F
+MFR CPN                          1.00-  
+SHREDDED CHDR 8 OZ                6.42 F
+REDUCED FAT 2% MLK GALLON         6.54 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           20.27
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              20.30
+AMEX TEND                          20.30
+CHANGE                              0.00
+
+02/26/26 14:56  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

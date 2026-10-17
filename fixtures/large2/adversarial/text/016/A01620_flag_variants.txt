@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3467  Seattle WA
+            MEMBER ************
+
+1680342 BRUSSELS SPROUTS              7.92  
+     3.40 lb @ 2.33 /lb
+266001 BNLS PORK LOIN CHOPS          39.42  
+     3.97 lb @ 9.93 /lb
+18399 PARMIGIANO RGGN WEDGE           8.42  
+340896 KS BLACK BEANS CAN             8.77  
+4843604 TPD/BLACK BEANS              1.63-  
+647845 KS DAVES KILLER BRD            6.69  
+
+SUBTOTAL                               69.59
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             69.59
+MASTERCARD TEND                        69.59
+CHANGE                                  0.00
+
+03/30/26 10:45  ITEMS 5
+TX=TAXABLE ITEM
+                 THANK YOU

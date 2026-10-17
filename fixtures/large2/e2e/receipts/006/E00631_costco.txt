@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1108  Seattle WA
+            MEMBER ************
+
+1435092 DELI SLICED TURKEY BREAST     8.79 E
+     0.80 lb @ 10.99 /lb
+273122 HEINZ KTCHP 32 OZ              8.96 E
+     2 @ 4.48
+5353417 TPD/HEINZ KTCHP              2.68-  
+271900 KS TUNA CAN                    1.08 E
+8947011 TPD/TUNA CAN                 0.32-  
+110378 KS AVOCADOS                    4.05 E
+2909910 TPD/AVOCADOS                 1.21-  
+1410509 LEMON                         8.60 E
+     2 @ 4.30
+1415222 FOSTER FARMS BNLS SKNLS CHK  32.62 E
+     4.27 lb @ 7.64 /lb
+1283103 MAYONNAISE                    6.36 E
+306221 BLACK FOREST HAM              18.28 E
+     1.29 lb @ 14.17 /lb
+456876 ORG TOMATO BASIL MARINARA     23.76 E
+     4 @ 5.94
+777686 KS LAMB CHOPS                 53.94 E
+     3.16 lb @ 17.07 /lb
+1437129 KS PNT BTR                    6.90 E
+1682012 CHKN GYOZA POTSTICKERS        9.88 E
+749706 JENNIE-O GRND TRKY 1 LB        6.60 E
+1613220 HNYCRSP APPLES                4.67 E
+781196 KS PASTURE RAISED EGGS         7.37 E
+1205606 DICED TOM CAN                 2.98 E
+1854795 KS BTR LTTC                   2.45 E
+242231 KS KTCHP                       5.49 E
+0424452 TPD/KTCHP                    1.15-  
+381292 LEMONADE 52OZ                  5.79 A
+
+SUBTOTAL                              213.21
+TAX 10.55% ON 5.79                      0.61
+**** TOTAL                            213.82
+AMEX TEND                             213.82
+CHANGE                                  0.00
+
+04/09/26 10:21  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

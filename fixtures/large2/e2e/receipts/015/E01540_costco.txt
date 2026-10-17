@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1299  Seattle WA
+            MEMBER ************
+
+482177 BNLS CHKN THIGHS              27.08 E
+     6.24 lb @ 4.34 /lb
+1729787 FRZN PEAS 12 OZ               5.40 E
+1720296 KS ICEBERG LTTC              10.22 E
+     2 @ 5.11
+1352280 2% MILK GALLON                6.49 E
+1400784 LG BROWN CAGE FREE EGGS       4.10 E
+218858 KS RADISHES                    2.02 E
+     1.92 lb @ 1.05 /lb
+555819 RADISHES                       1.16 E
+     1.10 lb @ 1.05 /lb
+879428 FLOUR TORT 10 CT               9.40 E
+     4 @ 2.35
+643207 KS CARROTS                     1.79 E
+1045561 KS BRTLTT PEARS               9.00 E
+     3 @ 3.00
+702065 2% MLK 2 X 1 GAL               4.70 E
+462674 LG EGGS 18 CT                  7.52 E
+504018 MANDARIN ORANGE CHICKEN       15.87 E
+1095702 ROMA TOM                      2.38 E
+123558 CRSSNTS 12 CT                  4.87 E
+1875701 CHICKEN BROTH CARTON          8.38 E
+
+SUBTOTAL                              120.38
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            120.38
+DEBIT TEND                            120.38
+CHANGE                                  0.00
+
+02/26/26 11:09  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

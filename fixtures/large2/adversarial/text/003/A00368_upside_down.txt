@@ -1,0 +1,43 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+08/16/26 08:56  ITEMS 21
+
+CHANGE                              0.00
+AMEX TEND                         226.98
+TOTAL                             226.98
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                          226.98
+
+SMPL TRTH SPRING MIX              5.44 F
+BONELESS PORK LOIN CHOPS         39.42 F
+  3.97 lb @ 9.93 /lb
+KRO BNLS SKNLS CHKN BRST         36.73 F
+  5.49 lb @ 6.69 /lb
+SMPL TRTH FRESH DILL              0.90 F
+DARK CHOCOLATE PEANUT BUTTER CUP  5.61 F
+SMPL TRTH RUSSET POTATOES         1.66 F
+  1.47 lb @ 1.13 /lb
+PLAIN NONFAT GRK YGRT             4.65 F
+REDUCED FAT 2% MILK GALLON        6.54 F
+MFR CPN                          1.33-  
+KRO LAMB CHOPS                   67.26 F
+  3.94 lb @ 17.07 /lb
+SMPL TRTH GRND COFFEE             9.64 F
+SMPL TRTH BEETS                   4.73 F
+  2.64 lb @ 1.79 /lb
+PRIV SEL PSTR RAISED EGGS         7.37 F
+RADISHES                          1.51 F
+  1.44 lb @ 1.05 /lb
+RASPB                             7.24 F
+MFR CPN                          0.61-  
+TILLAMOOK VAN YGRT                8.10 F
+  2 @ 4.05
+ORG LEMONS                        3.40 F
+  1.20 lb @ 2.83 /lb
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+SMPL TRTH LIMES                   8.40 F
+  3 @ 2.80
+
+         Seattle WA  Store 3568
+          Quality Food Centers
+                  QFC

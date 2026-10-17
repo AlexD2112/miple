@@ -1,0 +1,47 @@
+               FRED MEYER
+               Seattle WA
+               Store 3689
+
+  2 @ 3.77
+BABY SPNCH 5 OZ                   7.54 F
+NAPKINS                          24.05 T
+LAUNDRY DETERGENT PODS           20.18 T
+JASMINE RICE 25 LB                8.09 F
+SMPL TRTH TILLAMOOK MEDIUM CHDR  11.77 F
+KRO SAVINGS                      0.61-  
+  3 @ 5.40
+FRZN PEAS 12 OZ                  16.20 F
+  2 @ 5.88
+STRAWBERRIES 2 LB                11.76 F
+ORGANIC GALA APPLES               1.57 F
+  0.31 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             0.71 F
+  2.86 lb @ 0.76 /lb
+SMPL TRTH MANGO                   2.17 F
+RED GRAPES                        3.04 F
+  6.39 lb @ 6.33 /lb
+WHL CHKN                         40.45 F
+MFR CPN                          2.50-  
+  4 @ 2.09
+SALSA JAR                         8.36 F
+SMPL TRTH DELI FRIED CHKN        11.75 T
+  2.81 lb @ 15.56 /lb
+BONELESS RIBEYE STEAK            43.72 F
+ROMAINE LTTC                      2.79 F
+  3 @ 4.87
+CRSSNTS 12 CT                    14.61 F
+SWISS CHARD                       2.87 F
+  3 @ 3.99
+RANCH DRSSNG                     11.97 F
+FM PLUS CARD SAV                 2.02-  
+PAPER PLATES                      3.31 T
+
+SUBTOTAL                          241.78
+TAX 10.55% ON 59.29                 6.26
+TOTAL                             248.04
+DISCOVER TEND                     248.04
+CHANGE                              0.00
+
+10/04/26 18:00  ITEMS 31
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

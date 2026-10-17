@@ -1,0 +1,46 @@
+               FRED MEYER
+               Seattle WA
+               Store 3432
+FUEL POINTS BALANCE     227
+REG 10 TRN 7946 OPR 801
+WIN A 500.00 GIFT CARD
+
+SMPL TRTH BABY CARROTS            2.49 F
+  0.55 lb @ 1.05 /lb
+SMPL TRTH RDSHS                   0.58 F
+SMPL TRTH EXTRA FIRM TOFU         2.32 F
+SMPL TRTH CRRTS                   1.79 F
+  4 @ 2.54
+WHL WHT SANDWICH BRD             10.16 F
+WHITE SANDWICH BRD                7.03 F
+STRWB                             4.35 F
+  2 @ 3.83
+FM COCONUT MLK CAN                7.66 F
+KOMBUCHA 16OZ                     4.58 F
+KRO DICED TOM CAN                 2.98 F
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+  3 @ 1.51
+COLA 12PK CANS                    4.53 T
+REDUCED FAT 2% MLK GALLON         6.54 F
+GREETING CARD                    20.34 T
+KRO SAVINGS                      2.09- T
+FRZN PEAS                        13.98 F
+SMPL TRTH SHRP CHDR BLOCK        10.33 F
+CELERY HEARTS                     4.34 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          113.15
+TAX 10.55% ON 22.94                 2.42
+TOTAL                             115.57
+CASH TEND                         120.00
+CHANGE                              4.43
+
+07/27/26 16:43  ITEMS 24
+T=TAXABLE  F=NONTAXABLE FOOD
+NEXT VISIT COUPON          3.00 OFF
+RETURNS WITHIN 90 DAYS
+FUEL POINTS THIS ORDER        238
+BOTTLE RETURNS ACCEPTED    0.10/EA
+               THANK YOU

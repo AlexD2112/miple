@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0267
+
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH DIJON MUSTARD   7.38- F
+RETURN FRESH BASIL               2.74- F
+RETURN CARROTS 2 LB              1.74- F
+RETURN SMPL TRTH ZUCCHINI        9.90- F
+RETURN ASPRGS                   11.72- F
+RETURN PRIV SEL ATLANTIC SLMN   19.77- F
+
+SUBTOTAL                          53.25-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             53.25-
+VISA TEND                         53.25-
+CHANGE                              0.00
+
+02/04/26 11:42  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

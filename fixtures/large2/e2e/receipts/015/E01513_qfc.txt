@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1127
+
+SMPL TRTH SPAGHETTI               9.54 F
+KRO CHICKEN BROTH CARTON          8.38 F
+  3 @ 2.29
+KRO SILKEN TOFU                   6.87 F
+DARIGOLD UNSLTD BTR               6.67 F
+  4.87 lb @ 6.00 /lb
+GROUND BEEF 88/12                29.22 F
+SMPL TRTH BAGELS                  3.77 F
+GRND BF 80/20                     6.57 F
+DARIGOLD UNSLTD BTR               6.67 F
+HAND SOAP                        24.27 T
+ORGNL HUMMUS 10 OZ                8.88 F
+
+SUBTOTAL                          110.84
+TAX 10.55% ON 24.27                 2.56
+TOTAL                             113.40
+MASTERCARD TEND                   113.40
+CHANGE                              0.00
+
+10/01/26 19:08  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

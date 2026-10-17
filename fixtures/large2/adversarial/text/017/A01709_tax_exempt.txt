@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3531  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******6645
+
+1952237 KS ALL PURPOSE FLOUR         11.36 E
+49894 SILKEN TOFU                     2.29 E
+1397465 GROUND COFFEE                 9.64 E
+697399 KS PARMIGIANO REGGIANO         7.82 E
+1387343 BLACK FOREST HAM 9 OZ         7.00 E
+52595 KS SWISS CHARD                 11.48 E
+     4 @ 2.87
+999380 ORIGINAL HUMMUS 10 OZ          8.88 E
+160165 STRWB 1 LB                    15.66 E
+     3 @ 5.22
+1680054 ORG TOMATO BASIL MARINARA     5.94 E
+472350 LEMON                          8.60 E
+     2 @ 4.30
+673319 LIGHT BULBS 4PK               17.04 A
+
+SUBTOTAL                              105.71
+TAX EXEMPT                              0.00
+**** TOTAL                            105.71
+MASTERCARD TEND                       105.71
+CHANGE                                  0.00
+
+09/28/26 08:49  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

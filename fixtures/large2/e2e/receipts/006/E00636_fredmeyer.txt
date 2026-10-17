@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 3498
+
+FRZN BROC FLORETS                 8.13 F
+KRO SAVINGS                      1.05-  
+CROISSANTS 12 CT                  4.87 F
+MFR CPN                          1.46-  
+KRO TUNA CAN                      1.08 F
+KOMBUCHA 16OZ                     4.58 F
+KRO BATH TISSUE 12 ROLL          23.08 T
+BATH TISSUE 12 ROLL              23.08 T
+DIGITAL CPN                      1.71- T
+CELERY HEARTS                     4.34 F
+CAGE FREE EGGS 18CT               6.85 F
+FM DICED TOMATOES CAN             2.98 F
+BAG FEE                           0.08 T
+  REFUND - ORIG RECEIPT
+RETURN KOMBUCHA 16OZ             4.58- F
+
+SUBTOTAL                           70.27
+TAX 10.55% ON 44.53                 4.70
+TOTAL                              74.97
+DEBIT TEND                         74.97
+CHANGE                              0.00
+
+12/31/26 13:20  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

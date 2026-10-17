@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1871  Seattle WA
+            MEMBER ************
+
+148836 BRIE                           4.85 E
+1173461 CHBN PLAIN GRK YGRT 32 OZ     1.47 E
+8108820 TPD/CHBN PLAIN G             0.44-  
+255761 FROZEN WAFFLES                 7.05 E
+1690090 KS HALF AND HALF              5.34 E
+1825464 ITALIAN PARSLEY               8.79 E
+     3 @ 2.93
+1188678 KS LMND 52OZ                 17.37 A
+     3 @ 5.79
+1186424 CHOBANI PLAIN GRK YGRT 32 OZ  1.47 E
+1581539 KS FRESH MINT                 2.74 E
+1044066 DIGIORNO RISING CRUST PEPPER  5.73 E
+1991002 KS GRND COFFEE                9.64 E
+587458 KS FRZN PIZZA                 13.30 E
+1671884 AVOCADOS                      4.05 E
+1111781 JSMN RICE 5 LB                2.98 E
+     2 @ 1.49
+712241 KS SWISS CHARD                 2.87 E
+1878404 KS BRIE                       4.85 E
+1645438 DELI SLCD TRKY BRST          13.30 E
+     1.21 lb @ 10.99 /lb
+637050 KS YELLOW ONIONS               1.78 E
+1390517 KS CHUCK ROAST               19.37 E
+     1.41 lb @ 13.74 /lb
+412852 SHREDDED MOZZ 8 OZ             2.92 E
+
+SUBTOTAL                              129.43
+TAX 10.55% ON 17.37                     1.83
+**** TOTAL                            131.26
+DISCOVER TEND                         131.26
+CHANGE                                  0.00
+
+03/13/26 08:14  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

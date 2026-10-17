@@ -1,0 +1,25 @@
+              TRADER JOE'S
+        Store #2841  Portland OR
+      OPEN 8:00AM TO 9:00PM DAILY
+
+DOG TREATS                        6.82  
+AA BATTERIES 8PK                 24.36  
+DOG TREATS                        6.82  
+GREETING CARD                    20.34  
+LAUNDRY DETERGENT PODS           20.18  
+PLASTIC WRAP                      4.77  
+PLASTIC WRAP                      4.77  
+SPONGES 3PK                       9.54  
+DISH SOAP                        19.39  
+TRASH BAGS 40CT                   6.49  
+SPONGES 3PK                       9.54  
+
+SUBTOTAL                          133.02
+TAX                                 0.00
+TOTAL                             133.02
+DEBIT TEND                        133.02
+CHANGE                              0.00
+
+10/01/26 09:48  ITEMS 11
+T=TAXABLE
+               THANK YOU

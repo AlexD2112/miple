@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1848  Seattle WA
+            MEMBER ************
+
+1084800 LARGE EGGS 18 CT              7.52 E
+682372 TILLAMOOK ICE CRM 48 OZ        8.88 E
+1580608 UNSALTED BUTTER 4 X 1 LB      9.48 E
+1580608 UNSALTED BUTTER 4 X 1 LB      9.48 E
+78665 BNLS RIBEYE STEAK              36.57 E
+     2.35 lb @ 15.56 /lb
+1973279 TOOTHPASTE                   16.40 A
+
+SUBTOTAL                               88.33
+TAX 10.55% ON 16.40                     1.73
+**** TOTAL                             90.06
+VISA TEND                              90.06
+CHANGE                                  0.00
+
+06/03/26 09:41  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

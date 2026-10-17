@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0461
+
+LG EGGS 12 CT                     8.69 F
+  2.92 lb @ 1.60 /lb
+JLPN                              4.67 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           13.44
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              13.45
+MASTERCARD TEND                    13.45
+CHANGE                              0.00
+
+02/01/26 12:43  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 3661
+
+MNDRN ORANGE CHKN                15.87 F    
+  0.72 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS              7.15 F
+   SMPL TRTH RED GRAPES              3.04 F
+  3 @ 3.92
+  BLCKBRRS                         11.76 F
+MYNNS 30 OZ                       6.42 F
+FM ROLLED OATS                    3.98 F  
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+CHOBANI PLAIN GRK YGRT 32 OZ      1.47 F
+PEPSI 12 PK CANS                  4.93 T
+KRO AHI TUNA STEAK               14.71 F
+KRO NAPKINS	24.05 T
+CABOT SHRP CHDR 8 OZ               8.48 F
+  4 @ 5.54
+ORG BABY SPNCH	22.16 F
+ DIGITAL CPN                      0.27-  
+
+SUBTOTAL	125.95
+TAX 10.55% ON 28.98                 3.06
+TOTAL                             129.01
+AMEX TEND                         129.01
+CHANGE 0.00
+
+09/27/26 11:16  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

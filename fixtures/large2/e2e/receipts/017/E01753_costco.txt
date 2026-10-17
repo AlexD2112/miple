@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1569  Seattle WA
+            MEMBER ************
+
+1219603 KS AVOCADOS                   4.05 E
+33475 SOURDOUGH LOAF                  7.47 E
+997625 KS BOTTLED WTR 24PK            9.32 E
+601499 PORK TENDERLOIN               16.60 E
+     1.72 lb @ 9.65 /lb
+1390109 ORG BASIL CLAMSHELL           1.49 E
+183470 KS ATLANTIC SLMN FLLT         19.77 E
+7914101 TPD/ATLANTIC SLM             1.45-  
+311234 KS DAVES KILLER BRD            6.69 E
+927803 KS DIET COLA 12PK CANS         4.42 A
+436875 CHKN DRMSTCKS                  8.97 E
+288341 KS ITALIAN SAUSAGE BULK        9.93 E
+
+SUBTOTAL                               87.26
+TAX 10.55% ON 4.42                      0.47
+**** TOTAL                             87.73
+VISA TEND                              87.73
+CHANGE                                  0.00
+
+08/08/26 16:27  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

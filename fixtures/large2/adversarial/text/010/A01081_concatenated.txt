@@ -1,0 +1,65 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3649  Seattle WA
+            MEMBER ************
+
+1456931 KS CHERRY TOM                 1.15 E
+1333520 PORK TENDERLOIN              10.42 E
+     1.08 lb @ 9.65 /lb
+114559 KS LEMONS                     12.57 E
+     3 @ 4.19
+727559 GINGER ALE 12PK                6.02 A
+565227 KS ARGL                       12.00 E
+     3 @ 4.00
+1491531 GRND CHKN                    20.14 E
+     3.98 lb @ 5.06 /lb
+3360234 TPD/GRND CHKN                0.94-  
+744033 KS RICOTTA                     8.76 E
+2030306 TPD/RICOTTA                  2.41-  
+1800568 PRSNPS                        5.22 E
+     2.15 lb @ 2.43 /lb
+
+SUBTOTAL                               72.93
+TAX 10.55% ON 6.02                      0.64
+**** TOTAL                             73.57
+MASTERCARD TEND                        73.57
+CHANGE                                  0.00
+
+10/03/26 17:46  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+                 TARGET
+           Seattle WA  T-0299
+             (555) 030-2734
+
+GG CELERY                         4.32 N
+  3 @ 5.73
+DIGIORNO RISING CRUST PPPRN PIZ  17.19 N
+  2 @ 1.74
+STRAUS PLAIN GRK YGRT             3.48 N
+CIRCLE DEAL                      0.99-  
+GG ROOT BEER 2L                   5.24 T
+CIRCLE DEAL                      1.05- T
+  2.26 lb @ 5.06 /lb
+GG GRND CHKN                     11.44 N
+DICED TOMATOES 14.5 OZ            1.00 N
+UP&UP FLOWERS BQT                23.70 T
+MKT PANTRY ICE CRM               14.51 N
+GG GRK YGRT PLAIN                 4.11 N
+LNDRY DTRGNT PODS                20.18 T
+COCA-COLA 12 PACK CANS            2.77 T
+  0.29 lb @ 9.25 /lb
+GG SWISS CHEESE                   2.68 N
+GG COCONUT MLK CAN                3.83 N
+GG CAGE FREE EGGS 18CT            6.85 N
+PLASTIC WRAP                      4.77 T
+
+SUBTOTAL                          124.03
+TAX 10.55% ON 55.61                 5.87
+TOTAL                             129.90
+AMEX TEND                         129.90
+CHANGE                              0.00
+
+04/17/26 13:00  ITEMS 18
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

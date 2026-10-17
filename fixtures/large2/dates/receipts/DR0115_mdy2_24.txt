@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0967  Seattle WA
+            MEMBER ************
+
+1875153 KS RANCH DRESSING             3.99 E
+1228157 STRWB 2 LB                   17.64 E
+     3 @ 5.88
+1811744 KS BONELESS SKINLESS CHICKE  32.65 E
+     4.88 lb @ 6.69 /lb
+803305 KS DRIED LENTILS               8.52 E
+     2 @ 4.26
+5414525 TPD/DRIED LENTIL             1.24-  
+1066089 GREEK YOGURT 48 OZ            1.97 E
+8573478 TPD/GREEK YOGURT             0.59-  
+
+SUBTOTAL                               62.94
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             62.94
+AMEX TEND                              62.94
+CHANGE                                  0.00
+
+02/23/27 23:59  925 925 6707 40
+ITEMS 25   REG 04  TRANS 5422
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

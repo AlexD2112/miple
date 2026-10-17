@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0279  Seattle WA
+            MEMBER ************
+
+999699 KS SPRING MIX                 10.88 E
+     2 @ 5.44
+1980317 KS COCONUT MILK CAN          11.49 E
+     3 @ 3.83
+1636901 TILLAMOOK MEDIUM CHEDDAR 2.5  4.21 E
+1508398 KS KIWI                       3.24 E
+     1.56 lb @ 2.08 /lb
+8163519 TPD/KIWI                     0.59-  
+1070356 LCRX LIME SPRKLG WTR 8 PK     2.20 E
+1780243 KS GINGER ALE 12PK            6.02 A
+405513 KS ALMOND MLK                  5.08 E
+1880920 KS COLD BREW COFFEE 32OZ      4.43 E
+730630 KS HAMBURGER BUNS              2.77 E
+
+SUBTOTAL                               49.73
+TAX 10.55% ON 6.02                      0.64
+**** TOTAL                             50.37
+VISA TEND                              50.37
+CHANGE                                  0.00
+
+04/12/26 16:20  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

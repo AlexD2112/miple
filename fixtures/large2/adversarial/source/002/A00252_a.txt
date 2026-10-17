@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2018  Seattle WA
+            MEMBER ************
+
+15229 KS BNLS SKNLS CHKN BRST        39.27 E
+     5.87 lb @ 6.69 /lb
+967538 KS HONEYCRISP APPLES           4.67 E
+5137258 TPD/HONEYCRISP A             1.30-  
+1297122 DOUBLE CREME BRIE             5.40 E
+1018926 GRND PORK                     6.60 E
+9324281 TPD/GRND PORK                1.98-  
+541990 CRMN MSHRM                     4.56 E
+     4 @ 1.14
+2412243 TPD/CRMN MSHRM               1.37-  
+1278289 QUINOA                        7.75 E
+1403649 BRTLTT PEARS                 12.00 E
+     4 @ 3.00
+224064 KS HONEYCRISP APPLES           4.67 E
+0687092 TPD/HONEYCRISP A             0.25-  
+1139373 KS CREMINI MUSHROOMS          1.14 E
+772433 LIMES                          2.80 E
+1544648 CRM CHS 8 OZ                  3.15 E
+1496072 CRSSNTS 12 CT                14.61 E
+     3 @ 4.87
+1855530 KS CHERRY TOMATOES            1.15 E
+1624190 CILANTRO                      1.16 E
+687304 PAPER PLATES                   3.31 A
+364865 SLCD ROAST BF                  5.94 E
+
+SUBTOTAL                              113.28
+TAX 10.55% ON 3.31                      0.35
+**** TOTAL                            113.63
+MASTERCARD TEND                       113.63
+CHANGE                                  0.00
+
+09/05/26 11:50  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

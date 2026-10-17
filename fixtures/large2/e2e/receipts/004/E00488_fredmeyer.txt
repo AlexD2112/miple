@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 3696
+
+  2 @ 2.55
+HUY FONG SRIRACHA                 5.10 F
+FM PLUS CARD SAV                 1.41-  
+FRZN BROC FLORETS                 8.13 F
+BATH TISSUE 12 ROLL              23.08 T
+FM PLUS CARD SAV                 1.56- T
+SHREDDED MOZZ 8 OZ                2.92 F
+  2.77 lb @ 1.60 /lb
+JALAPENO                          4.43 F
+  1.30 lb @ 1.25 /lb
+SMPL TRTH PINEAPPLE               1.63 F
+KRO GRK YGRT PLAIN                4.11 F
+FM TILAPIA FILLETS               21.66 F
+PLAIN GOAT CHS                    5.77 F
+FM DRIED LENTILS                  4.26 F
+DARIGOLD UNSLTD BTR               6.67 F
+KRO RCTT                          8.76 F
+
+SUBTOTAL                           93.55
+TAX 10.55% ON 21.52                 2.27
+TOTAL                              95.82
+DEBIT TEND                         95.82
+CHANGE                              0.00
+
+12/30/26 17:42  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

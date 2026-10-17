@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2868  San Francisco CA
+            MEMBER ************
+
+1638947 CHUCK ROAST                  50.29 E
+     3.66 lb @ 13.74 /lb
+22702 KS ROMAINE LTTC                 2.79 E
+8298444 TPD/ROMAINE LTTC             0.75-  
+662297 RUSSET POTATOES 5 LB BAG       4.53 E
+5218626 TPD/RUSSET POTAT             0.60-  
+572237 ORG LEMONS                     1.10 E
+     0.39 lb @ 2.83 /lb
+1730875 ORANGE JUICE                  7.69 E
+  1 @ 0.05
+CA CRV                                0.05  
+5930223 TPD/ORANGE JUICE             2.31-  
+1459652 KS BABY CARROTS               2.49 E
+3248894 TPD/BABY CARROTS             0.75-  
+
+SUBTOTAL                               64.53
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             64.53
+VISA TEND                              64.53
+CHANGE                                  0.00
+
+02/23/26 08:02  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

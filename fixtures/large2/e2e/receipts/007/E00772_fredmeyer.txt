@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 0128
+
+  2 @ 5.49
+ORG SPRING MIX 1 LB              10.98 F
+SILKEN TOFU                       2.29 F
+MFR CPN                          0.69-  
+KRO PAPER TOWELS 6 ROLL           3.75 T
+KRO SAVINGS                      1.13- T
+KRO CORN TORT                     2.79 F
+MFR CPN                          0.84-  
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+FM TUNA CAN                       1.08 F
+  4 @ 2.29
+SILKEN TOFU                       9.16 F
+KRO SAVINGS                      1.83-  
+
+SUBTOTAL                           32.57
+TAX 10.55% ON 2.62                  0.28
+TOTAL                              32.85
+CASH TEND                          40.00
+CHANGE                              7.15
+
+04/18/26 11:26  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

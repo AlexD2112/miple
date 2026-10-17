@@ -1,0 +1,46 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2807
+REG 28 TRN 3022 OPR 199
+WIN A 500.00 GIFT CARD
+OPEN 6AM - 12AM
+
+  2 @ 3.55
+HNDMD STYLE CORN TORT             7.10 F
+MFR CPN                          0.30-  
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+DIGITAL CPN                      0.48-  
+   REG PRICE 240.80
+ITALIAN PARSLEY                   2.93 F
+ITALIAN PARSLEY                   2.93 F
+  3 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS   14.34 F
+SMPL TRTH SLTD BTR                5.73 F
+KRO GRND COFFEE                   9.64 F
+  2 @ 2.77
+COCA-COLA 12 PK CANS              5.54 T
+SMPL TRTH RASPB                   7.24 F
+SHREDDED CHEDDAR 8 OZ             6.42 F
+  2 @ 2.29
+SMPL TRTH SILKEN TOFU             4.58 F
+YUKON GOLD POTS                   3.99 F
+KRO SAVINGS                      0.21-  
+KRO PREPARED MAC & CHS           10.62 F
+ORGANIC EGGS 24 CT                7.83 F
+PRIV SEL JASMINE RICE            12.13 F
+DIGITAL CPN                      2.46-  
+
+SUBTOTAL                          102.24
+TAX 10.55% ON 5.54                  0.58
+TOTAL                             102.82
+DEBIT TEND                        102.82
+CHANGE                              0.00
+
+05/16/26 15:08  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+CARD #: ************2184
+BOTTLE RETURNS ACCEPTED    0.10/EA
+BALANCE DUE                   0.00
+TOTAL SAVINGS THIS YEAR   271.71
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+               THANK YOU

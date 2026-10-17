@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 3754
+REG 05 TRN 4570 OPR 761
+
+KRO SHMP                         17.57 T
+  0.64 lb @ 11.10 /lb
+FM PORK CHOPS                     7.10 F
+SLCD SOURDOUGH PAN LOAF           4.74 F
+ORGNL HUMMUS 10 OZ                8.88 F
+PRMGN REGGIANO WEDGE              8.42 F
+  2.34 lb @ 1.05 /lb
+SMPL TRTH RDSHS                   2.46 F
+MFR CPN                          0.74-  
+
+SUBTOTAL                           48.43
+TAX 10.55% ON 17.57                 1.85
+TOTAL                              50.28
+DISCOVER TEND                      50.28
+CHANGE                              0.00
+
+01/20/26 14:33  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+BOTTLE RETURNS ACCEPTED    0.10/EA
+CARD #: ************7244
+RETURNS WITHIN 90 DAYS
+SURVEY CODE 1477 2561 3309
+REWARDS BALANCE           376.07
+               THANK YOU

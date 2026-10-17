@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 2002
+
+KRO ITLN SAUSAGE BULK             9.93 F
+SMPL TRTH AHI TUNA STEAK         14.71 F
+DIGITAL CPN                      1.55-  
+CARROTS                           1.79 F
+ATLANTIC SLMN FLLT               19.77 F
+KRO FRZN PIZZA                   13.30 F
+FM TLLMK MEDIUM CHDR             11.77 F
+RASPB                             7.24 F
+KRO ALUMINUM FOIL                18.03 T
+KRO BATH TISSUE 12 ROLL          23.08 T
+  3.08 lb @ 1.13 /lb
+RUSSET POTS                       3.48 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          121.63
+TAX 10.55% ON 41.19                 4.35
+TOTAL                             125.98
+DISCOVER TEND                     125.98
+CHANGE                              0.00
+
+04/25/26 10:24  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

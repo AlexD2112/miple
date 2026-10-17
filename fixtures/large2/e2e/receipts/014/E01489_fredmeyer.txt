@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 2571
+
+BLACKBERRIES                      3.92 F
+  1.43 lb @ 3.42 /lb
+RED BELL PEPR                     4.89 F
+  3.39 lb @ 17.07 /lb
+KRO LAMB CHOPS                   57.87 F
+FM GRND COFFEE                    9.64 F
+GOAT CHS                          8.35 F
+SMPL TRTH SHRP CHDR BLOCK        10.33 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           95.24
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              95.27
+DISCOVER TEND                      95.27
+CHANGE                              0.00
+
+02/06/26 13:55  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

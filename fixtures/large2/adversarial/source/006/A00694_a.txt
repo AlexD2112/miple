@@ -1,0 +1,21 @@
+               FRED MEYER
+              Portland OR
+               Store 1851
+
+  0.51 lb @ 1.05 /lb
+RADISHES                          0.54 F
+  1.66 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                2.66 F
+SMPL TRTH FRZN DUMPLINGS         15.61 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           25.46
+TAX                                 0.00
+TOTAL                              25.46
+DEBIT TEND                         25.46
+CHANGE                              0.00
+
+02/23/26 20:54  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

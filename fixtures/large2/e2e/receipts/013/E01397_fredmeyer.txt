@@ -1,0 +1,33 @@
+               FRED MEYER
+              Portland OR
+               Store 2016
+
+SMPL TRTH AVOCADOS                4.05 F
+FM SPAGHETTI                      9.54 F
+DIGITAL CPN                      0.30-  
+KRO SALSA JAR                     2.09 F
+SMPL TRTH YELLOW ONIN             1.78 F
+  1.53 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                3.00 F
+KRO SAVINGS                      0.47-  
+CHKN THIGHS                       9.29 F
+  2.63 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             26.12 F
+KRO ATLANTIC SALMON FILLET       19.77 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+MFR CPN                          1.26-  
+KRO ALUMINUM FOIL                18.03 F
+FM CRL                            6.63 F
+SMPL TRTH GREEK YOGURT PLAIN      4.11 F
+SMPL TRTH DAVES KILLER BRD        6.69 F
+MFR CPN                          1.03-  
+
+SUBTOTAL                          112.25
+TAX                                 0.00
+TOTAL                             112.25
+DEBIT TEND                        112.25
+CHANGE                              0.00
+
+08/24/26 12:30  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

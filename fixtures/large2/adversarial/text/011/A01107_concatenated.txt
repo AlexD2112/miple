@@ -1,0 +1,59 @@
+                SAFEWAY
+         Store 3706  Seattle WA
+             (555) 010-9051
+
+UNSLTD BTR 4 X 1 LB               9.48 S
+HEINZ KTCHP 32 OZ                 4.48 S
+SIG KTCHNS COLA 12PK              1.83 T
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 S
+
+SUBTOTAL                           26.11
+TAX 10.55% ON 1.83                  0.19
+**** TOTAL                         26.30
+VISA TEND                          26.30
+CHANGE                              0.00
+
+09/04/26 13:04  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU
+
+                 TARGET
+           Seattle WA  T-2701
+             (555) 030-7882
+
+CELERY HEARTS                     4.34 N
+CIRCLE DEAL                      0.81-  
+ORG CARROTS BUNCH                 4.63 N
+  2 @ 2.25
+GG BROC CROWNS                    4.50 N
+  4 @ 3.16
+GG SRIRACHA                      12.64 N
+  0.83 lb @ 13.74 /lb
+GG CHUCK ROAST                   11.40 N
+CAULIFLOWER GNOCCHI               7.85 N
+  4.10 lb @ 6.00 /lb
+GRND BF 88/12                    24.60 N
+REDUCED FAT 2% MLK GALLON         6.54 N
+GG GENOA SALAMI                   4.76 N
+GG YELLOW ONIN                    1.78 N
+FLOUR TORT 10 CT                  2.35 N
+LG EGGS 12 CT                     8.69 N
+TARGET CIRCLE OFFER              0.57-  
+  3 @ 1.15
+CHERRY TOM                        3.45 N
+  3.35 lb @ 2.83 /lb
+ORG LEMONS                        9.48 N
+GG ICBRG LTTC                     5.11 N
+NAPKINS                          24.05 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          134.95
+TAX 10.55% ON 24.21                 2.55
+TOTAL                             137.50
+CASH TEND                         140.00
+CHANGE                              2.50
+
+05/02/26 15:18  ITEMS 22
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

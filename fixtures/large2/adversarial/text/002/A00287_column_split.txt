@@ -1,0 +1,35 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0576
+
+PRIV SEL CHICKEN DRUMSTICKS
+MFR CPN
+UNSLTD BTR 4 X 1 LB
+SMPL TRTH ATLANTIC SLMN FLLT
+CELERY
+SMPL TRTH BLACK BEANS CAN
+LMND 52OZ
+KRO GRNLA BRS
+CHKN BROTH 32 OZ
+CHKN GYOZA POTSTICKERS
+
+8.97 F
+1.35-
+9.48 F
+19.77 F
+4.32 F
+8.77 F
+5.79 T
+6.07 F
+2.81 F
+9.88 F
+
+SUBTOTAL                           74.51
+TAX 10.55% ON 5.79                  0.61
+TOTAL                              75.12
+MASTERCARD TEND                    75.12
+CHANGE                              0.00
+
+01/31/26 21:47  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

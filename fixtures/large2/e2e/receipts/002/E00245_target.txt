@@ -1,0 +1,41 @@
+                 TARGET
+          Portland OR  T-3841
+             (555) 030-5337
+
+CC-CL 12 PK CANS                  2.77 N
+  1 @ 0.10
+OR BTL DEP                        0.10  
+BOTTLED WTR 24PK                  9.32 N
+  24 @ 0.10
+OR BTL DEP                        2.40  
+  1.79 lb @ 6.00 /lb
+GRND BF 88/12                    10.74 N
+ORG RMN HEARTS 3 CT               3.76 N
+RIBEYE STEAK                     19.87 N
+ORG BABY SPNCH 5 OZ               5.85 N
+GINGER ALE 12PK                   6.02 N
+  12 @ 0.10
+OR BTL DEP                        1.20  
+TILLAMOOK ICE CREAM 48 OZ         8.88 N
+CIRCLE DEAL                      1.99-  
+  4 @ 3.92
+GG BLCKBRRS                      15.68 N
+  2.29 lb @ 1.25 /lb
+GG PINEAPPLE                      2.86 N
+CIRCLE DEAL                      0.86-  
+CHKN GYOZA POTSTICKERS            9.88 N
+SPRKLG WTR 8PK                    5.13 N
+  8 @ 0.10
+OR BTL DEP                        0.80  
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                          102.56
+TAX                                 0.00
+TOTAL                             102.56
+DEBIT TEND                        102.56
+CHANGE                              0.00
+
+02/03/26 20:25  ITEMS 15
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 1023
+
+GRND PORK                         6.60 F
+PLASTIC WRAP                      4.77 T
+KRO COLA 12PK                     1.83 T
+AVOCADOS BAG 4 CT                 3.54 F
+
+SUBTOTAL                           16.74
+TAX 10.55% ON 6.60                  0.70
+TOTAL                              17.44
+VISA TEND                          17.44
+CHANGE                              0.00
+
+12/31/29 11:59 PM  6635 18 682 6
+ITEMS 7   REG 15  TRANS 8083
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

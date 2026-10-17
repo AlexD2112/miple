@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1575  Portland OR
+            MEMBER ************
+
+443252 UNSLTD BTR 4 X 1 LB            9.48 E
+1243637 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+584374 BLUBRY 18 OZ                   4.61 E
+1021544 CILANTRO BUNCH                2.02 E
+1532423 KS HONEYCRISP APPLES          4.67 E
+176799 SPARKLING WATER                3.74 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+799369 KS TILLAMOOK MEDIUM CHEDDAR   11.77 E
+4007496 TPD/TILLAMOOK ME             2.87-  
+465791 RIBEYE STEAK                  19.87 E
+1916183 TPD/RIBEYE STEAK             1.03-  
+
+SUBTOTAL                               55.14
+TAX                                     0.00
+**** TOTAL                             55.14
+VISA TEND                              55.14
+CHANGE                                  0.00
+
+2028-04-02 13:03:06  534 534 9418 07
+ITEMS 23   REG 07  TRANS 8272
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

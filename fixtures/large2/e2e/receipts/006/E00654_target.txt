@@ -1,0 +1,21 @@
+                 TARGET
+           Seattle WA  T-3360
+             (555) 030-3305
+
+GG STRWB                          4.35 N
+AA BATTERIES 8PK                 24.36 T
+MKT PANTRY FRZN PEAS             13.98 N
+ITALIAN SAUSAGE BULK              9.93 N
+ORG BABY SPNCH 5 OZ               5.85 N
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           58.63
+TAX 10.55% ON 24.52                 2.59
+TOTAL                              61.22
+DEBIT TEND                         61.22
+CHANGE                              0.00
+
+05/31/26 19:48  ITEMS 5
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

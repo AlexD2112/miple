@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3828  Seattle WA
+            MEMBER ************
+
+364555 BNLS SKNLS CHKN BRST          37.53 E
+     5.61 lb @ 6.69 /lb
+1384857 GRASS-FED GRND BF 85/15       7.35 E
+1012435 GRNLA BRS                     6.07 E
+350913 KS AVOCADOS                    4.05 E
+839587 CHKN BROTH 32 OZ               2.81 E
+  REFUND - ORIG RECEIPT
+RETURN 1384857 GRASS-FED GRND BF 85  7.35- E
+
+SUBTOTAL                               50.46
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             50.46
+AMEX TEND                              50.46
+CHANGE                                  0.00
+
+07/30/26 17:26  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

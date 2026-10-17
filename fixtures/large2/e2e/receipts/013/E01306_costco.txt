@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0985  Seattle WA
+            MEMBER ************
+
+615039 BNLS RIBEYE STEAK             42.48 E
+     2.73 lb @ 15.56 /lb
+4816192 TPD/BNLS RIBEYE              0.58-  
+1607149 ORG RASPB 6 OZ                6.28 E
+363681 JSMN RICE 5 LB                 1.49 E
+139238 KS CHKN THIGHS                 9.29 E
+1929003 KS EXTRA FIRM TOFU            4.64 E
+     2 @ 2.32
+618149 ICEBERG LTTC                   5.11 E
+1720741 KS ALUMINUM FOIL             18.03 A
+8224105 TPD/ALUMINUM FOI             0.43- A
+1613202 KS WHL CHKN                  35.51 E
+     5.61 lb @ 6.33 /lb
+799961 LIMES                          2.80 E
+990935 DRGLD UNSLTD BTR               6.67 E
+1329453 KS PEACHES                    2.44 E
+     3.59 lb @ 0.68 /lb
+592856 KS PNT BTR                     6.90 E
+988078 JASMINE RICE 25 LB             8.09 E
+8852731 TPD/JASMINE RICE             2.43-  
+688086 ORG BABY SPNCH                16.62 E
+     3 @ 5.54
+543344 FOSTER FARMS BNLS SKNLS CHKN  35.22 E
+     4.61 lb @ 7.64 /lb
+
+SUBTOTAL                              198.13
+TAX 10.55% ON 17.60                     1.86
+**** TOTAL                            199.99
+AMEX TEND                             199.99
+CHANGE                                  0.00
+
+09/12/26 19:47  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

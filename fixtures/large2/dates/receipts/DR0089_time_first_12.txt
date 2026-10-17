@@ -1,0 +1,22 @@
+                 TARGET
+        San Francisco CA  T-2191
+             (555) 030-1534
+
+JASMINE RICE 25 LB                8.09 N
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 N
+AVOCADOS BAG 4 CT                 3.54 N
+ORG TOMATO BASIL MARINARA         5.94 N
+GG FRZN MIXED BERRIES             2.06 N
+FRZN PEAS 12 OZ                   5.40 N
+
+SUBTOTAL                           42.46
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              42.46
+VISA TEND                          42.46
+CHANGE                              0.00
+
+BUSINESS DATE 06/20/24
+1:43 AM 06/21/24
+ITEMS 3   REG 18  TRANS 9253
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

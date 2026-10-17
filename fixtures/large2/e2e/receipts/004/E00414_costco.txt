@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0676  Portland OR
+            MEMBER ************
+
+144007 GRND PORK                      6.60 E
+957475 ORG BABY SPNCH                 5.54 E
+1430817 KS ALMOND MILK                5.08 E
+331067 BOTTLED WTR 40 PK              4.90 E
+     2 @ 2.45
+  80 @ 0.10
+OR BTL DEP                            8.00  
+552125 KS FRESH MINT                  2.74 E
+126125 KS CRKRS                       8.00 E
+     4 @ 2.00
+803659 CILANTRO BUNCH                 2.02 E
+1718165 LEMONS                       12.57 E
+     3 @ 4.19
+1879386 SOURDOUGH LOAF                7.47 E
+1777877 KS YUKON GOLD POTS            3.99 E
+294369 FRESH BASIL                   10.96 E
+     4 @ 2.74
+
+SUBTOTAL                               77.87
+TAX                                     0.00
+**** TOTAL                             77.87
+DEBIT TEND                             77.87
+CHANGE                                  0.00
+
+04/21/26 14:48  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

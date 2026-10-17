@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1588  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******7630
+
+1862740 GRASS-FED GRND BF 85/15       7.35 E
+1769501 KS CRM CHS                    8.63 E
+1115926 KS ALUMINUM FOIL             18.03 A
+1624307 BLUBRY                        5.87 E
+1146210 KS FLOUR TORT                 6.18 E
+5713109 TPD/FLOUR TORT               0.94-  
+1815762 KS ROTISSERIE CHICKEN         5.04 A
+1667875 STRWB                         4.35 E
+251880 KS ICEBERG LTTC               15.33 E
+     3 @ 5.11
+552233 BLACK FOREST HAM               4.96 E
+     0.35 lb @ 14.17 /lb
+2801374 TPD/BLACK FOREST             1.49-  
+29876 KS BANANAS                      7.83 E
+     2.70 lb @ 2.90 /lb
+
+SUBTOTAL                               81.14
+TAX EXEMPT                              0.00
+**** TOTAL                             81.14
+DISCOVER TEND                          81.14
+CHANGE                                  0.00
+
+05/26/26 08:06  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

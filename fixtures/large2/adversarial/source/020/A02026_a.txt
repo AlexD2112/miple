@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2799  Seattle WA
+            MEMBER ************
+
+1993007 KS TOOTHPASTE                16.40 A
+65203 ALUMINUM FOIL                  18.03 A
+1700612 PLSTC WRAP                    4.77 A
+1250485 PAPER TOWELS 6 ROLL           3.75 A
+559011 FLOWERS BOUQUET               23.70 A
+254781 KS PAPER TOWELS 6 ROLL         3.75 A
+562720 TRASH BAGS 40CT                6.49 A
+1905218 KS HAND SOAP                 24.27 A
+1415071 KS AA BATTERIES 8PK          24.36 A
+1295931 KS ALUMINUM FOIL             18.03 A
+1813838 KS HAND SOAP                 24.27 A
+
+SUBTOTAL                              167.82
+TAX 10.55% ON 167.82                   17.71
+**** TOTAL                            185.53
+DISCOVER TEND                         185.53
+CHANGE                                  0.00
+
+09/04/26 09:38  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0149
+
+  2 @ 2.72
+SMPL TRTH MANDARINS               5.44 F
+KRO KEFIR                         1.27 F
+  4 @ 4.05
+AVOCADOS                         16.20 F
+FRESH BASIL                       2.74 F
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+DIGITAL CPN                      1.40-  
+HNDMD STYLE CORN TORT             3.55 F
+KRO SOY SAUCE                     6.79 F
+
+SUBTOTAL                           39.26
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              39.26
+DEBIT TEND                         39.26
+CHANGE                              0.00
+
+09/12/2024 12:05  2540 13 399 3
+ITEMS 13   REG 04  TRANS 7901
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

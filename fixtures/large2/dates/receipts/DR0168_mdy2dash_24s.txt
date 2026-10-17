@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2220
+
+  3 @ 2.77
+PRIV SEL HMBRGR BUNS              8.31 F
+TILLAMOOK ICE CREAM 48 OZ         8.88 F
+COCA-COLA 12 PK CANS              2.77 T
+DIGITAL CPN                      0.27- T
+KRO CORN TORTILLAS                2.79 F
+WHL MLK HALF GALLON               6.79 F
+  1.61 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                3.91 F
+SMPL TRTH ROTIS CHKN              5.04 T
+FROZEN BROCCOLI                   1.72 F
+
+SUBTOTAL                           39.94
+TAX 10.55% ON 7.54                  0.80
+TOTAL                              40.74
+VISA TEND                          40.74
+CHANGE                              0.00
+
+10-02-28 04:26:54  2951 37 817 2
+ITEMS 30   REG 06  TRANS 4115
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

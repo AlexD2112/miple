@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 2470
+
+KRO ORANGE JUICE 52OZ             9.39 F
+2% MLK HALF GALLON                6.08 F
+TLLMK VAN YGRT                    4.05 F
+DIGITAL CPN                      1.21-  
+SMPL TRTH JASMINE RICE           12.13 F
+KRO DAVES KILLER BRD              6.69 F
+ORG RASPB 6 OZ                    6.28 F
+FM CHICKEN DRUMSTICKS             8.97 F
+FM GOAT CHS                       8.35 F
+  2 @ 2.80
+SMPL TRTH LIMES                   5.60 F
+SMPL TRTH DELI FRIED CHKN        11.75 T
+GRNLA BRS                         6.07 F
+
+SUBTOTAL                           84.15
+TAX 10.55% ON 11.75                 1.24
+TOTAL                              85.39
+MASTERCARD TEND                    85.39
+CHANGE                              0.00
+
+07/13/26 11:12  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

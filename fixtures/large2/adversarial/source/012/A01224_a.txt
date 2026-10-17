@@ -1,0 +1,30 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0019
+
+KRO SHRP CHDR BLOCK              10.33 F
+PRIV SEL KRRYGLD BTR             10.81 F
+KRO CORN TORT                     2.79 F
+KRO SAVINGS                      0.84-  
+PRIV SEL TORTILLA CHIPS           3.33 F
+  4 @ 5.13
+SMPL TRTH SPRKLG WTR 8PK         20.52 F
+DIGITAL CPN                      1.20-  
+  2 @ 2.80
+LIMES                             5.60 F
+LEMON                             4.30 F
+KRO SPNGS 3PK                     9.54 T
+KRO SHAMPOO                      17.57 T
+KRO SAVINGS                      1.38- T
+KRO FRZN WAFFLES                  7.05 F
+SMPL TRTH CELERY                  4.32 F
+
+SUBTOTAL                           92.74
+TAX 10.55% ON 25.73                 2.71
+TOTAL                              95.45
+VISA TEND                          95.45
+CHANGE                              0.00
+
+06/27/26 08:25  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

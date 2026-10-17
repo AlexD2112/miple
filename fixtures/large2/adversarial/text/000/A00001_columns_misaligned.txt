@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 0078
+
+KRO PARMIGIANO REGGIANO           7.82 F
+  3 @ 4.32
+SMPL TRTH CELERY                 12.96 F
+  FM TILLAMOOK MEDIUM CHEDDAR      11.77 F
+  0.84 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BRS	6.42 F
+KRO SAVINGS 0.62-
+  2 @ 5.11
+ ICBRG LTTC                       10.22 F
+FRESH MINT 2.74 F
+KRO SPAGHETTI 9.54 F
+WHITE BRD                         6.34 F
+ALUMINUM FOIL                    18.03 T     
+KRO TRASH BAGS 40CT	6.49 T
+KRO PAPER TOWELS 6 ROLL           3.75 T     
+  ITALIAN PARSLEY                   2.93 F
+  2 @ 3.99
+KRO RANCH DRESSING                 7.98 F
+BANANA                            2.37 F
+
+ SUBTOTAL                          108.74
+TAX 10.55% ON 28.27	2.98
+TOTAL                                111.72
+  MASTERCARD TEND                   111.72
+CHANGE                              0.00 
+
+02/23/26 17:13  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

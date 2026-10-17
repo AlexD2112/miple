@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2156  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******3943
+
+1090761 CHKN BROTH 32 OZ              5.62 E
+     2 @ 2.81
+33214 KS RCTT                         8.76 E
+699753 LG EGGS 12 CT                  8.69 E
+545931 KS ZIP TOP BAGS               24.79 A
+891986 PARMIGIANO REGGIANO            7.82 E
+
+SUBTOTAL                               55.68
+TAX EXEMPT                              0.00
+**** TOTAL                             55.68
+MASTERCARD TEND                        55.68
+CHANGE                                  0.00
+
+01/15/26 16:01  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

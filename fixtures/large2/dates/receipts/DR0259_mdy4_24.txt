@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3755
+
+SMPL TRTH MAYONNAISE              6.36 F
+GRASS-FED GRND BF 85/15           7.35 F
+MFR CPN                          2.14-  
+KRO ZIP TOP BAGS                 24.79 T
+PRIV SEL WHOLE MILK HALF GALLON   6.79 F
+  1.27 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  4.45 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           47.84
+TAX 10.55% ON 25.03                 2.64
+TOTAL                              50.48
+MASTERCARD TEND                    50.48
+CHANGE                              0.00
+
+11/01/2026 01:36  8093 15 739 4
+ITEMS 7   REG 17  TRANS 9511
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

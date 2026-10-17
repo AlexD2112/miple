@@ -1,0 +1,30 @@
+               FRED MEYER
+              Portland OR
+               Store 3470
+
+FLOUR TORT 10 CT                  2.35 F
+KRO UNSLTD BTR                    9.95 F
+FM PLUS CARD SAV                 0.88-  
+  2 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU       5.56 F
+BRIE                              4.85 F
+FRZN BROC FLORETS                 8.13 F
+SMPL TRTH CRRTS                   1.79 F
+KRO BLACK BEANS CAN               8.77 F
+HMBRGR BUNS                       2.77 F
+TLLMK VAN YGRT                    4.05 F
+LEMON                             4.30 F
+SMPL TRTH FRZN WAFFLES            7.05 F
+KRO GRK YGRT PLAIN                4.11 F
+DIGIORNO RISING CRUST PEPPERONI   5.73 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           68.58
+TAX                                 0.00
+TOTAL                              68.58
+VISA TEND                          68.58
+CHANGE                              0.00
+
+08/07/26 13:32  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

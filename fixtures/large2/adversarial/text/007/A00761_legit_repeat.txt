@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2706  Seattle WA
+            MEMBER ************
+
+1100427 REDUCED FAT 2% MLK GALLON     6.54 E
+497649 KS TUNA CAN                    1.08 E
+1224090 TPD/TUNA CAN                 0.32-  
+132403 HEINZ KTCHP 32 OZ              4.48 E
+132403 HEINZ KTCHP 32 OZ              4.48 E
+1755950 KS PAPER TOWELS 6 ROLL        3.75 A
+
+SUBTOTAL                               20.01
+TAX 10.55% ON 3.75                      0.40
+**** TOTAL                             20.41
+VISA TEND                              20.41
+CHANGE                                  0.00
+
+07/02/26 20:02  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

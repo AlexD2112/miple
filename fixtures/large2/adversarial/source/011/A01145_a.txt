@@ -1,0 +1,19 @@
+                SAFEWAY
+      Store 3729  San Francisco CA
+             (555) 010-7381
+
+SIG DOG TREATS                    6.82 T
+SIG FLOWERS BOUQUET              23.70 T
+DELI FRIED CHICKEN               11.75 T
+LUCERNE UNSLTD BTR                9.95 S
+BAG FEE                           0.25  
+
+SUBTOTAL                           52.47
+TAX 8.625% ON 42.27                 3.65
+**** TOTAL                         56.12
+DISCOVER TEND                      56.12
+CHANGE                              0.00
+
+03/24/26 08:04  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 0999  Seattle WA
+             (555) 010-9241
+
+SIG SLCT GROUND PORK              6.60 S
+BLUBRY 18 OZ                      4.61 S
+BAG FEE                           0.08 T
+
+SUBTOTAL                           11.29
+TAX 10.55% ON 0.08                  0.01
+**** TOTAL                         11.30
+VISA TEND                          11.30
+CHANGE                              0.00
+
+04/18/26 02:45 AM  711 10 9887 6930
+ITEMS 19   REG 03  TRANS 5420
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

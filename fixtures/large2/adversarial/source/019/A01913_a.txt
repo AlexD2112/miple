@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #3026  San Francisco CA
+            MEMBER ************
+
+854323 BARTLETT PEARS                 3.00 E
+1225767 KS CELERY                     8.64 E
+     2 @ 4.32
+1671677 DGRN RISING CRUST PEPPERONI   5.73 E
+442017 SLCD ROAST BF                  5.94 E
+765316 KS DICED TOM CAN               2.98 E
+725927 KS POTATO CHIPS                5.07 E
+266075 LG EGGS 18 CT                  7.52 E
+715878 KS CHKN DRUMSTICKS             8.97 E
+883703 RED GRAPES                    12.16 E
+     4 @ 3.04
+
+SUBTOTAL                               47.85
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             47.85
+MASTERCARD TEND                        47.85
+CHANGE                                  0.00
+
+09/22/26 11:31  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

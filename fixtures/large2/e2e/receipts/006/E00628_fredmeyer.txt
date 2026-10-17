@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 1600
+
+  4 @ 4.48
+HEINZ KETCHUP 32 OZ              17.92 F
+HUY FONG SRIRACHA                 2.55 F
+
+SUBTOTAL                           20.47
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              20.47
+DEBIT TEND                         20.47
+CHANGE                              0.00
+
+04/07/26 20:59  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

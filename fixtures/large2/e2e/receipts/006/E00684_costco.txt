@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1538  Seattle WA
+            MEMBER ************
+
+698482 KS GINGER ALE 12PK             6.02 A
+1714485 SOURDOUGH LOAF                7.47 E
+1451072 KS PARSNIPS                   5.03 E
+     2.07 lb @ 2.43 /lb
+1530890 EVERYTHING BUT THE BAGEL SEA  7.01 E
+64449 KS PLASTIC WRAP                 4.77 A
+1880964 KERRYGOLD BTR                10.81 E
+9680324 TPD/KERRYGOLD BT             0.88-  
+482952 DARIGOLD UNSALTED BUTTER       6.67 E
+
+SUBTOTAL                               46.90
+TAX 10.55% ON 10.79                     1.14
+**** TOTAL                             48.04
+MASTERCARD TEND                        48.04
+CHANGE                                  0.00
+
+05/22/26 08:38  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

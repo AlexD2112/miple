@@ -1,0 +1,34 @@
+               FRED MEYER
+              Portland OR
+               Store 3271
+
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+  4 @ 3.77
+FM BAGELS                        15.08 F
+FM KERRYGOLD BTR                 10.81 F
+SMPL TRTH UNSLTD BTR              9.95 F
+  3.29 lb @ 3.34 /lb
+HASS AVOCADO LG                  10.99 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+  4 @ 1.08
+TUNA CAN                          4.32 F
+  1.78 lb @ 11.10 /lb
+KRO PORK CHOPS                   19.76 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+LIMES                             2.80 F
+  2 @ 1.15
+CHERRY TOMATOES                   2.30 F
+FLWRS BOUQUET                    23.70 F
+HEINZ KETCHUP 32 OZ               4.48 F
+TLLMK VAN YGRT                    4.05 F
+MFR CPN                          1.21-  
+
+SUBTOTAL                          137.56
+TAX                                 0.00
+TOTAL                             137.56
+DEBIT TEND                        137.56
+CHANGE                              0.00
+
+02/22/26 16:04  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

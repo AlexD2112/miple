@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 0243
+
+  4 @ 5.79
+FM LEMONADE 52OZ                 23.16 T
+DIGITAL CPN                      2.91- T
+FM OAT MLK                        3.10 F
+LG EGGS 18 CT                     7.52 F
+  0.83 lb @ 11.10 /lb
+KRO PORK CHOPS                    9.21 F
+SMPL TRTH HALF & HALF             5.34 F
+FM PLUS CARD SAV                 0.32-  
+FM BOTTLED WTR 24PK               9.32 F
+HUY FONG SRIRACHA                 2.55 F
+MFR CPN                          0.76-  
+  2 @ 4.35
+SMPL TRTH STRWB                   8.70 F
+  3 @ 5.69
+CHERRIES                         17.07 F
+FM SPAGHETTI                      9.54 F
+KRO SAVINGS                      2.86-  
+SMPL TRTH CHERRY TOM              1.15 F
+  3 @ 5.13
+SPRKLG WTR 8PK                   15.39 F
+SMPL TRTH SOY SCE                 6.79 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          112.15
+TAX 10.55% ON 20.41                 2.15
+TOTAL                             114.30
+CASH TEND                         120.00
+CHANGE                              5.70
+
+07/06/26 10:17  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

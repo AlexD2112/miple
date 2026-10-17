@@ -1,0 +1,46 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2595  Seattle WA
+            MEMBER ************
+
+66677 UNSLTD BTR 4 X 1 LB             9.48 E
+955271 STRWB                          4.35 E
+62190 SPRING MIX                      5.44 E
+987293 KS ROMA TOMATOES               2.38 E
+1401344 KS ATLNTC SLMN FLLT          19.77 E
+143585 SHRDDD CHDR 8 OZ               6.42 E
+1566281 TPD/SHRDDD CHDR              1.93-  
+1964237 DAVES KILLER BRD 21 WHL GRAI  4.78 E
+8964194 TPD/DAVES KILLER             1.43-  
+320008 KS GRND TRKY                   5.19 E
+4641005 TPD/GRND TRKY                1.56-  
+717355 BAGELS                         3.77 E
+1764564 KS GALA APPLES                4.21 E
+     1.83 lb @ 2.30 /lb
+1217514 TPD/GALA APPLES              1.26-  
+1855110 ORG BLACK BEANS 8 CANS        1.15 E
+0226798 TPD/ORG BLACK BE             0.35-  
+1461270 KS LMND 52OZ                  5.79 A
+1713752 SLCD SOURDOUGH PAN LOAF       4.74 E
+1610449 TPD/SLCD SOURDOU             1.42-  
+1005423 UNXPCTD CHDR                 22.30 E
+     1.24 lb @ 17.98 /lb
+415489 SHAMPOO                       17.57 A
+1511981 KS LAMB CHOPS                16.22 E
+     0.95 lb @ 17.07 /lb
+1917114 ORG TOMATO BASIL MARINARA     5.94 E
+5671337 TPD/ORG TOMATO B             1.60-  
+1994923 KS CAGE FREE EGGS 18CT        6.85 E
+2755093 TPD/CAGE FREE EG             0.84-  
+127440 PLAIN GOAT CHS                 5.77 E
+883326 KS YUKON GOLD POTATOES         3.99 E
+
+SUBTOTAL                              145.72
+TAX 10.55% ON 23.36                     2.46
+**** TOTAL                            148.18
+MASTERCARD TEND                       148.18
+CHANGE                                  0.00
+
+06/18/26 21:26  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

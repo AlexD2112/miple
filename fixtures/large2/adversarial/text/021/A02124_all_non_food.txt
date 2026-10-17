@@ -1,0 +1,24 @@
+              TRADER JOE'S
+     Store #1555  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+CAT LITTER                       14.03 T
+NAPKINS                          24.05 T
+LIGHT BULBS 4PK                  17.04 T
+PAPER TOWELS 6 ROLL               3.75 T
+DOG TREATS                        6.82 T
+TOOTHPASTE                       16.40 T
+PAPER PLATES                      3.31 T
+GREETING CARD                    20.34 T
+ZIP TOP BAGS                     24.79 T
+PLASTIC WRAP                      4.77 T
+
+SUBTOTAL                          135.30
+TAX 8.625% ON 135.30               11.67
+TOTAL                             146.97
+DEBIT TEND                        146.97
+CHANGE                              0.00
+
+06/03/26 10:55  ITEMS 10
+T=TAXABLE
+               THANK YOU

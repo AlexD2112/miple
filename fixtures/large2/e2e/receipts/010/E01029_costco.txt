@@ -1,0 +1,42 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0353  Seattle WA
+            MEMBER ************
+
+1068632 ARUGULA                       4.00 E
+9265031 TPD/ARUGULA                  1.20-  
+26410 STRAUS PLAIN GRK YGRT           5.22 E
+     3 @ 1.74
+1185666 TOSTITOS SCOOPS TORTILLA CHI  6.92 E
+     2 @ 3.46
+1727715 KS ATLANTIC SLMN FLLT        19.77 E
+836468 TOOTHPASTE                    16.40 A
+644840 BARTLETT PEARS                 3.00 E
+618523 KS PORK TENDERLOIN            10.42 E
+     1.08 lb @ 9.65 /lb
+752528 LEMONS                         4.19 E
+907116 ZUCCHINI                       6.47 E
+     1.74 lb @ 3.72 /lb
+706423 KS ITALIAN PARSLEY             2.93 E
+1535903 AHI TUNA STEAK               14.71 E
+6526323 TPD/AHI TUNA STE             2.71-  
+834027 KS FRESH MINT                  2.74 E
+52871 DARIGOLD UNSALTED BUTTER        6.67 E
+1001313 BUTTER LETTUCE                2.45 E
+37914 DELI SLICED TURKEY BREAST       6.04 E
+     0.55 lb @ 10.99 /lb
+407916 KS ROMAINE LTTC                2.79 E
+1231 KS COLA 12PK                     1.83 A
+674603 BABY SPINACH 5 OZ              3.77 E
+1497027 KS HALIBUT                   10.82 E
+5747522 TPD/HALIBUT                  1.70-  
+
+SUBTOTAL                              125.53
+TAX 10.55% ON 18.23                     1.92
+**** TOTAL                            127.45
+MASTERCARD TEND                       127.45
+CHANGE                                  0.00
+
+08/22/26 17:01  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

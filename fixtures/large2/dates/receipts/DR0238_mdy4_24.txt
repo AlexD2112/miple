@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2224
+
+SMPL TRTH BAGELS                  3.77 F
+DIGITAL CPN                      1.13-  
+ORG ITALIAN PARSLEY               1.95 F
+CHKN BROTH 32 OZ                  2.81 F
+KRO SHAMPOO                      17.57 T
+SMPL TRTH GREEN BEANS             2.31 F
+  0.74 lb @ 3.50 /lb
+SMPL TRTH ENGLISH CUCUMBER        2.59 F
+
+SUBTOTAL                           29.87
+TAX 10.55% ON 17.57                 1.85
+TOTAL                              31.72
+MASTERCARD TEND                    31.72
+CHANGE                              0.00
+
+01/01/2030 00:03  4035 38 328 1
+ITEMS 23   REG 11  TRANS 6981
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

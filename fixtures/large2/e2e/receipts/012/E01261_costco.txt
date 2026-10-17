@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0020  Seattle WA
+            MEMBER ************
+
+1125164 HASS AVCD LG                  5.11 E
+     1.53 lb @ 3.34 /lb
+0081875 TPD/HASS AVCD LG             0.67-  
+1450897 ORGANIC RASPBERRIES 6 OZ      6.28 E
+1966077 ORG BASIL CLMSHLL             1.49 E
+1429534 KS CAGE FREE EGGS 18CT        6.85 E
+1395500 2% MLK HALF GALLON            6.08 E
+1712802 KS ROOT BEER 2L              15.72 A
+     3 @ 5.24
+826910 KS HONEYCRISP APPLES          14.01 E
+     3 @ 4.67
+2844523 TPD/HONEYCRISP A             1.10-  
+1804051 KS WHOLE CHICKEN             39.31 E
+     6.21 lb @ 6.33 /lb
+1524660 KS TORTILLA CHIPS             3.33 E
+1301296 TOSTITOS SCOOPS TORTILLA CHI  6.92 E
+     2 @ 3.46
+917050 KETCHUP                       21.96 E
+     4 @ 5.49
+1701639 KS GALA APPLES                0.60 E
+     0.26 lb @ 2.30 /lb
+1231145 FRZN MIXED BERRIES            4.12 E
+     2 @ 2.06
+327738 GINGER ALE 12PK                6.02 A
+775250 KS BABY CRRTS                  2.49 E
+
+SUBTOTAL                              138.52
+TAX 10.55% ON 21.74                     2.29
+**** TOTAL                            140.81
+VISA TEND                             140.81
+CHANGE                                  0.00
+
+08/12/26 13:32  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

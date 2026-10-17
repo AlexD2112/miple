@@ -1,0 +1,27 @@
+                SAFEWAY
+         Store 3853  Seattle WA
+             (555) 010-2643
+
+ROOT BEER 2L                      5.24 T
+  2.36 lb @ 1.25 /lb
+PINEAPPLE                         2.95 S
+J4U DIGITAL CPN                  0.89-  
+  0.43 lb @ 14.17 /lb
+SW BLACK FOREST HAM               6.09 S
+  1.27 lb @ 1.79 /lb
+O ORGANICS BEETS                  2.27 S
+  5.86 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 25.43 S
+JENNIE-O GRND TRKY 1 LB           6.60 S
+
+SUBTOTAL                           47.69
+TAX 10.55% ON 5.24                  0.55
+**** TOTAL                         48.24
+CASH TEND                          60.00
+CHANGE                             11.76
+
+01/01/30  745 18 7713 5485
+TIME: 00:03
+ITEMS 6   REG 09  TRANS 2206
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

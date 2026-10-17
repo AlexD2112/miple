@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 0836
+
+ORGANIC GALA APPLES               1.57 F
+ORG SPRING MIX 1 LB               5.49 F
+  2 @ 5.42
+SMPL TRTH BABY SPNCH             10.84 F
+KRO VAN YGRT CUPS                 5.39 F
+WHITE BRD                         6.34 F
+  0.63 lb @ 1.79 /lb
+SMPL TRTH BEETS                   1.13 F
+
+SUBTOTAL                           30.76
+TAX                                 0.00
+TOTAL                              30.76
+DEBIT TEND                         30.76
+CHANGE                              0.00
+
+03/29/26 19:14  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

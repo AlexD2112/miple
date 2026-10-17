@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 1496
+
+KRO TLLMK MEDIUM CHDR            11.77 F
+  3 @ 1.16
+SMPL TRTH CILANTRO                3.48 F
+FROZEN BROCCOLI FLORETS           8.13 F
+MFR CPN                          2.44-  
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+ARUGULA                           4.00 F
+  3 @ 4.48
+HEINZ KETCHUP 32 OZ              13.44 F
+KRO SAVINGS                      2.08-  
+  1.78 lb @ 6.00 /lb
+GRND BF 88/12                    10.68 F
+FLOUR TORT 10 CT                  2.35 F
+  3 @ 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS   10.38 F
+SMPL TRTH HNYCRSP APPLES          4.67 F
+KRO SAVINGS                      1.40-  
+JASMINE RICE 5 LB                 1.49 F
+SMPL TRTH QUINOA                  7.75 F
+DIGITAL CPN                      2.32-  
+RIBEYE STEAK                     19.87 F
+KRO AA BTTRS 8PK                 24.36 T
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          116.58
+TAX 10.55% ON 24.60                 2.60
+TOTAL                             119.18
+DISCOVER TEND                     119.18
+CHANGE                              0.00
+
+10/01/26 14:52  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

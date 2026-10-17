@@ -1,0 +1,40 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+04/13/26 15:00  ITEMS 26
+
+CHANGE                              0.00
+VISA TEND                         162.02
+TOTAL                             162.02
+TAX 10.55% ON 37.15                 3.92
+SUBTOTAL                          158.10
+
+WF SLTD BTR                       5.73 F
+PRIME 10% OFF                    0.36-  
+2% MLK 2 X 1 GAL                  4.70 F
+365 ORG SLTD BTR                  5.73 F
+ROOT BEER 2L                      5.24 T
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+PRIME MEMBER DEAL                1.46-  
+365 ORG HNYCRSP APPLES            9.34 F
+  2 @ 4.67
+365 GRK YGRT PLAIN                4.11 F
+ORG TOMATO BASIL MARINARA         5.94 F
+AVOCADOS BAG 4 CT                 7.08 F
+  2 @ 3.54
+WF CRL                            6.63 F
+BATH TISSUE 12 ROLL              23.08 T
+GRND BF 88/12                    26.82 F
+  4.47 lb @ 6.00 /lb
+365 BABY CARROTS                  2.49 F
+365 BROC CROWNS                   6.75 F
+  3 @ 2.25
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+WF BAGGED CAESAR SALAD KIT        2.21 F
+LACROIX LIME SPARKLING WATER 8 P  4.40 F
+  2 @ 2.20
+WF KETCHUP                       21.96 F
+  4 @ 5.49
+
+             (555) 020-2863
+               Seattle WA
+           WHOLE FOODS MARKET

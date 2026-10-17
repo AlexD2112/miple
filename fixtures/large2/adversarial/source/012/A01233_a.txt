@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0434  Seattle WA
+            MEMBER ************
+
+799327 SLICED SOURDOUGH PAN LOAF      4.74 E
+480267 HOT BAR PRPRD FOOD BY WEIGHT   8.83 A
+1517694 ORG BLACK BEANS 8 CANS        1.15 E
+1269557 DICED TOMATOES 14.5 OZ        1.00 E
+1033607 SILKEN TOFU                   4.58 E
+     2 @ 2.29
+1996769 KS EXTRA FIRM TOFU            6.96 E
+     3 @ 2.32
+
+SUBTOTAL                               27.26
+TAX 10.55% ON 8.83                      0.93
+**** TOTAL                             28.19
+DEBIT TEND                             28.19
+CHANGE                                  0.00
+
+06/11/26 16:19  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

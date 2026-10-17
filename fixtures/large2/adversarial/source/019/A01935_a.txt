@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 2135
+
+FM SALSA JAR                      2.09 F
+HUY FONG SRIRACHA                 2.55 F
+ROMA TOMATOES                     2.38 F
+KRO SRDGH LOAF                    7.47 F
+PNT BTR                           6.90 F
+ORGANIC GALA APPLES               1.57 F
+GRK YGRT 48 OZ                    1.97 F
+BLACK BEANS CAN                   8.77 F
+KRO SAVINGS                      2.63-  
+
+SUBTOTAL                           33.70
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              33.70
+VISA TEND                          33.70
+CHANGE                              0.00
+
+07/06/26 12:22  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

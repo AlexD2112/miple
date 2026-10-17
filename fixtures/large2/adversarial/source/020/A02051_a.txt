@@ -1,0 +1,24 @@
+                SAFEWAY
+         Store 1523  Seattle WA
+             (555) 010-2906
+
+CAT LITTER                       14.03 T
+SIG CAT LITTER                   14.03 T
+CAT LITTER                       14.03 T
+PLASTIC WRAP                      4.77 T
+BATH TISSUE 12 ROLL              23.08 T
+SIG ZIP TOP BAGS                 24.79 T
+CLUB CARD SAVINGS                0.88- T
+SIG SHAMPOO                      17.57 T
+SIG ALUMINUM FOIL                18.03 T
+PAPER PLATES                      3.31 T
+
+SUBTOTAL                          132.76
+TAX 10.55% ON 132.76               14.01
+**** TOTAL                        146.77
+AMEX TEND                         146.77
+CHANGE                              0.00
+
+02/10/26 15:00  ITEMS 9
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

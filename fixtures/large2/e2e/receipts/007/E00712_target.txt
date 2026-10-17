@@ -1,0 +1,20 @@
+                 TARGET
+        San Francisco CA  T-0704
+             (555) 030-3126
+
+JNN- GRND TRKY 1 LB               6.60 N
+ORG ROMAINE HEARTS 3 CT           3.76 N
+GG FROZEN DUMPLINGS              15.61 N
+CHKN DRUMSTICKS                   8.97 N
+  3 @ 0.25
+BAG FEE                           0.75  
+
+SUBTOTAL                           35.69
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              35.69
+CASH TEND                          40.00
+CHANGE                              4.31
+
+07/14/26 10:00  ITEMS 4
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

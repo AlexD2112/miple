@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 0340
+
+  1.47 lb @ 1.48 /lb
+SMPL TRTH RED ONIONS              2.18 F
+ORG TOMATO BASIL MARINARA         5.94 F
+ORG CARROTS BUNCH                 4.63 F
+  3.88 lb @ 2.90 /lb
+BANANAS                          11.25 F
+SLTD BTR 4 STICKS                 9.37 F
+SMPL TRTH ASPRGS                  2.93 F
+  4 @ 1.74
+STRAUS PLAIN GRK YGRT             6.96 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           43.36
+TAX                                 0.00
+TOTAL                              43.36
+MASTERCARD TEND                    43.36
+CHANGE                              0.00
+
+08/21/2030 09:11 PDT  7791 17 224 2
+ITEMS 5   REG 03  TRANS 7201
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

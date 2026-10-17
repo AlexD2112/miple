@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2186  Seattle WA
+            MEMBER ************
+
+1774477 TILLAMOOK MEDIUM CHDR 2.5 LB     4.21 E
+7764441 TPD/TILLAMOOK ME             1.26-  
+787397 KERRYGOLD BTR                 10.81 E
+  1774350 KS SHAMPOO                   17.57 A
+1116695 GRASS-FED GROUND BEEF 85/15	7.35 E
+609245 SPONGES 3PK                    9.54 A
+231358 REDUCED FAT 2% MLK GALLON      6.54 E
+386507 BABY SPNCH 5 OZ                3.77 E
+
+SUBTOTAL                               58.53 
+TAX 10.55% ON 27.11                     2.86
+**** TOTAL                             61.39
+VISA TEND                                61.39
+CHANGE                                  0.00
+
+06/17/26 17:27  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

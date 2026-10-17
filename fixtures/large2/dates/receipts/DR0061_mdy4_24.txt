@@ -1,0 +1,22 @@
+                 TARGET
+           Seattle WA  T-1829
+             (555) 030-9706
+
+GRND COFFEE                       9.64 N
+MKT PANTRY ITALIAN PARSLEY        2.93 N
+TARGET CIRCLE OFFER              0.88-  
+  3.02 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             4.02 N
+BARILLA PENNE                    19.37 N
+CIRCLE DEAL                      0.68-  
+
+SUBTOTAL                           34.40
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              34.40
+MASTERCARD TEND                    34.40
+CHANGE                              0.00
+
+04/22/2024 13:11
+ITEMS 14   REG 01  TRANS 7620
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

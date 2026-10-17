@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3041  Seattle WA
+            MEMBER ************
+
+1962280 TORTILLA CHIPS                6.66 E
+     2 @ 3.33
+4327747 TPD/TORTILLA CHI             0.88-  
+668802 BNLS CHKN THIGHS               6.03 E
+     1.39 lb @ 4.34 /lb
+1825832 PNT BTR                       6.90 E
+8260344 TPD/PNT BTR                  2.07-  
+1284090 PNT BTR                       6.90 E
+660039 2% MLK 2 X 1 GAL               4.70 E
+1013721 TPD/2% MLK 2 X 1             1.41-  
+137281 KS DRIED LNTLS                12.78 E
+     3 @ 4.26
+1038549 KS FRZN DUMPLINGS            15.61 E
+698536 BNLS RIBEYE STEAK             11.67 E
+     0.75 lb @ 15.56 /lb
+745022 CILANTRO BUNCH                 2.02 E
+699890 KS PEACHES                     0.82 E
+     1.21 lb @ 0.68 /lb
+741939 DRIED LNTLS                    4.26 E
+1992272 JASMINE RICE 5 LB             1.49 E
+
+SUBTOTAL                               75.48
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             75.48
+AMEX TEND                              75.48
+CHANGE                                  0.00
+
+08/03/26 12:38  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

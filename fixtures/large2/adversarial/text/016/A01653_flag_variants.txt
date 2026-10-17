@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1483  Seattle WA
+            MEMBER ************
+
+429400 DOUBLE CREME BRIE              5.40 E
+1132770 TUNA CAN                      1.08 E
+1513119 KS ZUCCHINI                   2.53 E
+     0.68 lb @ 3.72 /lb
+1852110 HNDMD STYLE CORN TORT        10.65 E
+     3 @ 3.55
+2657656 TPD/HNDMD STYLE              1.16-  
+196211 KS MANDARINS                   2.72 E
+1037307 UNSLTD BTR 4 X 1 LB           9.48 E
+1481042 HEINZ KETCHUP 32 OZ          13.44 E
+     3 @ 4.48
+1679320 JASMINE RICE 25 LB            8.09 E
+427804 AA BATTERIES 8PK              24.36 A
+1909733 HEINZ KETCHUP 32 OZ           8.96 E
+     2 @ 4.48
+186778 KS BLACK BEANS CAN             8.77 E
+539836 DICED TOM 14.5 OZ              1.00 E
+945170 BTTLD WTR 40 PK                2.45 E
+436791 SHRP CHDR BLOCK               10.33 E
+1217613 KS DISH SOAP                 19.39 A
+
+SUBTOTAL                              127.49
+TAX 10.55% ON 43.75                     4.62
+**** TOTAL                            132.11
+AMEX TEND                             132.11
+CHANGE                                  0.00
+
+03/06/26 13:47  ITEMS 20
+A=TAXABLE  E=EXEMPT
+                 THANK YOU

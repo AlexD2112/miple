@@ -1,0 +1,44 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0136  Seattle WA
+            MEMBER ************
+
+1676152 ENGLISH CUCUMBER             10.68 E
+     3.05 lb @ 3.50 /lb
+3434447 TPD/ENGLISH CUCU             2.37-  
+113447 HOUSE FOODS EXTRA FIRM TOFU    5.56 E
+     2 @ 2.78
+1863610 KS COTTAGE CHS                3.21 E
+9661577 TPD/COTTAGE CHS              0.96-  
+1921024 KS GREEN ONIN BUNCH           2.59 E
+592426 2% MLK HALF GALLON             6.08 E
+1561347 FLOWERS BOUQUET              23.70 A
+389566 BLACKBERRIES                  15.68 E
+     4 @ 3.92
+1631978 ORG BABY SPNCH 5 OZ           5.85 E
+1386283 KS QUINOA                     7.75 E
+415423 KS DELI FRIED CHKN            11.75 A
+1435571 KS HALIBUT                   10.82 E
+1269471 KS PCHS                       1.47 E
+     2.16 lb @ 0.68 /lb
+103989 CAGE FREE EGGS 18CT            6.85 E
+104205 KS HNYCRSP APPLES             14.01 E
+     3 @ 4.67
+1660844 KS SPAGHETTI                  9.54 E
+646301 KS GRND PORK                   6.60 E
+274714 DIGIORNO RISING CRUST PPPRN P  5.73 E
+5568 TLLMK MEDIUM CHDR               11.77 E
+463423 RUSSET POTS                    1.31 E
+     1.16 lb @ 1.13 /lb
+6095992 TPD/RUSSET POTS              0.39-  
+292156 GRASS-FED GRND BF 85/15        7.35 E
+
+SUBTOTAL                              164.58
+TAX 10.55% ON 35.45                     3.74
+**** TOTAL                            168.32
+VISA TEND                             168.32
+CHANGE                                  0.00
+
+02/05/26 12:18  ITEMS 26
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

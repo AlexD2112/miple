@@ -1,0 +1,27 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-3910
+
+STRWB 1 LB                        5.22 F
+  3 @ 1.08
+365 ORG TUNA CAN                  3.24 F
+  2 @ 3.00
+365 BARTLETT PEARS                6.00 F
+CELERY                            4.32 F
+EVERYTHING BUT THE BAGEL SSNNG    7.01 F
+  4 @ 2.45
+BTR LTTC                          9.80 F
+  2.63 lb @ 11.10 /lb
+PORK CHOPS                       29.19 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           64.86
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              64.87
+MASTERCARD TEND                    64.87
+CHANGE                              0.00
+
+02/29/2028 02:16:16 PM
+ITEMS 16   REG 10  TRANS 4413
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

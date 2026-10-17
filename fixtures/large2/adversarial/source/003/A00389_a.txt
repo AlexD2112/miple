@@ -1,0 +1,33 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2030
+
+KRO FRZN WAFFLES                  7.05 F
+2% MLK 2 X 1 GAL                  4.70 F
+FRZN PEAS                        13.98 F
+GRND TRKY                         5.19 F
+SLTD BTR 4 STICKS                 9.37 F
+  3.16 lb @ 5.06 /lb
+SMPL TRTH GRND CHKN              15.99 F
+  2.10 lb @ 2.43 /lb
+PARSNIPS                          5.10 F
+HEINZ KETCHUP 32 OZ               4.48 F
+  3.62 lb @ 0.76 /lb
+SMPL TRTH MANGO                   2.75 F
+SMPL TRTH CHERRIES                5.69 F
+ORG SPROUTED TOFU                 2.61 F
+LARGE EGGS 18 CT                  7.52 F
+  3.82 lb @ 13.74 /lb
+PRIV SEL CHUCK ROAST             52.49 F
+  1.33 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        3.10 F
+
+SUBTOTAL                          140.02
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             140.02
+DEBIT TEND                        140.02
+CHANGE                              0.00
+
+01/16/26 15:30  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

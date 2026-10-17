@@ -1,0 +1,38 @@
+               FRED MEYER
+              Portland OR
+               Store 3826
+
+SMPL TRTH BABY SPNCH              5.42 F
+  4 @ 2.29
+SILKEN TOFU 9.16 F
+KRO HMBRGR BUNS                   2.77 F
+SPNGS 3PK                         9.54 F
+PAPER PLATES	3.31 F
+SMPL TRTH 2% MLK GALLON           6.49 F     
+TRASH BAGS 40CT 6.49 F
+BOTTLED WATER 40 PK	2.45 F
+  40 @ 0.10
+OR BTL DEP                        4.00  
+  2 @ 4.93
+PEPSI 12 PK CANS	9.86 F
+  2 @ 0.10
+OR BTL DEP 0.20
+ JASMINE RICE 5 LB                 1.49 F
+  2 @ 5.42
+SMPL TRTH BABY SPNCH             10.84 F
+MFR CPN                          0.21-  
+HALF & HALF                       5.34 F
+  3.74 lb @ 2.90 /lb
+SMPL TRTH BANANAS                10.85 F
+  3 @ 2.54
+WHL WHT SANDWICH BRD               7.62 F
+
+SUBTOTAL                           95.62     
+TAX                                 0.00
+TOTAL                              95.62
+  VISA TEND                          95.62
+CHANGE                              0.00
+
+07/25/26 19:15  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

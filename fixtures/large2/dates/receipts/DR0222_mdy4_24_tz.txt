@@ -1,0 +1,28 @@
+                 TARGET
+        San Francisco CA  T-0706
+             (555) 030-5467
+
+CARROTS 2 LB                      1.74 N
+  3.89 lb @ 3.34 /lb
+HASS AVOCADO LG                  12.99 N
+CIRCLE DEAL                      0.41-  
+MAYONNAISE 30 OZ                  6.42 N
+  3 @ 4.61
+BLUBRY 18 OZ                     13.83 N
+  3 @ 2.00
+GG CRACKERS                       6.00 N
+LG EGGS 12 CT                     8.69 N
+STRAUS PLAIN GRK YGRT             1.74 N
+  1.43 lb @ 13.18 /lb
+SLCD TRKY BRST                   18.85 N
+
+SUBTOTAL                           69.85
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              69.85
+MASTERCARD TEND                    69.85
+CHANGE                              0.00
+
+02/11/2028 14:49 PST
+ITEMS 22   REG 16  TRANS 4019
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

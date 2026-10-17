@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 0597
+
+  3 @ 2.09
+SALSA JAR                         6.27 F
+NAPKINS                          24.05 F
+  2 @ 2.00
+FM CRKRS                          4.00 F
+BANANA                            2.37 F
+MFR CPN                          0.71-  
+FM JASMINE RICE                  12.13 F
+  4 @ 3.99
+RANCH DRESSING                   15.96 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+RANCH DRESSING                   15.96 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+
+SUBTOTAL                           79.55
+TAX                                 0.00
+TOTAL                              79.55
+CASH TEND                          80.00
+CHANGE                              0.45
+
+04/03/26 12:13  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

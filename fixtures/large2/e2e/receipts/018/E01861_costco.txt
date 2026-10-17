@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3331  Seattle WA
+            MEMBER ************
+
+1344910 ORG SPROUTED TOFU             2.61 E
+504238 KS FRZN PEAS                  13.98 E
+1010300 CAGE FREE EGGS 18CT           6.85 E
+1767866 2% MLK 2 X 1 GAL              4.70 E
+463855 KS CREMINI MSHRM               1.14 E
+1844103 KS BATH TISSUE 12 ROLL       23.08 A
+190342 BNLS RIBEYE STEAK             32.21 E
+     2.07 lb @ 15.56 /lb
+150674 ORG ITLN PRSLY                 1.95 E
+54659 AHI TUNA STEAK                 14.71 E
+
+SUBTOTAL                              101.23
+TAX 10.55% ON 23.08                     2.43
+**** TOTAL                            103.66
+DEBIT TEND                            103.66
+CHANGE                                  0.00
+
+03/08/26 16:14  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

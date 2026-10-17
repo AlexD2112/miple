@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0084  Seattle WA
+            MEMBER ************
+STORE MGR: J******
+
+1534060 KS STRWB                      4.35 E
+1109145 KS SOY SAUCE                  6.79 E
+662677 TRKY BRST                     13.90 E
+     1.96 lb @ 7.09 /lb
+1719221 KS RADISHES                   0.62 E
+     0.59 lb @ 1.05 /lb
+901234 CROISSANTS 12 CT              19.48 E
+     4 @ 4.87
+1466938 KS COD FLLT                  11.08 E
+     0.61 lb @ 18.16 /lb
+1898388 ORG EGGS 24 CT                7.83 E
+1019318 KS DICED TOM CAN              8.94 E
+     3 @ 2.98
+6236488 TPD/DICED TOM CA             0.20-  
+1075128 DRGLD UNSLTD BTR              6.67 E
+338909 KS BLUBRY                     17.61 E
+     3 @ 5.87
+
+SUBTOTAL                               97.07
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             97.07
+DEBIT TEND                             97.07
+CHANGE                                  0.00
+
+07/30/26 15:58  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+SAVE 2.00 ON YOUR NEXT VISIT
+NEXT VISIT COUPON          3.00 OFF
+                 THANK YOU

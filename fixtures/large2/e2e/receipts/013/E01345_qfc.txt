@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1583
+
+KRO SOURDOUGH LOAF                7.47 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+PRIV SEL FRESH MOZZ               8.65 F
+PRIV SEL CRL                      6.63 F
+  2.87 lb @ 1.60 /lb
+SMPL TRTH JLPN                    4.59 F
+  4.46 lb @ 5.06 /lb
+GRND CHKN                        22.57 F
+HLBT                             10.82 F
+KRO UNSALTED BUTTER               9.95 F
+  2 @ 5.87
+SMPL TRTH BLUBRY                 11.74 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           84.79
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              84.81
+CASH TEND                         100.00
+CHANGE                             15.19
+
+08/06/26 08:30  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1686
+
+ARUGULA                           4.00 F
+COLD BREW COFFEE 32OZ             4.43 F
+FM PNT BTR                        6.90 F
+FM PRPRD MAC & CHS               10.62 F
+  2 @ 3.00
+BRTLTT PEARS                      6.00 F
+SMPL TRTH GROUND COFFEE           9.64 F
+SMPL TRTH SPGHTT                  9.54 F
+GRND TRKY                         5.19 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           56.48
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              56.50
+AMEX TEND                          56.50
+CHANGE                              0.00
+
+10/12/26 07:37  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

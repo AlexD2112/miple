@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2573  Seattle WA
+            MEMBER ************
+
+1021481 DOG TREATS                    6.82 A
+1341644 PLASTIC WRAP                  4.77 A
+456070 KS SHMP                       17.57 A
+
+SUBTOTAL                               29.16
+TAX 10.55% ON 29.16                     3.08
+**** TOTAL                             32.24
+DISCOVER TEND                          32.24
+CHANGE                                  0.00
+
+06/11/26 21:30  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

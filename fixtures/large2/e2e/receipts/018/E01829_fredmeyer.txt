@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 1101
+
+PAPER PLATES                      3.31 T
+KRO RICOTTA                       8.76 F
+AVOCADOS BAG 4 CT                 3.54 F
+LG BROWN CAGE FREE EGGS           4.10 F
+
+SUBTOTAL                           19.71
+TAX 10.55% ON 3.31                  0.35
+TOTAL                              20.06
+VISA TEND                          20.06
+CHANGE                              0.00
+
+03/29/26 21:34  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

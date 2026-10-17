@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 3132
+
+  3.61 lb @ 11.10 /lb
+PORK CHOPS                       40.07 F
+  2 @ 1.15
+ORG BLACK BEANS 8 CANS            2.30 F
+  4 @ 2.93
+SMPL TRTH ITALIAN PARSLEY        11.72 F
+PARMIGIANO RGGN WEDGE             8.42 F
+DIGITAL CPN                      0.59-  
+  1.21 lb @ 1.05 /lb
+RADISHES                          1.27 F
+KRO VAN YGRT CUPS                 5.39 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+ORANGE JUICE 52OZ                 9.39 F
+FM COLD BREW COFFEE 32OZ          4.43 F
+
+SUBTOTAL                           89.41
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              89.41
+DEBIT TEND                         89.41
+CHANGE                              0.00
+
+12/30/26 18:13  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

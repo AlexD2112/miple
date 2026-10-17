@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1575  Seattle WA
+            MEMBER ************
+
+1802440 LNDRY DTRGNT PODS            20.18 A
+787223 JASMINE RICE                  12.13 E
+960850 KS ALMNM FOIL                 18.03 A
+  REFUND - ORIG RECEIPT
+RETURN 1802440 LNDRY DTRGNT PODS    20.18- A
+
+SUBTOTAL                               30.16
+TAX 10.55% ON 18.03                     1.90
+**** TOTAL                             32.06
+DISCOVER TEND                          32.06
+CHANGE                                  0.00
+
+12/30/26 15:01  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

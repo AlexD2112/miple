@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1015
+
+SPARKLING WATER                   3.74 F
+FRZN DUMPLINGS                   15.61 F
+PRIV SEL EXTRA FIRM TOFU          2.32 F
+CARROTS 2 LB                      1.74 F
+
+SUBTOTAL                           23.41
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              23.41
+DISCOVER TEND                      23.41
+CHANGE                              0.00
+
+04/30/26 15:01  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

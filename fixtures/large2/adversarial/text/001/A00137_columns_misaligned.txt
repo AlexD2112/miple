@@ -1,0 +1,19 @@
+                SAFEWAY
+      Store 3893  San Francisco CA
+             (555) 010-5294
+
+LUCERNE RCTT                      8.76 S
+LIGHT BULBS 4PK	17.04 T
+ORANGE JUICE                         7.69 S
+  1 @ 0.05
+CA CRV                             0.05
+
+SUBTOTAL                           33.54
+TAX 8.625% ON 17.04 1.47
+**** TOTAL                             35.01
+DISCOVER TEND                      35.01   
+CHANGE                                0.00
+
+03/24/26 07:39  ITEMS 3
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

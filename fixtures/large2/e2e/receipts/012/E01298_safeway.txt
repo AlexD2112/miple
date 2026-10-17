@@ -1,0 +1,42 @@
+                SAFEWAY
+      Store 3334  San Francisco CA
+             (555) 010-5770
+
+SIG KTCHNS APPLE JUICE 64OZ       7.25 S
+  1 @ 0.10
+CA CRV                            0.10  
+J4U PERSONAL DEAL                0.63-  
+PARMIGIANO REGGIANO WEDGE         8.42 S
+SW CRKRS                          2.00 S
+SIG SLCT ATLANTIC SLMN FLLT      19.77 S
+CHERRIES                          5.69 S
+  4 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU      11.12 S
+DARK CHOC PNT BTR CUPS            5.61 S
+J4U DIGITAL CPN                  0.58-  
+JENNIE-O GRND TRKY 1 LB           6.60 S
+  4 @ 2.45
+BOTTLED WATER 40 PK               9.80 S
+  160 @ 0.05
+CA CRV                            8.00  
+J4U PERSONAL DEAL                2.55-  
+SIG KTCHNS PENNE                 13.38 S
+SIG SLCT BTTLD WTR 24PK           9.32 S
+  24 @ 0.05
+CA CRV                            1.20  
+  3 @ 2.80
+LIMES                             8.40 S
+J4U DIGITAL CPN                  2.52-  
+SHRP CHDR BLOCK                  10.33 S
+  3 @ 0.25
+BAG FEE                           0.75  
+
+SUBTOTAL                          121.46
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                        121.46
+DEBIT TEND                        121.46
+CHANGE                              0.00
+
+05/15/26 13:40  ITEMS 21
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2845  Seattle WA
+            MEMBER ************
+
+393517 ORG TOMATO BASIL MRNR         11.88 E
+     2 @ 5.94
+7392565 TPD/ORG TOMATO B             1.87-  
+1061007 ORG GALA APPLES               6.28 E
+     4 @ 1.57
+895926 FRZN PEAS 12 OZ               21.60 E
+     4 @ 5.40
+864459 DICED TOM 14.5 OZ              2.00 E
+     2 @ 1.00
+1128618 BTTLD WTR 40 PK               9.80 E
+     4 @ 2.45
+133004 KS SOY SCE                     6.79 E
+3817389 TPD/SOY SCE                  2.04-  
+51448 BABY SPNCH                      5.42 E
+1966362 WHITE SANDWICH BRD            7.03 E
+1387848 KS HALF & HALF                5.34 E
+1074344 TILAPIA FILLETS              21.66 E
+1937072 KS HALIBUT                   10.82 E
+921545 GRK YGRT 48 OZ                 5.91 E
+     3 @ 1.97
+574646 TILLAMOOK ICE CRM 48 OZ        8.88 E
+1329736 BNLS CHKN THIGHS              8.64 E
+     1.99 lb @ 4.34 /lb
+517524 2% MLK 2 X 1 GAL               4.70 E
+618022 KS DRIED LENTILS               4.26 E
+2008013 TPD/DRIED LENTIL             0.87-  
+
+SUBTOTAL                              136.23
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            136.23
+DEBIT TEND                            136.23
+CHANGE                                  0.00
+
+08/05/26 07:02  ITEMS 29
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

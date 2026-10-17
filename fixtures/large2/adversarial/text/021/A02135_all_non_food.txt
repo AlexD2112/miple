@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1325  Seattle WA
+            MEMBER ************
+
+905541 CAT LITTER                    14.03 A
+1895213 KS GREETING CARD             20.34 A
+
+SUBTOTAL                               34.37
+TAX 10.55% ON 34.37                     3.63
+**** TOTAL                             38.00
+AMEX TEND                              38.00
+CHANGE                                  0.00
+
+06/22/26 17:00  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

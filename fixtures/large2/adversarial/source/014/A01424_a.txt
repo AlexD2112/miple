@@ -1,0 +1,27 @@
+              TRADER JOE'S
+        Store #0260  Portland OR
+      OPEN 8:00AM TO 9:00PM DAILY
+REG 19 TRN 9235 OPR 195
+OPEN 6AM - 12AM
+FUEL POINTS BALANCE     421
+
+TJ'S LARGE BROWN EGGS             4.29  
+TJ'S PASTURE RAISED EGGS          7.37  
+ORGANIC BABY SPINACH 5 OZ         5.85  
+  3.67 lb @ 1.79 /lb
+BEETS                             6.57  
+WHITE BREAD                       6.34  
+
+SUBTOTAL                           30.42
+TAX                                 0.00
+TOTAL                              30.42
+VISA TEND                          30.42
+CHANGE                              0.00
+
+06/26/26 13:18  ITEMS 5
+T=TAXABLE
+AUTH CODE  648830
+NEXT VISIT COUPON          3.00 OFF
+FUEL POINTS THIS ORDER        224
+BALANCE DUE                   0.00
+               THANK YOU

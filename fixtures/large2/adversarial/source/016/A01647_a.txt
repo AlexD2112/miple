@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2987  Seattle WA
+            MEMBER ************
+
+478630 TORTILLA CHIPS                13.32  
+     4 @ 3.33
+1130512 KS BEETS                      6.78  
+     3.79 lb @ 1.79 /lb
+580647 EVRYTHNG BUT THE BAGEL SEASON  7.01  
+687102 HALIBUT                       10.82  
+1842465 BNLS RIBEYE STEAK            56.02  
+     3.60 lb @ 15.56 /lb
+1754577 ALUMINUM FOIL                18.03 B
+1183271 KS CHERRIES                  11.38  
+     2 @ 5.69
+1458462 RED BELL PEPR                 8.72  
+     2.55 lb @ 3.42 /lb
+1320303 KS CAGE FREE EGGS 18CT        6.85  
+225800 KS PREPARED MAC & CHS         10.62  
+
+SUBTOTAL                              149.55
+TAX 10.55% ON 18.03                     1.90
+**** TOTAL                            151.45
+DEBIT TEND                            151.45
+CHANGE                                  0.00
+
+02/27/26 16:25  ITEMS 14
+B=TAXABLE
+                 THANK YOU

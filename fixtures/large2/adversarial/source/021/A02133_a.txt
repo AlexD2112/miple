@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0037  Seattle WA
+            MEMBER ************
+
+70035 KS PAPER PLATES                 3.31 A
+299673 KS CAT LITTER                 14.03 A
+478853 PAPER TOWELS 6 ROLL            3.75 A
+229674 TRASH BAGS 40CT                6.49 A
+1226017 PLASTIC WRAP                  4.77 A
+1363848 KS TRASH BAGS 40CT            6.49 A
+7844535 TPD/TRASH BAGS 4             1.85- A
+381974 KS PAPER PLATES                3.31 A
+1658783 KS TRASH BAGS 40CT            6.49 A
+344596 KS FLOWERS BOUQUET            23.70 A
+
+SUBTOTAL                               70.49
+TAX 10.55% ON 70.49                     7.44
+**** TOTAL                             77.93
+VISA TEND                              77.93
+CHANGE                                  0.00
+
+04/19/26 14:18  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

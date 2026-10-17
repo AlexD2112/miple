@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1467
+
+  BARILLA PENNE                    19.37 F
+  1.14 lb @ 11.10 /lb
+PORK CHOPS                       12.65 F
+MFR CPN 2.70-
+  4 @ 5.24
+PRIV SEL ROOT BEER 2L            20.96 T
+SMPL TRTH ITALIAN PARSLEY         2.93 F     
+  MISSION FLOUR TORT 40 CT          5.22 F
+  BAG FEE                           0.08 T
+
+SUBTOTAL                           58.51     
+TAX 10.55% ON 21.04                 2.22
+TOTAL                              60.73
+  CASH TEND                          80.00
+CHANGE                             19.27
+
+07/23/26 19:51  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

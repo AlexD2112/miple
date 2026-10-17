@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2759  Seattle WA
+            MEMBER ************
+
+537100 KS GRND TRKY                   5.19  
+1449896 COLD BREW COFFEE 32OZ         8.86  
+     2 @ 4.43
+1889900 SHREDDED CHEDDAR 8 OZ         6.42  
+
+SUBTOTAL                               20.47
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             20.47
+DEBIT TEND                             20.47
+CHANGE                                  0.00
+
+01/25/26 15:11  ITEMS 4
+TX=TAXABLE ITEM
+                 THANK YOU

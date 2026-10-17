@@ -1,0 +1,45 @@
+               FRED MEYER
+               Seattle WA
+               Store 0942
+
+SLTD BTR                          5.73 F
+PEPSI 12 PK CANS                  4.93 T
+TILLAMOOK VAN YGRT                4.05 F
+WHITE SANDWICH BRD                7.03 F
+  0.93 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTS             1.05 F
+MANDARIN ORANGE CHICKEN          15.87 F
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+KRO AA BATTERIES 8PK             24.36 T
+SWISS CHARD                       2.87 F
+
+SUBTOTAL                           75.28
+TAX 10.55% ON 29.29                 3.09
+TOTAL                              78.37
+DISCOVER TEND                      78.37
+CHANGE                              0.00
+
+05/15/26 12:16  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+
+                SAFEWAY
+         Store 0283  Seattle WA
+             (555) 010-9015
+
+SIG KTCHNS DIET COLA 12PK CANS    4.42 T
+FRZN BROC FLRTS                   8.13 S
+SIG KTCHNS DAVES KILLER BRD       6.69 S
+SW FLOUR TORTILLAS                6.18 S
+J4U DIGITAL CPN                  1.85-  
+
+SUBTOTAL                           23.57
+TAX 10.55% ON 4.42                  0.47
+**** TOTAL                         24.04
+AMEX TEND                          24.04
+CHANGE                              0.00
+
+05/02/26 17:41  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0966  Seattle WA
+            MEMBER ************
+
+1385062 BLACKBERRIES                  7.84 E
+     2 @ 3.92
+1489426 BNLS RIBEYE STEAK            40.30 E
+     2.59 lb @ 15.56 /lb
+965252 ORG CARROTS BUNCH              4.63 E
+1698550 GRND BF 88/12                 9.72 E
+     1.62 lb @ 6.00 /lb
+1712301 KS PASTURE RAISED EGGS        7.37 E
+2838 KS DICED TOM CAN                 2.98 E
+194996 KS SWEET POTS                  3.28 E
+1017696 KS KEFIR                      1.27 E
+1099679 AVOCADOS                     16.20 E
+     4 @ 4.05
+1701530 ORGANIC CARROTS BUNCH         4.63 E
+889606 KS BNLS SKNLS CHKN BRST       11.57 E
+     1.73 lb @ 6.69 /lb
+40160 PENNE 16 OZ                     3.51 E
+1203362 KS NAVEL ORANGES              1.01 E
+95413 DICED TOM 14.5 OZ               1.00 E
+306694 RUSSET POTS 5 LB BAG           4.53 E
+
+SUBTOTAL                              119.84
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            119.84
+MASTERCARD TEND                       119.84
+CHANGE                                  0.00
+
+01/31/26 14:48  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

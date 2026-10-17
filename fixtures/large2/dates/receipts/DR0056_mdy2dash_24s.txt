@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3131
+
+TLLMK VAN YGRT                    4.05 F
+AA BATTERIES 8PK                 24.36 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           28.49
+TAX 10.55% ON 24.44                 2.58
+TOTAL                              31.07
+MASTERCARD TEND                    31.07
+CHANGE                              0.00
+
+10-14-30 00:09:21  9977 23 636 4
+ITEMS 10   REG 10  TRANS 4181
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

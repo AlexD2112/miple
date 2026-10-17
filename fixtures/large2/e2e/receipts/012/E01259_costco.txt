@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1299  Seattle WA
+            MEMBER ************
+
+214003 ORG BASIL CLAMSHELL            2.98 E
+     2 @ 1.49
+688419 KS KETCHUP                     5.49 E
+  REFUND - ORIG RECEIPT
+RETURN 688419 KS KETCHUP             5.49- E
+
+SUBTOTAL                                2.98
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              2.98
+DISCOVER TEND                           2.98
+CHANGE                                  0.00
+
+01/25/26 13:08  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

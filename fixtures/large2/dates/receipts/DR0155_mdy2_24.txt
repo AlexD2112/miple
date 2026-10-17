@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 1470
+
+  4 @ 3.46
+TOSTITOS SCOOPS TRTLL CHIPS      13.84 F
+SMPL TRTH QUINOA                  7.75 F
+
+SUBTOTAL                           21.59
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              21.59
+MASTERCARD TEND                    21.59
+CHANGE                              0.00
+
+05/20/24 00:29  5086 39 687 6
+ITEMS 12   REG 07  TRANS 1817
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

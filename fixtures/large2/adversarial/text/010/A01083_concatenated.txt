@@ -1,0 +1,51 @@
+                SAFEWAY
+         Store 1925  Seattle WA
+             (555) 010-2055
+
+BLUBRY 18 OZ                      4.61 S
+LUCERNE ALMOND MLK                5.08 S
+BLACK FOREST HAM 9 OZ             7.00 S
+  4 @ 5.13
+SW SPRKLG WTR 8PK                20.52 S
+  2.09 lb @ 3.50 /lb
+O ORGANICS ENGLISH CUCUMBER       7.32 S
+SIG KTCHNS CHKN BROTH CARTON      8.38 S
+
+SUBTOTAL                           52.91
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         52.91
+DEBIT TEND                         52.91
+CHANGE                              0.00
+
+01/03/26 18:05  ITEMS 9
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU
+----------------------------------------
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2812  Seattle WA
+            MEMBER ************
+
+191063 DOUBLE CREME BRIE              5.40 E
+2729243 TPD/DOUBLE CREME             0.20-  
+1572958 KS EXTRA FIRM TOFU            9.28 E
+     4 @ 2.32
+509378 KS ITALIAN SAUSAGE BULK        9.93 E
+982192 DIGIORNO RISING CRUST PEPPERO  5.73 E
+1019848 CHKN GYOZA POTSTICKERS        9.88 E
+994063 KS SALSA JAR                   4.18 E
+     2 @ 2.09
+1818045 JLPN                          1.79 E
+     1.12 lb @ 1.60 /lb
+1596196 TPD/JLPN                     0.54-  
+87168 ORG BABY SPNCH                  5.54 E
+
+SUBTOTAL                               50.99
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             50.99
+DISCOVER TEND                          50.99
+CHANGE                                  0.00
+
+03/03/26 08:45  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

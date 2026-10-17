@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1888  Seattle WA
+            MEMBER ************
+
+1728785 KS BAGGED CAESAR SALAD KIT    4.42 E
+     2 @ 2.21
+321435 PLAIN GOAT CHS                 5.77 E
+
+SUBTOTAL                               10.19
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             10.19
+VISA TEND                              10.19
+CHANGE                                  0.00
+
+09/15/26 21:41  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

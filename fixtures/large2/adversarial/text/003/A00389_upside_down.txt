@@ -1,0 +1,33 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+01/16/26 15:30  ITEMS 14
+
+CHANGE                              0.00
+DEBIT TEND                        140.02
+TOTAL                             140.02
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                          140.02
+
+SMPL TRTH BRUSSELS SPROUTS        3.10 F
+  1.33 lb @ 2.33 /lb
+PRIV SEL CHUCK ROAST             52.49 F
+  3.82 lb @ 13.74 /lb
+LARGE EGGS 18 CT                  7.52 F
+ORG SPROUTED TOFU                 2.61 F
+SMPL TRTH CHERRIES                5.69 F
+SMPL TRTH MANGO                   2.75 F
+  3.62 lb @ 0.76 /lb
+HEINZ KETCHUP 32 OZ               4.48 F
+PARSNIPS                          5.10 F
+  2.10 lb @ 2.43 /lb
+SMPL TRTH GRND CHKN              15.99 F
+  3.16 lb @ 5.06 /lb
+SLTD BTR 4 STICKS                 9.37 F
+GRND TRKY                         5.19 F
+FRZN PEAS                        13.98 F
+2% MLK 2 X 1 GAL                  4.70 F
+KRO FRZN WAFFLES                  7.05 F
+
+         Seattle WA  Store 2030
+          Quality Food Centers
+                  QFC

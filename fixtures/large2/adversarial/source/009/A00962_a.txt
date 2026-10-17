@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 1212
+
+SMPL TRTH GRNLA BRS               6.07 F
+KRO SAVINGS                      1.75-  
+KRO TOOTHPASTE                   16.40 F
+FM SALSA JAR                      2.09 F
+KRO BOTTLED WTR 24PK              9.32 F
+  24 @ 0.10
+OR BTL DEP                        2.40  
+GENOA SALAMI                      4.76 F
+MFR CPN                          1.43-  
+
+SUBTOTAL                           37.86
+TAX                                 0.00
+TOTAL                              37.86
+AMEX TEND                          37.86
+CHANGE                              0.00
+
+07/06/26 10:11  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

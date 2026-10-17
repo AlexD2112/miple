@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0329  Seattle WA
+            MEMBER ************
+
+699283 ORG HONEYCRISP APPLES          3.34 E
+     2.51 lb @ 1.33 /lb
+831945 KS ARGL                        4.00 E
+1783273 GRK YGRT 48 OZ                3.94 E
+     2 @ 1.97
+790039 HANDMADE STYLE CORN TORT       3.55 E
+1874726 KS GRTNG CARD                20.34 A
+715202 BNLS CHKN THIGHS              21.61 E
+     4.98 lb @ 4.34 /lb
+451003 CELERY HEARTS                  4.34 E
+386517 CLFLWR                         9.44 E
+     2.51 lb @ 3.76 /lb
+381152 KALE                           4.17 E
+1212652 KS CHKN BROTH CARTON          8.38 E
+820472 PARMIGIANO REGGIANO WEDGE      8.42 E
+7366686 TPD/PARMIGIANO R             1.74-  
+1649880 YELLOW ONIN                   1.78 E
+902288 ROMA TOMATOES                  2.38 E
+1156552 STRAUS PLAIN GRK YGRT         3.48 E
+     2 @ 1.74
+1734266 KS KEFIR                      1.27 E
+0037048 TPD/KEFIR                    0.38-  
+514191 KS WHL MLK HALF GALLON         6.79 E
+
+SUBTOTAL                              105.11
+TAX 10.55% ON 20.34                     2.15
+**** TOTAL                            107.26
+VISA TEND                             107.26
+CHANGE                                  0.00
+
+04/09/26 11:56  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

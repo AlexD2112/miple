@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0770  Portland OR
+            MEMBER ************
+
+219057 FRESH DILL                     0.90 F
+1149661 TOSTITOS SCOOPS TORTILLA CHI  3.46 F
+221904 KS CRL                         6.63 F
+1422985 CHBN PLAIN GRK YGRT 32 OZ     1.47 F
+369218 SPRING MIX                     5.44 F
+3882492 TPD/SPRING MIX               1.63-  
+262330 ORG ITALIAN PARSLEY            1.95 F
+5305 BONELESS RIBEYE STEAK           26.92 F
+     1.73 lb @ 15.56 /lb
+153060 FRZN THREE BERRY BLEND 4 LB    7.68 F
+     3 @ 2.56
+390677 KS BABY SPINACH                5.42 F
+484001 KS CARROTS                     1.79 F
+292624 TRTLL CHIPS                    3.33 F
+306615 KS PORK CHOPS                 32.63 F
+     2.94 lb @ 11.10 /lb
+749923 HASS AVOCADO LG               10.96 F
+     3.28 lb @ 3.34 /lb
+9999729 TPD/HASS AVOCADO             0.78-  
+1294018 KS CAT LITTER                14.03 F
+
+SUBTOTAL                              120.20
+TAX                                     0.00
+**** TOTAL                            120.20
+DEBIT TEND                            120.20
+CHANGE                                  0.00
+
+02/24/26 20:11  ITEMS 16
+T=TAXABLE  F=FOOD
+                 THANK YOU

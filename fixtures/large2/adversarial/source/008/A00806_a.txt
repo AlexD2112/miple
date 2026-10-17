@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1809  Seattle WA
+            MEMBER ************
+
+1327041 TORTILLA CHIPS                6.66 E
+     2 @ 3.33
+1490513 KS FROZEN DUMPLINGS          15.61 E
+687268 KS SRDGH LOAF                  7.47 E
+
+SUBTOTAL                               29.74
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             29.74
+DEBIT TEND                             29.74
+CHANGE                                  0.00
+
+05/21/26 08:22  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

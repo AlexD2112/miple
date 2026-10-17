@@ -1,0 +1,17 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1461
+
+GREETING CARD                    20.34 T
+PAPER PLATES                      3.31 T
+TTHPST                           16.40 T
+
+SUBTOTAL                           40.05
+TAX 10.55% ON 40.05                 4.23
+TOTAL                              44.28
+VISA TEND                          44.28
+CHANGE                              0.00
+
+01/05/26 20:32  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

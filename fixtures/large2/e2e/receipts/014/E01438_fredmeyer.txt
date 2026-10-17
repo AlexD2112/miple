@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 0947
+
+LEMONS                            4.19 F
+  3 @ 2.02
+CILANTRO BUNCH                    6.06 F
+KRO SAVINGS                      1.82-  
+FM UNSLTD BTR                     9.95 F
+ORANGE JUICE                      7.69 F
+BANANA                            2.37 F
+ARGL                              4.00 F
+DIGITAL CPN                      1.20-  
+KRO FRZN PIZZA                   13.30 F
+KRO KOMBUCHA 16OZ                 4.58 F
+BRLL PENNE                       19.37 F
+  2 @ 5.79
+KRO LEMONADE 52OZ                11.58 T
+  1.42 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS              13.14 F
+FM WHL MLK HALF GALLON            6.79 F
+
+SUBTOTAL                          100.00
+TAX 10.55% ON 11.58                 1.22
+TOTAL                             101.22
+VISA TEND                         101.22
+CHANGE                              0.00
+
+05/25/26 09:47  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

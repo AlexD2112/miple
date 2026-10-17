@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2478  Portland OR
+            MEMBER ************
+
+1578520 KS FRZN PEAS                 13.98 E
+929099 FLOUR TORTILLAS 10 CT          9.40 E
+     4 @ 2.35
+
+SUBTOTAL                               23.38
+TAX                                     0.00
+**** TOTAL                             23.38
+AMEX TEND                              23.38
+CHANGE                                  0.00
+
+06/13/26 18:38  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

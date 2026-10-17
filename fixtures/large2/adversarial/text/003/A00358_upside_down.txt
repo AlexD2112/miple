@@ -1,0 +1,31 @@
+                 THANK YOU
+A=TAXABLE  E=NONTAXABLE FOOD
+05/08/26 19:40  ITEMS 14
+
+CHANGE                                  0.00
+AMEX TEND                             100.96
+**** TOTAL                            100.96
+TAX 10.55% ON 0.00                      0.00
+SUBTOTAL                              100.96
+
+1161545 WHITE BRD                     6.34 E
+59413 KS ASPARAGUS                    2.93 E
+258259 ALMOND MLK                     5.08 E
+707485 KS DAVES KILLER BRD            6.69 E
+0595831 TPD/DICED TOM CA             0.89-  
+579735 DICED TOM CAN                  2.98 E
+829307 KS UNSLTD BTR                  9.95 E
+     0.83 lb @ 1.25 /lb
+1524705 KS PINEAPPLE                  1.04 E
+832130 KS CHKN THIGHS                 9.29 E
+653146 KS ATLNTC SLMN FLLT           19.77 E
+1673500 KS CARROTS                    1.79 E
+224360 PENNE                         13.38 E
+59237 KS VAN YGRT CUPS                5.39 E
+972566 KS BLACKBERRIES                3.92 E
+1436294 FROZEN PIZZA                 13.30 E
+
+            MEMBER ************
+        Warehouse #2174  Seattle WA
+                 WHOLESALE
+                   COSTCO

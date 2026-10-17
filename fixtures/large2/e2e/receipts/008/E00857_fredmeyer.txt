@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 2414
+
+APPLE JUICE 64OZ                  7.25 F
+MAYONNAISE 30 OZ                  6.42 F
+  2.58 lb @ 2.08 /lb
+KIWI                              5.37 F
+  4 @ 3.33
+KRO TORTILLA CHIPS               13.32 F
+DIGITAL CPN                      2.29-  
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+  2.62 lb @ 7.09 /lb
+SMPL TRTH TRKY BRST              18.58 F
+SHRP CHDR BLOCK                  10.33 F
+SMPL TRTH MANDARINS               2.72 F
+GRASS-FED GRND BF 85/15           7.35 F
+DOUBLE CREME BRIE                 5.40 F
+SLCD SRDGH PAN LOAF               4.74 F
+BAGGED CAESAR SALAD KIT           2.21 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           90.39
+TAX 10.55% ON 8.99                  0.95
+TOTAL                              91.34
+CASH TEND                         100.00
+CHANGE                              8.66
+
+05/08/26 19:53  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

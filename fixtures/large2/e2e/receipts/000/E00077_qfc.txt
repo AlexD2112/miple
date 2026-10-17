@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2087
+
+  3.29 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               12.24 F
+  0.93 lb @ 9.25 /lb
+KRO SWISS CHS                     8.60 F
+OAT MLK                           3.10 F
+SMPL TRTH KRRYGLD BTR            10.81 F
+KRO PAPER PLATES                  3.31 T
+  4 @ 3.04
+RED GRAPES                       12.16 F
+ALUMINUM FOIL                    18.03 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           68.41
+TAX 10.55% ON 21.50                 2.27
+TOTAL                              70.68
+DEBIT TEND                         70.68
+CHANGE                              0.00
+
+01/12/26 08:41  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

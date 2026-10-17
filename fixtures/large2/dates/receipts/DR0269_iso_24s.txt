@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1118  Portland OR
+            MEMBER ************
+
+1911209 PEPSI 12 PK CANS              4.93 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+472037 WHL MLK HALF GALLON            6.79 E
+138463 LG EGGS 12 CT                  8.69 E
+1839706 ORG BASIL CLAMSHELL           1.49 E
+603245 BOTTLED WATER 40 PK            2.45 E
+  40 @ 0.10
+OR BTL DEP                            4.00  
+2409484 TPD/BOTTLED WATE             0.74-  
+913867 FRESH BASIL                   10.96 E
+     4 @ 2.74
+
+SUBTOTAL                               38.67
+TAX                                     0.00
+**** TOTAL                             38.67
+DISCOVER TEND                          38.67
+CHANGE                                  0.00
+
+BUSINESS DATE 02/27/27
+2027-02-28 01:38:03  810 810 6879 07
+ITEMS 4   REG 13  TRANS 8173
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

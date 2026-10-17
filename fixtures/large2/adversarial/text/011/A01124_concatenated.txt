@@ -1,0 +1,63 @@
+               FRED MEYER
+               Seattle WA
+               Store 0162
+
+  2 @ 4.74
+SLCD SOURDOUGH PAN LOAF           9.48 F
+SMPL TRTH GREEN ONIONS BUNCH      2.59 F
+  4 @ 5.24
+SMPL TRTH ROOT BEER 2L           20.96 T
+  2.17 lb @ 9.93 /lb
+BONELESS PORK LOIN CHOPS         21.55 F
+ORG ROMAINE HEARTS 3 CT           3.76 F
+  3.00 lb @ 1.48 /lb
+RED ONIONS                        4.44 F
+SMPL TRTH COTTAGE CHS             3.21 F
+MFR CPN                          0.96-  
+KRO CAT LITTER                   14.03 T
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+KRO PAPER TOWELS 6 ROLL           3.75 T
+SMPL TRTH CORN TORT               2.79 F
+AHI TUNA STEAK                   14.71 F
+MSSN FLOUR TORT 40 CT             5.22 F
+FM ITLN SSG BULK                  9.93 F
+FRZN BROC FLORETS                 8.13 F
+AVCDS BAG 4 CT                    3.54 F
+MFR CPN                          1.06-  
+  4 @ 2.20
+LACROIX LIME SPRKLG WTR 8 PK      8.80 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          143.99
+TAX 10.55% ON 38.98                 4.11
+TOTAL                             148.10
+VISA TEND                         148.10
+CHANGE                              0.00
+
+04/12/26 07:08  ITEMS 24
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+
+              TRADER JOE'S
+        Store #1894  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+  2 @ 2.25
+BROCCOLI CROWNS                   4.50  
+STRAWBERRIES 2 LB                 5.88  
+  4 @ 5.24
+ROOT BEER 2L                     20.96 T
+  3 @ 1.51
+TJ'S COLA 12PK CANS               4.53 T
+
+SUBTOTAL                           35.87
+TAX 10.55% ON 25.49                 2.69
+TOTAL                              38.56
+DEBIT TEND                         38.56
+CHANGE                              0.00
+
+06/26/26 21:55  ITEMS 10
+T=TAXABLE
+               THANK YOU

@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1506
+
+KRO HAND SOAP                    24.27 T
+  1.00 lb @ 1.79 /lb
+SMPL TRTH BEETS                   1.79 F
+KRO GROUND COFFEE                 9.64 F
+  3.54 lb @ 3.76 /lb
+SMPL TRTH CAULIFLOWER            13.31 F
+CHERRY TOM                        1.15 F
+SMPL TRTH ROMAINE LETTUCE         2.79 F
+BTR LTTC                          2.45 F
+KRO CHKN THIGHS                   9.29 F
+SMPL TRTH ROMAINE LETTUCE         2.79 F
+PENNE 16 OZ                       3.51 F
+
+SUBTOTAL                           70.99
+TAX 10.55% ON 24.27                 2.56
+TOTAL                              73.55
+VISA TEND                          73.55
+CHANGE                              0.00
+
+02/11/26 13:25  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

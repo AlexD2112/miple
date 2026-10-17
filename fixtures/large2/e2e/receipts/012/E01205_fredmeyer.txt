@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1276
+
+KRO ORANGE JUICE 52OZ             9.39 F
+KRO GOAT CHS                      8.35 F
+EVERYTHING BUT THE BAGEL SSNNG    7.01 F
+  0.56 lb @ 3.50 /lb
+SMPL TRTH ENGLISH CUCUMBER        1.96 F
+KRO AA BATTERIES 8PK             24.36 T
+ORGANIC TOMATO BASIL MARINARA     5.94 F
+KRO BAGELS                        3.77 F
+FM WHL WHT SANDWICH BRD           2.54 F
+FLOWERS BOUQUET                  23.70 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           87.10
+TAX 10.55% ON 48.14                 5.08
+TOTAL                              92.18
+CASH TEND                         100.00
+CHANGE                              7.82
+
+03/06/26 07:01  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

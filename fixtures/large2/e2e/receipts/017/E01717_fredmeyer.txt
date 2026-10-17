@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 0408
+
+CC-CL 12 PK CANS                  2.77 T
+CHKN GYOZA POTSTICKERS            9.88 F
+KRO NPKNS                        24.05 T
+WHITE SANDWICH BRD                7.03 F
+DIGITAL CPN                      1.05-  
+KRO TOOTHPASTE                   16.40 T
+ICEBERG LTTC                      5.11 F
+  4 @ 1.08
+TUNA CAN                          4.32 F
+KRO CHKN BROTH CARTON             8.38 F
+DIGITAL CPN                      1.36-  
+SMPL TRTH BARTLETT PEARS          3.00 F
+ORG GALA APPLES                   1.57 F
+CELERY HEARTS                     4.34 F
+SMPL TRTH SOY SCE                 6.79 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           91.31
+TAX 10.55% ON 43.30                 4.57
+TOTAL                              95.88
+VISA TEND                          95.88
+CHANGE                              0.00
+
+04/27/26 15:10  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

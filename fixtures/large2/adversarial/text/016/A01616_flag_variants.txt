@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0348  Seattle WA
+            MEMBER ************
+
+656730 SWISS CHEESE                  13.51 E
+     1.46 lb @ 9.25 /lb
+1440100 PLAIN NONFAT GRK YGRT         9.30 E
+     2 @ 4.65
+415913 KS ROOT BEER 2L                5.24 A
+502373 KS 2% MLK GALLON               6.49 E
+1526436 POTATO CHIPS                  5.07 E
+0273477 TPD/POTATO CHIPS             0.88-  
+
+SUBTOTAL                               38.73
+TAX 10.55% ON 5.24                      0.55
+**** TOTAL                             39.28
+AMEX TEND                              39.28
+CHANGE                                  0.00
+
+03/12/26 13:57  ITEMS 6
+A=TAXABLE  E=EXEMPT
+                 THANK YOU

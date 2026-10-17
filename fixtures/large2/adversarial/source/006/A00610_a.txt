@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2807  Seattle WA
+            MEMBER ************
+
+1910517 LACROIX LIME SPRKLG WTR 8 PK  2.20 E
+1851758 ORG GALA APPLES               4.71 E
+     3 @ 1.57
+1102523 SALTED BUTTER 4 STICKS        9.37 E
+
+SUBTOTAL                               16.28
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             16.28
+AMEX TEND                              16.28
+CHANGE                                  0.00
+
+04/28/26 15:14  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

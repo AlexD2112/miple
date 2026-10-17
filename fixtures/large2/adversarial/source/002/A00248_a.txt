@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 1882  Seattle WA
+             (555) 010-2300
+
+  2 @ 1.72
+SIG SLCT FROZEN BROCCOLI          3.44 S
+SIG KTCHNS ATLANTIC SLMN FLLT    19.77 S
+BANANA                            2.37 S
+
+SUBTOTAL                           25.58
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         25.58
+VISA TEND                          25.58
+CHANGE                              0.00
+
+05/15/26 13:08  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

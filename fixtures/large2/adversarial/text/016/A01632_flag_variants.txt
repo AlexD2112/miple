@@ -1,0 +1,30 @@
+               FRED MEYER
+              Portland OR
+               Store 3727
+
+CHKN BROTH CARTON                 8.38 F
+FM FRESH MOZZ                     8.65 F
+GRND COFFEE                       9.64 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  0.76 lb @ 2.08 /lb
+KIWI                              1.58 F
+SMPL TRTH ICE CREAM              14.51 F
+  1.45 lb @ 2.43 /lb
+PARSNIPS                          3.52 F
+MFR CPN                          1.06-  
+GRND COFFEE                       9.64 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+FM PLUS CARD SAV                 2.76-  
+PRMGN RGGN WEDGE                  8.42 F
+
+SUBTOTAL                           60.72
+TAX                                 0.00
+TOTAL                              60.72
+CASH TEND                          80.00
+CHANGE                             19.28
+
+06/15/26 10:52  ITEMS 8
+T=TAXABLE  F=FOOD
+               THANK YOU

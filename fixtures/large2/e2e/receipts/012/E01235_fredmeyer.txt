@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 3162
+
+RUSSET POTS 5 LB BAG              4.53 F
+ORG CRRTS BUNCH                   4.63 F
+HANDMADE STYLE CORN TORT          3.55 F
+  REFUND - ORIG RECEIPT
+RETURN RUSSET POTS 5 LB BAG      4.53- F
+
+SUBTOTAL                            8.18
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               8.18
+DISCOVER TEND                       8.18
+CHANGE                              0.00
+
+01/21/26 09:13  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

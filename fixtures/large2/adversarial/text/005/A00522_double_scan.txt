@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3655  Seattle WA
+            MEMBER ************
+
+1302700 KS GREEN ONIN BUNCH           2.59 E
+251423 KS ICEBERG LETTUCE             5.11 E
+1821310 GRND BF 88/12                26.64 E
+     4.44 lb @ 6.00 /lb
+1749758 CHKN DRUMSTICKS               8.97 E
+787657 KS CHKN BROTH CARTON           8.38 E
+594917 KS RADISHES                    0.37 E
+     0.35 lb @ 1.05 /lb
+1750325 STRWB                         4.35 E
+1427598 KS SLCD ROAST BF              5.94 E
+6228108 TPD/SLCD ROAST B             1.58-  
+120139 MANDARIN ORANGE CHICKEN       15.87 E
+1175355 KS RED ONIN                   4.28 E
+     2.89 lb @ 1.48 /lb
+8985758 TPD/RED ONIN                 1.28-  
+885546 BLUBRY 18 OZ                   4.61 E
+1427598 KS SLCD ROAST BF              5.94 E
+6228108 TPD/SLCD ROAST B             1.58-  
+120139 MANDARIN ORANGE CHICKEN       15.87 E
+1175355 KS RED ONIN                   4.28 E
+     2.89 lb @ 1.48 /lb
+8985758 TPD/RED ONIN                 1.28-  
+885546 BLUBRY 18 OZ                   4.61 E
+
+SUBTOTAL                               84.25
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             84.25
+DISCOVER TEND                          84.25
+CHANGE                                  0.00
+
+09/19/26 20:19  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

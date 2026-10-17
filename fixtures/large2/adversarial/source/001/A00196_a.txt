@@ -1,0 +1,28 @@
+              TRADER JOE'S
+        Store #0242  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+  2 @ 2.37
+BANANA                            4.74  
+  1.35 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              14.84  
+  2 @ 4.74
+SLCD SOURDOUGH PAN LOAF           9.48  
+  1.33 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             1.77  
+  2.23 lb @ 18.16 /lb
+TJ'S COD FILLET                  40.50  
+  3.09 lb @ 0.76 /lb
+MANGO                             2.35  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           73.84
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              73.86
+DEBIT TEND                         73.86
+CHANGE                              0.00
+
+04/19/26 07:22  ITEMS 8
+T=TAXABLE
+               THANK YOU

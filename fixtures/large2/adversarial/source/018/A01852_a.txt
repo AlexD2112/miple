@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 1390
+
+ZIP TOP BAGS                     24.79 T
+  0.37 lb @ 3.34 /lb
+HASS AVOCADO LG                   1.24 F
+KRO SAVINGS                      0.37-  
+KRO COTTAGE CHEESE                3.21 F
+FM PRMGN RGGN                     7.82 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           36.77
+TAX 10.55% ON 24.87                 2.62
+TOTAL                              38.89
+AMEX TEND                          38.89
+CHANGE                              0.00
+
+01/23/26 11:27  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

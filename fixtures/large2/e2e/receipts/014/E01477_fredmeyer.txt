@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 2095
+
+FM GRK YGRT PLAIN                 4.11 F
+KRO TORTILLA CHIPS                3.33 F
+SMPL TRTH AVOCADOS                4.05 F
+MFR CPN                          0.41-  
+KRO HAMBURGER BUNS                2.77 F
+2% MLK 2 X 1 GAL                  4.70 F
+  2 @ 2.06
+FRZN MIXED BRRS                   4.12 F
+CHKN BROTH CARTON                 8.38 F
+BAGGED CAESAR SALAD KIT           2.21 F
+CRACKERS                          2.00 F
+
+SUBTOTAL                           35.26
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              35.26
+CASH TEND                          40.00
+CHANGE                              4.74
+
+02/03/26 07:25  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

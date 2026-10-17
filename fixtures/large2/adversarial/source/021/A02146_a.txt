@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 1456
+
+  REFUND - ORIG RECEIPT
+RETURN ICBRG LTTC               15.33- F
+RETURN FM FROZEN PIZZA          13.30- F
+  REFUND - ORIG RECEIPT
+RETURN KRO CHUCK ROAST          39.57- F
+RETURN CLNTR                     2.32- F
+RETURN FM SILKEN TOFU            2.29- F
+
+SUBTOTAL                          72.81-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             72.81-
+VISA TEND                         72.81-
+CHANGE                              0.00
+
+05/11/26 12:31  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

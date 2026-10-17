@@ -1,0 +1,38 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2329
+
+KRO GRND COFFEE                   9.64 F
+SMPL TRTH RED GRAPES              3.04 F
+SMPL TRTH MNDRNS                  2.72 F
+SWEET POTS                        3.28 F
+BOTTLED WTR 40 PK                 2.45 F
+PRIV SEL ATLANTIC SALMON FILLET  19.77 F
+SMPL TRTH SLTD BTR                5.73 F
+KRO HALIBUT                      10.82 F
+KRO ORANGE JUICE                  7.69 F
+  4 @ 1.74
+STRAUS PLAIN GRK YGRT             6.96 F
+SMPL TRTH CHKN THIGHS             9.29 F
+SMPL TRTH DAVES KILLER BRD        6.69 F
+MFR CPN                          0.71-  
+PRIV SEL FROZEN DUMPLINGS        15.61 F
+  3 @ 3.04
+RED GRAPES                        9.12 F
+DIGITAL CPN                      2.74-  
+PRIV SEL GENOA SALAMI             4.76 F
+SMPL TRTH CHKN DRMSTCKS           8.97 F
+PRIV SEL SLCD ROAST BF            5.94 F
+  4 @ 3.98
+SMPL TRTH ROLLED OATS            15.92 F
+KRO DISH SOAP                    19.39 T
+
+SUBTOTAL                          164.34
+TAX 10.55% ON 19.39                 2.05
+TOTAL                             166.39
+AMEX TEND                         166.39
+CHANGE                              0.00
+
+05/21/26 14:23  ITEMS 27
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

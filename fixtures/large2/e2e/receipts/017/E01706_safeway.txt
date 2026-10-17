@@ -1,0 +1,22 @@
+                SAFEWAY
+         Store 2421  Seattle WA
+             (555) 010-1626
+
+  4 @ 1.49
+ORG BASIL CLMSHLL                 5.96 S
+O ORGANICS AVOCADOS               4.05 S
+  2 @ 5.40
+FROZEN PEAS 12 OZ                10.80 S
+UNSLTD BTR                        9.95 S
+LUCERNE CTTG CHS                  3.21 S
+BAG FEE                           0.08 T
+
+SUBTOTAL                           34.05
+TAX 10.55% ON 0.08                  0.01
+**** TOTAL                         34.06
+CASH TEND                          40.00
+CHANGE                              5.94
+
+05/07/26 21:51  ITEMS 9
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

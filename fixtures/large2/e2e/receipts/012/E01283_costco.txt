@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1691  Seattle WA
+            MEMBER ************
+
+574722 SWISS CHS                      4.81 E
+     0.52 lb @ 9.25 /lb
+1328119 ORG ROMAINE HEARTS 3 CT      15.04 E
+     4 @ 3.76
+99209 KS KIWI                         2.08 E
+     1.00 lb @ 2.08 /lb
+1858949 ORG HONEYCRISP APPLES         1.38 E
+     1.04 lb @ 1.33 /lb
+1514527 KS MAYONNAISE                 6.36 E
+914830 KS LIMES                       2.80 E
+2600501 TPD/LIMES                    0.84-  
+896221 KS BABY CARROTS                2.49 E
+6486667 TPD/BABY CARROTS             0.42-  
+
+SUBTOTAL                               33.70
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             33.70
+AMEX TEND                              33.70
+CHANGE                                  0.00
+
+02/13/26 09:49  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

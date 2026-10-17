@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0466
+
+SMPL TRTH ICE CRM                14.51 F
+MFR CPN                          2.72-  
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+KRO ALUMINUM FOIL                18.03 T
+CELERY                            4.32 F
+  3 @ 4.93
+PEPSI 12 PK CANS                 14.79 T
+
+SUBTOTAL                           53.14
+TAX 10.55% ON 32.82                 3.46
+TOTAL                              56.60
+DISCOVER TEND                      56.60
+CHANGE                              0.00
+
+02/07/26 21:55  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

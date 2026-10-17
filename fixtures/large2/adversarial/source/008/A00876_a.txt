@@ -1,0 +1,22 @@
+                SAFEWAY
+         Store 0869  Seattle WA
+             (555) 010-0102
+
+  3 @ 2.56
+FRZN THREE BERRY BLEND 4 LB       7.68 S
+  2 @ 5.49
+ORG SPRING MIX 1 LB              10.98 S
+  2 @ 5.87
+BLUBRY                           11.74 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           30.64
+TAX 10.55% ON 0.24                  0.03
+**** TOTAL                         30.67
+MASTERCARD TEND                    30.67
+CHANGE                              0.00
+
+07/18/26 09:06  ITEMS 7
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

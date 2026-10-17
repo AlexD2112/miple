@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 2061
+
+STRAUS PLAIN GRK YGRT             1.74 F
+KRO SAVINGS                      0.52-  
+  2.85 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                5.59 F
+ROMA TOM                          2.38 F
+  2.61 lb @ 1.79 /lb
+BEETS                             4.67 F
+GREEN BEANS                       2.31 F
+YUKON GOLD POTS                   3.99 F
+CRM CHS 8 OZ                      3.15 F
+KRO SAVINGS                      0.95-  
+BABY SPNCH 5 OZ                   3.77 F
+FM 2% MILK GALLON                 6.49 F
+SMPL TRTH RANCH DRESSING          3.99 F
+KRO SAVINGS                      0.24-  
+SMPL TRTH COTTAGE CHS             3.21 F
+SPRKLG WTR                        3.74 F
+
+SUBTOTAL                           43.32
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              43.32
+AMEX TEND                          43.32
+CHANGE                              0.00
+
+06/22/26 15:29  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

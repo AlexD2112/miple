@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3254  Seattle WA
+            MEMBER ************
+
+238203 ORG EGGS 24 CT                 7.83 E
+3008001 TPD/ORG EGGS 24              1.96-  
+1167903 KS DRIED LNTLS               12.78 E
+     3 @ 4.26
+60249 KS SWEET POTS                   3.28 E
+1471793 KS BABY SPNCH                21.68 E
+     4 @ 5.42
+169386 NAPKINS                       24.05 A
+6934562 TPD/NAPKINS                  1.36- A
+1596581 KS BOTTLED WTR 24PK           9.32 E
+564566 ORG TOMATO BASIL MRNR          5.94 E
+5454028 TPD/ORG TOMATO B             1.78-  
+  REFUND - ORIG RECEIPT
+RETURN 169386 NAPKINS               24.05- A
+
+SUBTOTAL                               55.73
+TAX 10.55% ON 1.36-                    0.14-
+**** TOTAL                             55.59
+DISCOVER TEND                          55.59
+CHANGE                                  0.00
+
+09/15/26 07:59  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 3720
+
+JASMINE RICE                     12.13 F
+SMPL TRTH CRMN MSHRM              1.14 F
+  3.30 lb @ 3.34 /lb
+HASS AVOCADO LG                  11.02 F
+KRO SAVINGS                      1.93-  
+WHL WHT SANDWICH BRD              2.54 F
+  2 @ 3.74
+SMPL TRTH SPRKLG WTR              7.48 F
+FM TUNA CAN                       1.08 F
+FM TUNA CAN                       1.08 F
+LG EGGS 12 CT                     8.69 F
+  0.58 lb @ 18.16 /lb
+SMPL TRTH COD FLLT               10.53 F
+SMPL TRTH BABY CARROTS            2.49 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+SMPL TRTH ATLNTC SLMN FLLT       19.77 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           83.11
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              83.12
+DISCOVER TEND                      83.12
+CHANGE                              0.00
+
+01/08/26 17:34  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

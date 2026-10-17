@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2034  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1661087 KS ROMA TOMATOES      4.76- E
+  REFUND - ORIG RECEIPT
+RETURN 1334411 KS FRZN BROC          1.72- E
+
+SUBTOTAL                               6.48-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             6.48-
+AMEX TEND                              6.48-
+CHANGE                                  0.00
+
+06/27/26 18:45  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

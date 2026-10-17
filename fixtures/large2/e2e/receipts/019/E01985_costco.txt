@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2352  Seattle WA
+            MEMBER ************
+
+154264 BONELESS PORK LOIN CHOPS       9.73 E
+     0.98 lb @ 9.93 /lb
+1751559 DELI SLCD TRKY BRST           7.80 E
+     0.71 lb @ 10.99 /lb
+438453 KS GRND PORK                   6.60 E
+
+SUBTOTAL                               24.13
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             24.13
+DEBIT TEND                             24.13
+CHANGE                                  0.00
+
+06/06/26 12:39  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0439  Seattle WA
+            MEMBER ************
+
+1695507 SLCD TRKY BRST                8.17 E
+     0.62 lb @ 13.18 /lb
+4556741 TPD/SLCD TRKY BR             0.75-  
+1301123 SRDGH LOAF                    7.47 E
+ 929616 KS AA BATTERIES 8PK           24.36 A
+11914 KS BATH TISSUE 12 ROLL         23.08 A
+773578 KS FRESH MINT                  2.74 E
+828604 KS BNLS SKNLS CHKN BRST           27.30 E
+     4.08 lb @ 6.69 /lb
+4148466 TPD/BNLS SKNLS C             0.88-  
+1211107 WHITE SANDWICH BREAD 7.03 E
+
+SUBTOTAL                               98.52
+TAX 10.55% ON 47.44 5.00
+**** TOTAL 103.52
+DEBIT TEND                             103.52
+CHANGE                                  0.00
+
+06/11/26 16:57  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

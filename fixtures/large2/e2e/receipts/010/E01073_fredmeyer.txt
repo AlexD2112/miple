@@ -1,0 +1,19 @@
+               FRED MEYER
+              Portland OR
+               Store 3907
+
+  2.84 lb @ 2.08 /lb
+KIWI                              5.91 F
+DICED TOM 14.5 OZ                 1.00 F
+KRO ITALIAN SAUSAGE BULK          9.93 F
+DIGITAL CPN                      0.47-  
+
+SUBTOTAL                           16.37
+TAX                                 0.00
+TOTAL                              16.37
+DEBIT TEND                         16.37
+CHANGE                              0.00
+
+07/28/26 20:26  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

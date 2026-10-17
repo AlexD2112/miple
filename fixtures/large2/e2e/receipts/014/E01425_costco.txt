@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2581  Seattle WA
+            MEMBER ************
+
+515279 KS GRK YGRT PLAIN              4.11 E
+1513148 TPD/GRK YGRT PLA             0.23-  
+122220 KS DRIED LENTILS               4.26 E
+  REFUND - ORIG RECEIPT
+RETURN 122220 KS DRIED LENTILS       4.26- E
+
+SUBTOTAL                                3.88
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              3.88
+VISA TEND                               3.88
+CHANGE                                  0.00
+
+02/28/27 15:16  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 2787
+
+GRND COFFEE                       9.64 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+SMPL TRTH BLCKBRRS                3.92 F
+ARUGULA                           4.00 F
+DIGITAL CPN                      1.20-  
+GRK YGRT 48 OZ                    1.97 F
+  4 @ 3.77
+BABY SPINACH 5 OZ                15.08 F
+AA BTTRS 8PK                     24.36 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           58.02
+TAX                                 0.00
+TOTAL                              58.02
+VISA TEND                          58.02
+CHANGE                              0.00
+
+04/10/26 10:48  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

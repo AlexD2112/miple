@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0956  San Francisco CA
+            MEMBER ************
+
+616903 BEETS                          2.85 E
+     1.59 lb @ 1.79 /lb
+1768584 FRZN MIXED BERRIES            2.06 E
+665620 MAYONNAISE 30 OZ               6.42 E
+1732102 SHREDDED CHDR 8 OZ            6.42 E
+687354 CELERY HEARTS                  4.34 E
+113015 PEPSI 12 PACK CANS             9.86 A
+     2 @ 4.93
+  2 @ 0.05
+CA CRV                                0.10 A
+528030 KS RANCH DRESSING              3.99 E
+1755526 BOTTLED WATER 40 PK           2.45 E
+  40 @ 0.05
+CA CRV                                2.00  
+1860263 BAGELS                        7.54 E
+     2 @ 3.77
+483551 BLUBRY 18 OZ                   4.61 E
+
+SUBTOTAL                               52.64
+TAX 8.625% ON 9.96                      0.86
+**** TOTAL                             53.50
+DISCOVER TEND                          53.50
+CHANGE                                  0.00
+
+08/08/26 17:08  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

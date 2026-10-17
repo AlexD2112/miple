@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 2026
+
+MAYONNAISE 30 OZ                  6.42 F
+ROTIS CHKN                        5.04 T
+SMPL TRTH BTR LTTC                2.45 F
+KRO GREETING CARD                20.34 T
+ARUGULA                           4.00 F
+FM ATLANTIC SALMON FILLET        19.77 F
+LG BROWN CAGE FREE EGGS           4.10 F
+  3 @ 2.32
+SMPL TRTH EXTRA FIRM TOFU         6.96 F
+SMPL TRTH GRK YGRT PLAIN          4.11 F
+  2 @ 3.76
+ORG ROMAINE HEARTS 3 CT           7.52 F
+  2 @ 3.77
+BAGELS                            7.54 F
+  3.34 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             33.17 F
+KRO POTATO CHIPS                  5.07 F
+
+SUBTOTAL                          126.49
+TAX 10.55% ON 25.38                 2.68
+TOTAL                             129.17
+AMEX TEND                         129.17
+CHANGE                              0.00
+
+03/12/26 07:00  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

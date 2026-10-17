@@ -1,0 +1,31 @@
+               FRED MEYER
+              Portland OR
+               Store 0595
+
+TTHPST                           16.40 F
+KRO LIGHT BULBS 4PK              17.04 F
+SHMP                             17.57 F
+KRO SAVINGS                      0.26-  
+ALMNM FOIL                       18.03 F
+DIGITAL CPN                      1.91-  
+PAPER PLATES                      3.31 F
+NAPKINS                          24.05 F
+KRO SPNGS 3PK                     9.54 F
+DIGITAL CPN                      2.31-  
+PAPER PLATES                      3.31 F
+MFR CPN                          0.52-  
+DISH SOAP                        19.39 F
+KRO SPONGES 3PK                   9.54 F
+DIGITAL CPN                      2.54-  
+SPONGES 3PK                       9.54 F
+KRO PAPER PLATES                  3.31 F
+
+SUBTOTAL                          143.49
+TAX                                 0.00
+TOTAL                             143.49
+CASH TEND                         160.00
+CHANGE                             16.51
+
+10/15/26 13:29  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

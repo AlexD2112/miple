@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3785
+
+PRIV SEL TLP FLLTS               21.66 F
+  4.54 lb @ 5.06 /lb
+PRIV SEL GROUND CHICKEN          22.97 F
+AVOCADOS                          4.05 F
+MFR CPN                          1.21-  
+ZIP TOP BAGS                     24.79 T
+
+SUBTOTAL                           72.26
+TAX 10.55% ON 24.79                 2.62
+TOTAL                              74.88
+MASTERCARD TEND                    74.88
+CHANGE                              0.00
+
+02/29/28 11:53  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

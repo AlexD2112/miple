@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0907  Seattle WA
+            MEMBER ************
+
+969236 TOSTITOS SCOOPS TORTILLA CHIP  3.46 E
+537724 KS BONELESS SKINLESS CHICKEN  23.88 E
+     3.57 lb @ 6.69 /lb
+1820346 LCRX LIME SPRKLG WTR 8 PK     6.60 E
+     3 @ 2.20
+913758 AVOCADOS BAG 4 CT              3.54 E
+1102594 JENNIE-O GRND TRKY 1 LB       6.60 E
+
+SUBTOTAL                               44.08
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             44.08
+DISCOVER TEND                          44.08
+CHANGE                                  0.00
+
+04/14/26 20:58  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

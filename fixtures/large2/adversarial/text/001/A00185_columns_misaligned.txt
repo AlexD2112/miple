@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1737
+
+ORG RASPB 6 OZ                     6.28 F
+  4 @ 5.69
+CHERRIES                         22.76 F
+GRK YGRT 48 OZ                    1.97 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           31.09
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              31.10
+VISA TEND                          31.10
+CHANGE                              0.00    
+
+08/20/26 21:01  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

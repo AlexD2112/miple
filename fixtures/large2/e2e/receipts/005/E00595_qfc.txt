@@ -1,0 +1,42 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2249
+
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+ORG ITALIAN PARSLEY               1.95 F
+MFR CPN                          0.46-  
+AVOCADOS                          4.05 F
+  3 @ 4.30
+LEMON                            12.90 F
+GREETING CARD                    20.34 T
+  1.95 lb @ 3.72 /lb
+ZUCCHINI                          7.25 F
+GRSS-FD GRND BF 85/15             7.35 F
+DIGITAL CPN                      2.20-  
+KRO SPGHTT                        9.54 F
+AA BTTRS 8PK                     24.36 T
+  3.73 lb @ 1.13 /lb
+RUSSET POTATOES                   4.21 F
+SLTD BTR                          5.73 F
+KRO SAVINGS                      1.07-  
+MNDRN ORANGE CHKN                15.87 F
+PAPER PLATES                      3.31 T
+SMPL TRTH YELLOW ONIN             1.78 F
+LEMON                             4.30 F
+KRO SAVINGS                      1.29-  
+DICED TOM 14.5 OZ                 1.00 F
+DISH SOAP                        19.39 T
+SMPL TRTH CHERRIES                5.69 F
+GRK YGRT 48 OZ                    1.97 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          150.80
+TAX 10.55% ON 67.56                 7.13
+TOTAL                             157.93
+AMEX TEND                         157.93
+CHANGE                              0.00
+
+02/17/26 17:33  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1630  Seattle WA
+            MEMBER ************
+
+780949 CHKN BROTH 32 OZ               2.81 E
+5020485 TPD/CHKN BROTH 3             0.84-  
+1635805 PLASTIC WRAP                  4.77 A
+1158152 PEPSI 12 PK CANS              4.93 A
+56330 SHREDDED CHDR 8 OZ              6.42 E
+1882203 SWISS CHARD                  11.48 E
+     4 @ 2.87
+331355 KS RASPB                       7.24 E
+1209818 RED ONIN                      2.09 E
+     1.41 lb @ 1.48 /lb
+243857 HUY FONG SRIRACHA              2.55 E
+1365894 KS SALSA JAR                  8.36 E
+     4 @ 2.09
+245879 KS GRND CHKN                   9.26 E
+     1.83 lb @ 5.06 /lb
+1525053 TUNA CAN                      1.08 E
+
+SUBTOTAL                               60.15
+TAX 10.55% ON 9.70                      1.02
+**** TOTAL                             61.17
+VISA TEND                              61.17
+CHANGE                                  0.00
+
+06/13/26 17:56  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

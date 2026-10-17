@@ -1,0 +1,41 @@
+               FRED MEYER
+               Seattle WA
+               Store 3076
+
+ORG BLACK BEANS 8 CANS            1.15 F
+  3.79 lb @ 11.10 /lb
+FM PORK CHOPS                    42.07 F
+CARROTS                           1.79 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+  4 @ 5.07
+FM POTATO CHIPS                  20.28 F
+ORG BASIL CLAMSHELL               1.49 F
+  3.60 lb @ 17.07 /lb
+FM LAMB CHOPS                    61.45 F
+KRO EXTRA FIRM TOFU               2.32 F
+DOUBLE CREME BRIE                 5.40 F
+SMPL TRTH KALE                    4.17 F
+MFR CPN                          1.25-  
+ORG CARROTS BUNCH                 4.63 F
+FM 2% MLK GALLON                  6.49 F
+2% MLK HALF GALLON                6.08 F
+SHREDDED CHDR 8 OZ                6.42 F
+BTTLD WTR 24PK                    9.32 F
+  2.05 lb @ 11.10 /lb
+SMPL TRTH PORK CHOPS             22.76 F
+  3.41 lb @ 17.07 /lb
+SMPL TRTH LAMB CHOPS             58.21 F
+ORGNL HUMMUS 10 OZ                8.88 F
+FM PLUS CARD SAV                 2.41-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          267.83
+TAX 10.55% ON 0.16                  0.02
+TOTAL                             267.85
+MASTERCARD TEND                   267.85
+CHANGE                              0.00
+
+05/04/26 11:11  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

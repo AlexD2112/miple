@@ -1,0 +1,33 @@
+              TRADER JOE'S
+     Store #0771  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+TJ'S JASMINE RICE                12.13 N
+  2.62 lb @ 2.30 /lb
+TJ'S GALA APPLES                  6.03 N
+PNT BTR                           6.90 N
+BLACK FOREST HAM 9 OZ             7.00 N
+  3.40 lb @ 2.90 /lb
+TJ'S BANANAS                      9.86 N
+ARUGULA                           4.00 N
+GRASS-FED GROUND BEEF 85/15       7.35 N
+ALUMINUM FOIL                    18.03 T
+DICED TOMATOES 14.5 OZ            1.00 N
+GINGER ALE 12PK                   6.02 T
+  12 @ 0.05
+CA CRV                            0.60 T
+HALIBUT                          10.82 N
+TJ'S SPARKLING WATER 8PK          5.13 T
+  8 @ 0.05
+CA CRV                            0.40 T
+OAT MILK                          3.10 N
+
+SUBTOTAL                           98.37
+TAX 8.625% ON 30.18                 2.60
+TOTAL                             100.97
+DEBIT TEND                        100.97
+CHANGE                              0.00
+
+08/12/26 08:18  ITEMS 13
+T=TAXABLE  N=NON-TAXABLE
+               THANK YOU

@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1529  Seattle WA
+            MEMBER ************
+
+1527821 KS STRWB                      4.35 E
+1355974 DOG TREATS                    6.82 A
+
+SUBTOTAL                               11.17
+TAX 10.55% ON 6.82                      0.72
+**** TOTAL                             11.89
+VISA TEND                              11.89
+CHANGE                                  0.00
+
+12/31/26 20:39  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

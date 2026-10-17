@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 1210
+
+  3 @ 5.22
+MISSION FLOUR TORT 40 CT	15.66 F
+CREMINI MSHRM                     1.14 F  
+  4 @ 4.93
+PEPSI 12 PK CANS                 19.72 T
+SMPL TRTH ATLANTIC SALMON FILLE    19.77 F
+DICED TOMATOES 14.5 OZ	1.00 F
+
+SUBTOTAL                           57.29
+TAX 10.55% ON 19.72                 2.08
+TOTAL                                 59.37
+AMEX TEND                            59.37
+CHANGE                                  0.00
+
+06/09/26 20:34  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

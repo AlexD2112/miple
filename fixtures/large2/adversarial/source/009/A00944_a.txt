@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 0117
+
+  3.28 lb @ 0.76 /lb
+SMPL TRTH MANGO                   2.49 F
+KRO SAVINGS                      0.75-  
+KRO HALF & HALF                   5.34 F
+  4.06 lb @ 5.06 /lb
+SMPL TRTH GRND CHKN              20.54 F
+  3.69 lb @ 5.06 /lb
+GRND CHKN                        18.67 F
+FM ATLNTC SLMN FLLT              19.77 F
+DOG TREATS                        6.82 T
+  4 @ 4.00
+ARUGULA                          16.00 F
+SMPL TRTH BOTTLED WTR 24PK        9.32 F
+
+SUBTOTAL                           98.20
+TAX 10.55% ON 6.82                  0.72
+TOTAL                              98.92
+DEBIT TEND                         98.92
+CHANGE                              0.00
+
+01/24/26 13:31  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

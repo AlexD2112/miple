@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1590
+
+FM CRKRS                          2.00 F
+DIGITAL CPN                      0.59-  
+  0.36 lb @ 13.18 /lb
+SLCD TRKY BRST                    4.74 F
+  4 @ 2.31
+GREEN BEANS                       9.24 F
+ORG TOMATO BASIL MARINARA         5.94 F
+GRASS-FED GRND BF 85/15           7.35 F
+MAYONNAISE 30 OZ                  6.42 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           35.26
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              35.28
+VISA TEND                          35.28
+CHANGE                              0.00
+
+02/29/28 20:00  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

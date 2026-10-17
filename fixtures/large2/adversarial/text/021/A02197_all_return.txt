@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0911  San Francisco CA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1137465 ORG GRAPE TOM PINT    6.64- E
+RETURN 440526 UNSLTD BTR 4 X 1 LB    9.48- E
+RETURN 1289245 ORG GALA APPLES       3.14- E
+  REFUND - ORIG RECEIPT
+RETURN 987629 KS SRRCH               3.16- E
+  REFUND - ORIG RECEIPT
+RETURN 931710 KS PARSNIPS            4.06- E
+RETURN 1183840 LG EGGS 12 CT         8.69- E
+
+SUBTOTAL                              35.17-
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                            35.17-
+VISA TEND                             35.17-
+CHANGE                                  0.00
+
+04/27/26 13:15  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

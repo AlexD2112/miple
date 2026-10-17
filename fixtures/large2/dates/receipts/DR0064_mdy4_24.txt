@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 2707
+
+  0.31 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               3.41 F
+BROC CROWNS                       2.25 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                            5.90
+TAX 10.55% ON 0.24                  0.03
+TOTAL                               5.93
+CASH TEND                          20.00
+CHANGE                             14.07
+
+09/10/2025 02:35  9374 35 128 9
+ITEMS 4   REG 02  TRANS 2290
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 1579
+
+WHL MLK HALF GALLON               6.79 F
+DIET COLA 12PK CANS               4.42 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+FM SLTD BTR                       5.73 F
+WHITE BRD                         6.34 F
+KOMBUCHA 16OZ                     4.58 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+
+SUBTOTAL                           29.16
+TAX                                 0.00
+TOTAL                              29.16
+DEBIT TEND                         29.16
+CHANGE                              0.00
+
+06/30/26 12:58  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+               FRED MEYER
+              Portland OR
+               Store 2084
+
+SMPL TRTH BABY CARROTS            2.49 F
+  0.43 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                0.84 F
+GRK YGRT PLAIN                    4.11 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                            7.54
+TAX                                 0.00
+TOTAL                               7.54
+CASH TEND                          20.00
+CHANGE                             12.46
+
+05/24/26 21:14  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

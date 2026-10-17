@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2162  Seattle WA
+            MEMBER ************
+
+442503 HUY FONG SRRCH                 5.10 E
+     2 @ 2.55
+1278997 MISSION FLOUR TORT 40 CT     15.66 E
+     3 @ 5.22
+1102940 KS BLACK FOREST HAM          14.17 E
+     1.00 lb @ 14.17 /lb
+514799 KS VAN YGRT CUPS               5.39 E
+0981165 TPD/VAN YGRT CUP             0.58-  
+1478153 KS MANGO                      0.52 E
+     0.69 lb @ 0.76 /lb
+1123722 KS ATLNTC SLMN FLLT          19.77 E
+52052 KS GRND CHKN                   15.18 E
+     3.00 lb @ 5.06 /lb
+9953609 TPD/GRND CHKN                2.60-  
+297078 KS PARMIGIANO REGGIANO         7.82 E
+0223875 TPD/PARMIGIANO R             1.15-  
+1556802 WHITE BRD                     6.34 E
+739908 FRZN THREE BERRY BLEND 4 LB    2.56 E
+1749036 KALE                          4.17 E
+501054 KS NAPKINS                    24.05 A
+1311240 KS HAND SOAP                 24.27 A
+1661880 KS BABY SPNCH                16.26 E
+     3 @ 5.42
+4690512 TPD/BABY SPNCH               2.19-  
+
+SUBTOTAL                              154.74
+TAX 10.55% ON 48.32                     5.10
+**** TOTAL                            159.84
+DEBIT TEND                            159.84
+CHANGE                                  0.00
+
+05/19/26 20:28  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

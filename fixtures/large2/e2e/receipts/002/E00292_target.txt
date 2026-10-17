@@ -1,0 +1,16 @@
+                 TARGET
+        San Francisco CA  T-2910
+             (555) 030-3096
+
+WHITE SANDWICH BRD                7.03 N
+GG FRZN PIZZA                    13.30 N
+
+SUBTOTAL                           20.33
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              20.33
+DEBIT TEND                         20.33
+CHANGE                              0.00
+
+08/03/26 10:00  ITEMS 2
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

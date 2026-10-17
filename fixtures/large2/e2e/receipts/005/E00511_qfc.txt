@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2823
+
+SMPL TRTH CHICKEN THIGHS          9.29 F
+CLNTR BUNCH                       2.02 F
+  3 @ 2.21
+BAGGED CAESAR SALAD KIT           6.63 F
+DIGITAL CPN                      1.55-  
+TOSTITOS SCOOPS TORTILLA CHIPS    3.46 F
+RED GRAPES                        3.04 F
+BABY CRRTS                        2.49 F
+PRIV SEL COTTAGE CHEESE           3.21 F
+SMPL TRTH CHERRY TOM              1.15 F
+SMPL TRTH BLACK BEANS CAN         8.77 F
+HAND SOAP                        24.27 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           62.94
+TAX 10.55% ON 24.43                 2.58
+TOTAL                              65.52
+MASTERCARD TEND                    65.52
+CHANGE                              0.00
+
+07/30/26 16:51  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

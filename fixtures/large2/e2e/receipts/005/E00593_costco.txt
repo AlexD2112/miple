@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3773  Seattle WA
+            MEMBER ************
+
+1560541 KS BTR LTTC                   2.45 E
+191498 KS TOOTHPASTE                 16.40 A
+
+SUBTOTAL                               18.85
+TAX 10.55% ON 16.40                     1.73
+**** TOTAL                             20.58
+DISCOVER TEND                          20.58
+CHANGE                                  0.00
+
+06/22/26 17:07  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

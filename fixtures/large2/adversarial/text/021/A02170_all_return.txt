@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 2845
+
+  REFUND - ORIG RECEIPT
+RETURN RED ONIN                  4.66- F
+RETURN PLAIN GOAT CHS            5.77- F
+RETURN SMPL TRTH SILKEN TOFU     2.29- F
+  REFUND - ORIG RECEIPT
+RETURN VAN YGRT CUPS             5.39- F
+
+SUBTOTAL                          18.11-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             18.11-
+AMEX TEND                         18.11-
+CHANGE                              0.00
+
+10/17/26 21:37  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

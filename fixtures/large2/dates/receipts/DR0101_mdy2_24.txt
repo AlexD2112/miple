@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1509  Seattle WA
+            MEMBER ************
+
+1721379 KS CILANTRO                   1.16 E
+301177 PAPER TOWELS 6 ROLL            3.75 A
+1404148 EVERYTHING BUT THE BAGEL SEA  7.01 E
+9300256 TPD/EVERYTHING B             2.10-  
+271249 CHERRIES                      17.07 E
+     3 @ 5.69
+396245 ORG LEMONS                     3.65 E
+     1.29 lb @ 2.83 /lb
+1559709 KS SLTD BTR                   5.73 E
+1455000 KS YUKON GOLD POTATOES        3.99 E
+465125 KS GOAT CHEESE                 8.35 E
+3740536 TPD/GOAT CHEESE              2.33-  
+
+SUBTOTAL                               46.28
+TAX 10.55% ON 3.75                      0.40
+**** TOTAL                             46.68
+DISCOVER TEND                          46.68
+CHANGE                                  0.00
+
+07/03/28 23:10  790 790 4287 40
+ITEMS 1   REG 11  TRANS 5944
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

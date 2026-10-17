@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1898
+
+SMPL TRTH SWEET POTATOES          3.28 F
+CHKN BROTH CARTON                 8.38 F
+  3.56 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                6.98 F
+PRIV SEL CHKN THIGHS              9.29 F
+SMPL TRTH ICEBERG LTTC            5.11 F
+  3 @ 4.05
+SMPL TRTH AVOCADOS               12.15 F
+  2.37 lb @ 9.65 /lb
+PRIV SEL PORK TENDERLOIN         22.87 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+SPRKLG WTR                        3.74 F
+SMPL TRTH CHICKEN DRUMSTICKS      8.97 F
+
+SUBTOTAL                           83.55
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              83.55
+VISA TEND                          83.55
+CHANGE                              0.00
+
+08/01/26 08:03  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

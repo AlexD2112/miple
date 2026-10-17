@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 1100
+
+  REFUND - ORIG RECEIPT
+RETURN STRWB 2 LB               17.64- F
+RETURN ORG GRAPE TOM PINT        7.41- F
+RETURN SMPL TRTH SPRING MIX     10.88- F
+RETURN SMPL TRTH ENGLISH CUCUM  10.36- F
+RETURN KRO DISH SOAP            19.39- T
+
+SUBTOTAL                          65.68-
+TAX 10.55% ON 19.39-               2.05-
+TOTAL                             67.73-
+DEBIT TEND                        67.73-
+CHANGE                              0.00
+
+06/17/26 11:49  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

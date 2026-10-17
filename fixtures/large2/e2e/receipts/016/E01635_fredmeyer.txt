@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 2414
+
+GRASS-FED GROUND BEEF 85/15       7.35 F
+  2.35 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 10.20 F
+KRO HAND SOAP                    24.27 F
+  2 @ 2.35
+FLOUR TORT 10 CT                  4.70 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           46.62
+TAX                                 0.00
+TOTAL                              46.62
+MASTERCARD TEND                    46.62
+CHANGE                              0.00
+
+02/24/26 07:13  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

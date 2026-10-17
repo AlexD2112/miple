@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 0269
+
+WHITE BRD                         6.34 F
+KRO SAVINGS                      1.54-  
+YUKON GOLD POTATOES               3.99 F
+KRO FRZN MIXED BERRIES            2.06 F
+SLTD BTR 4 STICKS                 9.37 F
+DIGITAL CPN                      1.27-  
+ORIGINAL HUMMUS 10 OZ             8.88 F
+  3 @ 1.74
+STRAUS PLAIN GRK YGRT             5.22 F
+FRZN BROC FLORETS                 8.13 F
+KRO FROZEN WAFFLES                7.05 F
+KRO ALUMINUM FOIL                18.03 F
+FRZN BROC FLRTS                   8.13 F
+
+SUBTOTAL                           74.39
+TAX                                 0.00
+TOTAL                              74.39
+CASH TEND                          80.00
+CHANGE                              5.61
+
+03/07/26 10:02  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

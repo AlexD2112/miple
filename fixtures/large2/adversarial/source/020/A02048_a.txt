@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 2730
+
+TRASH BAGS 40CT                   6.49 T
+FLOWERS BOUQUET                  23.70 T
+PAPER PLATES                      3.31 T
+DISH SOAP                        19.39 T
+KRO SPNGS 3PK                     9.54 T
+KRO GREETING CARD                20.34 T
+KRO ALMNM FOIL                   18.03 T
+
+SUBTOTAL                          100.80
+TAX 10.55% ON 100.80               10.63
+TOTAL                             111.43
+AMEX TEND                         111.43
+CHANGE                              0.00
+
+09/09/26 10:11  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

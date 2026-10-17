@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 1636
+
+KRO DOG TREATS                    6.82 T
+NAPKINS                          24.05 T
+LEMON                             4.30 F
+PLASTIC WRAP                      4.77 T
+SMPL TRTH CHICKEN BROTH CARTON    8.38 F
+KRO SAVINGS                      0.58-  
+SMPL TRTH GENOA SALAMI            4.76 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           52.66
+TAX 10.55% ON 35.80                 3.78
+TOTAL                              56.44
+VISA TEND                          56.44
+CHANGE                              0.00
+
+05/23/26 18:19  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

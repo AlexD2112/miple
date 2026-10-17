@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0067  Seattle WA
+            MEMBER ************
+
+714908 ORG GALA APPLES                4.71 E
+     3 @ 1.57
+922898 TLLMK ICE CRM 48 OZ            8.88 E
+27164 KS CORN TORT                    2.79 E
+1793643 FLOWERS BOUQUET              23.70 A
+1497339 WHITE SANDWICH BRD            7.03 E
+382811 KS BLACK BEANS CAN             8.77 E
+3152279 TPD/BLACK BEANS              1.59-  
+1016315 KS DELI FRIED CHKN           11.75 A
+9587404 TPD/DELI FRIED C             1.22- A
+984139 HOT BAR PREPARED FOOD BY WEIG  8.83 A
+1237741 HANDMADE STYLE CORN TORT     10.65 E
+     3 @ 3.55
+974894 KS TILLAMOOK MEDIUM CHEDDAR   11.77 E
+
+SUBTOTAL                               96.07
+TAX 10.55% ON 43.06                     4.54
+**** TOTAL                            100.61
+VISA TEND                             100.61
+CHANGE                                  0.00
+
+10/06/26 08:00  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

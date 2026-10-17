@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1003  Seattle WA
+            MEMBER ************
+
+1734868 KS JASMINE RICE              12.13 E
+1148196 KS ROMAINE LETTUCE           11.16 E
+     4 @ 2.79
+1883431 PEACHES                       2.02 E
+     2.97 lb @ 0.68 /lb
+
+SUBTOTAL                               25.31
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             25.31
+VISA TEND                              25.31
+CHANGE                                  0.00
+
+06/13/26 09:08  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

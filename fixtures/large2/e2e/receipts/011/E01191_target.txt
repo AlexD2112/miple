@@ -1,0 +1,25 @@
+                 TARGET
+        San Francisco CA  T-2580
+             (555) 030-2347
+
+GG SHRP CHDR BLOCK               10.33 N
+JASMINE RICE 25 LB                8.09 N
+TILLAMOOK VANILLA YOGURT          4.05 N
+ORG BASIL CLAMSHELL               1.49 N
+LG EGGS 12 CT                     8.69 N
+  2 @ 2.54
+GG WHOLE WHEAT SANDWICH BREAD     5.08 N
+  2 @ 0.90
+GG FRESH DILL                     1.80 N
+CIRCLE DEAL                      0.32-  
+GREEN ONIN BUNCH                  2.59 N
+
+SUBTOTAL                           41.80
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              41.80
+AMEX TEND                          41.80
+CHANGE                              0.00
+
+02/28/28 18:44  ITEMS 10
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

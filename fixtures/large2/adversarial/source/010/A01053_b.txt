@@ -1,0 +1,30 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0577
+
+SLTD BTR                          5.73 F
+KRO LNDRY DTRGNT PODS            20.18 T
+  1.87 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                2.99 F
+KRO SAVINGS                      0.90-  
+SMPL TRTH KETCHUP                 5.49 F
+CROISSANTS 12 CT                  4.87 F
+KRO HAMBURGER BUNS                2.77 F
+MFR CPN                          0.83-  
+  2 @ 4.32
+SMPL TRTH CELERY                  8.64 F
+MFR CPN                          1.39-  
+SPRING MIX                        5.44 F
+  0.39 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             0.52 F
+MAYONNAISE 30 OZ                  6.42 F
+
+SUBTOTAL                           59.93
+TAX 10.55% ON 20.18                 2.13
+TOTAL                              62.06
+MASTERCARD TEND                    62.06
+CHANGE                              0.00
+
+08/13/26 08:45  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

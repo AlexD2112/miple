@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1156
+
+SMPL TRTH CHKN THIGHS             9.29 F
+KRO FLWRS BOUQUET                23.70 T
+  3.83 lb @ 2.83 /lb
+ORG LEMONS                       10.84 F
+KRO AHI TUNA STEAK               14.71 F
+ORGANIC SPROUTED TOFU             2.61 F
+VAN YGRT CUPS                     5.39 F
+SMPL TRTH DICED TOM CAN           2.98 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           69.68
+TAX 10.55% ON 23.86                 2.52
+TOTAL                              72.20
+AMEX TEND                          72.20
+CHANGE                              0.00
+
+08/16/26 18:05  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

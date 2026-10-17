@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1663  Seattle WA
+            MEMBER ************
+
+977395 CHKN BROTH 32 OZ               2.81 E
+217486 GALA APPLES                    4.62 E
+     2.01 lb @ 2.30 /lb
+1340200 TPD/GALA APPLES              1.24-  
+1920118 KS CHKN THIGHS                9.29 E
+659967 CARROTS 2 LB                   1.74 E
+804854 TLLMK MEDIUM CHDR 2.5 LB       4.21 E
+1850866 STRAWBERRIES 1 LB             5.22 E
+725424 BARILLA PENNE                 19.37 E
+1315357 KS BLACK BEANS CAN            8.77 E
+680470 ENGLISH CUCUMBER               5.15 E
+     1.47 lb @ 3.50 /lb
+1184650 KS YELLOW ONIN                1.78 E
+953460 GRND CHKN                      4.10 E
+     0.81 lb @ 5.06 /lb
+941276 SOY SCE                        6.79 E
+663593 KS WHL WHT SANDWICH BRD        2.54 E
+973848 KS SPAGHETTI                   9.54 E
+749576 PLAIN NONFAT GREEK YOGURT      4.65 E
+1324259 KS BROCCOLI CROWNS            2.25 E
+1132057 DGRN RISING CRUST PPPRN PIZZ  5.73 E
+  REFUND - ORIG RECEIPT
+RETURN 725424 BARILLA PENNE         19.37- E
+
+SUBTOTAL                               77.95
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             77.95
+MASTERCARD TEND                        77.95
+CHANGE                                  0.00
+
+04/24/26 14:03  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

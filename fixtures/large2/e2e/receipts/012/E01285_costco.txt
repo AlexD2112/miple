@@ -1,0 +1,42 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1648  San Francisco CA
+            MEMBER ************
+
+1875147 RIBEYE STEAK                 19.87 E
+9356877 TPD/RIBEYE STEAK             2.08-  
+166058 KS BLACK BEANS CAN             8.77 E
+7543510 TPD/BLACK BEANS              1.82-  
+1542796 KS GOAT CHS                   8.35 E
+75875 DARIGOLD UNSLTD BTR             6.67 E
+1619159 KOMBUCHA 16OZ                 4.58 E
+  1 @ 0.05
+CA CRV                                0.05  
+2234196 TPD/KOMBUCHA 16O             1.37-  
+784446 ORG EGGS 24 CT                 7.83 E
+340080 KS RANCH DRSSNG                3.99 E
+142298 SWEET POTS                     3.28 E
+639128 KS FRESH MINT                  2.74 E
+316613 KS SOY SAUCE                   6.79 E
+947716 EVERYTHING BUT THE BAGEL SEAS  7.01 E
+316658 KS PREPARED MAC & CHS         10.62 E
+549847 BLUBRY 18 OZ                   4.61 E
+959069 FRZN PIZZA                    13.30 E
+144449 FRZN DMPLNGS                  15.61 E
+1549166 KS LMND 52OZ                 11.58 E
+     2 @ 5.79
+  2 @ 0.10
+CA CRV                                0.20  
+40337 DRGLD UNSLTD BTR                6.67 E
+451649 QUINOA                         7.75 E
+1685171 RCTT                          8.76 E
+
+SUBTOTAL                              153.76
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                            153.76
+DEBIT TEND                            153.76
+CHANGE                                  0.00
+
+07/14/26 21:36  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

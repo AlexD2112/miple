@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 3107
+
+GRNLA BRS                         6.07 F
+SMPL TRTH GREEN ONIN BUNCH        2.59 F
+PARMIGIANO REGGIANO               7.82 F
+SMPL TRTH LIMES                   2.80 F
+FRESH MOZZ                        8.65 F
+HONEYCRISP APPLES                 4.67 F
+DIGITAL CPN                      1.40-  
+  2.63 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                3.89 F
+SMPL TRTH RCTT                    8.76 F
+SMPL TRTH SOY SCE                 6.79 F
+SMPL TRTH AHI TUNA STEAK         14.71 F
+  4.08 lb @ 7.09 /lb
+TRKY BRST                        28.93 F
+SMPL TRTH CARROTS                 1.79 F
+FM PLUS CARD SAV                 0.54-  
+FM WHL WHT SANDWICH BRD           2.54 F
+SMPL TRTH FROZEN PEAS            13.98 F
+
+SUBTOTAL                          112.05
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             112.05
+MASTERCARD TEND                   112.05
+CHANGE                              0.00
+
+07/24/26 07:07  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

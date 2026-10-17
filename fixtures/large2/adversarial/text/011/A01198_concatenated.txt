@@ -1,0 +1,58 @@
+                 TARGET
+           Seattle WA  T-1288
+             (555) 030-5624
+
+GG GROUND PORK                    6.60 N
+GRASS-FED GRND BF 85/15           7.35 N
+GG AHI TUNA STEAK                14.71 N
+  0.80 lb @ 2.83 /lb
+ORG LEMONS                        2.26 N
+
+SUBTOTAL                           30.92
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              30.92
+VISA TEND                          30.92
+CHANGE                              0.00
+
+02/28/26 21:05  ITEMS 4
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU
+
+
+              TRADER JOE'S
+        Store #1645  Portland OR
+      OPEN 8:00AM TO 9:00PM DAILY
+
+TJ'S ICE CREAM                   14.51  
+UNSALTED BUTTER                   9.95  
+  2 @ 5.22
+STRAWBERRIES 1 LB                10.44  
+FRESH BASIL                       2.74  
+TJ'S ALMOND MILK                  5.08  
+  0.48 lb @ 1.60 /lb
+JALAPENO                          0.77  
+PLAIN NONFAT GREEK YOGURT         4.65  
+  2 @ 5.94
+ORGANIC TOMATO BASIL MARINARA    11.88  
+GENOA SALAMI                      4.76  
+TOSTITOS SCOOPS TORTILLA CHIPS    3.46  
+  2.40 lb @ 15.56 /lb
+BONELESS RIBEYE STEAK            37.34  
+CHICKEN BROTH 32 OZ               2.81  
+JASMINE RICE                     12.13  
+  2 @ 2.55
+HUY FONG SRIRACHA                 5.10  
+CREAM CHEESE                      8.63  
+ORG BLACK BEANS 8 CANS            1.15  
+  2 @ 2.00
+TJ'S CRKRS                        4.00  
+
+SUBTOTAL                          139.40
+TAX                                 0.00
+TOTAL                             139.40
+DEBIT TEND                        139.40
+CHANGE                              0.00
+
+06/07/26 17:13  ITEMS 21
+T=TAXABLE
+               THANK YOU

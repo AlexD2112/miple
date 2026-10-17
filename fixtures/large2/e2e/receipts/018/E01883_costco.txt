@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1431  Seattle WA
+            MEMBER ************
+
+169869 RUSSET POTS 5 LB BAG           4.53 E
+1139146 KS SRIRACHA                   3.16 E
+1789330 TPD/SRIRACHA                 0.95-  
+1251310 ZIP TOP BAGS                 24.79 A
+
+SUBTOTAL                               31.53
+TAX 10.55% ON 24.79                     2.62
+**** TOTAL                             34.15
+DISCOVER TEND                          34.15
+CHANGE                                  0.00
+
+02/28/28 13:43  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

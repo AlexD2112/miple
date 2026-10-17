@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1732
+
+RASPB                             7.24 F
+LAUNDRY DETERGENT PODS           20.18 T
+SMPL TRTH CHKN BROTH CARTON       8.38 F
+  3.28 lb @ 5.06 /lb
+KRO GRND CHKN                    16.60 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+MFR CPN                          1.38-  
+  1.08 lb @ 5.06 /lb
+SMPL TRTH GRND CHKN               5.46 F
+PAPER TOWELS 6 ROLL               3.75 T
+FLOUR TORTILLAS 10 CT             2.35 F
+
+SUBTOTAL                           72.06
+TAX 10.55% ON 23.93                 2.52
+TOTAL                              74.68
+VISA TEND                          74.68
+CHANGE                              0.00
+
+01/05/26 11:32  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

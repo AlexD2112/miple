@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1407  Seattle WA
+            MEMBER ************
+REG 15 TRN 6697 OPR 208
+STORE MGR: J******
+
+742198 GINGER ALE 12PK                6.02 A
+7781302 TPD/GINGER ALE 1             0.69- A
+1955987 STRWB 2 LB                    5.88 E
+6261933 TPD/STRWB 2 LB               0.29-  
+592387 KS GRND CHKN                  11.74 E
+     2.32 lb @ 5.06 /lb
+1051953 CHERRIES                      5.69 E
+715343 RED BELL PEPR                  5.75 E
+     1.68 lb @ 3.42 /lb
+1115830 KS ALL PRPS FLOUR            11.36 E
+1600676 HANDMADE STYLE CORN TORT      3.55 E
+231533 KS GOAT CHS                    8.35 E
+1861506 KS BABY CRRTS                 2.49 E
+
+SUBTOTAL                               59.85
+TAX 10.55% ON 5.33                      0.56
+**** TOTAL                             60.41
+DEBIT TEND                             60.41
+CHANGE                                  0.00
+
+06/25/26 11:55  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+BOTTLE RETURNS ACCEPTED    0.10/EA
+NEXT VISIT COUPON          3.00 OFF
+SAVE 2.00 ON YOUR NEXT VISIT
+RETURNS WITHIN 90 DAYS
+                 THANK YOU

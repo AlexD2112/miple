@@ -1,0 +1,39 @@
+               FRED MEYER
+               Seattle WA
+               Store 2384
+
+  2 @ 2.46
+KRO DIJON MUSTARD                 4.92 F
+SMPL TRTH SPAGHETTI               9.54 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+CLNTR BUNCH                       2.02 F
+KRO SAVINGS                      0.61-  
+ORG ITLN PRSLY                    1.95 F
+MFR CPN                          0.59-  
+FM 2% MLK GALLON                  6.49 F
+ORG RASPB 6 OZ                    6.28 F
+DARIGOLD UNSALTED BUTTER          6.67 F
+KRO BAGELS                        3.77 F
+SMPL TRTH STRWB                   4.35 F
+KRO ALL PURPOSE FLOUR            11.36 F
+DISH SOAP                        19.39 T
+ORG RASPB 6 OZ                    6.28 F
+COCA-COLA 12 PACK CANS            2.77 T
+  3.64 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                56.64 F
+RICOTTA                           8.76 F
+DOUBLE CREME BRIE                 5.40 F
+DIJON MUSTARD                     2.46 F
+LG EGGS 18 CT                     7.52 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          182.96
+TAX 10.55% ON 22.32                 2.35
+TOTAL                             185.31
+VISA TEND                         185.31
+CHANGE                              0.00
+
+03/17/26 21:43  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,34 @@
+                 TARGET
+           Seattle WA  T-1323
+             (555) 030-5820
+
+FRZN PIZZA                       13.30 N
+BATH TISSUE 12 ROLL              23.08 T
+  2 @ 5.69
+MKT PANTRY CHERRIES              11.38 N
+FRZN PEAS 12 OZ                   5.40 N
+  3.77 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             37.44 N
+MAYONNAISE 30 OZ                  6.42 N
+  3 @ 1.83
+GG COLA 12PK                      5.49 T
+ORANGE JUICE                      7.69 N
+ORG SPRING MIX 1 LB               5.49 N
+TLP FLLTS                        21.66 N
+  3.48 lb @ 1.60 /lb
+MKT PANTRY JLPN                   5.57 N
+GG COLD BREW COFFEE 32OZ          4.43 N
+GG SOURDOUGH LOAF                 7.47 N
+EVERYTHING BUT THE BAGEL SEASONI  7.01 N
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          162.07
+TAX 10.55% ON 28.81                 3.04
+TOTAL                             165.11
+DISCOVER TEND                     165.11
+CHANGE                              0.00
+
+02/28/28 15:57  ITEMS 17
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

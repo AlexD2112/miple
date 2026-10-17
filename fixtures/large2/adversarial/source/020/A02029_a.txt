@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 2756
+
+KRO AA BATTERIES 8PK             24.36 T
+KRO NAPKINS                      24.05 T
+KRO SHAMPOO                      17.57 T
+PAPER PLATES                      3.31 T
+KRO LNDRY DTRGNT PODS            20.18 T
+KRO NAPKINS                      24.05 T
+DIGITAL CPN                      1.16- T
+TRASH BAGS 40CT                   6.49 T
+KRO TRASH BAGS 40CT               6.49 T
+KRO DISH SOAP                    19.39 T
+LIGHT BULBS 4PK                  17.04 T
+
+SUBTOTAL                          161.77
+TAX 10.55% ON 161.77               17.07
+TOTAL                             178.84
+VISA TEND                         178.84
+CHANGE                              0.00
+
+07/13/26 16:09  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

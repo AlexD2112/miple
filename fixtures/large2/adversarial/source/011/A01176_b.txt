@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1304  Seattle WA
+            MEMBER ************
+
+603817 KS DRIED LENTILS               4.26 E
+1965008 KS GROUND BEEF 80/20          6.57 E
+1241408 PEPSI 12 PACK CANS            4.93 A
+1083557 2% MLK 2 X 1 GAL              4.70 E
+1107415 KS VAN YGRT CUPS              5.39 E
+1222405 TLLMK VAN YGRT                8.10 E
+     2 @ 4.05
+1090379 SPONGES 3PK                   9.54 A
+
+SUBTOTAL                               43.49
+TAX 10.55% ON 14.47                     1.53
+**** TOTAL                             45.02
+DISCOVER TEND                          45.02
+CHANGE                                  0.00
+
+04/07/26 13:11  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

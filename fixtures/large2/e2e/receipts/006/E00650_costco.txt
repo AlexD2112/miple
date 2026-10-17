@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1081  Seattle WA
+            MEMBER ************
+
+329920 KS CHKN THIGHS                 9.29 E
+314969 GRASS-FED GRND BF 85/15        7.35 E
+1635293 KS BAGELS                     3.77 E
+1863460 LG BROWN EGGS                 4.29 E
+713369 WILD COD FLLT                 18.56 E
+575986 JSMN RICE 25 LB                8.09 E
+471636 KS ICEBERG LTTC                5.11 E
+1600177 KS SPRING MIX                 5.44 E
+522420 SWEET POTS                     3.28 E
+1305089 KS JASMINE RICE              12.13 E
+2068003 TPD/JASMINE RICE             0.34-  
+1838555 KS BABY SPNCH                 5.42 E
+15484 LG BROWN CAGE FREE EGGS         4.10 E
+1894797 DARK CHOC PNT BTR CUPS        5.61 E
+3904781 TPD/DARK CHOC PN             1.56-  
+1909736 KS PASTURE RAISED EGGS        7.37 E
+781710 DIJON MUSTARD                  2.46 E
+487363 AVOCADOS BAG 4 CT              3.54 E
+9296983 TPD/AVOCADOS BAG             1.06-  
+1816034 KS DRIED LENTILS              4.26 E
+377243 KS SPRING MIX                  5.44 E
+7681166 TPD/SPRING MIX               1.63-  
+
+SUBTOTAL                              110.92
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            110.92
+VISA TEND                             110.92
+CHANGE                                  0.00
+
+01/23/26 15:35  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,22 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-9590
+
+ORG EGGS 24 CT                    7.83 F
+365 ORG KETCHUP                   5.49 F
+WF ROMA TOMATOES                  2.38 F
+WF CHERRIES                       5.69 F
+PRIME 10% OFF                    0.23-  
+WF RANCH DRESSING                 3.99 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           25.31
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              25.33
+DEBIT TEND                         25.33
+CHANGE                              0.00
+
+05/31/26 09:07  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 0939  Seattle WA
+             (555) 010-4271
+
+  REFUND - ORIG RECEIPT
+RETURN LUCERNE PASTURE RAISED E  7.37- S
+RETURN JASMINE RICE 25 LB        8.09- S
+RETURN GRASS-FED GRND BF 85/15   7.35- S
+RETURN BNLS RIBEYE STEAK        28.32- S
+RETURN SIG KTCHNS KETCHUP       16.47- S
+RETURN SW DIJON MSTRD            2.46- S
+
+SUBTOTAL                          70.06-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                        70.06-
+AMEX TEND                         70.06-
+CHANGE                              0.00
+
+06/10/26 09:00  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

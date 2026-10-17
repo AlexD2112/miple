@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3298  Seattle WA
+            MEMBER ************
+
+494799 QUINOA                         7.75 E
+1368032 FLOUR TORT                    6.18 E
+1618358 TOSTITOS SCOOPS TRTLL CHIPS   3.46 E
+1191438 DOUBLE CREME BRIE             5.40 E
+1597815 GRTNG CARD                   20.34 A
+1132129 KS WHOLE CHICKEN             12.34 E
+     1.95 lb @ 6.33 /lb
+504163 RUSSET POTATOES 5 LB BAG       4.53 E
+5224955 TPD/RUSSET POTAT             1.36-  
+1846780 ORANGE JUICE 52OZ             9.39 E
+537326 DAVES KILLER BRD 21 WHL GRAIN  4.78 E
+5296173 TPD/DAVES KILLER             1.18-  
+798445 KS DELI FRIED CHKN            11.75 A
+867314 KS EXTRA FIRM TOFU             6.96 E
+     3 @ 2.32
+1877483 KS SOY SAUCE                  6.79 E
+7155761 TPD/SOY SAUCE                2.04-  
+303337 KS GRK YGRT PLAIN              4.11 E
+1655103 TPD/GRK YGRT PLA             1.22-  
+1985592 BNLS RIBEYE STEAK            44.03 E
+     2.83 lb @ 15.56 /lb
+49577 KS ITALIAN PARSLEY              2.93 E
+
+SUBTOTAL                              144.94
+TAX 10.55% ON 32.09                     3.39
+**** TOTAL                            148.33
+DEBIT TEND                            148.33
+CHANGE                                  0.00
+
+02/29/28 20:12  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

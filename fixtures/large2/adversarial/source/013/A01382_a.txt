@@ -1,0 +1,29 @@
+                SAFEWAY
+         Store 0037  Seattle WA
+             (555) 010-8229
+REWARDS #: ********2472
+REG 26 TRN 7756 OPR 756
+
+YUKON GOLD POTS                   3.99 S
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 S
+GRASS-FED GRND BF 85/15           7.35 S
+CAULIFLOWER GNOCCHI               7.85 S
+ORG SPROUTED TOFU                 2.61 S
+MYNNS 30 OZ                       6.42 S
+SIG KTCHNS DELI FRIED CHICKEN    11.75 T
+HEINZ KETCHUP 32 OZ               4.48 S
+LG EGGS 12 CT                     8.69 S
+
+SUBTOTAL                           57.35
+TAX 10.55% ON 11.75                 1.24
+**** TOTAL                         58.59
+DISCOVER TEND                      58.59
+CHANGE                              0.00
+
+01/11/26 20:32  ITEMS 9
+T=TAXABLE  S=NONTAXABLE FOOD
+RETURNS WITHIN 90 DAYS
+AUTH CODE  749423
+BALANCE DUE                   0.00
+TOTAL SAVINGS THIS YEAR   261.71
+               THANK YOU

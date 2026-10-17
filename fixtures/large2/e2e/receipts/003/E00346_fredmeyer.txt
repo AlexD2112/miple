@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 3251
+
+  3 @ 4.32
+SMPL TRTH CELERY                 12.96 F
+  0.26 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS               2.41 F
+KRO SAVINGS                      0.72-  
+KRO TOOTHPASTE                   16.40 T
+TILLAMOOK MEDIUM CHDR            11.77 F
+KRO PENNE                        13.38 F
+ORG RASPB 6 OZ                    6.28 F
+BARILLA PENNE                    19.37 F
+
+SUBTOTAL                           81.85
+TAX 10.55% ON 16.40                 1.73
+TOTAL                              83.58
+AMEX TEND                          83.58
+CHANGE                              0.00
+
+05/14/26 16:58  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

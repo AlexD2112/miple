@@ -1,0 +1,18 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+02/02/26 18:26  ITEMS 4
+
+CHANGE                             11.22
+CASH TEND                          40.00
+TOTAL                              28.78
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                           28.78
+
+ORANGE JUICE 52OZ                 9.39 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+FM SLTD BTR                       5.73 F
+
+               Store 0750
+               Seattle WA
+               FRED MEYER

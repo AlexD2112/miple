@@ -1,0 +1,31 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+04/05/26 08:51  ITEMS 18
+
+CHANGE                              0.00
+DEBIT TEND                        121.04
+TOTAL                             121.04
+TAX 10.55% ON 26.37                 2.78
+SUBTOTAL                          118.26
+
+BAG FEE                           0.24 T
+  3 @ 0.08
+FRZN PEAS 12 OZ                  16.20 F
+  3 @ 5.40
+365 GREETING CARD                20.34 T
+WF FRESH DILL                     0.90 F
+BABY SPNCH 5 OZ                  15.08 F
+  4 @ 3.77
+365 CHERRIES                     17.07 F
+  3 @ 5.69
+365 ORG LMND 52OZ                 5.79 T
+WF PENNE                         13.38 F
+TRTLL CHIPS                       3.33 F
+365 GRND TRKY                     5.19 F
+DELI SLCD TRKY BRST              14.40 F
+  1.31 lb @ 10.99 /lb
+WHITE BRD                         6.34 F
+
+             (555) 020-1450
+               Seattle WA
+           WHOLE FOODS MARKET

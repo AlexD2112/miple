@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0974
+
+GRASS-FED GRND BF 85/15           7.35 F
+MFR CPN                          2.20-  
+KRO FROZEN WAFFLES                7.05 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+  1.06 lb @ 18.16 /lb
+PRIV SEL COD FLLT                19.25 F
+  2 @ 4.26
+PRIV SEL DRIED LENTILS            8.52 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           56.97
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              56.99
+DEBIT TEND                         56.99
+CHANGE                              0.00
+
+03/17/26 20:38  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

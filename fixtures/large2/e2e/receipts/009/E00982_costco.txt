@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3871  Seattle WA
+            MEMBER ************
+
+590009 KS KERRYGOLD BTR              10.81 E
+1999055 HASS AVOCADO LG               1.84 E
+     0.55 lb @ 3.34 /lb
+469320 LACROIX LIME SPRKLG WTR 8 PK   2.20 E
+1785506 KS FRZN MIXED BRRS            2.06 E
+1012805 SILKEN TOFU                   2.29 E
+1252984 KS PLASTIC WRAP               4.77 A
+1256467 KS ATLANTIC SLMN FLLT        19.77 E
+165679 KS LEMONADE 52OZ              11.58 A
+     2 @ 5.79
+
+SUBTOTAL                               55.32
+TAX 10.55% ON 16.35                     1.72
+**** TOTAL                             57.04
+AMEX TEND                              57.04
+CHANGE                                  0.00
+
+03/06/26 07:18  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

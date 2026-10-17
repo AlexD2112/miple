@@ -1,0 +1,31 @@
+               THANK YOU
+T=TAXABLE  S=NONTAXABLE FOOD
+02/13/26 15:00  ITEMS 16
+
+CHANGE                             17.62
+CASH TEND                         160.00
+**** TOTAL                        142.38
+TAX 10.55% ON 69.55                 7.34
+SUBTOTAL                          135.04
+
+J4U DIGITAL CPN                  2.06-  
+SIG SLCT SPAGHETTI                9.54 S
+CHKN DRMSTCKS                     8.97 S
+GRTNG CARD                       20.34 T
+AA BATTERIES 8PK                 24.36 T
+SW ORANGE JUICE 52OZ              9.39 S
+OAT MLK                           3.10 S
+ORG EGGS 24 CT                    7.83 S
+O ORGANICS SPRING MIX             5.44 S
+SW JASMINE RICE                  12.13 S
+SIG DOG TREATS                    6.82 T
+NAVEL ORANGES                     1.01 S
+ALUMINUM FOIL                    18.03 T
+ORG LEMONS                        5.43 S
+  1.92 lb @ 2.83 /lb
+ORGANIC GALA APPLES               4.71 S
+  3 @ 1.57
+
+             (555) 010-9768
+         Store 3321  Seattle WA
+                SAFEWAY

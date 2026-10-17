@@ -1,0 +1,30 @@
+               FRED MEYER
+              Portland OR
+               Store 1171
+
+SMPL TRTH ATLNTC SLMN FLLT       19.77 F
+AVOCADOS BAG 4 CT                 3.54 F
+SMPL TRTH GROUND BEEF 80/20       6.57 F
+CC-CL 12 PK CANS                  2.77 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+SMPL TRTH HLBT                   10.82 F
+  2 @ 2.29
+FM SILKEN TOFU                    4.58 F
+ORG TOMATO BASIL MARINARA         5.94 F
+TTHPST                           16.40 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+  1.81 lb @ 4.34 /lb
+BNLS CHKN THIGHS                  7.86 F
+  2 @ 4.26
+FM DRIED LNTLS                    8.52 F
+
+SUBTOTAL                           97.19
+TAX                                 0.00
+TOTAL                              97.19
+VISA TEND                          97.19
+CHANGE                              0.00
+
+05/12/26 07:32  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

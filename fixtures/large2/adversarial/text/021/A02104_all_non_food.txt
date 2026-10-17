@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2350  Seattle WA
+            MEMBER ************
+
+118581 HAND SOAP                     24.27 A
+0237961 TPD/HAND SOAP                0.53- A
+1483662 KS TOOTHPASTE                16.40 A
+2179061 TPD/TOOTHPASTE               1.92- A
+1574411 KS TRASH BAGS 40CT            6.49 A
+1243813 KS GRTNG CARD                20.34 A
+646522 PLASTIC WRAP                   4.77 A
+147867 KS NAPKINS                    24.05 A
+7184559 TPD/NAPKINS                  0.52- A
+1811716 KS SHAMPOO                   17.57 A
+
+SUBTOTAL                              110.92
+TAX 10.55% ON 110.92                   11.70
+**** TOTAL                            122.62
+DISCOVER TEND                         122.62
+CHANGE                                  0.00
+
+07/01/26 14:20  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

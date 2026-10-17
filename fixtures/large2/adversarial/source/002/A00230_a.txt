@@ -1,0 +1,41 @@
+               FRED MEYER
+              Portland OR
+               Store 2954
+
+PNT BTR                           6.90 F
+KRO RANCH DRESSING                3.99 F
+SMPL TRTH BROC CROWNS             2.25 F
+AHI TUNA STEAK                   14.71 F
+KRO SAVINGS                      1.66-  
+KRO GRND COFFEE                   9.64 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+KRO PREPARED MAC & CHS           10.62 F
+KRO SAVINGS                      2.06-  
+  2 @ 4.05
+TILLAMOOK VAN YGRT                8.10 F
+ORG CRRTS BUNCH                   4.63 F
+SMPL TRTH ASPARAGUS               2.93 F
+  4.12 lb @ 6.69 /lb
+KRO BNLS SKNLS CHKN BRST         27.56 F
+MFR CPN                          2.90-  
+ORG BLACK BEANS 8 CANS            1.15 F
+COLD BREW COFFEE 32OZ             4.43 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+FM CRL                            6.63 F
+  3 @ 4.48
+HEINZ KETCHUP 32 OZ              13.44 F
+DIGITAL CPN                      2.43-  
+FM COCONUT MLK CAN                3.83 F
+BABY SPINACH                      5.42 F
+
+SUBTOTAL                          117.38
+TAX                                 0.00
+TOTAL                             117.38
+CASH TEND                         120.00
+CHANGE                              2.62
+
+06/16/26 21:13  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

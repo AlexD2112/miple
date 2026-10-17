@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0468  Seattle WA
+            MEMBER ************
+
+507628 LEMONS                         4.19 E
+1545814 KS ARUGULA                    4.00 E
+1072133 TORTILLA CHIPS                3.33 E
+540451 PLAIN GOAT CHS                 5.77 E
+1838856 BNLS PORK LOIN CHOPS          8.04 E
+     0.81 lb @ 9.93 /lb
+7620401 TPD/BNLS PORK LO             1.56-  
+670315 ORG TOMATO BASIL MARINARA      5.94 E
+320779 LG BROWN CAGE FREE EGGS        4.10 E
+937284 KS WHL MLK HALF GALLON         6.79 E
+1288288 KS GRK YGRT PLAIN             4.11 E
+7234 KS QUINOA                        7.75 E
+1691730 RUSSET POTATOES 5 LB BAG      4.53 E
+395968 BLACK BEANS 15 OZ CAN         10.76 E
+650367 DISH SOAP                     19.39 A
+1764230 CROISSANTS 12 CT              4.87 E
+980615 KS BABY SPNCH                  5.42 E
+6889157 TPD/BABY SPNCH               0.65-  
+
+SUBTOTAL                               96.78
+TAX 10.55% ON 19.39                     2.05
+**** TOTAL                             98.83
+DEBIT TEND                             98.83
+CHANGE                                  0.00
+
+09/22/26 09:20  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

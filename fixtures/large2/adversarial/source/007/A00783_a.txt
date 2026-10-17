@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3821  Seattle WA
+            MEMBER ************
+
+1823245 ORGANIC BLACK BEANS 8 CANS    1.15 E
+1413342 TPD/ORGANIC BLAC             0.35-  
+274318 PORK CHOPS                    34.97 E
+     3.15 lb @ 11.10 /lb
+1816121 TUNA CAN                      1.08 E
+1816121 TUNA CAN                      1.08 E
+7514322 TPD/TUNA CAN                 0.32-  
+886054 KS BLACKBERRIES                3.92 E
+4167267 TPD/BLACKBERRIES             0.20-  
+
+SUBTOTAL                               41.33
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             41.33
+VISA TEND                              41.33
+CHANGE                                  0.00
+
+08/15/26 16:28  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,25 @@
+              TRADER JOE'S
+     Store #0053  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+GREEN ONIN BUNCH                  2.59  
+HAND SOAP                        24.27 T
+EVERYTHING BUT THE BAGEL SEASONI  7.01  
+ORG ITALIAN PARSLEY               1.95  
+TJ'S DICED TOM CAN                2.98  
+TILLAMOOK ICE CREAM 48 OZ         8.88  
+PARMIGIANO REGGIANO WEDGE         8.42  
+GOAT CHEESE                       8.35  
+TJ'S RED GRAPES                   3.04  
+BAG FEE                           0.25  
+
+SUBTOTAL                           67.74
+TAX 8.625% ON 24.27                 2.09
+TOTAL                              69.83
+VISA TEND                          69.83
+CHANGE                              0.00
+
+02-29-2028 12:54PM
+ITEMS 26   REG 03  TRANS 4120
+T=TAXABLE
+               THANK YOU

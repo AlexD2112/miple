@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0440
+
+PAPER PLATES                      3.31 T
+DIGITAL CPN                      0.56- T
+BATH TISSUE 12 ROLL              23.08 T
+KRO PLSTC WRAP                    4.77 T
+CAT LITTER                       14.03 T
+KRO NAPKINS                      24.05 T
+KRO ALUMINUM FOIL                18.03 T
+KRO DISH SOAP                    19.39 T
+DIGITAL CPN                      1.48- T
+NAPKINS                          24.05 T
+PAPER PLATES                      3.31 T
+KRO PLASTIC WRAP                  4.77 T
+
+SUBTOTAL                          136.75
+TAX 10.55% ON 136.75               14.43
+TOTAL                             151.18
+AMEX TEND                         151.18
+CHANGE                              0.00
+
+02/04/26 13:27  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

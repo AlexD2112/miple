@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1545
+
+ SMPL TRTH ROMA TOMATOES           2.38 F
+DARK CHOC PNT BTR CUPS 5.61 F
+MFR CPN                          1.68-  
+  2 @ 2.38
+SMPL TRTH ROMA TOM 4.76 F
+KRO RIBEYE STEAK                   19.87 F
+KRO PAPER PLATES	3.31 T
+   PRIV SEL RIBEYE STEAK            19.87 F
+KRO SAVINGS                      2.10-  
+
+SUBTOTAL                           52.02
+TAX 10.55% ON 3.31                      0.35
+TOTAL                              52.37
+VISA TEND	52.37
+CHANGE 0.00
+
+06/15/26 18:33  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

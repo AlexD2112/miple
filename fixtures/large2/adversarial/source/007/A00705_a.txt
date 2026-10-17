@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3160  Portland OR
+            MEMBER ************
+
+394565 OLD FASHIONED ROLLED OATS 42  17.43 E
+219029 KS CHKN DRUMSTICKS             8.97 E
+2185174 TPD/CHKN DRUMSTI             2.08-  
+907881 JASMINE RICE 25 LB             8.09 E
+907881 JASMINE RICE 25 LB             8.09 E
+1019522 KS CAGE FREE EGGS 18CT        6.85 E
+8099173 TPD/CAGE FREE EG             0.97-  
+1375211 KS CRKRS                      2.00 E
+
+SUBTOTAL                               48.38
+TAX                                     0.00
+**** TOTAL                             48.38
+DISCOVER TEND                          48.38
+CHANGE                                  0.00
+
+03/12/26 21:34  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

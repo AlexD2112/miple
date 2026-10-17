@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3185  Seattle WA
+            MEMBER ************
+
+1753195 BAGGED CAESAR SALAD KIT       2.21 E
+1766682 KS CORN TORTILLAS            11.16 E
+     4 @ 2.79
+
+SUBTOTAL                               13.37
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             13.37
+DEBIT TEND                             13.37
+CHANGE                                  0.00
+
+01/25/26 12:14  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

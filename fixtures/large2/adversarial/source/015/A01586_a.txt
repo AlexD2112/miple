@@ -1,0 +1,45 @@
+                 TARGET
+        San Francisco CA  T-3780
+             (555) 030-5403
+
+MKT PANTRY KMBCH 16OZ             4.58 N
+  1 @ 0.05
+CA CRV                            0.05  
+UP&UP GREETING CARD              20.34 T
+TILLAMOOK MEDIUM CHDR            11.77 N
+GG ORANGE JUICE 52OZ              9.39 N
+  1 @ 0.10
+CA CRV                            0.10  
+  3 @ 2.25
+BROC CROWNS                       6.75 N
+MKT PANTRY ROMA TOM               2.38 N
+  3 @ 2.79
+ROMAINE LTTC                      8.37 N
+LACROIX LIME SPRKLG WTR 8 PK      2.20 T
+  8 @ 0.05
+CA CRV                            0.40 T
+2% MLK 2 X 1 GAL                  4.70 N
+  2 @ 5.79
+GG LEMONADE 52OZ                 11.58 N
+  2 @ 0.10
+CA CRV                            0.20  
+  3.16 lb @ 7.09 /lb
+GG TRKY BRST                     22.40 N
+  6.38 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 27.69 N
+GG KERRYGOLD BTR                 10.81 N
+MKT PANTRY ROTIS CHKN             5.04 T
+  2 @ 3.74
+GG SPRKLG WTR                     7.48 T
+  2 @ 0.05
+CA CRV                            0.10 T
+
+SUBTOTAL                          156.33
+TAX 8.625% ON 35.56                 3.07
+TOTAL                             159.40
+MASTERCARD TEND                   159.40
+CHANGE                              0.00
+
+10/08/26 10:57  ITEMS 21
+T=TAXABLE  N=NON-TAXABLE
+               THANK YOU

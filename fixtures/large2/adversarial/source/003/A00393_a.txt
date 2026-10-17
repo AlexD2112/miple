@@ -1,0 +1,24 @@
+                 TARGET
+        San Francisco CA  T-1263
+             (555) 030-4173
+
+  2 @ 1.95
+ORG ITLN PRSLY                    3.90 N
+GG DELI FRIED CHICKEN            11.75 T
+SHREDDED CHDR 8 OZ                6.42 N
+GG TILLAMOOK MEDIUM CHEDDAR      11.77 N
+JASMINE RICE 25 LB                8.09 N
+GG FRZN PEAS                     13.98 N
+BLACK FOREST HAM 9 OZ             7.00 N
+  2.52 lb @ 3.72 /lb
+GG ZUCCHINI                       9.37 N
+
+SUBTOTAL                           72.28
+TAX 8.625% ON 11.75                 1.01
+TOTAL                              73.29
+VISA TEND                          73.29
+CHANGE                              0.00
+
+08/16/26 16:44  ITEMS 9
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

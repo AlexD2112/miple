@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #3106  San Francisco CA
+            MEMBER ************
+
+881170 SLCD SRDGH PAN LOAF            9.48 E
+     2 @ 4.74
+789389 ALMOND MLK                     5.08 E
+1045427 PRMGN REGGIANO WEDGE          8.42 E
+789785 LEMONS                         4.19 E
+625785 KS CELERY                      4.32 E
+557384 KS RED ONIONS                  1.70 E
+     1.15 lb @ 1.48 /lb
+1966082 KS SHARP CHEDDAR BLOCK       10.33 E
+2087282 TPD/SHARP CHEDDA             2.44-  
+550976 KS CHRRS                      22.76 E
+     4 @ 5.69
+624600 ORGANIC CARROTS BUNCH          4.63 E
+1883339 COCA-COLA 12 PK CANS         11.08 A
+     4 @ 2.77
+  4 @ 0.05
+CA CRV                                0.20 A
+
+SUBTOTAL                               79.75
+TAX 8.625% ON 11.28                     0.97
+**** TOTAL                             80.72
+DEBIT TEND                             80.72
+CHANGE                                  0.00
+
+09/27/26 20:15  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2418  San Francisco CA
+            MEMBER ************
+
+1713227 KS DIET COLA 12PK CANS        4.42 A
+  12 @ 0.05
+CA CRV                                0.60 A
+226865 KS FRZN BROC                   1.72 E
+122959 KS ICEBERG LTTC                5.11 E
+1436045 LG BROWN CAGE FREE EGGS       4.10 E
+126249 RANCH DRESSING                 3.99 E
+393206 GREEN ONIN BUNCH               7.77 E
+     3 @ 2.59
+527468 KS WHL MLK HALF GALLON         6.79 E
+
+SUBTOTAL                               34.50
+TAX 8.625% ON 5.02                      0.43
+**** TOTAL                             34.93
+DISCOVER TEND                          34.93
+CHANGE                                  0.00
+
+04/06/2029 08:53:47 PM  400 400 2822 10
+ITEMS 11   REG 14  TRANS 4110
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

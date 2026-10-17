@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0575
+
+  3 @ 1.95
+ORG ITLN PRSLY                    5.85 F
+  3 @ 1.16
+SMPL TRTH CILANTRO                3.48 F
+KRO PNT BTR                       6.90 F
+KRO ZIP TOP BAGS                 24.79 T
+  2 @ 5.88
+STRWB 2 LB                       11.76 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+LIMES                             2.80 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           65.98
+TAX 10.55% ON 24.87                 2.62
+TOTAL                              68.60
+VISA TEND                          68.60
+CHANGE                              0.00
+
+09/26/26 15:50  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

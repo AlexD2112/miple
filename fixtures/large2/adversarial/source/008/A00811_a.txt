@@ -1,0 +1,30 @@
+                SAFEWAY
+         Store 0480  Seattle WA
+             (555) 010-3405
+
+SIG TTHPST                       16.40 T
+  0.86 lb @ 4.34 /lb
+BNLS CHKN THIGHS                  3.73 S
+CLUB CARD SAVINGS                1.12-  
+ORG RASPB 6 OZ                    6.28 S
+MYNNS 30 OZ                       6.42 S
+  2 @ 3.46
+TSTTS SCOOPS TORTILLA CHIPS       6.92 S
+  3.44 lb @ 1.48 /lb
+O ORGANICS RED ONIN               5.09 S
+SIG FLOWERS BOUQUET              23.70 T
+CRM CHS 8 OZ                      3.15 S
+  3.68 lb @ 1.79 /lb
+BEETS                             6.59 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           77.40
+TAX 10.55% ON 40.34                 4.26
+**** TOTAL                         81.66
+DEBIT TEND                         81.66
+CHANGE                              0.00
+
+05/28/26 11:51  ITEMS 10
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 3020
+
+FM ORANGE JUICE                   7.69 F
+DARK CHOCOLATE PEANUT BUTTER CUP  5.61 F
+LACROIX LIME SPARKLING WATER 8 P  2.20 F
+SMPL TRTH FRESH MOZZARELLA        8.65 F
+CHKN GYOZA POTSTICKERS            9.88 F
+AVOCADOS BAG 4 CT                 3.54 F
+
+SUBTOTAL                           37.57
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              37.57
+CASH TEND                          40.00
+CHANGE                              2.43
+
+07/18/26 15:40  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

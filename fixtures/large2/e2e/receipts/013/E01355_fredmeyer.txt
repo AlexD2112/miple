@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 1091
+
+SMPL TRTH CARROTS                 1.79 F
+HAND SOAP                        24.27 T
+FM RIBEYE STEAK                  19.87 F
+BLUBRY 18 OZ                      4.61 F
+  4 @ 3.55
+HANDMADE STYLE CORN TORT         14.20 F
+DIGITAL CPN                      1.42-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           63.48
+TAX 10.55% ON 24.43                 2.58
+TOTAL                              66.06
+VISA TEND                          66.06
+CHANGE                              0.00
+
+06/01/26 07:45  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

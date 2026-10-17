@@ -1,0 +1,16 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-9844
+
+SHAMPOO                          17.57 T
+SPNGS 3PK                         9.54 T
+
+SUBTOTAL                           27.11
+TAX 10.55% ON 27.11                 2.86
+TOTAL                              29.97
+DEBIT TEND                         29.97
+CHANGE                              0.00
+
+10/14/26 09:57  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

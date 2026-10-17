@@ -1,0 +1,21 @@
+               THANK YOU
+T=TAXABLE
+03/04/26 10:28  ITEMS 9
+
+CHANGE                              0.00
+MASTERCARD TEND                    43.06
+TOTAL                              43.06
+TAX                                 0.00
+SUBTOTAL                           43.06
+
+HOUSE FOODS EXTRA FIRM TOFU       2.78  
+UNSLTD BTR 4 X 1 LB               9.48  
+BANANA                            2.37  
+COCONUT MILK CAN                 15.32  
+  4 @ 3.83
+TJ'S GENOA SALAMI                 4.76  
+TJ'S GOAT CHEESE                  8.35  
+
+      OPEN 8:00AM TO 9:00PM DAILY
+        Store #0142  Portland OR
+              TRADER JOE'S

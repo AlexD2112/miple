@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3375  Seattle WA
+            MEMBER ************
+
+50476 BNLS RIBEYE STEAK              46.68 E
+     3.00 lb @ 15.56 /lb
+335605 KS FRZN DUMPLINGS             15.61 E
+920305 KS KERRYGOLD BUTTER           10.81 E
+1338645 KS FLOWERS BOUQUET           23.70 A
+1145183 KS TOOTHPASTE                16.40 A
+1804121 PENNE                        13.38 E
+1551847 KS LARGE BROWN EGGS           4.29 E
+1649272 FRZN WAFFLES                  7.05 E
+697065 EVERYTHING BUT THE BAGEL SEAS  7.01 E
+1377468 SHRDDD MOZZ 8 OZ              2.92 E
+848199 KS COLA 12PK CANS              1.51 A
+760703 DIET COLA 12PK CANS            4.42 A
+1469699 BABY SPNCH 5 OZ               3.77 E
+397909 KS BLACK FOREST HAM            4.96 E
+     0.35 lb @ 14.17 /lb
+207363 KS JASMINE RICE               12.13 E
+1310197 CAULIFLOWER GNOCCHI           7.85 E
+
+SUBTOTAL                              182.49
+TAX 10.55% ON 46.03                     4.86
+**** TOTAL                            187.35
+AMEX TEND                             187.35
+CHANGE                                  0.00
+
+07/09/26 18:08  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 3316
+
+FM WHOLE WHEAT SANDWICH BREAD     2.54 F
+COCA-COLA 12 PACK CANS            2.77 T
+KRO SLTD BTR                      5.73 F
+  4 @ 1.00
+DICED TOM 14.5 OZ                 4.00 F
+  0.76 lb @ 14.17 /lb
+BLACK FOREST HAM                 10.77 F
+SMPL TRTH ROMAINE LTTC            2.79 F
+TRASH BAGS 40CT                   6.49 T
+  1.82 lb @ 2.43 /lb
+PARSNIPS                          4.42 F
+PLAIN NONFAT GRK YGRT             4.65 F
+  3 @ 0.90
+FRESH DILL                        2.70 F
+BATH TISSUE 12 ROLL              23.08 T
+MFR CPN                          2.53- T
+
+SUBTOTAL                           67.41
+TAX 10.55% ON 29.81                 3.14
+TOTAL                              70.55
+VISA TEND                          70.55
+CHANGE                              0.00
+
+02/25/26 10:36  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

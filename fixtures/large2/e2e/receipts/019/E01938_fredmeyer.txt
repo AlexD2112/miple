@@ -1,0 +1,18 @@
+               FRED MEYER
+              Portland OR
+               Store 0742
+
+CHERRY TOMATOES                   1.15 F
+HMBRGR BUNS                       2.77 F
+KRO EXTRA FIRM TOFU               2.32 F
+SMPL TRTH PSTR RAISED EGGS        7.37 F
+
+SUBTOTAL                           13.61
+TAX                                 0.00
+TOTAL                              13.61
+DEBIT TEND                         13.61
+CHANGE                              0.00
+
+03/13/26 17:43  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

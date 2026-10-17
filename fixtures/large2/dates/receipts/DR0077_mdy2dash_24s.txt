@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3040
+
+TILLAMOOK ICE CREAM 48 OZ         8.88 F
+KRO SAVINGS                      2.41-  
+SPRKLG WTR                        3.74 F
+SHREDDED CHDR 8 OZ                6.42 F
+  4 @ 3.92
+SMPL TRTH BLACKBERRIES           15.68 F
+
+SUBTOTAL                           32.31
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              32.31
+MASTERCARD TEND                    32.31
+CHANGE                              0.00
+
+01-03-27 22:58:14  7581 36 307 4
+ITEMS 25   REG 02  TRANS 5387
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

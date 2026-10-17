@@ -1,0 +1,34 @@
+               FRED MEYER
+               Seattle WA
+               Store 1825
+
+  4 @ 2.32
+SMPL TRTH EXTRA FIRM TOFU         9.28 F
+  1.50 lb @ 17.98 /lb
+UNEXPECTED CHDR                  26.97 F
+KRO SAVINGS                      1.48-  
+CAT LITTER                       14.03 T
+AVOCADOS BAG 4 CT                 3.54 F
+  4 @ 4.67
+HONEYCRISP APPLES                18.68 F
+  2 @ 4.74
+SLICED SOURDOUGH PAN LOAF         9.48 F
+  2 @ 2.00
+FM CRKRS                          4.00 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+KRO SAVINGS                      1.69-  
+FM DELI FRIED CHKN               11.75 T
+STRAWBERRIES 2 LB                 5.88 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          109.56
+TAX 10.55% ON 26.02                 2.75
+TOTAL                             112.31
+AMEX TEND                         112.31
+CHANGE                              0.00
+
+05/28/2025 12:30 PDT  4402 33 625 9
+ITEMS 20   REG 09  TRANS 3701
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

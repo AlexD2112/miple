@@ -1,0 +1,21 @@
+                 TARGET
+           Seattle WA  T-0648
+             (555) 030-7599
+
+  2 @ 4.11
+GG GRK YGRT PLAIN                 8.22 N
+   GG PNT BTR                        6.90 N
+GG GRND TRKY                      5.19 N 
+ MKT PANTRY ASPARAGUS              2.93 N
+  3 @ 0.08
+ BAG FEE                           0.24 T
+
+SUBTOTAL                           23.48
+TAX 10.55% ON 0.24	0.03
+TOTAL                              23.51
+AMEX TEND	23.51
+CHANGE                              0.00
+
+02/16/26 12:32  ITEMS 5
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

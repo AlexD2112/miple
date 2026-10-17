@@ -1,0 +1,22 @@
+                 TARGET
+           Seattle WA  T-3405
+             (555) 030-8617
+
+  2.67 lb @ 0.76 /lb
+MKT PANTRY MANGO
+MKT PANTRY ROTIS CHKN
+GRASS-FED GROUND BEEF 85/15
+
+2.03 N
+5.04 T
+7.35 N
+
+SUBTOTAL                           14.42
+TAX 10.55% ON 5.04                  0.53
+TOTAL                              14.95
+DEBIT TEND                         14.95
+CHANGE                              0.00
+
+08/15/26 13:10  ITEMS 3
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

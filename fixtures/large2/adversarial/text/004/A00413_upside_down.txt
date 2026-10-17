@@ -1,0 +1,35 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+01/13/26 09:39  ITEMS 17
+
+CHANGE                              0.00
+VISA TEND                          76.16
+TOTAL                              76.16
+TAX 10.55% ON 7.58                  0.80
+SUBTOTAL                           75.36
+
+BAG FEE                           0.08 T
+SMPL TRTH BTR LTTC                4.90 F
+  2 @ 2.45
+SMPL TRTH KIWI                    2.12 F
+  1.02 lb @ 2.08 /lb
+MAYONNAISE 30 OZ                  6.42 F
+ORG ITLN PARSLEY                  1.95 F
+LG BROWN EGGS                     4.29 F
+SMPL TRTH BTR LTTC                4.90 F
+  2 @ 2.45
+SMPL TRTH STRWB                   4.35 F
+ORG HONEYCRISP APPLES             0.82 F
+  0.62 lb @ 1.33 /lb
+PAPER TOWELS 6 ROLL               3.75 T
+ITALIAN SAUSAGE BULK              9.93 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+CRMN MSHRM                        1.14 F
+RED BELL PEPR                    12.83 F
+  3.75 lb @ 3.42 /lb
+PAPER TOWELS 6 ROLL               3.75 T
+PLAIN NONFAT GRK YGRT             4.65 F
+
+         Seattle WA  Store 1432
+          Quality Food Centers
+                  QFC

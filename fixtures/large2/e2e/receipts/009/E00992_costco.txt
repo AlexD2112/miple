@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1893  Seattle WA
+            MEMBER ************
+
+1785138 BRUSSELS SPROUTS              1.03 E
+     0.44 lb @ 2.33 /lb
+0806671 TPD/BRUSSELS SPR             0.31-  
+319892 HALIBUT                       10.82 E
+209265 DOG TREATS                     6.82 A
+881323 KS GALA APPLES                 7.04 E
+     3.06 lb @ 2.30 /lb
+931856 CARROTS 2 LB                   1.74 E
+1316985 KS ROTIS CHKN                 5.04 A
+1173523 TPD/ROTIS CHKN               1.18- A
+
+SUBTOTAL                               31.00
+TAX 10.55% ON 10.68                     1.13
+**** TOTAL                             32.13
+AMEX TEND                              32.13
+CHANGE                                  0.00
+
+03/04/26 19:38  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

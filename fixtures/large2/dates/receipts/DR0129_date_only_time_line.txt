@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3977  Seattle WA
+            MEMBER ************
+
+620210 ORG HNYCRSP APPLES             4.96 E
+     3.73 lb @ 1.33 /lb
+70379 SWISS CHARD                     2.87 E
+1658052 KS FROZEN MIXED BERRIES       8.24 E
+     4 @ 2.06
+1866528 KS SPGHTT                     9.54 E
+669124 BLACKBERRIES                  11.76 E
+     3 @ 3.92
+1275874 SALTED BUTTER 4 STICKS        9.37 E
+1779607 BABY SPINACH                  5.42 E
+97994 KS PORK CHOPS                  16.21 E
+     1.46 lb @ 11.10 /lb
+
+SUBTOTAL                               68.37
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             68.37
+AMEX TEND                              68.37
+CHANGE                                  0.00
+
+09/12/29  288 288 2550 09
+TIME: 00:05
+ITEMS 28   REG 03  TRANS 5111
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,33 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2197
+
+SMPL TRTH LIMES 2.80 F
+SMPL TRTH HONEYCRISP APPLES       4.67 F     
+CELERY	4.32 F
+SHREDDED CHDR 8 OZ                6.42 F    
+  3.39 lb @ 6.33 /lb
+PRIV SEL WHL CHKN                  21.46 F
+KRO SAVINGS                      2.57-  
+PRIV SEL FRZN DMPLNGS            15.61 F
+SMPL TRTH MAYONNAISE              6.36 F
+KRO ZIP TOP BAGS                 24.79 T
+  3.72 lb @ 0.68 /lb
+SMPL TRTH PCHS                    2.53 F
+KRO HAND SOAP                    24.27 T
+KRO SLCD ROAST BF                 5.94 F
+  3.14 lb @ 6.00 /lb
+GRND BF 88/12                       18.84 F
+KRO SAVINGS                      0.75-  
+SHREDDED CHDR 8 OZ 6.42 F
+KRO DISH SOAP                    19.39 T
+
+SUBTOTAL                          160.50
+TAX 10.55% ON 68.45                 7.22
+TOTAL 167.72
+   VISA TEND                         167.72
+CHANGE 0.00
+
+08/20/26 17:32  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

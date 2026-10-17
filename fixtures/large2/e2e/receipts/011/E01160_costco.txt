@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3107  Seattle WA
+            MEMBER ************
+
+408600 GRASS-FED GRND BF 85/15        7.35 E
+236309 KS CRRTS                       1.79 E
+1325293 ORG BABY SPNCH 5 OZ           5.85 E
+
+SUBTOTAL                               14.99
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             14.99
+DISCOVER TEND                          14.99
+CHANGE                                  0.00
+
+01/16/26 13:17  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

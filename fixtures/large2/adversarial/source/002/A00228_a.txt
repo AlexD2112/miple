@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1897  Portland OR
+            MEMBER ************
+
+657302 KS PREPARED MAC & CHS         10.62 E
+1933012 MAYONNAISE 30 OZ              6.42 E
+947818 KS BAGELS                      3.77 E
+1428471 BNLS RIBEYE STEAK            36.88 E
+     2.37 lb @ 15.56 /lb
+905205 KIWI                           5.05 E
+     2.43 lb @ 2.08 /lb
+7392210 TPD/KIWI                     0.89-  
+1291153 PARMIGIANO REGGIANO WEDGE     8.42 E
+1286247 KS GENOA SALAMI               4.76 E
+1596275 ORANGE JUICE 52OZ             9.39 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+1749737 KS MANGO                      1.00 E
+     1.31 lb @ 0.76 /lb
+249350 KS FRESH MINT                  2.74 E
+231962 ORGANIC BASIL CLAMSHELL        1.49 E
+1468097 PARMIGIANO RGGN WEDGE         8.42 E
+1894221 GOAT CHS                      8.35 E
+327890 DICED TOM CAN                  2.98 E
+1973216 KS CREAM CHEESE               8.63 E
+445084 KS SOY SCE                     6.79 E
+
+SUBTOTAL                              124.92
+TAX                                     0.00
+**** TOTAL                            124.92
+MASTERCARD TEND                       124.92
+CHANGE                                  0.00
+
+04/18/26 07:24  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

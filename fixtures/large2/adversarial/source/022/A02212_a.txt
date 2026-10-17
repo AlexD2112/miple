@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1429
+
+  REFUND - ORIG RECEIPT
+RETURN ORG SPRING MIX 1 LB       5.49- F
+RETURN SMPL TRTH TILLAMOOK MED  11.77- F
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH CEREAL          6.63- F
+RETURN RIBEYE STEAK             19.87- F
+
+SUBTOTAL                          43.76-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             43.76-
+DISCOVER TEND                     43.76-
+CHANGE                              0.00
+
+05/21/26 21:09  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

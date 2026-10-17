@@ -1,0 +1,29 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+10/04/26 20:20  ITEMS 11
+
+CHANGE                              0.00
+AMEX TEND                         106.78
+TOTAL                             106.78
+TAX 10.55% ON 0.24                  0.03
+SUBTOTAL                          106.75
+
+BAG FEE                           0.24 T
+  3 @ 0.08
+SMPL TRTH SWEET POTS              3.28 F
+DIGITAL CPN                      1.54-  
+SPRKLG WTR 8PK                    5.13 F
+SMPL TRTH KALE                   16.68 F
+  4 @ 4.17
+KRO SAVINGS                      2.25-  
+PRIV SEL LAMB CHOPS              29.53 F
+  1.73 lb @ 17.07 /lb
+PRIV SEL TRKY BRST               36.87 F
+  5.20 lb @ 7.09 /lb
+ORG SPROUTED TOFU                 2.61 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+STRWB 2 LB                        5.88 F
+
+         Seattle WA  Store 0193
+          Quality Food Centers
+                  QFC

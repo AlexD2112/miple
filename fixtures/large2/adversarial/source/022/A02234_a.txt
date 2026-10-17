@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2497  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 141962 KS SPRKLG WTR 8PK      5.13- E
+
+SUBTOTAL                               5.13-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             5.13-
+MASTERCARD TEND                        5.13-
+CHANGE                                  0.00
+
+06/19/26 10:43  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

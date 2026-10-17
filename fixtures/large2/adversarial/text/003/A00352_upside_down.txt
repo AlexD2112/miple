@@ -1,0 +1,38 @@
+               THANK YOU
+T=TAXABLE  N=NONTAXABLE FOOD
+02/19/26 08:29  ITEMS 16
+
+CHANGE                              0.00
+AMEX TEND                          90.66
+TOTAL                              90.66
+TAX 8.625% ON 0.00                  0.00
+SUBTOTAL                           90.66
+
+BAG FEE                           0.50  
+  2 @ 0.25
+LG EGGS 12 CT                     8.69 N
+SWISS CHARD                       2.87 N
+CHICKEN BROTH 32 OZ               2.81 N
+POTATO CHIPS                     10.14 N
+  2 @ 5.07
+LG EGGS 12 CT                     8.69 N
+TARGET CIRCLE OFFER              1.42-  
+GG ICEBERG LTTC                  10.22 N
+  2 @ 5.11
+CLFLWR                           14.55 N
+  3.87 lb @ 3.76 /lb
+TARGET CIRCLE OFFER              0.39-  
+CA CRV                            0.05  
+  1 @ 0.05
+ORANGE JUICE                      7.69 N
+CIRCLE DEAL                      2.21-  
+UNSLTD BTR 4 X 1 LB               9.48 N
+MKT PANTRY YELLOW ONIN            1.78 N
+CELERY                            4.32 N
+GG SOY SCE                        6.79 N
+AVOCADOS BAG 4 CT                 3.54 N
+FRZN THREE BERRY BLEND 4 LB       2.56 N
+
+             (555) 030-9250
+        San Francisco CA  T-0841
+                 TARGET

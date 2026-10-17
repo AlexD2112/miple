@@ -1,0 +1,32 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0529
+
+SMPL TRTH ATLANTIC SLMN FLLT     19.77 F
+CARROTS                           1.79 F
+LG EGGS 18 CT                     7.52 F
+  3 @ 4.35
+SMPL TRTH STRAWBERRIES           13.05 F
+  4 @ 4.17
+KALE                             16.68 F
+  2 @ 2.59
+SMPL TRTH GREEN ONIONS BUNCH      5.18 F
+KRO SAVINGS                      0.30-  
+SMPL TRTH ROMAINE LTTC            2.79 F
+KRO SAVINGS                      0.84-  
+KRO HAND SOAP                    24.27 T
+SHREDDED MOZZ 8 OZ                2.92 F
+PRIV SEL FRZN WFFLS               7.05 F
+SMPL TRTH GREEN ONIN BUNCH        2.59 F
+  1.83 lb @ 0.76 /lb
+MANGO                             1.39 F
+
+SUBTOTAL                          103.86
+TAX 10.55% ON 24.27                 2.56
+TOTAL                             106.42
+AMEX TEND                         106.42
+CHANGE                              0.00
+
+08/17/26 12:06  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

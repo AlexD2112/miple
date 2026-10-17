@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0394  Seattle WA
+            MEMBER ************
+
+1227205 CHUCK ROAST                  51.66 E
+     3.76 lb @ 13.74 /lb
+179286 ARUGULA                        4.00 E
+3443383 TPD/ARUGULA                  1.20-  
+564732 KS STRWB                       8.70 E
+     2 @ 4.35
+
+SUBTOTAL                               63.16
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             63.16
+VISA TEND                              63.16
+CHANGE                                  0.00
+
+03/09/2030 00:00 PST  442 442 1236 28
+ITEMS 7   REG 05  TRANS 3793
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

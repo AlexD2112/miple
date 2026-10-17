@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 1125
+
+TOOTHPASTE                       16.40 F
+GRK YGRT 48 OZ                    1.97 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+KTCHP                             5.49 F
+SMPL TRTH DIJON MUSTARD           2.46 F
+YUKON GOLD POTS                   3.99 F
+ORG TOMATO BASIL MARINARA         5.94 F
+  1.06 lb @ 0.76 /lb
+MANGO                             0.81 F
+KRO SOY SCE                       6.79 F
+RASPB                             7.24 F
+  REFUND - ORIG RECEIPT
+RETURN FRZN THREE BERRY BLEND 4  2.56- F
+
+SUBTOTAL                           51.09
+TAX                                 0.00
+TOTAL                              51.09
+DEBIT TEND                         51.09
+CHANGE                              0.00
+
+04/11/26 15:02  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

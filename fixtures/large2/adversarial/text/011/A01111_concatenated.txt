@@ -1,0 +1,39 @@
+              TRADER JOE'S
+        Store #0738  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+JASMINE RICE 5 LB                 1.49  
+HAND SOAP                        24.27 T
+  2 @ 3.00
+BARTLETT PEARS                    6.00  
+
+SUBTOTAL                           31.76
+TAX 10.55% ON 24.27                 2.56
+TOTAL                              34.32
+AMEX TEND                          34.32
+CHANGE                              0.00
+
+09/05/26 11:09  ITEMS 4
+T=TAXABLE
+               THANK YOU
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-4586
+
+BANANA                            2.37 F
+  0.26 lb @ 2.30 /lb
+WF GALA APPLES                    0.60 F
+WF PENNE                         13.38 F
+  2 @ 1.49
+JASMINE RICE 5 LB                 2.98 F
+PRIME 10% OFF                    0.22-  
+
+SUBTOTAL                           19.11
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              19.11
+CASH TEND                          20.00
+CHANGE                              0.89
+
+08/31/26 15:28  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

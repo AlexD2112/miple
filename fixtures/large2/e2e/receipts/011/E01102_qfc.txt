@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2548
+
+SMPL TRTH CLNTR                   1.16 F
+TORTILLA CHIPS                    3.33 F
+TLLMK MEDIUM CHDR                11.77 F
+PRIV SEL SLTD BTR                 5.73 F
+KRO SAVINGS                      1.72-  
+  2 @ 1.01
+SMPL TRTH NAVEL ORANGES           2.02 F
+MFR CPN                          0.61-  
+SHREDDED CHEDDAR 8 OZ             6.42 F
+MFR CPN                          1.35-  
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+KRO SPRKLG WTR                    3.74 F
+KRO PENNE                        13.38 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           52.94
+TAX 10.55% ON 9.07                  0.96
+TOTAL                              53.90
+AMEX TEND                          53.90
+CHANGE                              0.00
+
+02/15/26 20:26  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

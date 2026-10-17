@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1008
+
+  2 @ 2.45
+BTR LTTC                          4.90 F
+  2 @ 2.02
+CLNTR BUNCH                       4.04 F
+BAGGED CAESAR SALAD KIT           2.21 F
+  3.79 lb @ 6.69 /lb
+PRIV SEL BNLS SKNLS CHKN BRST    25.36 F
+GRK YGRT 48 OZ                    1.97 F
+ORGNL HUMMUS 10 OZ                8.88 F
+SMPL TRTH GRND BF 80/20           6.57 F
+SHREDDED CHDR 8 OZ                6.42 F
+  0.68 lb @ 1.48 /lb
+RED ONIN                          1.01 F
+
+SUBTOTAL                           61.36
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              61.36
+VISA TEND                          61.36
+CHANGE                              0.00
+
+07/22/26 11:29  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

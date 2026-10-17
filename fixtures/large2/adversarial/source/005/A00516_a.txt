@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 3247
+
+  3.39 lb @ 9.65 /lb
+KRO PORK TENDERLOIN              32.71 F
+SMPL TRTH BLCKBRRS                3.92 F
+  0.51 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                0.75 F
+STRWB 2 LB                        5.88 F
+FM DRIED LENTILS                  4.26 F
+BLACK BEANS 15 OZ CAN            10.76 F
+FM PLUS CARD SAV                 2.93-  
+SHREDDED CHDR 8 OZ                6.42 F
+DOUBLE CREME BRIE                 5.40 F
+  2 @ 3.98
+FM ROLLED OATS                    7.96 F
+  2.35 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             3.13 F
+  4 @ 2.93
+ASPRGS                           11.72 F
+  3.56 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTS             4.02 F
+SOY SCE                           6.79 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+FRESH MOZZ                        8.65 F
+BRLL PENNE                       19.37 F
+SLTD BTR 4 STICKS                 9.37 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          147.30
+TAX 10.55% ON 0.24                  0.03
+TOTAL                             147.33
+AMEX TEND                         147.33
+CHANGE                              0.00
+
+07/14/26 11:34  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

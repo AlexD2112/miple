@@ -1,0 +1,36 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1960
+
+  2 @ 5.39
+PRIV SEL VAN YGRT CUPS           10.78 F
+  4 @ 2.06
+FRZN MIXED BERRIES                8.24 F
+DIGITAL CPN                      2.47-  
+PRIV SEL BAGELS                   3.77 F
+PRIV SEL PARMIGIANO REGGIANO      7.82 F
+PRIV SEL SPGHTT                   9.54 F
+MFR CPN                          0.32-  
+SLICED SOURDOUGH PAN LOAF         4.74 F
+SMPL TRTH BTR LTTC                2.45 F
+MFR CPN                          0.74-  
+GRASS-FED GRND BF 85/15           7.35 F
+BLACK BEANS 15 OZ CAN            10.76 F
+KRO ATLNTC SLMN FLLT             19.77 F
+JNN- GRND TRKY 1 LB               6.60 F
+CHKN DRUMSTICKS                   8.97 F
+ORG EGGS 24 CT                    7.83 F
+  3 @ 2.98
+DICED TOM CAN                     8.94 F
+PRIV SEL FRESH MOZZARELLA         8.65 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          122.76
+TAX 10.55% ON 0.08                  0.01
+TOTAL                             122.77
+MASTERCARD TEND                   122.77
+CHANGE                              0.00
+
+01/09/26 15:26  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

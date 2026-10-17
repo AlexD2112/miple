@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0228  Seattle WA
+            MEMBER ************
+OPEN 6AM - 12AM
+
+1686279 KS LAMB CHOPS                59.92 E
+   ** MEMBER PRICE APPLIED **
+     3.51 lb @ 17.07 /lb
+1202770 FRZN PEAS 12 OZ              21.60 E
+     4 @ 5.40
+790895 KS CILANTRO                    4.64 E
+     4 @ 1.16
+559617 DGRN RISING CRUST PEPPERONI P  5.73 E
+986176 ORG BASIL CLAMSHELL            1.49 E
+   REG PRICE 136.97
+651469 KS CHKN THIGHS                 9.29 E
+989680 KS GRK YGRT PLAIN              4.11 E
+579986 KS FRZN WFFLS                  7.05 E
+
+SUBTOTAL                              113.83
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            113.83
+DISCOVER TEND                         113.83
+CHANGE                                  0.00
+
+03/30/26 10:14  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+AUTH CODE  806428
+NEXT VISIT COUPON          3.00 OFF
+REWARDS BALANCE           155.45
+SURVEY CODE 4222 9278 9874
+                 THANK YOU

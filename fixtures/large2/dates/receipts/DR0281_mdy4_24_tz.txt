@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 0607
+
+ORG RASPB 6 OZ                    6.28 F
+BROC CROWNS                       2.25 F
+PENNE                            13.38 F
+GROUND COFFEE                     9.64 F
+BROC CROWNS                       2.25 F
+PEPSI 12 PK CANS                  4.93 T
+  3 @ 2.45
+BOTTLED WTR 40 PK                 7.35 F
+KRO NAPKINS                      24.05 T
+REDUCED FAT 2% MLK GALLON         6.54 F
+
+SUBTOTAL                           76.67
+TAX 10.55% ON 28.98                 3.06
+TOTAL                              79.73
+MASTERCARD TEND                    79.73
+CHANGE                              0.00
+
+12/25/2028 12:20 PST  7500 38 873 6
+ITEMS 22   REG 02  TRANS 9104
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

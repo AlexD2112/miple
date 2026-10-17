@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1567
+
+FM PREPARED MAC AND CHEESE       10.62 F
+TLLMK ICE CRM 48 OZ               8.88 F
+DARIGOLD UNSLTD BTR               6.67 F
+GREEN BEANS                       2.31 F
+FM OAT MLK                        3.10 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+CREAM CHEESE 8 OZ                 3.15 F
+ORG EGGS 24 CT                    7.83 F
+FM PLUS CARD SAV                 2.16-  
+  0.55 lb @ 2.33 /lb
+BRSSLS SPRTS                      1.28 F
+
+SUBTOTAL                           50.51
+TAX 10.55% ON 8.83                  0.93
+TOTAL                              51.44
+AMEX TEND                          51.44
+CHANGE                              0.00
+
+03/26/26 19:06  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

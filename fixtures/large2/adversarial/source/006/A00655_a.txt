@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 0374
+
+SMPL TRTH ASPRGS                  2.93 F
+KRO SAVINGS                      0.88-  
+KRO TRASH BAGS 40CT               6.49 T
+WILD COD FLLT                    18.56 F
+FM PLUS CARD SAV                 2.33-  
+
+SUBTOTAL                           24.77
+TAX 10.55% ON 6.49                  0.68
+TOTAL                              25.45
+DISCOVER TEND                      25.45
+CHANGE                              0.00
+
+09/02/26 07:49  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

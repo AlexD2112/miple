@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0084  Seattle WA
+            MEMBER ************
+
+1849128 BANANA                        9.48 E
+     4 @ 2.37
+680748 UNEXPECTED CHDR               25.53 E
+     1.42 lb @ 17.98 /lb
+1107356 MNDRNS                        2.72 E
+1284589 COTTAGE CHS                   3.21 E
+1481197 KS SLTD BTR                   5.73 E
+202205 CHKN BROTH 32 OZ               2.81 E
+365760 AVCDS BAG 4 CT                 3.54 E
+1498326 PEPSI 12 PK CANS              4.93 A
+549547 KS GRND TRKY                   5.19 E
+285122 KS GREEN BEANS                 2.31 E
+324071 ORG LEMONS                     9.08 E
+     3.21 lb @ 2.83 /lb
+506686 DICED TOM 14.5 OZ              1.00 E
+811102 KS ROMA TOM                    2.38 E
+1135022 ORG RASPB 6 OZ                6.28 E
+845925 KS BRIE                        4.85 E
+967539 KS AVOCADOS                    4.05 E
+527601 KS HALIBUT                    10.82 E
+761296 KS FRZN PEAS                  13.98 E
+1760717 ALL PURPOSE FLOUR            11.36 E
+1370745 KS CHKN DRUMSTICKS            8.97 E
+
+SUBTOTAL                              138.22
+TAX 10.55% ON 4.93                      0.52
+**** TOTAL                            138.74
+VISA TEND                             138.74
+CHANGE                                  0.00
+
+12/30/26 17:25  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

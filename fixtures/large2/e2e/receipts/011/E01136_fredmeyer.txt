@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 3016
+
+STRAUS PLAIN GREEK YOGURT         1.74 F
+PLASTIC WRAP                      4.77 T
+FRZN BROC FLORETS                 8.13 F
+  1.11 lb @ 0.76 /lb
+SMPL TRTH MANGO                   0.84 F
+PAPER TOWELS 6 ROLL               3.75 T
+SMPL TRTH PREPARED MAC & CHS     10.62 F
+  2 @ 5.13
+KRO SPARKLING WATER 8PK          10.26 F
+ORG BABY SPNCH 5 OZ               5.85 F
+BATH TISSUE 12 ROLL              23.08 T
+DIGITAL CPN                      0.75- T
+  1.17 lb @ 3.72 /lb
+ZUCCHINI                          4.35 F
+PNT BTR                           6.90 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           79.62
+TAX 10.55% ON 30.93                 3.26
+TOTAL                              82.88
+DEBIT TEND                         82.88
+CHANGE                              0.00
+
+12/31/26 21:37  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

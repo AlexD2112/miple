@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1471
+
+KRO SLICED ROAST BEEF             5.94 F
+KRO SAVINGS                      1.78-  
+FM KTCHP                          5.49 F
+SHREDDED CHDR 8 OZ                6.42 F
+LEMONS                            4.19 F
+KRO PASTURE RAISED EGGS           7.37 F
+  4.76 lb @ 7.09 /lb
+TRKY BRST                        33.75 F
+  3 @ 5.94
+ORG TOMATO BASIL MARINARA        17.82 F
+
+SUBTOTAL                           79.20
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              79.20
+VISA TEND                          79.20
+CHANGE                              0.00
+
+12.31.26 23:38  9793 14 872 3
+ITEMS 12   REG 19  TRANS 9050
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

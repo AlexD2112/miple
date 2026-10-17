@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 3032
+
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+FRESH MINT                        2.74 F
+KRO HLBT                         10.82 F
+  2 @ 4.30
+LEMON                             8.60 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           29.41
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              29.44
+AMEX TEND                          29.44
+CHANGE                              0.00
+
+06-27-27 18:29:05  9807 12 879 7
+ITEMS 29   REG 09  TRANS 8265
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 2071
+
+  2 @ 4.30
+LEMON                             8.60 F
+MAYONNAISE 30 OZ                  6.42 F
+WHITE SANDWICH BRD                7.03 F
+WHITE SANDWICH BRD                7.03 F
+FM KTCHP                          5.49 F
+
+SUBTOTAL                           34.57
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              34.57
+AMEX TEND                          34.57
+CHANGE                              0.00
+
+03/20/26 19:27  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

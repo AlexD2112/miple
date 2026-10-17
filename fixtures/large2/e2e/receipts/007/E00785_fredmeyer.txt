@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 1520
+
+FM GINGER ALE 12PK                6.02 T
+KEFIR                             1.27 F
+  4 @ 5.42
+SMPL TRTH BABY SPNCH             21.68 F
+SMPL TRTH CRM CHS                 8.63 F
+KRO SAVINGS                      2.59-  
+SMPL TRTH LMND 52OZ               5.79 T
+JSMN RICE 25 LB                   8.09 F
+KRO SAVINGS                      0.86-  
+  3.92 lb @ 5.06 /lb
+FM GRND CHKN                     19.84 F
+SLTD BTR 4 STICKS                 9.37 F
+PLAIN NONFAT GRK YGRT             4.65 F
+FROZEN PIZZA                     13.30 F
+  1.00 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                1.96 F
+MFR CPN                          0.59-  
+SMPL TRTH SOURDOUGH LOAF          7.47 F
+KRO PNT BTR                       6.90 F
+KRO SAVINGS                      1.00-  
+  0.59 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTS             0.67 F
+FM FLOUR TORT                     6.18 F
+FM HALF AND HALF                  5.34 F
+
+SUBTOTAL                          122.12
+TAX 10.55% ON 11.81                 1.25
+TOTAL                             123.37
+VISA TEND                         123.37
+CHANGE                              0.00
+
+09/22/26 09:12  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

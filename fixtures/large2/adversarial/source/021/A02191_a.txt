@@ -1,0 +1,20 @@
+                SAFEWAY
+         Store 3488  Seattle WA
+             (555) 010-3063
+
+  REFUND - ORIG RECEIPT
+RETURN FRZN MIXED BERRIES        4.12- S
+RETURN GROUND PORK               6.60- S
+RETURN BABY SPNCH 5 OZ           3.77- S
+RETURN SIG DISH SOAP            19.39- T
+RETURN SIG SLCT MAYONNAISE       6.36- S
+
+SUBTOTAL                          40.24-
+TAX 10.55% ON 19.39-               2.05-
+**** TOTAL                        42.29-
+AMEX TEND                         42.29-
+CHANGE                              0.00
+
+01/14/26 09:40  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

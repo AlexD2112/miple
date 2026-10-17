@@ -1,0 +1,18 @@
+                 THANK YOU
+A=TAXABLE  E=NONTAXABLE FOOD
+09/15/26 17:03  ITEMS 3
+
+CHANGE                                  0.00
+AMEX TEND                              21.29
+**** TOTAL                             21.29
+TAX                                     0.00
+SUBTOTAL                               21.29
+
+1515350 SWISS CHARD                   2.87 E
+1564010 PENNE                        13.38 E
+260493 KS ROTIS CHKN                  5.04 E
+
+            MEMBER ************
+        Warehouse #2950  Portland OR
+                 WHOLESALE
+                   COSTCO

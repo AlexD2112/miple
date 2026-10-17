@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0159
+
+DOG TREATS                       6.82 TX
+JASMINE RICE 5 LB                 1.49  
+KRO SHRP CHDR BLOCK              10.33  
+PRIV SEL COTTAGE CHS              3.21  
+PRIV SEL SPAGHETTI                9.54  
+
+SUBTOTAL                           31.39
+TAX 10.55% ON 6.82                  0.72
+TOTAL                              32.11
+DEBIT TEND                         32.11
+CHANGE                              0.00
+
+01/11/26 11:32  ITEMS 5
+TX=TAXABLE ITEM
+               THANK YOU

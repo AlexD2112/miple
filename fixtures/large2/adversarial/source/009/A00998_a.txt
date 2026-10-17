@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 3511
+
+FRZN BROC FLORETS                 8.13 F
+ORG EGGS 24 CT                    7.83 F
+ORGANIC BLACK BEANS 8 CANS        1.15 F
+FM PLUS CARD SAV                 0.35-  
+  3 @ 2.45
+BOTTLED WTR 40 PK                 7.35 F
+SMPL TRTH PREPARED MAC & CHS     10.62 F
+BLACK BEANS CAN                   8.77 F
+MFR CPN                          1.86-  
+  3 @ 5.22
+MSSN FLOUR TORT 40 CT            15.66 F
+ORG ROMAINE HEARTS 3 CT           3.76 F
+  2 @ 2.32
+KRO EXTRA FIRM TOFU               4.64 F
+ORG RASPB 6 OZ                    6.28 F
+FM LMND 52OZ                      5.79 T
+ATLANTIC SLMN FLLT               19.77 F
+DIGITAL CPN                      2.28-  
+LG EGGS 18 CT                     7.52 F
+KRO AHI TUNA STEAK               14.71 F
+KRO SAVINGS                      0.78-  
+
+SUBTOTAL                          116.71
+TAX 10.55% ON 5.79                  0.61
+TOTAL                             117.32
+DEBIT TEND                        117.32
+CHANGE                              0.00
+
+07/31/26 20:42  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-8959
+
+365 ORG YELLOW ONIN               1.78 F
+WF SHARP CHEDDAR BLOCK           10.33 F
+CAT LITTER                       14.03 T
+FLOUR TORT 10 CT                  2.35 F
+GRND TRKY                         5.19 F
+
+SUBTOTAL                           33.68
+TAX 10.55% ON 14.03                 1.48
+TOTAL                              35.16
+VISA TEND                          35.16
+CHANGE                              0.00
+
+07/17/2027 02:38:53 AM
+ITEMS 21   REG 13  TRANS 6215
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

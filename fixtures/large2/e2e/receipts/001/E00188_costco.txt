@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0562  Seattle WA
+            MEMBER ************
+
+205337 KS ATLANTIC SALMON FILLET     19.77 E
+1296809 KS CILANTRO                   4.64 E
+     4 @ 1.16
+247191 GRND BF 80/20                  6.57 E
+1345952 JENNIE-O GRND TRKY 1 LB       6.60 E
+1235513 MNDRN ORANGE CHKN            15.87 E
+689177 HALIBUT                       10.82 E
+1801196 GROUND COFFEE                 9.64 E
+37151 BONELESS PORK LOIN CHOPS       23.73 E
+     2.39 lb @ 9.93 /lb
+1429838 KS TRKY BRST                 42.33 E
+     5.97 lb @ 7.09 /lb
+1334026 KS RIBEYE STEAK              19.87 E
+605311 KS CRL                         6.63 E
+865140 EVERYTHING BUT THE BAGEL SEAS  7.01 E
+
+SUBTOTAL                              173.48
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            173.48
+DEBIT TEND                            173.48
+CHANGE                                  0.00
+
+04/19/26 14:39  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

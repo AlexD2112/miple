@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1230
+
+KRO DOG TREATS                    6.82 T
+KRO NAPKINS                      24.05 T
+FLWRS BQT                        23.70 T
+CAT LITTER                       14.03 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           68.68
+TAX 10.55% ON 68.68                 7.25
+TOTAL                              75.93
+AMEX TEND                          75.93
+CHANGE                              0.00
+
+09/17/26 17:07  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

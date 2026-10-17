@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 0245
+
+SMPL TRTH ROTISSERIE CHICKEN      5.04 T
+SMPL TRTH GOAT CHS                8.35 F
+KRO TTHPST                       16.40 T
+DIGITAL CPN                      1.40- T
+KRO ALUMINUM FOIL                18.03 T
+DIGITAL CPN                      1.44- T
+
+SUBTOTAL                           44.98
+TAX 10.55% ON 36.63                 3.86
+TOTAL                              48.84
+DEBIT TEND                         48.84
+CHANGE                              0.00
+
+10/16/26 12:02  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

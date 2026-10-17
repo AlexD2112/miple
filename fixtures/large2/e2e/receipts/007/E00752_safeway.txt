@@ -1,0 +1,25 @@
+                SAFEWAY
+         Store 0767  Seattle WA
+             (555) 010-9883
+
+ASPARAGUS                         2.93 S
+  2.60 lb @ 0.68 /lb
+PCHS                              1.77 S
+SIG SLCT POTATO CHIPS             5.07 S
+SIG KTCHNS FRZN MIXED BERRIES     2.06 S
+O ORGANICS YELLOW ONIN            1.78 S
+CRM CHS                           8.63 S
+  6.29 lb @ 6.33 /lb
+WHL CHKN                         39.82 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           62.30
+TAX 10.55% ON 0.24                  0.03
+**** TOTAL                         62.33
+MASTERCARD TEND                    62.33
+CHANGE                              0.00
+
+02/03/26 08:27  ITEMS 7
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1161  San Francisco CA
+            MEMBER ************
+TAX EXEMPT ID ******8457
+
+1600308 KS BLACK FOREST HAM          20.26 E
+     1.43 lb @ 14.17 /lb
+811883 KS FRZN DUMPLINGS             15.61 E
+1128903 NAVEL ORANGES                 1.01 E
+1018569 HASS AVCD LG                  1.30 E
+     0.39 lb @ 3.34 /lb
+1187382 KS ROLLED OATS                3.98 E
+1404427 KS GROUND TURKEY              5.19 E
+114391 KS CRL                         6.63 E
+1072227 KS PAPER PLATES               3.31 A
+248262 LMND 52OZ                      5.79 E
+  1 @ 0.10
+CA CRV                                0.10  
+78456 KS SALTED BUTTER                5.73 E
+963008 ITLN PRSLY                     2.93 E
+948416 GRND CHKN                     18.27 E
+     3.61 lb @ 5.06 /lb
+
+SUBTOTAL                               90.11
+TAX EXEMPT                              0.00
+**** TOTAL                             90.11
+DEBIT TEND                             90.11
+CHANGE                                  0.00
+
+07/20/26 19:50  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

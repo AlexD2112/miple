@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0683  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 875248 KS ENGLISH CUCUMBER    2.28- E
+RETURN 1888527 CILANTRO              2.32- E
+RETURN 1199729 ORG SPROUTED TOFU     2.61- E
+RETURN 910085 ORG TOMATO BASIL MRN  17.82- E
+RETURN 54045 MAYONNAISE 30 OZ        6.42- E
+RETURN 1030099 KS ENGLSH CCMBR      11.94- E
+
+SUBTOTAL                              43.39-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            43.39-
+MASTERCARD TEND                       43.39-
+CHANGE                                  0.00
+
+06/05/26 15:40  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

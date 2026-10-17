@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3892
+
+CRRTS                             1.79 F
+  2 @ 1.00
+DICED TOMATOES 14.5 OZ            2.00 F
+  4 @ 2.77
+KRO HAMBURGER BUNS               11.08 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           14.87
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              14.89
+VISA TEND                          14.89
+CHANGE                              0.00
+
+03/14/26 07:36  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

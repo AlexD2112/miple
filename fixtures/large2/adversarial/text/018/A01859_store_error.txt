@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 2119
+
+TILLAMOOK ICE CREAM 48 OZ         8.88 F
+  4 @ 2.31
+SMPL TRTH GREEN BEANS             9.24 F
+ORG BLACK BEANS 8 CANS            1.15 F
+MFR CPN                          0.35-  
+  2 @ 1.95
+ORGANIC ITALIAN PARSLEY           3.90 F
+FM FRZN BROC                      1.72 F
+FM PLUS CARD SAV                 0.52-  
+DISH SOAP                        19.39 T
+FM PLUS CARD SAV                 0.22- T
+  2.65 lb @ 3.42 /lb
+SMPL TRTH RED BELL PEPPER         9.06 F
+MFR CPN                          2.72-  
+LG EGGS 12 CT                     8.69 F
+CHKN BROTH 32 OZ                  2.81 F
+FM KOMBUCHA 16OZ                  4.58 F
+  2.74 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               10.19 F
+  2 @ 5.22
+MSSN FLOUR TORT 40 CT            10.44 F
+
+SUBTOTAL                           86.24
+TAX 10.55% ON 19.17                 2.02
+TOTAL                              87.76
+VISA TEND                          87.76
+CHANGE                              0.00
+
+08/21/26 17:45  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

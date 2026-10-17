@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 3498
+
+  3 @ 4.34
+CELERY HEARTS                    13.02 F
+  2 @ 2.55
+HUY FONG SRIRACHA                 5.10 F
+LARGE BROWN CAGE FREE EGGS        4.10 F
+  4 @ 5.24
+ROOT BEER 2L                     20.96 T
+SMPL TRTH RASPB                   7.24 F
+NAVEL ORNGS                       1.01 F
+FM PLUS CARD SAV                 0.30-  
+PAPER TOWELS 6 ROLL               3.75 T
+KRO SAVINGS                      1.10- T
+KRO KOMBUCHA 16OZ                 4.58 F
+DAVES KILLER BRD                  6.69 F
+
+SUBTOTAL                           65.05
+TAX 10.55% ON 23.61                 2.49
+TOTAL                              67.54
+DEBIT TEND                         67.54
+CHANGE                              0.00
+
+05/16/26 13:01  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

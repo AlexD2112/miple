@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3593  Seattle WA
+            MEMBER ************
+
+143433 WHL CHKN	12.72 E
+     2.01 lb @ 6.33 /lb
+1267367 KS DIJON MUSTARD                2.46 E
+292669 LAUNDRY DETERGENT PODS        20.18 A
+
+SUBTOTAL 35.36
+TAX 10.55% ON 20.18                     2.13
+**** TOTAL                             37.49
+VISA TEND                                  37.49
+   CHANGE                                  0.00
+
+02/13/26 07:49  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1947  Seattle WA
+            MEMBER ************
+
+1397352 TILLAMOOK MEDIUM CHDR 2.5 LB  4.21 E
+1896935 2% MILK 2 X 1 GAL             4.70 E
+1618509 KS SWISS CHARD               11.48 E
+     4 @ 2.87
+1393830 KS BABY SPNCH                 5.42 E
+
+SUBTOTAL                               25.81
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             25.81
+DEBIT TEND                             25.81
+CHANGE                                  0.00
+
+02/20/26 12:34  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

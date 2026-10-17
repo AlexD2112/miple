@@ -1,0 +1,34 @@
+               FRED MEYER
+               Seattle WA
+               Store 2854
+
+  2.35 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             5.41 F
+FM PREPARED MAC & CHS            10.62 F
+REDUCED FAT 2% MILK GALLON        6.54 F
+GRNLA BRS                         6.07 F
+MFR CPN                          1.82-  
+  4 @ 4.42
+KRO DIET COLA 12PK CANS          17.68 T
+  2 @ 5.22
+MISSION FLOUR TORT 40 CT         10.44 F
+SMPL TRTH TORTILLA CHIPS          3.33 F
+  4 @ 5.11
+ICEBERG LTTC                     20.44 F
+QUINOA                            7.75 F
+PRMGN RGGN WEDGE                  8.42 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+MFR CPN                          1.77-  
+  2 @ 5.44
+SMPL TRTH SPRING MIX             10.88 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          111.08
+TAX 10.55% ON 17.76                 1.87
+TOTAL                             112.95
+CASH TEND                         120.00
+CHANGE                              7.05
+
+02/29/28 14:07  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

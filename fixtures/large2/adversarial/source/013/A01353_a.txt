@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0551  Seattle WA
+            MEMBER ************
+REG 14 TRN 2554 OPR 530
+STORE MGR: J******
+REWARDS #: ********1010
+
+205685 SPRKLG WTR                     3.74 E
+121040 ORG GRAPE TOM PINT             7.08 E
+     3.61 lb @ 1.96 /lb
+997432 KS PINEAPPLE                   1.81 E
+     1.45 lb @ 1.25 /lb
+1232386 KS COD FLLT                  24.33 E
+     1.34 lb @ 18.16 /lb
+
+SUBTOTAL                               36.96
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             36.96
+DEBIT TEND                             36.96
+CHANGE                                  0.00
+
+01/05/26 19:11  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+REWARDS BALANCE           362.81
+SURVEY CODE 3290 2264 1413
+FUEL POINTS THIS ORDER        897
+AUTH CODE  235105
+                 THANK YOU

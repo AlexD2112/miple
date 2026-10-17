@@ -1,0 +1,30 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2015
+
+PRIV SEL CORN TORT                2.79 F
+SMPL TRTH RIBEYE STEAK           19.87 F
+KRO HAND SOAP                    24.27 T
+LG EGGS 18 CT                     7.52 F
+  3.29 lb @ 6.33 /lb
+SMPL TRTH WHL CHKN               20.83 F
+CHKN BROTH 32 OZ                  2.81 F
+  4 @ 2.56
+FRZN THREE BERRY BLEND 4 LB      10.24 F
+DIGITAL CPN                      2.46-  
+SMPL TRTH ICE CRM                14.51 F
+PRIV SEL COLA 12PK CANS           1.51 T
+2% MLK 2 X 1 GAL                  4.70 F
+SPRING MIX                        5.44 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          112.19
+TAX 10.55% ON 25.94                 2.74
+TOTAL                             114.93
+DEBIT TEND                        114.93
+CHANGE                              0.00
+
+01/31/26 08:50  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

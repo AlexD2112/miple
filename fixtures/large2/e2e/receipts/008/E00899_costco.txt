@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3997  Seattle WA
+            MEMBER ************
+
+1420941 TURKEY BREAST                41.69 E
+     5.88 lb @ 7.09 /lb
+1198616 KS GRNLA BRS                  6.07 E
+859653 DARIGOLD UNSALTED BUTTER       6.67 E
+1766205 CHERRY TOM                    1.15 E
+1284535 APPLE JUICE 64OZ              7.25 E
+7870095 TPD/APPLE JUICE              0.20-  
+593823 AVCDS BAG 4 CT                 3.54 E
+1884616 CHKN BROTH CARTON             8.38 E
+1827516 LCRX LIME SPRKLG WTR 8 PK     2.20 E
+483661 KS CARROTS                     1.79 E
+558389 PARMIGIANO REGGIANO WEDGE      8.42 E
+1863009 KS ROLLED OATS                7.96 E
+     2 @ 3.98
+1030130 DIGIORNO RISING CRUST PEPPER  5.73 E
+
+SUBTOTAL                              100.65
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            100.65
+VISA TEND                             100.65
+CHANGE                                  0.00
+
+02/08/26 07:56  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

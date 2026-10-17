@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 0833  Seattle WA
+             (555) 010-0205
+
+SIG KTCHNS DIET COLA 12PK CANS    4.42 T
+SW ITALIAN SAUSAGE BULK           9.93 S
+CAGE FREE EGGS 18CT               6.85 S
+
+SUBTOTAL                           21.20
+TAX 10.55% ON 4.42                  0.47
+**** TOTAL                         21.67
+DEBIT TEND                         21.67
+CHANGE                              0.00
+
+09/03/26 10:01  ITEMS 3
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

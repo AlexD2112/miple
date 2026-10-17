@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2015  Seattle WA
+            MEMBER ************
+
+1527535 ORG LEMONS                    9.59 E
+     3.39 lb @ 2.83 /lb
+2565316 TPD/ORG LEMONS               1.31-  
+93731 APPLE JUICE 64OZ                7.25 E
+987010 KS BAGGED CAESAR SALAD KIT     2.21 E
+437693 KS BARTLETT PEARS              6.00 E
+     2 @ 3.00
+355127 PARMIGIANO REGGIANO WEDGE      8.42 E
+1424602 KS PORK TENDERLOIN           23.93 E
+     2.48 lb @ 9.65 /lb
+641697 YELLOW ONIN                    1.78 E
+606502 DIET COLA 12PK CANS            4.42 A
+
+SUBTOTAL                               62.29
+TAX 10.55% ON 4.42                      0.47
+**** TOTAL                             62.76
+AMEX TEND                              62.76
+CHANGE                                  0.00
+
+03/27/26 21:30  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

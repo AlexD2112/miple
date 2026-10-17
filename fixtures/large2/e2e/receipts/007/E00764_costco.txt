@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1752  Seattle WA
+            MEMBER ************
+
+1745131 BATH TISSUE 12 ROLL          23.08 A
+1769885 LARGE BROWN EGGS              4.29 E
+189527 FLOUR TORT                     6.18 E
+1289096 KETCHUP                      10.98 E
+     2 @ 5.49
+919412 KEFIR                          3.81 E
+     3 @ 1.27
+651286 KS SWISS CHEESE                8.79 E
+     0.95 lb @ 9.25 /lb
+125796 PNT BTR                        6.90 E
+
+SUBTOTAL                               64.03
+TAX 10.55% ON 23.08                     2.43
+**** TOTAL                             66.46
+MASTERCARD TEND                        66.46
+CHANGE                                  0.00
+
+07/19/26 08:05  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

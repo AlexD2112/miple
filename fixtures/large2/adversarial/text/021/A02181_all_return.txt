@@ -1,0 +1,22 @@
+                 TARGET
+        San Francisco CA  T-0336
+             (555) 030-8996
+
+  REFUND - ORIG RECEIPT
+RETURN GG PREPARED MAC AND CHE  10.62- N
+RETURN GG ROOT BEER 2L           5.24- T
+  REFUND - ORIG RECEIPT
+RETURN TILLAMOOK MEDIUM CHDR 2.  4.21- N
+RETURN LEMON                     4.30- N
+  REFUND - ORIG RECEIPT
+RETURN GG COLD BREW COFFEE 32OZ  4.43- N
+
+SUBTOTAL                          28.80-
+TAX 8.625% ON 5.24-                0.45-
+TOTAL                             29.25-
+MASTERCARD TEND                   29.25-
+CHANGE                              0.00
+
+02/05/26 19:34  ITEMS 0
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

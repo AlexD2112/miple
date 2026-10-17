@@ -1,0 +1,20 @@
+                SAFEWAY
+      Store 2863  San Francisco CA
+             (555) 010-5717
+
+  3.20 lb @ 2.83 /lb
+ORG LEMONS                        9.06 S
+  1.60 lb @ 2.83 /lb
+ORG LEMONS                        4.53 S
+BAG FEE                           0.25  
+
+SUBTOTAL                           13.84
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         13.84
+VISA TEND                          13.84
+CHANGE                              0.00
+
+9/25/30 2:06 AM  225 32 2349 6114
+ITEMS 8   REG 08  TRANS 7810
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

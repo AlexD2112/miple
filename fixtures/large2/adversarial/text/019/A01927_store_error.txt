@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 3361
+
+  2.89 lb @ 3.42 /lb
+RED BELL PEPR                     9.88 F
+KALE                              4.17 F
+CAULIFLOWER GNCCH                 7.85 F
+  3 @ 1.51
+COLA 12PK CANS                    4.53 T
+SMPL TRTH ALL PRPS FLOUR         11.36 F
+KRO FLOUR TORT                    6.18 F
+  3 @ 5.22
+MISSION FLOUR TORT 40 CT         15.66 F
+  1.52 lb @ 1.96 /lb
+ORGANIC GRAPE TOMATOES PINT       2.98 F
+DIGITAL CPN                      0.89-  
+FM ORANGE JUICE                   7.69 F
+ORG BLACK BEANS 8 CANS            1.15 F
+PEPSI 12 PK CANS                  4.93 T
+KRO GENOA SALAMI                  4.76 F
+KRO SHMP                         17.57 T
+
+SUBTOTAL                           97.82
+TAX 10.55% ON 27.03                 2.80
+TOTAL                             100.62
+VISA TEND                         100.62
+CHANGE                              0.00
+
+01/10/26 18:08  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

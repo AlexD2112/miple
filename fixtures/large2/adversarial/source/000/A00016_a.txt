@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3788  Seattle WA
+            MEMBER ************
+
+1371359 BLACK BEANS 15 OZ CAN        10.76 E
+39626 KS ITALIAN PARSLEY              2.93 E
+1823167 PASTURE RAISED EGGS           7.37 E
+770970 CARROTS                        1.79 E
+828089 KS GRND BF 80/20               6.57 E
+165909 JASMINE RICE 5 LB              1.49 E
+1709519 ORG SPRING MIX 1 LB           5.49 E
+0931672 TPD/ORG SPRING M             1.65-  
+133744 RED BELL PEPR                  9.30 E
+     2.72 lb @ 3.42 /lb
+1823023 KS SRDGH LOAF                 7.47 E
+8899919 TPD/SRDGH LOAF               2.00-  
+1419600 MSSN FLOUR TORT 40 CT         5.22 E
+274882 CHICKEN BROTH CARTON           8.38 E
+1876209 UNEXPECTED CHDR              11.87 E
+     0.66 lb @ 17.98 /lb
+1345939 KS ITALIAN PARSLEY            2.93 E
+1268217 FROZEN THREE BERRY BLEND 4 L  7.68 E
+     3 @ 2.56
+4977114 TPD/FROZEN THREE             2.30-  
+987587 KS BABY SPNCH                 21.68 E
+     4 @ 5.42
+560252 CHKN GYOZA PTSTCKRS            9.88 E
+
+SUBTOTAL                              114.86
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            114.86
+VISA TEND                             114.86
+CHANGE                                  0.00
+
+02/07/26 13:13  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

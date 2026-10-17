@@ -1,0 +1,38 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0548
+
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+SMPL TRTH LIMES                   2.80 F
+CABOT SHARP CHEDDAR 8 OZ          8.48 F
+SHREDDED MOZZ 8 OZ                2.92 F
+SMPL TRTH CRACKERS                2.00 F
+  2.30 lb @ 2.83 /lb
+ORG LEMONS                        6.51 F
+SWISS CHARD                       2.87 F
+BTR LTTC                          2.45 F
+  3.66 lb @ 0.68 /lb
+PEACHES                           2.49 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+  0.25 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               2.75 F
+YELLOW ONIN                       1.78 F
+PRIV SEL BRIE                     4.85 F
+LARGE BROWN CAGE FREE EGGS        4.10 F
+GREEN ONIN BUNCH                  2.59 F
+CHOBANI PLAIN GRK YGRT 32 OZ      1.47 F
+HEINZ KETCHUP 32 OZ               4.48 F
+SMPL TRTH CAGE FREE EGGS 18CT     6.85 F
+SMPL TRTH FRZN MIXED BERRIES      2.06 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           72.96
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              72.99
+CASH TEND                          80.00
+CHANGE                              7.01
+
+03/14/26 18:33  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

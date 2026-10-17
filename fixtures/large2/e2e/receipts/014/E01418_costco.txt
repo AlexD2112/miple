@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0027  Seattle WA
+            MEMBER ************
+
+857502 KS BABY CARROTS                2.49 E
+864778 BLUBRY 18 OZ                   9.22 E
+     2 @ 4.61
+1014907 KS DIET COLA 12PK CANS        4.42 A
+327675 KS CCNT MLK CAN                3.83 E
+1122050 KS FRESH DILL                 3.60 E
+     4 @ 0.90
+396914 NAPKINS                       24.05 A
+898462 KS MANDARINS                  10.88 E
+     4 @ 2.72
+  REFUND - ORIG RECEIPT
+RETURN 396914 NAPKINS               24.05- A
+
+SUBTOTAL                               34.44
+TAX 10.55% ON 4.42                      0.47
+**** TOTAL                             34.91
+DISCOVER TEND                          34.91
+CHANGE                                  0.00
+
+02/28/28 11:43  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

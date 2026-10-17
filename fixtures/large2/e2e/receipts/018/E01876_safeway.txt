@@ -1,0 +1,36 @@
+                SAFEWAY
+      Store 0584  San Francisco CA
+             (555) 010-3882
+
+  4 @ 4.93
+PEPSI 12 PK CANS                 19.72 T
+  4 @ 0.05
+CA CRV                            0.20 T
+ITLN SAUSAGE BULK                 9.93 S
+SIG SLCT GRND PORK                6.60 S
+SIG SLCT ROLLED OATS              3.98 S
+SIG ALUMINUM FOIL                18.03 T
+O ORGANICS CELERY                 4.32 S
+  4 @ 3.33
+SW TRTLL CHIPS                   13.32 S
+J4U PERSONAL DEAL                2.99-  
+SIG NAPKINS                      24.05 T
+PNT BTR                           6.90 S
+FRZN WFFLS                        7.05 S
+GRK YGRT 48 OZ                    1.97 S
+ORG ITLN PRSLY                    1.95 S
+BLACK BEANS 15 OZ CAN            10.76 S
+FRESH BASIL                       2.74 S
+  0.77 lb @ 2.83 /lb
+ORG LEMONS                        2.18 S
+BAG FEE                           0.25  
+
+SUBTOTAL                          130.96
+TAX 8.625% ON 62.00                 5.35
+**** TOTAL                        136.31
+DEBIT TEND                        136.31
+CHANGE                              0.00
+
+01/31/26 08:41  ITEMS 21
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

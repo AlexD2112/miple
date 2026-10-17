@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 0986  Seattle WA
+             (555) 010-0865
+
+  REFUND - ORIG RECEIPT
+RETURN JASMINE RICE 5 LB         1.49- S
+RETURN SIG SLCT BOTTLED WTR 24P  9.32- S
+RETURN CAGE FREE EGGS 18CT       6.85- S
+  REFUND - ORIG RECEIPT
+RETURN PAPER TOWELS 6 ROLL       3.75- T
+RETURN BTR LTTC                  2.45- S
+
+SUBTOTAL                          23.86-
+TAX 10.55% ON 3.75-                0.40-
+**** TOTAL                        24.26-
+DISCOVER TEND                     24.26-
+CHANGE                              0.00
+
+09/09/26 18:59  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

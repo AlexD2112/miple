@@ -1,0 +1,42 @@
+               FRED MEYER
+              Portland OR
+               Store 1829
+STORE MGR: J******
+REG 09 TRN 8348 OPR 154
+FUEL POINTS BALANCE     158
+
+  3 @ 3.54
+AVOCADOS BAG 4 CT                10.62 F
+KRO ZIP TOP BAGS                 24.79 F
+WILD COD FLLT                    18.56 F
+KTCHP                             5.49 F
+DIGITAL CPN                      1.31-  
+  1.60 lb @ 3.72 /lb
+ZCCHN                             5.95 F
+KRO SAVINGS                      1.76-  
+SMPL TRTH PNT BTR                 6.90 F
+SWISS CHARD                       2.87 F
+REDUCED FAT 2% MLK GALLON         6.54 F
+  1.57 lb @ 9.65 /lb
+PORK TNDRLN                      15.15 F
+MFR CPN                          1.90-  
+PLASTIC WRAP                      4.77 F
+SMPL TRTH YELLOW ONIN             1.78 F
+GRSS-FD GRND BF 85/15             7.35 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                          105.95
+TAX                                 0.00
+TOTAL                             105.95
+VISA TEND                         105.95
+CHANGE                              0.00
+
+04/19/26 09:17  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+AUTH CODE  625522
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+SAVE 2.00 ON YOUR NEXT VISIT
+NEXT VISIT COUPON          3.00 OFF
+BALANCE DUE                   0.00
+               THANK YOU

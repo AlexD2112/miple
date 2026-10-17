@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1508  Seattle WA
+            MEMBER ************
+
+597062 SLICED SOURDOUGH PAN LOAF      4.74 E
+876334 BNLS SKNLS CHKN BRST          33.05 E
+     4.94 lb @ 6.69 /lb
+1689864 GRND BF 88/12                27.84 E
+     4.64 lb @ 6.00 /lb
+1380139 KS FLOUR TORT                 6.18 E
+1255257 KS MYNNS                      6.36 E
+0967952 TPD/MYNNS                    1.91-  
+1411966 KS LIMES                      2.80 E
+6295809 TPD/LIMES                    0.84-  
+241352 KS FRZN PEAS                  13.98 E
+978149 CLFLWR GNCCH                   7.85 E
+135021 MNDRNS                        10.88 E
+     4 @ 2.72
+1251097 KS MAYONNAISE                 6.36 E
+1434408 LEMONS                        4.19 E
+957859 KS PASTURE RAISED EGGS         7.37 E
+1765095 BLUBRY 18 OZ                 13.83 E
+     3 @ 4.61
+1571636 ROMA TOM                      2.38 E
+1722960 TOOTHPASTE                   16.40 A
+957247 KS DRIED LENTILS               4.26 E
+1844676 KS RED GRAPES                 3.04 E
+
+SUBTOTAL                              168.76
+TAX 10.55% ON 16.40                     1.73
+**** TOTAL                            170.49
+DEBIT TEND                            170.49
+CHANGE                                  0.00
+
+07/28/26 17:11  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

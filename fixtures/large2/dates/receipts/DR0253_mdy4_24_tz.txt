@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 3686
+
+FM QUINOA                         7.75 F
+  3.93 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             39.02 F
+ITALIAN PARSLEY                   2.93 F
+FM PLUS CARD SAV                 0.35-  
+  3 @ 1.51
+KRO COLA 12PK CANS                4.53 T
+CRM CHS 8 OZ                      3.15 F
+APPLE JUICE 64OZ                  7.25 F
+FRESH MINT                        2.74 F
+  3 @ 2.98
+FM DICED TOM CAN                  8.94 F
+FRESH MOZZ                        8.65 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           84.77
+TAX 10.55% ON 4.69                  0.49
+TOTAL                              85.26
+AMEX TEND                          85.26
+CHANGE                              0.00
+
+01/23/2026 18:05 PST  4419 25 129 5
+ITEMS 13   REG 06  TRANS 5783
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

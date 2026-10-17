@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3154  Seattle WA
+            MEMBER ************
+
+1090761 SPRKLG WTR                    3.74  
+1865559 PEPSI 12 PK CANS              4.93 B
+1147523 KS COD FLLT                   7.45  
+     0.41 lb @ 18.16 /lb
+1948724 MANDARIN ORANGE CHKN         15.87  
+1822328 SILKEN TOFU                   4.58  
+     2 @ 2.29
+172662 KS PENNE                      13.38  
+289591 EVERYTHING BUT THE BAGEL SEAS  7.01  
+582635 KS CRM CHS                     8.63  
+599190 BLACK BEANS 15 OZ CAN         10.76  
+531005 KS ITALIAN PARSLEY             5.86  
+     2 @ 2.93
+1707307 COLA 12PK                     1.83 B
+1274293 BNLS RIBEYE STEAK            49.01  
+     3.15 lb @ 15.56 /lb
+1698488 KS CORN TORTILLAS             2.79  
+1576859 KS NAVEL ORANGES              1.01  
+1998247 KS KOMBUCHA 16OZ              4.58  
+2113970 TPD/KOMBUCHA 16O             0.80-  
+1969809 TOSTITOS SCOOPS TORTILLA CHI  3.46  
+409362 FLOWERS BOUQUET               23.70 B
+
+SUBTOTAL                              167.79
+TAX 10.55% ON 30.46                     3.21
+**** TOTAL                            171.00
+DISCOVER TEND                         171.00
+CHANGE                                  0.00
+
+03/19/26 17:38  ITEMS 19
+B=TAXABLE
+                 THANK YOU

@@ -1,0 +1,19 @@
+                SAFEWAY
+         Store 0283  Seattle WA
+             (555) 010-9015
+
+SIG KTCHNS DIET COLA 12PK CANS    4.42 T
+FRZN BROC FLRTS                   8.13 S
+SIG KTCHNS DAVES KILLER BRD       6.69 S
+SW FLOUR TORTILLAS                6.18 S
+J4U DIGITAL CPN                  1.85-  
+
+SUBTOTAL                           23.57
+TAX 10.55% ON 4.42                  0.47
+**** TOTAL                         24.04
+AMEX TEND                          24.04
+CHANGE                              0.00
+
+05/02/26 17:41  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

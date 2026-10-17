@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2528  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1606611 KS PRSNPS             7.31- E
+RETURN 1914977 BONELESS PORK LOIN   37.34- E
+
+SUBTOTAL                              44.65-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            44.65-
+DISCOVER TEND                         44.65-
+CHANGE                                  0.00
+
+01/20/26 11:22  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,31 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0711
+
+ROTIS CHKN                        5.04 T
+MFR CPN                          0.34- T
+PRIV SEL HALIBUT                 10.82 F
+DIGITAL CPN                      2.78-  
+ORG RASPB 6 OZ                    6.28 F
+SMPL TRTH COLD BREW COFFEE 32OZ   4.43 F
+SMPL TRTH KALE                    4.17 F
+  1.37 lb @ 6.33 /lb
+KRO WHL CHKN                      8.67 F
+CREAM CHEESE                      8.63 F
+  2 @ 2.93
+SMPL TRTH ITLN PARSLEY            5.86 F
+ORG BABY SPNCH                    5.54 F
+KRO PENNE                        13.38 F
+KRO RANCH DRESSING                3.99 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           73.93
+TAX 10.55% ON 4.94                  0.52
+TOTAL                              74.45
+DEBIT TEND                         74.45
+CHANGE                              0.00
+
+09/06/26 18:04  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

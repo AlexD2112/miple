@@ -1,0 +1,37 @@
+               FRED MEYER
+               Seattle WA
+               Store 0382
+
+  0.81 lb @ 11.10 /lb
+KRO PORK CHOPS                    8.99 F
+FM CHKN THIGHS                    9.29 F
+FM ROLLED OATS                    3.98 F
+SMPL TRTH SOURDOUGH LOAF          7.47 F
+FM COCONUT MLK CAN                3.83 F
+ORG TOMATO BASIL MARINARA         5.94 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+ORG BASIL CLAMSHELL               1.49 F
+BLACK FOREST HAM 9 OZ             7.00 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+KRO SAVINGS                      0.90-  
+  2.57 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 7.45 F
+DICED TOM 14.5 OZ                 1.00 F
+2% MILK GALLON                    6.49 F
+  4 @ 2.61
+ORG SPRTD TOFU                   10.44 F
+BABY CRRTS                        2.49 F
+FM POTATO CHIPS                   5.07 F
+KRO FRZN WAFFLES                  7.05 F
+SMPL TRTH ARGL                    4.00 F
+LG BROWN CAGE FREE EGGS           4.10 F
+
+SUBTOTAL                          121.49
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             121.49
+MASTERCARD TEND                   121.49
+CHANGE                              0.00
+
+08/10/26 13:32  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,28 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+02/14/26 20:51  ITEMS 14
+
+CHANGE                              0.00
+DEBIT TEND                        103.98
+TOTAL                             103.98
+TAX 10.55% ON 28.09                 2.96
+SUBTOTAL                          101.02
+
+ORG SPRING MIX 1 LB              16.47 F
+  3 @ 5.49
+NAPKINS                          24.05 T
+ORG BABY SPNCH 5 OZ               5.85 F
+SWEET POTS                        3.28 F
+SMPL TRTH FRESH BASIL             2.74 F
+SMPL TRTH 2% MILK GALLON          6.49 F
+SMPL TRTH PSTR RAISED EGGS        7.37 F
+KRO SAVINGS                      0.73- T
+PLASTIC WRAP                      4.77 T
+SMPL TRTH CHRRS                   5.69 F
+RICOTTA                           8.76 F
+RCTT                              8.76 F
+LARGE EGGS 18 CT                  7.52 F
+
+         Seattle WA  Store 1471
+          Quality Food Centers
+                  QFC

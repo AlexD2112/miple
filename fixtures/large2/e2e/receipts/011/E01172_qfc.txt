@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1821
+
+  2 @ 1.49
+JASMINE RICE 5 LB                 2.98 F
+PRIV SEL FROZEN WAFFLES           7.05 F
+SMPL TRTH RASPB                   7.24 F
+DIGITAL CPN                      2.17-  
+TILAPIA FLLTS                    21.66 F
+MFR CPN                          2.99-  
+KRO GRND PORK                     6.60 F
+FRESH MINT                        2.74 F
+
+SUBTOTAL                           43.11
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              43.11
+CASH TEND                          60.00
+CHANGE                             16.89
+
+01/27/26 21:17  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

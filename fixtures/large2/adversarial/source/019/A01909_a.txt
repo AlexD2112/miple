@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0161  Portland OR
+            MEMBER ************
+
+92950 BNLS RIBEYE STEAK              22.72 E
+     1.46 lb @ 15.56 /lb
+495560 FRZN DUMPLINGS                15.61 E
+8857587 TPD/FRZN DUMPLIN             2.51-  
+1492582 KS KEFIR                      1.27 E
+928284 WHITE SNDWCH BRD               7.03 E
+647547 LCRX LIME SPRKLG WTR 8 PK      4.40 E
+     2 @ 2.20
+  16 @ 0.10
+OR BTL DEP                            1.60  
+1762001 KS JASMINE RICE              12.13 E
+1232524 KS PAPER PLATES               3.31 E
+177617 KS KIWI                        4.99 E
+     2.40 lb @ 2.08 /lb
+9378426 TPD/KIWI                     1.50-  
+1312986 KS BRTLTT PEARS               6.00 E
+     2 @ 3.00
+343046 RANCH DRESSING                 3.99 E
+401508 LAUNDRY DETERGENT PODS        20.18 E
+795154 HEINZ KTCHP 32 OZ              4.48 E
+104377 KS HALIBUT                    10.82 E
+1675407 CAULIFLOWER GNOCCHI           7.85 E
+606027 KS SWISS CHS                   8.79 E
+     0.95 lb @ 9.25 /lb
+1007296 ROMA TOM                      2.38 E
+632103 GRK YGRT PLAIN                 4.11 E
+
+SUBTOTAL                              133.54
+TAX                                     0.00
+**** TOTAL                            133.54
+DEBIT TEND                            133.54
+CHANGE                                  0.00
+
+06/26/26 17:20  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

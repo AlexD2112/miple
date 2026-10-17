@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2041  Seattle WA
+            MEMBER ************
+
+1119671 KS BLUBRY                    11.74 E
+     2 @ 5.87
+676263 ORG EGGS 24 CT                 7.83 E
+1241407 HEINZ KETCHUP 32 OZ          17.92 E
+     4 @ 4.48
+282262 KS ROOT BEER 2L                5.24 A
+0085119 TPD/ROOT BEER 2L             1.46- A
+1195568 KS ROLLED OATS                3.98 E
+4382988 TPD/ROLLED OATS              1.19-  
+
+SUBTOTAL                               44.06
+TAX 10.55% ON 3.78                      0.40
+**** TOTAL                             44.46
+VISA TEND                              44.46
+CHANGE                                  0.00
+
+06/27/26 09:01  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

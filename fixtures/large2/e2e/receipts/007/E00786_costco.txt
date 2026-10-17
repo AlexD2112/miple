@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0048  Seattle WA
+            MEMBER ************
+
+398384 WHL WHT SANDWICH BRD           2.54 E
+126481 ORG SPROUTED TOFU              2.61 E
+1962133 ITALIAN SAUSAGE BULK          9.93 E
+4706293 TPD/ITALIAN SAUS             1.14-  
+1058424 KS NAVEL ORANGES              1.01 E
+1192628 KS SWISS CHS                  7.86 E
+     0.85 lb @ 9.25 /lb
+8804831 TPD/SWISS CHS                0.51-  
+721680 KS GREEN ONIN BUNCH            2.59 E
+400844 KS DOG TREATS                  6.82 A
+
+SUBTOTAL                               31.71
+TAX 10.55% ON 6.82                      0.72
+**** TOTAL                             32.43
+AMEX TEND                              32.43
+CHANGE                                  0.00
+
+02/14/26 07:37  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

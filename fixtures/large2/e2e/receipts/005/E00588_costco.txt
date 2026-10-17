@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3922  Seattle WA
+            MEMBER ************
+
+1102775 KS SPRKLG WTR 8PK             5.13 E
+7650050 TPD/SPRKLG WTR 8             1.54-  
+905747 DAVES KILLER BRD               6.69 E
+1277947 JENNIE-O GRND TRKY 1 LB       6.60 E
+827986 CHKN GYOZA PTSTCKRS            9.88 E
+
+SUBTOTAL                               26.76
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             26.76
+VISA TEND                              26.76
+CHANGE                                  0.00
+
+05/05/26 08:41  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,33 @@
+               FRED MEYER
+              Portland OR
+               Store 0373
+
+FRZN WAFFLES                      7.05 F
+LG EGGS 12 CT                     8.69 F
+FM ATLNTC SLMN FLLT              19.77 F
+RED GRAPES                        3.04 F
+  2 @ 2.79
+FM CORN TORTILLAS                 5.58 F
+KRO FRZN PIZZA                   13.30 F
+DICED TOMATOES 14.5 OZ            1.00 F
+RUSSET POTS 5 LB BAG              4.53 F
+CAT LITTER                       14.03 F
+SMPL TRTH SWISS CHARD             2.87 F
+  3 @ 2.02
+CILANTRO BUNCH                    6.06 F
+CRM CHS 8 OZ                      3.15 F
+  3 @ 2.72
+SMPL TRTH MANDARINS               8.16 F
+ORG RASPB 6 OZ                    6.28 F
+KRO CREAM CHEESE                  8.63 F
+BAG FEE                           0.05  
+
+SUBTOTAL                          112.19
+TAX                                 0.00
+TOTAL                             112.19
+MASTERCARD TEND                   112.19
+CHANGE                              0.00
+
+06/28/26 08:13  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

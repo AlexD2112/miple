@@ -1,0 +1,33 @@
+               FRED MEYER
+              Portland OR
+               Store 3772
+
+SMPL TRTH PRMGN REGGIANO          7.82 F
+FLOUR TORT 10 CT                  2.35 F
+SMPL TRTH CHERRIES                5.69 F
+DIGITAL CPN                      1.71-  
+  2 @ 4.32
+SMPL TRTH CELERY                  8.64 F
+ORANGE JUICE                      7.69 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+SMPL TRTH MAYONNAISE              6.36 F
+GROUND TURKEY                     5.19 F
+CARROTS 2 LB                      1.74 F
+MFR CPN                          0.52-  
+CHKN BROTH CARTON                 8.38 F
+KRO COLA 12PK                     1.83 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           54.86
+TAX                                 0.00
+TOTAL                              54.86
+AMEX TEND                          54.86
+CHANGE                              0.00
+
+07/26/26 11:21  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

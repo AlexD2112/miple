@@ -1,0 +1,42 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0163  Seattle WA
+            MEMBER ************
+
+358915 FOSTER FARMS BNLS SKNLS CHKN  11.84 E
+     1.55 lb @ 7.64 /lb
+1150746 KS ATLANTIC SLMN FLLT        19.77 E
+1645578 KS OAT MLK                    3.10 E
+1414286 LAMB CHOPS                   29.36 E
+     1.72 lb @ 17.07 /lb
+1340603 KS CHUCK ROAST               24.32 E
+     1.77 lb @ 13.74 /lb
+217574 SHRP CHDR BLOCK               10.33 E
+1892632 KS PREPARED MAC AND CHEESE   10.62 E
+851294 KS ROLLED OATS                 3.98 E
+1304128 KS GENOA SALAMI               4.76 E
+858411 KS GRND PORK                   6.60 E
+1649425 KS RANCH DRESSING            15.96 E
+     4 @ 3.99
+1142374 ORG SPRING MIX 1 LB           5.49 E
+388685 FRZN PIZZA                    13.30 E
+770632 FRZN DMPLNGS                  15.61 E
+8820510 TPD/FRZN DMPLNGS             2.36-  
+884055 KS TILLAMOOK MEDIUM CHEDDAR   11.77 E
+1604963 ORG BLACK BEANS 8 CANS        1.15 E
+53144 UNSLTD BTR 4 X 1 LB             9.48 E
+1712238 CHKN BROTH 32 OZ              2.81 E
+8773557 TPD/CHKN BROTH 3             0.84-  
+1947021 KS RIBEYE STEAK              19.87 E
+1453418 KS DIJON MUSTARD              2.46 E
+4879407 TPD/DIJON MUSTAR             0.74-  
+
+SUBTOTAL                              218.64
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            218.64
+MASTERCARD TEND                       218.64
+CHANGE                                  0.00
+
+05/07/26 10:31  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

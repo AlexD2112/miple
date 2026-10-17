@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 0437
+
+HMBRGR BUNS                       2.77  
+SHRDDD CHDR 8 OZ                  6.42  
+SMPL TRTH JASMINE RICE           12.13  
+KRO ALMOND MILK                   5.08  
+MFR CPN                          0.60-  
+  2.35 lb @ 2.08 /lb
+KIWI                              4.89  
+  2.75 lb @ 2.30 /lb
+GALA APPLES                       6.33  
+OAT MLK                           3.10  
+LACROIX LIME SPARKLING WATER 8 P  2.20  
+BAG FEE                           0.08 B
+
+SUBTOTAL                           42.40
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              42.41
+CASH TEND                          60.00
+CHANGE                             17.59
+
+06/20/26 14:18  ITEMS 8
+B=TAXABLE
+               THANK YOU

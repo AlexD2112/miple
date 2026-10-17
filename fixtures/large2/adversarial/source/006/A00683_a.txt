@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 3217
+
+STRWB                             4.35 F
+  0.33 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  1.16 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+FLOUR TORT                        6.18 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           21.25
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              21.26
+DEBIT TEND                         21.26
+CHANGE                              0.00
+
+05/27/26 17:20  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

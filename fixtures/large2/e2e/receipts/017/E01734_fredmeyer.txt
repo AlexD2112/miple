@@ -1,0 +1,43 @@
+               FRED MEYER
+              Portland OR
+               Store 3529
+
+SMPL TRTH ICBRG LTTC              5.11 F
+SMPL TRTH GRND TRKY               5.19 F
+MFR CPN                          1.56-  
+KRO SHAMPOO                      17.57 F
+SPRING MIX                        5.44 F
+MFR CPN                          1.63-  
+BANANA                            2.37 F
+ORG CARROTS BUNCH                 4.63 F
+BTTLD WTR 40 PK                   2.45 F
+  40 @ 0.10
+OR BTL DEP                        4.00  
+PAPER PLATES                      3.31 F
+  1.45 lb @ 9.25 /lb
+SWISS CHS                        13.41 F
+ICE CRM                          14.51 F
+RUSSET POTS 5 LB BAG              4.53 F
+KERRYGOLD BUTTER                 10.81 F
+FM GRND COFFEE                    9.64 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  2.62 lb @ 9.93 /lb
+BONELESS PORK LOIN CHOPS         26.02 F
+CHKN GYOZA POTSTICKERS            9.88 F
+GREETING CARD                    20.34 F
+KRO SAVINGS                      2.37-  
+  5.69 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 24.69 F
+  2.36 lb @ 6.33 /lb
+SMPL TRTH WHL CHKN               14.94 F
+
+SUBTOTAL                          193.38
+TAX                                 0.00
+TOTAL                             193.38
+VISA TEND                         193.38
+CHANGE                              0.00
+
+06/16/26 09:30  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,19 @@
+               FRED MEYER
+              Portland OR
+               Store 0369
+
+  2 @ 2.93
+SMPL TRTH ITALIAN PARSLEY         5.86 F
+  0.31 lb @ 1.79 /lb
+SMPL TRTH BEETS                   0.55 F
+DGRN RISING CRUST PEPPERONI PIZZ  5.73 F
+
+SUBTOTAL                           12.14
+TAX                                 0.00
+TOTAL                              12.14
+CASH TEND                          20.00
+CHANGE                              7.86
+
+12/31/26 20:45  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

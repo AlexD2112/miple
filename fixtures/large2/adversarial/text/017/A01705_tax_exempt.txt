@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 3470
+TAX EXEMPT ID ******2323
+
+FM BOTTLED WATER 24PK             9.32 F
+  1.42 lb @ 1.48 /lb
+RED ONIN                          2.10 F
+MFR CPN                          0.63-  
+  1.16 lb @ 14.17 /lb
+SMPL TRTH BLACK FOREST HAM       16.44 F
+MFR CPN                          2.37-  
+ORG BLACK BEANS 8 CANS            1.15 F
+MFR CPN                          0.35-  
+SMPL TRTH 2% MILK GALLON          6.49 F
+KRO SAVINGS                      1.95-  
+KALE                              4.17 F
+  3.62 lb @ 6.69 /lb
+BNLS SKNLS CHKN BRST             24.22 F
+KRO TRASH BAGS 40CT               6.49 T
+FM PLUS CARD SAV                 1.04- T
+JENNIE-O GRND TRKY 1 LB           6.60 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+MAYONNAISE 30 OZ                  6.42 F
+ATLANTIC SALMON FILLET           19.77 F
+  1.38 lb @ 1.13 /lb
+RUSSET POTS                       1.56 F
+DIGITAL CPN                      0.47-  
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          106.58
+TAX EXEMPT                          0.00
+TOTAL                             106.58
+MASTERCARD TEND                   106.58
+CHANGE                              0.00
+
+08/09/26 07:20  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

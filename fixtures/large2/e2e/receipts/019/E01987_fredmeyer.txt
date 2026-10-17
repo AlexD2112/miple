@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 1427
+
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+TILLAMOOK MEDIUM CHEDDAR         11.77 F
+CREAM CHEESE                      8.63 F
+KRO GREETING CARD                20.34 T
+KRO GRND BF 80/20                 6.57 F
+KRO SHRP CHDR BLOCK              10.33 F
+SMPL TRTH AVCDS                   4.05 F
+JASMINE RICE 25 LB                8.09 F
+FM JSMN RICE                     12.13 F
+  2 @ 2.87
+SWISS CHARD                       5.74 F
+KRO PAPER PLATES                  3.31 T
+  3 @ 2.06
+SMPL TRTH FRZN MIXED BRRS         6.18 F
+PLASTIC WRAP                      4.77 T
+  4 @ 2.37
+BANANA                            9.48 F
+ORG CARROTS BUNCH                 4.63 F
+KRO HAMBURGER BUNS                2.77 F
+  3 @ 2.32
+KRO EXTRA FIRM TOFU               6.96 F
+FM GENOA SALAMI                   4.76 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          157.41
+TAX 10.55% ON 28.50                 3.01
+TOTAL                             160.42
+DEBIT TEND                        160.42
+CHANGE                              0.00
+
+08/05/26 13:34  ITEMS 27
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

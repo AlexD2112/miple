@@ -1,0 +1,26 @@
+                 TARGET
+           Seattle WA  T-0676
+             (555) 030-2775
+
+GG TUNA CAN                       1.08 N
+LEMONADE 52OZ                     5.79 T
+UNSLTD BTR                        9.95 N
+MKT PANTRY ICE CRM               14.51 N
+CIRCLE DEAL                      1.98-  
+RIBEYE STEAK                     19.87 N
+GG SLTD BTR                       5.73 N
+DISH SOAP                        19.39 T
+  2 @ 2.72
+MKT PANTRY MANDARINS              5.44 N
+SLTD BTR 4 STICKS                 9.37 N
+
+SUBTOTAL                           89.15
+TAX 10.55% ON 25.18                 2.66
+TOTAL                              91.81
+MASTERCARD TEND                    91.81
+CHANGE                              0.00
+
+01-01-27 00:02:26
+ITEMS 5   REG 11  TRANS 5427
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

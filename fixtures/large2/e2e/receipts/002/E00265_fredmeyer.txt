@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 3147
+
+  2 @ 4.35
+SMPL TRTH STRWB                   8.70 F
+MAYONNAISE 30 OZ                  6.42 F
+
+SUBTOTAL                           15.12
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              15.12
+VISA TEND                          15.12
+CHANGE                              0.00
+
+03/01/26 13:40  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 0477  Seattle WA
+             (555) 010-3457
+
+  REFUND - ORIG RECEIPT
+RETURN PLAIN GOAT CHS            5.77- S
+RETURN RADISHES                  3.80- S
+
+SUBTOTAL                           9.57-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         9.57-
+AMEX TEND                          9.57-
+CHANGE                              0.00
+
+02/07/26 08:13  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

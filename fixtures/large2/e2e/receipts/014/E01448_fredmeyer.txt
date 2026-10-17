@@ -1,0 +1,34 @@
+               FRED MEYER
+              Portland OR
+               Store 0080
+
+FRZN BROC                         1.72 F
+FM PLUS CARD SAV                 0.45-  
+  1.60 lb @ 6.69 /lb
+BNLS SKNLS CHKN BRST             10.70 F
+  2 @ 1.49
+ORGANIC BASIL CLAMSHELL           2.98 F
+MFR CPN                          0.89-  
+SMPL TRTH AVOCADOS                4.05 F
+DISH SOAP                        19.39 F
+  3.43 lb @ 0.76 /lb
+SMPL TRTH MANGO                   2.61 F
+SMPL TRTH FRESH DILL              0.90 F
+FRESH BASIL                       2.74 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+  0.49 lb @ 1.05 /lb
+SMPL TRTH RADISHES                0.51 F
+CILANTRO BUNCH                    2.02 F
+KRO AA BATTERIES 8PK             24.36 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           77.80
+TAX                                 0.00
+TOTAL                              77.80
+AMEX TEND                          77.80
+CHANGE                              0.00
+
+06/01/26 07:20  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,46 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2992  Seattle WA
+            MEMBER ************
+
+178592 KS GRND BF 80/20               6.57 E
+102488 2% MLK HALF GALLON             6.08 E
+845034 KS POTATO CHIPS                5.07 E
+1481944 COCA-COLA 12 PK CANS          5.54 A
+     2 @ 2.77
+8694118 TPD/COCA-COLA 12             1.66- A
+529127 KS FLWRS BQT                  23.70 A
+234070 KS GRNLA BRS                   6.07 E
+1982229 KS TILAPIA FLLTS             21.66 E
+1425609 KS ATLANTIC SLMN FLLT        19.77 E
+8649410 TPD/ATLANTIC SLM             2.45-  
+77983 LEMON                          12.90 E
+     3 @ 4.30
+227486 CAULIFLOWER                    5.64 E
+     1.50 lb @ 3.76 /lb
+940199 BTR LTTC                       2.45 E
+1041495 HUY FONG SRRCH                2.55 E
+131376 KS FRZN DUMPLINGS             15.61 E
+1335526 CHOBANI PLAIN GREEK YOGURT 3  1.47 E
+1705872 KS NAPKINS                   24.05 A
+3536917 TPD/NAPKINS                  2.67- A
+291939 ROLLED OATS                    3.98 E
+443693 DELI FRIED CHKN               11.75 A
+9884665 TPD/DELI FRIED C             0.68- A
+1445116 KS BRSSLS SPRTS               9.23 E
+     3.96 lb @ 2.33 /lb
+3698346 TPD/BRSSLS SPRTS             2.17-  
+1416915 KS BNLS SKNLS CHKN BRST      35.32 E
+     5.28 lb @ 6.69 /lb
+1236529 KS ROOT BEER 2L              10.48 A
+     2 @ 5.24
+
+SUBTOTAL                              220.26
+TAX 10.55% ON 70.51                     7.44
+**** TOTAL                            227.70
+DEBIT TEND                            227.70
+CHANGE                                  0.00
+
+01/15/26 17:06  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

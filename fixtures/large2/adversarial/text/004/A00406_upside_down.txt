@@ -1,0 +1,28 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+08/03/26 20:04  ITEMS 12
+
+CHANGE                             10.86
+CASH TEND                          80.00
+TOTAL                              69.14
+TAX 10.55% ON 30.47                 3.21
+SUBTOTAL                           65.93
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+KRO LG BROWN EGGS                 4.29 F
+SMPL TRTH CRL                     6.63 F
+MFR CPN                          1.07-  
+PLAIN GOAT CHEESE                 5.77 F
+FLOUR TORT 10 CT                  7.05 F
+  3 @ 2.35
+KRO TRASH BAGS 40CT               6.49 T
+ALMNM FOIL                       18.03 T
+LEMONADE 52OZ                     5.79 T
+MYNNS 30 OZ                       6.42 F
+ORGANIC BLACK BEANS 8 CANS        1.15 F
+MSSN FLOUR TORT 40 CT             5.22 F
+
+         Seattle WA  Store 3782
+          Quality Food Centers
+                  QFC

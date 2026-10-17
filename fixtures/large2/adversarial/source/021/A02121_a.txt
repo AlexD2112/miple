@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0539  Seattle WA
+            MEMBER ************
+
+1971462 AA BATTERIES 8PK             24.36 A
+3477687 TPD/AA BATTERIES             1.39- A
+1949824 KS PAPER PLATES               3.31 A
+935318 KS LAUNDRY DETERGENT PODS     20.18 A
+1380186 NPKNS                        24.05 A
+185539 PLSTC WRAP                     4.77 A
+352340 KS SHAMPOO                    17.57 A
+6129609 TPD/SHAMPOO                  1.32- A
+305898 DISH SOAP                     19.39 A
+1336416 ALMNM FOIL                   18.03 A
+324563 KS DISH SOAP                  19.39 A
+
+SUBTOTAL                              148.34
+TAX 10.55% ON 148.34                   15.65
+**** TOTAL                            163.99
+DISCOVER TEND                         163.99
+CHANGE                                  0.00
+
+08/23/26 10:43  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

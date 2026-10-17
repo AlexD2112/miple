@@ -1,0 +1,19 @@
+                 TARGET
+           Seattle WA  T-0806
+             (555) 030-6133
+
+  4 @ 2.46
+GG DIJON MUSTARD                  9.84 N
+MKT PANTRY GREEN BEANS            2.31 N
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           12.31
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              12.33
+DEBIT TEND                         12.33
+CHANGE                              0.00
+
+07/20/26 17:49  ITEMS 5
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

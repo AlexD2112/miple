@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0831  Portland OR
+            MEMBER ************
+
+1104312 TSTTS SCOOPS TRTLL CHIPS      3.46 E
+1998149 KS HONEYCRISP APPLES          4.67 E
+1786275 KS SRRCH                      3.16 E
+602089 ROLLED OATS                    3.98 E
+72815 KS ASPARAGUS                    2.93 E
+7099262 TPD/ASPARAGUS                0.88-  
+3707 KS ASPARAGUS                     2.93 E
+1609783 OLD FSHND ROLLED OATS 42 OZ  17.43 E
+675578 KS BANANAS                     6.18 E
+     2.13 lb @ 2.90 /lb
+1967663 ORGANIC GALA APPLES           3.14 E
+     2 @ 1.57
+9177781 TPD/ORGANIC GALA             0.94-  
+271511 BNLS RIBEYE STEAK             14.47 E
+     0.93 lb @ 15.56 /lb
+1114806 STRAUS PLAIN GRK YGRT         3.48 E
+     2 @ 1.74
+7132801 TPD/STRAUS PLAIN             0.40-  
+158587 KS ITALIAN PARSLEY             5.86 E
+     2 @ 2.93
+908774 DIET COLA 12PK CANS            8.84 E
+     2 @ 4.42
+  24 @ 0.10
+OR BTL DEP                            2.40  
+1130113 KS CRL                        6.63 E
+1178645 KS RDSHS                      3.40 E
+     3.24 lb @ 1.05 /lb
+1023709 KS CELERY                     4.32 E
+1253347 LG EGGS 18 CT                 7.52 E
+923031 BLACK BEANS 15 OZ CAN         10.76 E
+
+SUBTOTAL                              113.34
+TAX                                     0.00
+**** TOTAL                            113.34
+MASTERCARD TEND                       113.34
+CHANGE                                  0.00
+
+04/16/26 20:24  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

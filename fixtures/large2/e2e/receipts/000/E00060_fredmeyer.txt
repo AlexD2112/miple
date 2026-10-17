@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 0034
+
+  2 @ 2.45
+BTR LTTC                          4.90 F
+SLCD ROAST BF                     5.94 F
+SMPL TRTH HALIBUT                10.82 F
+SMPL TRTH YELLOW ONIONS           1.78 F
+FM PLUS CARD SAV                 0.33-  
+CABOT SHRP CHDR 8 OZ              8.48 F
+
+SUBTOTAL                           31.59
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              31.59
+AMEX TEND                          31.59
+CHANGE                              0.00
+
+09/12/26 19:05  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

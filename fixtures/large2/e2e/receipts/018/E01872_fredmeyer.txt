@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 0324
+
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+  4 @ 3.77
+BAGELS                           15.08 F
+KRO GROUND PORK                   6.60 F
+  REFUND - ORIG RECEIPT
+RETURN OLD FASHIONED ROLLED OA  17.43- F
+
+SUBTOTAL                           21.68
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              21.68
+DEBIT TEND                         21.68
+CHANGE                              0.00
+
+07/27/26 07:21  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

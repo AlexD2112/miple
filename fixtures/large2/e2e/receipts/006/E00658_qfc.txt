@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2686
+
+PRIV SEL PRPRD MAC & CHS         10.62 F
+  3.94 lb @ 2.43 /lb
+PRSNPS                            9.57 F
+  0.44 lb @ 14.17 /lb
+BLACK FOREST HAM                  6.23 F
+KRO HAND SOAP                    24.27 T
+CRM CHS 8 OZ                      3.15 F
+BABY SPNCH 5 OZ                   3.77 F
+MFR CPN                          1.13-  
+PAPER TOWELS 6 ROLL               3.75 T
+
+SUBTOTAL                           60.23
+TAX 10.55% ON 28.02                 2.96
+TOTAL                              63.19
+DEBIT TEND                         63.19
+CHANGE                              0.00
+
+05/12/26 07:11  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

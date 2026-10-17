@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3817
+
+SMPL TRTH PNT BTR                 6.90 S
+SMPL TRTH JASMINE RICE           12.13 S
+SMPL TRTH GOAT CHS                8.35 S
+  3 @ 4.58
+KRO KMBCH 16OZ                   13.74 S
+MFR CPN                          1.66-  
+KRO SILKEN TOFU                   2.29 S
+BAG FEE                           0.08 T
+
+SUBTOTAL                           41.83
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              41.84
+MASTERCARD TEND                    41.84
+CHANGE                              0.00
+
+07/01/26 16:16  ITEMS 7
+T=TAX  S=SNAP
+               THANK YOU

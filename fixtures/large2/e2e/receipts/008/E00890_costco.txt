@@ -1,0 +1,44 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0550  Seattle WA
+            MEMBER ************
+
+1917344 KS GRNLA BRS                  6.07 E
+1809853 NAPKINS                      24.05 A
+4176451 TPD/NAPKINS                  1.61- A
+297273 KS EXTRA FIRM TOFU             2.32 E
+997382 KS CARROTS                     1.79 E
+1512699 KS CHERRIES                   5.69 E
+1675085 KS RDSHS                      2.75 E
+     2.62 lb @ 1.05 /lb
+138634 GRND BF 88/12                 17.46 E
+     2.91 lb @ 6.00 /lb
+414962 TILAPIA FILLETS               21.66 E
+643503 KS PNPPL                       4.25 E
+     3.40 lb @ 1.25 /lb
+676946 CCNT MLK CAN                   3.83 E
+8640 BOTTLED WATER 24PK               9.32 E
+1578001 SPONGES 3PK                   9.54 A
+1291051 KS SWISS CHS                  8.88 E
+     0.96 lb @ 9.25 /lb
+708364 FRZN BROC FLRTS                8.13 E
+969429 GRND CHKN                      5.92 E
+     1.17 lb @ 5.06 /lb
+9044063 TPD/GRND CHKN                1.59-  
+1251431 RED ONIN                      4.07 E
+     2.75 lb @ 1.48 /lb
+1137229 KS PLASTIC WRAP               4.77 A
+6601388 TPD/PLASTIC WRAP             1.43- A
+968943 KS DIJON MUSTARD               2.46 E
+1463906 KS PAPER TOWELS 6 ROLL        3.75 A
+5885641 TPD/PAPER TOWELS             1.13- A
+
+SUBTOTAL                              140.95
+TAX 10.55% ON 37.94                     4.00
+**** TOTAL                            144.95
+VISA TEND                             144.95
+CHANGE                                  0.00
+
+06/23/26 15:13  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2533  Seattle WA
+            MEMBER ************
+
+1092558 BNLS RIBEYE STEAK            48.24 E
+     3.10 lb @ 15.56 /lb
+177563 KS BTR LTTC                    2.45 E
+
+SUBTOTAL                               50.69
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             50.69
+VISA TEND                              50.69
+CHANGE                                  0.00
+
+02/26/26 09:50  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

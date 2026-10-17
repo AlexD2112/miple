@@ -1,0 +1,20 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+03/23/26 15:09  ITEMS 4
+
+CHANGE                              0.00
+DISCOVER TEND                      21.71
+TOTAL                              21.71
+TAX 10.55% ON 0.16                  0.02
+SUBTOTAL                           21.69
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+365 FRESH DILL                    0.90 F
+365 COLD BREW COFFEE 32OZ         8.86 F
+  2 @ 4.43
+TILLAMOOK MEDIUM CHDR            11.77 F
+
+             (555) 020-4277
+               Seattle WA
+           WHOLE FOODS MARKET

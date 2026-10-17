@@ -1,0 +1,42 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1011  Seattle WA
+            MEMBER ************
+
+696384 KS BATH TISSUE 12 ROLL        23.08 A
+8070978 TPD/BATH TISSUE              2.63- A
+1546732 KS MANGO                      1.48 E
+     1.95 lb @ 0.76 /lb
+1306467 KS COCONUT MILK CAN           3.83 E
+1820597 KS SLCD ROAST BF              5.94 E
+996518 KS ZUCCHINI                    1.82 E
+     0.49 lb @ 3.72 /lb
+8140989 TPD/ZUCCHINI                 0.55-  
+1835621 ALMNM FOIL                   18.03 A
+943222 GRND BF 80/20                  6.57 E
+1503442 KS CRRTS                      1.79 E
+1643209 RED BELL PEPPER              10.57 E
+     3.09 lb @ 3.42 /lb
+938399 EVERYTHING BUT THE BAGEL SEAS  7.01 E
+1422638 BARILLA PENNE                19.37 E
+1807673 TPD/BARILLA PENN             0.91-  
+1544671 ALL PURPOSE FLOUR            11.36 E
+1721497 TLLMK VAN YGRT                4.05 E
+1391881 LEMON                        12.90 E
+     3 @ 4.30
+1439501 KS FRZN PEAS                 13.98 E
+116453 KS WHL MLK HALF GALLON         6.79 E
+1570496 TPD/WHL MLK HALF             0.54-  
+158886 ROMAINE LTTC                   2.79 E
+2338346 TPD/ROMAINE LTTC             0.84-  
+1491196 BARILLA PENNE                19.37 E
+
+SUBTOTAL                              165.26
+TAX 10.55% ON 38.48                     4.06
+**** TOTAL                            169.32
+AMEX TEND                             169.32
+CHANGE                                  0.00
+
+04/02/26 10:27  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

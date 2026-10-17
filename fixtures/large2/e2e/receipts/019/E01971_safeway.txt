@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 2759  Seattle WA
+             (555) 010-7882
+
+SIG KTCHNS ORANGE JUICE 52OZ      9.39 S
+ORG RASPB 6 OZ                    6.28 S
+O ORGANICS MANDARINS              2.72 S
+TOOTHPASTE                       16.40 T
+
+SUBTOTAL                           34.79
+TAX 10.55% ON 16.40                 1.73
+**** TOTAL                         36.52
+CASH TEND                          40.00
+CHANGE                              3.48
+
+05/23/26 21:12  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

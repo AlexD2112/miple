@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 1999
+
+TILLAMOOK MEDIUM CHEDDAR 2.5 LB   4.21 E
+LIGHT BULBS 4PK                  17.04 A
+CRM CHS 8 OZ                      3.15 E
+JNN- GRND TRKY 1 LB               6.60 E
+KRO SAVINGS                      1.87-  
+JASMINE RICE 5 LB                 1.49 E
+FM PRPRD MAC & CHS               10.62 E
+
+SUBTOTAL                           41.24
+TAX 10.55% ON 17.04                 1.80
+TOTAL                              43.04
+DISCOVER TEND                      43.04
+CHANGE                              0.00
+
+07/18/26 07:10  ITEMS 6
+A=TAXABLE  E=EXEMPT
+               THANK YOU

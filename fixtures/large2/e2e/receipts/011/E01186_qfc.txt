@@ -1,0 +1,16 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0810
+
+PRIV SEL RICOTTA                  8.76 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+
+SUBTOTAL                           10.97
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              10.97
+DISCOVER TEND                      10.97
+CHANGE                              0.00
+
+01/22/26 18:08  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

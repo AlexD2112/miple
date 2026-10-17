@@ -1,0 +1,26 @@
+           WHOLE FOODS MARKET
+            San Francisco CA
+             (555) 020-2948
+
+365 ORG GRND COFFEE               9.64 F
+  1 @ 0.05
+CA CRV                            0.05  
+PRIME MEMBER DEAL                1.09-  
+LG BROWN EGGS                     4.29 F
+ORG EGGS 24 CT                    7.83 F
+PRIME 10% OFF                    1.75-  
+COCA-COLA 12 PK CANS              2.77 T
+  1 @ 0.05
+CA CRV                            0.05 T
+ORG BLACK BEANS 8 CANS            1.15 F
+
+SUBTOTAL                           22.94
+TAX 8.625% ON 2.82                  0.24
+TOTAL                              23.18
+DISCOVER TEND                      23.18
+CHANGE                              0.00
+
+01/01/2027 12:26:24 AM
+ITEMS 10   REG 18  TRANS 2606
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

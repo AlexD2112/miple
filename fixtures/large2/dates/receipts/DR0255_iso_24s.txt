@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1034  Seattle WA
+            MEMBER ************
+
+194195 COCA-COLA 12 PK CANS           2.77 A
+88409 KS PRMGN REGGIANO               7.82 E
+1523173 TILLAMOOK ICE CRM 48 OZ       8.88 E
+1260380 KS AHI TUNA STEAK            14.71 E
+
+SUBTOTAL                               34.18
+TAX 10.55% ON 2.77                      0.29
+**** TOTAL                             34.47
+AMEX TEND                              34.47
+CHANGE                                  0.00
+
+2026-02-11 14:40:14  227 227 8621 08
+ITEMS 26   REG 16  TRANS 8592
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

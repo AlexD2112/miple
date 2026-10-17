@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 3067
+
+  2 @ 2.21
+SMPL TRTH BAGGED CAESAR SALAD KI  4.42 F
+FM PLUS CARD SAV                 0.42-  
+SMPL TRTH RED GRAPES              3.04 F
+BABY SPNCH 5 OZ                   3.77 F
+2% MLK 2 X 1 GAL                  4.70 F
+  2 @ 3.46
+TSTTS SCOOPS TRTLL CHIPS          6.92 F
+SOY SCE                           6.79 F
+LG EGGS 18 CT                     7.52 F
+ORG EGGS 24 CT                    7.83 F
+
+SUBTOTAL                           44.57
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              44.57
+DEBIT TEND                         44.57
+CHANGE                              0.00
+
+02/03/26 21:24  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

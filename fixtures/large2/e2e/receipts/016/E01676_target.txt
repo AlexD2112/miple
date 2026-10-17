@@ -1,0 +1,27 @@
+                 TARGET
+        San Francisco CA  T-2824
+             (555) 030-4365
+
+GG CRM CHS                        8.63 N
+SHMP                             17.57 T
+DIJON MUSTARD                     2.46 N
+GG BTR LTTC                       2.45 N
+  4.62 lb @ 7.09 /lb
+GG TRKY BRST                     32.76 N
+MKT PANTRY BAGELS                 3.77 N
+TARGET CIRCLE OFFER              1.13-  
+CREAM CHEESE 8 OZ                 3.15 N
+TLLMK MEDIUM CHDR 2.5 LB          4.21 N
+GOAT CHS                          8.35 N
+MKT PANTRY CTTG CHS               3.21 N
+MKT PANTRY SILKEN TOFU            2.29 N
+
+SUBTOTAL                           87.72
+TAX 8.625% ON 17.57                 1.52
+TOTAL                              89.24
+DISCOVER TEND                      89.24
+CHANGE                              0.00
+
+02/02/26 14:30  ITEMS 11
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

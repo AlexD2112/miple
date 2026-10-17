@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0890  Portland OR
+            MEMBER ************
+
+532164 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+764931 ORG LEMONS                     1.30 E
+     0.46 lb @ 2.83 /lb
+8619000 TPD/ORG LEMONS               0.39-  
+1105557 REDUCED FAT 2% MLK GALLON     6.54 E
+
+SUBTOTAL                               10.23
+TAX                                     0.00
+**** TOTAL                             10.23
+AMEX TEND                              10.23
+CHANGE                                  0.00
+
+10/09/26 21:39  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

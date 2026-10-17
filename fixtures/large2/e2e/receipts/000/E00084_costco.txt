@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0536  Seattle WA
+            MEMBER ************
+
+662079 DICED TOM 14.5 OZ              1.00 E
+298174 HONEYCRISP APPLES              4.67 E
+8679772 TPD/HONEYCRISP A             1.40-  
+843050 NAVEL ORANGES                  1.01 E
+1781023 KS FRZN PIZZA                13.30 E
+1906368 MISSION FLOUR TORT 40 CT      5.22 E
+721384 LAMB CHOPS                    20.14 E
+     1.18 lb @ 17.07 /lb
+1124040 FOSTER FARMS BNLS SKNLS CHK  32.16 E
+     4.21 lb @ 7.64 /lb
+1706975 APPLE JUICE 64OZ              7.25 E
+1011974 EVERYTHING BUT THE BAGEL SEA  7.01 E
+
+SUBTOTAL                               90.36
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             90.36
+DISCOVER TEND                          90.36
+CHANGE                                  0.00
+
+09/03/26 14:46  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

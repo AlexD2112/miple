@@ -1,0 +1,19 @@
+               THANK YOU
+T=TAXABLE  N=NONTAXABLE FOOD
+02/03/26 12:04  ITEMS 4
+
+CHANGE                              0.00
+DEBIT TEND                         25.70
+TOTAL                              25.70
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                           25.70
+
+GG KOMBUCHA 16OZ                  4.58 N
+ORG LEMONS                        7.53 N
+  2.66 lb @ 2.83 /lb
+GG DAVES KILLER BREAD             6.69 N
+PNT BTR                           6.90 N
+
+             (555) 030-9636
+           Seattle WA  T-2845
+                 TARGET

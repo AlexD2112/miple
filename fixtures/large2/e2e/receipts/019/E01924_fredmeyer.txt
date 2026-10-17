@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 0541
+
+GRK YGRT 48 OZ                    1.97 F
+KRO SOURDOUGH LOAF                7.47 F
+ORG BABY SPNCH 5 OZ               5.85 F
+  0.94 lb @ 1.96 /lb
+ORGANIC GRAPE TOMATOES PINT       1.84 F
+CARROTS                           1.79 F
+SMPL TRTH CRMN MSHRM              1.14 F
+SMPL TRTH SOY SCE                 6.79 F
+KRO CHKN BROTH CARTON             8.38 F
+  0.34 lb @ 3.76 /lb
+SMPL TRTH CAULIFLOWER             1.28 F
+SMPL TRTH BLACKBERRIES            3.92 F
+KRO 2% MLK GALLON                 6.49 F
+AA BTTRS 8PK                     24.36 T
+FM SPARKLING WATER 8PK            5.13 F
+MFR CPN                          1.54-  
+  3 @ 2.29
+SILKEN TOFU                       6.87 F
+KRO SAVINGS                      2.03-  
+FRZN PIZZA                       13.30 F
+MFR CPN                          0.73-  
+PARMIGIANO REGGIANO               7.82 F
+  3 @ 3.54
+AVCDS BAG 4 CT                   10.62 F
+SMPL TRTH ORANGE JUICE            7.69 F
+MFR CPN                          1.77-  
+
+SUBTOTAL                          116.64
+TAX 10.55% ON 24.36                 2.57
+TOTAL                             119.21
+AMEX TEND                         119.21
+CHANGE                              0.00
+
+06/22/26 19:30  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

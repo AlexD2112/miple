@@ -1,0 +1,33 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+04/17/26 15:06  ITEMS 16
+
+CHANGE                              0.00
+DEBIT TEND                        109.67
+TOTAL                             109.67
+TAX 10.55% ON 36.18                 3.82
+SUBTOTAL                          105.85
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+LACROIX LIME SPRKLG WTR 8 PK      6.60 F
+  3 @ 2.20
+WF KOMBUCHA 16OZ                  4.58 F
+BAGGED CAESAR SALAD KIT           2.21 F
+PEPSI 12 PK CANS                  4.93 T
+DOG TREATS                        6.82 T
+JNN- GRND TRKY 1 LB               6.60 F
+BABY SPINACH 5 OZ                 3.77 F
+WF 2% MLK GALLON                  6.49 F
+HAND SOAP                        24.27 T
+365 DRIED LENTILS                 4.26 F
+DIGIORNO RISING CRUST PEPPERONI   5.73 F
+PRIME 10% OFF                    0.90-  
+365 ORG RIBEYE STEAK             19.87 F
+AVOCADOS BAG 4 CT                 3.54 F
+PRIME 10% OFF                    1.84-  
+RICOTTA                           8.76 F
+
+             (555) 020-2280
+               Seattle WA
+           WHOLE FOODS MARKET

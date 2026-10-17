@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 3170
+
+  1.36 lb @ 1.33 /lb
+ORGANIC HONEYCRISP APPLES         1.81 F
+SOY SCE                           6.79 F
+MFR CPN                          2.04-  
+  3 @ 2.93
+ITALIAN PRSLY                     8.79 F
+KRO BLACK BEANS CAN               8.77 F
+FM SLTD BTR                       5.73 F
+
+SUBTOTAL                           29.85
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              29.85
+DISCOVER TEND                      29.85
+CHANGE                              0.00
+
+03/07/26 18:43  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,19 @@
+              TRADER JOE'S
+     Store #0557  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+  4 @ 2.93
+ASPARAGUS                        11.72  
+  3 @ 4.74
+SLICED SOURDOUGH PAN LOAF        14.22  
+
+SUBTOTAL                           25.94
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              25.94
+MASTERCARD TEND                    25.94
+CHANGE                              0.00
+
+01-01-2030 12:03AM
+ITEMS 7   REG 18  TRANS 5814
+T=TAXABLE
+               THANK YOU

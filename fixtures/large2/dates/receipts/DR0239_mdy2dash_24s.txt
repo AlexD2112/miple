@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 2798
+
+  2 @ 2.59
+GREEN ONIN BUNCH                  5.18 F
+FM MYNNS                          6.36 F
+BAGGED CAESAR SALAD KIT           2.21 F
+SMPL TRTH RASPB                   7.24 F
+FRZN PIZZA                       13.30 F
+MFR CPN                          0.45-  
+LG EGGS 18 CT                     7.52 F
+  4 @ 2.93
+SMPL TRTH ITLN PRSLY             11.72 F
+SMPL TRTH YELLOW ONIN             1.78 F
+DIGITAL CPN                      0.53-  
+KRO CRL                           6.63 F
+
+SUBTOTAL                           60.96
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              60.96
+VISA TEND                          60.96
+CHANGE                              0.00
+
+05-03-30 12:01:23  9155 35 490 3
+ITEMS 4   REG 11  TRANS 1793
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

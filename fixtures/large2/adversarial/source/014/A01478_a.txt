@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 3373
+SURVEY CODE: 5510-7867-3685
+
+KRO PAPER TOWELS 6 ROLL           3.75 T
+FRZN PEAS 12 OZ                   5.40 F
+  2 @ 2.79
+SMPL TRTH ROMAINE LTTC            5.58 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+SMPL TRTH SALTED BUTTER           5.73 F
+ORG ROMAINE HEARTS 3 CT           3.76 F
+WHITE SANDWICH BRD                7.03 F
+KRO GRK YGRT PLAIN                4.11 F
+
+SUBTOTAL                           43.84
+TAX 10.55% ON 3.75                  0.40
+TOTAL                              44.24
+DEBIT TEND                         44.24
+CHANGE                              0.00
+
+04/08/26 10:11  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+BALANCE DUE                   0.00
+NEXT VISIT COUPON          3.00 OFF
+               THANK YOU

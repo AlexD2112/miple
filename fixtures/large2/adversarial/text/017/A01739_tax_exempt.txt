@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 3516
+TAX EXEMPT ID ******5016
+
+STRWB                             4.35 F
+SMPL TRTH COLA 12PK CANS          1.51 T
+SHRDDD CHDR 8 OZ                  6.42 F
+MFR CPN                          1.66-  
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+PNT BTR                           6.90 F
+  2.70 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             6.21 F
+  2 @ 5.42
+SMPL TRTH BABY SPNCH             10.84 F
+  2.77 lb @ 1.13 /lb
+RUSSET POTS                       3.13 F
+KRO LAUNDRY DETERGENT PODS       20.18 T
+DRIED LENTILS                     4.26 F
+KRO FLOUR TORT                    6.18 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           78.88
+TAX EXEMPT                          0.00
+TOTAL                              78.88
+MASTERCARD TEND                    78.88
+CHANGE                              0.00
+
+06/21/26 10:08  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

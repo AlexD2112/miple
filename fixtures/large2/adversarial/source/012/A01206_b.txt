@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 1529
+
+  3 @ 5.42
+BABY SPNCH                       16.26 F
+SMPL TRTH CHKN BROTH CARTON       8.38 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+SMPL TRTH CHERRIES                5.69 F
+DOUBLE CREME BRIE                 5.40 F
+KRO CORN TORT                     2.79 F
+LEMONS                            4.19 F
+  1.23 lb @ 13.74 /lb
+KRO CHUCK ROAST                  16.90 F
+MFR CPN                          2.41-  
+FM SLICED ROAST BEEF              5.94 F
+FRZN PEAS 12 OZ                   5.40 F
+
+SUBTOTAL                           71.10
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              71.10
+AMEX TEND                          71.10
+CHANGE                              0.00
+
+09/26/26 10:22  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

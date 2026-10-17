@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0639
+
+  3.81 lb @ 17.07 /lb
+SMPL TRTH LAMB CHOPS             65.04 F
+  1.27 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                2.03 F
+DIGITAL CPN                      0.61-  
+RUSSET POTATOES 5 LB BAG          4.53 F
+EVERYTHING BUT THE BAGEL SSNNG    7.01 F
+  2.13 lb @ 9.65 /lb
+PORK TNDRLN                      20.55 F
+  0.74 lb @ 1.25 /lb
+PINEAPPLE                         0.93 F
+PLAIN GOAT CHS                    5.77 F
+
+SUBTOTAL                          105.25
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             105.25
+CASH TEND                         120.00
+CHANGE                             14.75
+
+04/26/26 11:33  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

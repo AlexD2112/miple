@@ -1,0 +1,30 @@
+                SAFEWAY
+         Store 0105  Seattle WA
+             (555) 010-7612
+
+PAPER TOWELS 6 ROLL               3.75 T
+HAND SOAP                        24.27 T
+PAPER PLATES                      3.31 T
+FLOWERS BOUQUET                  23.70 T
+SIG TTHPST                       16.40 T
+SIG SHMP                         17.57 T
+DISH SOAP                        19.39 T
+SIG DISH SOAP                    19.39 T
+SIG PAPER TOWELS 6 ROLL           3.75 T
+PLASTIC WRAP                      4.77 T
+J4U DIGITAL CPN                  1.43- T
+TTHPST                           16.40 T
+SIG TOOTHPASTE                   16.40 T
+SIG PAPER PLATES                  3.31 T
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          171.22
+TAX 10.55% ON 171.22               18.06
+**** TOTAL                        189.28
+AMEX TEND                         189.28
+CHANGE                              0.00
+
+01/11/26 18:28  ITEMS 13
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 1670
+
+LARGE EGGS 12 CT                  8.69 F
+SMPL TRTH SPRING MIX              5.44 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+  2.54 lb @ 1.79 /lb
+SMPL TRTH BEETS                   4.55 F
+ORG TOMATO BASIL MARINARA         5.94 F
+KRO SAVINGS                      0.39-  
+GREEN BEANS                       2.31 F
+KRO SHARP CHEDDAR BLOCK          10.33 F
+  2 @ 2.02
+CLNTR BUNCH                       4.04 F
+ORG EGGS 24 CT                    7.83 F
+  2 @ 4.74
+SLCD SRDGH PAN LOAF               9.48 F
+SPONGES 3PK                       9.54 T
+
+SUBTOTAL                           76.64
+TAX 10.55% ON 9.54                  1.01
+TOTAL                              77.65
+MASTERCARD TEND                    77.65
+CHANGE                              0.00
+
+10/06/26 10:18  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

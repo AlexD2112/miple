@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1249  San Francisco CA
+            MEMBER ************
+
+794201 TOSTITOS SCOOPS TORTILLA CHIP  3.46 E
+1142791 ITLN SAUSAGE BULK             9.93 E
+617537 HASS AVOCADO LG                0.87 E
+     0.26 lb @ 3.34 /lb
+1081926 TOSTITOS SCOOPS TRTLL CHIPS   3.46 E
+880447 KS BATH TISSUE 12 ROLL        23.08 A
+846562 KS GREEN BEANS                 2.31 E
+1139168 KS YUKON GOLD POTS            3.99 E
+829715 GRNLA BRS                      6.07 E
+898221 TILLAMOOK VANILLA YOGURT       4.05 E
+722298 SPRKLG WTR 8PK                 5.13 A
+  8 @ 0.05
+CA CRV                                0.40 A
+210241 MANDARIN ORANGE CHKN          15.87 E
+535348 KS RED ONIONS                  1.45 E
+     0.98 lb @ 1.48 /lb
+1188494 COTTAGE CHS                   3.21 E
+79542 ORG SPRING MIX 1 LB             5.49 E
+
+SUBTOTAL                               88.77
+TAX 8.625% ON 28.61                     2.47
+**** TOTAL                             91.24
+MASTERCARD TEND                        91.24
+CHANGE                                  0.00
+
+02/01/26 09:40  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

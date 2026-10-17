@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0990
+
+SMPL TRTH BRIE                    4.85 F
+  1.25 lb @ 3.34 /lb
+HASS AVOCADO LG                   4.18 F
+STRAUS PLAIN GRK YGRT             1.74 F
+KRO PENNE                        13.38 F
+  2 @ 2.74
+SMPL TRTH FRESH BASIL             5.48 F
+WILD COD FLLT                    18.56 F
+
+SUBTOTAL                           29.63
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              29.63
+VISA TEND                          29.63
+CHANGE                              0.00
+
+09/03/26 13:57  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

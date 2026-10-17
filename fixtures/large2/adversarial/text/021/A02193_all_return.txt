@@ -1,0 +1,21 @@
+                SAFEWAY
+      Store 1748  San Francisco CA
+             (555) 010-1848
+
+  REFUND - ORIG RECEIPT
+RETURN SIG KTCHNS KETCHUP       21.96- S
+  REFUND - ORIG RECEIPT
+RETURN SIG SLCT TRTLL CHIPS      6.66- S
+RETURN KEFIR                     5.08- S
+  REFUND - ORIG RECEIPT
+RETURN FRESH MOZZ                8.65- S
+
+SUBTOTAL                          42.35-
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                        42.35-
+VISA TEND                         42.35-
+CHANGE                              0.00
+
+06/12/26 08:13  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

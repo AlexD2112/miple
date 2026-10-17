@@ -1,0 +1,31 @@
+                SAFEWAY
+      Store 1614  San Francisco CA
+             (555) 010-3925
+REG 08 TRN 6520 OPR 300
+
+STRWB 2 LB                        5.88 S
+SIG KTCHNS DELI FRIED CHKN       11.75 T
+SIG KTCHNS PNT BTR                6.90 S
+  3.22 lb @ 13.74 /lb
+SW CHUCK ROAST                   44.24 S
+SIG SPONGES 3PK                   9.54 T
+LUCERNE WHL MLK HALF GALLON       6.79 S
+REDUCED FAT 2% MLK GALLON         6.54 S
+   YOU SAVED 375.70
+PENNE 16 OZ                       3.51 S
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+  2 @ 3.33
+SW TORTILLA CHIPS                 6.66 S
+
+SUBTOTAL                          110.64
+TAX 8.625% ON 30.12                 2.60
+**** TOTAL                        113.24
+AMEX TEND                         113.24
+CHANGE                              0.00
+
+10/01/26 21:45  ITEMS 11
+T=TAXABLE  S=NONTAXABLE FOOD
+TOTAL SAVINGS THIS YEAR   200.60
+NEXT VISIT COUPON          3.00 OFF
+CARD #: ************4679
+               THANK YOU

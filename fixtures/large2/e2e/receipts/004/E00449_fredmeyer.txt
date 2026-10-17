@@ -1,0 +1,39 @@
+               FRED MEYER
+              Portland OR
+               Store 3933
+
+HEINZ KETCHUP 32 OZ               4.48 F
+KRO PAPER TOWELS 6 ROLL           3.75 F
+LIMES                             2.80 F
+SMPL TRTH FROZEN BROCCOLI         1.72 F
+FM CRKRS                          2.00 F
+  2 @ 5.73
+DIGIORNO RISING CRUST PEPPERONI  11.46 F
+FM ICE CRM                       14.51 F
+DAVES KILLER BREAD                6.69 F
+SMPL TRTH YELLOW ONIN             1.78 F
+  3.66 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        8.53 F
+FM BOTTLED WTR 24PK               9.32 F
+  24 @ 0.10
+OR BTL DEP                        2.40  
+  5.05 lb @ 6.69 /lb
+BNLS SKNLS CHKN BRST             33.78 F
+  0.75 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               8.24 F
+  2.94 lb @ 2.08 /lb
+SMPL TRTH KIWI                    6.12 F
+  3 @ 3.77
+FM BAGELS                        11.31 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                          129.04
+TAX                                 0.00
+TOTAL                             129.04
+DEBIT TEND                        129.04
+CHANGE                              0.00
+
+09/10/26 14:02  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

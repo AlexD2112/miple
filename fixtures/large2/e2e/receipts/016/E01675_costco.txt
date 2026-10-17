@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2452  Seattle WA
+            MEMBER ************
+
+1116324 KS LIMES                      2.80 E
+1512011 ORANGE JUICE 52OZ             9.39 E
+287350 KS KEFIR                       1.27 E
+8623073 TPD/KEFIR                    0.38-  
+1954713 KS ROMAINE LETTUCE            2.79 E
+1558768 KS ATLNTC SLMN FLLT          19.77 E
+565973 KS TORTILLA CHIPS              3.33 E
+1608214 FRZN PEAS 12 OZ               5.40 E
+4211431 TPD/FRZN PEAS 12             1.62-  
+337894 JSMN RICE 25 LB                8.09 E
+995372 RDCD FAT 2% MLK GALLON         6.54 E
+1510556 POTATO CHIPS                  5.07 E
+554027 BLACK FOREST HAM              18.42 E
+     1.30 lb @ 14.17 /lb
+9867916 TPD/BLACK FOREST             2.71-  
+  REFUND - ORIG RECEIPT
+RETURN 1558768 KS ATLNTC SLMN FLLT  19.77- E
+
+SUBTOTAL                               58.39
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             58.39
+VISA TEND                              58.39
+CHANGE                                  0.00
+
+04/06/26 16:11  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

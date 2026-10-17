@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0326
+
+KRO CRL                           6.63 F
+DIGITAL CPN                      1.99-  
+KRO SRDGH LOAF                    7.47 F
+KRO RIBEYE STEAK                 19.87 F
+  2.66 lb @ 11.10 /lb
+KRO PORK CHOPS                   29.53 F
+  2 @ 5.13
+SPRKLG WTR 8PK                   10.26 F
+KRO CRL                           6.63 F
+
+SUBTOTAL                           78.40
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              78.40
+MASTERCARD TEND                    78.40
+CHANGE                              0.00
+
+01/31/26 16:54  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

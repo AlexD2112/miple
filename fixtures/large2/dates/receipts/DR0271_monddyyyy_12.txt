@@ -1,0 +1,24 @@
+                 TARGET
+           Seattle WA  T-3608
+             (555) 030-5977
+
+STRWB 1 LB                        5.22 N
+LARGE EGGS 18 CT                  7.52 N
+CIRCLE DEAL                      0.98-  
+TILLAMOOK ICE CRM 48 OZ           8.88 N
+GG STRWB                          4.35 N
+RED GRAPES                        3.04 N
+GG ROMA TOM                       2.38 N
+GG SPAGHETTI                      9.54 N
+FRZN DMPLNGS                     15.61 N
+
+SUBTOTAL                           55.56
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              55.56
+CASH TEND                          60.00
+CHANGE                              4.44
+
+JAN 03 2029 09:45AM
+ITEMS 4   REG 16  TRANS 4799
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,40 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3529
+
+SMPL TRTH JASMINE RICE           12.13 F
+SMPL TRTH CHICKEN BROTH CARTON    8.38 F
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+DIGITAL CPN                      1.26-  
+ORG ITALIAN PARSLEY               1.95 F
+SMPL TRTH BOTTLED WATER 24PK      9.32 F
+KRO SAVINGS                      0.70-  
+KRO BATH TISSUE 12 ROLL          23.08 T
+KRO SAVINGS                      2.61- T
+SMPL TRTH RASPB                   7.24 F
+MFR CPN                          2.17-  
+SMPL TRTH ARUGULA                 4.00 F
+KRO AA BATTERIES 8PK             24.36 T
+KRO GREETING CARD                20.34 T
+KRO GRND COFFEE                   9.64 F
+  3.08 lb @ 1.79 /lb
+BEETS                             5.51 F
+KRO GRND COFFEE                   9.64 F
+PRIV SEL ORANGE JUICE 52OZ        9.39 F
+SMPL TRTH BARTLETT PEARS          3.00 F
+  2.83 lb @ 5.06 /lb
+PRIV SEL GRND CHKN               14.32 F
+SMPL TRTH ROMA TOM                2.38 F
+  2.92 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               10.86 F
+KRO SAVINGS                      1.70-  
+
+SUBTOTAL                          171.31
+TAX 10.55% ON 65.17                 6.88
+TOTAL                             178.19
+AMEX TEND                         178.19
+CHANGE                              0.00
+
+01/16/26 15:54  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

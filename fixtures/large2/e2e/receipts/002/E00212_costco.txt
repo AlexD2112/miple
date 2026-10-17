@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3167  Seattle WA
+            MEMBER ************
+
+1399576 2% MLK 2 X 1 GAL              4.70 E
+328041 KS AVOCADOS                    8.10 E
+     2 @ 4.05
+472114 FRESH MINT                     2.74 E
+626260 KS TUNA CAN                    4.32 E
+     4 @ 1.08
+
+SUBTOTAL                               19.86
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             19.86
+DISCOVER TEND                          19.86
+CHANGE                                  0.00
+
+05/02/26 15:09  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

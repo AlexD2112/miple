@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1369  Seattle WA
+            MEMBER ************
+
+575905 PARSNIPS                       4.37 E
+     1.80 lb @ 2.43 /lb
+1171960 CELERY HEARTS                 8.68 E
+     2 @ 4.34
+1944067 ORGANIC SPROUTED TOFU         2.61 E
+737279 KS TRKY BRST                   6.31 E
+     0.89 lb @ 7.09 /lb
+1762741 JASMINE RICE 5 LB             2.98 E
+     2 @ 1.49
+
+SUBTOTAL                               24.95
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             24.95
+VISA TEND                              24.95
+CHANGE                                  0.00
+
+04/25/26 16:16  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

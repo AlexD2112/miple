@@ -1,0 +1,22 @@
+              TRADER JOE'S
+     Store #1812  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+COTTAGE CHEESE                    3.21 F
+FROZEN DUMPLINGS                 15.61 F
+LEMON                             4.30 F
+LEMON                             4.30 F
+FROZEN WAFFLES                    7.05 F
+DISH SOAP                        19.39 T
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+BAG FEE                           0.25  
+
+SUBTOTAL                           61.12
+TAX 8.625% ON 19.39                 1.67
+TOTAL                              62.79
+DISCOVER TEND                      62.79
+CHANGE                              0.00
+
+09/30/26 13:38  ITEMS 7
+T=TAXABLE  F=FOOD
+               THANK YOU

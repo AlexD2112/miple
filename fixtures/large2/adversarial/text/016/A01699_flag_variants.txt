@@ -1,0 +1,20 @@
+              TRADER JOE'S
+     Store #0085  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+  3.63 lb @ 6.00 /lb
+GRND BF 88/12                    21.78 F
+CARROTS                           1.79 F
+DOUBLE CREME BRIE                 5.40 F
+  3.81 lb @ 6.00 /lb
+GROUND BEEF 88/12                22.86 F
+
+SUBTOTAL                           51.83
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              51.83
+DEBIT TEND                         51.83
+CHANGE                              0.00
+
+08/27/26 09:17  ITEMS 4
+T=TAXABLE  F=FOOD
+               THANK YOU

@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0706  Seattle WA
+            MEMBER ************
+
+360149 LIMES                          5.60 E
+     2 @ 2.80
+1077300 KS DAVES KILLER BRD           6.69 E
+231289 BLACK FOREST HAM 9 OZ          7.00 E
+448877 ICE CRM                       14.51 E
+402940 RIBEYE STEAK                  19.87 E
+1116709 GREEN ONIN BUNCH              7.77 E
+     3 @ 2.59
+1079181 KALE                          4.17 E
+20895 ROMA TOM                        4.76 E
+     2 @ 2.38
+1831567 KS BLACK BEANS CAN            8.77 E
+356708 FRESH DILL                     0.90 E
+433857 ZCCHN                         13.69 E
+     3.68 lb @ 3.72 /lb
+1219860 KS CAT LITTER                14.03 A
+305054 DIET COLA 12PK CANS            8.84 A
+     2 @ 4.42
+
+SUBTOTAL                              116.60
+TAX 10.55% ON 22.87                     2.41
+**** TOTAL                            119.01
+MASTERCARD TEND                       119.01
+CHANGE                                  0.00
+
+06/10/26 19:59  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

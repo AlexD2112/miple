@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0403  Seattle WA
+            MEMBER ************
+
+820460 FRZN BROC                      1.72 E
+0762610 TPD/FRZN BROC                0.52-  
+468905 KS PENNE                      13.38 E
+473801 KS ZUCCHINI                    5.99 E
+     1.61 lb @ 3.72 /lb
+586493 KS LARGE BROWN EGGS            4.29 E
+792279 ALMOND MLK                     5.08 E
+1732363 EVERYTHING BUT THE BAGEL SEA  7.01 E
+92101 UNSLTD BTR 4 X 1 LB             9.48 E
+1719787 WHITE BREAD                   6.34 E
+1623342 GRASS-FED GRND BF 85/15       7.35 E
+1214148 KS GREEN ONIONS BUNCH         2.59 E
+138130 CHOBANI PLAIN GREEK YOGURT 32  1.47 E
+382251 CELERY                         4.32 E
+1962122 DOG TREATS                    6.82 A
+1608288 KS GREEK YOGURT PLAIN        16.44 E
+     4 @ 4.11
+969739 KS APPLE JUICE 64OZ            7.25 E
+829716 KS ZIP TOP BAGS               24.79 A
+1865763 KS 2% MILK GALLON             6.49 E
+55366 KS PENNE                       13.38 E
+
+SUBTOTAL                              143.67
+TAX 10.55% ON 31.61                     3.33
+**** TOTAL                            147.00
+DEBIT TEND                            147.00
+CHANGE                                  0.00
+
+02/03/26 11:15  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

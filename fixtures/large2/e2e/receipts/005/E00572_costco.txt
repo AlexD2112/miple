@@ -1,0 +1,47 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0942  Seattle WA
+            MEMBER ************
+
+347982 KS GRK YGRT PLAIN              4.11 E
+39302 CHOBANI PLAIN GRK YGRT 32 OZ    1.47 E
+942822 KS COLD BREW COFFEE 32OZ       4.43 E
+4916165 TPD/COLD BREW CO             1.33-  
+1559531 KIWI                          1.68 E
+     0.81 lb @ 2.08 /lb
+406674 CREAM CHEESE 8 OZ              3.15 E
+956655 SPARKLING WATER                7.48 E
+     2 @ 3.74
+5493567 TPD/SPARKLING WA             2.24-  
+1610798 ORG BLACK BEANS 8 CANS        1.15 E
+548656 HNDMD STYLE CORN TORT          3.55 E
+496857 PENNE 16 OZ                    3.51 E
+1874469 GRK YGRT 48 OZ                1.97 E
+1403712 CHOBANI PLAIN GREEK YOGURT 3  5.88 E
+     4 @ 1.47
+241840 ORGANIC LEMONS                 0.93 E
+     0.33 lb @ 2.83 /lb
+1716859 UNEXPECTED CHEDDAR           22.83 E
+     1.27 lb @ 17.98 /lb
+1321176 RED BELL PEPR                 6.94 E
+     2.03 lb @ 3.42 /lb
+1818943 ORANGE JUICE                  7.69 E
+539111 BIBIGO PORK MANDU DUMPLINGS   10.32 E
+3314558 TPD/BIBIGO PORK              2.71-  
+1063757 FLOUR TORTILLAS 10 CT         4.70 E
+     2 @ 2.35
+573269 PARMIGIANO REGGIANO WEDGE      8.42 E
+1858943 TPD/PARMIGIANO R             1.44-  
+240074 STRAUS PLAIN GREEK YOGURT      1.74 E
+9944617 TPD/STRAUS PLAIN             0.52-  
+1572663 ATLNTC SLMN FLLT             19.77 E
+
+SUBTOTAL                              113.48
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            113.48
+DISCOVER TEND                         113.48
+CHANGE                                  0.00
+
+12/30/26 11:35  ITEMS 25
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

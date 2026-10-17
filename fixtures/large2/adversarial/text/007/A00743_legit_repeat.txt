@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0896  Seattle WA
+            MEMBER ************
+
+995436 KS JALAPENO                    2.66 E
+     1.66 lb @ 1.60 /lb
+827793 BARTLETT PEARS                 3.00 E
+1559921 KS FLOUR TORTILLAS            6.18 E
+410442 KS CRKRS                       2.00 E
+31839 KS GREEN ONIN BUNCH             5.18 E
+     2 @ 2.59
+31839 KS GREEN ONIN BUNCH             5.18 E
+     2 @ 2.59
+204032 KIWI                           4.87 E
+     2.34 lb @ 2.08 /lb
+390280 CILANTRO BUNCH                 4.04 E
+     2 @ 2.02
+1568313 KS WHL MLK HALF GALLON        6.79 E
+939548 TILLAMOOK MEDIUM CHEDDAR 2.5   4.21 E
+
+SUBTOTAL                               44.11
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             44.11
+MASTERCARD TEND                        44.11
+CHANGE                                  0.00
+
+01/06/26 10:04  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

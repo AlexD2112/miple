@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1585
+
+  3.65 lb @ 3.34 /lb
+HASS AVOCADO LARGE               12.19 F
+SMPL TRTH SLCD ROAST BF           5.94 F
+DELI FRIED CHKN                  11.75 T
+DIGITAL CPN                      0.62- T
+SMPL TRTH CRRTS                   1.79 F
+
+SUBTOTAL                           31.05
+TAX 10.55% ON 11.13                 1.17
+TOTAL                              32.22
+AMEX TEND                          32.22
+CHANGE                              0.00
+
+08/14/29 07:34 PM  7319 09 895 9
+ITEMS 3   REG 02  TRANS 4327
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

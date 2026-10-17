@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 1156
+
+  2 @ 2.93
+SMPL TRTH ITALIAN PARSLEY         5.86 F
+  0.70 lb @ 3.50 /lb
+ENGLISH CCMBR                     2.45 F
+KRO CCNT MLK CAN                  3.83 F
+FM PLUS CARD SAV                 1.15-  
+BABY SPNCH                        5.42 F
+HANDMADE STYLE CORN TORT          3.55 F
+  1.49 lb @ 3.34 /lb
+HASS AVCD LG                      4.98 F
+  0.60 lb @ 13.18 /lb
+FM SLCD TRKY BRST                 7.91 F
+CRSSNTS 12 CT                     4.87 F
+  4 @ 2.31
+GREEN BEANS                       9.24 F
+  2 @ 1.01
+NAVEL ORANGES                     2.02 F
+KRO GENOA SALAMI                  4.76 F
+  2 @ 2.72
+SMPL TRTH MANDARINS               5.44 F
+PEPSI 12 PK CANS                  4.93 T
+SMPL TRTH CHKN BROTH CARTON       8.38 F
+GREEN BEANS                       2.31 F
+LEMONS                            4.19 F
+
+SUBTOTAL                           78.99
+TAX 10.55% ON 4.93                  0.52
+TOTAL                              79.51
+MASTERCARD TEND                    79.51
+CHANGE                              0.00
+
+03/20/26 11:57  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

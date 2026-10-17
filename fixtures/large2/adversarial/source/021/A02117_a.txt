@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3511  Seattle WA
+            MEMBER ************
+
+627215 FLOWERS BOUQUET               23.70 A
+606665 SPONGES 3PK                    9.54 A
+1984240 KS ALUMINUM FOIL             18.03 A
+192471 PLASTIC WRAP                   4.77 A
+5707901 TPD/PLASTIC WRAP             1.43- A
+870120 SPONGES 3PK                    9.54 A
+889347 DISH SOAP                     19.39 A
+1838715 KS TOOTHPASTE                16.40 A
+270954 KS AA BTTRS 8PK               24.36 A
+1939147 TPD/AA BTTRS 8PK             0.72- A
+
+SUBTOTAL                              123.58
+TAX 10.55% ON 123.58                   13.04
+**** TOTAL                            136.62
+VISA TEND                             136.62
+CHANGE                                  0.00
+
+05/11/26 16:57  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

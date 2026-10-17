@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1471  Seattle WA
+            MEMBER ************
+
+705290 PORK TNDRLN                   14.48 E
+     1.50 lb @ 9.65 /lb
+1342605 ORG ROMAINE HEARTS 3 CT       3.76 E
+679696 KS RASPBERRIES                 7.24 E
+966679 KS RADISHES                    0.89 E
+     0.85 lb @ 1.05 /lb
+
+SUBTOTAL                               26.37
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             26.37
+DEBIT TEND                             26.37
+CHANGE                                  0.00
+
+03/25/26 09:21  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

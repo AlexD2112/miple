@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2103  Portland OR
+            MEMBER ************
+
+682058 KS PORK CHOPS                 15.87 E
+     1.43 lb @ 11.10 /lb
+386013 PAPER PLATES                   3.31 E
+610125 KS COLA 12PK                   1.83 E
+  12 @ 0.10
+OR BTL DEP                            1.20  
+1136807 KS SHRP CHDR BLOCK           10.33 E
+2977818 TPD/SHRP CHDR BL             2.27-  
+137841 KS ORANGE JUICE 52OZ           9.39 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+1705207 KS JALAPENO                   4.77 E
+     2.98 lb @ 1.60 /lb
+1669407 LG BROWN CAGE FREE EGGS       4.10 E
+1669407 LG BROWN CAGE FREE EGGS       4.10 E
+7105363 TPD/LG BROWN CAG             0.97-  
+289855 KS ICE CREAM                  14.51 E
+5598850 TPD/ICE CREAM                2.35-  
+62814 ORG TOMATO BASIL MARINARA      17.82 E
+     3 @ 5.94
+816494 CHKN BROTH 32 OZ               2.81 E
+1310951 KS MAYONNAISE                 6.36 E
+1902689 KS VAN YGRT CUPS             21.56 E
+     4 @ 5.39
+
+SUBTOTAL                              112.47
+TAX                                     0.00
+**** TOTAL                            112.47
+VISA TEND                             112.47
+CHANGE                                  0.00
+
+03/08/26 09:10  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

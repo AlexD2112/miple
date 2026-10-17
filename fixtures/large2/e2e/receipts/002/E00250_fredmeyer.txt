@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 2760
+
+KRO POTATO CHIPS                  5.07 F
+SMPL TRTH LEMONS                  4.19 F
+FM WHL WHT SNDWCH BRD             2.54 F
+CHKN GYOZA PTSTCKRS               9.88 F
+  3.80 lb @ 7.09 /lb
+TRKY BRST                        26.94 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+FM PLUS CARD SAV                 1.14- T
+  1.48 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            20.34 F
+
+SUBTOTAL                           76.65
+TAX 10.55% ON 7.69                  0.81
+TOTAL                              77.46
+AMEX TEND                          77.46
+CHANGE                              0.00
+
+01/04/26 18:33  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

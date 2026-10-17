@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2860  Seattle WA
+            MEMBER ************
+
+1843926 KS BLUBRY                     5.87 E
+1826253 RUSSET POTATOES               2.10 E
+     1.86 lb @ 1.13 /lb
+905828 SLCD SRDGH PAN LOAF            4.74 E
+
+SUBTOTAL                               12.71
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             12.71
+MASTERCARD TEND                        12.71
+CHANGE                                  0.00
+
+09/06/26 18:32  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

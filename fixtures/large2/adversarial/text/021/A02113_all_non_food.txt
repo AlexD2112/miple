@@ -1,0 +1,24 @@
+                SAFEWAY
+         Store 3670  Seattle WA
+             (555) 010-8150
+
+SIG ALUMINUM FOIL                18.03 T
+AA BATTERIES 8PK                 24.36 T
+SIG CAT LITTER                   14.03 T
+CLUB CARD SAVINGS                0.58- T
+PAPER PLATES                      3.31 T
+LNDRY DTRGNT PODS                20.18 T
+SIG DISH SOAP                    19.39 T
+NAPKINS                          24.05 T
+SIG DOG TREATS                    6.82 T
+SIG NAPKINS                      24.05 T
+
+SUBTOTAL                          153.64
+TAX 10.55% ON 153.64               16.21
+**** TOTAL                        169.85
+CASH TEND                         180.00
+CHANGE                             10.15
+
+05/01/26 16:36  ITEMS 9
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

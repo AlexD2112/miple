@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0197
+
+  1.51 lb @ 18.16 /lb
+SMPL TRTH COD FLLT               27.42 F
+  0.67 lb @ 9.65 /lb
+PRIV SEL PORK TENDERLOIN          6.47 F
+SMPL TRTH JASMINE RICE           12.13 F
+CREAM CHEESE 8 OZ                 3.15 F
+MFR CPN                          0.43-  
+  4 @ 1.49
+JASMINE RICE 5 LB                 5.96 F
+SMPL TRTH MAYONNAISE              6.36 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           61.30
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              61.33
+DISCOVER TEND                      61.33
+CHANGE                              0.00
+
+12/31/26 21:14  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

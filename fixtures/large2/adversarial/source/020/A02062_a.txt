@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 2654
+
+KRO SHMP                         17.57 T
+SPNGS 3PK                         9.54 T
+KRO GREETING CARD                20.34 T
+AA BATTERIES 8PK                 24.36 T
+KRO PLASTIC WRAP                  4.77 T
+HAND SOAP                        24.27 T
+DOG TREATS                        6.82 T
+KRO AA BATTERIES 8PK             24.36 T
+PAPER TOWELS 6 ROLL               3.75 T
+LIGHT BULBS 4PK                  17.04 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                          152.90
+TAX 10.55% ON 152.90               16.13
+TOTAL                             169.03
+AMEX TEND                         169.03
+CHANGE                              0.00
+
+03/17/26 10:33  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

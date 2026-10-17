@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 1417
+TAX EXEMPT ID ******5705
+
+  2 @ 3.51
+PENNE 16 OZ                       7.02 F
+  1.78 lb @ 9.65 /lb
+KRO PORK TENDERLOIN              17.18 F
+  2.39 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                3.82 F
+KRO PENNE                        13.38 F
+FM PLUS CARD SAV                 0.28-  
+  0.85 lb @ 2.83 /lb
+ORGANIC LEMONS                    2.41 F
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+KRO ALMOND MILK                   5.08 F
+  2 @ 2.45
+BOTTLED WTR 40 PK                 4.90 F
+STRAUS PLAIN GRK YGRT             1.74 F
+DIGITAL CPN                      0.52-  
+SMPL TRTH ICEBERG LTTC            5.11 F
+KRO WHOLE MILK HALF GALLON        6.79 F
+KRO SAVINGS                      2.04-  
+KRO PENNE                        13.38 F
+DAVES KILLER BRD                  6.69 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+BABY CARROTS                      2.49 F
+KRO SAVINGS                      0.75-  
+
+SUBTOTAL                          107.92
+TAX EXEMPT                          0.00
+TOTAL                             107.92
+CASH TEND                         120.00
+CHANGE                             12.08
+
+01/20/26 14:13  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

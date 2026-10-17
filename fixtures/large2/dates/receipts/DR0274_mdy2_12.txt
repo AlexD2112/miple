@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 3439
+
+  0.93 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            12.78 F
+YUKON GOLD POTATOES               3.99 F
+
+SUBTOTAL                           16.77
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              16.77
+AMEX TEND                          16.77
+CHANGE                              0.00
+
+07/12/27 12:58 AM  3777 23 370 1
+ITEMS 29   REG 14  TRANS 9696
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

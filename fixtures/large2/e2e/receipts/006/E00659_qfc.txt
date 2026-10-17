@@ -1,0 +1,37 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3492
+
+KRO SHRP CHDR BLOCK              10.33 F
+SMPL TRTH SHRP CHDR BLOCK        10.33 F
+KRO TILAPIA FILLETS              21.66 F
+DIGITAL CPN                      1.84-  
+CHKN DRUMSTICKS                   8.97 F
+  2.91 lb @ 3.72 /lb
+ZUCCHINI                         10.83 F
+  3 @ 4.05
+TILLAMOOK VAN YGRT               12.15 F
+PRIV SEL MAYONNAISE               6.36 F
+RED GRAPES                        3.04 F
+LEMONADE 52OZ                     5.79 T
+DIGITAL CPN                      0.50- T
+ORG TOMATO BASIL MARINARA         5.94 F
+TILLAMOOK VANILLA YOGURT          4.05 F
+SMPL TRTH AHI TUNA STEAK         14.71 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+SMPL TRTH ICE CRM                14.51 F
+PRIV SEL UNSLTD BTR               9.95 F
+  2 @ 3.51
+PENNE 16 OZ                       7.02 F
+  4 @ 5.24
+ROOT BEER 2L                     20.96 T
+
+SUBTOTAL                          168.47
+TAX 10.55% ON 26.25                 2.77
+TOTAL                             171.24
+DISCOVER TEND                     171.24
+CHANGE                              0.00
+
+02/29/28 14:22  ITEMS 23
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

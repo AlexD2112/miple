@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 3396
+
+ATLNTC SLMN FLLT                 19.77 F
+FM PLUS CARD SAV                 0.60-  
+CAULIFLOWER GNOCCHI               7.85 F
+CARROTS 2 LB                      1.74 F
+FM PLUS CARD SAV                 0.52-  
+SMPL TRTH UNSLTD BTR              9.95 F
+FM GOAT CHS                       8.35 F
+MFR CPN                          2.51-  
+BARILLA PENNE                    19.37 F
+
+SUBTOTAL                           63.40
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              63.40
+AMEX TEND                          63.40
+CHANGE                              0.00
+
+12/30/26 15:40  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

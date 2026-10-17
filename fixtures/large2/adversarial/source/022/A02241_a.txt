@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 3632  Seattle WA
+             (555) 010-2187
+
+  REFUND - ORIG RECEIPT
+RETURN OAT MILK                  3.10- S
+RETURN SIG KTCHNS BAGELS        15.08- S
+RETURN MNDRN ORANGE CHKN        15.87- S
+RETURN SLCD SOURDOUGH PAN LOAF   4.74- S
+RETURN O ORGANICS BARTLETT PEAR  6.00- S
+RETURN LUCERNE FRESH MOZZARELLA  8.65- S
+
+SUBTOTAL                          53.44-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                        53.44-
+AMEX TEND                         53.44-
+CHANGE                              0.00
+
+03/13/26 21:11  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

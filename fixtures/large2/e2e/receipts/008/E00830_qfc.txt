@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1506
+
+SMPL TRTH 2% MLK GALLON           6.49 F
+PLAIN NONFAT GRK YGRT             4.65 F
+KRO SAVINGS                      0.30-  
+SMPL TRTH GRNLA BRS               6.07 F
+MNDRN ORANGE CHKN                15.87 F
+RUSSET POTATOES 5 LB BAG          4.53 F
+
+SUBTOTAL                           37.31
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              37.31
+DISCOVER TEND                      37.31
+CHANGE                              0.00
+
+01/31/26 20:03  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

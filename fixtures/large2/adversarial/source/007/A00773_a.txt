@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2552  Seattle WA
+            MEMBER ************
+
+303887 ORG GALA APPLES                1.57 E
+897719 PENNE 16 OZ                    3.51 E
+722092 CHKN GYOZA PTSTCKRS            9.88 E
+584055 KS SHARP CHEDDAR BLOCK        10.33 E
+582704 HOT BAR PREPARED FOOD BY WEIG  8.83 A
+1442426 ORGANIC EGGS 24 CT            7.83 E
+1442426 ORGANIC EGGS 24 CT            7.83 E
+8234856 TPD/ORGANIC EGGS             0.72-  
+376560 KS FLOUR TORT                  6.18 E
+498300 HANDMADE STYLE CORN TORT       3.55 E
+1894331 HALF & HALF                   5.34 E
+98348 KS KIWI                         1.96 E
+     0.94 lb @ 2.08 /lb
+
+SUBTOTAL                               66.09
+TAX 10.55% ON 8.83                      0.93
+**** TOTAL                             67.02
+DISCOVER TEND                          67.02
+CHANGE                                  0.00
+
+09/13/26 20:26  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

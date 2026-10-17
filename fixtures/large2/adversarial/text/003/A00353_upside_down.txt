@@ -1,0 +1,36 @@
+               THANK YOU
+T=TAXABLE  S=NONTAXABLE FOOD
+03/22/26 20:30  ITEMS 17
+
+CHANGE                              0.00
+AMEX TEND                          92.92
+**** TOTAL                         92.92
+TAX 10.55% ON 0.24                  0.03
+SUBTOTAL                           92.89
+
+BAG FEE                           0.24 T
+  3 @ 0.08
+HALF & HALF                       5.34 S
+LCRX LIME SPRKLG WTR 8 PK         2.20 S
+POTATO CHIPS                      5.07 S
+ORG ROMAINE HEARTS 3 CT           7.52 S
+  2 @ 3.76
+ALMOND MLK                        5.08 S
+FLOUR TORT 10 CT                  2.35 S
+J4U DIGITAL CPN                  1.01-  
+BLACK BEANS 15 OZ CAN            10.76 S
+O ORGANICS BANANAS               10.82 S
+  3.73 lb @ 2.90 /lb
+O ORGANICS CAULIFLOWER            8.08 S
+  2.15 lb @ 3.76 /lb
+YELLOW ONIN                       1.78 S
+GROUND BEEF 88/12                23.64 S
+  3.94 lb @ 6.00 /lb
+O ORGANICS CILANTRO               3.48 S
+  3 @ 1.16
+BABY SPNCH 5 OZ                   7.54 S
+  2 @ 3.77
+
+             (555) 010-3705
+         Store 3724  Seattle WA
+                SAFEWAY

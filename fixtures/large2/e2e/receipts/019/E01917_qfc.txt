@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1945
+
+  1.24 lb @ 6.00 /lb
+GRND BF 88/12                     7.44 F
+RASPBERRIES                       7.24 F
+  3 @ 1.49
+ORGANIC BASIL CLAMSHELL           4.47 F
+SMPL TRTH JASMINE RICE           12.13 F
+  0.98 lb @ 1.60 /lb
+JLPN                              1.57 F
+
+SUBTOTAL                           32.85
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              32.85
+VISA TEND                          32.85
+CHANGE                              0.00
+
+07/01/26 19:21  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

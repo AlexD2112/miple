@@ -1,0 +1,23 @@
+                SAFEWAY
+         Store 1042  Seattle WA
+             (555) 010-1330
+
+  2 @ 2.77
+SIG KTCHNS HAMBURGER BUNS         5.54 S
+  2.32 lb @ 0.76 /lb
+MANGO                             1.76 S
+  2.77 lb @ 11.10 /lb
+SIG SLCT PORK CHOPS              30.75 S
+DGRN RISING CRUST PPPRN PIZZA     5.73 S
+O ORGANICS CREMINI MSHRM          1.14 S
+WHITE SNDWCH BRD                  7.03 S
+
+SUBTOTAL                           51.95
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         51.95
+MASTERCARD TEND                    51.95
+CHANGE                              0.00
+
+04/26/26 21:49  ITEMS 7
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

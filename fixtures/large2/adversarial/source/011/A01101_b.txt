@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 2709
+
+NAPKINS                          24.05 T
+FM ITALIAN SAUSAGE BULK           9.93 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+BLACKBERRIES                      3.92 F
+LG EGGS 12 CT                     8.69 F
+MFR CPN                          2.36-  
+  2 @ 3.92
+BLCKBRRS                          7.84 F
+KRO LAUNDRY DTRGNT PODS          20.18 T
+SHREDDED CHDR 8 OZ                6.42 F
+  4 @ 1.74
+STRAUS PLAIN GREEK YOGURT         6.96 F
+  3 @ 4.34
+CELERY HEARTS                    13.02 F
+FM FRZN PEAS                     13.98 F
+SMPL TRTH LIMES                   2.80 F
+KRO HAMBURGER BUNS                2.77 F
+SMPL TRTH CAGE FREE EGGS 18CT     6.85 F
+MANDARINS                         2.72 F
+
+SUBTOTAL                          136.65
+TAX 10.55% ON 44.23                 4.67
+TOTAL                             141.32
+CASH TEND                         160.00
+CHANGE                             18.68
+
+04/29/26 10:16  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2069  Seattle WA
+            MEMBER ************
+
+443971 PNT BTR                        6.90 E
+9550784 TPD/PNT BTR                  1.49-  
+357638 KS FRZN PEAS                  13.98 E
+481774 KS NAPKINS                    24.05 A
+1788652 ITALIAN SSG BULK              9.93 E
+1307778 KS WHL CHKN                  29.94 E
+     4.73 lb @ 6.33 /lb
+368208 KS SLCD ROAST BF               5.94 E
+443409 ICBRG LTTC                     5.11 E
+1330204 KS TRASH BAGS 40CT            6.49 A
+938696 KS PREPARED MAC AND CHEESE    10.62 E
+999750 APPLE JUICE 64OZ               7.25 E
+779142 ORG GALA APPLES                1.57 E
+2602558 TPD/ORG GALA APP             0.47-  
+746438 BOTTLED WTR 40 PK              4.90 E
+     2 @ 2.45
+65022 ORG EGGS 24 CT                  7.83 E
+6028084 TPD/ORG EGGS 24              0.61-  
+577795 UNSLTD BTR 4 X 1 LB            9.48 E
+420124 PARMIGIANO REGGIANO WEDGE      8.42 E
+
+SUBTOTAL                              149.84
+TAX 10.55% ON 30.54                     3.22
+**** TOTAL                            153.06
+VISA TEND                             153.06
+CHANGE                                  0.00
+
+06/24/26 09:06  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

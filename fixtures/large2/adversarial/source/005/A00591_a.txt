@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3367
+
+SMPL TRTH BABY SPNCH              5.42 F
+FLOWERS BOUQUET                  23.70 T
+KRO FRZN MIXED BERRIES            2.06 F
+  0.55 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS               5.09 F
+  0.72 lb @ 9.65 /lb
+PORK TENDERLOIN                   6.95 F
+JASMINE RICE 5 LB                 1.49 F
+DIGITAL CPN                      0.45-  
+ROMAINE LTTC                      2.79 F
+
+SUBTOTAL                           47.05
+TAX 10.55% ON 23.70                 2.50
+TOTAL                              49.55
+DEBIT TEND                         49.55
+CHANGE                              0.00
+
+05/31/26 15:46  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

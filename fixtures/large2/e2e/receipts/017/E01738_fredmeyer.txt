@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 1568
+
+ORG BABY SPNCH                    5.54 F
+CRRTS                             1.79 F
+CELERY                            4.32 F
+KRO SAVINGS                      0.37-  
+
+SUBTOTAL                           11.28
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              11.28
+MASTERCARD TEND                    11.28
+CHANGE                              0.00
+
+02/28/28 20:55  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

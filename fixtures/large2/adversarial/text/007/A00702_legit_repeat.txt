@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 2974
+
+PARMIGIANO REGGIANO WEDGE         8.42 F
+BTR LTTC                          2.45 F
+  1.41 lb @ 13.18 /lb
+SMPL TRTH SLCD TRKY BRST         18.58 F
+ARGL                              4.00 F
+FM ITLN SSG BULK                  9.93 F
+FM PLUS CARD SAV                 2.17-  
+FM QUINOA                         7.75 F
+KRO SAVINGS                      0.54-  
+LG EGGS 12 CT                     8.69 F
+LG EGGS 12 CT                     8.69 F
+KRO SAVINGS                      1.27-  
+WHITE SANDWICH BREAD              7.03 F
+FM PLUS CARD SAV                 0.94-  
+CABOT SHRP CHDR 8 OZ              8.48 F
+  4 @ 5.40
+FRZN PEAS 12 OZ                  21.60 F
+FM DICED TOM CAN                  2.98 F
+KRO RICOTTA                       8.76 F
+
+SUBTOTAL                          112.44
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             112.44
+AMEX TEND                         112.44
+CHANGE                              0.00
+
+10/01/26 08:55  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

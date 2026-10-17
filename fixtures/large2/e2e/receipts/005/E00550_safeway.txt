@@ -1,0 +1,20 @@
+                SAFEWAY
+         Store 0140  Seattle WA
+             (555) 010-5927
+
+  2 @ 4.74
+SLCD SOURDOUGH PAN LOAF           9.48 S
+  3 @ 2.93
+O ORGANICS ITALIAN PRSLY          8.79 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           18.51
+TAX 10.55% ON 0.24                  0.03
+**** TOTAL                         18.54
+VISA TEND                          18.54
+CHANGE                              0.00
+
+06/07/26 21:05  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

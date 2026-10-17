@@ -1,0 +1,36 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0545
+
+  3 @ 5.11
+SMPL TRTH ICEBERG LETTUCE        15.33 F
+BARILLA PENNE                    19.37 F
+SMPL TRTH ITALIAN SAUSAGE BULK    9.93 F
+CHOBANI PLAIN GREEK YOGURT 32 OZ  1.47 F
+ORG SPROUTED TOFU                 2.61 F
+  3.02 lb @ 15.56 /lb
+BONELESS RIBEYE STEAK            46.99 F
+PRIV SEL FRZN PIZZA              13.30 F
+CHKN DRUMSTICKS                   8.97 F
+KRO SOURDOUGH LOAF                7.47 F
+PRIV SEL RIBEYE STEAK            19.87 F
+  3 @ 1.49
+JASMINE RICE 5 LB                 4.47 F
+SMPL TRTH ITALIAN SAUSAGE BULK    9.93 F
+DIGITAL CPN                      2.70-  
+UNSLTD BTR                        9.95 F
+KRO SAVINGS                      1.56-  
+SMPL TRTH DIET COLA 12PK CANS     4.42 T
+CELERY HEARTS                     4.34 F
+  0.86 lb @ 11.10 /lb
+SMPL TRTH PORK CHOPS              9.55 F
+
+SUBTOTAL                          183.71
+TAX 10.55% ON 4.42                  0.47
+TOTAL                             184.18
+DEBIT TEND                        184.18
+CHANGE                              0.00
+
+12/30/26 17:14  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

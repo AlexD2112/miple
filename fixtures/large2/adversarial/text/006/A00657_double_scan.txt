@@ -1,0 +1,24 @@
+                 TARGET
+        San Francisco CA  T-2641
+             (555) 030-7653
+
+  0.32 lb @ 9.25 /lb
+GG SWISS CHS                      2.96 N
+GG BAGELS                         3.77 N
+GG CHKN DRUMSTICKS                8.97 N
+  0.32 lb @ 9.25 /lb
+GG SWISS CHS                      2.96 N
+GG BAGELS                         3.77 N
+GG CHKN DRUMSTICKS                8.97 N
+  3 @ 0.25
+BAG FEE                           0.75  
+
+SUBTOTAL                           16.45
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              16.45
+AMEX TEND                          16.45
+CHANGE                              0.00
+
+07/26/26 20:20  ITEMS 3
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

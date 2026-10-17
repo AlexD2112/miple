@@ -1,0 +1,30 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+03/16/26 12:51  ITEMS 15
+
+CHANGE                              0.00
+DISCOVER TEND                     101.67
+TOTAL                             101.67
+TAX 10.55% ON 0.16                  0.02
+SUBTOTAL                          101.65
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+DIGIORNO RISING CRUST PEPPERONI   5.73 F
+HANDMADE STYLE CORN TORT         10.65 F
+  3 @ 3.55
+BNLS RIBEYE STEAK                48.70 F
+  3.13 lb @ 15.56 /lb
+DARK CHOCOLATE PEANUT BUTTER CUP  5.61 F
+KRO SAVINGS                      1.38-  
+PRIV SEL EXTRA FIRM TOFU          9.28 F
+  4 @ 2.32
+CTTG CHS                          3.21 F
+PRIV SEL KETCHUP                  5.49 F
+MFR CPN                          1.19-  
+KRO SPRKLG WTR 8PK               15.39 F
+  3 @ 5.13
+
+         Seattle WA  Store 2753
+          Quality Food Centers
+                  QFC

@@ -1,0 +1,17 @@
+               FRED MEYER
+              Portland OR
+               Store 3464
+
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH SWEET POTS      3.28- F
+RETURN FM UNSLTD BTR             9.95- F
+
+SUBTOTAL                          13.23-
+TAX                                 0.00
+TOTAL                             13.23-
+DEBIT TEND                        13.23-
+CHANGE                              0.00
+
+02/10/26 16:25  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

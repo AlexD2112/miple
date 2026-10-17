@@ -1,0 +1,59 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2820  Seattle WA
+            MEMBER ************
+
+821188 ORG RASPB 6 OZ                 6.28 E
+1997797 KS BABY CRRTS                 2.49 E
+412025 ORGANIC HONEYCRISP APPLES      4.85 E
+     3.65 lb @ 1.33 /lb
+960820 KS TRASH BAGS 40CT             6.49 A
+245848 COCA-COLA 12 PK CANS           2.77 A
+1277186 KS WHOLE MILK HALF GALLON     6.79 E
+847538 KS TUNA CAN                    1.08 E
+649955 KS PARMIGIANO REGGIANO         7.82 E
+881857 KS PORK TNDRLN                 7.14 E
+     0.74 lb @ 9.65 /lb
+9817547 TPD/PORK TNDRLN              1.13-  
+1504412 MYNNS 30 OZ                   6.42 E
+1085634 KS CRKRS                      2.00 E
+1467797 KS MANGO                      0.19 E
+     0.25 lb @ 0.76 /lb
+556742 KS DELI FRIED CHKN            11.75 A
+1399406 SALTED BUTTER 4 STICKS        9.37 E
+1863615 KS BRIE                       4.85 E
+8317955 TPD/BRIE                     1.45-  
+
+SUBTOTAL                               77.71
+TAX 10.55% ON 21.01                     2.22
+**** TOTAL                             79.93
+DISCOVER TEND                          79.93
+CHANGE                                  0.00
+
+05/16/26 20:24  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+                SAFEWAY
+         Store 1460  Seattle WA
+             (555) 010-7062
+
+BRIE                              4.85 S
+LUCERNE SALTED BUTTER             5.73 S
+  2 @ 3.77
+SW BAGELS                         7.54 S
+LIMES                             2.80 S
+J4U DIGITAL CPN                  0.84-  
+  2 @ 3.92
+BLCKBRRS                          7.84 S
+SIG KTCHNS CRKRS                  2.00 S
+CLUB CARD SAVINGS                0.60-  
+
+SUBTOTAL                           29.32
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         29.32
+VISA TEND                          29.32
+CHANGE                              0.00
+
+09/08/26 09:57  ITEMS 8
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,30 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+02/17/26 16:21  ITEMS 10
+
+CHANGE                              0.00
+VISA TEND                          77.01
+TOTAL                              77.01
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                           77.01
+
+PRIME MEMBER DEAL                0.83-  
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+365 PORK TENDERLOIN              14.48 F
+  1.50 lb @ 9.65 /lb
+PLAIN GOAT CHS                    5.77 F
+365 ORG ZUCCHINI                 12.57 F
+  3.38 lb @ 3.72 /lb
+WF DIJON MUSTARD                  2.46 F
+GRND BF 88/12                    11.16 F
+  1.86 lb @ 6.00 /lb
+RED BELL PEPR                     2.70 F
+  0.79 lb @ 3.42 /lb
+ROMA TOM                          4.76 F
+  2 @ 2.38
+365 CHUCK ROAST                  21.16 F
+  1.54 lb @ 13.74 /lb
+
+             (555) 020-8950
+               Seattle WA
+           WHOLE FOODS MARKET

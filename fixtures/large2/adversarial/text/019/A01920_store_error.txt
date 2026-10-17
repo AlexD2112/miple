@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0111
+
+PRIV SEL WHL WHT SANDWICH BRD     2.54 F
+SMPL TRTH COTTAGE CHEESE          3.21 F
+MFR CPN                          0.96-  
+SMPL TRTH CHERRY TOM              1.15 F
+PEPSI 12 PK CANS                  4.93 T
+CHERRIES                          5.69 F
+  1.71 lb @ 1.79 /lb
+BEETS                             3.06 F
+PRIV SEL GENOA SALAMI             4.76 F
+PRIV SEL CAGE FREE EGGS 18CT      6.85 F
+FRZN BROC FLORETS                 8.13 F
+KRO SOY SAUCE                     6.79 F
+MFR CPN                          1.36-  
+
+SUBTOTAL                           44.79
+TAX 10.55% ON 4.93                  0.52
+TOTAL                              45.32
+AMEX TEND                          45.32
+CHANGE                              0.00
+
+09/10/26 10:09  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

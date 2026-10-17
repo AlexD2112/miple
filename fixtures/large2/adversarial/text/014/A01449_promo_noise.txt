@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1040  Seattle WA
+            MEMBER ************
+SURVEY CODE: 2206-4677-2683
+REG 17 TRN 3695 OPR 680
+
+1233574 PAPER TOWELS 6 ROLL           3.75 A
+   REG PRICE 382.89
+1496164 KS CHERRY TOM                 1.15 E
+215503 SHREDDED CHEDDAR 8 OZ          6.42 E
+839388 ORG HNYCRSP APPLES             3.14 E
+     2.36 lb @ 1.33 /lb
+9375841 TPD/ORG HNYCRSP              0.94-  
+   REG PRICE 69.65
+
+SUBTOTAL                               13.52
+TAX 10.55% ON 3.75                      0.40
+**** TOTAL                             13.92
+AMEX TEND                              13.92
+CHANGE                                  0.00
+
+07/28/26 18:19  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+BOTTLE RETURNS ACCEPTED    0.10/EA
+FUEL POINTS THIS ORDER        698
+AUTH CODE  519326
+                 THANK YOU

@@ -1,0 +1,37 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3619
+
+GRSS-FD GRND BF 85/15             7.35 F
+DIGITAL CPN                      2.20-  
+SMPL TRTH ALMOND MLK              5.08 F
+FRZN PEAS                        13.98 F
+SMPL TRTH BABY CARROTS            2.49 F
+QUINOA                            7.75 F
+KRO HAND SOAP                    24.27 T
+PRIV SEL CORN TORT                2.79 F
+MFR CPN                          0.81-  
+  0.86 lb @ 17.98 /lb
+UNEXPECTED CHDR                  15.46 F
+MFR CPN                          1.01-  
+  3.62 lb @ 2.33 /lb
+BRUSSELS SPRTS                    8.43 F
+LIGHT BULBS 4PK                  17.04 T
+YUKON GOLD POTS                   3.99 F
+PRIV SEL 2% MLK GALLON            6.49 F
+LIGHT BULBS 4PK                  17.04 T
+SMPL TRTH AHI TUNA STEAK         14.71 F
+JASMINE RICE                     12.13 F
+MFR CPN                          2.49-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          152.65
+TAX 10.55% ON 58.51                 6.17
+TOTAL                             158.82
+DISCOVER TEND                     158.82
+CHANGE                              0.00
+
+08/02/26 16:43  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

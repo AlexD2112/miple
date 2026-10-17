@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0789  Seattle WA
+            MEMBER ************
+
+1451098 FRZN PEAS                    13.98 E
+881166 GREEN ONIN BUNCH               2.59 E
+1814534 KS GREEN BEANS                2.31 E
+1426636 KS ORANGE JUICE               7.69 E
+1306956 BRIE                          4.85 E
+7100285 TPD/BRIE                     0.41-  
+872121 ORGANIC BABY SPINACH           5.54 E
+
+SUBTOTAL                               36.55
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             36.55
+AMEX TEND                              36.55
+CHANGE                                  0.00
+
+06/14/26 09:51  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0789  Seattle WA
+            MEMBER ************
+
+1451098 FRZN PEAS                    13.98 E
+881166 GREEN ONIN BUNCH               2.59 E
+1814534 KS GREEN BEANS                2.31 E
+1426636 KS ORANGE JUICE               7.69 E
+1306956 BRIE                          4.85 E
+7100285 TPD/BRIE                     0.41-  
+872121 ORGANIC BABY SPINACH           5.54 E
+
+SUBTOTAL                               36.55
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             36.55
+AMEX TEND                              36.55
+CHANGE                                  0.00
+
+06/14/26 09:51  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

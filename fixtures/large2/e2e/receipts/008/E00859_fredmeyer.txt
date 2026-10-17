@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 1622
+
+FM ROOT BEER 2L                   5.24 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+FM RANCH DRESSING                 3.99 F
+FM PLUS CARD SAV                 0.30-  
+UNSLTD BTR                        9.95 F
+  4 @ 5.49
+ORGANIC SPRING MIX 1 LB          21.96 F
+  4.27 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 18.53 F
+FM SOURDOUGH LOAF                 7.47 F
+SMPL TRTH FRESH MOZZ              8.65 F
+
+SUBTOTAL                           75.59
+TAX                                 0.00
+TOTAL                              75.59
+MASTERCARD TEND                    75.59
+CHANGE                              0.00
+
+01/31/26 10:35  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 0861
+
+AVOCADOS BAG 4 CT                 3.54 F
+KRO SAVINGS                      1.06-  
+  3.92 lb @ 11.10 /lb
+KRO PORK CHOPS                   43.51 F
+TOOTHPASTE                       16.40 T
+  3 @ 2.93
+ITLN PRSLY                        8.79 F
+SMPL TRTH COLA 12PK               1.83 T
+  4 @ 2.77
+COCA-COLA 12 PK CANS             11.08 T
+FM PLUS CARD SAV                 2.10- T
+  1.13 lb @ 6.69 /lb
+FM BNLS SKNLS CHKN BRST           7.56 F
+MFR CPN                          2.21-  
+KRO GRND BF 80/20                 6.57 F
+PAPER TOWELS 6 ROLL               3.75 T
+PENNE 16 OZ                       3.51 F
+DIGITAL CPN                      1.05-  
+FRZN WAFFLES                      7.05 F
+JSMN RICE 5 LB                    1.49 F
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH COLA 12PK       1.83- T
+
+SUBTOTAL                          106.83
+TAX 10.55% ON 29.13                 3.07
+TOTAL                             109.90
+MASTERCARD TEND                   109.90
+CHANGE                              0.00
+
+02/28/28 13:05  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

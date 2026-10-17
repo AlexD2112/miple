@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 3584
+
+SMPL TRTH KRRYGLD BTR            10.81 F
+KRO SPNGS 3PK                     9.54 T
+2% MLK 2 X 1 GAL                  4.70 F
+RDCD FAT 2% MLK GALLON            6.54 F
+SMPL TRTH STRWB                   4.35 F
+DIGITAL CPN                      0.93-  
+  2 @ 2.81
+CHKN BROTH 32 OZ                  5.62 F
+KRO ATLNTC SLMN FLLT             19.77 F
+FM RANCH DRESSING                 3.99 F
+STRWB 2 LB                        5.88 F
+  2.93 lb @ 1.25 /lb
+SMPL TRTH PINEAPPLE               3.66 F
+ORG CARROTS BUNCH                 4.63 F
+KRO COCONUT MILK CAN              3.83 F
+BLACK BEANS CAN                   8.77 F
+SMPL TRTH CARROTS                 1.79 F
+CARROTS 2 LB                      1.74 F
+
+SUBTOTAL                           94.69
+TAX 10.55% ON 9.54                  1.01
+TOTAL                              95.70
+CASH TEND                         100.00
+CHANGE                              4.30
+
+05/12/26 09:15  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

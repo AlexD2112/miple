@@ -1,0 +1,33 @@
+                SAFEWAY
+         Store 0225  Seattle WA
+             (555) 010-9792
+
+  4 @ 5.24
+ROOT BEER 2L                     20.96 T
+BABY CARROTS                      2.49 S
+YUKON GOLD POTS                   3.99 S
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 S
+STRWB 1 LB                        5.22 S
+PLAIN GOAT CHS                    5.77 S
+SIG KTCHNS AHI TUNA STEAK        14.71 S
+J4U PERSONAL DEAL                0.75-  
+  1.10 lb @ 0.76 /lb
+O ORGANICS MANGO                  0.84 S
+SW APPLE JUICE 64OZ               7.25 S
+TLP FLLTS                        21.66 S
+TILLAMOOK ICE CREAM 48 OZ         8.88 S
+  0.92 lb @ 1.79 /lb
+O ORGANICS BEETS                  1.65 S
+PLAIN GOAT CHS                    5.77 S
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          116.03
+TAX 10.55% ON 21.12                 2.23
+**** TOTAL                        118.26
+DEBIT TEND                        118.26
+CHANGE                              0.00
+
+02/28/28 09:00  ITEMS 16
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

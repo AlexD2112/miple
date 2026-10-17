@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3996  Seattle WA
+            MEMBER ************
+
+915782 SRRCH                          3.16 E
+186259 ORG BLACK BEANS 8 CANS         1.15 E
+8817108 TPD/ORG BLACK BE             0.35-  
+1287436 KS KOMBUCHA 16OZ             18.32 E
+     4 @ 4.58
+0760244 TPD/KOMBUCHA 16O             2.92-  
+1424216 FOSTER FARMS BNLS SKNLS CHK  43.55 E
+     5.70 lb @ 7.64 /lb
+238911 KS GALA APPLES                 1.27 E
+     0.55 lb @ 2.30 /lb
+554490 KS ORANGE JUICE                7.69 E
+1015698 ORG EGGS 24 CT                7.83 E
+1925331 LACROIX LIME SPRKLG WTR 8 PK  2.20 E
+
+SUBTOTAL                               81.90
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             81.90
+DISCOVER TEND                          81.90
+CHANGE                                  0.00
+
+12/31/26 19:10  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

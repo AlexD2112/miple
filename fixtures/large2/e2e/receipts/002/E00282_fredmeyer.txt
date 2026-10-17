@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 2771
+
+  2 @ 2.81
+CHKN BROTH 32 OZ                  5.62 F
+  2.18 lb @ 1.79 /lb
+BEETS                             3.90 F
+  3.77 lb @ 0.68 /lb
+PEACHES                           2.56 F
+
+SUBTOTAL                           12.08
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              12.08
+DEBIT TEND                         12.08
+CHANGE                              0.00
+
+09/11/26 11:23  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0060  Seattle WA
+            MEMBER ************
+
+1797979 BAGELS                        3.77 E
+457569 ORG BABY SPNCH 5 OZ            5.85 E
+257094 KS NAPKINS                    24.05 A
+354082 PEPSI 12 PK CANS               9.86 A
+     2 @ 4.93
+1104040 DAVES KILLER BRD 21 WHL GRAI  4.78 E
+65874 DISH SOAP                      19.39 A
+372670 FRZN DUMPLINGS                15.61 E
+138368 ZUCCHINI                       6.84 E
+     1.84 lb @ 3.72 /lb
+
+SUBTOTAL                               90.15
+TAX 10.55% ON 53.30                     5.62
+**** TOTAL                             95.77
+DEBIT TEND                             95.77
+CHANGE                                  0.00
+
+08/04/26 11:02  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

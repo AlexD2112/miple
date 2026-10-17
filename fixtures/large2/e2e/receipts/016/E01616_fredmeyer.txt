@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 0391
+
+CORN TORT                         2.79 F
+FM COLA 12PK                      1.83 T
+  REFUND - ORIG RECEIPT
+RETURN CORN TORT                 2.79- F
+
+SUBTOTAL                            1.83
+TAX 10.55% ON 1.83                  0.19
+TOTAL                               2.02
+AMEX TEND                           2.02
+CHANGE                              0.00
+
+02/29/28 11:06  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

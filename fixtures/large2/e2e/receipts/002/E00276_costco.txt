@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0325  Seattle WA
+            MEMBER ************
+
+1285436 KS POTATO CHIPS               5.07 E
+1428611 KS LMND 52OZ                 17.37 A
+     3 @ 5.79
+1698906 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+4223212 TPD/HOUSE FOODS              0.83-  
+53697 KS SPRING MIX                   5.44 E
+981554 KS BAGELS                      3.77 E
+2538555 TPD/BAGELS                   0.44-  
+1401536 JSMN RICE 25 LB               8.09 E
+3051496 TPD/JSMN RICE 25             1.64-  
+1570918 COD FLLT                     45.58 E
+     2.51 lb @ 18.16 /lb
+816213 DAVES KILLER BRD               6.69 E
+450686 KS PLSTC WRAP                  4.77 A
+364237 KS COLD BREW COFFEE 32OZ       8.86 E
+     2 @ 4.43
+618233 ALUMINUM FOIL                 18.03 A
+57963 AVOCADOS BAG 4 CT              14.16 E
+     4 @ 3.54
+1342163 SOY SCE                       6.79 E
+7029298 TPD/SOY SCE                  1.25-  
+1854819 BLACK FOREST HAM 9 OZ         7.00 E
+742546 KS WHL WHT SANDWICH BRD        5.08 E
+     2 @ 2.54
+9482028 TPD/WHL WHT SAND             0.87-  
+
+SUBTOTAL                              154.45
+TAX 10.55% ON 40.17                     4.24
+**** TOTAL                            158.69
+AMEX TEND                             158.69
+CHANGE                                  0.00
+
+07/09/26 17:52  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

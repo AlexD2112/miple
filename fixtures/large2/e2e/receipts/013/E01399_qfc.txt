@@ -1,0 +1,38 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1057
+
+PRIV SEL GROUND PORK              6.60 F
+SMPL TRTH TUNA CAN                1.08 F
+  2 @ 2.77
+PRIV SEL HAMBURGER BUNS           5.54 F
+ORGANIC SPRING MIX 1 LB           5.49 F
+  1.94 lb @ 18.16 /lb
+PRIV SEL COD FLLT                35.23 F
+BLACK BEANS 15 OZ CAN            10.76 F
+  3 @ 2.29
+PRIV SEL SILKEN TOFU              6.87 F
+FRZN PEAS 12 OZ                   5.40 F
+KRO SAVINGS                      1.62-  
+WHITE BRD                         6.34 F
+RIBEYE STEAK                     19.87 F
+  4 @ 4.42
+PRIV SEL DIET COLA 12PK CANS     17.68 T
+RUSSET POTS 5 LB BAG              4.53 F
+PRIV SEL KETCHUP                  5.49 F
+GRK YGRT 48 OZ                    1.97 F
+WILD COD FLLT                    18.56 F
+KRO OAT MLK                       3.10 F
+SMPL TRTH HALIBUT                10.82 F
+SMPL TRTH YELLOW ONIN             1.78 F
+KRO HALF AND HALF                 5.34 F
+
+SUBTOTAL                          170.83
+TAX 10.55% ON 17.68                 1.87
+TOTAL                             172.70
+DISCOVER TEND                     172.70
+CHANGE                              0.00
+
+02/15/26 19:18  ITEMS 25
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

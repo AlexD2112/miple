@@ -1,0 +1,60 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1898
+
+SMPL TRTH SWEET POTATOES          3.28 F
+CHKN BROTH CARTON                 8.38 F
+  3.56 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                6.98 F
+PRIV SEL CHKN THIGHS              9.29 F
+SMPL TRTH ICEBERG LTTC            5.11 F
+  3 @ 4.05
+SMPL TRTH AVOCADOS               12.15 F
+  2.37 lb @ 9.65 /lb
+PRIV SEL PORK TENDERLOIN         22.87 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+SPRKLG WTR                        3.74 F
+SMPL TRTH CHICKEN DRUMSTICKS      8.97 F
+
+SUBTOTAL                           83.55
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              83.55
+VISA TEND                          83.55
+CHANGE                              0.00
+
+08/01/26 08:03  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+----------------------------------------
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2932
+
+  0.36 lb @ 17.98 /lb
+UNEXPECTED CHDR                   6.47 F
+KRO SAVINGS                      1.92-  
+  3.61 lb @ 11.10 /lb
+PRIV SEL PORK CHOPS              40.07 F
+BROC CROWNS                       2.25 F
+PRIV SEL DIET COLA 12PK CANS      4.42 T
+DIGITAL CPN                      1.33- T
+BLACK FOREST HAM 9 OZ             7.00 F
+ARUGULA                           4.00 F
+MAYONNAISE 30 OZ                  6.42 F
+BOTTLED WTR 24PK                  9.32 F
+SMPL TRTH CAGE FREE EGGS 18CT     6.85 F
+LIGHT BULBS 4PK                  17.04 T
+GRND COFFEE                       9.64 F
+KRO DOG TREATS                    6.82 T
+SMPL TRTH BABY CARROTS            2.49 F
+SMPL TRTH POTATO CHIPS            5.07 F
+
+SUBTOTAL                          124.61
+TAX 10.55% ON 26.95                 2.84
+TOTAL                             127.45
+MASTERCARD TEND                   127.45
+CHANGE                              0.00
+
+08/01/26 16:23  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

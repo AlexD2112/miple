@@ -1,0 +1,20 @@
+                SAFEWAY
+         Store 0476  Seattle WA
+             (555) 010-3072
+
+TILLAMOOK MEDIUM CHEDDAR 2.5 LB   4.21 S
+  3 @ 2.45
+   BOTTLED WATER 40 PK               7.35 S
+SIG KTCHNS LEMONADE 52OZ          5.79 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+   SUBTOTAL                           17.51
+TAX 10.55% ON 5.95                  0.63   
+**** TOTAL                            18.14
+DEBIT TEND 18.14
+CHANGE	0.00
+
+04/14/26 20:41  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

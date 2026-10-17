@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3801  Seattle WA
+            MEMBER ************
+REG 19 TRN 3781 OPR 307
+
+663295 KS RASPB                       7.24 E
+1623721 KS BLACK FOREST HAM           5.24 E
+     0.37 lb @ 14.17 /lb
+307681 UNSLTD BTR 4 X 1 LB            9.48 E
+   ** MEMBER PRICE APPLIED **
+133273 KS SOURDOUGH LOAF              7.47 E
+676350 RUSSET POTATOES 5 LB BAG       4.53 E
+   REG PRICE 76.65
+2533815 TPD/RUSSET POTAT             1.36-  
+153646 KS BAGELS                      3.77 E
+4570253 TPD/BAGELS                   1.13-  
+
+SUBTOTAL                               35.24
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             35.24
+VISA TEND                              35.24
+CHANGE                                  0.00
+
+02/27/26 16:42  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+RETURNS WITHIN 90 DAYS
+TOTAL SAVINGS THIS YEAR   315.36
+AUTH CODE  786827
+REWARDS BALANCE           137.62
+                 THANK YOU

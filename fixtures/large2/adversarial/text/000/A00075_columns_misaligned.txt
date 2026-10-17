@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3234  Seattle WA
+            MEMBER ************
+
+929733 PNT BTR                            6.90 E
+861790 WHITE BRD 6.34 E
+  435764 KS SPAGHETTI                   9.54 E
+1976933 FRZN BROC FLORETS             8.13 E
+1352567 KS CHERRY TOMATOES            3.45 E
+     3 @ 1.15
+1407941 PARSNIPS                      3.04 E
+     1.25 lb @ 2.43 /lb
+1462361 KOMBUCHA 16OZ                  18.32 E
+     4 @ 4.58
+114994 KS BLCKBRRS                    3.92 E
+435771 SRIRACHA                       3.16 E
+558553 CILANTRO BUNCH                 8.08 E    
+     4 @ 2.02
+
+SUBTOTAL                               70.88
+TAX 10.55% ON 0.00 0.00
+**** TOTAL 70.88
+AMEX TEND                              70.88
+CHANGE                                  0.00
+
+07/15/26 14:16  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

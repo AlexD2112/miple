@@ -1,0 +1,61 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2155  Seattle WA
+            MEMBER ************
+
+280418 UNSALTED BUTTER                9.95 E
+1991183 AHI TUNA STEAK               14.71 E
+0707618 TPD/AHI TUNA STE             1.46-  
+1871048 GRND BF 80/20                 6.57 E
+0083755 TPD/GRND BF 80/2             0.94-  
+1142488 KS FLOUR TORT                 6.18 E
+595647 SLCD ROAST BF                  5.94 E
+1083158 SWEET POTS                    3.28 E
+591646 REDUCED FAT 2% MILK GALLON     6.54 E
+1872311 KS NAPKINS                   24.05 A
+0021162 TPD/NAPKINS                  2.14- A
+1989589 KS GRND TRKY                  5.19 E
+1310500 MAYONNAISE 30 OZ              6.42 E
+1176740 KS CRM CHS                    8.63 E
+4953254 TPD/CRM CHS                  2.20-  
+
+SUBTOTAL                               90.72
+TAX 10.55% ON 21.91                     2.31
+**** TOTAL                             93.03
+DEBIT TEND                             93.03
+CHANGE                                  0.00
+
+06/30/26 21:52  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2155  Seattle WA
+            MEMBER ************
+
+280418 UNSALTED BUTTER                9.95 E
+1991183 AHI TUNA STEAK               14.71 E
+0707618 TPD/AHI TUNA STE             1.46-  
+1871048 GRND BF 80/20                 6.57 E
+0083755 TPD/GRND BF 80/2             0.94-  
+1142488 KS FLOUR TORT                 6.18 E
+595647 SLCD ROAST BF                  5.94 E
+1083158 SWEET POTS                    3.28 E
+591646 REDUCED FAT 2% MILK GALLON     6.54 E
+1872311 KS NAPKINS                   24.05 A
+0021162 TPD/NAPKINS                  2.14- A
+1989589 KS GRND TRKY                  5.19 E
+1310500 MAYONNAISE 30 OZ              6.42 E
+1176740 KS CRM CHS                    8.63 E
+4953254 TPD/CRM CHS                  2.20-  
+
+SUBTOTAL                               90.72
+TAX 10.55% ON 21.91                     2.31
+**** TOTAL                             93.03
+DEBIT TEND                             93.03
+CHANGE                                  0.00
+
+06/30/26 21:52  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

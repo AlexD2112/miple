@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3319  Seattle WA
+            MEMBER ************
+
+864657 LEMON                          4.30 E
+298053 KS NAVEL ORANGES               2.02 E
+     2 @ 1.01
+247130 JALAPENO                       2.46 E
+     1.54 lb @ 1.60 /lb
+
+SUBTOTAL                                8.78
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                              8.78
+AMEX TEND                               8.78
+CHANGE                                  0.00
+
+06/27/26 13:19  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

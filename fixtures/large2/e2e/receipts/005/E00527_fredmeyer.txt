@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 1140
+
+FM CHKN DRMSTCKS                  8.97 F
+SILKEN TOFU                       2.29 F
+KRO SOURDOUGH LOAF                7.47 F
+  1.37 lb @ 2.08 /lb
+KIWI                              2.85 F
+MNDRN ORANGE CHKN                15.87 F
+RUSSET POTS 5 LB BAG              4.53 F
+ALMOND MLK                        5.08 F
+BLACK BEANS CAN                   8.77 F
+SMPL TRTH SLCD ROAST BF           5.94 F
+  REFUND - ORIG RECEIPT
+RETURN BLACK BEANS CAN           8.77- F
+
+SUBTOTAL                           53.00
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              53.00
+AMEX TEND                          53.00
+CHANGE                              0.00
+
+04/09/26 18:51  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

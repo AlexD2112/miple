@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0548
+
+GRSS-FD GRND BF 85/15             7.35 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+CHERRY TOM                        1.15 F
+MFR CPN                          0.35-  
+NAVEL ORANGES                     1.01 F
+ORG BLACK BEANS 8 CANS            1.15 F
+BLACK FOREST HAM 9 OZ             7.00 F
+  1.65 lb @ 5.06 /lb
+KRO GRND CHKN                     8.35 F
+SMPL TRTH RASPB                   7.24 F
+SMPL TRTH RED GRAPES              3.04 F
+ORG EGGS 24 CT                    7.83 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           52.89
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              52.92
+AMEX TEND                          52.92
+CHANGE                              0.00
+
+03/28/26 19:39  ITEMS 10
+T=TAXABLE  F=FOOD
+               THANK YOU

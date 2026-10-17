@@ -1,0 +1,18 @@
+                 THANK YOU
+A=TAXABLE  E=NONTAXABLE FOOD
+06/17/26 12:37  ITEMS 3
+
+CHANGE                                  0.00
+DEBIT TEND                              7.61
+**** TOTAL                              7.61
+TAX 8.625% ON 0.00                      0.00
+SUBTOTAL                                7.61
+
+631754 KS HAMBURGER BUNS              2.77 E
+119138 NAVEL ORANGES                  1.01 E
+1919014 KS COCONUT MLK CAN            3.83 E
+
+            MEMBER ************
+     Warehouse #1507  San Francisco CA
+                 WHOLESALE
+                   COSTCO

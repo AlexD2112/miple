@@ -1,0 +1,20 @@
+                 TARGET
+           Seattle WA  T-3057
+             (555) 030-2856
+
+CROISSANTS 12 CT                  4.87 N
+GG DELI FRIED CHKN               11.75 T
+MKT PANTRY ITALIAN SAUSAGE BULK   9.93 N
+GG DICED TOM CAN                  2.98 N
+FRESH DILL                        0.90 N
+GG LG BROWN EGGS                  4.29 N
+
+SUBTOTAL                           34.72
+TAX 10.55% ON 11.75                 1.24
+TOTAL                              35.96
+AMEX TEND                          35.96
+CHANGE                              0.00
+
+03/30/26 20:26  ITEMS 6
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

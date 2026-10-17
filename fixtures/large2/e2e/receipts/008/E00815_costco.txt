@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1346  Seattle WA
+            MEMBER ************
+
+1833490 KS LEMONS                     4.19 E
+1990380 ITALIAN PRSLY                 2.93 E
+1555702 DISH SOAP                    19.39 A
+319407 OLD FASHIONED ROLLED OATS 42  17.43 E
+348628 KS GRND TRKY                   5.19 E
+963409 BRLL PENNE                    19.37 E
+1975330 STRWB 2 LB                    5.88 E
+1103591 KS PARMIGIANO REGGIANO        7.82 E
+1111908 DOUBLE CREME BRIE             5.40 E
+981964 KS RED GRAPES                  3.04 E
+1002840 2% MLK 2 X 1 GAL              4.70 E
+1804224 BLACK FOREST HAM 9 OZ         7.00 E
+1245609 KS SPNGS 3PK                  9.54 A
+473064 KS PASTURE RAISED EGGS         7.37 E
+1574593 KS KALE                      12.51 E
+     3 @ 4.17
+658399 KS ENGLSH CUCUMBER             3.57 E
+     1.02 lb @ 3.50 /lb
+538604 KS LEMONADE 52OZ              17.37 A
+     3 @ 5.79
+1961801 AHI TUNA STEAK               14.71 E
+
+SUBTOTAL                              167.41
+TAX 10.55% ON 46.30                     4.88
+**** TOTAL                            172.29
+VISA TEND                             172.29
+CHANGE                                  0.00
+
+09/29/26 11:43  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

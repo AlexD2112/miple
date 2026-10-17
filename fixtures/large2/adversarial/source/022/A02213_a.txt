@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 1383  Seattle WA
+             (555) 010-9231
+
+  REFUND - ORIG RECEIPT
+RETURN ORG ITALIAN PARSLEY       1.95- S
+RETURN BRUSSELS SPROUTS          2.40- S
+RETURN SIG SLCT PENNE           13.38- S
+
+SUBTOTAL                          17.73-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                        17.73-
+VISA TEND                         17.73-
+CHANGE                              0.00
+
+03/03/26 20:33  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

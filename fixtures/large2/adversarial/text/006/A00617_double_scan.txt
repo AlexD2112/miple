@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0031  Seattle WA
+            MEMBER ************
+
+178123 CILANTRO BUNCH                 2.02 E
+1755862 TPD/CILANTRO BUN             0.55-  
+1941860 EVERYTHING BUT THE BAGEL SEA  7.01 E
+9242299 TPD/EVERYTHING B             1.83-  
+1320872 KS COLD BREW COFFEE 32OZ      4.43 E
+277769 ENGLSH CUCUMBER               11.03 E
+     3.15 lb @ 3.50 /lb
+1691000 KS WHOLE CHICKEN             21.40 E
+     3.38 lb @ 6.33 /lb
+3398721 TPD/WHOLE CHICKE             1.83-  
+1499892 KS AVOCADOS                   4.05 E
+     3.38 lb @ 6.33 /lb
+3398721 TPD/WHOLE CHICKE             1.83-  
+1499892 KS AVOCADOS                   4.05 E
+1762065 SRIRACHA                     12.64 E
+     4 @ 3.16
+
+SUBTOTAL                               58.37
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             58.37
+DEBIT TEND                             58.37
+CHANGE                                  0.00
+
+01/12/26 18:58  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

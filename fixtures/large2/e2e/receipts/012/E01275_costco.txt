@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0384  Seattle WA
+            MEMBER ************
+
+1027388 KS GRK YGRT PLAIN             4.11 E
+1976685 KS COLD BREW COFFEE 32OZ      4.43 E
+783976 STRWB 2 LB                     5.88 E
+1083102 GRNLA BRS                     6.07 E
+160512 FLOUR TORT                     6.18 E
+890199 BABY SPNCH                     5.42 E
+3411085 TPD/BABY SPNCH               1.23-  
+1882867 KS KALE                       4.17 E
+746676 BNLS RIBEYE STEAK             54.30 E
+     3.49 lb @ 15.56 /lb
+113112 ORGANIC RASPBERRIES 6 OZ       6.28 E
+542605 KS PNT BTR                     6.90 E
+1465174 KS HAMBURGER BUNS             8.31 E
+     3 @ 2.77
+1215258 HEINZ KTCHP 32 OZ             4.48 E
+946308 DIET COLA 12PK CANS           13.26 A
+     3 @ 4.42
+1326168 KS COLD BREW COFFEE 32OZ      4.43 E
+1486799 ORG BABY SPNCH                5.54 E
+2312012 TPD/ORG BABY SPN             1.66-  
+1086164 KALE                          4.17 E
+1869278 MYNNS 30 OZ                   6.42 E
+
+SUBTOTAL                              147.46
+TAX 10.55% ON 13.26                     1.40
+**** TOTAL                            148.86
+DISCOVER TEND                         148.86
+CHANGE                                  0.00
+
+07/31/26 18:54  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

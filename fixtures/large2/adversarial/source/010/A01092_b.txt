@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1819
+
+ORG BABY SPNCH 5 OZ               5.85 F
+  0.69 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                1.35 F
+SMPL TRTH RASPBERRIES             7.24 F
+  2 @ 2.74
+SMPL TRTH FRESH MINT              5.48 F
+KRO BAGELS                        3.77 F
+  4 @ 4.48
+HEINZ KETCHUP 32 OZ              17.92 F
+  2.66 lb @ 0.76 /lb
+SMPL TRTH MANGO                   2.02 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           43.79
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              43.81
+DISCOVER TEND                      43.81
+CHANGE                              0.00
+
+02/13/26 13:12  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

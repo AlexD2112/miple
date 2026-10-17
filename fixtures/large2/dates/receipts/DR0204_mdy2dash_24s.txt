@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 2663
+
+KRO HAND SOAP                    24.27 F
+MFR CPN                          2.29-  
+BOTTLED WTR 40 PK                 2.45 F
+  40 @ 0.10
+OR BTL DEP                        4.00  
+SMPL TRTH CHKN BROTH CARTON       8.38 F
+LG BROWN CAGE FREE EGGS           4.10 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+
+SUBTOTAL                           43.47
+TAX                                 0.00
+TOTAL                              43.47
+MASTERCARD TEND                    43.47
+CHANGE                              0.00
+
+04-15-25 08:12:51  3026 07 378 4
+ITEMS 5   REG 01  TRANS 2181
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

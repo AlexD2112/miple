@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 1221
+
+UNSLTD BTR 4 X 1 LB               9.48 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+  3.89 lb @ 13.74 /lb
+FM CHUCK ROAST                   53.45 F
+SMPL TRTH KTCHP                   5.49 F
+SMPL TRTH GRNLA BRS               6.07 F
+FM AHI TUNA STEAK                14.71 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+ICEBERG LETTUCE                   5.11 F
+KRO GINGER ALE 12PK               6.02 T
+FM PLUS CARD SAV                 1.72- T
+UNSLTD BTR 4 X 1 LB               9.48 F
+FRZN BROC FLORETS                 8.13 F
+SMPL TRTH CHERRIES                5.69 F
+KRO SPARKLING WATER               3.74 F
+  3 @ 4.61
+BLUBRY 18 OZ                     13.83 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+  4.26 lb @ 5.06 /lb
+GRND CHKN                        21.56 F
+SMPL TRTH RED GRAPES              3.04 F
+CHKN DRUMSTICKS                   8.97 F
+
+SUBTOTAL                          199.64
+TAX 10.55% ON 13.13                 1.39
+TOTAL                             201.03
+DEBIT TEND                        201.03
+CHANGE                              0.00
+
+08/18/26 09:01  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

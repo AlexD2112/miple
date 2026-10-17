@@ -1,0 +1,16 @@
+                SAFEWAY
+      Store 1948  San Francisco CA
+             (555) 010-0798
+
+BRIE                              4.85 S
+PARMIGIANO REGGIANO WEDGE         8.42 S
+
+SUBTOTAL                           13.27
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         13.27
+CASH TEND                          20.00
+CHANGE                              6.73
+
+02/11/26 15:42  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

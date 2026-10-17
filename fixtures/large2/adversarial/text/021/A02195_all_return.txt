@@ -1,0 +1,23 @@
+                 TARGET
+        San Francisco CA  T-2634
+             (555) 030-4806
+
+  REFUND - ORIG RECEIPT
+RETURN GALA APPLES               7.68- N
+  REFUND - ORIG RECEIPT
+RETURN BNLS RIBEYE STEAK        22.10- N
+  REFUND - ORIG RECEIPT
+RETURN GG CAGE FREE EGGS 18CT    6.85- N
+RETURN STRWB 2 LB               23.52- N
+RETURN ORGANIC EGGS 24 CT        7.83- N
+RETURN MKT PANTRY HAMBURGER BUN  5.54- N
+
+SUBTOTAL                          73.52-
+TAX 8.625% ON 0.00                  0.00
+TOTAL                             73.52-
+AMEX TEND                         73.52-
+CHANGE                              0.00
+
+03/28/26 07:15  ITEMS 0
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

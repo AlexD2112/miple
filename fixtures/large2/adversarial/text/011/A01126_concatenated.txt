@@ -1,0 +1,47 @@
+                 TARGET
+           Seattle WA  T-0439
+             (555) 030-1021
+
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 N
+  2.51 lb @ 6.33 /lb
+GG WHL CHKN                      15.89 N
+TARGET CIRCLE OFFER              1.00-  
+GG HAMBURGER BUNS                 2.77 N
+TARGET CIRCLE OFFER              0.83-  
+ORG BABY SPNCH                    5.54 N
+TARGET CIRCLE OFFER              0.76-  
+
+SUBTOTAL                           25.82
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              25.82
+DISCOVER TEND                      25.82
+CHANGE                              0.00
+
+02/10/26 11:26  ITEMS 4
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU
+
+           WHOLE FOODS MARKET
+            San Francisco CA
+             (555) 020-6738
+
+PLASTIC WRAP                      4.77 T
+365 ORG POTATO CHIPS              5.07 F
+WF POTATO CHIPS                   5.07 F
+DELI FRIED CHKN                  11.75 T
+  0.81 lb @ 7.09 /lb
+WF TRKY BRST                      5.74 F
+JASMINE RICE 25 LB                8.09 F
+WF RASPBERRIES                    7.24 F
+SHREDDED MOZZ 8 OZ                2.92 F
+365 ORG FROZEN WAFFLES            7.05 F
+
+SUBTOTAL                           57.70
+TAX 8.625% ON 16.52                 1.42
+TOTAL                              59.12
+VISA TEND                          59.12
+CHANGE                              0.00
+
+07/06/26 11:15  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

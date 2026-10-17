@@ -1,0 +1,32 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+10/17/26 10:03  ITEMS 16
+
+CHANGE                              0.00
+AMEX TEND                         115.53
+TOTAL                             115.53
+TAX 10.55% ON 38.08                 4.02
+SUBTOTAL                          111.51
+
+SMPL TRTH ALMOND MILK             5.08 F
+ITALIAN PARSLEY                   5.86 F
+  2 @ 2.93
+KRO WHL WHT SNDWCH BRD            2.54 F
+BTR LTTC                          2.45 F
+KRO CAT LITTER                   14.03 T
+NAPKINS                          24.05 T
+KRO SAVINGS                      1.42-  
+SLCD SRDGH PAN LOAF               4.74 F
+SMPL TRTH FRESH DILL              0.90 F
+PRIV SEL GRND PORK                6.60 F
+PRIV SEL SILKEN TOFU              2.29 F
+TILAPIA FILLETS                  21.66 F
+BROC CROWNS                       2.25 F
+SMPL TRTH JALAPENO                6.29 F
+  3.93 lb @ 1.60 /lb
+LG EGGS 18 CT                     7.52 F
+DARIGOLD UNSLTD BTR               6.67 F
+
+         Seattle WA  Store 2556
+          Quality Food Centers
+                  QFC

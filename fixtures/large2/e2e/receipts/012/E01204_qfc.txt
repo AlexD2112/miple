@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0024
+
+RASPB                             7.24 F
+CHRRS                             5.69 F
+SLCD SOURDOUGH PAN LOAF           4.74 F
+MFR CPN                          0.89-  
+  REFUND - ORIG RECEIPT
+RETURN SLCD SOURDOUGH PAN LOAF   4.74- F
+
+SUBTOTAL                           12.04
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              12.04
+DEBIT TEND                         12.04
+CHANGE                              0.00
+
+09/15/26 16:18  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

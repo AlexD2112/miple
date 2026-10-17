@@ -1,0 +1,18 @@
+                SAFEWAY
+      Store 0506  San Francisco CA
+             (555) 010-1478
+
+  REFUND - ORIG RECEIPT
+RETURN O ORGANICS LEMONS         4.19- S
+  REFUND - ORIG RECEIPT
+RETURN COCA-COLA 12 PK CANS      5.54- T
+
+SUBTOTAL                           9.73-
+TAX 8.625% ON 5.54-                0.48-
+**** TOTAL                        10.21-
+DEBIT TEND                        10.21-
+CHANGE                              0.00
+
+03/22/26 10:47  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

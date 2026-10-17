@@ -1,0 +1,39 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0037
+
+PRIV SEL GROUND TURKEY            5.19 F
+LIGHT BULBS 4PK                  17.04 T
+PRIV SEL SOY SCE                  6.79 F
+DICED TOM 14.5 OZ                 1.00 F
+SPONGES 3PK                       9.54 T
+  2.44 lb @ 6.69 /lb
+SMPL TRTH BONELESS SKINLESS CHI  16.32 F
+  2 @ 2.25
+SMPL TRTH BROCCOLI CROWNS         4.50 F
+2% MILK HALF GALLON               6.08 F
+SMPL TRTH SPRING MIX              5.44 F
+MFR CPN                          1.63-  
+SHREDDED CHDR 8 OZ                6.42 F
+KRO LAUNDRY DETERGENT PODS       20.18 T
+BRLL PENNE                       19.37 F
+  2 @ 5.69
+SMPL TRTH CHERRIES               11.38 F
+CLFLWR GNOCCHI                    7.85 F
+  1.92 lb @ 1.79 /lb
+BEETS                             3.44 F
+TSTTS SCOOPS TORTILLA CHIPS       3.46 F
+PRIV SEL DICED TOM CAN            2.98 F
+  2 @ 2.09
+PRIV SEL SALSA JAR                4.18 F
+MAYONNAISE 30 OZ                  6.42 F
+
+SUBTOTAL                          155.95
+TAX 10.55% ON 46.76                 4.93
+TOTAL                             160.88
+VISA TEND                         160.88
+CHANGE                              0.00
+
+01/13/26 07:48  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 0297
+
+LG BROWN CAGE FREE EGGS           4.10 F
+  1.60 lb @ 2.83 /lb
+ORG LEMONS                        4.53 F
+RUSSET POTS 5 LB BAG              4.53 F
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+
+SUBTOTAL                           17.83
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              17.83
+MASTERCARD TEND                    17.83
+CHANGE                              0.00
+
+10/05/26 18:08  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

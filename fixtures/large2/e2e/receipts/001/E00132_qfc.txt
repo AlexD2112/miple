@@ -1,0 +1,41 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0341
+
+CRM CHS 8 OZ                      3.15 F
+SMPL TRTH TILAPIA FILLETS        21.66 F
+  0.29 lb @ 0.76 /lb
+SMPL TRTH MANGO                   0.22 F
+  3 @ 2.32
+KRO EXTRA FIRM TOFU               6.96 F
+MFR CPN                          2.09-  
+DOUBLE CREME BRIE                 5.40 F
+LG EGGS 18 CT                     7.52 F
+GREEN BEANS                       2.31 F
+ORG BABY SPNCH                    5.54 F
+KRO SOY SCE                       6.79 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+SMPL TRTH SOY SCE                 6.79 F
+MFR CPN                          0.78-  
+LEMON                             4.30 F
+  0.31 lb @ 14.17 /lb
+SMPL TRTH BLACK FOREST HAM        4.39 F
+CHKN GYOZA PTSTCKRS               9.88 F
+  3 @ 3.77
+BABY SPNCH 5 OZ                  11.31 F
+KRO SAVINGS                      2.72-  
+LIMES                             2.80 F
+MFR CPN                          0.84-  
+RASPBERRIES                       7.24 F
+KRO FLOUR TORT                    6.18 F
+STRWB 2 LB                        5.88 F
+
+SUBTOTAL                          116.67
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             116.67
+VISA TEND                         116.67
+CHANGE                              0.00
+
+08/19/26 14:55  ITEMS 23
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

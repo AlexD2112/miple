@@ -1,0 +1,31 @@
+               FRED MEYER
+              Portland OR
+               Store 1816
+
+KRO FRZN BROC                     1.72 F
+LEMONS                            4.19 F
+FM PLUS CARD SAV                 1.26-  
+SMPL TRTH JASMINE RICE           12.13 F
+MFR CPN                          1.27-  
+FM OAT MLK                        3.10 F
+  3.11 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             30.88 F
+BATH TISSUE 12 ROLL              23.08 F
+KRO DISH SOAP                    19.39 F
+KRO CCNT MLK CAN                  3.83 F
+  3.56 lb @ 3.76 /lb
+SMPL TRTH CAULIFLOWER            13.39 F
+KRO SRDGH LOAF                    7.47 F
+KRO GRNLA BRS                     6.07 F
+  0.54 lb @ 3.50 /lb
+SMPL TRTH ENGLISH CUCUMBER        1.89 F
+
+SUBTOTAL                          124.61
+TAX                                 0.00
+TOTAL                             124.61
+DISCOVER TEND                     124.61
+CHANGE                              0.00
+
+09/05/26 11:59  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

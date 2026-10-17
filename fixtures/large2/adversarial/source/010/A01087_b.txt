@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0627  Seattle WA
+            MEMBER ************
+
+8348 KS CARROTS                       1.79 E
+162790 BLACK BEANS 15 OZ CAN         10.76 E
+115218 KS JASMINE RICE               12.13 E
+1304439 KS KMBCH 16OZ                 4.58 E
+1297685 KS HAND SOAP                 24.27 A
+568278 APPLE JUICE 64OZ               7.25 E
+493363 MANDARIN ORANGE CHICKEN       15.87 E
+9387871 TPD/MANDARIN ORA             1.15-  
+1440787 GREEN BEANS                   4.62 E
+     2 @ 2.31
+1170502 COLD BREW COFFEE 32OZ         4.43 E
+504342 KS FRESH MINT                  2.74 E
+437932 KS BAGGED CAESAR SALAD KIT     4.42 E
+     2 @ 2.21
+
+SUBTOTAL                               91.71
+TAX 10.55% ON 24.27                     2.56
+**** TOTAL                             94.27
+DISCOVER TEND                          94.27
+CHANGE                                  0.00
+
+07/10/26 12:01  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

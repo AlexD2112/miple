@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1633  Seattle WA
+            MEMBER ************
+
+1663440 KS ARGL                       4.00 E
+1453347 CRL                           6.63 E
+1035062 KS PORK TENDERLOIN           12.26 E
+     1.27 lb @ 9.65 /lb
+808633 OLD FASHIONED ROLLED OATS 42  17.43 E
+249078 PLAIN NONFAT GRK YGRT          4.65 E
+1533472 KS SLCD ROAST BF              5.94 E
+260876 KS FRZN WAFFLES                7.05 E
+
+SUBTOTAL                               57.96
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             57.96
+DISCOVER TEND                          57.96
+CHANGE                                  0.00
+
+07/29/26 20:10  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

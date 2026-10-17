@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3704
+
+  3 @ 3.16
+PRIV SEL SRIRACHA                 9.48 F
+SLCD ROAST BF                     5.94 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           15.58
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              15.60
+DEBIT TEND                         15.60
+CHANGE                              0.00
+
+12/30/27 12:42 AM  9766 22 880 1
+ITEMS 10   REG 12  TRANS 7519
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

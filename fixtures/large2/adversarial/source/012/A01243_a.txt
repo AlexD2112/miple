@@ -1,0 +1,25 @@
+               FRED MEYER
+              Portland OR
+               Store 2369
+
+SMPL TRTH LIMES                   2.80 F
+  3.44 lb @ 5.06 /lb
+KRO GROUND CHICKEN               17.41 F
+DARIGOLD UNSLTD BTR               6.67 F
+KRO TORTILLA CHIPS                3.33 F
+SPRKLG WTR 8PK                    5.13 F
+  8 @ 0.10
+OR BTL DEP                        0.80  
+GRK YGRT PLAIN                    4.11 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           40.40
+TAX                                 0.00
+TOTAL                              40.40
+DEBIT TEND                         40.40
+CHANGE                              0.00
+
+08/04/26 10:25  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

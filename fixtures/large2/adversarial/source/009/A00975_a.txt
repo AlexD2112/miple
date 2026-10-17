@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1311
+
+KRO WHL WHT SNDWCH BRD            2.54 F
+SLCD ROAST BF                     5.94 F
+CARROTS 2 LB                      1.74 F
+TOSTITOS SCOOPS TORTILLA CHIPS    3.46 F
+  1.71 lb @ 18.16 /lb
+COD FLLT                         31.05 F
+KRO SPONGES 3PK                   9.54 T
+  0.47 lb @ 0.68 /lb
+SMPL TRTH PEACHES                 0.32 F
+  2 @ 3.99
+FM RANCH DRESSING                 7.98 F
+
+SUBTOTAL                           62.57
+TAX 10.55% ON 9.54                  1.01
+TOTAL                              63.58
+VISA TEND                          63.58
+CHANGE                              0.00
+
+10/05/26 15:13  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

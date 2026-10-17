@@ -1,0 +1,29 @@
+                SAFEWAY
+         Store 3478  Seattle WA
+             (555) 010-2425
+REG 13 TRN 5848 OPR 726
+OPEN 6AM - 12AM
+FUEL POINTS BALANCE     656
+
+SHMP                             17.57 T
+SIG KTCHNS ALL PURPOSE FLOUR     11.36 S
+  2 @ 2.02
+CILANTRO BUNCH                    4.04 S
+RUSSET POTS 5 LB BAG              4.53 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           37.74
+TAX 10.55% ON 17.81                 1.88
+**** TOTAL                         39.62
+DEBIT TEND                         39.62
+CHANGE                              0.00
+
+03/02/26 12:01  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+FUEL POINTS THIS ORDER        228
+AUTH CODE  113116
+SURVEY CODE 2924 4497 7366
+NEXT VISIT COUPON          3.00 OFF
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+               THANK YOU

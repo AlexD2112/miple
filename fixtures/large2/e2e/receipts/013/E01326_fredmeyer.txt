@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 1811
+
+SMPL TRTH YELLOW ONIN             1.78 F
+KRO PREPARED MAC & CHS           10.62 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           12.64
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              12.67
+MASTERCARD TEND                    12.67
+CHANGE                              0.00
+
+06/06/26 20:25  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

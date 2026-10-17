@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2814  Seattle WA
+            MEMBER ************
+
+936151 RED GRAPES                     3.04 E
+1219528 CHKN GYOZA PTSTCKRS           9.88 E
+967689 AVOCADOS                       4.05 E
+185524 GENOA SALAMI                   4.76 E
+1088876 KS BRUSSELS SPROUTS           1.17 E
+     0.50 lb @ 2.33 /lb
+97451 JSMN RICE 25 LB                 8.09 E
+1803406 WHITE SANDWICH BRD            7.03 E
+559253 COD FILLET                    13.98 E
+     0.77 lb @ 18.16 /lb
+
+SUBTOTAL                               52.00
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             52.00
+VISA TEND                              52.00
+CHANGE                                  0.00
+
+04/04/30 21:07  910 910 1084 21
+ITEMS 22   REG 17  TRANS 2759
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

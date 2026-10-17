@@ -1,0 +1,40 @@
+                 THANK YOU
+A=TAXABLE  E=NONTAXABLE FOOD
+10/16/26 08:35  ITEMS 20
+
+CHANGE                                  0.00
+DISCOVER TEND                         125.95
+**** TOTAL                            125.95
+TAX 10.55% ON 40.34                     4.26
+SUBTOTAL                              121.69
+
+7064095 TPD/SPARKLING WA             2.65-  
+     4 @ 3.74
+1355779 SPARKLING WATER              14.96 E
+1845322 TPD/BATH TISSUE              1.68- A
+695958 KS BATH TISSUE 12 ROLL        23.08 A
+493089 SHREDDED MOZZARELLA 8 OZ       2.92 E
+     1.22 lb @ 2.30 /lb
+1620809 GALA APPLES                   2.81 E
+582220 KS BLUEBERRIES                 5.87 E
+     2 @ 4.05
+1582474 KS AVCDS                      8.10 E
+1512876 APPLE JUICE 64OZ              7.25 E
+588248 KS BLACK BEANS CAN             8.77 E
+3313389 TPD/TTHPST                   0.99- A
+1835407 KS TTHPST                    16.40 A
+1511236 PRMGN RGGN                    7.82 E
+6352220 TPD/BLACK FOREST             1.74-  
+     0.41 lb @ 14.17 /lb
+1857784 BLACK FOREST HAM              5.81 E
+1282806 SHRDDD MOZZ 8 OZ              2.92 E
+82139 GRND PORK                       6.60 E
+0691621 TPD/ROTIS CHKN               1.51- A
+1210099 KS ROTIS CHKN                 5.04 A
+1924702 BLACK BEANS 15 OZ CAN        10.76 E
+1083701 KS CHERRY TOM                 1.15 E
+
+            MEMBER ************
+        Warehouse #1867  Seattle WA
+                 WHOLESALE
+                   COSTCO

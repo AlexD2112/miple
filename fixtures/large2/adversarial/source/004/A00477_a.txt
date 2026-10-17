@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 3448
+
+SMPL TRTH SPGHTT                  9.54 F
+  0.90 lb @ 1.25 /lb
+SMPL TRTH PNPPL                   1.13 F
+  1.94 lb @ 2.83 /lb
+ORG LEMONS                        5.49 F
+HEINZ KETCHUP 32 OZ               4.48 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           20.80
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              20.82
+VISA TEND                          20.82
+CHANGE                              0.00
+
+04/15/26 16:37  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

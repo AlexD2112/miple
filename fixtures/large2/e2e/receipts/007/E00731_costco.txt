@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3616  Seattle WA
+            MEMBER ************
+
+125457 KS CHERRY TOM                  4.60 E
+     4 @ 1.15
+1747566 BARILLA PENNE                19.37 E
+1662363 KS SWISS CHS                  9.16 E
+     0.99 lb @ 9.25 /lb
+1158073 GENOA SALAMI                  4.76 E
+45124 KS GENOA SALAMI                 4.76 E
+1765756 HASS AVCD LG                  2.77 E
+     0.83 lb @ 3.34 /lb
+  REFUND - ORIG RECEIPT
+RETURN 1158073 GENOA SALAMI          4.76- E
+
+SUBTOTAL                               40.66
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             40.66
+DEBIT TEND                             40.66
+CHANGE                                  0.00
+
+02/24/26 21:05  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

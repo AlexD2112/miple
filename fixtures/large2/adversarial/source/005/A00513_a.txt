@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 3012
+
+BLACK BEANS 15 OZ CAN            10.76 F
+  2 @ 5.11
+ICEBERG LTTC                     10.22 F
+SMPL TRTH COLA 12PK               1.83 T
+WHITE SNDWCH BRD                  7.03 F
+CELERY HEARTS                     4.34 F
+  0.37 lb @ 13.18 /lb
+SLCD TRKY BRST                    4.88 F
+FM PLUS CARD SAV                 1.46-  
+SMPL TRTH BLACK BEANS CAN         8.77 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           46.61
+TAX 10.55% ON 2.07                  0.22
+TOTAL                              46.83
+AMEX TEND                          46.83
+CHANGE                              0.00
+
+05/14/26 09:52  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

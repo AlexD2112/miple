@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0528  Seattle WA
+            MEMBER ************
+
+1477100 KS CHUCK ROAST               36.41 E
+     2.65 lb @ 13.74 /lb
+593402 KS SPAGHETTI                   9.54 E
+503889 STRWB 1 LB                     5.22 E
+1196580 CRSSNTS 12 CT                 4.87 E
+901839 KS GREETING CARD              20.34 A
+1259370 FROZEN THREE BERRY BLEND 4 L  2.56 E
+1482050 BLACK FOREST HAM             17.15 E
+     1.21 lb @ 14.17 /lb
+304922 2% MLK 2 X 1 GAL               4.70 E
+
+SUBTOTAL                              100.79
+TAX 10.55% ON 20.34                     2.15
+**** TOTAL                            102.94
+MASTERCARD TEND                       102.94
+CHANGE                                  0.00
+
+12/31/26 13:33  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

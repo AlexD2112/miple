@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3972
+
+PRIV SEL RIBEYE STEAK            19.87 F
+  0.79 lb @ 3.34 /lb
+HASS AVCD LG                      2.64 F
+MFR CPN                          0.79-  
+LEMON                             4.30 F
+PLAIN NONFAT GRK YGRT             4.65 F
+KRO SAVINGS                      1.40-  
+BIBIGO PORK MANDU DMPLNGS 6 LB   10.32 F
+MFR CPN                          2.78-  
+BLACK BEANS 15 OZ CAN            10.76 F
+PAPER TOWELS 6 ROLL               3.75 T
+  3.86 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  29.49 F
+
+SUBTOTAL                           80.81
+TAX 10.55% ON 3.75                  0.40
+TOTAL                              81.21
+DEBIT TEND                         81.21
+CHANGE                              0.00
+
+06/29/26 09:09  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0359  Seattle WA
+            MEMBER ************
+
+998178 KS SPRKLG WTR                  3.74 E
+1297001 MISSION FLOUR TORT 40 CT      5.22 E
+1240905 WHITE BRD                     6.34 E
+273511 KS PEACHES                     0.52 E
+     0.77 lb @ 0.68 /lb
+135263 ZUCCHINI                       9.15 E
+     2.46 lb @ 3.72 /lb
+7165640 TPD/ZUCCHINI                 1.27-  
+847753 KS LAMB CHOPS                 11.44 E
+     0.67 lb @ 17.07 /lb
+1193800 ORG ITALIAN PRSLY             1.95 E
+5033754 TPD/ORG ITALIAN              0.59-  
+429319 ORG GRAPE TOM PINT             0.80 E
+     0.41 lb @ 1.96 /lb
+1203430 BLUBRY                       17.61 E
+     3 @ 5.87
+1573618 KS LAMB CHOPS                22.53 E
+     1.32 lb @ 17.07 /lb
+572545 KS KALE                        4.17 E
+1725117 KS GINGER ALE 12PK            6.02 A
+230908 KS LG BROWN EGGS               4.29 E
+1432895 DIJON MSTRD                   2.46 E
+8606128 TPD/DIJON MSTRD              0.74-  
+1928093 HEINZ KETCHUP 32 OZ          17.92 E
+     4 @ 4.48
+1844931 CAULIFLOWER                   6.09 E
+     1.62 lb @ 3.76 /lb
+1829002 KS FRZN PIZZA                13.30 E
+314612 ORG ROMAINE HEARTS 3 CT        3.76 E
+289945 KS OAT MLK                     3.10 E
+
+SUBTOTAL                              137.81
+TAX 10.55% ON 6.02                      0.64
+**** TOTAL                            138.45
+MASTERCARD TEND                       138.45
+CHANGE                                  0.00
+
+09/26/26 10:48  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

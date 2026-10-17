@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3761  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1370173 BABY SPNCH 5 OZ      11.31- E
+RETURN 1811908 BIBIGO PORK MANDU D  10.32- E
+RETURN 1193651 KS COTTAGE CHS        3.21- E
+
+SUBTOTAL                              24.84-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            24.84-
+MASTERCARD TEND                       24.84-
+CHANGE                                  0.00
+
+06/05/26 16:17  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2589  Seattle WA
+            MEMBER ************
+
+1703879 SHREDDED CHDR 8 OZ            6.42 F
+1245489 FLOWERS BOUQUET              23.70 T
+1709690 PASTURE RAISED EGGS           7.37 F
+1993280 KS SLCD TRKY BRST            12.92 F
+     0.98 lb @ 13.18 /lb
+174518 BNLS CHKN THIGHS              21.05 F
+     4.85 lb @ 4.34 /lb
+344741 KS GRND COFFEE                 9.64 F
+1475957 KS GRND COFFEE                9.64 F
+966881 ORG BABY SPNCH 5 OZ            5.85 F
+5532400 TPD/ORG BABY SPN             1.31-  
+1800065 KS RICOTTA                    8.76 F
+802152 TORTILLA CHIPS                 3.33 F
+1507362 HALF & HALF                   5.34 F
+1904129 BLACK BEANS 15 OZ CAN        10.76 F
+706178 ORGANIC ROMAINE HEARTS 3 CT   11.28 F
+     3 @ 3.76
+1569511 KS RANCH DRESSING             3.99 F
+320239 ORG EGGS 24 CT                 7.83 F
+
+SUBTOTAL                              146.57
+TAX 10.55% ON 23.70                     2.50
+**** TOTAL                            149.07
+DEBIT TEND                            149.07
+CHANGE                                  0.00
+
+01/18/26 10:08  ITEMS 17
+T=TAXABLE  F=FOOD
+                 THANK YOU

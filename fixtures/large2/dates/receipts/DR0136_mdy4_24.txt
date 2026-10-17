@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2065  San Francisco CA
+            MEMBER ************
+
+586801 KS SHRP CHDR BLOCK            10.33 E
+874797 KS LEMONS                      4.19 E
+9646597 TPD/LEMONS                   1.26-  
+1666251 KS DRIED LENTILS              8.52 E
+     2 @ 4.26
+750874 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+1013847 KS ITALIAN SAUSAGE BULK       9.93 E
+929404 KS GREEN ONIN BUNCH            2.59 E
+9196021 TPD/GREEN ONIN B             0.78-  
+871703 KS GROUND BEEF 80/20           6.57 E
+594072 FRZN THREE BERRY BLEND 4 LB    5.12 E
+     2 @ 2.56
+0180470 TPD/FRZN THREE B             1.54-  
+
+SUBTOTAL                               46.45
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             46.45
+AMEX TEND                              46.45
+CHANGE                                  0.00
+
+09/16/2024 00:40  663 663 2560 27
+ITEMS 26   REG 19  TRANS 5595
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

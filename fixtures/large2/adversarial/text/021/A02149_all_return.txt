@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 1622
+
+  REFUND - ORIG RECEIPT
+RETURN FM SILKEN TOFU            2.29- F
+RETURN SMPL TRTH CHERRY TOMATOE  1.15- F
+  REFUND - ORIG RECEIPT
+RETURN WHITE SNDWCH BRD          7.03- F
+
+SUBTOTAL                          10.47-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             10.47-
+DEBIT TEND                        10.47-
+CHANGE                              0.00
+
+09/25/26 21:02  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

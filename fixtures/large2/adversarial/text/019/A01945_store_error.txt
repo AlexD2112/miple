@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 2148
+
+PEPSI 12 PK CANS                  4.93 T
+SALSA JAR                         2.09 F
+MFR CPN                          0.22-  
+MISSION FLOUR TORT 40 CT          5.22 F
+  2.73 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 7.92 F
+  2 @ 5.88
+STRWB 2 LB                       11.76 F
+FM FROZEN MIXED BERRIES           2.06 F
+FROZEN THREE BERRY BLEND 4 LB     2.56 F
+KRO SAVINGS                      0.77-  
+SMPL TRTH FLOUR TORTILLAS         6.18 F
+  3.39 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 14.71 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           56.44
+TAX 10.55% ON 5.09                  0.54
+TOTAL                              56.98
+AMEX TEND                          56.98
+CHANGE                              0.00
+
+02/22/26 13:06  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

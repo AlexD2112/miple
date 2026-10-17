@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 2285
+
+FM FRZN PEAS                     13.98 F
+DIGITAL CPN                      0.47-  
+CRL                               6.63 F
+  4 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU      11.12 F
+WHITE SNDWCH BRD                  7.03 F
+KRO SAVINGS                      1.08-  
+SMPL TRTH CHERRY TOM              1.15 F
+LARGE EGGS 12 CT                  8.69 F
+SMPL TRTH YUKON GOLD POTS         3.99 F
+RUSSET POTS 5 LB BAG              4.53 F
+
+SUBTOTAL                           55.57
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              55.57
+AMEX TEND                          55.57
+CHANGE                              0.00
+
+12/31/26 12:48  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

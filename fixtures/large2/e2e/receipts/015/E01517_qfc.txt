@@ -1,0 +1,33 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1781
+
+RDCD FAT 2% MLK GALLON            6.54 F
+  2 @ 5.24
+SMPL TRTH ROOT BEER 2L           10.48 T
+  1.62 lb @ 1.05 /lb
+RADISHES                          1.70 F
+CRM CHS 8 OZ                      3.15 F
+BLACK BEANS CAN                   8.77 F
+PRIV SEL SPRKLG WTR 8PK           5.13 F
+MFR CPN                          1.38-  
+BLACK BEANS 15 OZ CAN            10.76 F
+SMPL TRTH ARGL                    4.00 F
+KRO FRZN PIZZA                   13.30 F
+SMPL TRTH NAVEL ORANGES           1.01 F
+BABY SPNCH 5 OZ                   3.77 F
+KRO CHKN THIGHS                   9.29 F
+  3 @ 4.26
+SMPL TRTH DRIED LENTILS          12.78 F
+KRO GREETING CARD                20.34 T
+SMPL TRTH SWEET POTATOES          3.28 F
+
+SUBTOTAL                          112.92
+TAX 10.55% ON 30.82                 3.25
+TOTAL                             116.17
+VISA TEND                         116.17
+CHANGE                              0.00
+
+07/17/26 11:54  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

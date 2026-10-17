@@ -1,0 +1,38 @@
+               FRED MEYER
+              Portland OR
+               Store 2027
+
+ORG BABY SPNCH                    5.54 F
+DIGITAL CPN                      1.66-  
+CARROTS 2 LB                      1.74 F
+SMPL TRTH ORANGE JUICE            7.69 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+KRO FROZEN PEAS                  13.98 F
+SMPL TRTH BARTLETT PEARS          3.00 F
+SHREDDED MOZZ 8 OZ                2.92 F
+FM PLUS CARD SAV                 0.88-  
+SMPL TRTH HAMBURGER BUNS          2.77 F
+SMPL TRTH CREMINI MSHRM           1.14 F
+FM GROUND BEEF 80/20              6.57 F
+MFR CPN                          1.52-  
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+BTTLD WTR 24PK                    9.32 F
+  24 @ 0.10
+OR BTL DEP                        2.40  
+FM PLUS CARD SAV                 0.55-  
+KRO NPKNS                        24.05 F
+DIGITAL CPN                      2.64-  
+SMPL TRTH COLA 12PK               1.83 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+
+SUBTOTAL                           79.21
+TAX                                 0.00
+TOTAL                              79.21
+DEBIT TEND                         79.21
+CHANGE                              0.00
+
+06/27/26 14:27  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

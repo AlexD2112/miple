@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3100  Seattle WA
+            MEMBER ************
+
+1051557 CLNTR BUNCH                   2.02 E
+1018095 TPD/CLNTR BUNCH              0.61-  
+564323 TILAPIA FILLETS               21.66 E
+1086398 FRZN PEAS 12 OZ              16.20 E
+     3 @ 5.40
+698337 BOTTLED WATER 24PK             9.32 E
+1838732 UNEXPECTED CHDR              23.19 E
+     1.29 lb @ 17.98 /lb
+9355332 TPD/UNEXPECTED C             2.97-  
+992535 BRUSSELS SPROUTS               7.04 E
+     3.02 lb @ 2.33 /lb
+1390944 KS WHL MLK HALF GALLON        6.79 E
+337981 HMBRGR BUNS                    2.77 E
+434352 ALMOND MLK                     5.08 E
+0130187 TPD/ALMOND MLK               1.08-  
+514604 KS HALF & HALF                 5.34 E
+42561 KS CREMINI MSHRM                2.28 E
+     2 @ 1.14
+589852 CABOT SHRP CHDR 8 OZ           8.48 E
+1725671 LACROIX LIME SPARKLING WATER  4.40 E
+     2 @ 2.20
+
+SUBTOTAL                              109.91
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            109.91
+DISCOVER TEND                         109.91
+CHANGE                                  0.00
+
+04/17/26 16:13  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,26 @@
+                SAFEWAY
+      Store 2312  San Francisco CA
+             (555) 010-2210
+
+SIG SLCT ROOT BEER 2L             5.24 T
+  1 @ 0.10
+CA CRV                            0.10 T
+MANDARINS                         2.72 S
+J4U DIGITAL CPN                  0.82-  
+LARGE EGGS 12 CT                  8.69 S
+2% MILK HALF GALLON               6.08 S
+SIG TRASH BAGS 40CT               6.49 T
+LUCERNE LG BROWN EGGS             4.29 S
+SIG SLCT GRND BF 80/20            6.57 S
+  0.68 lb @ 13.18 /lb
+SW SLCD TRKY BRST                 8.96 S
+
+SUBTOTAL                           48.32
+TAX 8.625% ON 11.83                 1.02
+**** TOTAL                         49.34
+DEBIT TEND                         49.34
+CHANGE                              0.00
+
+01/28/26 11:50  ITEMS 8
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

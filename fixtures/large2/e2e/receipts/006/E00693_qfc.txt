@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0652
+
+  4 @ 1.08
+SMPL TRTH TUNA CAN                4.32 F
+KRO ROTIS CHKN                    5.04 T
+JASMINE RICE 25 LB                8.09 F
+KRO FRZN PEAS                    13.98 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           31.51
+TAX 10.55% ON 5.12                  0.54
+TOTAL                              32.05
+CASH TEND                          40.00
+CHANGE                              7.95
+
+10/02/26 15:41  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

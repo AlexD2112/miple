@@ -1,0 +1,22 @@
+              TRADER JOE'S
+        Store #1427  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+BATH TISSUE 12 ROLL              23.08 T
+CAT LITTER                       14.03 T
+ALUMINUM FOIL                    18.03 T
+TRASH BAGS 40CT                   6.49 T
+PAPER TOWELS 6 ROLL               3.75 T
+DISH SOAP                        19.39 T
+TOOTHPASTE                       16.40 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                          101.25
+TAX 10.55% ON 101.25               10.68
+TOTAL                             111.93
+VISA TEND                         111.93
+CHANGE                              0.00
+
+08/25/26 12:35  ITEMS 7
+T=TAXABLE
+               THANK YOU

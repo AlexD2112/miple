@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2679  Seattle WA
+            MEMBER ************
+
+1314475 KS BLACK FOREST HAM          18.70 E
+     1.32 lb @ 14.17 /lb
+1645716 KS PENNE                     13.38 E
+1864677 KS PORK CHOPS                33.08 E
+     2.98 lb @ 11.10 /lb
+1528333 STRAUS PLAIN GRK YGRT         1.74 E
+773397 BOTTLED WTR 40 PK              7.35 E
+     3 @ 2.45
+1797273 KS WHOLE WHEAT SANDWICH BREA  2.54 E
+1137878 KS BNLS SKNLS CHKN BRST      38.07 E
+     5.69 lb @ 6.69 /lb
+370025 ORIGINAL HUMMUS 10 OZ          8.88 E
+604833 TSTTS SCOOPS TRTLL CHIPS      10.38 E
+     3 @ 3.46
+1563291 BNLS SKNLS CHKN BRST         11.31 E
+     1.69 lb @ 6.69 /lb
+1061090 KS ALMOND MLK                 5.08 E
+1023919 KS SHARP CHEDDAR BLOCK       10.33 E
+1107215 CARROTS 2 LB                  1.74 E
+801308 COLA 12PK CANS                 1.51 A
+
+SUBTOTAL                              164.09
+TAX 10.55% ON 1.51                      0.16
+**** TOTAL                            164.25
+DISCOVER TEND                         164.25
+CHANGE                                  0.00
+
+12/31/26 10:49  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

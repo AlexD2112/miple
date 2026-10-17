@@ -1,0 +1,29 @@
+              TRADER JOE'S
+     Store #3600  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+ORG BASIL CLAMSHELL               1.49  
+  4 @ 5.94
+ORG TOMATO BASIL MARINARA        23.76  
+OAT MLK                           3.10  
+SPONGES 3PK                       9.54 T
+BARILLA PENNE                    19.37  
+BOTTLED WATER 24PK                9.32  
+  24 @ 0.05
+CA CRV                            1.20  
+BATH TISSUE 12 ROLL              23.08 T
+AHI TUNA STEAK                   14.71  
+TJ'S WHOLE WHEAT SANDWICH BREAD   2.54  
+TJ'S CRACKERS                     2.00  
+  3 @ 0.25
+BAG FEE                           0.75  
+
+SUBTOTAL                          110.86
+TAX 8.625% ON 32.62                 2.81
+TOTAL                             113.67
+VISA TEND                         113.67
+CHANGE                              0.00
+
+02/09/26 20:28  ITEMS 13
+T=TAXABLE
+               THANK YOU

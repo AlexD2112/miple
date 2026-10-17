@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2782  Seattle WA
+            MEMBER ************
+
+1230058 HOUSE FOODS EXTRA FIRM TOFU   8.34 E
+     3 @ 2.78
+875491 DAVES KILLER BRD 21 WHL GRAIN  4.78 E
+44016 POTATO CHIPS                    5.07 E
+641238 GREETING CARD                 20.34 A
+482946 KS MANDARINS                   2.72 E
+91877 ROLLED OATS                     3.98 E
+1271312 KS ICE CRM                   14.51 E
+1140461 HUY FONG SRIRACHA             2.55 E
+1258095 BRUSSELS SPROUTS              5.76 E
+     2.47 lb @ 2.33 /lb
+2799224 TPD/BRUSSELS SPR             1.73-  
+1163656 ORG HONEYCRISP APPLES         4.54 E
+     3.41 lb @ 1.33 /lb
+
+SUBTOTAL                               70.86
+TAX 10.55% ON 20.34                     2.15
+**** TOTAL                             73.01
+DEBIT TEND                             73.01
+CHANGE                                  0.00
+
+01/01/2027 00:47  606 606 7009 18
+ITEMS 15   REG 06  TRANS 7968
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2653  Seattle WA
+            MEMBER ************
+
+1004482 LEMON                         4.30 E
+1112055 STRWB 2 LB                    5.88 E
+623993 KS GREEN BEANS                 2.31 E
+784765 CHERRY TOMATOES                2.30 E
+     2 @ 1.15
+1165077 JENNIE-O GRND TRKY 1 LB       6.60 E
+1968637 CHKN DRUMSTICKS               8.97 E
+613671 KS CRRTS                       1.79 E
+291275 GENOA SALAMI                   4.76 E
+1190865 KS TRTLL CHIPS                3.33 E
+389679 TORTILLA CHIPS                 6.66 E
+     2 @ 3.33
+429569 KS TURKEY BREAST              26.45 E
+     3.73 lb @ 7.09 /lb
+1996485 KS NAVEL ORANGES              1.01 E
+1536971 LEMONS                        4.19 E
+200504 PLASTIC WRAP                   4.77 A
+1902747 SWISS CHEESE                  9.62 E
+     1.04 lb @ 9.25 /lb
+759717 KS CELERY                      4.32 E
+
+SUBTOTAL                               97.26
+TAX 10.55% ON 4.77                      0.50
+**** TOTAL                             97.76
+VISA TEND                              97.76
+CHANGE                                  0.00
+
+04/01/26 10:55  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

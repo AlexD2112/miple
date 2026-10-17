@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 1213
+
+PLAIN NONFAT GRK YGRT             4.65 F
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+DARK CHOC PNT BTR CUPS            5.61 F
+  3 @ 3.46
+TSTTS SCOOPS TRTLL CHIPS         10.38 F
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+ALL PURPOSE FLOUR                11.36 F
+  0.95 lb @ 3.42 /lb
+RED BELL PEPR                     3.25 F
+FM PLUS CARD SAV                 0.98-  
+  3.27 lb @ 17.07 /lb
+LAMB CHOPS                       55.82 F
+
+SUBTOTAL                          109.27
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             109.27
+DEBIT TEND                        109.27
+CHANGE                              0.00
+
+06/20/26 07:27  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

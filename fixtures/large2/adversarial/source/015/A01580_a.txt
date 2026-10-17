@@ -1,0 +1,40 @@
+               FRED MEYER
+              Portland OR
+               Store 3509
+
+BOTTLED WTR 40 PK                 2.45 E
+  40 @ 0.10
+OR BTL DEP                        4.00  
+  4 @ 1.00
+DICED TOM 14.5 OZ                 4.00 E
+LNDRY DTRGNT PODS                20.18 E
+FM PLUS CARD SAV                 0.43-  
+  4.71 lb @ 5.06 /lb
+FM GRND CHKN                     23.83 E
+FRZN PEAS 12 OZ                   5.40 E
+LEMONS                            4.19 E
+FM PLUS CARD SAV                 1.26-  
+BLACK FOREST HAM 9 OZ             7.00 E
+  4 @ 1.57
+ORG GALA APPLES                   6.28 E
+  1.40 lb @ 9.25 /lb
+FM SWISS CHEESE                  12.95 E
+KRO SAVINGS                      1.99-  
+  2 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU       5.56 E
+LIGHT BULBS 4PK                  17.04 E
+SMPL TRTH GENOA SALAMI            4.76 E
+DIGITAL CPN                      1.43-  
+  2.93 lb @ 5.06 /lb
+GROUND CHICKEN                   14.83 E
+BAG FEE                           0.05  
+
+SUBTOTAL                          127.41
+TAX                                 0.00
+TOTAL                             127.41
+MASTERCARD TEND                   127.41
+CHANGE                              0.00
+
+08/21/26 16:18  ITEMS 20
+A=TAXABLE  E=EXEMPT
+               THANK YOU

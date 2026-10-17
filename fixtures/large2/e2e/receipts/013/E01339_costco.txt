@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2415  Seattle WA
+            MEMBER ************
+
+1758961 JASMINE RICE 25 LB            8.09 E
+212439 KS CRL                         6.63 E
+1002605 BROC CROWNS                   2.25 E
+5191375 TPD/BROC CROWNS              0.67-  
+1491671 ATLANTIC SLMN FLLT           19.77 E
+1950310 SHARP CHEDDAR BLOCK          10.33 E
+1968406 ITALIAN PARSLEY               5.86 E
+     2 @ 2.93
+766221 DRGLD UNSLTD BTR               6.67 E
+741770 KS BROC CROWNS                 2.25 E
+1844568 KS ITLN SAUSAGE BULK          9.93 E
+8543530 TPD/ITLN SAUSAGE             0.65-  
+322071 GREEN BEANS                    2.31 E
+400165 SLICED ROAST BEEF              5.94 E
+1522723 ORGANIC BASIL CLAMSHELL       1.49 E
+
+SUBTOTAL                               80.20
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             80.20
+AMEX TEND                              80.20
+CHANGE                                  0.00
+
+08/18/26 13:55  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

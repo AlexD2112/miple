@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1635  Seattle WA
+            MEMBER ************
+
+403239 KS PARMIGIANO REGGIANO         7.82 E
+1160733 KS ARUGULA                    4.00 E
+838094 SOY SCE                        6.79 E
+647603 BTTLD WTR 24PK                 9.32 E
+6041700 TPD/BTTLD WTR 24             0.80-  
+491891 CHKN BROTH 32 OZ               2.81 E
+364691 JALAPENO                       3.50 E
+     2.19 lb @ 1.60 /lb
+1443829 LACROIX LIME SPRKLG WTR 8 PK  2.20 E
+4106450 TPD/LACROIX LIME             0.66-  
+1597480 KS DIJON MUSTARD              2.46 E
+1026969 KS SLTD BTR                   5.73 E
+4022015 TPD/SLTD BTR                 1.69-  
+741942 QUINOA                         7.75 E
+657211 ORG BASIL CLMSHLL              1.49 E
+1572218 HANDMADE STYLE CORN TORT      7.10 E
+     2 @ 3.55
+10766 ROMA TOM                        4.76 E
+     2 @ 2.38
+1562617 KS LMND 52OZ                 23.16 A
+     4 @ 5.79
+1791072 PARMIGIANO REGGIANO WEDGE     8.42 E
+527928 KS CRL                         6.63 E
+1281701 LG EGGS 12 CT                 8.69 E
+1652995 CROISSANTS 12 CT              4.87 E
+
+SUBTOTAL                              114.35
+TAX 10.55% ON 23.16                     2.44
+**** TOTAL                            116.79
+VISA TEND                             116.79
+CHANGE                                  0.00
+
+03/17/26 07:03  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

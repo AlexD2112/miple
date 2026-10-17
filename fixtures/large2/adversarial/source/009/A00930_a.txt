@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0508  Seattle WA
+            MEMBER ************
+
+1969418 CABOT SHRP CHDR 8 OZ          8.48 E
+1055506 HEINZ KETCHUP 32 OZ           4.48 E
+1041621 CAT LITTER                   14.03 A
+1505693 DRGLD UNSLTD BTR              6.67 E
+
+SUBTOTAL                               33.66
+TAX 10.55% ON 14.03                     1.48
+**** TOTAL                             35.14
+MASTERCARD TEND                        35.14
+CHANGE                                  0.00
+
+05/05/26 14:32  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

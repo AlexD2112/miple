@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 3808  Seattle WA
+             (555) 010-1895
+
+  REFUND - ORIG RECEIPT
+RETURN SIG KTCHNS SRIRACHA       3.16- S
+RETURN PASTURE RAISED EGGS       7.37- S
+RETURN ORG GRAPE TOM PINT        4.92- S
+RETURN CHUCK ROAST               9.89- S
+RETURN MANGO                     0.44- S
+RETURN WHITE BRD                 6.34- S
+
+SUBTOTAL                          32.12-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                        32.12-
+MASTERCARD TEND                   32.12-
+CHANGE                              0.00
+
+02/19/26 13:26  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

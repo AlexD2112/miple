@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2811  Seattle WA
+            MEMBER ************
+STORE MGR: J******
+SURVEY CODE: 8820-5248-1694
+OPEN 6AM - 12AM
+
+695208 ITALIAN SAUSAGE BULK           9.93 E
+6320244 TPD/ITALIAN SAUS             0.75-  
+253778 OLD FASHIONED ROLLED OATS 42  17.43 E
+868248 FROZEN WAFFLES                 7.05 E
+755110 KS KTCHP                       5.49 E
+1072775 KS RUSSET POTS                4.34 E
+     3.84 lb @ 1.13 /lb
+428501 KS CARROTS                     1.79 E
+1555405 KS FRZN PIZZA                13.30 E
+774714 FRZN PEAS 12 OZ                5.40 E
+1626327 KS SLTD BTR                   5.73 E
+
+SUBTOTAL                               69.71
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             69.71
+DEBIT TEND                             69.71
+CHANGE                                  0.00
+
+05/12/26 21:39  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+BOTTLE RETURNS ACCEPTED    0.10/EA
+FUEL POINTS THIS ORDER        247
+                 THANK YOU

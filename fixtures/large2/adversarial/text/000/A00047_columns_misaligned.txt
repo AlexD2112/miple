@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2948
+
+  0.52 lb @ 1.05 /lb
+RADISHES                          0.55 F
+  4 @ 1.51
+COLA 12PK CANS                    6.04 T
+SMPL TRTH MNDRNS                  2.72 F
+KRO COLA 12PK                     1.83 T
+
+SUBTOTAL 11.14
+TAX 10.55% ON 7.87                   0.83
+TOTAL	11.97
+MASTERCARD TEND                    11.97
+CHANGE                              0.00
+
+07/05/26 12:15  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

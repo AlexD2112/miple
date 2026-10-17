@@ -1,0 +1,25 @@
+               FRED MEYER
+              Portland OR
+               Store 1267
+
+SMPL TRTH AHI TUNA STEAK         14.71 F
+2% MILK HALF GALLON               6.08 F
+SHREDDED MOZZ 8 OZ                2.92 F
+SOY SCE                           6.79 F
+KRO LAUNDRY DETERGENT PODS       20.18 F
+WHITE SNDWCH BRD                  7.03 F
+PAPER TOWELS 6 ROLL               3.75 F
+  2 @ 5.85
+ORGANIC BABY SPINACH 5 OZ        11.70 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           73.26
+TAX                                 0.00
+TOTAL                              73.26
+DEBIT TEND                         73.26
+CHANGE                              0.00
+
+01/26/26 13:18  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

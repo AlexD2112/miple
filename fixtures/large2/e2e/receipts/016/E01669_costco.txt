@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1951  Seattle WA
+            MEMBER ************
+
+1873608 KS LG BROWN EGGS              4.29 E
+1875627 SHREDDED MOZZ 8 OZ            2.92 E
+249857 CRACKERS                       4.00 E
+     2 @ 2.00
+1208405 KS 2% MILK GALLON             6.49 E
+175546 KS WHL CHKN                   24.50 E
+     3.87 lb @ 6.33 /lb
+1281980 PARSNIPS                      8.99 E
+     3.70 lb @ 2.43 /lb
+1263285 KS GENOA SALAMI               4.76 E
+959432 ORG GALA APPLES                3.14 E
+     2 @ 1.57
+721379 SHREDDED MOZZ 8 OZ             2.92 E
+43227 EXTRA FIRM TOFU                 2.32 E
+7240672 TPD/EXTRA FIRM T             0.70-  
+1841523 BTR LTTC                      4.90 E
+     2 @ 2.45
+384056 HOT BAR PREPARED FOOD BY WEIG  8.83 A
+1378303 KS DOG TREATS                 6.82 A
+3275659 TPD/DOG TREATS               1.87- A
+
+SUBTOTAL                               82.31
+TAX 10.55% ON 13.78                     1.45
+**** TOTAL                             83.76
+MASTERCARD TEND                        83.76
+CHANGE                                  0.00
+
+01/31/26 10:12  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

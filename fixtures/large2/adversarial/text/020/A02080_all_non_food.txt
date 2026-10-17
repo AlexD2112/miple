@@ -1,0 +1,33 @@
+                SAFEWAY
+         Store 2463  Seattle WA
+             (555) 010-1636
+
+TOOTHPASTE                       16.40 T
+SIG PAPER PLATES                  3.31 T
+SIG ALUMINUM FOIL                18.03 T
+SIG FLOWERS BOUQUET              23.70 T
+CLUB CARD SAVINGS                2.42- T
+SIG SPONGES 3PK                   9.54 T
+LAUNDRY DETERGENT PODS           20.18 T
+SIG SPONGES 3PK                   9.54 T
+SIG HAND SOAP                    24.27 T
+CLUB CARD SAVINGS                1.54- T
+NAPKINS                          24.05 T
+SIG BATH TISSUE 12 ROLL          23.08 T
+DISH SOAP                        19.39 T
+SIG ZIP TOP BAGS                 24.79 T
+SPNGS 3PK                         9.54 T
+ZIP TOP BAGS                     24.79 T
+TRASH BAGS 40CT                   6.49 T
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          253.38
+TAX 10.55% ON 253.38               26.73
+**** TOTAL                        280.11
+DEBIT TEND                        280.11
+CHANGE                              0.00
+
+02/21/26 08:29  ITEMS 15
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

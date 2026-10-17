@@ -1,0 +1,39 @@
+                 TARGET
+        San Francisco CA  T-0366
+             (555) 030-3753
+
+  2 @ 4.35
+GG STRWB                          8.70 N
+GG CEREAL                         6.63 N
+LAUNDRY DTRGNT PODS              20.18 T
+CIRCLE DEAL                      2.31- T
+MYNNS 30 OZ                       6.42 N
+MKT PANTRY RASPB                  7.24 N
+TARGET CIRCLE OFFER              2.17-  
+UP&UP ZIP TOP BAGS               24.79 T
+GG RIBEYE STEAK                  19.87 N
+  2 @ 4.58
+GG KOMBUCHA 16OZ                  9.16 N
+  2 @ 0.05
+CA CRV                            0.10  
+UP&UP SHAMPOO                    17.57 T
+MKT PANTRY SPRING MIX             5.44 N
+HUY FONG SRIRACHA                 2.55 N
+ORG BASIL CLMSHLL                 1.49 N
+  3 @ 4.93
+PEPSI 12 PK CANS                 14.79 T
+  3 @ 0.05
+CA CRV                            0.15 T
+GG ALL PURPOSE FLOUR             11.36 N
+TARGET CIRCLE OFFER              2.31-  
+ICEBERG LETTUCE                   5.11 N
+
+SUBTOTAL                          149.65
+TAX 8.625% ON 75.17                 6.48
+TOTAL                             156.13
+MASTERCARD TEND                   156.13
+CHANGE                              0.00
+
+09/08/26 10:57  ITEMS 19
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

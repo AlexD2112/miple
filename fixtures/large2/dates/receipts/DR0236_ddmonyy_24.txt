@@ -1,0 +1,30 @@
+                 TARGET
+           Seattle WA  T-3199
+             (555) 030-0650
+
+  1.87 lb @ 9.65 /lb
+PORK TENDERLOIN                  18.05 N
+FRZN DUMPLINGS                   15.61 N
+GG RIBEYE STEAK                  19.87 N
+UP&UP GREETING CARD              20.34 T
+GG RED GRAPES                     3.04 N
+  2 @ 4.43
+GG COLD BREW COFFEE 32OZ          8.86 N
+  0.97 lb @ 0.76 /lb
+GG MANGO                          0.74 N
+SHREDDED CHDR 8 OZ                6.42 N
+MKT PANTRY TILAPIA FILLETS       21.66 N
+  4 @ 5.07
+GG POTATO CHIPS                  20.28 N
+BAG FEE                           0.08 T
+
+SUBTOTAL                          134.95
+TAX 10.55% ON 20.42                 2.15
+TOTAL                             137.10
+DEBIT TEND                        137.10
+CHANGE                              0.00
+
+30-JUL-27 02:07
+ITEMS 6   REG 04  TRANS 9877
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2939  Seattle WA
+            MEMBER ************
+
+1140148 CHERRY TOM                    2.30 E
+     2 @ 1.15
+1304644 BABY CARROTS                  2.49 E
+223093 HASS AVOCADO LG               11.86 E
+     3.55 lb @ 3.34 /lb
+2472794 TPD/HASS AVOCADO             1.36-  
+1475040 PARMIGIANO REGGIANO           7.82 E
+4905760 TPD/PARMIGIANO R             1.99-  
+1486073 KS KIWI                       4.70 E
+     2.26 lb @ 2.08 /lb
+454294 FRESH MINT                     5.48 E
+     2 @ 2.74
+335880 JASMINE RICE 5 LB              1.49 E
+1980035 KS ALMOND MLK                 5.08 E
+9509558 TPD/ALMOND MLK               0.36-  
+547389 PARMIGIANO RGGN                7.82 E
+1276021 TPD/PARMIGIANO R             2.35-  
+16424 STRWB 2 LB                      5.88 E
+431335 ASPARAGUS                      2.93 E
+
+SUBTOTAL                               51.79
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             51.79
+MASTERCARD TEND                        51.79
+CHANGE                                  0.00
+
+05/15/26 21:46  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

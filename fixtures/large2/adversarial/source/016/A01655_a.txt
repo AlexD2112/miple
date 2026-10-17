@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 1934
+
+SMPL TRTH ORANGE JUICE 52OZ       9.39  
+CELERY                            4.32  
+KRO SAVINGS                      0.21-  
+  6.44 lb @ 7.09 /lb
+TURKEY BREAST                    45.66  
+  2.60 lb @ 18.16 /lb
+COD FLLT                         47.22  
+HMBRGR BUNS                       2.77  
+PAPER TOWELS 6 ROLL              3.75 TX
+  2 @ 4.11
+KRO GRK YGRT PLAIN                8.22  
+FM PLUS CARD SAV                 1.58-  
+2% MLK 2 X 1 GAL                  4.70  
+  4 @ 2.93
+SMPL TRTH ITALIAN PARSLEY        11.72  
+  1.03 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            14.15  
+DARK CHOCOLATE PEANUT BUTTER CUP  5.61  
+SLTD BTR 4 STICKS                 9.37  
+  3.52 lb @ 1.05 /lb
+SMPL TRTH RADISHES                3.70  
+
+SUBTOTAL                          168.79
+TAX 10.55% ON 3.75                  0.40
+TOTAL                             169.19
+VISA TEND                         169.19
+CHANGE                              0.00
+
+06/18/26 18:45  ITEMS 17
+TX=TAXABLE ITEM
+               THANK YOU

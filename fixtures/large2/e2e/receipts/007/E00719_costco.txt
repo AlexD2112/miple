@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1654  Seattle WA
+            MEMBER ************
+
+866079 PEPSI 12 PK CANS               4.93 A
+479724 PENNE 16 OZ                    3.51 E
+255436 KS GOAT CHS                    8.35 E
+1126460 KS FRZN WAFFLES               7.05 E
+
+SUBTOTAL                               23.84
+TAX 10.55% ON 4.93                      0.52
+**** TOTAL                             24.36
+VISA TEND                              24.36
+CHANGE                                  0.00
+
+03/12/26 09:18  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

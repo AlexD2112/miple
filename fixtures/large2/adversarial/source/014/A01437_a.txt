@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1141
+FUEL POINTS BALANCE     833
+STORE MGR: J******
+SURVEY CODE: 1438-1500-8273
+
+SHREDDED CHDR 8 OZ                6.42 F
+KRO PAPER PLATES                  3.31 T
+BOTTLED WTR 40 PK                 2.45 F
+  1.28 lb @ 1.13 /lb
+RUSSET POTS                       1.45 F
+PRIV SEL FRZN DUMPLINGS          15.61 F
+
+SUBTOTAL                           29.24
+TAX 10.55% ON 3.31                  0.35
+TOTAL                              29.59
+DEBIT TEND                         29.59
+CHANGE                              0.00
+
+06/05/26 08:51  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+SURVEY CODE 2771 2623 7395
+TOTAL SAVINGS THIS YEAR   377.40
+SAVE 2.00 ON YOUR NEXT VISIT
+BOTTLE RETURNS ACCEPTED    0.10/EA
+               THANK YOU

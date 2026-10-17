@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 1022
+
+CARROTS 2 LB                      1.74 F 
+  2.18 lb @ 6.69 /lb
+BNLS SKNLS CHKN BRST             14.58 F
+KRO DISH SOAP                    19.39 F    
+PENNE 16 OZ                       3.51 F
+SMPL TRTH BLCKBRRS                3.92 F
+FM SOY SCE                        6.79 F
+BLUBRY 18 OZ                      4.61 F
+ SMPL TRTH FRESH MOZZ              8.65 F
+FM GROUND COFFEE	9.64 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+FM GRNLA BRS                      6.07 F
+HNDMD STYLE CORN TORT               3.55 F
+MFR CPN                          1.07-      
+
+SUBTOTAL	81.48
+TAX                                 0.00
+TOTAL                              81.48
+AMEX TEND                          81.48
+CHANGE                              0.00     
+
+02/10/26 12:19  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

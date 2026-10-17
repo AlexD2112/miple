@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3244  Seattle WA
+            MEMBER ************
+
+1965508 FRZN BROC FLRTS               8.13 E
+1274670 PAPER PLATES                  3.31 A
+8731784 TPD/PAPER PLATES             0.99- A
+546786 KS CRM CHS                     8.63 E
+955957 KS CAULIFLOWER                13.24 E
+     3.52 lb @ 3.76 /lb
+1029225 KS GRND BF 80/20              6.57 E
+9857494 TPD/GRND BF 80/2             0.81-  
+679892 KS BLACK BEANS CAN             8.77 E
+0443100 TPD/BLACK BEANS              2.53-  
+1586579 KS CORN TORTILLAS             2.79 E
+3871 KS VAN YGRT CUPS                10.78 E
+     2 @ 5.39
+956407 BONELESS PORK LOIN CHOPS      16.58 E
+     1.67 lb @ 9.93 /lb
+1052290 KS RED ONIN                   3.57 E
+     2.41 lb @ 1.48 /lb
+1120463 KS PLSTC WRAP                 4.77 A
+1562352 KS YELLOW ONIN                1.78 E
+341723 ROOT BEER 2L                   5.24 A
+834872 DOUBLE CREME BRIE              5.40 E
+1219895 PLAIN GOAT CHEESE             5.77 E
+
+SUBTOTAL                              101.00
+TAX 10.55% ON 12.33                     1.30
+**** TOTAL                            102.30
+VISA TEND                             102.30
+CHANGE                                  0.00
+
+02/21/26 11:27  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

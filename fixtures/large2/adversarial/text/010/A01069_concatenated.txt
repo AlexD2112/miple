@@ -1,0 +1,51 @@
+               FRED MEYER
+               Seattle WA
+               Store 0048
+
+CAT LITTER                       14.03 T
+CHOBANI PLAIN GRK YGRT 32 OZ      1.47 F
+HEINZ KETCHUP 32 OZ               4.48 F
+KRO SAVINGS                      1.34-  
+  2.70 lb @ 13.74 /lb
+KRO CHUCK ROAST                  37.10 F
+ORG BABY SPNCH                    5.54 F
+MFR CPN                          0.30-  
+HEINZ KETCHUP 32 OZ               4.48 F
+  0.33 lb @ 0.68 /lb
+SMPL TRTH PEACHES                 0.22 F
+KRO DIJON MUSTARD                 2.46 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           68.30
+TAX 10.55% ON 14.19                 1.50
+TOTAL                              69.80
+VISA TEND                          69.80
+CHANGE                              0.00
+
+06/17/26 07:10  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+                SAFEWAY
+         Store 0836  Seattle WA
+             (555) 010-3755
+
+WHL MLK HALF GALLON               6.79 S
+LUCERNE FRESH MOZZ                8.65 S
+SIG KTCHNS ATLANTIC SLMN FLLT    19.77 S
+SIG KTCHNS COCONUT MILK CAN       3.83 S
+  2 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS    9.56 S
+J4U DIGITAL CPN                  0.35-  
+BAG FEE                           0.08 T
+
+SUBTOTAL                           48.33
+TAX 10.55% ON 0.08                  0.01
+**** TOTAL                         48.34
+MASTERCARD TEND                    48.34
+CHANGE                              0.00
+
+02/16/26 07:41  ITEMS 6
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

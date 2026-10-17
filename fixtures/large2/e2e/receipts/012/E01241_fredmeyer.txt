@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 3252
+
+  4 @ 5.40
+FROZEN PEAS 12 OZ                21.60 F
+KRO AA BATTERIES 8PK             24.36 F
+DISH SOAP                        19.39 F
+FM PLUS CARD SAV                 1.62-  
+SMPL TRTH TLLMK MEDIUM CHDR      11.77 F
+MFR CPN                          0.33-  
+ORG TOMATO BASIL MARINARA         5.94 F
+SMPL TRTH ROLLED OATS             3.98 F
+FM SRDGH LOAF                     7.47 F
+
+SUBTOTAL                           92.56
+TAX                                 0.00
+TOTAL                              92.56
+CASH TEND                         100.00
+CHANGE                              7.44
+
+06/29/26 20:32  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

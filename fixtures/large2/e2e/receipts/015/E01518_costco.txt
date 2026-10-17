@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1689  Seattle WA
+            MEMBER ************
+
+1992566 BIBIGO PORK MANDU DUMPLINGS  10.32 E
+335057 AVOCADOS                      12.15 E
+     3 @ 4.05
+516075 PEACHES                        1.81 E
+     2.66 lb @ 0.68 /lb
+
+SUBTOTAL                               24.28
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             24.28
+MASTERCARD TEND                        24.28
+CHANGE                                  0.00
+
+02/29/28 09:28  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,51 @@
+               FRED MEYER
+               Seattle WA
+               Store 2280
+
+SMPL TRTH DRIED LENTILS           4.26 F
+DGRN RISING CRUST PPPRN PIZZA     5.73 F
+KRO MAYONNAISE                    6.36 F
+
+SUBTOTAL                           16.35
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              16.35
+DISCOVER TEND                      16.35
+CHANGE                              0.00
+
+05/21/26 21:47  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+              TRADER JOE'S
+        Store #1081  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+  3 @ 4.43
+COLD BREW COFFEE 32OZ            13.29  
+TJ'S AHI TUNA STEAK              14.71  
+TJ'S CELERY                       4.32  
+TJ'S PASTURE RAISED EGGS          7.37  
+PNT BTR                           6.90  
+UNSALTED BUTTER 4 X 1 LB          9.48  
+TJ'S GREEN BEANS                  2.31  
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21  
+BLACKBERRIES                      3.92  
+MANDARIN ORANGE CHKN             15.87  
+  2 @ 3.04
+RED GRAPES                        6.08  
+HONEYCRISP APPLES                 4.67  
+TJ'S PASTURE RAISED EGGS          7.37  
+  2.91 lb @ 1.79 /lb
+BEETS                             5.21  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          105.87
+TAX 10.55% ON 0.16                  0.02
+TOTAL                             105.89
+MASTERCARD TEND                   105.89
+CHANGE                              0.00
+
+09/17/26 14:43  ITEMS 17
+T=TAXABLE
+               THANK YOU

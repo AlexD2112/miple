@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2966  Seattle WA
+            MEMBER ************
+
+1956877 TILLAMOOK VAN YGRT            8.10 E
+     2 @ 4.05
+1016427 UNXPCTD CHDR                 22.12 E
+     1.23 lb @ 17.98 /lb
+57197 DRIED LENTILS                  12.78 E
+     3 @ 4.26
+2566866 TPD/DRIED LENTIL             2.23-  
+1144274 KS CREMINI MSHRM              2.28 E
+     2 @ 1.14
+1200790 PAPER PLATES                  3.31 A
+4879738 TPD/PAPER PLATES             0.99- A
+1450481 TURKEY BREAST                18.79 E
+     2.65 lb @ 7.09 /lb
+6853358 TPD/TURKEY BREAS             2.42-  
+
+SUBTOTAL                               61.74
+TAX 10.55% ON 2.32                      0.24
+**** TOTAL                             61.98
+MASTERCARD TEND                        61.98
+CHANGE                                  0.00
+
+12-31-2029 11:59PM  305 305 1952 33
+ITEMS 3   REG 11  TRANS 9351
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,30 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+10/12/26 19:32  ITEMS 12
+
+CHANGE                              0.00
+DISCOVER TEND                      69.34
+TOTAL                              69.34
+TAX                                 0.00
+SUBTOTAL                           69.34
+
+OR BTL DEP                        0.10  
+  1 @ 0.10
+SMPL TRTH LEMONADE 52OZ           5.79 F
+SMPL TRTH BEETS                   5.32 F
+  2.97 lb @ 1.79 /lb
+SMPL TRTH ROMA TOM                4.76 F
+  2 @ 2.38
+KRO SAVINGS                      1.28-  
+CROISSANTS 12 CT                 19.48 F
+  4 @ 4.87
+BNLS CHKN THIGHS                  3.86 F
+  0.89 lb @ 4.34 /lb
+KRO SAVINGS                      1.71-  
+CHRRS                             5.69 F
+SMPL TRTH SWEET POTATOES          3.28 F
+KRO NAPKINS                      24.05 F
+
+               Store 2334
+              Portland OR
+               FRED MEYER

@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1464  Seattle WA
+            MEMBER ************
+
+314680 KS GOAT CHEESE                 8.35 E
+573155 HASS AVOCADO LG               11.49 E
+     3.44 lb @ 3.34 /lb
+8763049 TPD/HASS AVOCADO             0.87-  
+
+SUBTOTAL                               18.97
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             18.97
+DEBIT TEND                             18.97
+CHANGE                                  0.00
+
+01/17/26 11:55  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

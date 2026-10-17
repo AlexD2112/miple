@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0705
+
+  4 @ 5.22
+STRWB 1 LB                       20.88 F
+SMPL TRTH JSMN RICE              12.13 F
+KRO PLASTIC WRAP                  4.77 T
+
+SUBTOTAL                           37.78
+TAX 10.55% ON 4.77                  0.50
+TOTAL                              38.28
+VISA TEND                          38.28
+CHANGE                              0.00
+
+05/06/30 02:27 AM  6847 30 268 5
+ITEMS 26   REG 05  TRANS 2352
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+                SAFEWAY
+         Store 3736  Seattle WA
+             (555) 010-3592
+
+ORG BASIL CLAMSHELL               1.49 E
+SIG SLCT DAVES KILLER BRD         6.69 E
+PAPER TOWELS 6 ROLL               3.75 A
+LIGHT BULBS 4PK                  17.04 A
+ORG EGGS 24 CT                    7.83 E
+BAG FEE                           0.08 A
+
+SUBTOTAL                           36.88
+TAX 10.55% ON 20.87                 2.20
+**** TOTAL                         39.08
+CASH TEND                          40.00
+CHANGE                              0.92
+
+08/13/26 21:50  ITEMS 5
+A=TAXABLE  E=EXEMPT
+               THANK YOU

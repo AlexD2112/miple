@@ -1,0 +1,29 @@
+              TRADER JOE'S
+        Store #0913  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+DOG TREATS                        6.82 T
+SPONGES 3PK                       9.54 T
+ALUMINUM FOIL                    18.03 T
+LIGHT BULBS 4PK                  17.04 T
+PAPER PLATES                      3.31 T
+TRASH BAGS 40CT                   6.49 T
+GREETING CARD                    20.34 T
+PLASTIC WRAP                      4.77 T
+SHAMPOO                          17.57 T
+BATH TISSUE 12 ROLL              23.08 T
+TOOTHPASTE                       16.40 T
+FLOWERS BOUQUET                  23.70 T
+PAPER TOWELS 6 ROLL               3.75 T
+NAPKINS                          24.05 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                          194.97
+TAX 10.55% ON 194.97               20.57
+TOTAL                             215.54
+VISA TEND                         215.54
+CHANGE                              0.00
+
+05/15/26 19:49  ITEMS 14
+T=TAXABLE
+               THANK YOU

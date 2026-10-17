@@ -1,0 +1,41 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3374
+
+  0.73 lb @ 1.05 /lb
+RDSHS                             0.77 F
+KRO OAT MLK                       3.10 F
+KRO TOOTHPASTE                   16.40 T
+  1.93 lb @ 2.90 /lb
+BNNS                              5.60 F
+ORG BABY SPNCH 5 OZ               5.85 F
+RIBEYE STEAK                     19.87 F
+  2 @ 1.15
+SMPL TRTH CHERRY TOM              2.30 F
+SMPL TRTH UNSALTED BUTTER         9.95 F
+SMPL TRTH RASPBERRIES             7.24 F
+  3 @ 2.98
+SMPL TRTH DICED TOM CAN           8.94 F
+CRRTS 2 LB                        1.74 F
+MFR CPN                          0.52-  
+ICEBERG LTTC                      5.11 F
+PRIV SEL ALMOND MLK               5.08 F
+  1.54 lb @ 6.69 /lb
+BNLS SKNLS CHKN BRST             10.30 F
+  2 @ 1.95
+ORG ITALIAN PRSLY                 3.90 F
+KRO SILKEN TOFU                   2.29 F
+  2.42 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  18.49 F
+DIGITAL CPN                      2.02-  
+BAG FEE                           0.08 T
+
+SUBTOTAL                          124.47
+TAX 10.55% ON 16.48                 1.74
+TOTAL                             126.21
+DEBIT TEND                        126.21
+CHANGE                              0.00
+
+01/19/26 20:21  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

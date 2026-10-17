@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1125
+
+  1.00 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS               9.25 F
+FRESH DILL                        0.90 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           10.39
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              10.42
+VISA TEND                          10.42
+CHANGE                              0.00
+
+07/08/26 09:15  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

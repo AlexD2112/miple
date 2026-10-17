@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 1183
+
+SMPL TRTH APPLE JUICE 64OZ        7.25 F
+KRO SAVINGS                      2.15-  
+DARK CHOC PNT BTR CUPS            5.61 F
+FM FRZN WFFLS                     7.05 F
+DIGITAL CPN                      2.11-  
+LARGE EGGS 18 CT                  7.52 F
+ZIP TOP BAGS                     24.79 T
+DIGITAL CPN                      0.39- T
+SMPL TRTH SILKEN TOFU             2.29 F
+  4 @ 1.08
+KRO TUNA CAN                      4.32 F
+  2 @ 1.51
+COLA 12PK CANS                    3.02 T
+SMPL TRTH GREEN BEANS             2.31 F
+SMPL TRTH FRZN PEAS              13.98 F
+FM PLUS CARD SAV                 2.31-  
+  4 @ 1.95
+ORG ITALIAN PARSLEY               7.80 F
+DIGITAL CPN                      2.34-  
+
+SUBTOTAL                           76.64
+TAX 10.55% ON 27.42                 2.89
+TOTAL                              79.53
+VISA TEND                          79.53
+CHANGE                              0.00
+
+02/14/26 18:59  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

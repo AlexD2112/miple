@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #3462  San Francisco CA
+            MEMBER ************
+
+239278 KS ORANGE JUICE                7.69 E
+  1 @ 0.05
+CA CRV                                0.05  
+1135308 KS ICBRG LTTC                 5.11 E
+1687714 BLUBRY 18 OZ                  4.61 E
+524394 ORG BABY SPNCH                 5.54 E
+1411289 KS WHOLE WHEAT SANDWICH BRE  10.16 E
+     4 @ 2.54
+3420014 TPD/WHOLE WHEAT              1.20-  
+594702 KS RANCH DRESSING              3.99 E
+157552 UNEXPECTED CHEDDAR            16.54 E
+     0.92 lb @ 17.98 /lb
+1094311 2% MILK 2 X 1 GAL             4.70 E
+728419 KS ZIP TOP BAGS               24.79 A
+1261380 HASS AVOCADO LG              12.69 E
+     3.80 lb @ 3.34 /lb
+1245240 TILLAMOOK MEDIUM CHDR 2.5 LB  4.21 E
+2539518 TPD/TILLAMOOK ME             1.26-  
+1760520 ORG RASPB 6 OZ                6.28 E
+694849 MAYONNAISE 30 OZ               6.42 E
+1184623 KS FRZN PEAS                 13.98 E
+391532 AA BATTERIES 8PK              24.36 A
+264221 MANDARIN ORANGE CHKN          15.87 E
+
+SUBTOTAL                              164.53
+TAX 8.625% ON 49.15                     4.24
+**** TOTAL                            168.77
+DISCOVER TEND                         168.77
+CHANGE                                  0.00
+
+03/13/26 10:09  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

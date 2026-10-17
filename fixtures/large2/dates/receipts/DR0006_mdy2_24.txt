@@ -1,0 +1,20 @@
+                SAFEWAY
+      Store 0879  San Francisco CA
+             (555) 010-4571
+
+LIMES                             2.80 S
+  2 @ 3.77
+BAGELS                            7.54 S
+ORGANIC ITALIAN PARSLEY           1.95 S
+J4U PERSONAL DEAL                0.29-  
+
+SUBTOTAL                           12.00
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         12.00
+DEBIT TEND                         12.00
+CHANGE                              0.00
+
+11/01/26 01:41  621 13 8661 3671
+ITEMS 28   REG 12  TRANS 3260
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

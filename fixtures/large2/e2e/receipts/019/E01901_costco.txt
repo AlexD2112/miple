@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2241  Seattle WA
+            MEMBER ************
+
+1747842 KS BNNS                       5.74 E
+     1.98 lb @ 2.90 /lb
+0234780 TPD/BNNS                     1.30-  
+1302781 BRIE                          4.85 E
+752697 BLACKBERRIES                   3.92 E
+1075678 KS CHKN THIGHS                9.29 E
+1151338 KS QUINOA                     7.75 E
+1276144 TPD/QUINOA                   2.32-  
+446337 KS FRESH DILL                  3.60 E
+     4 @ 0.90
+777713 KS CCNT MLK CAN                7.66 E
+     2 @ 3.83
+1199258 KS SLTD BTR                   5.73 E
+928751 KS ICEBERG LTTC                5.11 E
+350261 KS BOTTLED WTR 24PK            9.32 E
+1385274 COCA-COLA 12 PACK CANS        2.77 A
+1263379 TPD/COCA-COLA 12             0.83- A
+976998 KS CAULIFLOWER                10.68 E
+     2.84 lb @ 3.76 /lb
+5911799 TPD/CAULIFLOWER              2.89-  
+201785 KS ROTIS CHKN                  5.04 A
+1142924 KS GROUND PORK                6.60 E
+806231 KS PAPER TOWELS 6 ROLL         3.75 A
+9669889 TPD/PAPER TOWELS             1.13- A
+257440 LEMON                          4.30 E
+872682 MANDARIN ORANGE CHKN          15.87 E
+
+SUBTOTAL                              103.51
+TAX 10.55% ON 9.60                      1.01
+**** TOTAL                            104.52
+DEBIT TEND                            104.52
+CHANGE                                  0.00
+
+03/03/26 16:36  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

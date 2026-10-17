@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3117  Portland OR
+            MEMBER ************
+
+1899393 WHL WHT SANDWICH BRD          2.54 E
+2980121 TPD/WHL WHT SAND             0.76-  
+407957 KS JALAPENO                    1.71 E
+     1.07 lb @ 1.60 /lb
+7462542 TPD/JALAPENO                 0.51-  
+1971393 CAULIFLOWER                  14.55 E
+     3.87 lb @ 3.76 /lb
+117512 BNLS SKNLS CHKN BRST          11.04 E
+     1.65 lb @ 6.69 /lb
+1705793 LEMON                         4.30 E
+183326 BANANA                         2.37 E
+1701652 KS CRL                        6.63 E
+
+SUBTOTAL                               41.87
+TAX                                     0.00
+**** TOTAL                             41.87
+AMEX TEND                              41.87
+CHANGE                                  0.00
+
+05/23/26 20:31  ITEMS 7
+A=TAXABLE  E=EXEMPT
+                 THANK YOU

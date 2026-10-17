@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2717  Seattle WA
+            MEMBER ************
+
+1730469 LAMB CHOPS                   41.82 E
+     2.45 lb @ 17.07 /lb
+786443 KS VAN YGRT CUPS               5.39 E
+1059609 LG BROWN EGGS                 4.29 E
+1599810 TOOTHPASTE                   16.40 A
+48374 KS FRESH MINT                  10.96 E
+     4 @ 2.74
+802234 KS ROLLED OATS                15.92 E
+     4 @ 3.98
+6353211 TPD/ROLLED OATS              2.01-  
+302103 BANANA                         7.11 E
+     3 @ 2.37
+38667 CILANTRO BUNCH                  2.02 E
+
+SUBTOTAL                              101.90
+TAX 10.55% ON 16.40                     1.73
+**** TOTAL                            103.63
+DEBIT TEND                            103.63
+CHANGE                                  0.00
+
+04/09/26 18:04  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

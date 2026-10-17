@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 2503
+
+  1.73 lb @ 3.72 /lb
+SMPL TRTH ZCCHN                   6.44 F
+  2 @ 1.00
+DICED TOM 14.5 OZ                 2.00 F
+GRASS-FED GRND BF 85/15           7.35 F
+SMPL TRTH SALSA JAR               2.09 F
+KRO SAVINGS                      0.63-  
+  2 @ 4.05
+TILLAMOOK VAN YGRT                8.10 F
+
+SUBTOTAL                           25.35
+TAX                                 0.00
+TOTAL                              25.35
+MASTERCARD TEND                    25.35
+CHANGE                              0.00
+
+08/19/26 10:49  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,31 @@
+               FRED MEYER
+              Portland OR
+               Store 1766
+
+  2 @ 2.61
+ORG SPROUTED TOFU                 5.22 F
+PEPSI 12 PK CANS                  4.93 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+HEINZ KETCHUP 32 OZ               4.48 F
+BLACK BEANS 15 OZ CAN            10.76 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+HONEYCRISP APPLES                 4.67 F
+  5.13 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  39.19 F
+FM PLUS CARD SAV                 0.44-  
+SHREDDED MOZZ 8 OZ                2.92 F
+DELI FRIED CHKN                  11.75 F
+KRO SAVINGS                      2.52-  
+AVCDS BAG 4 CT                    3.54 F
+BLACK FOREST HAM 9 OZ             7.00 F
+
+SUBTOTAL                          100.08
+TAX                                 0.00
+TOTAL                             100.08
+AMEX TEND                         100.08
+CHANGE                              0.00
+
+06/09/26 11:08  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

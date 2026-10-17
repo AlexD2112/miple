@@ -1,0 +1,19 @@
+              TRADER JOE'S
+        Store #3338  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+CABOT SHRP CHDR 8 OZ              8.48  
+TILLAMOOK MEDIUM CHDR            11.77  
+ORGANIC RASPBERRIES 6 OZ          6.28  
+CHICKEN GYOZA POTSTICKERS         9.88  
+CRACKERS                          2.00  
+
+SUBTOTAL                           36.41
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              36.41
+DEBIT TEND                         36.41
+CHANGE                              0.00
+
+06/06/26 10:52  ITEMS 5
+T=TAXABLE
+               THANK YOU

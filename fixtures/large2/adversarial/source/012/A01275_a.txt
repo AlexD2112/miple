@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3966  Portland OR
+            MEMBER ************
+STORE MGR: J******
+FUEL POINTS BALANCE     140
+TELL US HOW WE DID  31795117
+
+408329 KS COD FLLT                   48.12 E
+     2.65 lb @ 18.16 /lb
+1407866 KS GRND COFFEE                9.64 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+1861226 PARMIGIANO REGGIANO WEDGE     8.42 E
+1886407 KS APPLE JUICE 64OZ           7.25 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+522915 ARGL                           4.00 E
+5830115 TPD/ARGL                     0.93-  
+451277 STRAWBERRIES 2 LB              5.88 E
+1670259 DAVES KILLER BRD              6.69 E
+1438474 KS FRZN BROC                  1.72 E
+305729 SPRKLG WTR 8PK                 5.13 E
+  8 @ 0.10
+OR BTL DEP                            0.80  
+1244637 KS FROZEN BROCCOLI            1.72 E
+1496430 KS FRZN BROC                  1.72 E
+103840 KS PAPER TOWELS 6 ROLL         3.75 E
+1454439 BRIE                          4.85 E
+1938751 WHL WHT SNDWCH BRD            2.54 E
+1637255 KS BRIE                       4.85 E
+
+SUBTOTAL                              116.35
+TAX                                     0.00
+**** TOTAL                            116.35
+VISA TEND                             116.35
+CHANGE                                  0.00
+
+07/27/26 16:30  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+REWARDS BALANCE           341.72
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+NEXT VISIT COUPON          3.00 OFF
+BOTTLE RETURNS ACCEPTED    0.10/EA
+                 THANK YOU

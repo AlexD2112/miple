@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 2855
+
+SMPL TRTH YELLOW ONIN             1.78 F
+FM GINGER ALE 12PK                6.02 T
+DIGITAL CPN                      0.50- T
+CRRTS 2 LB                        1.74 F
+  3 @ 2.77
+HAMBURGER BUNS                    8.31 F
+SMPL TRTH MANDARINS               2.72 F
+SMPL TRTH GINGER ALE 12PK         6.02 T
+STRWB                             4.35 F
+  4 @ 2.46
+DIJON MSTRD                       9.84 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           40.52
+TAX 10.55% ON 11.78                 1.24
+TOTAL                              41.76
+VISA TEND                          41.76
+CHANGE                              0.00
+
+09/12/26 07:17  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

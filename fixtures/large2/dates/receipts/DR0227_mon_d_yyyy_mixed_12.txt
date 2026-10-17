@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0238  Seattle WA
+            MEMBER ************
+
+1550554 KS CHUCK ROAST               29.82 E
+     2.17 lb @ 13.74 /lb
+431794 TILLAMOOK MEDIUM CHEDDAR      11.77 E
+2701401 TPD/TILLAMOOK ME             0.25-  
+1491984 CHKN BROTH CARTON             8.38 E
+1364109 FOSTER FARMS BNLS SKNLS CHK  31.48 E
+     4.12 lb @ 7.64 /lb
+1068563 KS HALIBUT                   10.82 E
+1436622 BANANA                        9.48 E
+     4 @ 2.37
+924538 ORG BABY SPNCH                 5.54 E
+587655 HASS AVOCADO LG                6.58 E
+     1.97 lb @ 3.34 /lb
+6254386 TPD/HASS AVOCADO             1.80-  
+507762 KS PEANUT BUTTER               6.90 E
+
+SUBTOTAL                              118.72
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            118.72
+AMEX TEND                             118.72
+CHANGE                                  0.00
+
+Feb 10, 2027 12:29 am  238 238 9703 19
+ITEMS 14   REG 07  TRANS 9308
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

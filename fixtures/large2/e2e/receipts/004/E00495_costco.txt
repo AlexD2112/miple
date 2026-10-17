@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1958  Seattle WA
+            MEMBER ************
+
+1394047 LAUNDRY DETERGENT PODS       20.18 A
+247515 GRND BF 88/12                  5.22 E
+     0.87 lb @ 6.00 /lb
+857158 TILLAMOOK MEDIUM CHEDDAR 2.5   4.21 E
+
+SUBTOTAL                               29.61
+TAX 10.55% ON 20.18                     2.13
+**** TOTAL                             31.74
+DISCOVER TEND                          31.74
+CHANGE                                  0.00
+
+05/20/26 12:53  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

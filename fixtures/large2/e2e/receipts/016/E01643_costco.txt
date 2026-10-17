@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1593  Portland OR
+            MEMBER ************
+
+1727933 ORIGINAL HUMMUS 10 OZ         8.88 E
+350238 GRND COFFEE                    9.64 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+33469 KS ZCCHN                        4.46 E
+     1.20 lb @ 3.72 /lb
+1096096 YUKON GOLD POTS               3.99 E
+1188930 KS LEMONADE 52OZ              5.79 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+1860786 ORGANIC CARROTS BUNCH         4.63 E
+238738 CARROTS                        1.79 E
+1296139 JASMINE RICE 5 LB             1.49 E
+109302 FRZN BROC                      1.72 E
+1347477 SLCD SRDGH PAN LOAF           9.48 E
+     2 @ 4.74
+736311 KS RICOTTA                     8.76 E
+1833113 CRM CHS 8 OZ                  3.15 E
+1975650 GRK YGRT PLAIN                4.11 E
+995685 KS SHAMPOO                    17.57 E
+
+SUBTOTAL                               85.66
+TAX                                     0.00
+**** TOTAL                             85.66
+VISA TEND                              85.66
+CHANGE                                  0.00
+
+02/28/28 08:20  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0282
+
+  REFUND - ORIG RECEIPT
+RETURN DIET COLA 12PK CANS       4.42- T
+RETURN ORG EGGS 24 CT            7.83- F
+  REFUND - ORIG RECEIPT
+RETURN KRO FLOUR TORTILLAS       6.18- F
+RETURN SMPL TRTH STRWB           4.35- F
+
+SUBTOTAL                          22.78-
+TAX 10.55% ON 4.42-                0.47-
+TOTAL                             23.25-
+DISCOVER TEND                     23.25-
+CHANGE                              0.00
+
+06/06/26 16:21  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

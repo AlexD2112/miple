@@ -1,0 +1,36 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1663
+
+  2 @ 4.67
+SMPL TRTH HNYCRSP APPLES          9.34 F
+  2.23 lb @ 3.34 /lb
+HASS AVCD LG                      7.45 F
+  0.71 lb @ 1.79 /lb
+SMPL TRTH BEETS                   1.27 F
+ORG BABY SPNCH                    5.54 F
+  4 @ 2.77
+CC-CL 12 PK CANS                 11.08 T
+MFR CPN                          1.91- T
+PRIV SEL LEMONADE 52OZ            5.79 T
+BABY SPNCH                        5.42 F
+KRO BRIE                          4.85 F
+  2.79 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                5.47 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+  3 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU       8.34 F
+TTHPST                           16.40 T
+PRIV SEL GRND COFFEE              9.64 F
+  1.21 lb @ 1.79 /lb
+BEETS                             2.17 F
+
+SUBTOTAL                           95.06
+TAX 10.55% ON 31.36                 3.31
+TOTAL                              98.37
+DISCOVER TEND                      98.37
+CHANGE                              0.00
+
+07/09/26 15:50  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

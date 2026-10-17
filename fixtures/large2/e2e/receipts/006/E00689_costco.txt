@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1592  Seattle WA
+            MEMBER ************
+
+1847652 KS DICED TOMATOES CAN         2.98 E
+1767074 KS SWEET POTS                 3.28 E
+729682 KS PAPER PLATES                3.31 A
+523222 KS PORK CHOPS                 15.54 E
+     1.40 lb @ 11.10 /lb
+
+SUBTOTAL                               25.11
+TAX 10.55% ON 3.31                      0.35
+**** TOTAL                             25.46
+DISCOVER TEND                          25.46
+CHANGE                                  0.00
+
+07/12/26 16:22  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

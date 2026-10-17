@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3717
+
+LEMON                             4.30 F
+MFR CPN                          0.77-  
+KRO GINGER ALE 12PK                 6.02 T
+KRO SAVINGS                      0.73- T
+PRIV SEL SILKEN TOFU              2.29 F
+RUSSET POTATOES 5 LB BAG          4.53 F
+PRIV SEL GROUND COFFEE            9.64 F    
+BAG FEE                             0.08 T
+
+SUBTOTAL                           25.36
+TAX 10.55% ON 5.37                   0.57
+TOTAL                              25.93
+   DISCOVER TEND                      25.93
+ CHANGE                              0.00
+
+06/11/26 10:28  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

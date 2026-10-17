@@ -1,0 +1,20 @@
+                SAFEWAY
+      Store 1037  San Francisco CA
+             (555) 010-0332
+
+ORANGE JUICE 52OZ                 9.39 S
+  1 @ 0.10
+CA CRV                            0.10  
+PENNE 16 OZ                       3.51 S
+  REFUND - ORIG RECEIPT
+RETURN PENNE 16 OZ               3.51- S
+
+SUBTOTAL                            9.49
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                          9.49
+DEBIT TEND                          9.49
+CHANGE                              0.00
+
+02/03/26 19:28  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

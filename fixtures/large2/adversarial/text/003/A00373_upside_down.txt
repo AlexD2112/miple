@@ -1,0 +1,37 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+08/06/26 15:24  ITEMS 21
+
+CHANGE                              0.00
+DEBIT TEND                        156.47
+TOTAL                             156.47
+TAX 8.625% ON 19.39                 1.67
+SUBTOTAL                          154.80
+
+ICEBERG LTTC                      5.11 F
+365 ORG KERRYGOLD BTR            10.81 F
+365 CHUCK ROAST                  23.77 F
+  1.73 lb @ 13.74 /lb
+WHITE SANDWICH BRD                7.03 F
+SHRDDD MOZZ 8 OZ                  2.92 F
+365 ORG SWISS CHARD               2.87 F
+RDCD FAT 2% MLK GALLON            6.54 F
+COD FLLT                         23.79 F
+  1.31 lb @ 18.16 /lb
+365 ORG HAMBURGER BUNS            8.31 F
+  3 @ 2.77
+MISSION FLOUR TORT 40 CT          5.22 F
+PRIME 10% OFF                    1.69-  
+PENNE 16 OZ                      10.53 F
+  3 @ 3.51
+JASMINE RICE 25 LB                8.09 F
+WF RASPB                          7.24 F
+WF PARMIGIANO REGGIANO            7.82 F
+365 DISH SOAP                    19.39 T
+365 ORG CLNTR                     1.16 F
+PRIME MEMBER DEAL                1.63-  
+LG EGGS 18 CT                     7.52 F
+
+             (555) 020-8474
+            San Francisco CA
+           WHOLE FOODS MARKET

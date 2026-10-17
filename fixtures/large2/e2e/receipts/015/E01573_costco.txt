@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0215  Portland OR
+            MEMBER ************
+
+424116 KS CHERRY TOM                  3.45 E
+     3 @ 1.15
+1966219 KS ICE CREAM                 14.51 E
+1784716 ORG EGGS 24 CT                7.83 E
+1607155 HEINZ KETCHUP 32 OZ           8.96 E
+     2 @ 4.48
+103836 KS BRSSLS SPROUTS              9.02 E
+     3.87 lb @ 2.33 /lb
+1253489 SHREDDED CHEDDAR 8 OZ         6.42 E
+234598 KS AVOCADOS                    4.05 E
+559149 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+724090 KS TILAPIA FILLETS            21.66 E
+1780826 KS SHRP CHDR BLOCK           10.33 E
+1024531 HNDMD STYLE CORN TORT         3.55 E
+3436487 TPD/HNDMD STYLE              0.57-  
+1960828 CHKN BROTH 32 OZ             11.24 E
+     4 @ 2.81
+1287480 HOT BAR PREPARED FOOD BY WEI  8.83 E
+1370078 CHKN BROTH 32 OZ              5.62 E
+     2 @ 2.81
+
+SUBTOTAL                              117.68
+TAX                                     0.00
+**** TOTAL                            117.68
+DEBIT TEND                            117.68
+CHANGE                                  0.00
+
+04/19/26 13:09  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

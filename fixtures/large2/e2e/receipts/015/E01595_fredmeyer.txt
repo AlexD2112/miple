@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 3782
+
+PARMIGIANO REGGIANO WEDGE         8.42 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+KRO SAVINGS                      0.66-  
+
+SUBTOTAL                            9.97
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               9.97
+AMEX TEND                           9.97
+CHANGE                              0.00
+
+02/16/26 16:58  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 1383
+
+KRO GROUND COFFEE                 9.64 F
+CHBN PLAIN GRK YGRT 32 OZ         1.47 F
+KRO BAGELS                        3.77 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+  2.88 lb @ 13.74 /lb
+KRO CHUCK ROAST                  39.57 F
+MFR CPN                          0.44-  
+SLTD BTR 4 STICKS                 9.37 F
+BIBIGO PORK MANDU DMPLNGS 6 LB   10.32 F
+RCTT                              8.76 F
+SOURDOUGH LOAF                    7.47 F
+  2 @ 3.76
+ORG ROMAINE HEARTS 3 CT           7.52 F
+DIGITAL CPN                      2.09-  
+ORIGINAL HUMMUS 10 OZ             8.88 F
+  4 @ 2.09
+SALSA JAR                         8.36 F
+FM ORANGE JUICE 52OZ              9.39 F
+FROZEN WAFFLES                    7.05 F
+MYNNS 30 OZ                       6.42 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          139.75
+TAX 10.55% ON 0.08                  0.01
+TOTAL                             139.76
+MASTERCARD TEND                   139.76
+CHANGE                              0.00
+
+08/04/26 13:12  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

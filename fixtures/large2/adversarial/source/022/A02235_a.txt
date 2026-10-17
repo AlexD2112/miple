@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2307
+
+  REFUND - ORIG RECEIPT
+RETURN ORGANIC EGGS 24 CT        7.83- F
+  REFUND - ORIG RECEIPT
+RETURN BARTLETT PEARS            3.00- F
+  REFUND - ORIG RECEIPT
+RETURN SPONGES 3PK               9.54- T
+
+SUBTOTAL                          20.37-
+TAX 10.55% ON 9.54-                1.01-
+TOTAL                             21.38-
+DEBIT TEND                        21.38-
+CHANGE                              0.00
+
+05/11/26 12:22  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

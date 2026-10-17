@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3163
+
+RED GRAPES                        3.04 F
+ORG BLACK BEANS 8 CANS            1.15 F
+DIGITAL CPN                      0.35-  
+SMPL TRTH HAMBURGER BUNS          2.77 F
+DIGITAL CPN                      0.83-  
+  4 @ 1.49
+ORG BASIL CLMSHLL                 5.96 F
+KRO PENNE                        13.38 F
+
+SUBTOTAL                           25.12
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              25.12
+CASH TEND                          40.00
+CHANGE                             14.88
+
+03-04-25 01:22:16  4051 25 202 1
+ITEMS 1   REG 07  TRANS 7315
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

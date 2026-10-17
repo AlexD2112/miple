@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2698  Seattle WA
+            MEMBER ************
+
+1914162 KS LIGHT BULBS 4PK           17.04 A
+346134 ALUMINUM FOIL                 18.03 A
+921663 ZIP TOP BAGS                  24.79 A
+695586 KS NPKNS                      24.05 A
+1966673 KS TRASH BAGS 40CT            6.49 A
+
+SUBTOTAL                               90.40
+TAX 10.55% ON 90.40                     9.54
+**** TOTAL                             99.94
+AMEX TEND                              99.94
+CHANGE                                  0.00
+
+02/23/26 08:58  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

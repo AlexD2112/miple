@@ -1,0 +1,20 @@
+              TRADER JOE'S
+        Store #2777  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+  2.11 lb @ 9.65 /lb
+PORK TENDERLOIN                  20.36  
+  0.48 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               5.28  
+ORANGE JUICE 52OZ                 9.39  
+
+SUBTOTAL                           35.03
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              35.03
+DEBIT TEND                         35.03
+CHANGE                              0.00
+
+11-01-2026 1:32AM
+ITEMS 15   REG 19  TRANS 5668
+T=TAXABLE
+               THANK YOU

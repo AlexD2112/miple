@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 3935
+
+RASPB                             7.24 F
+LG EGGS 18 CT                     7.52 F
+  4 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU      11.12 F
+KRO LIGHT BULBS 4PK              17.04 T
+KRO SAVINGS                      2.06- T
+  2 @ 4.00
+SMPL TRTH ARUGULA                 8.00 F
+FRZN BROC                         1.72 F
+FM RIBEYE STEAK                  19.87 F
+KRO SAVINGS                      0.67-  
+  1.23 lb @ 10.99 /lb
+DELI SLICED TURKEY BREAST        13.52 F
+  2 @ 2.93
+ASPARAGUS                         5.86 F
+MFR CPN                          1.76-  
+  4 @ 4.67
+SMPL TRTH HONEYCRISP APPLES      18.68 F
+  3 @ 2.29
+SMPL TRTH SILKEN TOFU             6.87 F
+  2.81 lb @ 0.76 /lb
+MANGO                             2.14 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          115.33
+TAX 10.55% ON 15.22                 1.61
+TOTAL                             116.94
+AMEX TEND                         116.94
+CHANGE                              0.00
+
+08/10/26 09:58  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

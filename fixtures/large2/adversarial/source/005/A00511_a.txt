@@ -1,0 +1,35 @@
+               FRED MEYER
+              Portland OR
+               Store 0321
+
+  3.20 lb @ 1.25 /lb
+SMPL TRTH PINEAPPLE               4.00 F
+SPONGES 3PK                       9.54 F
+MFR CPN                          0.53-  
+KRO HALIBUT                      10.82 F
+  2 @ 3.33
+FM TORTILLA CHIPS                 6.66 F
+TILLAMOOK MEDIUM CHDR            11.77 F
+MFR CPN                          2.30-  
+  2 @ 5.13
+KRO SPRKLG WTR 8PK               10.26 F
+  16 @ 0.10
+OR BTL DEP                        1.60  
+CRM CHS                           8.63 F
+HNDMD STYLE CORN TORT             3.55 F
+ALL PURPOSE FLOUR                11.36 F
+MFR CPN                          2.15-  
+DISH SOAP                        19.39 F
+SWISS CHARD                       2.87 F
+SPRING MIX                        5.44 F
+FM SOY SCE                        6.79 F
+
+SUBTOTAL                          107.70
+TAX                                 0.00
+TOTAL                             107.70
+DEBIT TEND                        107.70
+CHANGE                              0.00
+
+05/04/26 07:02  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

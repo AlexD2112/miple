@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1678
+
+  2 @ 4.67
+SMPL TRTH HONEYCRISP APPLES       9.34 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+PAPER PLATES                      3.31 T
+RED GRAPES                        3.04 F
+ALUMINUM FOIL                    18.03 T
+PRIV SEL UNSLTD BTR               9.95 F
+CHKN DRUMSTICKS                   8.97 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           61.68
+TAX 10.55% ON 21.50                 2.27
+TOTAL                              63.95
+CASH TEND                          80.00
+CHANGE                             16.05
+
+08/12/26 08:27  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

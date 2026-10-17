@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 2706
+
+UNSLTD BTR 4 X 1 LB               9.48 F
+ORG ITLN PRSLY                    1.95 F
+SMPL TRTH ICBRG LTTC              5.11 F
+NAPKINS                          24.05 T
+FLOUR TORT 10 CT                  2.35 F
+CILANTRO                          1.16 F
+FRZN BROC FLORETS                 8.13 F
+ZIP TOP BAGS                     24.79 T
+  2 @ 5.39
+KRO VAN YGRT CUPS                10.78 F
+SMPL TRTH CELERY                  4.32 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+MFR CPN                          0.28-  
+  3.76 lb @ 6.00 /lb
+GRND BF 88/12                    22.56 F
+FM SOY SAUCE                      6.79 F
+SMPL TRTH SILKEN TOFU             2.29 F
+CAT LITTER                       14.03 T
+  0.77 lb @ 11.10 /lb
+SMPL TRTH PORK CHOPS              8.55 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          154.70
+TAX 10.55% ON 63.03                 6.65
+TOTAL                             161.35
+DEBIT TEND                        161.35
+CHANGE                              0.00
+
+05/16/26 19:51  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

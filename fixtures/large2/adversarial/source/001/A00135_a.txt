@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2159
+
+PENNE                            13.38 F
+  3.48 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               12.95 F
+SMPL TRTH FRZN PIZZA             13.30 F
+SMPL TRTH ROLLED OATS             3.98 F
+
+SUBTOTAL                           43.61
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              43.61
+DISCOVER TEND                      43.61
+CHANGE                              0.00
+
+04/06/26 20:53  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

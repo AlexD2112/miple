@@ -1,0 +1,49 @@
+               FRED MEYER
+              Portland OR
+               Store 2635
+
+ORG BABY SPNCH 5 OZ               5.85 F
+  2.43 lb @ 1.25 /lb
+PINEAPPLE                         3.04 F
+DIJON MUSTARD                     2.46 F
+TOSTITOS SCOOPS TORTILLA CHIPS    3.46 F
+CHOBANI PLAIN GRK YGRT 32 OZ      1.47 F
+KRO SAVINGS                      0.44-  
+KRO SPRKLG WTR 8PK                5.13 F
+  8 @ 0.10
+OR BTL DEP                        0.80  
+  2.84 lb @ 1.05 /lb
+RDSHS                             2.98 F
+SMPL TRTH CHICKEN DRUMSTICKS      8.97 F
+  3 @ 2.45
+BOTTLED WTR 40 PK                 7.35 F
+  120 @ 0.10
+OR BTL DEP                       12.00  
+SMPL TRTH KALE                    4.17 F
+YELLOW ONIN                       1.78 F
+FM RICOTTA                        8.76 F
+DIGITAL CPN                      0.22-  
+  2 @ 2.87
+SMPL TRTH SWISS CHARD             5.74 F
+  2.97 lb @ 17.07 /lb
+FM LAMB CHOPS                    50.70 F
+DOUBLE CREME BRIE                 5.40 F
+CC-CL 12 PK CANS                  2.77 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+FM PLUS CARD SAV                 0.83-  
+  0.84 lb @ 3.76 /lb
+SMPL TRTH CLFLWR                  3.16 F
+PLAIN GOAT CHEESE                 5.77 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                          140.47
+TAX                                 0.00
+TOTAL                             140.47
+DEBIT TEND                        140.47
+CHANGE                              0.00
+
+08/08/26 15:14  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

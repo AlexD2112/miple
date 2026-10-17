@@ -1,0 +1,39 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+09/26/26 21:10  ITEMS 18
+
+CHANGE                             14.77
+CASH TEND                         100.00
+TOTAL                              85.23
+TAX 10.55% ON 3.99                  0.42
+SUBTOTAL                           84.81
+
+BAG FEE                           0.24 T
+  3 @ 0.08
+PAPER TOWELS 6 ROLL               3.75 T
+FLOUR TORT 10 CT                  2.35 F
+CROISSANTS 12 CT                  4.87 F
+SMPL TRTH PEANUT BUTTER           6.90 F
+KRO BOTTLED WATER 24PK            9.32 F
+SWISS CHARD                       2.87 F
+DRIED LNTLS                       8.52 F
+  2 @ 4.26
+FM PLUS CARD SAV                 0.93-  
+OAT MLK                           3.10 F
+SMPL TRTH SPRING MIX              5.44 F
+KRO FRZN BROC                     1.72 F
+MANGO                             0.76 F
+  1.00 lb @ 0.76 /lb
+KRO SAVINGS                      0.88-  
+SMPL TRTH ORANGE JUICE            7.69 F
+BRUSSELS SPROUTS                  3.68 F
+  1.58 lb @ 2.33 /lb
+FM PLUS CARD SAV                 1.88-  
+KRO SPAGHETTI                     9.54 F
+KRO BTTLD WTR 24PK                9.32 F
+CELERY                            4.32 F
+GRK YGRT PLAIN                    4.11 F
+
+               Store 2603
+               Seattle WA
+               FRED MEYER

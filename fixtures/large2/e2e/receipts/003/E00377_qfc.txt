@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2491
+
+SMPL TRTH RED GRAPES              3.04 F
+KRO DIJON MUSTARD                 2.46 F
+MFR CPN                          0.63-  
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+
+SUBTOTAL                            9.08
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               9.08
+AMEX TEND                           9.08
+CHANGE                              0.00
+
+05/13/26 09:02  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

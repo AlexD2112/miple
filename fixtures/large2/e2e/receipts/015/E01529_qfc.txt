@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0905
+
+SMPL TRTH TILAPIA FILLETS        21.66 F
+GRK YGRT 48 OZ                    1.97 F
+KRO SOY SCE                       6.79 F
+KALE                              4.17 F
+PRIV SEL DIET COLA 12PK CANS      4.42 T
+PRIV SEL FROZEN MIXED BERRIES     2.06 F
+MFR CPN                          0.62-  
+ORG EGGS 24 CT                    7.83 F
+SMPL TRTH PARMIGIANO RGGN         7.82 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+
+SUBTOTAL                           62.70
+TAX 10.55% ON 4.42                  0.47
+TOTAL                              63.17
+AMEX TEND                          63.17
+CHANGE                              0.00
+
+09/30/26 10:36  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

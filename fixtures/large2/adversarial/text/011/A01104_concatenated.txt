@@ -1,0 +1,48 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3074  Seattle WA
+            MEMBER ************
+
+1791818 BNLS PORK LOIN CHOPS         35.75 E
+     3.60 lb @ 9.93 /lb
+309720 SLTD BTR 4 STICKS              9.37 E
+1711860 SHRDDD CHDR 8 OZ              6.42 E
+1108602 KS CHERRIES                   5.69 E
+5709896 TPD/CHERRIES                 1.49-  
+382876 BLUEBERRIES                   11.74 E
+     2 @ 5.87
+1548683 WHITE BRD                     6.34 E
+
+SUBTOTAL                               73.82
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             73.82
+VISA TEND                              73.82
+CHANGE                                  0.00
+
+02/25/26 11:45  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+
+
+               FRED MEYER
+              Portland OR
+               Store 1828
+
+HAMBURGER BUNS                    2.77 F
+  2 @ 5.42
+BABY SPNCH                       10.84 F
+FM WHL WHT SANDWICH BRD           2.54 F
+CRL                               6.63 F
+SMPL TRTH DIJON MUSTARD           2.46 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           25.34
+TAX                                 0.00
+TOTAL                              25.34
+MASTERCARD TEND                    25.34
+CHANGE                              0.00
+
+05/06/26 10:04  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

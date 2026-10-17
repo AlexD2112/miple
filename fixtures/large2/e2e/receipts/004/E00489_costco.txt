@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0799  Seattle WA
+            MEMBER ************
+
+1683490 FRZN PEAS                    13.98 E
+1048458 KS ALMOND MLK                 5.08 E
+1642354 PARMIGIANO REGGIANO           7.82 E
+189611 KS WHL WHT SANDWICH BRD       10.16 E
+     4 @ 2.54
+1064659 TRASH BAGS 40CT               6.49 A
+
+SUBTOTAL                               43.53
+TAX 10.55% ON 6.49                      0.68
+**** TOTAL                             44.21
+VISA TEND                              44.21
+CHANGE                                  0.00
+
+01/11/26 09:43  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

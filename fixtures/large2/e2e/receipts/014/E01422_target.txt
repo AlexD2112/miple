@@ -1,0 +1,19 @@
+                 TARGET
+        San Francisco CA  T-2387
+             (555) 030-6484
+
+GG ARUGULA                        4.00 N
+PLAIN GOAT CHEESE                 5.77 N
+BLACKBERRIES                      3.92 N
+GG AHI TUNA STEAK                14.71 N
+BAG FEE                           0.25  
+
+SUBTOTAL                           28.65
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              28.65
+AMEX TEND                          28.65
+CHANGE                              0.00
+
+01/23/26 11:47  ITEMS 4
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

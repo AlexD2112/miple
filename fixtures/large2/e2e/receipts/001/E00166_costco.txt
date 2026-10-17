@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0586  Seattle WA
+            MEMBER ************
+
+53782 KS GRND CHKN                   19.84 E
+     3.92 lb @ 5.06 /lb
+323929 KS BLUBRY                     17.61 E
+     3 @ 5.87
+1898114 HEINZ KETCHUP 32 OZ           8.96 E
+     2 @ 4.48
+382430 WHITE SANDWICH BRD             7.03 E
+240380 CAULIFLOWER GNOCCHI            7.85 E
+363670 KS CAULIFLOWER                 7.18 E
+     1.91 lb @ 3.76 /lb
+1107908 KS WHOLE WHEAT SANDWICH BREA  2.54 E
+209759 GRND BF 88/12                 27.66 E
+     4.61 lb @ 6.00 /lb
+1867850 CARROTS 2 LB                  1.74 E
+6363752 TPD/CARROTS 2 LB             0.52-  
+83784 KS MNDRNS                       2.72 E
+2934075 TPD/MNDRNS                   0.82-  
+1648972 KS PNT BTR                    6.90 E
+470167 KS STRWB                       4.35 E
+576303 2% MLK 2 X 1 GAL               4.70 E
+1719297 KS FRZN PEAS                 13.98 E
+668241 KS AVOCADOS                    4.05 E
+1235679 BNLS RIBEYE STEAK            32.21 E
+     2.07 lb @ 15.56 /lb
+6716561 TPD/BNLS RIBEYE              2.80-  
+
+SUBTOTAL                              165.18
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            165.18
+VISA TEND                             165.18
+CHANGE                                  0.00
+
+09/07/26 14:27  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

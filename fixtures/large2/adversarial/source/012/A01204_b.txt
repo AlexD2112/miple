@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2221  Seattle WA
+            MEMBER ************
+
+1474690 TORTILLA CHIPS                3.33 E
+371649 KS LAMB CHOPS                 34.14 E
+     2.00 lb @ 17.07 /lb
+1908746 BNLS CHKN THIGHS             24.43 E
+     5.63 lb @ 4.34 /lb
+1663211 CILANTRO BUNCH                4.04 E
+     2 @ 2.02
+1289625 KS DAVES KILLER BRD           6.69 E
+219884 KS PNT BTR                     6.90 E
+505830 KTCHP                          5.49 E
+989888 KS ZUCCHINI                    2.53 E
+     0.68 lb @ 3.72 /lb
+
+SUBTOTAL                               87.55
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             87.55
+DISCOVER TEND                          87.55
+CHANGE                                  0.00
+
+02/08/26 14:04  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

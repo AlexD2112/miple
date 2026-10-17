@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3392
+
+SMPL TRTH FROZEN DUMPLINGS       15.61 F
+  0.71 lb @ 13.18 /lb
+SMPL TRTH SLICED TURKEY BREAST    9.36 F
+SALSA JAR                         2.09 F
+SRIRACHA                          3.16 F
+ROMA TOM                          2.38 F
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+SMPL TRTH DIET COLA 12PK CANS     4.42 T
+  3.13 lb @ 17.07 /lb
+KRO LAMB CHOPS                   53.43 F
+  0.59 lb @ 13.18 /lb
+SMPL TRTH SLCD TRKY BRST          7.78 F
+SLTD BTR 4 STICKS                 9.37 F
+WHITE SNDWCH BRD                  7.03 F
+
+SUBTOTAL                          123.46
+TAX 10.55% ON 13.25                 1.40
+TOTAL                             124.86
+DEBIT TEND                        124.86
+CHANGE                              0.00
+
+04/20/26 11:33  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

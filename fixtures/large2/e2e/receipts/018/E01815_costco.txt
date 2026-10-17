@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2881  Seattle WA
+            MEMBER ************
+
+1010510 KS HAND SOAP                 24.27 A
+531106 ORG BLACK BEANS 8 CANS         1.15 E
+283678 KS AHI TUNA STEAK             14.71 E
+
+SUBTOTAL                               40.13
+TAX 10.55% ON 24.27                     2.56
+**** TOTAL                             42.69
+DISCOVER TEND                          42.69
+CHANGE                                  0.00
+
+03/16/26 15:16  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

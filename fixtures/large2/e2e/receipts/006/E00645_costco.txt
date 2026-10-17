@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2053  Portland OR
+            MEMBER ************
+
+694613 CARROTS 2 LB                   1.74 E
+327871 CHICKEN BROTH 32 OZ            2.81 E
+
+SUBTOTAL                                4.55
+TAX                                     0.00
+**** TOTAL                              4.55
+VISA TEND                               4.55
+CHANGE                                  0.00
+
+02/19/26 16:19  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

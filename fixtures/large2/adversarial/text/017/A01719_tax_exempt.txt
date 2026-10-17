@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 3592
+TAX EXEMPT ID ******2435
+
+  0.41 lb @ 13.18 /lb
+KRO SLCD TRKY BRST                5.40 F
+KRO RIBEYE STEAK                 19.87 F
+  2 @ 3.74
+KRO SPRKLG WTR                    7.48 F
+TOOTHPASTE                       16.40 T
+  1.59 lb @ 1.60 /lb
+SMPL TRTH JLPN                    2.54 F
+BTR LTTC                          2.45 F
+DIGITAL CPN                      0.74-  
+LG EGGS 18 CT                     7.52 F
+  2 @ 2.61
+ORG SPROUTED TOFU                 5.22 F
+YELLOW ONIN                       1.78 F
+FM PLUS CARD SAV                 0.53-  
+FRZN MIXED BERRIES                2.06 F
+FM PLUS CARD SAV                 0.62-  
+ARUGULA                           4.00 F
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+  2.32 lb @ 1.05 /lb
+RADISHES                          2.44 F
+BLACK FOREST HAM 9 OZ             7.00 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+
+SUBTOTAL                           98.57
+TAX EXEMPT                          0.00
+TOTAL                              98.57
+CASH TEND                         100.00
+CHANGE                              1.43
+
+06/05/26 11:31  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

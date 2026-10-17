@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2917  San Francisco CA
+            MEMBER ************
+
+1672223 KS PNT BTR                    6.90 E
+1311821 SALSA JAR                     2.09 E
+400015 ALMNM FOIL                    18.03 A
+1779267 REDUCED FAT 2% MILK GALLON    6.54 E
+392943 LEMONADE 52OZ                  5.79 E
+  1 @ 0.10
+CA CRV                                0.10  
+1824768 KS FRZN DUMPLINGS            15.61 E
+227366 KS FRESH MINT                  2.74 E
+1293453 LG BROWN EGGS                 4.29 E
+616423 HUY FONG SRRCH                 7.65 E
+     3 @ 2.55
+1326417 KS PORK CHOPS                41.51 E
+     3.74 lb @ 11.10 /lb
+
+SUBTOTAL                              111.25
+TAX 8.625% ON 18.03                     1.56
+**** TOTAL                            112.81
+MASTERCARD TEND                       112.81
+CHANGE                                  0.00
+
+09/05/26 13:48  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

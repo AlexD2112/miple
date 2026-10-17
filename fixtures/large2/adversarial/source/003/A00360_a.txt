@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1974  Seattle WA
+            MEMBER ************
+
+619406 HONEYCRISP APPLES              4.67 E
+4881548 TPD/HONEYCRISP A             1.40-  
+189196 KS BABY SPNCH                  5.42 E
+1335672 KS PORK CHOPS                35.85 E
+     3.23 lb @ 11.10 /lb
+299953 KS SLCD TRKY BRST              6.46 E
+     0.49 lb @ 13.18 /lb
+
+SUBTOTAL                               51.00
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             51.00
+DISCOVER TEND                          51.00
+CHANGE                                  0.00
+
+02/23/26 09:47  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

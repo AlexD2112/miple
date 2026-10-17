@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0230  Seattle WA
+            MEMBER ************
+
+804722 DAVES KILLER BREAD 21 WHOLE   14.34 E
+     3 @ 4.78
+819270 JASMINE RICE 5 LB              4.47 E
+     3 @ 1.49
+1633422 KS RED BELL PEPR             11.66 E
+     3.41 lb @ 3.42 /lb
+1495415 KS ROOT BEER 2L              10.48 A
+     2 @ 5.24
+436381 KS MANDARINS                   2.72 E
+29497 KS SPRING MIX                   5.44 E
+1033675 SPONGES 3PK                   9.54 A
+893326 KS ROOT BEER 2L                5.24 A
+3697883 TPD/ROOT BEER 2L             1.57- A
+421020 SLTD BTR 4 STICKS              9.37 E
+436598 BLUBRY 18 OZ                   9.22 E
+     2 @ 4.61
+1582563 ALL PRPS FLOUR               11.36 E
+9756986 TPD/ALL PRPS FLO             2.99-  
+
+SUBTOTAL                               89.28
+TAX 10.55% ON 23.69                     2.50
+**** TOTAL                             91.78
+AMEX TEND                              91.78
+CHANGE                                  0.00
+
+06/21/26 13:38  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

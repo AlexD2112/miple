@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0848  Seattle WA
+            MEMBER ************
+
+1125778 ORIGINAL HUMMUS 10 OZ         8.88 E
+0317721 TPD/ORIGINAL HUM             1.44-  
+1032084 ORG EGGS 24 CT                7.83 E
+1031156 KS CRL                        6.63 E
+1398413 GINGER ALE 12PK               6.02 A
+257076 RED GRAPES                     3.04 E
+1952350 PINEAPPLE                     1.94 E
+     1.55 lb @ 1.25 /lb
+1952350 PINEAPPLE                     1.94 E
+     1.55 lb @ 1.25 /lb
+245007 FRZN THREE BERRY BLEND 4 LB    2.56 E
+777496 ORG CARROTS BUNCH              4.63 E
+167248 GRND CHKN                     18.57 E
+     3.67 lb @ 5.06 /lb
+169604 MSSN FLOUR TORT 40 CT         15.66 E
+     3 @ 5.22
+1922312 GRND BF 88/12                11.88 E
+     1.98 lb @ 6.00 /lb
+1683076 TPD/GRND BF 88/1             1.41-  
+
+SUBTOTAL                               86.73
+TAX 10.55% ON 6.02                      0.64
+**** TOTAL                             87.37
+DEBIT TEND                             87.37
+CHANGE                                  0.00
+
+07/30/26 18:28  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

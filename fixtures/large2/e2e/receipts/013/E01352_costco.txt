@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0575  Seattle WA
+            MEMBER ************
+
+588211 TILLAMOOK MEDIUM CHDR         11.77 E
+1048746 KS COLD BREW COFFEE 32OZ      4.43 E
+
+SUBTOTAL                               16.20
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             16.20
+MASTERCARD TEND                        16.20
+CHANGE                                  0.00
+
+06/02/26 21:26  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

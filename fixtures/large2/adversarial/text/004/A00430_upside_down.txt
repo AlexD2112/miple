@@ -1,0 +1,22 @@
+               THANK YOU
+T=TAXABLE  S=NONTAXABLE FOOD
+03/04/26 20:50  ITEMS 5
+
+CHANGE                              0.00
+DEBIT TEND                         47.24
+**** TOTAL                         47.24
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                           47.24
+
+SW ROLLED OATS                    3.98 S
+DICED TOM 14.5 OZ                 1.00 S
+KERRYGOLD BTR                    10.81 S
+J4U PERSONAL DEAL                0.34-  
+SIG KTCHNS WHL WHT SANDWICH BRD   2.54 S
+J4U DIGITAL CPN                  0.70-  
+SIG SLCT CHUCK ROAST             29.95 S
+  2.18 lb @ 13.74 /lb
+
+             (555) 010-1831
+         Store 3665  Seattle WA
+                SAFEWAY

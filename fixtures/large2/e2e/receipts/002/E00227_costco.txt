@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1955  Seattle WA
+            MEMBER ************
+
+82218 BANANA                          9.48 E
+     4 @ 2.37
+4285315 TPD/BANANA                   2.58-  
+397184 KS CRKRS                       2.00 E
+1345099 TPD/CRKRS                    0.60-  
+1852367 DIJON MUSTARD                 2.46 E
+614874 QUINOA                         7.75 E
+936876 KS HONEYCRISP APPLES           4.67 E
+78621 KS YELLOW ONIN                  1.78 E
+1990869 2% MLK HALF GALLON            6.08 E
+989921 KS SPAGHETTI                   9.54 E
+729452 KS GALA APPLES                 3.80 E
+     1.65 lb @ 2.30 /lb
+1664366 KS KETCHUP                    5.49 E
+1947774 AVOCADOS BAG 4 CT             7.08 E
+     2 @ 3.54
+966143 KS ATLANTIC SLMN FLLT         19.77 E
+1956029 HANDMADE STYLE CORN TORTILLA  3.55 E
+713299 KS FRZN BROC                   6.88 E
+     4 @ 1.72
+752604 ROLLED OATS                    3.98 E
+549029 ORG CARROTS BUNCH              4.63 E
+
+SUBTOTAL                               95.76
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             95.76
+MASTERCARD TEND                        95.76
+CHANGE                                  0.00
+
+06/18/26 12:09  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

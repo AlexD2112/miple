@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1188  Seattle WA
+            MEMBER ************
+
+1124477 KS DIET COLA 12PK CANS        4.42 A
+746189 KS GRND COFFEE                 9.64 E
+4852980 TPD/GRND COFFEE              1.22-  
+526732 KS CHERRY TOMATOES             4.60 E
+     4 @ 1.15
+1842956 KS PAPER PLATES               3.31 A
+1970030 RUSSET POTATOES 5 LB BAG      4.53 E
+412272 KS KETCHUP                     5.49 E
+1776897 MANGO                         2.33 E
+     3.07 lb @ 0.76 /lb
+
+SUBTOTAL                               33.10
+TAX 10.55% ON 7.73                      0.82
+**** TOTAL                             33.92
+VISA TEND                              33.92
+CHANGE                                  0.00
+
+02/29/28 23:35  182 182 3496 18
+ITEMS 1   REG 13  TRANS 6467
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

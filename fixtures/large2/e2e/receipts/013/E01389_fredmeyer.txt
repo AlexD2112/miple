@@ -1,0 +1,38 @@
+               FRED MEYER
+              Portland OR
+               Store 2239
+
+KRO MYNNS                         6.36 F
+PEPSI 12 PK CANS                  4.93 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+MFR CPN                          1.48-  
+  1.48 lb @ 17.07 /lb
+KRO LAMB CHOPS                   25.26 F
+  4 @ 1.57
+ORG GALA APPLES                   6.28 F
+  3 @ 4.35
+STRAWBERRIES                     13.05 F
+FM FRZN PEAS                     13.98 F
+  4 @ 2.45
+SMPL TRTH BTR LTTC                9.80 F
+  4.08 lb @ 5.06 /lb
+GRND CHKN                        20.64 F
+FM ALL PURPOSE FLOUR             11.36 F
+KRO SAVINGS                      2.71-  
+  2 @ 2.32
+KRO EXTRA FIRM TOFU               4.64 F
+  0.61 lb @ 18.16 /lb
+KRO COD FLLT                     11.08 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                          123.44
+TAX                                 0.00
+TOTAL                             123.44
+DEBIT TEND                        123.44
+CHANGE                              0.00
+
+04/24/26 07:46  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

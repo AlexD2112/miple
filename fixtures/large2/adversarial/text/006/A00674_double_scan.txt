@@ -1,0 +1,34 @@
+               FRED MEYER
+               Seattle WA
+               Store 2943
+
+LIGHT BULBS 4PK                  17.04 T
+MFR CPN                          2.67- T
+  3.17 lb @ 6.69 /lb
+SMPL TRTH BNLS SKNLS CHKN BRST   21.21 F
+FM ALMOND MILK                    5.08 F
+MFR CPN                          2.67- T
+  3.17 lb @ 6.69 /lb
+SMPL TRTH BNLS SKNLS CHKN BRST   21.21 F
+FM ALMOND MILK                    5.08 F
+SMPL TRTH SWISS CHARD             2.87 F
+DIGITAL CPN                      0.86-  
+MISSION FLOUR TORTILLAS 40 CT     5.22 F
+  2 @ 3.76
+ORG RMN HEARTS 3 CT               7.52 F
+CAT LITTER                       14.03 T
+SMPL TRTH ITALIAN PARSLEY         2.93 F
+CHERRY TOM                        1.15 F
+KRO SAVINGS                      0.35-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           73.33
+TAX 10.55% ON 28.56                 3.01
+TOTAL                              76.34
+MASTERCARD TEND                    76.34
+CHANGE                              0.00
+
+10/09/26 11:09  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

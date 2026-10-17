@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0357
+
+SMPL TRTH SLCD ROAST BF           5.94 F
+KRO SAVINGS                      0.78-  
+LARGE EGGS 18 CT                  7.52 F
+SHMP                             17.57 T
+SMPL TRTH GRND TRKY               5.19 F
+  2 @ 3.33
+SMPL TRTH TORTILLA CHIPS          6.66 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           42.34
+TAX 10.55% ON 17.81                 1.88
+TOTAL                              44.22
+MASTERCARD TEND                    44.22
+CHANGE                              0.00
+
+10/11/2028 19:50  4041 25 205 7
+ITEMS 25   REG 18  TRANS 9258
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

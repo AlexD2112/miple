@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1209  Seattle WA
+            MEMBER ************
+
+1231652 TILLAMOOK MEDIUM CHDR 2.5 LB  4.21 E
+1064313 KS BAGELS                    15.08 E
+     4 @ 3.77
+309826 ORG HONEYCRISP APPLES          4.71 E
+     3.54 lb @ 1.33 /lb
+1135416 KS AHI TUNA STEAK            14.71 E
+730691 EVRYTHNG BUT THE BAGEL SEASON  7.01 E
+1473207 LMND 52OZ                     5.79 A
+1054134 HASS AVOCADO LG               7.58 E
+     2.27 lb @ 3.34 /lb
+
+SUBTOTAL                               59.09
+TAX 10.55% ON 5.79                      0.61
+**** TOTAL                             59.70
+DEBIT TEND                             59.70
+CHANGE                                  0.00
+
+12/30/26 21:40  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

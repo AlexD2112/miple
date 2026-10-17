@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 1456
+
+KRO SPONGES 3PK                   9.54 T
+KRO ALUMINUM FOIL                18.03 T
+DISH SOAP                        19.39 T
+
+SUBTOTAL                           46.96
+TAX 10.55% ON 46.96                 4.95
+TOTAL                              51.91
+VISA TEND                          51.91
+CHANGE                              0.00
+
+09/26/26 10:28  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

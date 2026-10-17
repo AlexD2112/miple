@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 1188
+
+CLNTR BUNCH                       2.02 F
+FM PASTURE RAISED EGGS            7.37 F
+BLACK FOREST HAM 9 OZ             7.00 F
+SMPL TRTH CHKN BROTH CARTON       8.38 F
+DIGITAL CPN                      0.30-  
+SMPL TRTH GROUND COFFEE           9.64 F
+  0.63 lb @ 1.05 /lb
+SMPL TRTH RADISHES                0.66 F
+KRO ICE CREAM                    14.51 F
+  0.64 lb @ 13.74 /lb
+CHUCK ROAST                       8.79 F
+KRO SAVINGS                      0.58-  
+  3 @ 3.77
+BABY SPNCH 5 OZ                  11.31 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           69.04
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              69.17
+DEBIT TEND                         69.17
+CHANGE                              0.00
+
+04/04/26 10:30  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+               FRED MEYER
+              Portland OR
+               Store 1782
+
+SLTD BTR 4 STICKS                 9.37 F
+  0.91 lb @ 1.13 /lb
+RUSSET POTS                       1.03 F
+STRAWBERRIES 1 LB                 5.22 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+DIGITAL CPN                      2.01-  
+
+SUBTOTAL                           22.49
+TAX                                 0.00
+TOTAL                              22.49
+VISA TEND                          22.49
+CHANGE                              0.00
+
+02/29/28 12:37  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

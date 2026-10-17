@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0220  Seattle WA
+            MEMBER ************
+
+643657 KS BTR LTTC                    2.45 E
+732323 KS OAT MLK                     3.10 E
+588689 KS LG BROWN EGGS               4.29 E
+488401 KS PEACHES                     0.99 E
+     1.45 lb @ 0.68 /lb
+1659352 KS CHUCK ROAST               15.11 E
+     1.10 lb @ 13.74 /lb
+64101 KS SALSA JAR                    8.36 E
+     4 @ 2.09
+1480136 LEMON                         4.30 E
+857868 KS STRAWBERRIES                4.35 E
+1218320 TPD/STRAWBERRIES             1.31-  
+805381 EVERYTHING BUT THE BAGEL SEAS  7.01 E
+8341095 TPD/EVERYTHING B             2.10-  
+293718 ORG BABY SPNCH                 5.54 E
+
+SUBTOTAL                               52.09
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             52.09
+DEBIT TEND                             52.09
+CHANGE                                  0.00
+
+2026-11-08 05:29:20  807 807 7071 12
+ITEMS 19   REG 18  TRANS 2095
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

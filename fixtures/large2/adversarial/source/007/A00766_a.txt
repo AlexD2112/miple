@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0890  Seattle WA
+            MEMBER ************
+
+579351 KS PLASTIC WRAP                4.77 A
+1172480 CLNTR BUNCH                   2.02 E
+148786 EVERYTHING BUT THE BAGEL SEAS  7.01 E
+1494997 KS DRIED LNTLS                4.26 E
+1511038 WHITE SANDWICH BREAD          7.03 E
+33414 OAT MILK                        3.10 E
+33414 OAT MILK                        3.10 E
+1219171 KS 2% MLK GALLON              6.49 E
+1862782 BAGELS                       15.08 E
+     4 @ 3.77
+280878 SHRDDD CHDR 8 OZ               6.42 E
+1622019 KS EXTRA FIRM TOFU            2.32 E
+1447228 GRK YGRT PLAIN                4.11 E
+
+SUBTOTAL                               65.71
+TAX 10.55% ON 4.77                      0.50
+**** TOTAL                             66.21
+DEBIT TEND                             66.21
+CHANGE                                  0.00
+
+01/06/26 07:33  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

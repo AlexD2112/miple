@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 1923
+
+FM KETCHUP                        5.49 F
+LG EGGS 18 CT                     7.52 F
+DIGITAL CPN                      0.64-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           12.53
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              12.55
+MASTERCARD TEND                    12.55
+CHANGE                              0.00
+
+FRI JAN 01 2027 12:54 AM  3443 22 695 6
+ITEMS 17   REG 06  TRANS 8205
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

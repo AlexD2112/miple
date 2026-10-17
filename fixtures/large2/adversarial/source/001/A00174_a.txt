@@ -1,0 +1,29 @@
+                SAFEWAY
+         Store 1536  Seattle WA
+             (555) 010-2405
+
+  3 @ 2.46
+SIG SLCT DIJON MSTRD              7.38 S
+SIG SLCT HALIBUT                 10.82 S
+SLTD BTR                          5.73 S
+BRIE                              4.85 S
+SIG KTCHNS HAMBURGER BUNS         2.77 S
+CLUB CARD SAVINGS                0.26-  
+  3.34 lb @ 1.13 /lb
+RUSSET POTS                       3.77 S
+CLUB CARD SAVINGS                1.13-  
+  2.85 lb @ 7.09 /lb
+SIG SLCT TRKY BRST               20.21 S
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           63.13
+TAX 10.55% ON 8.99                  0.95
+**** TOTAL                         64.08
+VISA TEND                          64.08
+CHANGE                              0.00
+
+06/26/26 19:18  ITEMS 10
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

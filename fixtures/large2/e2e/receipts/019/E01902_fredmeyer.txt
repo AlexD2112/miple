@@ -1,0 +1,19 @@
+               FRED MEYER
+              Portland OR
+               Store 0700
+
+  2.10 lb @ 17.07 /lb
+LAMB CHOPS                       35.85 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           63.65
+TAX                                 0.00
+TOTAL                              63.65
+AMEX TEND                          63.65
+CHANGE                              0.00
+
+01/16/26 14:44  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

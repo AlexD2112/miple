@@ -1,0 +1,28 @@
+                 TARGET
+        San Francisco CA  T-0700
+             (555) 030-1731
+
+MKT PANTRY HLBT                  10.82 N
+CIRCLE DEAL                      1.32-  
+COLA 12PK                         1.83 T
+  12 @ 0.05
+CA CRV                            0.60 T
+MKT PANTRY FRZN MIXED BERRIES     2.06 N
+CIRCLE DEAL                      0.62-  
+GG DAVES KILLER BREAD             6.69 N
+GG ROOT BEER 2L                   5.24 T
+  1 @ 0.10
+CA CRV                            0.10 T
+  4 @ 1.72
+MKT PANTRY FROZEN BROCCOLI        6.88 N
+
+SUBTOTAL                           32.28
+TAX 8.625% ON 7.77                  0.67
+TOTAL                              32.95
+MASTERCARD TEND                    32.95
+CHANGE                              0.00
+
+28-AUG-26 02:59
+ITEMS 16   REG 15  TRANS 3618
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

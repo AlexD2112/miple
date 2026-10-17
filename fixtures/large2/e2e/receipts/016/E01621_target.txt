@@ -1,0 +1,26 @@
+                 TARGET
+           Seattle WA  T-1082
+             (555) 030-7921
+
+GG CORN TORT                      2.79 N
+GG ATLNTC SLMN FLLT              19.77 N
+BLUEBERRIES 18 OZ                 4.61 N
+SWISS CHARD                       2.87 N
+MKT PANTRY GINGER ALE 12PK        6.02 T
+CAT LITTER                       14.03 T
+MKT PANTRY BABY SPNCH             5.42 N
+TILLAMOOK ICE CRM 48 OZ           8.88 N
+GG GRND TRKY                      5.19 N
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 N
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           74.03
+TAX 10.55% ON 20.29                 2.14
+TOTAL                              76.17
+MASTERCARD TEND                    76.17
+CHANGE                              0.00
+
+02/28/27 18:02  ITEMS 10
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

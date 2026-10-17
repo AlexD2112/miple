@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2371  Seattle WA
+            MEMBER ************
+
+1915462 BLUBRY 18 OZ                  4.61 E
+1986726 ZUCCHINI                      8.70 E
+     2.34 lb @ 3.72 /lb
+1394419 TPD/ZUCCHINI                 0.20-  
+576151 KS POTATO CHIPS               10.14 E
+     2 @ 5.07
+76784 SLCD TRKY BRST                 12.78 E
+     0.97 lb @ 13.18 /lb
+3963710 TPD/SLCD TRKY BR             1.15-  
+
+SUBTOTAL                               34.88
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             34.88
+MASTERCARD TEND                        34.88
+CHANGE                                  0.00
+
+09/02/26 15:35  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

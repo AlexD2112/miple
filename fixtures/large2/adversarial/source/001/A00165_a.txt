@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1002
+
+ORG RASPB 6 OZ                    6.28 F
+KRO SAVINGS                      1.14-  
+KRO FRESH MOZZ                    8.65 F
+SMPL TRTH BTR LTTC                2.45 F
+  1.14 lb @ 9.25 /lb
+PRIV SEL SWISS CHS               10.55 F
+DICED TOM CAN                     2.98 F
+RASPB                             7.24 F
+KRO HALIBUT                      10.82 F
+KRO SAVINGS                      2.14-  
+ALMNM FOIL                       18.03 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           63.80
+TAX 10.55% ON 18.11                 1.91
+TOTAL                              65.71
+DISCOVER TEND                      65.71
+CHANGE                              0.00
+
+07/15/26 17:43  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

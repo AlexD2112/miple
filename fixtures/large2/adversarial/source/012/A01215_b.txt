@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 3112
+
+DARIGOLD UNSLTD BTR               6.67 F
+PAPER TOWELS 6 ROLL               3.75 T
+SMPL TRTH KALE                    4.17 F
+KRO ALMOND MLK                    5.08 F
+TILLAMOOK VAN YGRT                4.05 F
+2% MLK HALF GALLON                6.08 F
+FRZN BROC                         1.72 F
+DIGITAL CPN                      0.52-  
+WHITE BREAD                       6.34 F
+  4 @ 3.74
+FM SPRKLG WTR                    14.96 F
+FM CORN TORT                      2.79 F
+  2 @ 4.11
+GREEK YOGURT PLAIN                8.22 F
+ALMOND MLK                        5.08 F
+ORG BASIL CLMSHLL                 1.49 F
+FM PLUS CARD SAV                 0.45-  
+CROISSANTS 12 CT                  4.87 F
+MFR CPN                          1.14-  
+MYNNS 30 OZ                       6.42 F
+SLTD BTR 4 STICKS                 9.37 F
+SPAGHETTI                         9.54 F
+
+SUBTOTAL                           98.49
+TAX 10.55% ON 3.75                  0.40
+TOTAL                              98.89
+MASTERCARD TEND                    98.89
+CHANGE                              0.00
+
+03/19/26 18:01  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

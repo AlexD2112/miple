@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3498  Seattle WA
+            MEMBER ************
+
+1181971 BONELESS CHICKEN THIGHS       6.90 E
+     1.59 lb @ 4.34 /lb
+1837677 COTTAGE CHS                   3.21 E
+376254 2% MLK 2 X 1 GAL               4.70 E
+1253845 KS BOTTLED WATER 24PK         9.32 E
+1089239 KS RUSSET POTS                1.02 E
+     0.90 lb @ 1.13 /lb
+1385917 KS ROLLED OATS                3.98 E
+229038 KS GRND TRKY                   5.19 E
+1656284 JASMINE RICE 5 LB             1.49 E
+1680646 KS LARGE BROWN EGGS           4.29 E
+1550821 BANANA                        2.37 E
+1624608 HALIBUT                      10.82 E
+1743592 KS CAGE FREE EGGS 18CT        6.85 E
+293414 COLD BREW COFFEE 32OZ          4.43 E
+456373 ORANGE JUICE                   7.69 E
+225362 KS GRND TRKY                   5.19 E
+403937 BLACKBERRIES                   3.92 E
+1292330 KS GINGER ALE 12PK            6.02 A
+1600229 KS PRMGN REGGIANO             7.82 E
+808228 KS BRIE                        4.85 E
+
+SUBTOTAL                              100.06
+TAX 10.55% ON 6.02                      0.64
+**** TOTAL                            100.70
+AMEX TEND                             100.70
+CHANGE                                  0.00
+
+09/05/26 10:08  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

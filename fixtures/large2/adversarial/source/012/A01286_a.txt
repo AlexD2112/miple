@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3871  Seattle WA
+            MEMBER ************
+REG 14 TRN 3600 OPR 113
+REWARDS #: ********7249
+
+352576 LG EGGS 12 CT                  8.69 E
+1988008 TPD/LG EGGS 12 C             1.04-  
+1642856 KS AVCDS                      8.10 E
+     2 @ 4.05
+417780 CILANTRO BUNCH                 8.08 E
+     4 @ 2.02
+4388242 TPD/CILANTRO BUN             1.11-  
+1684753 FLOUR TORTILLAS 10 CT         2.35 E
+743572 LACROIX LIME SPRKLG WTR 8 PK   2.20 E
+750872 HANDMADE STYLE CORN TORTILLAS  3.55 E
+1404331 KS TOOTHPASTE                16.40 A
+2578544 TPD/TOOTHPASTE               2.81- A
+56471 KS CRL                          6.63 E
+1697564 KS SALSA JAR                  2.09 E
+502457 WHITE SANDWICH BREAD           7.03 E
+247003 KS FRESH DILL                  1.80 E
+     2 @ 0.90
+535677 STRWB                          8.70 E
+     2 @ 4.35
+350312 KS ROLLED OATS                 3.98 E
+330951 DOUBLE CREME BRIE              5.40 E
+565910 AHI TUNA STEAK                14.71 E
+
+SUBTOTAL                               94.75
+TAX 10.55% ON 13.59                     1.43
+**** TOTAL                             96.18
+AMEX TEND                              96.18
+CHANGE                                  0.00
+
+03/18/26 07:12  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+TOTAL SAVINGS THIS YEAR   391.09
+SURVEY CODE 7618 1974 5330
+                 THANK YOU

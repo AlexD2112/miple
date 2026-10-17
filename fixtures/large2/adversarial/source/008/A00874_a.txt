@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 1908
+
+  2 @ 2.93
+ITALIAN PARSLEY                   5.86 F
+FRZN BROC FLORETS                 8.13 F
+FM JASMINE RICE                  12.13 F
+
+SUBTOTAL                           26.12
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              26.12
+AMEX TEND                          26.12
+CHANGE                              0.00
+
+10/12/26 10:49  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

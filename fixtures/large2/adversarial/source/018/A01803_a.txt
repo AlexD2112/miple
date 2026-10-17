@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2793  Portland OR
+            MEMBER ************
+
+1616435 CLFLWR GNCCH                  7.85 E
+528521 KS TTHPST                     16.40 E
+202800 STRAUS PLAIN GRK YGRT          1.74 E
+141975 KS CAT LITTER                 14.03 E
+1213275 UNSLTD BTR 4 X 1 LB           9.48 E
+1915150 HUY FONG SRIRACHA            10.20 E
+     4 @ 2.55
+1887450 KS BLACK BEANS CAN            8.77 E
+1347703 MSSN FLOUR TORT 40 CT         5.22 E
+1175145 TPD/MSSN FLOUR T             1.57-  
+1509045 COTTAGE CHS                   3.21 E
+7689635 TPD/COTTAGE CHS              0.96-  
+1986277 SHRDDD CHDR 8 OZ              6.42 E
+368101 ALUMINUM FOIL                 18.03 E
+1410445 ENGLISH CCMBR                10.57 E
+     3.02 lb @ 3.50 /lb
+1066107 PENNE 16 OZ                  14.04 E
+     4 @ 3.51
+601372 KS CHKN DRUMSTICKS             8.97 E
+
+SUBTOTAL                              132.40
+TAX                                     0.00
+**** TOTAL                            133.40
+VISA TEND                             133.40
+CHANGE                                  0.00
+
+01/18/26 21:12  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

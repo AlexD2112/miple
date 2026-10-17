@@ -1,0 +1,30 @@
+              TRADER JOE'S
+     Store #0566  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+PEPSI 12 PK CANS                  4.93 T
+  1 @ 0.05
+CA CRV                            0.05 T
+  4 @ 3.92
+BLACKBERRIES                     15.68  
+  4 @ 4.05
+TJ'S AVOCADOS                    16.20  
+ITALIAN SAUSAGE BULK              9.93  
+HAMBURGER BUNS                    2.77  
+CHOBANI PLAIN GREEK YOGURT 32 OZ  1.47  
+SHARP CHEDDAR BLOCK              10.33  
+TJ'S DRIED LENTILS                4.26  
+ORG ROMAINE HEARTS 3 CT           3.76  
+TJ'S BLACKBERRIES                 3.92  
+FROZEN WAFFLES                    7.05  
+GRND TRKY                         5.19  
+
+SUBTOTAL                           85.54
+TAX 8.625% ON 4.98                  0.43
+TOTAL                              85.97
+AMEX TEND                          85.97
+CHANGE                              0.00
+
+02/28/27 17:17  ITEMS 18
+T=TAXABLE
+               THANK YOU

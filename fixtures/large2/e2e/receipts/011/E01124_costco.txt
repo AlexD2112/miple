@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0569  Seattle WA
+            MEMBER ************
+
+600671 NAVEL ORANGES                  2.02 E
+     2 @ 1.01
+758817 KS SPRKLG WTR                  3.74 E
+29822 STRWB                           8.70 E
+     2 @ 4.35
+1701127 HASS AVOCADO LARGE           12.79 E
+     3.83 lb @ 3.34 /lb
+1647416 FRZN PIZZA                   13.30 E
+694391 WHL CHKN                      26.65 E
+     4.21 lb @ 6.33 /lb
+1737016 FROZEN PEAS                  13.98 E
+777236 FRZN THREE BERRY BLEND 4 LB   10.24 E
+     4 @ 2.56
+
+SUBTOTAL                               91.42
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             91.42
+VISA TEND                              91.42
+CHANGE                                  0.00
+
+05/12/26 09:57  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

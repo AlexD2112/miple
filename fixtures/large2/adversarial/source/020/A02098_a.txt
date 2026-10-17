@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 2575
+
+KRO BATH TISSUE 12 ROLL          23.08 T
+ZIP TOP BAGS                     24.79 T
+KRO AA BATTERIES 8PK             24.36 T
+KRO LAUNDRY DETERGENT PODS       20.18 T
+KRO SHAMPOO                      17.57 T
+ALUMINUM FOIL                    18.03 T
+KRO ZIP TOP BAGS                 24.79 T
+
+SUBTOTAL                          152.80
+TAX 10.55% ON 152.80               16.12
+TOTAL                             168.92
+CASH TEND                         180.00
+CHANGE                             11.08
+
+06/16/26 10:44  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

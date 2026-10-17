@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 1744
+
+KRO PNT BTR                       6.90 F
+  2 @ 1.00
+DICED TOM 14.5 OZ                 2.00 F
+JNN- GRND TRKY 1 LB               6.60 F
+  2 @ 2.31
+SMPL TRTH GREEN BEANS             4.62 F
+  2 @ 5.11
+ICEBERG LTTC                     10.22 F
+BABY SPNCH                        5.42 F
+ORG CARROTS BUNCH                 4.63 F
+KRO DAVES KILLER BRD              6.69 F
+JNN- GRND TRKY 1 LB               6.60 F
+
+SUBTOTAL                           53.68
+TAX                                 0.00
+TOTAL                              53.68
+DISCOVER TEND                      53.68
+CHANGE                              0.00
+
+12-24-28 15:35:07  6948 35 757 7
+ITEMS 16   REG 08  TRANS 2406
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,41 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1381
+
+  1.47 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS              13.60 F
+BARILLA PENNE                    19.37 F
+  4 @ 5.69
+CHERRIES                         22.76 F
+  0.47 lb @ 17.98 /lb
+UNEXPECTED CHDR                   8.45 F
+  1.58 lb @ 0.68 /lb
+SMPL TRTH PEACHES                 1.07 F
+  1.54 lb @ 1.13 /lb
+RUSSET POTS                       1.74 F
+BRLL PENNE                       19.37 F
+DARIGOLD UNSLTD BTR               6.67 F
+CHKN BROTH CARTON                 8.38 F
+YELLOW ONIN                       1.78 F
+  1.75 lb @ 1.48 /lb
+SMPL TRTH RED ONIONS              2.59 F
+KRO RICOTTA                       8.76 F
+RUSSET POTATOES 5 LB BAG          4.53 F
+KRO SAVINGS                      1.36-  
+CHKN GYOZA PTSTCKRS               9.88 F
+SMPL TRTH SOURDOUGH LOAF          7.47 F
+WHITE SNDWCH BRD                  7.03 F
+KRO ICE CREAM                    14.51 F
+KRO GROUND BEEF 80/20             6.57 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          163.33
+TAX 10.55% ON 0.16                  0.02
+TOTAL                             163.35
+DISCOVER TEND                     163.35
+CHANGE                              0.00
+
+12/31/26 11:13  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

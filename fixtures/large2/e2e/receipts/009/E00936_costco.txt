@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1030  Seattle WA
+            MEMBER ************
+
+1551489 SOURDOUGH LOAF                7.47 E
+1185698 NAPKINS                      24.05 A
+115226 AA BATTERIES 8PK              24.36 A
+1293115 KS DAVES KILLER BRD           6.69 E
+1494679 ZIP TOP BAGS                 24.79 A
+1670458 KS GRND COFFEE                9.64 E
+4718753 TPD/GRND COFFEE              1.26-  
+685923 KS BAGGED CAESAR SALAD KIT     8.84 E
+     4 @ 2.21
+
+SUBTOTAL                              104.58
+TAX 10.55% ON 73.20                     7.72
+**** TOTAL                            112.30
+VISA TEND                             112.30
+CHANGE                                  0.00
+
+05/12/26 12:31  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

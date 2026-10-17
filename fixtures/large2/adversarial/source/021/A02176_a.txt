@@ -1,0 +1,17 @@
+               FRED MEYER
+              Portland OR
+               Store 0544
+
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH RED ONIN        3.80- F
+RETURN ORG SPROUTED TOFU         5.22- F
+
+SUBTOTAL                           9.02-
+TAX                                 0.00
+TOTAL                              9.02-
+AMEX TEND                          9.02-
+CHANGE                              0.00
+
+07/08/26 13:34  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 2665
+
+SMPL TRTH ARUGULA                 4.00 F
+  2.70 lb @ 2.08 /lb
+KIWI                              5.62 F
+FLOUR TORTILLAS 10 CT             2.35 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           11.97
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              12.00
+MASTERCARD TEND                    12.00
+CHANGE                              0.00
+
+07/21/26 18:02  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

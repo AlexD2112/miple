@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 0925
+
+KRO GRND TRKY                     5.19 F
+ ORG BABY SPNCH 5 OZ               5.85 F
+  3.84 lb @ 9.65 /lb
+FM PORK TENDERLOIN               37.06 F
+KRO SPNGS 3PK                     9.54 T
+  2.05 lb @ 6.00 /lb
+GROUND BEEF 88/12                12.30 F
+  2 @ 2.29
+KRO SILKEN TOFU                   4.58 F    
+  4 @ 4.35
+SMPL TRTH STRWB                  17.40 F   
+BAG FEE	0.08 T
+
+SUBTOTAL                              92.00
+TAX 10.55% ON 9.62                  1.01
+TOTAL	93.01
+CASH TEND                         100.00
+CHANGE                              6.99   
+
+02/02/26 09:32  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

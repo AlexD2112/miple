@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2441  Seattle WA
+            MEMBER ************
+
+1894551 ORG RASPB 6 OZ                6.28 E
+1951904 TOSTITOS SCOOPS TORTILLA CHI  3.46 E
+4065594 TPD/TOSTITOS SCO             0.23-  
+1806427 ORG EGGS 24 CT                7.83 E
+466019 PLAIN NONFAT GRK YGRT         13.95 E
+     3 @ 4.65
+47986 KS GRND COFFEE                  9.64 E
+836748 HUY FONG SRIRACHA              2.55 E
+1923587 CREMINI MSHRM                 1.14 E
+740143 SPRING MIX                     5.44 E
+836748 HUY FONG SRIRACHA              2.55 E
+1923587 CREMINI MSHRM                 1.14 E
+740143 SPRING MIX                     5.44 E
+
+SUBTOTAL                               50.06
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             50.06
+AMEX TEND                              50.06
+CHANGE                                  0.00
+
+08/27/26 09:40  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

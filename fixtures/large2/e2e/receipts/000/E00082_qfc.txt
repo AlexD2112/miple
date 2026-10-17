@@ -1,0 +1,44 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1648
+
+KRO SPRKLG WTR                    3.74 F
+MFR CPN                          1.12-  
+  0.41 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               4.51 F
+  3 @ 4.30
+LEMON                            12.90 F
+  3 @ 5.24
+SMPL TRTH ROOT BEER 2L           15.72 T
+PRIV SEL CHKN BROTH CARTON        8.38 F
+  0.98 lb @ 1.79 /lb
+BEETS                             1.75 F
+WHITE BREAD                       6.34 F
+SMPL TRTH WHL WHT SANDWICH BRD    2.54 F
+TILLAMOOK VAN YGRT                4.05 F
+MFR CPN                          0.73-  
+  2.20 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                4.31 F
+  2 @ 2.56
+FRZN THREE BERRY BLEND 4 LB       5.12 F
+  2 @ 5.42
+BABY SPNCH                       10.84 F
+KRO TOOTHPASTE                   16.40 T
+KRO SAVINGS                      2.97- T
+CABOT SHARP CHEDDAR 8 OZ          8.48 F
+HALF AND HALF                     5.34 F
+PRIV SEL TILLAMOOK MEDIUM CHDR   11.77 F
+PLASTIC WRAP                      4.77 T
+DIGITAL CPN                      0.85- T
+FROZEN BROCCOLI FLORETS           8.13 F
+SMPL TRTH COLA 12PK               1.83 T
+
+SUBTOTAL                          131.25
+TAX 10.55% ON 34.90                 3.68
+TOTAL                             134.93
+DISCOVER TEND                     134.93
+CHANGE                              0.00
+
+08/03/26 13:07  ITEMS 25
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

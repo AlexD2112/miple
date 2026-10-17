@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3185
+
+SMPL TRTH ATLANTIC SALMON FILLE  19.77 F
+  2 @ 4.19
+LEMONS                            8.38 F
+  2.99 lb @ 1.60 /lb
+SMPL TRTH JLPN                    4.78 F
+  4.82 lb @ 5.06 /lb
+KRO GRND CHKN                    24.39 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+WHITE BRD                         6.34 F
+SHAMPOO                          17.57 T
+KRO HALIBUT                      10.82 F
+  1.88 lb @ 1.25 /lb
+PNPPL                             2.35 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          103.04
+TAX 10.55% ON 17.73                 1.87
+TOTAL                             104.91
+CASH TEND                         120.00
+CHANGE                             15.09
+
+02/06/26 16:37  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

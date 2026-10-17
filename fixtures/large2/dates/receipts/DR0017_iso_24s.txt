@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2531  Seattle WA
+            MEMBER ************
+
+278352 FROZEN PEAS 12 OZ              5.40 E
+1333010 TPD/FROZEN PEAS              0.49-  
+879542 FRZN THREE BERRY BLEND 4 LB    2.56 E
+9240589 TPD/FRZN THREE B             0.77-  
+994329 KS GRNLA BRS                   6.07 E
+
+SUBTOTAL                               12.77
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             12.77
+MASTERCARD TEND                        12.77
+CHANGE                                  0.00
+
+2027-01-01 00:52:12  872 872 1567 33
+ITEMS 19   REG 04  TRANS 7837
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 1168
+
+FM TORTILLA CHIPS                 3.33 F
+FM SLCD ROAST BF                  5.94 F
+KRO AHI TUNA STEAK               14.71 F
+  1.41 lb @ 6.69 /lb
+SMPL TRTH BNLS SKNLS CHKN BRST    9.43 F
+CREAM CHEESE 8 OZ                 3.15 F
+  2 @ 4.35
+SMPL TRTH STRWB                   8.70 F
+
+SUBTOTAL                           45.26
+TAX                                 0.00
+TOTAL                              45.26
+DEBIT TEND                         45.26
+CHANGE                              0.00
+
+01/31/26 15:19  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

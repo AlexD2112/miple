@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0036  Seattle WA
+            MEMBER ************
+REG 15 TRN 3159 OPR 223
+REWARDS #: ********9183
+FUEL POINTS BALANCE     492
+
+423061 KS CHKN THIGHS                 9.29 E
+247260 CHOBANI PLAIN GRK YGRT 32 OZ   1.47 E
+476983 DARIGOLD UNSALTED BUTTER       6.67 E
+1696689 SWISS CHARD                   5.74 E
+     2 @ 2.87
+796889 WHL WHT SNDWCH BRD             2.54 E
+1016938 FLOWERS BOUQUET              23.70 A
+1970510 CARROTS 2 LB                  1.74 E
+1561226 KS YELLOW ONIN                1.78 E
+1019622 BRIE                          4.85 E
+1987185 KS BNLS SKNLS CHKN BRST      15.59 E
+     2.33 lb @ 6.69 /lb
+1830855 DELI SLCD TRKY BRST          15.72 E
+     1.43 lb @ 10.99 /lb
+1292033 KS ENGLISH CUCUMBER           7.53 E
+     2.15 lb @ 3.50 /lb
+
+SUBTOTAL                               96.62
+TAX 10.55% ON 23.70                     2.50
+**** TOTAL                             99.12
+MASTERCARD TEND                        99.12
+CHANGE                                  0.00
+
+07/03/26 19:15  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+TOTAL SAVINGS THIS YEAR   319.50
+REWARDS BALANCE           270.87
+BOTTLE RETURNS ACCEPTED    0.10/EA
+FUEL POINTS THIS ORDER        715
+CARD #: ************8357
+                 THANK YOU

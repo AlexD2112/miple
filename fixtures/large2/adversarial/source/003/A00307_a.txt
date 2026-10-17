@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0826
+
+SMPL TRTH RED GRAPES              3.04 F
+SMPL TRTH FRESH DILL              0.90 F
+  1.69 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  5.92 F
+MFR CPN                          1.78-  
+COCA-COLA 12 PACK CANS            2.77 T
+  3.73 lb @ 1.60 /lb
+JALAPENO                          5.97 F
+SMPL TRTH SPRING MIX              5.44 F
+SWEET POTS                        3.28 F
+  2 @ 1.27
+KRO KEFIR                         2.54 F
+PRIV SEL EXTRA FIRM TOFU          2.32 F
+KRO SAVINGS                      0.70-  
+
+SUBTOTAL                           29.70
+TAX 10.55% ON 2.77                  0.29
+TOTAL                              29.99
+AMEX TEND                          29.99
+CHANGE                              0.00
+
+03/07/26 15:19  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

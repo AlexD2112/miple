@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1913  Seattle WA
+            MEMBER ************
+
+1941566 KS FRZN PIZZA                13.30 E
+7856298 TPD/FRZN PIZZA               0.37-  
+1566952 KS DELI FRIED CHKN           11.75 A
+873389 SLCD SRDGH PAN LOAF            4.74 E
+670406 KS ORANGE JUICE                7.69 E
+1775843 SOY SCE                       6.79 E
+1967929 SILKEN TOFU                   4.58 E
+     2 @ 2.29
+1839025 COCONUT MLK CAN              11.49 E
+     3 @ 3.83
+796388 KS DIJON MUSTARD               2.46 E
+1602615 EXTRA FIRM TOFU               2.32 E
+
+SUBTOTAL                               64.75
+TAX 10.55% ON 11.75                     1.24
+**** TOTAL                             65.99
+DISCOVER TEND                          65.99
+CHANGE                                  0.00
+
+2024-09-14 11:50:57  910 910 3670 32
+ITEMS 3   REG 17  TRANS 5623
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

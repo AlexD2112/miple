@@ -1,0 +1,21 @@
+               FRED MEYER
+              Portland OR
+               Store 0830
+
+SMPL TRTH MANDARINS               2.72 F
+  0.58 lb @ 13.18 /lb
+FM SLICED TURKEY BREAST           7.64 F
+  0.88 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                13.69 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           24.10
+TAX                                 0.00
+TOTAL                              24.10
+VISA TEND                          24.10
+CHANGE                              0.00
+
+12/02/2024 08:06:16 AM  1110 27 218 9
+ITEMS 2   REG 12  TRANS 4449
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

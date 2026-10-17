@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 1040
+
+  2 @ 1.74
+STRAUS PLAIN GRK YGRT             3.48 F
+SMPL TRTH CILANTRO                1.16 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+
+SUBTOTAL                            7.42
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               7.42
+VISA TEND                           7.42
+CHANGE                              0.00
+
+02/20/26 08:35  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

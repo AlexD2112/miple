@@ -1,0 +1,21 @@
+           WHOLE FOODS MARKET
+            San Francisco CA
+             (555) 020-9558
+
+SHRP CHDR BLOCK                  10.33 F
+365 KERRYGOLD BTR                10.81 F
+UNSALTED BUTTER                   9.95 F
+365 ORG SPRING MIX                5.44 F
+JSMN RICE 5 LB                    1.49 F
+JSMN RICE 5 LB                    1.49 F
+WF SPRING MIX                     5.44 F
+
+SUBTOTAL                           44.95
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              44.95
+DEBIT TEND                         44.95
+CHANGE                              0.00
+
+01/20/26 16:31  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

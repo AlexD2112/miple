@@ -1,0 +1,24 @@
+                 THANK YOU
+A=TAXABLE  E=NONTAXABLE FOOD
+02/16/26 16:55  ITEMS 7
+
+CHANGE                                  0.00
+AMEX TEND                              38.45
+**** TOTAL                             38.45
+TAX 10.55% ON 0.00                      0.00
+SUBTOTAL                               38.45
+
+     2.29 lb @ 2.30 /lb
+630562 GALA APPLES                    5.27 E
+     2 @ 4.58
+785971 KS KOMBUCHA 16OZ               9.16 E
+369030 ORG SPRTD TOFU                 2.61 E
+1977954 DOUBLE CREME BRIE             5.40 E
+     2.94 lb @ 2.83 /lb
+53103 ORG LEMONS                      8.32 E
+1655994 KS ORANGE JUICE               7.69 E
+
+            MEMBER ************
+        Warehouse #1617  Seattle WA
+                 WHOLESALE
+                   COSTCO

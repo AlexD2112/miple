@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2442  Seattle WA
+            MEMBER ************
+
+1252730 KS DOG TREATS                 6.82 A
+848249 PRMGN REGGIANO WEDGE           8.42 E
+1738768 KS COLA 12PK                  1.83 A
+97221 PARMIGIANO REGGIANO WEDGE       8.42 E
+1655901 KS SILKEN TOFU                2.29 E
+4817099 TPD/SILKEN TOFU              0.69-  
+552611 PORK TENDERLOIN               25.38 E
+     2.63 lb @ 9.65 /lb
+1055812 ORGANIC BABY SPINACH 5 OZ    23.40 E
+     4 @ 5.85
+402126 GREEN ONIN BUNCH               2.59 E
+443684 MANDARIN ORANGE CHICKEN       15.87 E
+500524 KS SWISS CHEESE               11.93 E
+     1.29 lb @ 9.25 /lb
+392869 BONELESS CHICKEN THIGHS       19.36 E
+     4.46 lb @ 4.34 /lb
+1519953 SPAGHETTI                     9.54 E
+1051777 WILD COD FLLT                18.56 E
+
+SUBTOTAL                              153.72
+TAX 10.55% ON 8.65                      0.91
+**** TOTAL                            154.63
+VISA TEND                             154.63
+CHANGE                                  0.00
+
+10/04/26 08:45  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

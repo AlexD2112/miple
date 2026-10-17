@@ -1,0 +1,18 @@
+              TRADER JOE'S
+     Store #0160  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+DOUBLE CREME BRIE	5.40
+DAVES KILLER BREAD 21 WHOLE GRAI  4.78  
+PREPARED MAC AND CHEESE 10.62
+TJ'S SPAGHETTI                    9.54  
+
+SUBTOTAL	30.34
+TAX 8.625% ON 0.00                    0.00
+TOTAL                              30.34  
+MASTERCARD TEND                    30.34
+CHANGE 0.00
+
+07/19/26 12:48  ITEMS 4
+T=TAXABLE
+               THANK YOU

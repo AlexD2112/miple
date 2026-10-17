@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2923
+
+SMPL TRTH RASPB                   7.24 F
+SHRDDD CHDR 8 OZ                  6.42 F
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+SMPL TRTH BRIE                    4.85 F
+  3.99 lb @ 2.90 /lb
+SMPL TRTH BANANAS                11.57 F
+ICE CRM                          14.51 F
+
+SUBTOTAL                           52.41
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              52.41
+AMEX TEND                          52.41
+CHANGE                              0.00
+
+10/10/2030 08:13  3260 16 469 2
+ITEMS 22   REG 20  TRANS 9522
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

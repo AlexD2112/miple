@@ -1,0 +1,67 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3779
+
+SMPL TRTH TLP FLLTS              21.66 F
+  3.71 lb @ 1.79 /lb
+SMPL TRTH BEETS                   6.64 F
+WILD COD FLLT                    18.56 F
+KRO CORN TORT                     2.79 F
+ROLLED OATS                       3.98 F
+DIGITAL CPN                      0.67-  
+KRO TILAPIA FILLETS              21.66 F
+PRIV SEL GRNLA BRS                6.07 F
+  2.03 lb @ 9.65 /lb
+SMPL TRTH PORK TENDERLOIN        19.59 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          100.36
+TAX 10.55% ON 0.08                  0.01
+TOTAL                             100.37
+CASH TEND                         120.00
+CHANGE                             19.63
+
+10/15/26 20:15  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+           WHOLE FOODS MARKET
+            San Francisco CA
+             (555) 020-1919
+
+ORGANIC SPRING MIX 1 LB           5.49 F
+HANDMADE STYLE CORN TORTILLAS     3.55 F
+CHICKEN GYOZA POTSTICKERS         9.88 F
+WF CRL                            6.63 F
+PRIME MEMBER DEAL                1.99-  
+365 ORG BRIE                      4.85 F
+ORG ITLN PARSLEY                  1.95 F
+PRIME 10% OFF                    0.24-  
+  2.47 lb @ 1.25 /lb
+WF PINEAPPLE                      3.09 F
+2% MLK HALF GALLON                6.08 F
+PRIME MEMBER DEAL                0.72-  
+PEPSI 12 PK CANS                  4.93 T
+  1 @ 0.05
+CA CRV                            0.05 T
+  0.83 lb @ 0.76 /lb
+MANGO                             0.63 F
+ORG SPROUTED TOFU                 2.61 F
+TLLMK VAN YGRT                    4.05 F
+PRIME 10% OFF                    0.91-  
+ORG CARROTS BUNCH                 4.63 F
+365 GROUND PORK                   6.60 F
+  0.74 lb @ 13.18 /lb
+365 SLCD TRKY BRST                9.75 F
+PRIME 10% OFF                    1.40-  
+LEMON                             4.30 F
+
+SUBTOTAL                           73.81
+TAX 8.625% ON 4.98                  0.43
+TOTAL                              74.24
+CASH TEND                          80.00
+CHANGE                              5.76
+
+07/10/26 13:54  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

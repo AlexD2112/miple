@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2149  Portland OR
+            MEMBER ************
+
+1646148 COCA-COLA 12 PK CANS          2.77 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+198153 KS ALMOND MILK                 5.08 E
+1803257 CARROTS 2 LB                  1.74 E
+1997117 KS SLCD ROAST BF              5.94 E
+1760238 ICBRG LTTC                    5.11 E
+1044177 BARILLA PENNE                19.37 E
+805578 LAUNDRY DETERGENT PODS        20.18 E
+933294 ORG SPRING MIX 1 LB            5.49 E
+1857232 KS LAMB CHOPS                41.48 E
+     2.43 lb @ 17.07 /lb
+
+SUBTOTAL                              107.26
+TAX                                     0.00
+**** TOTAL                            107.26
+DEBIT TEND                            107.26
+CHANGE                                  0.00
+
+06/08/26 17:32  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

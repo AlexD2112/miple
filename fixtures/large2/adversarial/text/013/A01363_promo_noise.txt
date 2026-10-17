@@ -1,0 +1,31 @@
+                SAFEWAY
+         Store 3090  Seattle WA
+             (555) 010-6522
+REG 04 TRN 7339 OPR 181
+WIN A 500.00 GIFT CARD
+
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+SW CHKN DRUMSTICKS                8.97 S
+  2 @ 1.14
+CREMINI MSHRM                     2.28 S
+DARK CHOCOLATE PEANUT BUTTER CUP  5.61 S
+BAGELS                            3.77 S
+DOG TREATS                        6.82 T
+NPKNS                            24.05 T
+SPRING MIX                        5.44 S
+SIG SLCT RIBEYE STEAK            19.87 S
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           85.80
+TAX 10.55% ON 39.86                 4.21
+**** TOTAL                         90.01
+MASTERCARD TEND                    90.01
+CHANGE                              0.00
+
+05/24/26 20:00  ITEMS 10
+T=TAXABLE  S=NONTAXABLE FOOD
+AUTH CODE  819807
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+FUEL POINTS THIS ORDER        814
+               THANK YOU

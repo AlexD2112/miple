@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1452  Seattle WA
+            MEMBER ************
+
+943005 KS OAT MLK                     3.10 E
+13589 RICOTTA                         8.76 E
+9450952 TPD/RICOTTA                  1.57-  
+1499226 DAVES KILLER BRD              6.69 E
+1351498 SLCD TRKY BRST               17.53 E
+     1.33 lb @ 13.18 /lb
+576306 BROCCOLI CROWNS                2.25 E
+5352171 TPD/BROCCOLI CRO             0.67-  
+52503 HUY FONG SRIRACHA               2.55 E
+649231 KS PRPRD MAC & CHS            10.62 E
+1013046 DRIED LNTLS                   8.52 E
+     2 @ 4.26
+652662 KS SOURDOUGH LOAF              7.47 E
+910826 BEETS                          2.04 E
+     1.14 lb @ 1.79 /lb
+720231 KS LEMONS                      4.19 E
+155264 KS WHL MLK HALF GALLON         6.79 E
+612632 RUSSET POTS 5 LB BAG           4.53 E
+1229497 COLD BREW COFFEE 32OZ         4.43 E
+1704006 SHRDDD MOZZ 8 OZ              2.92 E
+1504634 KS DIJON MUSTARD              7.38 E
+     3 @ 2.46
+
+SUBTOTAL                               97.53
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             97.53
+AMEX TEND                              97.53
+CHANGE                                  0.00
+
+04/15/26 17:28  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

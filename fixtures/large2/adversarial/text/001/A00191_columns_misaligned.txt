@@ -1,0 +1,36 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0603
+
+ GRSS-FD GRND BF 85/15             7.35 F
+   GREEN ONIN BUNCH                  2.59 F
+  2 @ 2.46
+  KRO DIJON MSTRD                   4.92 F
+WILD COD FLLT                    18.56 F
+   SMPL TRTH RASPBERRIES             7.24 F
+GRND BF 80/20                     6.57 F
+  1.39 lb @ 9.25 /lb
+PRIV SEL SWISS CHEESE            12.86 F
+  CARROTS 2 LB                      1.74 F
+  SMPL TRTH HALIBUT                10.82 F
+   DIGITAL CPN                      2.51-  
+KEFIR 1.27 F
+  2.90 lb @ 18.16 /lb
+PRIV SEL COD FILLET              52.66 F
+ FROZEN WAFFLES                    7.05 F
+MFR CPN                          0.75-       
+KRO ALMOND MILK                   5.08 F
+KRO PARMIGIANO REGGIANO           7.82 F
+MFR CPN 2.35-
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          141.08
+TAX 10.55% ON 0.16                  0.02     
+TOTAL                             141.10 
+DISCOVER TEND	141.10
+CHANGE	0.00
+
+03/12/26 08:32  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

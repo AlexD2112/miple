@@ -1,0 +1,48 @@
+               FRED MEYER
+              Portland OR
+               Store 0046
+
+SMPL TRTH RASPB                   7.24 F
+  1.64 lb @ 17.07 /lb
+SMPL TRTH LAMB CHOPS             27.99 F
+  1.30 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 3.77 F
+SMPL TRTH GRND TRKY               5.19 F
+ORG TOMATO BASIL MARINARA         5.94 F
+DIGITAL CPN                      1.78-  
+PAPER TOWELS 6 ROLL               3.75 F
+2% MILK HALF GALLON               6.08 F
+MFR CPN                          1.82-  
+LEMON                             4.30 F
+SMPL TRTH KMBCH 16OZ              4.58 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  0.74 lb @ 1.60 /lb
+SMPL TRTH JLPN                    1.18 F
+FM PLUS CARD SAV                 0.35-  
+  0.70 lb @ 3.42 /lb
+RED BELL PEPPER                   2.39 F
+  2 @ 1.57
+ORG GALA APPLES                   3.14 F
+RANCH DRESSING                    3.99 F
+FM SHRP CHDR BLOCK               10.33 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+FRESH MOZZ                        8.65 F
+SMPL TRTH BROC CROWNS             2.25 F
+  0.99 lb @ 1.48 /lb
+RED ONIN                          1.47 F
+  2 @ 5.42
+BABY SPINACH                     10.84 F
+DRIED LNTLS                       4.26 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                          123.96
+TAX                                 0.00
+TOTAL                             123.96
+DEBIT TEND                        123.96
+CHANGE                              0.00
+
+02/23/26 16:13  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

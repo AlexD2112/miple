@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2226
+
+SMPL TRTH CREMINI MSHRM           1.14 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+PLAIN GOAT CHS                    5.77 F
+SHREDDED CHEDDAR 8 OZ             6.42 F
+DIGITAL CPN                      1.48-  
+  3 @ 4.11
+SMPL TRTH GREEK YOGURT PLAIN     12.33 F
+DIGITAL CPN                      0.28-  
+KRO KEFIR                         1.27 F
+  1.00 lb @ 17.98 /lb
+UNEXPECTED CHDR                  17.98 F
+PRIV SEL GRND TRKY                5.19 F
+PRIV SEL SPRKLG WTR 8PK           5.13 F
+
+SUBTOTAL                           61.89
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              61.89
+CASH TEND                          80.00
+CHANGE                             18.11
+
+10/10/2027 23:55  5130 28 371 7
+ITEMS 8   REG 11  TRANS 7008
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

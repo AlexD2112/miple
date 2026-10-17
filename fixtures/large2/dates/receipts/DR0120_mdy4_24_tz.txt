@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 3364
+
+FM DAVES KILLER BRD               6.69 F
+SWISS CHARD                       2.87 F
+GRASS-FED GRND BF 85/15           7.35 F
+DIGITAL CPN                      1.58-  
+SMPL TRTH LEMONS                  4.19 F
+KRO QUINOA                        7.75 F
+MFR CPN                          1.62-  
+  0.28 lb @ 3.76 /lb
+SMPL TRTH CAULIFLOWER             1.05 F
+KRO CAT LITTER                   14.03 T
+KRO ROTISSERIE CHICKEN            5.04 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           45.93
+TAX 10.55% ON 19.23                 2.03
+TOTAL                              47.96
+MASTERCARD TEND                    47.96
+CHANGE                              0.00
+
+03/08/2028 13:54 PST  5914 12 497 7
+ITEMS 18   REG 05  TRANS 6607
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

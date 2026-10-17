@@ -1,0 +1,19 @@
+                SAFEWAY
+         Store 1584  Seattle WA
+             (555) 010-8110
+
+GREETING CARD                    20.34 T
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 S
+SPRKLG WTR 8PK                    5.13 S
+ORG BABY SPNCH 5 OZ               5.85 S
+SIG SLCT GRND COFFEE              9.64 S
+
+SUBTOTAL                           58.39
+TAX 10.55% ON 20.34                 2.15
+**** TOTAL                         60.04
+DEBIT TEND                         60.04
+CHANGE                              0.00
+
+01/17/26 15:02  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

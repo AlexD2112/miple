@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 1649
+
+CELERY                            4.32 F
+  3 @ 2.77
+COCA-COLA 12 PACK CANS            8.31 T
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+  0.72 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             1.66 F
+AA BATTERIES 8PK                 24.36 T
+KRO PLASTIC WRAP                  4.77 T
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+  1.40 lb @ 4.34 /lb
+BNLS CHKN THIGHS                  6.08 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+MFR CPN                          2.18-  
+SMPL TRTH DICED TOM CAN           2.98 F
+MFR CPN                          0.89-  
+  2 @ 3.77
+BABY SPNCH 5 OZ                   7.54 F
+
+SUBTOTAL                           84.05
+TAX 10.55% ON 46.27                 4.88
+TOTAL                              88.93
+AMEX TEND                          88.93
+CHANGE                              0.00
+
+02/28/27 11:08  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

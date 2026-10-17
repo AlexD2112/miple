@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0773
+
+TTHPST                           16.40 T
+HAND SOAP                        24.27 T
+CAT LITTER                       14.03 T
+KRO PAPER TOWELS 6 ROLL           3.75 T
+DISH SOAP                        19.39 T
+KRO SHMP                         17.57 T
+KRO LIGHT BULBS 4PK              17.04 T
+SPONGES 3PK                       9.54 T
+SPONGES 3PK                       9.54 T
+PLSTC WRAP                        4.77 T
+KRO PAPER TOWELS 6 ROLL           3.75 T
+DOG TREATS                        6.82 T
+MFR CPN                          1.17- T
+KRO TRASH BAGS 40CT               6.49 T
+
+SUBTOTAL                          152.19
+TAX 10.55% ON 152.19               16.06
+TOTAL                             168.25
+DEBIT TEND                        168.25
+CHANGE                              0.00
+
+07/22/26 10:03  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

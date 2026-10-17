@@ -1,0 +1,20 @@
+                 TARGET
+           Seattle WA  T-0756
+             (555) 030-0064
+
+CABOT SHRP CHDR 8 OZ              8.48 N
+  1.75 lb @ 7.64 /lb
+FOSTER FARMS BONELESS SKINLESS   13.37 N
+TILLAMOOK VANILLA YOGURT          4.05 N
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           26.14
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              26.17
+MASTERCARD TEND                    26.17
+CHANGE                              0.00
+
+02/23/26 19:28  ITEMS 3
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

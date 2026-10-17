@@ -1,0 +1,43 @@
+               FRED MEYER
+              Portland OR
+               Store 0631
+
+FM PNT BTR                        6.90 F
+SMPL TRTH SLTD BTR                5.73 F
+KRO HAND SOAP                    24.27 F
+GRK YGRT PLAIN                    4.11 F
+SMPL TRTH MANDARINS               2.72 F
+  2.58 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                6.27 F
+  3.98 lb @ 2.43 /lb
+PARSNIPS                          9.67 F
+  0.51 lb @ 3.72 /lb
+SMPL TRTH ZCCHN                   1.90 F
+ASPARAGUS                         2.93 F
+  3.70 lb @ 2.83 /lb
+ORG LEMONS                       10.47 F
+  4 @ 4.87
+CROISSANTS 12 CT                 19.48 F
+  1.06 lb @ 1.25 /lb
+SMPL TRTH PNPPL                   1.33 F
+FM PLUS CARD SAV                 0.40-  
+WILD COD FLLT                    18.56 F
+  2 @ 3.99
+RANCH DRESSING                    7.98 F
+  4 @ 3.76
+ORG RMN HEARTS 3 CT              15.04 F
+FM PLUS CARD SAV                 2.88-  
+WILD COD FLLT                    18.56 F
+DIGITAL CPN                      1.60-  
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+REDUCED FAT 2% MLK GALLON         6.54 F
+
+SUBTOTAL                          160.14
+TAX                                 0.00
+TOTAL                             160.14
+DISCOVER TEND                     160.14
+CHANGE                              0.00
+
+10/16/26 07:57  ITEMS 25
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

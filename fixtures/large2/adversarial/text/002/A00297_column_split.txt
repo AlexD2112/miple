@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1490  Seattle WA
+            MEMBER ************
+
+1593740 KS KALE
+62818 TILLAMOOK MEDIUM CHDR 2.5 LB
+3740484 TPD/TILLAMOOK ME
+303845 KS WHL MLK HALF GALLON
+787766 PAPER PLATES
+1201377 ORG SPRING MIX 1 LB
+     2 @ 5.49
+599245 KS DRIED LENTILS
+
+4.17 E
+4.21 E
+1.26-
+6.79 E
+3.31 A
+10.98 E
+4.26 E
+
+SUBTOTAL                               32.46
+TAX 10.55% ON 3.31                      0.35
+**** TOTAL                             32.81
+VISA TEND                              32.81
+CHANGE                                  0.00
+
+05/13/26 13:48  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

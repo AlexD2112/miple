@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 1720
+
+FM CHKN BROTH CARTON              8.38 F
+HNDMD STYLE CORN TORT             3.55 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+ORANGE JUICE                      7.69 F
+KRO LIGHT BULBS 4PK              17.04 T
+DIGITAL CPN                      2.83- T
+FM PNT BTR                        6.90 F
+DARK CHOC PNT BTR CUPS            5.61 F
+SHRDDD MOZZ 8 OZ                  2.92 F
+KRO CTTG CHS                      3.21 F
+BLACKBERRIES                      3.92 F
+KRO SOURDOUGH LOAF                7.47 F
+SMPL TRTH SWISS CHARD             2.87 F
+SMPL TRTH DIJON MUSTARD           2.46 F
+EXTRA FIRM TOFU                   2.32 F
+STRWB 1 LB                        5.22 F
+HEINZ KETCHUP 32 OZ               4.48 F
+BLACK BEANS 15 OZ CAN            10.76 F
+DIGITAL CPN                      1.01-  
+RUSSET POTS 5 LB BAG              4.53 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+GRASS-FED GRND BF 85/15           7.35 F
+
+SUBTOTAL                          122.48
+TAX 10.55% ON 14.21                 1.50
+TOTAL                             123.98
+VISA TEND                         123.98
+CHANGE                              0.00
+
+04/27/26 16:34  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

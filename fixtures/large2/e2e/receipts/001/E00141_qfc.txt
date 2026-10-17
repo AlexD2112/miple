@@ -1,0 +1,30 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2789
+
+SMPL TRTH CREMINI MSHRM           1.14 F
+KRO SAVINGS                      0.34-  
+KRO GINGER ALE 12PK               6.02 T
+CHRRS                             5.69 F
+DIGITAL CPN                      1.71-  
+LEMON                             4.30 F
+SMPL TRTH GENOA SALAMI            4.76 F
+CHOBANI PLAIN GRK YGRT 32 OZ      1.47 F
+MANDARIN ORANGE CHICKEN          15.87 F
+ORG SPRING MIX 1 LB               5.49 F
+  0.65 lb @ 13.18 /lb
+KRO SLCD TRKY BRST                8.57 F
+  1.12 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 3.25 F
+KRO DICED TOM CAN                 2.98 F
+PARMIGIANO REGGIANO               7.82 F
+
+SUBTOTAL                           65.31
+TAX 10.55% ON 6.02                  0.64
+TOTAL                              65.95
+CASH TEND                          80.00
+CHANGE                             14.05
+
+09/10/26 17:09  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

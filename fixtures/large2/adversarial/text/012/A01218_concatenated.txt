@@ -1,0 +1,43 @@
+               FRED MEYER
+              Portland OR
+               Store 1899
+
+STRAWBERRIES 2 LB                 5.88 F
+  0.84 lb @ 0.76 /lb
+SMPL TRTH MANGO                   0.64 F
+ORG EGGS 24 CT                    7.83 F
+  3.57 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 15.49 F
+KRO SAVINGS                      2.01-  
+HONEYCRISP APPLES                 4.67 F
+
+SUBTOTAL                           32.50
+TAX                                 0.00
+TOTAL                              32.50
+DEBIT TEND                         32.50
+CHANGE                              0.00
+
+05/02/26 08:00  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+----------------------------------------
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3814  Seattle WA
+            MEMBER ************
+
+165769 ORG BASIL CLAMSHELL            1.49 E
+6928978 TPD/ORG BASIL CL             0.45-  
+287349 KS RASPB                       7.24 E
+693161 KS CORN TORT                   2.79 E
+2961382 TPD/CORN TORT                0.84-  
+
+SUBTOTAL                               10.23
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             10.23
+DEBIT TEND                             10.23
+CHANGE                                  0.00
+
+03/01/26 16:36  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3283  Seattle WA
+            MEMBER ************
+
+1540322 KS FROZEN WAFFLES             7.05 E
+1718285 HUY FONG SRIRACHA             2.55 E
+122728 KS QUINOA                      7.75 E
+1656365 KS 2% MLK GALLON              6.49 E
+142610 JALAPENO                       2.45 E
+     1.53 lb @ 1.60 /lb
+1863912 ROLLED OATS                  11.94 E
+     3 @ 3.98
+1172844 CHKN GYOZA POTSTICKERS        9.88 E
+525544 CROISSANTS 12 CT              14.61 E
+     3 @ 4.87
+606045 KS ROTIS CHKN                  5.04 A
+1590804 TILLAMOOK VANILLA YOGURT      8.10 E
+     2 @ 4.05
+
+SUBTOTAL                               75.86
+TAX 10.55% ON 5.04                      0.53
+**** TOTAL                             76.39
+VISA TEND                              76.39
+CHANGE                                  0.00
+
+03/13/26 17:38  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

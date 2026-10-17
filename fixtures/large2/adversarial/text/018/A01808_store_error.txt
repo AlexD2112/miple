@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0830
+
+PRIV SEL LG BROWN EGGS            4.29 F
+  1.02 lb @ 2.33 /lb
+SMPL TRTH BRSSLS SPRTS            2.38 F
+JASMINE RICE 25 LB                8.09 F
+  1.40 lb @ 0.76 /lb
+MANGO                             1.06 F
+MFR CPN                          0.32-  
+APPLE JUICE 64OZ                  7.25 F
+NAVEL ORANGES                     1.01 F
+  4 @ 1.83
+PRIV SEL COLA 12PK                7.32 T
+GREEK YOGURT 48 OZ                1.97 F
+ORG SPROUTED TOFU                 2.61 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           35.66
+TAX 10.55% ON 7.56                  0.80
+TOTAL                              36.46
+DISCOVER TEND                      36.46
+CHANGE                              0.00
+
+04/12/26 15:29  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

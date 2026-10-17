@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1294  Seattle WA
+            MEMBER ************
+
+1705408 BIBIGO PORK MANDU DUMPLINGS  10.32 E
+970023 KS ORANGE JUICE 52OZ           9.39 E
+1840947 PASTURE RAISED EGGS           7.37 E
+1874992 CAULIFLOWER GNCCH             7.85 E
+982311 KS DRIED LNTLS                 4.26 E
+1105005 GREETING CARD                20.34 A
+1123789 BNLS SKNLS CHKN BRST         26.76 E
+     4.00 lb @ 6.69 /lb
+1114084 TPD/BNLS SKNLS C             1.97-  
+1646016 SLTD BTR 4 STICKS             9.37 E
+683533 KS UNSLTD BTR                  9.95 E
+1372408 KS YELLOW ONIN                1.78 E
+0483074 TPD/YELLOW ONIN              0.53-  
+567520 CHKN DRUMSTICKS                8.97 E
+1165395 HALIBUT                      10.82 E
+211791 KS DISH SOAP                  19.39 A
+693853 GRND BF 80/20                  6.57 E
+991280 HUY FONG SRIRACHA              2.55 E
+1853994 KS MAYONNAISE                 6.36 E
+1905549 JALAPENO                      3.41 E
+     2.13 lb @ 1.60 /lb
+1047163 KS WHL CHKN                  28.93 E
+     4.57 lb @ 6.33 /lb
+1336744 LG EGGS 18 CT                 7.52 E
+1430747 SLTD BTR 4 STICKS             9.37 E
+
+SUBTOTAL                              208.78
+TAX 10.55% ON 39.73                     4.19
+**** TOTAL                            212.97
+VISA TEND                             212.97
+CHANGE                                  0.00
+
+05/15/26 11:36  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

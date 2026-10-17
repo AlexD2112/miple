@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1460  Seattle WA
+            MEMBER ************
+
+709679 KETCHUP                        5.49 E
+0069296 TPD/KETCHUP                  0.52-  
+64561 KS DISH SOAP                   19.39 A
+416520 KS ENGLISH CUCUMBER           12.81 E
+     3.66 lb @ 3.50 /lb
+1414211 KS BEETS                      4.17 E
+     2.33 lb @ 1.79 /lb
+1014279 KS KOMBUCHA 16OZ              4.58 E
+1235959 KS CRL                        6.63 E
+575139 CHBN PLAIN GRK YGRT 32 OZ      1.47 E
+1002384 LACROIX LIME SPRKLG WTR 8 PK  2.20 E
+699983 SPRKLG WTR 8PK                 5.13 E
+5352339 TPD/SPRKLG WTR 8             1.54-  
+1858172 BNLS CHKN THIGHS             23.91 E
+     5.51 lb @ 4.34 /lb
+8222390 TPD/BNLS CHKN TH             2.59-  
+87419 KS PORK CHOPS                  14.21 E
+     1.28 lb @ 11.10 /lb
+1142295 BATH TISSUE 12 ROLL          23.08 A
+30840 KS ALUMINUM FOIL               18.03 A
+1703419 YELLOW ONIN                   1.78 E
+1203508 KS COLA 12PK                  7.32 A
+     4 @ 1.83
+4495242 TPD/COLA 12PK                0.81- A
+1902625 KS FLWRS BQT                 23.70 A
+164017 HASS AVOCADO LARGE             4.61 E
+     1.38 lb @ 3.34 /lb
+663796 FOSTER FARMS BNLS SKNLS CHKN   8.40 E
+     1.10 lb @ 7.64 /lb
+6568355 TPD/FOSTER FARMS             0.25-  
+
+SUBTOTAL                              181.20
+TAX 10.55% ON 90.71                     9.57
+**** TOTAL                            190.77
+AMEX TEND                             190.77
+CHANGE                                  0.00
+
+06/09/26 10:09  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

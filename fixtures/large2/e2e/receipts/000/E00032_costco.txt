@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3171  Seattle WA
+            MEMBER ************
+
+1220405 FRZN BROC FLORETS             8.13 E
+437028 FLOUR TORT 10 CT               4.70 E
+     2 @ 2.35
+1392208 WHOLE MILK HALF GALLON        6.79 E
+
+SUBTOTAL                               19.62
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             19.62
+DISCOVER TEND                          19.62
+CHANGE                                  0.00
+
+02/09/26 21:16  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

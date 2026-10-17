@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 2486  Seattle WA
+             (555) 010-9933
+
+SIG SLCT ORANGE JUICE             7.69 S
+  0.81 lb @ 18.16 /lb
+SIG KTCHNS COD FILLET            14.71 S
+
+SUBTOTAL                           22.40
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         22.40
+AMEX TEND                          22.40
+CHANGE                              0.00
+
+04/21/26 21:03  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

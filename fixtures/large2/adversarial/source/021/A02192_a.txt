@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2589  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1693043 KS FRZN PEAS         13.98- E
+  REFUND - ORIG RECEIPT
+RETURN 887376 CHICKEN BROTH 32 OZ    5.62- E
+
+SUBTOTAL                              19.60-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            19.60-
+MASTERCARD TEND                       19.60-
+CHANGE                                  0.00
+
+01/17/26 21:42  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2900  Seattle WA
+            MEMBER ************
+
+1484547 WHL MLK HALF GALLON           6.79 E
+1047602 KS BRSSLS SPRTS               7.01 E
+     3.01 lb @ 2.33 /lb
+650422 KS BNLS SKNLS CHKN BRST       39.27 E
+     5.87 lb @ 6.69 /lb
+1722056 PINEAPPLE                     2.16 E
+     1.73 lb @ 1.25 /lb
+1474847 KS COD FILLET                34.32 E
+     1.89 lb @ 18.16 /lb
+1723491 CILANTRO                      1.16 E
+327394 KS SLCD ROAST BF               5.94 E
+184167 BLACK FOREST HAM              13.18 E
+     0.93 lb @ 14.17 /lb
+962984 KIWI                           7.01 E
+     3.37 lb @ 2.08 /lb
+
+SUBTOTAL                              116.84
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            116.84
+MASTERCARD TEND                       116.84
+CHANGE                                  0.00
+
+04/30/26 07:50  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 1437
+
+  2.71 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            37.24 F
+MISSION FLOUR TORT 40 CT          5.22 F
+SMPL TRTH TLP FILLETS            21.66 F
+FM FLOUR TORT                     6.18 F
+ITALIAN SSG BULK                  9.93 F
+ROMA TOM                          2.38 F
+FM CHICKEN THIGHS                 9.29 F
+  3 @ 1.47
+CHBN PLAIN GRK YGRT 32 OZ         4.41 F
+SOY SCE                           6.79 F
+NAPKINS                          24.05 T
+
+SUBTOTAL                          127.15
+TAX 10.55% ON 24.05                 2.54
+TOTAL                             129.69
+CASH TEND                         140.00
+CHANGE                             10.31
+
+09/18/26 10:22  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

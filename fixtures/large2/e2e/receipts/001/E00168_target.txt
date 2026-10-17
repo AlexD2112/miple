@@ -1,0 +1,22 @@
+                 TARGET
+        San Francisco CA  T-1615
+             (555) 030-2297
+
+  2 @ 1.83
+GG COLA 12PK                      3.66 T
+  24 @ 0.05
+CA CRV                            1.20 T
+FRZN DUMPLINGS                   15.61 N
+DARK CHOC PNT BTR CUPS            5.61 N
+  3 @ 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS   10.38 N
+
+SUBTOTAL                           36.46
+TAX 8.625% ON 4.86                  0.42
+TOTAL                              36.88
+DEBIT TEND                         36.88
+CHANGE                              0.00
+
+04/08/26 14:37  ITEMS 7
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

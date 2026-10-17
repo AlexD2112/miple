@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2938  San Francisco CA
+            MEMBER ************
+
+1380556 KS MANDARINS                  2.72 E
+942182 KS FRZN BROC                   1.72 E
+668490 GRND BF 88/12                  4.86 E
+     0.81 lb @ 6.00 /lb
+1819718 KS SWEET POTS                 3.28 E
+1590017 KS QUINOA                     7.75 E
+1746495 BANANAS                       4.87 E
+     1.68 lb @ 2.90 /lb
+1914312 KS BRUSSELS SPROUTS           7.27 E
+     3.12 lb @ 2.33 /lb
+1920331 ORGANIC GRAPE TOMATOES PINT   3.43 E
+     1.75 lb @ 1.96 /lb
+1150130 PARSNIPS                      7.19 E
+     2.96 lb @ 2.43 /lb
+7889552 TPD/PARSNIPS                 2.07-  
+497982 BABY CARROTS                   2.49 E
+1291368 CLFLWR GNOCCHI                7.85 E
+507255 KS EXTRA FIRM TOFU             2.32 E
+1566991 PLAIN GOAT CHS                5.77 E
+0513428 TPD/PLAIN GOAT C             1.50-  
+29511 KS DICED TOM CAN                2.98 E
+170435 KS LAMB CHOPS                 38.07 E
+     2.23 lb @ 17.07 /lb
+0605962 TPD/LAMB CHOPS               1.75-  
+363897 KS FRESH DILL                  0.90 E
+1668273 LG BROWN CAGE FREE EGGS       4.10 E
+
+SUBTOTAL                               98.15
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             98.15
+DEBIT TEND                             98.15
+CHANGE                                  0.00
+
+02/04/26 07:30  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

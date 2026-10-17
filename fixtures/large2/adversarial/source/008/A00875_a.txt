@@ -1,0 +1,18 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-3343
+
+DISH SOAP                        19.39 T
+DARK CHOC PNT BTR CUPS            5.61 F
+GRND COFFEE                       9.64 F
+ORANGE JUICE 52OZ                 9.39 F
+
+SUBTOTAL                           44.03
+TAX 10.55% ON 19.39                 2.05
+TOTAL                              46.08
+DEBIT TEND                         46.08
+CHANGE                              0.00
+
+08/14/26 17:53  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

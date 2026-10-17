@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 1297
+
+  2.61 lb @ 1.25 /lb
+PNPPL                             3.26 F
+CAT LITTER                       14.03 T
+  2 @ 5.61
+DARK CHOC PNT BTR CUPS           11.22 F
+  DIGITAL CPN                      2.96-  
+WILD COD FILLET                  18.56 F
+KRO ROTISSERIE CHICKEN            5.04 T
+RDCD FAT 2% MLK GALLON 6.54 F
+ORG CARROTS BUNCH                 4.63 F     
+DIGITAL CPN                      1.39-   
+FM WHL WHT SNDWCH BRD              2.54 F
+  3.38 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS                33.56 F
+
+SUBTOTAL                           95.03
+TAX 10.55% ON 19.07	2.01
+TOTAL                              97.04
+DISCOVER TEND                      97.04
+CHANGE                              0.00
+
+07/04/26 16:05  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

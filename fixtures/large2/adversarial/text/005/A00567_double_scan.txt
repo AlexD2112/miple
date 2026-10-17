@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3436  Seattle WA
+            MEMBER ************
+
+346581 MANDARIN ORANGE CHKN          15.87 E
+1627004 KS BRUSSELS SPRTS             6.73 E
+     2.89 lb @ 2.33 /lb
+8833208 TPD/BRUSSELS SPR             0.74-  
+1945430 KALE                          4.17 E
+435300 ZUCCHINI                      11.87 E
+     3.19 lb @ 3.72 /lb
+1456569 SILKEN TOFU                   6.87 E
+1627004 KS BRUSSELS SPRTS             6.73 E
+     2.89 lb @ 2.33 /lb
+8833208 TPD/BRUSSELS SPR             0.74-  
+1945430 KALE                          4.17 E
+435300 ZUCCHINI                      11.87 E
+     3.19 lb @ 3.72 /lb
+1456569 SILKEN TOFU                   6.87 E
+     3 @ 2.29
+9239083 TPD/SILKEN TOFU              0.35-  
+1081103 KS FRZN WAFFLES               7.05 E
+
+SUBTOTAL                               51.47
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             51.47
+AMEX TEND                              51.47
+CHANGE                                  0.00
+
+06/20/26 15:43  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

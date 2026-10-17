@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0926  Seattle WA
+            MEMBER ************
+
+1645932 KS ENGLISH CUCUMBER           2.87 E
+     0.82 lb @ 3.50 /lb
+1373203 KS COLA 12PK                  3.66 A
+     2 @ 1.83
+186447 EVERYTHING BUT THE BAGEL SEAS  7.01 E
+7721498 TPD/EVERYTHING B             2.10-  
+1608350 KS CAGE FREE EGGS 18CT        6.85 E
+750990 ORGNL HUMMUS 10 OZ             8.88 E
+1183788 KS PARMIGIANO RGGN            7.82 E
+1897485 ORG CRRTS BUNCH               4.63 E
+1457512 GRASS-FED GRND BF 85/15       7.35 E
+1889992 KS GALA APPLES                4.78 E
+     2.08 lb @ 2.30 /lb
+333061 KS GROUND TURKEY               5.19 E
+1617343 ORG BLACK BEANS 8 CANS        4.60 E
+     4 @ 1.15
+566468 KS COLA 12PK                   1.83 A
+
+SUBTOTAL                               63.37
+TAX 10.55% ON 5.49                      0.58
+**** TOTAL                             63.95
+VISA TEND                              63.95
+CHANGE                                  0.00
+
+03/02/26 20:51  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

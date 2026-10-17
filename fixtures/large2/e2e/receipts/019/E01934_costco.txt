@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0087  Seattle WA
+            MEMBER ************
+
+566698 BLCKBRRS                       3.92 E
+497802 KS BANANAS                     4.50 E
+     1.55 lb @ 2.90 /lb
+304379 KS FRESH BASIL                10.96 E
+     4 @ 2.74
+2771256 TPD/FRESH BASIL              2.64-  
+161123 KS WHL CHKN                   28.80 E
+     4.55 lb @ 6.33 /lb
+599959 KS HAMBURGER BUNS              2.77 E
+497727 KS TILLAMOOK MEDIUM CHDR      11.77 E
+437992 HUY FONG SRIRACHA              2.55 E
+1940676 GREEN BEANS                   6.93 E
+     3 @ 2.31
+710600 COLA 12PK                      1.83 A
+743069 DOUBLE CREME BRIE              5.40 E
+  REFUND - ORIG RECEIPT
+RETURN 743069 DOUBLE CREME BRIE      5.40- E
+
+SUBTOTAL                               71.39
+TAX 10.55% ON 1.83                      0.19
+**** TOTAL                             71.58
+DEBIT TEND                             71.58
+CHANGE                                  0.00
+
+01/20/26 10:49  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

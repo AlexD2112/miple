@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0847  Seattle WA
+            MEMBER ************
+
+1942540 ICEBERG LTTC                 15.33 E
+     3 @ 5.11
+815470 KS TUNA CAN                    1.08 E
+3408671 TPD/TUNA CAN                 0.32-  
+60802 JASMINE RICE 5 LB               1.49 E
+553755 KS DAVES KILLER BRD            6.69 E
+21338 KS CHKN DRUMSTICKS              8.97 E
+396554 KS RUSSET POTS                 3.83 E
+     3.39 lb @ 1.13 /lb
+36341 ORG LEMONS                      1.02 E
+     0.36 lb @ 2.83 /lb
+1090932 SHAMPOO                      17.57 A
+1703131 KS BANANAS                    9.57 E
+     3.30 lb @ 2.90 /lb
+1341166 AHI TUNA STEAK               14.71 E
+0108249 TPD/AHI TUNA STE             0.78-  
+1792150 FRESH DILL                    2.70 E
+     3 @ 0.90
+52225 KS ROLLED OATS                  7.96 E
+     2 @ 3.98
+124309 KS CELERY                      8.64 E
+     2 @ 4.32
+1885492 KS PSTR RAISED EGGS           7.37 E
+5334433 TPD/PSTR RAISED              1.38-  
+
+SUBTOTAL                              104.45
+TAX 10.55% ON 17.57                     1.85
+**** TOTAL                            106.30
+AMEX TEND                             106.30
+CHANGE                                  0.00
+
+01/27/26 16:32  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

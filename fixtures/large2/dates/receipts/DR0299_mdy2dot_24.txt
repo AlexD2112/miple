@@ -1,0 +1,17 @@
+                 TARGET
+           Seattle WA  T-3774
+             (555) 030-5864
+
+GG TUNA CAN                       1.08 N
+CAULIFLOWER GNOCCHI               7.85 N
+
+SUBTOTAL                            8.93
+TAX 10.55% ON 0.00                  0.00
+TOTAL                               8.93
+VISA TEND                           8.93
+CHANGE                              0.00
+
+11.01.26 01:15
+ITEMS 20   REG 13  TRANS 6380
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

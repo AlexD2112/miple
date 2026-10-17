@@ -1,0 +1,43 @@
+               FRED MEYER
+              Portland OR
+               Store 3939
+
+  2 @ 2.54
+SMPL TRTH WHL WHT SANDWICH BRD    5.08 F
+KRO POTATO CHIPS                  5.07 F
+KRO APPLE JUICE 64OZ              7.25 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+BRLL PENNE                       19.37 F
+  2.49 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             3.31 F
+GREETING CARD                    20.34 F
+  4 @ 2.55
+HUY FONG SRIRACHA                10.20 F
+  2 @ 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS    6.92 F
+PENNE 16 OZ                       3.51 F
+FM FRZN MIXED BERRIES             2.06 F
+FM PLUS CARD SAV                 0.62-  
+  2.38 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                37.03 F
+  2 @ 3.33
+SMPL TRTH TORTILLA CHIPS          6.66 F
+KRO ALUMINUM FOIL                18.03 F
+  2 @ 2.87
+SWISS CHARD                       5.74 F
+SMPL TRTH HLBT                   10.82 F
+  3.37 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                4.99 F
+SMPL TRTH VAN YGRT CUPS           5.39 F
+DARIGOLD UNSLTD BTR               6.67 F
+
+SUBTOTAL                          177.92
+TAX                                 0.00
+TOTAL                             177.92
+AMEX TEND                         177.92
+CHANGE                              0.00
+
+09/18/26 10:03  ITEMS 25
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

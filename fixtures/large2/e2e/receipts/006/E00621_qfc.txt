@@ -1,0 +1,30 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1071
+
+SMPL TRTH FRZN MIXED BERRIES      2.06 F
+MFR CPN                          0.62-  
+STRAUS PLAIN GRK YGRT             1.74 F
+PRIV SEL RIBEYE STEAK            19.87 F
+PRIV SEL APPLE JUICE 64OZ         7.25 F
+  3.50 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             8.05 F
+PEPSI 12 PK CANS                  4.93 T
+KRO CAT LITTER                   14.03 T
+  3.23 lb @ 9.65 /lb
+PORK TENDERLOIN                  31.17 F
+KRO SAVINGS                      0.36-  
+HEINZ KTCHP 32 OZ                 4.48 F
+SMPL TRTH FRESH DILL              0.90 F
+PRIV SEL CREAM CHEESE             8.63 F
+GINGER ALE 12PK                   6.02 T
+
+SUBTOTAL                          108.15
+TAX 10.55% ON 24.98                 2.64
+TOTAL                             110.79
+VISA TEND                         110.79
+CHANGE                              0.00
+
+10/08/26 17:45  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

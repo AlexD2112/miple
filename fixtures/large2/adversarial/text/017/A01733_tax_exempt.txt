@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0371  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******4608
+
+396045 KS DOG TREATS                  6.82 A
+1288920 KS GREEN ONIN BUNCH           2.59 E
+341199 KS TLLMK MEDIUM CHDR          11.77 E
+806034 KS COLD BREW COFFEE 32OZ       4.43 E
+3806314 TPD/COLD BREW CO             1.33-  
+1782125 KS PREPARED MAC & CHS        10.62 E
+102001 KS ITALIAN PARSLEY             2.93 E
+1240470 RUSSET POTATOES               3.93 E
+     3.48 lb @ 1.13 /lb
+1787616 KS CELERY                     4.32 E
+1690178 KS HAND SOAP                 24.27 A
+1553315 KS GROUND PORK                6.60 E
+167403 PAPER PLATES                   3.31 A
+
+SUBTOTAL                               80.26
+TAX EXEMPT                              0.00
+**** TOTAL                             80.26
+MASTERCARD TEND                        80.26
+CHANGE                                  0.00
+
+02/25/26 08:07  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

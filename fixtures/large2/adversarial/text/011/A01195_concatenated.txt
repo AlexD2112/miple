@@ -1,0 +1,55 @@
+                 TARGET
+          Portland OR  T-0544
+             (555) 030-2825
+
+LG EGGS 12 CT                     8.69 N
+MKT PANTRY DRIED LENTILS          4.26 N
+GG GENOA SALAMI                   4.76 N
+WHL WHT SNDWCH BRD                2.54 N
+WHITE SANDWICH BREAD              7.03 N
+PNT BTR                           6.90 N
+ORG BABY SPNCH 5 OZ               5.85 N
+MKT PANTRY BABY CARROTS           2.49 N
+MKT PANTRY OAT MILK               3.10 N
+
+SUBTOTAL                           45.62
+TAX                                 0.00
+TOTAL                              45.62
+CASH TEND                          60.00
+CHANGE                             14.38
+
+10/10/26 20:15  ITEMS 9
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU
+
+               FRED MEYER
+              Portland OR
+               Store 2146
+
+KRO QUINOA                        7.75 F
+  5.23 lb @ 6.33 /lb
+WHL CHKN                         33.11 F
+STRAWBERRIES 2 LB                 5.88 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+SMPL TRTH SWISS CHARD             2.87 F
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+  0.72 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                0.96 F
+SMPL TRTH CHKN THIGHS             9.29 F
+STRWB 2 LB                        5.88 F
+FM PLUS CARD SAV                 1.37-  
+  2.98 lb @ 2.83 /lb
+ORG LEMONS                        8.43 F
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+KRO SAVINGS                      1.26-  
+BAG FEE                           0.05  
+
+SUBTOTAL                           93.94
+TAX                                 0.00
+TOTAL                              93.94
+AMEX TEND                          93.94
+CHANGE                              0.00
+
+05/28/26 09:47  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 2320
+
+KRO PENNE                        13.38 F
+GRTNG CARD                       20.34 T
+  2 @ 4.65
+PLAIN NONFAT GRK YGRT             9.30 F
+KRO ALUMINUM FOIL                18.03 T
+KRO SAVINGS                      1.58- T
+CHKN THIGHS                       9.29 F
+  4 @ 2.38
+ROMA TOM                          9.52 F
+JASMINE RICE 25 LB                8.09 F
+KRO CRM CHS                       8.63 F
+ORG GALA APPLES                   1.57 F
+RED GRAPES                        3.04 F
+GRSS-FD GRND BF 85/15             7.35 F
+  2.36 lb @ 0.68 /lb
+SMPL TRTH PEACHES                 1.60 F
+BOTTLED WTR 40 PK                 2.45 F
+
+SUBTOTAL                          111.01
+TAX 10.55% ON 36.79                 3.88
+TOTAL                             114.89
+DISCOVER TEND                     114.89
+CHANGE                              0.00
+
+04/13/26 12:37  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

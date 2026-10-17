@@ -1,0 +1,31 @@
+                SAFEWAY
+      Store 1583  San Francisco CA
+             (555) 010-2313
+
+SIG SLCT GRND PORK                6.60 S
+SIG SLCT GRND COFFEE              9.64 S
+  1 @ 0.05
+CA CRV                            0.05  
+DAVES KILLER BREAD 21 WHOLE GRAI  4.78 S
+EVERYTHING BUT THE BAGEL SEASONI  7.01 S
+  2 @ 2.02
+CLNTR BUNCH                       4.04 S
+O ORGANICS BARTLETT PEARS         3.00 S
+SIG SLCT HAMBURGER BUNS           2.77 S
+CROISSANTS 12 CT                  4.87 S
+LUCERNE PRMGN REGGIANO            7.82 S
+  2 @ 2.35
+FLOUR TORT 10 CT                  4.70 S
+  4 @ 2.25
+BROC CROWNS                       9.00 S
+SW FRZN MIXED BERRIES             2.06 S
+
+SUBTOTAL                           66.34
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         66.34
+VISA TEND                          66.34
+CHANGE                              0.00
+
+01/30/26 08:49  ITEMS 17
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

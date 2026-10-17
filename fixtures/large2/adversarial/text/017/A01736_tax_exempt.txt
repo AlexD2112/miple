@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1908
+TAX EXEMPT ID ******5605
+
+FM CHKN THIGHS                    9.29 F
+LEMONADE 52OZ                     5.79 T
+WHL MLK HALF GALLON               6.79 F
+  3 @ 5.87
+SMPL TRTH BLUEBERRIES            17.61 F
+  2 @ 1.15
+ORG BLACK BEANS 8 CANS            2.30 F
+LG EGGS 18 CT                     7.52 F
+KRO SAVINGS                      1.37-  
+SMPL TRTH CLNTR                   1.16 F
+
+SUBTOTAL                           49.09
+TAX EXEMPT                          0.00
+TOTAL                              49.09
+MASTERCARD TEND                    49.09
+CHANGE                              0.00
+
+07/31/26 08:54  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

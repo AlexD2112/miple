@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2999  Seattle WA
+            MEMBER ************
+
+1171122 SHAMPOO                      17.57 A
+1169849 KS DISH SOAP                 19.39 A
+1869346 KS SHAMPOO                   17.57 A
+9508135 TPD/SHAMPOO                  0.69- A
+1003872 KS HAND SOAP                 24.27 A
+1059063 KS DISH SOAP                 19.39 A
+666062 KS LIGHT BULBS 4PK            17.04 A
+
+SUBTOTAL                              114.54
+TAX 10.55% ON 114.54                   12.08
+**** TOTAL                            126.62
+DEBIT TEND                            126.62
+CHANGE                                  0.00
+
+07/11/26 20:15  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

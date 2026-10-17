@@ -1,0 +1,18 @@
+                 TARGET
+           Seattle WA  T-3067
+             (555) 030-5384
+
+MKT PANTRY LIMES                  2.80 N
+MKT PANTRY CRL                    6.63 N
+MKT PANTRY GRND TRKY              5.19 N
+GG CHERRIES                       5.69 N
+
+SUBTOTAL                           20.31
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              20.31
+CASH TEND                          40.00
+CHANGE                             19.69
+
+01/31/26 21:21  ITEMS 4
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

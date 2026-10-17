@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 2410
+
+MAYONNAISE 30 OZ                  6.42 F
+MFR CPN                          1.93-  
+  3 @ 5.79
+KRO LEMONADE 52OZ                17.37 T
+ORG BASIL CLMSHLL                 1.49 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+  0.69 lb @ 14.17 /lb
+KRO BLACK FOREST HAM              9.78 F
+
+SUBTOTAL                           41.96
+TAX 10.55% ON 26.20                 2.76
+TOTAL                              44.72
+MASTERCARD TEND                    44.72
+CHANGE                              0.00
+
+02/03/2025 00:22 PST  7277 16 244 9
+ITEMS 26   REG 05  TRANS 2675
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0789  Seattle WA
+            MEMBER ************
+
+818704 KS PNT BTR                     6.90 E
+1209790 BANANA                        2.37 E
+1075266 GRASS-FED GRND BF 85/15       7.35 E
+1305942 JENNIE-O GRND TRKY 1 LB       6.60 E
+10496 HALF & HALF                     5.34 E
+675858 KS LMND 52OZ                   5.79 A
+1922083 STRAUS PLAIN GRK YGRT         1.74 E
+1425801 KS PAPER PLATES               3.31 A
+1993203 SLCD TRKY BRST               14.76 E
+     1.12 lb @ 13.18 /lb
+1290112 KS ORANGE JUICE 52OZ          9.39 E
+6866750 TPD/ORANGE JUICE             1.96-  
+815468 ITLN SAUSAGE BULK              9.93 E
+8057724 TPD/ITLN SAUSAGE             1.76-  
+1352158 KS CHRRS                      5.69 E
+1150537 LACROIX LIME SPARKLING WATER  2.20 E
+2600906 TPD/LACROIX LIME             0.66-  
+
+SUBTOTAL                               76.99
+TAX 10.55% ON 9.10                      0.96
+**** TOTAL                             77.95
+MASTERCARD TEND                        77.95
+CHANGE                                  0.00
+
+06/10/26 08:58  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

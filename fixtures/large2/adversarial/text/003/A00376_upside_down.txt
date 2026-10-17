@@ -1,0 +1,22 @@
+               THANK YOU
+T=TAXABLE  N=NONTAXABLE FOOD
+02/28/26 13:29  ITEMS 5
+
+CHANGE                              0.00
+VISA TEND                          65.45
+TOTAL                              65.45
+TAX 8.625% ON 0.00                  0.00
+SUBTOTAL                           65.45
+
+BAG FEE                           0.25  
+GG LIMES                          5.60 N
+  2 @ 2.80
+GG RADISHES                       3.17 N
+  3.02 lb @ 1.05 /lb
+GG LAMB CHOPS                    50.70 N
+  2.97 lb @ 17.07 /lb
+MKT PANTRY SLTD BTR               5.73 N
+
+             (555) 030-0424
+        San Francisco CA  T-1582
+                 TARGET

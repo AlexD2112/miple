@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2756  Portland OR
+            MEMBER ************
+
+588354 KS SHAMPOO                    17.57 E
+1044411 KS PAPER TOWELS 6 ROLL        3.75 E
+1271161 CAT LITTER                   14.03 E
+9724138 TPD/CAT LITTER               2.13-  
+813724 KS SHMP                       17.57 E
+9996628 TPD/SHMP                     2.27-  
+1276515 LIGHT BULBS 4PK              17.04 E
+661462 LNDRY DETERGENT PODS          20.18 E
+1520830 LAUNDRY DETERGENT PODS       20.18 E
+1470772 KS PLASTIC WRAP               4.77 E
+3236697 TPD/PLASTIC WRAP             0.64-  
+1223480 PAPER TOWELS 6 ROLL           3.75 E
+1585522 KS LIGHT BULBS 4PK           17.04 E
+1012118 KS PAPER TOWELS 6 ROLL        3.75 E
+890288 GREETING CARD                 20.34 E
+803357 KS BATH TISSUE 12 ROLL        23.08 E
+1739731 FLWRS BQT                    23.70 E
+
+SUBTOTAL                              201.71
+TAX                                     0.00
+**** TOTAL                            201.71
+MASTERCARD TEND                       201.71
+CHANGE                                  0.00
+
+01/19/26 08:55  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

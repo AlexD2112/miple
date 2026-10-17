@@ -1,0 +1,26 @@
+                SAFEWAY
+         Store 3402  Seattle WA
+             (555) 010-5670
+
+BLACKBERRIES                      3.92 S
+GOAT CHS                          8.35 S
+O ORGANICS LEMONS                 4.19 S
+SIG LNDRY DETERGENT PODS         20.18 T
+SW TORTILLA CHIPS                 3.33 S
+LUCERNE LG BROWN EGGS             4.29 S
+  3.02 lb @ 2.08 /lb
+O ORGANICS KIWI                   6.28 S
+SIG KTCHNS GRNLA BRS              6.07 S
+  0.88 lb @ 0.68 /lb
+PCHS                              0.60 S
+FRESH MOZZ                        8.65 S
+
+SUBTOTAL                           65.86
+TAX 10.55% ON 20.18                 2.13
+**** TOTAL                         67.99
+DEBIT TEND                         67.99
+CHANGE                              0.00
+
+02/28/28 08:16  ITEMS 10
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

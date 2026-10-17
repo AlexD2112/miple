@@ -1,0 +1,37 @@
+               FRED MEYER
+               Seattle WA
+               Store 0856
+
+TORTILLA CHIPS                    3.33 F
+  1.48 lb @ 14.17 /lb
+BLACK FOREST HAM                 20.97 F
+CRM CHS 8 OZ                      3.15 F
+  1.41 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  10.77 F
+  2.08 lb @ 3.76 /lb
+CLFLWR                            7.82 F
+FRZN DMPLNGS                     15.61 F
+  2 @ 3.77
+BABY SPNCH 5 OZ                   7.54 F
+SMPL TRTH FLOUR TORTILLAS         6.18 F
+DIGITAL CPN                      1.85-  
+  4 @ 1.97
+GRK YGRT 48 OZ                    7.88 F
+CELERY                            4.32 F
+SOURDOUGH LOAF                    7.47 F
+DOUBLE CREME BRIE                 5.40 F
+  2 @ 2.35
+FLOUR TORT 10 CT                  4.70 F
+SOY SCE                           6.79 F
+  2 @ 4.30
+LEMON                             8.60 F
+
+SUBTOTAL                          118.68
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             118.68
+AMEX TEND                         118.68
+CHANGE                              0.00
+
+09/06/26 18:00  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

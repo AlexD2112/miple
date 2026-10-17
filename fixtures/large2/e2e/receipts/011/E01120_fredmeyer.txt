@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 1004
+
+BABY SPINACH 5 OZ                 3.77 F
+FM TRTLL CHIPS                    3.33 F
+GENOA SALAMI                      4.76 F
+
+SUBTOTAL                           11.86
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              11.86
+MASTERCARD TEND                    11.86
+CHANGE                              0.00
+
+08/16/26 15:14  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

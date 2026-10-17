@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 2672
+
+TILLAMOOK MEDIUM CHDR            11.77 F
+DIGITAL CPN                      0.67-  
+PARMIGIANO REGGIANO               7.82 F
+  2.82 lb @ 6.00 /lb
+GRND BF 88/12                    16.92 F
+HEINZ KTCHP 32 OZ                 4.48 F
+  2 @ 2.09
+SALSA JAR                         4.18 F
+LARGE EGGS 18 CT                  7.52 F
+  1.52 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        3.54 F
+SMPL TRTH BLCKBRRS                3.92 F
+
+SUBTOTAL                           59.48
+TAX                                 0.00
+TOTAL                              59.48
+VISA TEND                          59.48
+CHANGE                              0.00
+
+02/28/27 14:30  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

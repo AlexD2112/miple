@@ -1,0 +1,20 @@
+                SAFEWAY
+         Store 0432  Seattle WA
+             (555) 010-6544
+
+BATH TISSUE 12 ROLL              23.08 T
+SIG PLSTC WRAP                    4.77 T
+SIG NPKNS                        24.05 T
+TRASH BAGS 40CT                   6.49 T
+SIG GREETING CARD                20.34 T
+J4U PERSONAL DEAL                1.77- T
+
+SUBTOTAL                           76.96
+TAX 10.55% ON 76.96                 8.12
+**** TOTAL                         85.08
+DEBIT TEND                         85.08
+CHANGE                              0.00
+
+06/15/26 17:08  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

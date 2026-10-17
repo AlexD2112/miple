@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 2987
+
+FM BAGELS                         3.77 F
+  4.86 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  37.13 F
+LIGHT BULBS 4PK                  17.04 T
+SMPL TRTH YUKON GOLD POTS         3.99 F
+  1.23 lb @ 13.18 /lb
+FM SLCD TRKY BRST                16.21 F
+  3 @ 1.72
+KRO FRZN BROC                     5.16 F
+MFR CPN                          0.88-  
+WHITE BRD                         6.34 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+DIGITAL CPN                      2.10-  
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+SMPL TRTH ARUGULA                 4.00 F
+LEMON                             4.30 F
+TILLAMOOK VAN YGRT                4.05 F
+  0.50 lb @ 1.25 /lb
+PINEAPPLE                         0.63 F
+  2 @ 5.39
+FM VAN YGRT CUPS                 10.78 F
+
+SUBTOTAL                          128.24
+TAX 10.55% ON 17.04                 1.80
+TOTAL                             130.04
+MASTERCARD TEND                   130.04
+CHANGE                              0.00
+
+01/02/26 17:32  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

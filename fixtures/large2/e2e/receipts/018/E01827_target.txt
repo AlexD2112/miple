@@ -1,0 +1,30 @@
+                 TARGET
+        San Francisco CA  T-0837
+             (555) 030-8499
+
+ORG GALA APPLES                   1.57 N
+  4 @ 2.87
+SWISS CHARD                      11.48 N
+TOOTHPASTE                       16.40 T
+ORG GALA APPLES                   1.57 N
+GG FRZN PEAS                     13.98 N
+TRASH BAGS 40CT                   6.49 T
+BAGELS                            3.77 N
+TARGET CIRCLE OFFER              1.13-  
+  3 @ 2.61
+ORG SPRTD TOFU                    7.83 N
+MKT PANTRY FRZN DUMPLINGS        15.61 N
+MKT PANTRY CRM CHS                8.63 N
+MKT PANTRY FRESH MINT             2.74 N
+PENNE 16 OZ                       3.51 N
+TLLMK ICE CRM 48 OZ               8.88 N
+
+SUBTOTAL                          101.33
+TAX 8.625% ON 22.89                 1.97
+TOTAL                             103.30
+CASH TEND                         120.00
+CHANGE                             16.70
+
+07/03/26 14:54  ITEMS 18
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

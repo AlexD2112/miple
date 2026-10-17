@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1187  Seattle WA
+            MEMBER ************
+
+1540575 KS HONEYCRISP APPLES          4.67 E
+1850425 TILLAMOOK VAN YGRT            8.10 E
+     2 @ 4.05
+1737889 STRAUS PLAIN GRK YGRT         3.48 E
+     2 @ 1.74
+
+SUBTOTAL                               16.25
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             16.25
+VISA TEND                              16.25
+CHANGE                                  0.00
+
+03/21/26 07:18  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

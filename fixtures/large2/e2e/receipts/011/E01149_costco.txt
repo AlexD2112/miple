@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3853  Seattle WA
+            MEMBER ************
+
+684451 KS DIET COLA 12PK CANS         4.42 A
+1647424 FOSTER FARMS BNLS SKNLS CHK  27.50 E
+     3.60 lb @ 7.64 /lb
+1248330 KS ITALIAN PARSLEY            8.79 E
+     3 @ 2.93
+1148866 KS CRL                        6.63 E
+365857 WHITE BREAD                    6.34 E
+466109 KS TORTILLA CHIPS             13.32 E
+     4 @ 3.33
+1054341 KS DISH SOAP                 19.39 A
+210519 KS CHKN DRUMSTICKS             8.97 E
+1988558 SHRP CHDR BLOCK              10.33 E
+943420 HEINZ KETCHUP 32 OZ            4.48 E
+1979642 KS SPRKLG WTR 8PK             5.13 E
+1259185 KS ROTISSERIE CHICKEN         5.04 A
+207986 ALL PURPOSE FLOUR             11.36 E
+4136113 TPD/ALL PURPOSE              2.87-  
+348857 KS ROOT BEER 2L                5.24 A
+
+SUBTOTAL                              134.07
+TAX 10.55% ON 34.09                     3.60
+**** TOTAL                            137.67
+DISCOVER TEND                         137.67
+CHANGE                                  0.00
+
+02/28/27 19:43  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

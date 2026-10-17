@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 1019
+TAX EXEMPT ID ******1680
+
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+  2.87 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 12.46 F
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+KRO BOTTLED WATER 24PK            9.32 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           43.50
+TAX EXEMPT                          0.00
+TOTAL                              43.50
+DISCOVER TEND                      43.50
+CHANGE                              0.00
+
+03/26/26 12:01  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

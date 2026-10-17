@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2400  Portland OR
+            MEMBER ************
+
+37277 KS TUNA CAN                     1.08 E
+1044104 DELI SLCD TRKY BRST           3.19 E
+     0.29 lb @ 10.99 /lb
+1591026 KS CAT LITTER                14.03 E
+2779626 TPD/CAT LITTER               0.56-  
+1292909 KS POTATO CHIPS              10.14 E
+     2 @ 5.07
+1144638 ORG BABY SPNCH               11.08 E
+     2 @ 5.54
+1500591 PARMIGIANO REGGIANO WEDGE     8.42 E
+765003 KS BRIE                        4.85 E
+5879353 TPD/BRIE                     1.45-  
+1388811 SLCD ROAST BF                 5.94 E
+
+SUBTOTAL                               56.72
+TAX                                     0.00
+**** TOTAL                             56.72
+DISCOVER TEND                          56.72
+CHANGE                                  0.00
+
+06/17/26 20:12  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

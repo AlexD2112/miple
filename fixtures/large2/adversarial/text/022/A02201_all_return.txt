@@ -1,0 +1,22 @@
+                 TARGET
+        San Francisco CA  T-1015
+             (555) 030-8881
+
+  REFUND - ORIG RECEIPT
+RETURN KIWI                      5.28- N
+  REFUND - ORIG RECEIPT
+RETURN GG FRESH BASIL           10.96- N
+RETURN UP&UP DOG TREATS          6.82- T
+RETURN MKT PANTRY YELLOW ONIN    1.78- N
+  REFUND - ORIG RECEIPT
+RETURN MKT PANTRY GRND PORK      6.60- N
+
+SUBTOTAL                          31.44-
+TAX 8.625% ON 6.82-                0.59-
+TOTAL                             32.03-
+DEBIT TEND                        32.03-
+CHANGE                              0.00
+
+09/19/26 21:56  ITEMS 0
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

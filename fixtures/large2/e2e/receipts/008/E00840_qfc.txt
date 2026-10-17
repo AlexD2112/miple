@@ -1,0 +1,17 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1026
+
+SMPL TRTH GINGER ALE 12PK         6.02 T
+BATH TISSUE 12 ROLL              23.08 T
+SMPL TRTH COLA 12PK               1.83 T
+
+SUBTOTAL                           30.93
+TAX 10.55% ON 30.93                 3.26
+TOTAL                              34.19
+DEBIT TEND                         34.19
+CHANGE                              0.00
+
+04/30/26 10:21  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

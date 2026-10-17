@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1050  Seattle WA
+            MEMBER ************
+
+616874 UNEXPECTED CHDR               16.00 E
+     0.89 lb @ 17.98 /lb
+67356 BLACK BEANS 15 OZ CAN          10.76 E
+613165 HEINZ KETCHUP 32 OZ           17.92 E
+     4 @ 4.48
+693539 DARIGOLD UNSLTD BTR            6.67 E
+40911 KS GRK YGRT PLAIN              16.44 E
+     4 @ 4.11
+1515555 GRK YGRT 48 OZ                3.94 E
+     2 @ 1.97
+923886 KS BAGGED CAESAR SALAD KIT     2.21 E
+1457839 BNNS                          9.43 E
+     3.25 lb @ 2.90 /lb
+184672 BNLS CHKN THIGHS               8.55 E
+     1.97 lb @ 4.34 /lb
+1863850 TPD/BNLS CHKN TH             1.94-  
+1591702 GREEN ONIN BUNCH              2.59 E
+1216443 KS HALF & HALF                5.34 E
+1881214 KS TUNA CAN                   1.08 E
+1206038 RED GRAPES                    3.04 E
+4537080 TPD/RED GRAPES               0.90-  
+705128 KS GREEN ONIN BUNCH            2.59 E
+673439 CRKRS                          8.00 E
+     4 @ 2.00
+1908309 DOUBLE CREME BRIE             5.40 E
+5546775 TPD/DOUBLE CREME             1.62-  
+1102919 KS CAT LITTER                14.03 A
+4176525 TPD/CAT LITTER               2.17- A
+
+SUBTOTAL                              127.36
+TAX 10.55% ON 11.86                     1.25
+**** TOTAL                            128.61
+VISA TEND                             128.61
+CHANGE                                  0.00
+
+04/15/26 12:05  ITEMS 27
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

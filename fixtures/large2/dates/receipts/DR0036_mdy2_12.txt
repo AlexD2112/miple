@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 3306
+
+KRO SPRKLG WTR                    3.74 F
+SMPL TRTH GROUND TURKEY           5.19 F
+FM PLUS CARD SAV                 0.43-  
+KRO DOG TREATS                    6.82 T
+WHITE SNDWCH BRD                  7.03 F
+KRO ICE CRM                      14.51 F
+FM PLUS CARD SAV                 0.79-  
+RED GRAPES                        3.04 F
+LG BROWN CAGE FREE EGGS           4.10 F
+DIGITAL CPN                      1.23-  
+SLCD SRDGH PAN LOAF               4.74 F
+  3 @ 5.13
+KRO SPRKLG WTR 8PK               15.39 F
+
+SUBTOTAL                           62.11
+TAX 10.55% ON 6.82                  0.72
+TOTAL                              62.83
+CASH TEND                          80.00
+CHANGE                             17.17
+
+BUSINESS DATE 05/23/29
+05/24/29 12:10 AM  9636 25 453 3
+ITEMS 8   REG 11  TRANS 2649
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

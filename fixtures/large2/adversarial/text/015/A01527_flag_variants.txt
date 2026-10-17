@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 0477
+
+SMPL TRTH SPRING MIX              5.44 S
+ORG CARROTS BUNCH                 4.63 S
+KRO SAVINGS                      1.39-  
+  3 @ 3.98
+FM ROLLED OATS                   11.94 S
+ORGANIC ITALIAN PARSLEY           1.95 S
+SMPL TRTH NAVEL ORANGES           1.01 S
+
+SUBTOTAL                           23.58
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              23.58
+DISCOVER TEND                      23.58
+CHANGE                              0.00
+
+06/13/26 08:20  ITEMS 7
+T=TAX  S=SNAP
+               THANK YOU

@@ -1,0 +1,361 @@
+               FRED MEYER
+               Seattle WA
+               Store 0117
+
+ORG CARROTS BUNCH                 4.63 F
+JASMINE RICE 25 LB                8.09 F
+FM MAYONNAISE                     6.36 F
+CAT LITTER                       14.03 T
+FM PLUS CARD SAV                 2.97- T
+  2.62 lb @ 6.69 /lb
+FM BNLS SKNLS CHKN BRST          17.53 F
+RIBEYE STEAK                     19.87 F
+CHKN GYOZA POTSTICKERS            9.88 F
+DIGITAL CPN                      2.10-  
+PAPER TOWELS 6 ROLL               3.75 T
+MFR CPN                          1.13- T
+AA BATTERIES 8PK                 24.36 T
+GRND TRKY                         5.19 F
+  4 @ 2.56
+FRZN THREE BERRY BLEND 4 LB      10.24 F
+  0.82 lb @ 3.42 /lb
+RED BELL PEPR                     2.80 F
+DARIGOLD UNSLTD BTR               6.67 F
+FM ORANGE JUICE                   7.69 F
+  3 @ 5.85
+ORGANIC BABY SPINACH 5 OZ        17.55 F
+  5.09 lb @ 6.69 /lb
+SMPL TRTH BONELESS SKINLESS CHI  34.05 F
+  4 @ 4.43
+SMPL TRTH COLD BREW COFFEE 32OZ  17.72 F
+WHITE SANDWICH BREAD              7.03 F
+  4 @ 2.45
+BTTLD WTR 40 PK                   9.80 F
+FM PLUS CARD SAV                 0.86-  
+  3.50 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                54.46 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+SOURDOUGH LOAF                    7.47 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+DGRN RISING CRUST PPPRN PIZZA     5.73 F
+  0.96 lb @ 2.08 /lb
+SMPL TRTH KIWI                    2.00 F
+KRO HAND SOAP                    24.27 T
+2% MILK HALF GALLON               6.08 F
+MFR CPN                          0.70-  
+ATLNTC SLMN FLLT                 19.77 F
+FM ROTIS CHKN                     5.04 T
+  2 @ 2.00
+KRO CRACKERS                      4.00 F
+  3.38 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  25.82 F
+RED GRAPES                        3.04 F
+  2.19 lb @ 15.56 /lb
+BONELESS RIBEYE STEAK            34.08 F
+MFR CPN                          1.86-  
+KRO SOURDOUGH LOAF                7.47 F
+SMPL TRTH MAYONNAISE              6.36 F
+  0.35 lb @ 0.76 /lb
+MANGO                             0.27 F
+LEMONADE 52OZ                     5.79 T
+AVOCADOS BAG 4 CT                 3.54 F
+SMPL TRTH RASPBERRIES             7.24 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+ORG EGGS 24 CT                    7.83 F
+  2 @ 2.32
+FM EXTRA FIRM TOFU                4.64 F
+KRO TRASH BAGS 40CT               6.49 T
+UNSLTD BTR 4 X 1 LB               9.48 F
+  3 @ 5.87
+BLUBRY                           17.61 F
+  1.44 lb @ 3.72 /lb
+ZUCCHINI                          5.36 F
+AVOCADOS                          4.05 F
+KRO CRL                           6.63 F
+FM SOURDOUGH LOAF                 7.47 F
+FM VANILLA YOGURT CUPS            5.39 F
+FM JASMINE RICE                  12.13 F
+KRO SAVINGS                      0.35-  
+STRAUS PLAIN GREEK YOGURT         1.74 F
+SMPL TRTH KEFIR                   1.27 F
+ORG BLACK BEANS 8 CANS            1.15 F
+  3.07 lb @ 2.90 /lb
+BANANAS                           8.90 F
+FM PLUS CARD SAV                 2.67-  
+FM GRND BF 80/20                  6.57 F
+  2 @ 5.22
+MISSION FLOUR TORT 40 CT         10.44 F
+KRO ROTIS CHKN                    5.04 T
+SMPL TRTH BTR LTTC                2.45 F
+MFR CPN                          0.74-  
+SMPL TRTH GREEN BEANS             2.31 F
+FM PLUS CARD SAV                 0.69-  
+  4 @ 4.87
+CROISSANTS 12 CT                 19.48 F
+FM OAT MILK                       3.10 F
+  1.49 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 4.32 F
+CABOT SHARP CHEDDAR 8 OZ          8.48 F
+SMPL TRTH GOAT CHS                8.35 F
+SHREDDED MOZZ 8 OZ                2.92 F
+SMPL TRTH RIBEYE STEAK           19.87 F
+WHITE SANDWICH BREAD              7.03 F
+  2 @ 3.74
+SMPL TRTH SPRKLG WTR              7.48 F
+  1.82 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            25.01 F
+PENNE                            13.38 F
+FM BRIE                           4.85 F
+DIGITAL CPN                      1.45-  
+KRO KOMBUCHA 16OZ                 4.58 F
+DIGITAL CPN                      0.70-  
+YUKON GOLD POTATOES               3.99 F
+HEINZ KETCHUP 32 OZ               4.48 F
+  2.69 lb @ 18.16 /lb
+KRO COD FLLT                     48.85 F
+MFR CPN                          0.44-  
+  2.67 lb @ 0.76 /lb
+MANGO                             2.03 F
+  0.92 lb @ 2.08 /lb
+KIWI                              1.91 F
+SPAGHETTI                         9.54 F
+ORG EGGS 24 CT                    7.83 F
+  2 @ 5.79
+SMPL TRTH LEMONADE 52OZ          11.58 T
+CRM CHS                           8.63 F
+  2 @ 4.67
+HONEYCRISP APPLES                 9.34 F
+FM PLUS CARD SAV                 2.17-  
+  0.64 lb @ 3.42 /lb
+RED BELL PEPR                     2.19 F
+  3.00 lb @ 17.07 /lb
+KRO LAMB CHOPS                   51.21 F
+FM GRND COFFEE                    9.64 F
+  3 @ 2.93
+ITLN PRSLY                        8.79 F
+KRO SAVINGS                      0.35-  
+SMPL TRTH PENNE                  13.38 F
+KRO PNT BTR                       6.90 F
+DICED TOMATOES CAN                2.98 F
+YUKON GOLD POTS                   3.99 F
+KRO SRDGH LOAF                    7.47 F
+FM HAMBURGER BUNS                 2.77 F
+SHREDDED CHEDDAR 8 OZ             6.42 F
+  2 @ 5.54
+ORG BABY SPNCH                   11.08 F
+PLAIN NONFAT GRK YGRT             4.65 F
+MFR CPN                          0.94-  
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+KRO SLCD ROAST BF                 5.94 F
+KRO FLOUR TORTILLAS               6.18 F
+FM PLUS CARD SAV                 1.85-  
+UNSLTD BTR 4 X 1 LB               9.48 F
+  2.02 lb @ 3.42 /lb
+SMPL TRTH RED BELL PEPR           6.91 F
+FM UNSLTD BTR                     9.95 F
+ORANGE JUICE                      7.69 F
+LG BROWN EGGS                     4.29 F
+HLBT                             10.82 F
+  1.79 lb @ 3.50 /lb
+SMPL TRTH ENGLSH CUCUMBER         6.27 F
+FRZN PEAS 12 OZ                   5.40 F
+  1.97 lb @ 1.25 /lb
+PINEAPPLE                         2.46 F
+ORGANIC EGGS 24 CT                7.83 F
+DAVES KILLER BREAD 21 WHOLE GRAI  4.78 F
+RANCH DRSSNG                      3.99 F
+SPGHTT                            9.54 F
+  2 @ 5.22
+MISSION FLOUR TORTILLAS 40 CT    10.44 F
+KRO SAVINGS                      1.57-  
+WHITE SANDWICH BRD                7.03 F
+TOSTITOS SCOOPS TORTILLA CHIPS    3.46 F
+CILANTRO BUNCH                    2.02 F
+GREEK YOGURT 48 OZ                1.97 F
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+PLAIN GOAT CHS                    5.77 F
+  3 @ 2.87
+SWISS CHARD                       8.61 F
+  1.22 lb @ 14.17 /lb
+KRO BLACK FOREST HAM             17.29 F
+  3 @ 1.83
+FM COLA 12PK                      5.49 T
+TUNA CAN                          1.08 F
+  3 @ 1.49
+JASMINE RICE 5 LB                 4.47 F
+  2 @ 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS    6.92 F
+  2.37 lb @ 1.60 /lb
+SMPL TRTH JLPN                    3.79 F
+EVERYTHING BUT THE BAGEL SSNNG    7.01 F
+CRM CHS 8 OZ                      3.15 F
+SPONGES 3PK                       9.54 T
+SMPL TRTH SWEET POTS              3.28 F
+FM ALMOND MILK                    5.08 F
+  2.16 lb @ 2.83 /lb
+ORGANIC LEMONS                    6.11 F
+RUSSET POTS 5 LB BAG              4.53 F
+FM FRZN BROC                      1.72 F
+SMPL TRTH DAVES KILLER BRD        6.69 F
+PARMIGIANO RGGN WEDGE             8.42 F
+GRASS-FED GROUND BEEF 85/15       7.35 F
+DOG TREATS                        6.82 T
+  1.82 lb @ 3.42 /lb
+RED BELL PEPR                     6.22 F
+HANDMADE STYLE CORN TORT          3.55 F
+CRKRS                             2.00 F
+ORG SPRING MIX 1 LB               5.49 F
+FM SOY SCE                        6.79 F
+LEMON                             4.30 F
+MFR CPN                          1.29-  
+  2 @ 1.49
+ORG BASIL CLAMSHELL               2.98 F
+FM ROTIS CHKN                     5.04 T
+  0.79 lb @ 13.18 /lb
+FM SLCD TRKY BRST                10.41 F
+WHL MLK HALF GALLON               6.79 F
+KRO SAVINGS                      0.51-  
+  3 @ 2.21
+BAGGED CAESAR SALAD KIT           6.63 F
+SPRING MIX                        5.44 F
+WHITE SNDWCH BRD                  7.03 F
+  2.05 lb @ 17.07 /lb
+KRO LAMB CHOPS                   34.99 F
+  2.26 lb @ 13.74 /lb
+CHUCK ROAST                      31.05 F
+  2.41 lb @ 0.68 /lb
+SMPL TRTH PEACHES                 1.64 F
+GRNLA BRS                         6.07 F
+FLOUR TORT 10 CT                  2.35 F
+KRO SILKEN TOFU                   2.29 F
+KRO SAVINGS                      0.69-  
+CELERY HEARTS                     4.34 F
+MFR CPN                          1.30-  
+FLOUR TORT 10 CT                  2.35 F
+FM PLUS CARD SAV                 0.71-  
+FM FROZEN PEAS                   13.98 F
+SMPL TRTH SLTD BTR                5.73 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+CC-CL 12 PK CANS                  2.77 T
+FM PLUS CARD SAV                 0.36- T
+  3 @ 2.93
+SMPL TRTH ASPRGS                  8.79 F
+ORG ITLN PRSLY                    1.95 F
+KRO ICE CRM                      14.51 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+  2.15 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI                8.00 F
+ORG BABY SPNCH                    5.54 F
+  1.60 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        3.73 F
+FM PLUS CARD SAV                 1.12-  
+SHREDDED CHDR 8 OZ                6.42 F
+2% MLK 2 X 1 GAL                  4.70 F
+DIGITAL CPN                      1.41-  
+DISH SOAP                        19.39 T
+  0.42 lb @ 14.17 /lb
+KRO BLACK FOREST HAM              5.95 F
+  2 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS    9.56 F
+KRO QUINOA                        7.75 F
+ORG BLACK BEANS 8 CANS            1.15 F
+KRO PLSTC WRAP                    4.77 T
+FM PLUS CARD SAV                 1.43- T
+JASMINE RICE 25 LB                8.09 F
+BARILLA PENNE                    19.37 F
+  4 @ 2.93
+ITALIAN PARSLEY                  11.72 F
+SMPL TRTH YUKON GOLD POTS         3.99 F
+  2 @ 3.00
+BRTLTT PEARS                      6.00 F
+BLACK FOREST HAM 9 OZ             7.00 F
+TILLAMOOK VAN YGRT                4.05 F
+KRO SAVINGS                      0.88-  
+FM SLCD ROAST BF                  5.94 F
+BLACK BEANS 15 OZ CAN            10.76 F
+SMPL TRTH CREAM CHEESE            8.63 F
+PENNE 16 OZ                       3.51 F
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+FM SPAGHETTI                      9.54 F
+KRO SAVINGS                      1.52-  
+SMPL TRTH SPAGHETTI               9.54 F
+LG EGGS 18 CT                     7.52 F
+  2 @ 5.39
+FM VAN YGRT CUPS                 10.78 F
+ALUMINUM FOIL                    18.03 T
+TTHPST                           16.40 T
+CROISSANTS 12 CT                  4.87 F
+KRO RIBEYE STEAK                 19.87 F
+DIGITAL CPN                      1.59-  
+AVOCADOS                          4.05 F
+FM PLUS CARD SAV                 0.92-  
+WHITE BRD                         6.34 F
+FRESH MOZZARELLA                  8.65 F
+  3.65 lb @ 6.00 /lb
+GRND BF 88/12                    21.90 F
+  2 @ 5.40
+FRZN PEAS 12 OZ                  10.80 F
+MFR CPN                          0.58-  
+DOG TREATS                        6.82 T
+JASMINE RICE 5 LB                 1.49 F
+TILLAMOOK ICE CREAM 48 OZ         8.88 F
+BARILLA PENNE                    19.37 F
+  4 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU      11.12 F
+  2.29 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                3.05 F
+AVCDS BAG 4 CT                    3.54 F
+PLAIN GOAT CHS                    5.77 F
+RDCD FAT 2% MLK GALLON            6.54 F
+SHREDDED MOZZ 8 OZ                2.92 F
+TSTTS SCOOPS TORTILLA CHIPS       3.46 F
+KRO TOOTHPASTE                   16.40 T
+ORG SPROUTED TOFU                 2.61 F
+KRO QUINOA                        7.75 F
+ARUGULA                           4.00 F
+FM CTTG CHS                       3.21 F
+CHKN BROTH 32 OZ                  2.81 F
+  2.12 lb @ 3.34 /lb
+HASS AVOCADO LARGE                7.08 F
+KRO DISH SOAP                    19.39 T
+ORGANIC BLACK BEANS 8 CANS        1.15 F
+  1.04 lb @ 9.25 /lb
+FM SWISS CHS                      9.62 F
+MFR CPN                          2.58-  
+SMPL TRTH COLD BREW COFFEE 32OZ   4.43 F
+CRSSNTS 12 CT                     4.87 F
+ALUMINUM FOIL                    18.03 T
+SMPL TRTH NAVEL ORANGES           1.01 F
+  0.66 lb @ 3.76 /lb
+SMPL TRTH CLFLWR                  2.48 F
+LIMES                             2.80 F
+FM PLUS CARD SAV                 0.84-  
+  0.71 lb @ 18.16 /lb
+SMPL TRTH COD FLLT               12.89 F
+  4 @ 1.01
+SMPL TRTH NAVEL ORANGES           4.04 F
+FM PLUS CARD SAV                 1.21-  
+  3 @ 2.46
+FM DIJON MSTRD                    7.38 F
+JSMN RICE 25 LB                   8.09 F
+  2 @ 4.32
+SMPL TRTH CELERY                  8.64 F
+MAYONNAISE                        6.36 F
+  4 @ 2.32
+EXTRA FIRM TOFU                   9.28 F
+  2.24 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTS             2.53 F
+  0.42 lb @ 17.98 /lb
+UNEXPECTED CHDR                   7.55 F
+KRO BRIE                          4.85 F
+ORG BABY SPNCH                    5.54 F
+
+SUBTOTAL                         1994.63
+TAX 10.55% ON 243.35               25.67
+TOTAL                            2020.30
+AMEX TEND                        2020.30
+CHANGE                              0.00
+
+09/12/26 07:28  ITEMS 298
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

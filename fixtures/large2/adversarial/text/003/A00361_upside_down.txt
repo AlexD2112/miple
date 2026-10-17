@@ -1,0 +1,27 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+06/04/26 07:49  ITEMS 9
+
+CHANGE                              0.00
+VISA TEND                          81.18
+TOTAL                              81.18
+TAX 10.55% ON 9.78                  1.03
+SUBTOTAL                           80.15
+
+KRO SOURDOUGH LOAF                7.47 F
+GRK YGRT 48 OZ                    1.97 F
+WILD COD FLLT                    18.56 F
+GRND BF 88/12                    20.58 F
+  3.43 lb @ 6.00 /lb
+PRIV SEL KMBCH 16OZ               4.58 F
+MFR CPN                          0.52-  
+CRRTS 2 LB                        1.74 F
+DIGITAL CPN                      1.97- T
+PRIV SEL DELI FRIED CHKN         11.75 T
+MFR CPN                          0.68-  
+SMPL TRTH GROUND COFFEE           9.64 F
+WHITE SANDWICH BRD                7.03 F
+
+         Seattle WA  Store 3952
+          Quality Food Centers
+                  QFC

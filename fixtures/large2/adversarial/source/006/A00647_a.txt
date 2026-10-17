@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2624  San Francisco CA
+            MEMBER ************
+
+53364 FROZEN WAFFLES                  7.05 E
+1514713 PEACHES                       1.04 E
+     1.53 lb @ 0.68 /lb
+7940449 TPD/PEACHES                  0.31-  
+1394231 KS BRUSSELS SPROUTS           8.71 E
+     3.74 lb @ 2.33 /lb
+1245757 BANANA                        2.37 E
+1301850 KS SPRING MIX                 5.44 E
+591001 KS RICOTTA                     8.76 E
+1770066 KS DAVES KILLER BRD           6.69 E
+916711 KS HONEYCRISP APPLES           4.67 E
+571542 KS CILANTRO                    4.64 E
+     4 @ 1.16
+6192062 TPD/CILANTRO                 1.39-  
+95746 BLACK FOREST HAM 9 OZ           7.00 E
+1978826 KS CHERRY TOM                 3.45 E
+     3 @ 1.15
+8794 KS CAULIFLOWER                   9.89 E
+     2.63 lb @ 3.76 /lb
+649740 DARIGOLD UNSLTD BTR            6.67 E
+1123238 KS CAULIFLOWER                7.78 E
+     2.07 lb @ 3.76 /lb
+1243948 KS NAPKINS                   24.05 A
+4649978 TPD/NAPKINS                  1.35- A
+1283987 KS DIJON MUSTARD              2.46 E
+
+SUBTOTAL                              107.62
+TAX 8.625% ON 22.70                     1.96
+**** TOTAL                            109.58
+MASTERCARD TEND                       109.58
+CHANGE                                  0.00
+
+01/29/26 11:25  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

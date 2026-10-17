@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2553  Seattle WA
+            MEMBER ************
+
+1996293 KS MAYONNAISE                 6.36 E
+736913 KS COLA 12PK                   5.49 A
+     3 @ 1.83
+572219 STRAWBERRIES 1 LB              5.22 E
+1154258 KS GRK YGRT PLAIN             4.11 E
+
+SUBTOTAL                               21.18
+TAX 10.55% ON 5.49                      0.58
+**** TOTAL                             21.76
+VISA TEND                              21.76
+CHANGE                                  0.00
+
+19-JAN-28 04:37  769 769 1076 34
+ITEMS 2   REG 02  TRANS 6580
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

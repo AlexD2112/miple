@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0002  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 683242 KS SWISS CHARD         2.87- E
+RETURN 1503912 GRK YGRT 48 OZ        5.91- E
+
+SUBTOTAL                               8.78-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             8.78-
+MASTERCARD TEND                        8.78-
+CHANGE                                  0.00
+
+07/17/26 13:44  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

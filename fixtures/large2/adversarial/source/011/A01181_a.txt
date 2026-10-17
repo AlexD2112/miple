@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3779
+
+SMPL TRTH TLP FLLTS              21.66 F
+  3.71 lb @ 1.79 /lb
+SMPL TRTH BEETS                   6.64 F
+WILD COD FLLT                    18.56 F
+KRO CORN TORT                     2.79 F
+ROLLED OATS                       3.98 F
+DIGITAL CPN                      0.67-  
+KRO TILAPIA FILLETS              21.66 F
+PRIV SEL GRNLA BRS                6.07 F
+  2.03 lb @ 9.65 /lb
+SMPL TRTH PORK TENDERLOIN        19.59 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          100.36
+TAX 10.55% ON 0.08                  0.01
+TOTAL                             100.37
+CASH TEND                         120.00
+CHANGE                             19.63
+
+10/15/26 20:15  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

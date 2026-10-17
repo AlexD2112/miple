@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 1011
+
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+2% MLK HALF GALLON                6.08 F
+  0.97 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              10.66 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           19.46
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              19.48
+DISCOVER TEND                      19.48
+CHANGE                              0.00
+
+06/17/26 07:44  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

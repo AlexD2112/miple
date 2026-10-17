@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 3598
+TAX EXEMPT ID ******2830
+
+SHRDDD CHDR 8 OZ                  6.42 F
+  2.62 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI                9.75 F
+KRO SAVINGS                      1.17-  
+FM FRZN WAFFLES                   7.05 F
+SHREDDED MOZZ 8 OZ                2.92 F
+APPLE JUICE 64OZ                  7.25 F
+  1.12 lb @ 14.17 /lb
+FM BLACK FOREST HAM              15.87 F
+BATH TISSUE 12 ROLL              23.08 T
+  4 @ 1.00
+DICED TOMATOES 14.5 OZ            4.00 F
+FM CRL                            6.63 F
+MYNNS 30 OZ                       6.42 F
+BLUBRY 18 OZ                      4.61 F
+
+SUBTOTAL                           92.83
+TAX EXEMPT                          0.00
+TOTAL                              92.83
+VISA TEND                          92.83
+CHANGE                              0.00
+
+04/04/26 07:28  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

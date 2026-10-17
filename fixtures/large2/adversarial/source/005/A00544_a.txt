@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1873  Seattle WA
+            MEMBER ************
+
+537048 WHITE BRD                      6.34 E
+555530 CHKN BROTH 32 OZ              11.24 E
+     4 @ 2.81
+1182949 KS PARSNIPS                   6.42 E
+     2.64 lb @ 2.43 /lb
+1554113 ORG BLACK BEANS 8 CANS        1.15 E
+0114091 TPD/ORG BLACK BE             0.35-  
+93801 ENGLISH CUCUMBER               11.20 E
+     3.20 lb @ 3.50 /lb
+1766207 OAT MILK                      3.10 E
+1129716 SOY SCE                       6.79 E
+307923 KS KTCHP                      10.98 E
+     2 @ 5.49
+334143 KS STRWB                       4.35 E
+
+SUBTOTAL                               61.22
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             61.22
+AMEX TEND                              61.22
+CHANGE                                  0.00
+
+01/24/26 11:42  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 0103
+
+KRO TOOTHPASTE                   16.40 T
+DIGITAL CPN                      2.37- T
+FM GRND TRKY                      5.19 F
+  4.89 lb @ 6.69 /lb
+SMPL TRTH BNLS SKNLS CHKN BRST   32.71 F
+MFR CPN                          0.81-  
+AA BATTERIES 8PK                 24.36 T
+PLSTC WRAP                        4.77 T
+DIGITAL CPN                      1.43- T
+ICBRG LTTC                        5.11 F
+
+SUBTOTAL                           83.93
+TAX 10.55% ON 41.73                 4.40
+TOTAL                              88.33
+DISCOVER TEND                      88.33
+CHANGE                              0.00
+
+02/22/26 08:02  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

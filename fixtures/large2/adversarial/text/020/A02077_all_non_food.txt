@@ -1,0 +1,32 @@
+               FRED MEYER
+              Portland OR
+               Store 2576
+
+PLASTIC WRAP                      4.77 F
+NAPKINS                          24.05 F
+KRO PLSTC WRAP                    4.77 F
+KRO DOG TREATS                    6.82 F
+KRO ZIP TOP BAGS                 24.79 F
+KRO GREETING CARD                20.34 F
+KRO TRASH BAGS 40CT               6.49 F
+AA BATTERIES 8PK                 24.36 F
+KRO TOOTHPASTE                   16.40 F
+KRO SHAMPOO                      17.57 F
+LIGHT BULBS 4PK                  17.04 F
+KRO SAVINGS                      2.12-  
+KRO ZIP TOP BAGS                 24.79 F
+HAND SOAP                        24.27 F
+KRO AA BATTERIES 8PK             24.36 F
+KRO TOOTHPASTE                   16.40 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                          255.20
+TAX                                 0.00
+TOTAL                             255.20
+MASTERCARD TEND                   255.20
+CHANGE                              0.00
+
+03/16/26 09:01  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

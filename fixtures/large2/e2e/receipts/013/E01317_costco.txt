@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1414  Seattle WA
+            MEMBER ************
+
+1883527 KS GRK YGRT PLAIN             8.22 E
+     2 @ 4.11
+212339 GREEK YOGURT 48 OZ             1.97 E
+186930 SLTD BTR                       5.73 E
+1849580 KS HALF & HALF                5.34 E
+1616826 LEMONADE 52OZ                23.16 A
+     4 @ 5.79
+548156 COCA-COLA 12 PACK CANS         5.54 A
+     2 @ 2.77
+1526621 BLUBRY 18 OZ                  4.61 E
+
+SUBTOTAL                               54.57
+TAX 10.55% ON 28.70                     3.03
+**** TOTAL                             57.60
+AMEX TEND                              57.60
+CHANGE                                  0.00
+
+02/28/28 18:16  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

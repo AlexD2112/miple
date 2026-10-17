@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 0280
+
+SMPL TRTH FRZN PEAS              13.98 F
+DRGLD UNSLTD BTR                  6.67 F
+SHREDDED MOZZ 8 OZ                2.92 F
+AVOCADOS BAG 4 CT                 3.54 F
+ORG RASPB 6 OZ                    6.28 F
+  4 @ 2.56
+FRZN THREE BERRY BLEND 4 LB      10.24 F
+MFR CPN                          2.30-  
+HEINZ KETCHUP 32 OZ               4.48 F
+FM VAN YGRT CUPS                  5.39 F
+FM JASMINE RICE                  12.13 F
+BATH TISSUE 12 ROLL              23.08 F
+STRWB 2 LB                        5.88 F
+KETCHUP                           5.49 F
+LARGE BROWN EGGS                  4.29 F
+
+SUBTOTAL                          102.07
+TAX                                 0.00
+TOTAL                             102.06
+DEBIT TEND                        102.06
+CHANGE                              0.00
+
+02/17/26 11:36  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

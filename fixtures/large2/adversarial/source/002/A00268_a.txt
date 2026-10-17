@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 2620  Seattle WA
+             (555) 010-6866
+
+PNT BTR                           6.90 S
+UNSLTD BTR 4 X 1 LB               9.48 S
+MSSN FLOUR TORT 40 CT             5.22 S
+SIG KTCHNS POTATO CHIPS           5.07 S
+
+SUBTOTAL                           26.67
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         26.67
+DISCOVER TEND                      26.67
+CHANGE                              0.00
+
+08/10/26 07:33  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

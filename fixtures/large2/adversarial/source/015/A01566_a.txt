@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1912
+
+FM RIBEYE STEAK                  19.87 N
+  0.80 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               8.79 N
+  2 @ 2.98
+KRO DICED TOMATOES CAN            5.96 N
+BARTLETT PEARS                    3.00 N
+KRO BAGELS                        3.77 N
+POTATO CHIPS                      5.07 N
+  2.19 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             21.75 N
+MFR CPN                          2.69-  
+
+SUBTOTAL                           65.52
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              65.52
+AMEX TEND                          65.52
+CHANGE                              0.00
+
+04/12/26 11:56  ITEMS 8
+T=TAXABLE  N=NON-TAXABLE
+               THANK YOU

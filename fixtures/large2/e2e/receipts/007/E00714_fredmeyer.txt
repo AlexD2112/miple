@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 0067
+
+TOOTHPASTE                       16.40 F
+COLA 12PK CANS                    1.51 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+  3 @ 2.55
+HUY FONG SRRCH                    7.65 F
+SMPL TRTH NAVEL ORANGES           1.01 F
+KRO COTTAGE CHEESE                3.21 F
+DIET COLA 12PK CANS               4.42 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+  4 @ 4.32
+CELERY                           17.28 F
+SMPL TRTH 2% MILK GALLON          6.49 F
+SMPL TRTH KALE                    4.17 F
+
+SUBTOTAL                           64.54
+TAX                                 0.00
+TOTAL                              64.54
+CASH TEND                          80.00
+CHANGE                             15.46
+
+04/08/26 20:56  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

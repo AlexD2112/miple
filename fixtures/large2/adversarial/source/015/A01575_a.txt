@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 0763
+
+  0.85 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                1.26 S
+KALE                              4.17 S
+SMPL TRTH BARTLETT PEARS          3.00 S
+MFR CPN                          0.90-  
+SMPL TRTH MAYONNAISE              6.36 S
+  1.95 lb @ 2.43 /lb
+SMPL TRTH PRSNPS                  4.74 S
+KRO ROTIS CHKN                    5.04 T
+  2 @ 2.79
+CORN TORT                         5.58 S
+SMPL TRTH PARMIGIANO REGGIANO     7.82 S
+FROZEN THREE BERRY BLEND 4 LB     2.56 S
+ORG RASPB 6 OZ                    6.28 S
+BAGELS                            3.77 S
+
+SUBTOTAL                           49.68
+TAX 10.55% ON 5.04                  0.53
+TOTAL                              50.21
+DEBIT TEND                         50.21
+CHANGE                              0.00
+
+03/18/26 14:25  ITEMS 12
+T=TAX  S=SNAP
+               THANK YOU

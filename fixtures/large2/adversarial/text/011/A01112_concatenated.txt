@@ -1,0 +1,55 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1309
+
+PRMGN RGGN WEDGE                  8.42 F
+BLUBRY                            5.87 F
+PRIV SEL COCONUT MLK CAN          3.83 F
+PRIV SEL POTATO CHIPS             5.07 F
+
+SUBTOTAL                           23.19
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              23.19
+DISCOVER TEND                      23.19
+CHANGE                              0.00
+
+09/03/26 15:55  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+
+                SAFEWAY
+         Store 2277  Seattle WA
+             (555) 010-8989
+
+SHREDDED MOZZARELLA 8 OZ          2.92 S
+J4U DIGITAL CPN                  0.44-  
+  0.92 lb @ 10.99 /lb
+DELI SLICED TURKEY BREAST        10.11 S
+  1.49 lb @ 0.76 /lb
+MANGO                             1.13 S
+YELLOW ONIN                       1.78 S
+  3 @ 1.15
+ORG BLACK BEANS 8 CANS            3.45 S
+J4U PERSONAL DEAL                1.04-  
+RICOTTA                           8.76 S
+SW PENNE                         13.38 S
+ORG GALA APPLES                   1.57 S
+  2.68 lb @ 1.60 /lb
+JALAPENO                          4.29 S
+BLACK FOREST HAM 9 OZ             7.00 S
+MISSION FLOUR TORT 40 CT          5.22 S
+ORG TOMATO BASIL MARINARA         5.94 S
+GREETING CARD                    20.34 T
+O ORGANICS ICEBERG LTTC           5.11 S
+O ORGANICS NAVEL ORANGES          1.01 S
+
+SUBTOTAL                           90.53
+TAX 10.55% ON 20.34                 2.15
+**** TOTAL                         92.68
+CASH TEND                         100.00
+CHANGE                              7.32
+
+08/21/26 17:21  ITEMS 17
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

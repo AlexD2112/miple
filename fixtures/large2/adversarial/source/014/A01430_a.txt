@@ -1,0 +1,31 @@
+               FRED MEYER
+              Portland OR
+               Store 2848
+REG 01 TRN 9183 OPR 280
+WIN A 500.00 GIFT CARD
+STORE MGR: J******
+
+KRO HALIBUT                      10.82 F
+SLTD BTR 4 STICKS                 9.37 F
+ALUMINUM FOIL                    18.03 F
+ORG EGGS 24 CT                    7.83 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+STRWB 1 LB                        5.22 F
+CAGE FREE EGGS 18CT               6.85 F
+FM PASTURE RAISED EGGS            7.37 F
+SMPL TRTH RIBEYE STEAK           19.87 F
+DIGITAL CPN                      2.97-  
+
+SUBTOTAL                           87.17
+TAX                                 0.00
+TOTAL                              87.17
+AMEX TEND                          87.17
+CHANGE                              0.00
+
+09/18/26 16:31  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+NEXT VISIT COUPON          3.00 OFF
+FUEL POINTS THIS ORDER        693
+RETURNS WITHIN 90 DAYS
+BALANCE DUE                   0.00
+               THANK YOU

@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 1041
+
+KRO HALIBUT                      10.82 N
+RUSSET POTS 5 LB BAG              4.53 N
+PLAIN NONFAT GREEK YOGURT         4.65 N
+MFR CPN                          1.40-  
+FM ROLLED OATS                    3.98 N
+  2 @ 1.15
+ORG BLACK BEANS 8 CANS            2.30 N
+CABOT SHRP CHDR 8 OZ              8.48 N
+  3 @ 5.49
+ORG SPRING MIX 1 LB              16.47 N
+  0.39 lb @ 2.08 /lb
+KIWI                              0.81 N
+SMPL TRTH FRESH BASIL             2.74 N
+SMPL TRTH PENNE                  13.38 N
+BLACK FOREST HAM 9 OZ             7.00 N
+KRO GRTNG CARD                   20.34 T
+STRWB 1 LB                        5.22 N
+  3 @ 4.00
+SMPL TRTH ARUGULA                12.00 N
+ORG TOMATO BASIL MARINARA         5.94 N
+TILLAMOOK MEDIUM CHDR            11.77 N
+SMPL TRTH SPRING MIX              5.44 N
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          134.71
+TAX 10.55% ON 20.58                 2.17
+TOTAL                             136.88
+VISA TEND                         136.88
+CHANGE                              0.00
+
+08/29/26 18:47  ITEMS 22
+T=TAXABLE  N=NON-TAXABLE
+               THANK YOU

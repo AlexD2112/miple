@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2103  Portland OR
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 135625 KS GINGER ALE 12PK     6.02- E
+RETURN 1203415 YELLOW ONIN           1.78- E
+  REFUND - ORIG RECEIPT
+RETURN 296884 KS CHUCK ROAST        42.04- E
+  REFUND - ORIG RECEIPT
+RETURN 1813395 RUSSET POTS 5 LB BAG  4.53- E
+
+SUBTOTAL                              54.37-
+TAX                                     0.00
+**** TOTAL                            54.37-
+VISA TEND                             54.37-
+CHANGE                                  0.00
+
+10/14/26 19:05  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

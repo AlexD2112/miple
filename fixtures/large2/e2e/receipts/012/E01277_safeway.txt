@@ -1,0 +1,35 @@
+                SAFEWAY
+         Store 0943  Seattle WA
+             (555) 010-4889
+
+SIG SLCT KETCHUP                  5.49 S
+ORG RASPB 6 OZ                    6.28 S
+  2 @ 4.61
+BLUBRY 18 OZ                      9.22 S
+J4U DIGITAL CPN                  0.83-  
+SIG KTCHNS ICE CRM               14.51 S
+SIG HAND SOAP                    24.27 T
+GRSS-FD GRND BF 85/15             7.35 S
+SIG SLCT BAGELS                   3.77 S
+  2 @ 3.00
+BARTLETT PEARS                    6.00 S
+RCTT                              8.76 S
+CLUB CARD SAVINGS                1.37-  
+GRND PORK                         6.60 S
+SW TRTLL CHIPS                    3.33 S
+BRLL PENNE                       19.37 S
+LUCERNE SALTED BUTTER             5.73 S
+SLTD BTR 4 STICKS                 9.37 S
+SIG SLCT FLOUR TORT               6.18 S
+SW LEMONADE 52OZ                  5.79 T
+SIG KTCHNS APPLE JUICE 64OZ       7.25 S
+
+SUBTOTAL                          147.07
+TAX 10.55% ON 30.06                 3.17
+**** TOTAL                        150.24
+CASH TEND                         160.00
+CHANGE                              9.76
+
+02/15/26 21:48  ITEMS 19
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

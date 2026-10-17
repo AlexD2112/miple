@@ -1,0 +1,20 @@
+                SAFEWAY
+      Store 2607  San Francisco CA
+             (555) 010-3812
+
+CRM CHS 8 OZ                      3.15 S
+  3 @ 3.99
+SIG KTCHNS RANCH DRESSING        11.97 S
+SIG KTCHNS AHI TUNA STEAK        14.71 S
+  3 @ 0.25
+BAG FEE                           0.75  
+
+SUBTOTAL                           30.58
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         30.58
+VISA TEND                          30.58
+CHANGE                              0.00
+
+05/28/26 20:52  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

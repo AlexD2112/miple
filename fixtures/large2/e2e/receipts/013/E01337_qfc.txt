@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3749
+
+BATH TISSUE 12 ROLL              23.08 T
+  3 @ 3.55
+HANDMADE STYLE CORN TORT         10.65 F
+KRO APPLE JUICE 64OZ              7.25 F
+PRIV SEL EXTRA FIRM TOFU          2.32 F
+ORANGE JUICE                      7.69 F
+CORN TORTILLAS                    2.79 F
+KRO HAMBURGER BUNS                2.77 F
+
+SUBTOTAL                           56.55
+TAX 10.55% ON 23.08                 2.43
+TOTAL                              58.98
+DISCOVER TEND                      58.98
+CHANGE                              0.00
+
+06/08/26 14:36  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

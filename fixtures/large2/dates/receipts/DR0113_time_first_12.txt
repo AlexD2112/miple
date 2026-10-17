@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 2061
+
+STRWB 1 LB                        5.22 F
+FM MAYONNAISE                     6.36 F
+  2 @ 3.04
+SMPL TRTH RED GRAPES              6.08 F
+CHKN BROTH CARTON                 8.38 F
+  2.00 lb @ 9.93 /lb
+BONELESS PORK LOIN CHOPS         19.86 F
+SPRING MIX                        5.44 F
+LAUNDRY DTRGNT PODS              20.18 F
+LEMONS                            4.19 F
+FRZN BROC                         1.72 F
+FM PLUS CARD SAV                 0.52-  
+
+SUBTOTAL                           76.91
+TAX                                 0.00
+TOTAL                              76.91
+CASH TEND                          80.00
+CHANGE                              3.09
+
+12:49 PM 12/07/30  6153 14 662 8
+ITEMS 17   REG 06  TRANS 3936
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

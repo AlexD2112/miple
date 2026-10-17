@@ -1,0 +1,32 @@
+               FRED MEYER
+              Portland OR
+               Store 2217
+
+GRK YGRT 48 OZ
+FM SPRKLG WTR 8PK
+  8 @ 0.10
+OR BTL DEP
+  2.38 lb @ 3.72 /lb
+ZCCHN
+SMPL TRTH BRTLTT PEARS
+FM OAT MLK
+  2 @ 0.05
+BAG FEE
+
+1.97 F
+5.13 F
+0.80
+8.85 F
+3.00 F
+3.10 F
+0.10
+
+SUBTOTAL                           22.95
+TAX                                 0.00
+TOTAL                              22.95
+DISCOVER TEND                      22.95
+CHANGE                              0.00
+
+08/26/26 11:38  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

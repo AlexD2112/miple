@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1589  Seattle WA
+            MEMBER ************
+
+753079 KS RADISHES                    1.02 E
+     0.97 lb @ 1.05 /lb
+791057 SLICED TURKEY BREAST          14.50 E
+     1.10 lb @ 13.18 /lb
+1233431 RUSSET POTS 5 LB BAG          4.53 E
+227152 TLLMK MEDIUM CHDR 2.5 LB       4.21 E
+167786 KS COLA 12PK CANS              3.02 A
+     2 @ 1.51
+1948954 KS PORK TNDRLN                9.65 E
+     1.00 lb @ 9.65 /lb
+1608432 AVOCADOS BAG 4 CT             3.54 E
+1783282 ORG ROMAINE HEARTS 3 CT       3.76 E
+1138971 KS GRNLA BRS                  6.07 E
+591354 KS FRZN DUMPLINGS             15.61 E
+227122 SOY SCE                        6.79 E
+1111270 KS BLACKBERRIES               3.92 E
+1561 GREEK YOGURT PLAIN              16.44 E
+     4 @ 4.11
+1488249 MANDARINS                     2.72 E
+595502 HASS AVCD LG                  12.46 E
+     3.73 lb @ 3.34 /lb
+468785 KS ATLANTIC SLMN FLLT         19.77 E
+60360 KS GALA APPLES                  1.79 E
+     0.78 lb @ 2.30 /lb
+829136 KS ROTISSERIE CHICKEN          5.04 A
+4658330 TPD/ROTISSERIE C             0.74- A
+207530 KS MYNNS                       6.36 E
+1215083 DISH SOAP                    19.39 A
+
+SUBTOTAL                              159.85
+TAX 10.55% ON 26.71                     2.82
+**** TOTAL                            162.67
+MASTERCARD TEND                       162.67
+CHANGE                                  0.00
+
+08/28/26 21:50  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

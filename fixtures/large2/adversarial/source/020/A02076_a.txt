@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 1816
+
+KRO PAPER TOWELS 6 ROLL           3.75 T
+MFR CPN                          1.02- T
+TOOTHPASTE                       16.40 T
+SHAMPOO                          17.57 T
+AA BATTERIES 8PK                 24.36 T
+BATH TISSUE 12 ROLL              23.08 T
+KRO SAVINGS                      2.14- T
+KRO SPONGES 3PK                   9.54 T
+KRO LIGHT BULBS 4PK              17.04 T
+AA BTTRS 8PK                     24.36 T
+KRO TRASH BAGS 40CT               6.49 T
+KRO ZIP TOP BAGS                 24.79 T
+KRO TOOTHPASTE                   16.40 T
+
+SUBTOTAL                          180.62
+TAX 10.55% ON 180.62               19.06
+TOTAL                             199.68
+AMEX TEND                         199.68
+CHANGE                              0.00
+
+10/10/26 10:19  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 3605
+
+PARMIGIANO REGGIANO WEDGE         8.42 F
+FM CORN TORT                      2.79 F
+SHRDDD CHDR 8 OZ                  6.42 F
+HEINZ KETCHUP 32 OZ               4.48 F
+
+SUBTOTAL                           22.11
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              22.11
+DISCOVER TEND                      22.11
+CHANGE                              0.00
+
+09/02/25 12:30 AM  9531 38 524 7
+ITEMS 29   REG 08  TRANS 3203
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

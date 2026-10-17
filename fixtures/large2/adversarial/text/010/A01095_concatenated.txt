@@ -1,0 +1,51 @@
+                 TARGET
+           Seattle WA  T-1405
+             (555) 030-7323
+
+JNN- GRND TRKY 1 LB               6.60 N
+GG MAYONNAISE                     6.36 N
+  2.58 lb @ 15.56 /lb
+BONELESS RIBEYE STEAK            40.14 N
+GG ICEBERG LTTC                   5.11 N
+MKT PANTRY GREEN BEANS            2.31 N
+  3 @ 2.74
+GG FRESH MINT                     8.22 N
+CIRCLE DEAL                      1.10-  
+UNSLTD BTR 4 X 1 LB               9.48 N
+DISH SOAP                        19.39 T
+  3.17 lb @ 6.33 /lb
+GG WHL CHKN                      20.07 N
+TARGET CIRCLE OFFER              2.44-  
+MKT PANTRY PASTURE RAISED EGGS    7.37 N
+MKT PANTRY GENOA SALAMI           4.76 N
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          126.51
+TAX 10.55% ON 19.63                 2.07
+TOTAL                             128.58
+DEBIT TEND                        128.58
+CHANGE                              0.00
+
+02/06/26 08:39  ITEMS 13
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU
+              TRADER JOE'S
+     Store #0179  San Francisco CA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+PASTURE RAISED EGGS               7.37  
+  3 @ 5.40
+FRZN PEAS 12 OZ                  16.20  
+CRKRS                             2.00  
+LARGE BROWN CAGE FREE EGGS        4.10  
+
+SUBTOTAL                           29.67
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              29.67
+AMEX TEND                          29.67
+CHANGE                              0.00
+
+05/26/26 07:32  ITEMS 6
+T=TAXABLE
+               THANK YOU

@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1354
+
+LIGHT BULBS 4PK                  17.04 T
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           19.84
+TAX 10.55% ON 17.28                 1.82
+TOTAL                              21.66
+DEBIT TEND                         21.66
+CHANGE                              0.00
+
+01/05/26 13:03  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

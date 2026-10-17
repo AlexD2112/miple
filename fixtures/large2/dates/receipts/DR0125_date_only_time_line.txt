@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 1738  Seattle WA
+             (555) 010-5223
+
+SW ROOT BEER 2L                   5.24 T
+SLTD BTR 4 STICKS                 9.37 S
+SIG KTCHNS SILKEN TOFU            2.29 S
+CAULIFLOWER GNOCCHI               7.85 S
+J4U DIGITAL CPN                  2.07-  
+
+SUBTOTAL                           22.68
+TAX 10.55% ON 5.24                  0.55
+**** TOTAL                         23.23
+CASH TEND                          40.00
+CHANGE                             16.77
+
+12/31/26  295 27 2391 2093
+TIME: 23:39
+ITEMS 4   REG 02  TRANS 9241
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

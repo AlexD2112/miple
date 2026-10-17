@@ -1,0 +1,32 @@
+                SAFEWAY
+      Store 3269  San Francisco CA
+             (555) 010-3440
+
+CARROTS 2 LB
+SIG KTCHNS APPLE JUICE 64OZ
+  1 @ 0.10
+CA CRV
+  3.79 lb @ 1.96 /lb
+ORGANIC GRAPE TOMATOES PINT
+O ORGANICS ASPARAGUS
+PEPSI 12 PK CANS
+  1 @ 0.05
+CA CRV
+
+1.74 S
+7.25 S
+0.10
+7.43 S
+2.93 S
+4.93 T
+0.05 T
+
+SUBTOTAL                           24.43
+TAX 8.625% ON 4.98                  0.43
+**** TOTAL                         24.86
+VISA TEND                          24.86
+CHANGE                              0.00
+
+09/10/26 15:04  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

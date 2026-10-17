@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3430
+
+APPLE JUICE 64OZ                  7.25 F
+2% MLK 2 X 1 GAL                  4.70 F
+PLAIN NONFAT GRK YGRT             4.65 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+PRIV SEL CRKRS                    2.00 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+SMPL TRTH AHI TUNA STEAK         14.71 F
+
+SUBTOTAL                           57.75
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              57.75
+DEBIT TEND                         57.75
+CHANGE                              0.00
+
+02/04/26 13:25  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

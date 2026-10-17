@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 3205
+
+  4 @ 2.54
+SMPL TRTH WHL WHT SANDWICH BRD   10.16 F
+FM CORN TORT                      2.79 F
+KRO SAVINGS                      0.84-  
+  3 @ 4.26
+FM DRIED LENTILS                 12.78 F
+  2 @ 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS    6.92 F
+SOY SCE                           6.79 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           38.84
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              38.87
+VISA TEND                          38.87
+CHANGE                              0.00
+
+03/31/26 20:24  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

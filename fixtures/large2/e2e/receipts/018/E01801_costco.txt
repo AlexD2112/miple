@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0878  Portland OR
+            MEMBER ************
+
+1603368 KS SALSA JAR                  2.09 E
+1051920 TILLAMOOK VAN YGRT            4.05 E
+208331 LG BROWN CAGE FREE EGGS        4.10 E
+6086336 TPD/LG BROWN CAG             1.23-  
+1738296 KS RUSSET POTS                3.73 E
+     3.30 lb @ 1.13 /lb
+1626355 BABY SPNCH                    5.42 E
+363301 KS HAMBURGER BUNS              2.77 E
+1674276 PRMGN RGGN WEDGE              8.42 E
+
+SUBTOTAL                               29.35
+TAX                                     0.00
+**** TOTAL                             29.35
+DEBIT TEND                             29.35
+CHANGE                                  0.00
+
+03/12/26 09:36  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

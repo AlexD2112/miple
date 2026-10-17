@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3426  Seattle WA
+            MEMBER ************
+
+565563 KS FRZN PEAS                  13.98 E
+1183285 KS FRZN WFFLS                 7.05 E
+3177779 TPD/FRZN WFFLS               1.31-  
+1954127 STRWB 2 LB                    5.88 E
+897566 CHKN BROTH CARTON              8.38 E
+944475 CAULIFLOWER GNOCCHI            7.85 E
+188650 WHITE BRD                      6.34 E
+1220701 PORK TNDRLN                  27.12 E
+     2.81 lb @ 9.65 /lb
+1767767 KS PREPARED MAC & CHS        10.62 E
+
+SUBTOTAL                               85.91
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             85.91
+DISCOVER TEND                          85.91
+CHANGE                                  0.00
+
+16-JUL-27 02:43  985 985 6955 37
+ITEMS 4   REG 04  TRANS 1546
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

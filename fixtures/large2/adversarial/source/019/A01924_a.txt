@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 1007
+
+SMPL TRTH RANCH DRSSNG            3.99 F
+FM PLUS CARD SAV                 0.66-  
+SHREDDED MOZZ 8 OZ                2.92 F
+DIGITAL CPN                      0.88-  
+PLAIN GOAT CHS                    5.77 F
+
+SUBTOTAL                           11.14
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              11.15
+MASTERCARD TEND                    11.15
+CHANGE                              0.00
+
+06/09/26 21:28  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

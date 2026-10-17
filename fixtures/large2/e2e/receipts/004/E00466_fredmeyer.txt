@@ -1,0 +1,38 @@
+               FRED MEYER
+              Portland OR
+               Store 1169
+
+SHRDDD CHDR 8 OZ                  6.42 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+BABY SPNCH 5 OZ                   3.77 F
+SMPL TRTH SOY SCE                 6.79 F
+NAVEL ORANGES                     1.01 F
+SMPL TRTH SOY SCE                 6.79 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+HONEYCRISP APPLES                 4.67 F
+WHITE BRD                         6.34 F
+FM BAGELS                         3.77 F
+KRO GRND PORK                     6.60 F
+  4 @ 4.34
+CELERY HEARTS                    17.36 F
+FM OAT MILK                       3.10 F
+  2.36 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            32.43 F
+TILLAMOOK VANILLA YOGURT          4.05 F
+SMPL TRTH BABY CARROTS            2.49 F
+  3 @ 3.74
+SMPL TRTH SPRKLG WTR             11.22 F
+  3 @ 0.10
+OR BTL DEP                        0.30  
+CAT LITTER                       14.03 F
+
+SUBTOTAL                          153.56
+TAX                                 0.00
+TOTAL                             153.56
+MASTERCARD TEND                   153.56
+CHANGE                              0.00
+
+07/24/26 07:09  ITEMS 24
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

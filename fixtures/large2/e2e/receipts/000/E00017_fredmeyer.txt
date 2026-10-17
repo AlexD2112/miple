@@ -1,0 +1,21 @@
+               FRED MEYER
+              Portland OR
+               Store 2017
+
+KRO JASMINE RICE                 12.13 F
+SMPL TRTH BLUBRY                  5.87 F
+FM ATLANTIC SALMON FILLET        19.77 F
+FM PLUS CARD SAV                 2.18-  
+KRO PREPARED MAC AND CHEESE      10.62 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           46.31
+TAX                                 0.00
+TOTAL                              46.31
+CASH TEND                          60.00
+CHANGE                             13.69
+
+06/17/26 09:37  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,16 @@
+                 TARGET
+           Seattle WA  T-3326
+             (555) 030-2587
+
+DISH SOAP                        19.39 T
+AVCDS BAG 4 CT                    3.54 N
+
+SUBTOTAL                           22.93
+TAX 10.55% ON 19.39                 2.05
+TOTAL                              24.98
+DEBIT TEND                         24.98
+CHANGE                              0.00
+
+06/03/26 07:44  ITEMS 2
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

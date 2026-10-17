@@ -1,0 +1,22 @@
+                 TARGET
+        San Francisco CA  T-1582
+             (555) 030-0424
+
+MKT PANTRY SLTD BTR               5.73 N
+  2.97 lb @ 17.07 /lb
+GG LAMB CHOPS                    50.70 N
+  3.02 lb @ 1.05 /lb
+GG RADISHES                       3.17 N
+  2 @ 2.80
+GG LIMES                          5.60 N
+BAG FEE                           0.25  
+
+SUBTOTAL                           65.45
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              65.45
+VISA TEND                          65.45
+CHANGE                              0.00
+
+02/28/26 13:29  ITEMS 5
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

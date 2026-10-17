@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 2490
+
+SMPL TRTH RED GRAPES              3.04 F
+SMPL TRTH CHERRIES                5.69 F
+FM SLTD BTR                       5.73 F
+KRO ALL PRPS FLOUR               11.36 F
+MNDRN ORANGE CHKN                15.87 F
+  2 @ 2.74
+SMPL TRTH FRESH MINT              5.48 F
+KRO TORTILLA CHIPS                3.33 F
+BLUBRY                            5.87 F
+  2 @ 3.46
+TOSTITOS SCOOPS TRTLL CHIPS       6.92 F
+  2.49 lb @ 3.34 /lb
+HASS AVOCADO LG                   8.32 F
+KRO SAVINGS                      1.26-  
+  0.75 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                1.47 F
+
+SUBTOTAL                           71.82
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              71.82
+AMEX TEND                          71.82
+CHANGE                              0.00
+
+07/23/26 13:54  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

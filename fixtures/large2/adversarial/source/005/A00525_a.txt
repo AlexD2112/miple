@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0869  Seattle WA
+            MEMBER ************
+
+1950172 KS CORN TORT                  2.79 E
+1391041 BATH TISSUE 12 ROLL          23.08 A
+1158283 DRGLD UNSLTD BTR              6.67 E
+92181 DICED TOM 14.5 OZ               2.00 E
+     2 @ 1.00
+646684 RUSSET POTS 5 LB BAG           4.53 E
+2139007 TPD/RUSSET POTS              1.36-  
+1875768 BLACK FOREST HAM             10.06 E
+     0.71 lb @ 14.17 /lb
+844443 CHKN GYOZA POTSTICKERS         9.88 E
+1267720 GROUND BEEF 88/12            24.84 E
+     4.14 lb @ 6.00 /lb
+9818843 TPD/GROUND BEEF              0.73-  
+1075904 YUKON GOLD POTS               3.99 E
+446823 PAPER TOWELS 6 ROLL            3.75 A
+645234 DRIED LENTILS                  8.52 E
+     2 @ 4.26
+954305 KS JALAPENO                    4.72 E
+     2.95 lb @ 1.60 /lb
+1573169 KS KEFIR                      5.08 E
+     4 @ 1.27
+643812 REDUCED FAT 2% MLK GALLON      6.54 E
+52472 KS DAVES KILLER BRD             6.69 E
+31015 KS RASPB                        7.24 E
+9943281 TPD/RASPB                    0.35-  
+
+SUBTOTAL                              127.94
+TAX 10.55% ON 26.83                     2.83
+**** TOTAL                            130.77
+DEBIT TEND                            130.77
+CHANGE                                  0.00
+
+09/09/26 20:13  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

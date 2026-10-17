@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 2069
+
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+SMPL TRTH CRL                     6.63 F
+KRO ALUMINUM FOIL                18.03 T
+CRM CHS 8 OZ                      3.15 F
+KRO SAVINGS                      0.94-  
+  2 @ 2.29
+KRO SILKEN TOFU                   4.58 F
+FM CRM CHS                        8.63 F
+KRO PARMIGIANO REGGIANO           7.82 F
+KRO GRNLA BRS                     6.07 F
+ORGANIC EGGS 24 CT                7.83 F
+MAYONNAISE 30 OZ                  6.42 F
+CILANTRO BUNCH                    2.02 F
+  2 @ 1.49
+JASMINE RICE 5 LB                 2.98 F
+  6.09 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  46.53 F
+BABY SPNCH 5 OZ                   3.77 F
+FM ORANGE JUICE                   7.69 F
+BABY CARROTS                      2.49 F
+COLA 12PK CANS                    1.51 T
+FM GRNLA BRS                      6.07 F
+
+SUBTOTAL                          148.29
+TAX 10.55% ON 19.54                 2.06
+TOTAL                             150.35
+VISA TEND                         150.35
+CHANGE                              0.00
+
+09/04/26 13:33  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

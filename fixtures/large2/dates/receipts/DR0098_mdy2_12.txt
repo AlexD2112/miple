@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2029
+
+FLOUR TORTILLAS                   6.18 F
+AVOCADOS BAG 4 CT                 3.54 F
+  2 @ 1.74
+STRAUS PLAIN GRK YGRT             3.48 F
+ROLLED OATS                       3.98 F
+ORGANIC RASPBERRIES 6 OZ          6.28 F
+BLACK FOREST HAM 9 OZ             7.00 F
+ORG CARROTS BUNCH                 4.63 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           35.25
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              35.27
+DEBIT TEND                         35.27
+CHANGE                              0.00
+
+BUSINESS DATE 06/04/24
+06/05/24 12:04 AM  8655 12 737 7
+ITEMS 21   REG 02  TRANS 2506
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

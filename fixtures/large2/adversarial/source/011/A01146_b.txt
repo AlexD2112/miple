@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 1303
+
+KRO GRND COFFEE                   9.64 F
+KRO SPONGES 3PK                   9.54 T
+  3 @ 1.16
+CLNTR                             3.48 F
+SHRDDD CHDR 8 OZ                  6.42 F
+  2.65 lb @ 1.96 /lb
+ORGANIC GRAPE TOMATOES PINT       5.19 F
+WHITE SNDWCH BRD                  7.03 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           41.38
+TAX 10.55% ON 9.62                  1.01
+TOTAL                              42.39
+MASTERCARD TEND                    42.39
+CHANGE                              0.00
+
+09/11/26 09:16  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

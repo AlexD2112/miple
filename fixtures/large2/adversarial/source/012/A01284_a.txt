@@ -1,0 +1,27 @@
+              TRADER JOE'S
+        Store #2541  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+REG 29 TRN 3736 OPR 221
+
+SPAGHETTI                         9.54  
+ORIGINAL HUMMUS 10 OZ             8.88  
+FRESH BASIL                       2.74  
+WHL MLK HALF GALLON               6.79  
+TJ'S FRESH BASIL                  2.74  
+GROUND BEEF 80/20                 6.57  
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+BLACK FOREST HAM 9 OZ             7.00  
+ICE CRM                          14.51  
+
+SUBTOTAL                           67.60
+TAX 10.55% ON 8.83                  0.93
+TOTAL                              68.53
+DEBIT TEND                         68.53
+CHANGE                              0.00
+
+02/03/26 14:57  ITEMS 9
+T=TAXABLE
+REWARDS BALANCE           370.30
+BOTTLE RETURNS ACCEPTED    0.10/EA
+TOTAL SAVINGS THIS YEAR   344.37
+               THANK YOU

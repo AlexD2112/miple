@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 1622
+
+  2 @ 2.55
+HUY FONG SRIRACHA                 5.10 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+MFR CPN                          2.20-  
+KRO JASMINE RICE                 12.13 F
+CAGE FREE EGGS 18CT               6.85 F
+SMPL TRTH BTR LTTC                2.45 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           41.91
+TAX                                 0.00
+TOTAL                              41.91
+AMEX TEND                          41.91
+CHANGE                              0.00
+
+04/13/26 18:53  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

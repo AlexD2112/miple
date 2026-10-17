@@ -1,0 +1,39 @@
+               FRED MEYER
+               Seattle WA
+               Store 1718
+
+SMPL TRTH FRESH MINT              2.74 F
+KRO FRZN PEAS                    13.98 F
+KRO TRASH BAGS 40CT               6.49 T
+  2.76 lb @ 1.25 /lb
+PINEAPPLE                         3.45 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+FM PLUS CARD SAV                 2.04- T
+KTCHP                             5.49 F
+  2 @ 5.54
+ORG BABY SPNCH                   11.08 F
+SMPL TRTH CORN TORT               2.79 F
+FM VAN YGRT CUPS                  5.39 F
+  4 @ 2.37
+BANANA                            9.48 F
+  2.87 lb @ 3.34 /lb
+HASS AVOCADO LG                   9.59 F
+KRO PSTR RAISED EGGS              7.37 F
+SMPL TRTH GRND BF 80/20           6.57 F
+DICED TOM 14.5 OZ                 1.00 F
+FM SLICED ROAST BEEF              5.94 F
+2% MLK 2 X 1 GAL                  4.70 F
+  2 @ 3.46
+TOSTITOS SCOOPS TORTILLA CHIPS    6.92 F
+  2 @ 2.79
+SMPL TRTH ROMAINE LTTC            5.58 F
+
+SUBTOTAL                          115.35
+TAX 10.55% ON 13.28                 1.40
+TOTAL                             116.75
+MASTERCARD TEND                   116.75
+CHANGE                              0.00
+
+09/24/26 17:10  ITEMS 24
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

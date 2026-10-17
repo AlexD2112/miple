@@ -1,0 +1,16 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2426
+
+HEINZ KETCHUP 32 OZ               4.48 F
+FRZN BROC FLORETS                 8.13 F
+
+SUBTOTAL                           12.61
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              12.61
+DEBIT TEND                         12.61
+CHANGE                              0.00
+
+09/21/26 14:16  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

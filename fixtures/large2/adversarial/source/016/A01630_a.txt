@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3174  Seattle WA
+            MEMBER ************
+
+739882 KS ROMA TOM                    2.38 N
+1519792 KS ASPRGS                    11.72 N
+     4 @ 2.93
+1776832 LIMES                         2.80 N
+979032 KS COD FLLT                   42.49 N
+     2.34 lb @ 18.16 /lb
+779905 KS FRZN WAFFLES                7.05 N
+1776651 KS LAUNDRY DETERGENT PODS    20.18 T
+129077 BLACK FOREST HAM 9 OZ          7.00 N
+1225016 KS CAULIFLOWER                6.09 N
+     1.62 lb @ 3.76 /lb
+
+SUBTOTAL                               99.71
+TAX 10.55% ON 20.18                     2.13
+**** TOTAL                            101.84
+DEBIT TEND                            101.84
+CHANGE                                  0.00
+
+07/14/26 12:35  ITEMS 11
+T=TAXABLE  N=NON-TAXABLE
+                 THANK YOU

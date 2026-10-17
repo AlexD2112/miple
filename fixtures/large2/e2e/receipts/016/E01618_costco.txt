@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3848  Seattle WA
+            MEMBER ************
+
+125594 LEMON                          4.30 E
+540429 KS GENOA SALAMI                4.76 E
+1282353 KS LG BROWN EGGS              4.29 E
+714034 KETCHUP                        5.49 E
+30903 PEPSI 12 PACK CANS              4.93 A
+333394 BARTLETT PEARS                 3.00 E
+1127355 ORG BABY SPNCH 5 OZ          11.70 E
+     2 @ 5.85
+9955315 TPD/ORG BABY SPN             2.36-  
+1923296 KS PNT BTR                    6.90 E
+86863 FLOUR TORTILLAS                 6.18 E
+1373345 KS BROCCOLI CROWNS            2.25 E
+6360088 TPD/BROCCOLI CRO             0.36-  
+268032 KS HAND SOAP                  24.27 A
+334212 KS COD FLLT                   51.76 E
+     2.85 lb @ 18.16 /lb
+
+SUBTOTAL                              127.11
+TAX 10.55% ON 29.20                     3.08
+**** TOTAL                            130.19
+DEBIT TEND                            130.19
+CHANGE                                  0.00
+
+05/29/26 12:41  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

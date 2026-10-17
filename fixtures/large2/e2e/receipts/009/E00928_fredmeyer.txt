@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 0271
+
+FM GRND BF 80/20                  6.57 F
+LIGHT BULBS 4PK                  17.04 F
+  0.97 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              10.66 F
+HANDMADE STYLE CORN TORTILLAS     3.55 F
+SMPL TRTH CHERRIES                5.69 F
+WHITE BRD                         6.34 F
+ORGANIC SPROUTED TOFU             2.61 F
+  0.34 lb @ 13.18 /lb
+SLCD TRKY BRST                    4.48 F
+  6.06 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 26.30 F
+
+SUBTOTAL                           83.24
+TAX                                 0.00
+TOTAL                              83.24
+AMEX TEND                          83.24
+CHANGE                              0.00
+
+04/02/26 07:26  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

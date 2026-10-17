@@ -1,0 +1,46 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3168
+OPEN 6AM - 12AM
+REG 14 TRN 1350 OPR 426
+STORE MGR: J******
+
+KRO HAND SOAP                    24.27 T
+CARROTS 2 LB                      1.74 F
+RIBEYE STEAK                     19.87 F
+WILD COD FLLT                    18.56 F
+SMPL TRTH TILLAMOOK MEDIUM CHED  11.77 F
+SMPL TRTH SHRP CHDR BLOCK        10.33 F
+MFR CPN                          0.32-  
+CHERRY TOM                        1.15 F
+  1.68 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        3.91 F
+ROMAINE LTTC                      2.79 F
+  2 @ 4.93
+PEPSI 12 PK CANS                  9.86 T
+  2.43 lb @ 3.34 /lb
+HASS AVOCADO LARGE                8.12 F
+SMPL TRTH BROC CROWNS             2.25 F
+  2.63 lb @ 13.74 /lb
+CHUCK ROAST                      36.14 F
+PARMIGIANO RGGN WEDGE             8.42 F
+KRO SAVINGS                      1.47-  
+  0.61 lb @ 3.34 /lb
+HASS AVOCADO LG                   2.04 F
+JASMINE RICE 25 LB                8.09 F
+SMPL TRTH GREEN BEANS             2.31 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          169.99
+TAX 10.55% ON 34.29                 3.62
+TOTAL                             173.61
+DEBIT TEND                        173.61
+CHANGE                              0.00
+
+04/28/26 10:32  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+AUTH CODE  979323
+BALANCE DUE                   0.00
+REWARDS BALANCE           90.64
+               THANK YOU

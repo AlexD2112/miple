@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 2908
+
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+  3 @ 4.00
+ARUGULA                          12.00 F
+SMPL TRTH MNDRNS                  2.72 F
+  0.88 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                1.17 F
+SMPL TRTH HAMBURGER BUNS          2.77 F
+  3.38 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                52.59 F
+MAYONNAISE 30 OZ                  6.42 F
+SMPL TRTH ATLANTIC SLMN FLLT     19.77 F
+FM CHKN BROTH CARTON              8.38 F
+SMPL TRTH GRK YGRT PLAIN          4.11 F
+FRZN PIZZA                       13.30 F
+
+SUBTOTAL                          130.24
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             130.24
+CASH TEND                         140.00
+CHANGE                              9.76
+
+02/28/28 09:17  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

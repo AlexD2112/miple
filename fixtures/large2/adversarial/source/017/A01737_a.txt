@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1387
+TAX EXEMPT ID ******8757
+
+KRO LAUNDRY DETERGENT PODS       20.18 T
+LEMONADE 52OZ                     5.79 T
+  2.13 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  7.46 F
+ORG BASIL CLMSHLL                 1.49 F
+SMPL TRTH BABY SPINACH            5.42 F
+  0.75 lb @ 17.07 /lb
+KRO LAMB CHOPS                   12.80 F
+KRO SHRP CHDR BLOCK              10.33 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           63.55
+TAX EXEMPT                          0.00
+TOTAL                              63.55
+DISCOVER TEND                      63.55
+CHANGE                              0.00
+
+08/05/26 14:30  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

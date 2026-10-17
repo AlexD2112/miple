@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3009  Seattle WA
+            MEMBER ************
+
+1732579 KS PAPER PLATES               3.31 A
+251068 KS BNLS SKNLS CHKN BRST       39.67 E
+     5.93 lb @ 6.69 /lb
+5108490 TPD/BNLS SKNLS C             2.25-  
+774761 FRZN PEAS 12 OZ                5.40 E
+1490413 KS SRDGH LOAF                 7.47 E
+1751814 LG EGGS 18 CT                 7.52 E
+1233606 UNSLTD BTR                    9.95 E
+
+SUBTOTAL                               71.07
+TAX 10.55% ON 3.31                      0.35
+**** TOTAL                             71.42
+AMEX TEND                              71.42
+CHANGE                                  0.00
+
+2028-01-07 03:16:43  671 671 3710 09
+ITEMS 19   REG 11  TRANS 9273
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

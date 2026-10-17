@@ -1,0 +1,22 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-7820
+
+WF BTR LTTC                       2.45 F
+  4 @ 4.35
+WF STRWB                         17.40 F
+GRSS-FD GRND BF 85/15             7.35 F
+WF SALSA JAR                      2.09 F
+WF DAVES KILLER BRD               6.69 F
+
+SUBTOTAL                           35.98
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              35.98
+MASTERCARD TEND                    35.98
+CHANGE                              0.00
+
+BUSINESS DATE 12/28/24
+12/29/2024 01:16:56 AM
+ITEMS 13   REG 16  TRANS 2831
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

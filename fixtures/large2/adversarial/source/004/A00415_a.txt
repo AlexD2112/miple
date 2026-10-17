@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 0500
+
+FM LG BROWN EGGS                  4.29 F
+ORG CRRTS BUNCH                   4.63 F
+  2 @ 2.20
+LACROIX LIME SPRKLG WTR 8 PK      4.40 F
+LEMONS                            4.19 F
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+DIGITAL CPN                      0.92- T
+  2 @ 2.59
+GREEN ONIN BUNCH                  5.18 F
+  3 @ 5.94
+ORGANIC TOMATO BASIL MARINARA    17.82 F
+KRO CAGE FREE EGGS 18CT           6.85 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           55.43
+TAX 10.55% ON 8.07                  0.85
+TOTAL                              56.28
+CASH TEND                          60.00
+CHANGE                              3.72
+
+01/16/26 14:12  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

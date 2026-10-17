@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0333  Seattle WA
+            MEMBER ************
+
+58667 REDUCED FAT 2% MLK GALLON       6.54 E
+1324298 GOAT CHS                      8.35 E
+2399067 TPD/GOAT CHS                 0.34-  
+1454783 DAVES KILLER BRD 21 WHL GRAI  4.78 E
+1969502 DAVES KILLER BREAD 21 WHOLE   4.78 E
+264296 GREEN ONIONS BUNCH             2.59 E
+1310109 CELERY                        4.32 E
+644689 KS SPRKLG WTR                  7.48 E
+     2 @ 3.74
+1370521 KS SPONGES 3PK                9.54 A
+778517 KS GREEN BEANS                 4.62 E
+     2 @ 2.31
+1365197 CABOT SHRP CHDR 8 OZ          8.48 E
+987858 ORGANIC BABY SPINACH           5.54 E
+644689 KS SPRKLG WTR                  7.48 E
+     2 @ 3.74
+1370521 KS SPONGES 3PK                9.54 A
+778517 KS GREEN BEANS                 4.62 E
+     2 @ 2.31
+1365197 CABOT SHRP CHDR 8 OZ          8.48 E
+987858 ORGANIC BABY SPINACH           5.54 E
+
+SUBTOTAL                               66.68
+TAX 10.55% ON 9.54                      1.01
+**** TOTAL                             67.69
+AMEX TEND                              67.69
+CHANGE                                  0.00
+
+04/11/26 10:22  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

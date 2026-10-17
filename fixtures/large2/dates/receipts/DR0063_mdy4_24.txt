@@ -1,0 +1,36 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0123
+
+  3.21 lb @ 9.65 /lb
+PRIV SEL PORK TENDERLOIN         30.98 F
+MFR CPN                          0.88-  
+  0.28 lb @ 3.72 /lb
+ZUCCHINI                          1.04 F
+MFR CPN                          0.31-  
+  4 @ 3.04
+SMPL TRTH RED GRAPES             12.16 F
+  2 @ 5.85
+ORGANIC BABY SPINACH 5 OZ        11.70 F
+DIGITAL CPN                      0.23-  
+  4 @ 1.16
+CILANTRO                          4.64 F
+  3 @ 3.98
+PRIV SEL ROLLED OATS             11.94 F
+ALL PURPOSE FLOUR                11.36 F
+  4 @ 1.97
+GRK YGRT 48 OZ                    7.88 F
+PRIV SEL GOAT CHEESE              8.35 F
+CAGE FREE EGGS 18CT               6.85 F
+KRO SAVINGS                      1.26-  
+
+SUBTOTAL                          104.22
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             104.22
+MASTERCARD TEND                   104.22
+CHANGE                              0.00
+
+12/02/2028 00:00  4363 26 268 3
+ITEMS 12   REG 08  TRANS 5236
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

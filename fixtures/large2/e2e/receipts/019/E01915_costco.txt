@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3121  Seattle WA
+            MEMBER ************
+
+1858295 LG BROWN CAGE FREE EGGS       4.10 E
+1591527 KS ALMNM FOIL                18.03 A
+883143 BLACK FOREST HAM 9 OZ          7.00 E
+855347 CHKN THIGHS                    9.29 E
+304841 LG EGGS 12 CT                  8.69 E
+1005668 JENNIE-O GRND TRKY 1 LB       6.60 E
+1106993 KS CRRTS                      1.79 E
+1894864 TILLAMOOK ICE CRM 48 OZ       8.88 E
+4365095 TPD/TILLAMOOK IC             2.28-  
+1511246 GROUND PORK                   6.60 E
+246328 GRND COFFEE                    9.64 E
+605558 KS CHKN BROTH CARTON           8.38 E
+985602 CHKN GYOZA POTSTICKERS         9.88 E
+800370 TLLMK ICE CRM 48 OZ            8.88 E
+817830 OLD FASHIONED ROLLED OATS 42  17.43 E
+1696152 KS LIMES                      2.80 E
+9894778 TPD/LIMES                    0.84-  
+1467993 RED GRAPES                    3.04 E
+5185016 TPD/RED GRAPES               0.91-  
+975601 PEPSI 12 PK CANS               4.93 A
+
+SUBTOTAL                              131.93
+TAX 10.55% ON 22.96                     2.42
+**** TOTAL                            134.35
+DEBIT TEND                            134.35
+CHANGE                                  0.00
+
+10/02/26 16:32  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

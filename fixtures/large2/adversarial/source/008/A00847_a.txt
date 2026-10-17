@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3101  Seattle WA
+            MEMBER ************
+
+1706470 KS CILANTRO                   3.48 E
+     3 @ 1.16
+346546 MNDRN ORANGE CHKN             15.87 E
+765039 BNLS RIBEYE STEAK             43.57 E
+     2.80 lb @ 15.56 /lb
+1417902 LARGE EGGS 18 CT              7.52 E
+166170 JSMN RICE 5 LB                 2.98 E
+     2 @ 1.49
+1520721 PASTURE RAISED EGGS           7.37 E
+
+SUBTOTAL                               80.79
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             80.79
+DEBIT TEND                             80.79
+CHANGE                                  0.00
+
+06/27/26 09:03  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

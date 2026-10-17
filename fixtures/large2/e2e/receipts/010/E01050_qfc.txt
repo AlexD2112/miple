@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2286
+
+PLASTIC WRAP                      4.77 T
+  0.58 lb @ 17.98 /lb
+UNEXPECTED CHDR                  10.43 F
+DICED TOMATOES 14.5 OZ            1.00 F
+SMPL TRTH CHERRY TOMATOES         1.15 F
+
+SUBTOTAL                           17.35
+TAX 10.55% ON 4.77                  0.50
+TOTAL                              17.85
+DEBIT TEND                         17.85
+CHANGE                              0.00
+
+03/28/26 12:28  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

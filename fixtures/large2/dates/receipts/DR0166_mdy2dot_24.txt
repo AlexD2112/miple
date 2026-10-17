@@ -1,0 +1,21 @@
+                 TARGET
+        San Francisco CA  T-3220
+             (555) 030-3795
+
+GG GRND PORK                      6.60 N
+CIRCLE DEAL                      1.50-  
+GG UNSLTD BTR                     9.95 N
+OLD FSHND ROLLED OATS 42 OZ      17.43 N
+GG UNSLTD BTR                     9.95 N
+JASMINE RICE 25 LB                8.09 N
+
+SUBTOTAL                           50.52
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              50.52
+AMEX TEND                          50.52
+CHANGE                              0.00
+
+04.23.25 13:57
+ITEMS 21   REG 01  TRANS 6890
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

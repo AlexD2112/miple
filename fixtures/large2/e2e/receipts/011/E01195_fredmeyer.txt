@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 3845
+
+  0.78 lb @ 3.42 /lb
+RED BELL PEPR                     2.67 F
+CRM CHS                           8.63 F
+KRO SAVINGS                      1.41-  
+GINGER ALE 12PK                   6.02 T
+ORGANIC BABY SPINACH              5.54 F
+  0.58 lb @ 13.18 /lb
+FM SLCD TRKY BRST                 7.64 F
+ITLN PRSLY                        2.93 F
+GREETING CARD                    20.34 T
+FM PLUS CARD SAV                 1.90- T
+
+SUBTOTAL                           50.46
+TAX 10.55% ON 24.46                 2.58
+TOTAL                              53.04
+AMEX TEND                          53.04
+CHANGE                              0.00
+
+04/04/26 09:24  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

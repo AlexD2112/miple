@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3876  Seattle WA
+            MEMBER ************
+
+1955313 KS GINGER ALE 12PK            6.02 A
+337192 KS JASMINE RICE               12.13 E
+6136236 TPD/JASMINE RICE             0.45-  
+1214376 DIGIORNO RISING CRUST PEPPE  17.19 E
+     3 @ 5.73
+1677507 TPD/DIGIORNO RIS             2.30-  
+1660394 COLA 12PK CANS                1.51 A
+1091604 JASMINE RICE 5 LB             1.49 E
+1735317 PAPER PLATES                  3.31 A
+406132 KS STRWB                       4.35 E
+1812083 KS TRASH BAGS 40CT            6.49 A
+908419 KS STRWB                      17.40 E
+     4 @ 4.35
+6034234 TPD/STRWB                    0.95-  
+233439 KS PENNE                      13.38 E
+716480 JASMINE RICE 5 LB              1.49 E
+149268 KS RICOTTA                     8.76 E
+384910 KS CORN TORT                   2.79 E
+101874 FRZN BROC FLORETS              8.13 E
+650938 KS TOOTHPASTE                 16.40 A
+1099992 LARGE EGGS 18 CT              7.52 E
+1329720 TPD/LARGE EGGS 1             1.14-  
+1222271 FRESH BASIL                   2.74 E
+7858830 TPD/FRESH BASIL              0.82-  
+
+SUBTOTAL                              125.44
+TAX 10.55% ON 33.73                     3.56
+**** TOTAL                            129.00
+VISA TEND                             129.00
+CHANGE                                  0.00
+
+02/08/26 15:30  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

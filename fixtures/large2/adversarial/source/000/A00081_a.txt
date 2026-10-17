@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2958  Seattle WA
+            MEMBER ************
+
+531926 PARMIGIANO REGGIANO WEDGE      8.42 E
+500924 KS CEREAL                      6.63 E
+1059537 GENOA SALAMI                  4.76 E
+824276 ORG BLACK BEANS 8 CANS         1.15 E
+53692 CABOT SHRP CHDR 8 OZ            8.48 E
+3034976 TPD/CABOT SHRP C             0.51-  
+343620 KS ARUGULA                     4.00 E
+375188 HALF & HALF                    5.34 E
+6341898 TPD/HALF & HALF              1.60-  
+253850 STRWB 2 LB                     5.88 E
+0910064 TPD/STRWB 2 LB               1.76-  
+425506 KS BEETS                       5.39 E
+     3.01 lb @ 1.79 /lb
+616675 KS SPAGHETTI                   9.54 E
+7997506 TPD/SPAGHETTI                2.63-  
+625673 KS ORANGE JUICE 52OZ           9.39 E
+7145319 TPD/ORANGE JUICE             2.82-  
+686514 FRZN MIXED BRRS                2.06 E
+648316 ORGANIC BASIL CLAMSHELL        2.98 E
+     2 @ 1.49
+140753 KS ASPARAGUS                   2.93 E
+
+SUBTOTAL                               67.63
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             67.63
+DEBIT TEND                             67.63
+CHANGE                                  0.00
+
+05/28/26 16:11  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

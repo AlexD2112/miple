@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 2288
+
+SMPL TRTH RASPB                   7.24 F
+  2 @ 2.37
+BANANA                            4.74 F
+SMPL TRTH BROC CROWNS             2.25 F
+BTTLD WTR 40 PK                   2.45 F
+PLSTC WRAP                        4.77 T
+SMPL TRTH CREAM CHEESE            8.63 F
+
+SUBTOTAL                           30.08
+TAX 10.55% ON 4.77                  0.50
+TOTAL                              30.58
+DISCOVER TEND                      30.58
+CHANGE                              0.00
+
+07/14/29 11:17 AM  8212 34 307 3
+ITEMS 8   REG 14  TRANS 8153
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

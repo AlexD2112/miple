@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0602  Portland OR
+            MEMBER ************
+
+1257436 MSSN FLOUR TORT 40 CT         5.22 E
+1222167 YUKON GOLD POTS               3.99 E
+166257 GREEN BEANS                    2.31 E
+342161 LACROIX LIME SPRKLG WTR 8 PK   4.40 E
+     2 @ 2.20
+  16 @ 0.10
+OR BTL DEP                            1.60  
+1071482 KS CHICKEN BROTH CARTON       8.38 E
+249791 KS PLASTIC WRAP                4.77 E
+3699381 TPD/PLASTIC WRAP             1.43-  
+  REFUND - ORIG RECEIPT
+RETURN 249791 KS PLASTIC WRAP        4.77- E
+
+SUBTOTAL                               24.47
+TAX                                     0.00
+**** TOTAL                             24.47
+DISCOVER TEND                          24.47
+CHANGE                                  0.00
+
+05/01/26 07:20  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

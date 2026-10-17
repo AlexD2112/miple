@@ -1,0 +1,27 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+02/15/26 09:06  ITEMS 8
+
+CHANGE                              0.00
+DISCOVER TEND                      93.73
+TOTAL                              93.73
+TAX 10.55% ON 23.03                 2.43
+SUBTOTAL                           91.30
+
+BAG FEE                           0.08 T
+STRWB 2 LB                        5.88 F
+PRIME MEMBER DEAL                2.94-  
+FOSTER FARMS BNLS SKNLS CHKN BR  38.73 F
+  5.07 lb @ 7.64 /lb
+MISSION FLOUR TORT 40 CT          5.22 F
+GRND BF 88/12                    15.24 F
+  2.54 lb @ 6.00 /lb
+CC-CL 12 PK CANS                  2.77 T
+PRIME MEMBER DEAL                1.05-  
+ROLLED OATS                       3.98 F
+365 LAUNDRY DETERGENT PODS       20.18 T
+365 CTTG CHS                      3.21 F
+
+             (555) 020-2196
+               Seattle WA
+           WHOLE FOODS MARKET

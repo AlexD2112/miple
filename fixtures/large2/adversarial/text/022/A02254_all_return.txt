@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 2334  Seattle WA
+             (555) 010-2145
+
+  REFUND - ORIG RECEIPT
+RETURN DICED TOM 14.5 OZ         1.00- S
+RETURN PLAIN GOAT CHS            5.77- S
+RETURN SIG ALUMINUM FOIL        18.03- T
+RETURN ROMA TOMATOES             4.76- S
+  REFUND - ORIG RECEIPT
+RETURN SW SOURDOUGH LOAF         7.47- S
+
+SUBTOTAL                          37.03-
+TAX 10.55% ON 18.03-               1.90-
+**** TOTAL                        38.93-
+VISA TEND                         38.93-
+CHANGE                              0.00
+
+05/01/26 20:20  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

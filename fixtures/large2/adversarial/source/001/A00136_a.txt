@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 0657
+
+  2 @ 4.26
+KRO DRIED LNTLS                   8.52 F
+WHITE BRD                         6.34 F
+  4 @ 1.08
+FM TUNA CAN                       4.32 F
+  3 @ 2.02
+CILANTRO BUNCH                    6.06 F
+FM PLUS CARD SAV                 1.82-  
+FM ICE CRM                       14.51 F
+KRO SAVINGS                      2.86-  
+
+SUBTOTAL                           35.07
+TAX                                 0.00
+TOTAL                              35.07
+DISCOVER TEND                      35.07
+CHANGE                              0.00
+
+09/13/26 07:02  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

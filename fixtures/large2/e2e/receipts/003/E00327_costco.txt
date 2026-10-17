@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0005  Seattle WA
+            MEMBER ************
+
+1946923 PEACHES                       0.50 E
+     0.73 lb @ 0.68 /lb
+1439349 KS GRND TRKY                  5.19 E
+659198 KS CHUCK ROAST                31.74 E
+     2.31 lb @ 13.74 /lb
+1123889 KS SOURDOUGH LOAF             7.47 E
+938502 STRAWBERRIES 2 LB              5.88 E
+1274416 STRWB                         4.35 E
+1877958 MISSION FLOUR TORT 40 CT      5.22 E
+12875 2% MLK 2 X 1 GAL                4.70 E
+350024 VANILLA YOGURT CUPS            5.39 E
+775842 KS DOG TREATS                  6.82 A
+2194234 TPD/DOG TREATS               0.42- A
+
+SUBTOTAL                               76.84
+TAX 10.55% ON 6.40                      0.68
+**** TOTAL                             77.52
+DEBIT TEND                             77.52
+CHANGE                                  0.00
+
+09/15/26 10:48  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

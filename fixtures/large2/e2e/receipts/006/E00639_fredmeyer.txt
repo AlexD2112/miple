@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 1245
+
+SMPL TRTH ICE CRM                14.51 F
+ROTIS CHKN                        5.04 T
+KRO FLOWERS BOUQUET              23.70 T
+KRO SAVINGS                      1.83- T
+  4 @ 2.74
+FRESH BASIL                      10.96 F
+MFR CPN                          2.72-  
+SMPL TRTH SILKEN TOFU             2.29 F
+PARMIGIANO RGGN                   7.82 F
+  2 @ 3.54
+AVOCADOS BAG 4 CT                 7.08 F
+CC-CL 12 PK CANS                  2.77 T
+BARILLA PENNE                    19.37 F
+MFR CPN                          1.87-  
+  2.73 lb @ 2.33 /lb
+BRUSSELS SPROUTS                  6.36 F
+ORG EGGS 24 CT                    7.83 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          101.55
+TAX 10.55% ON 29.92                 3.16
+TOTAL                             104.71
+MASTERCARD TEND                   104.71
+CHANGE                              0.00
+
+12/31/26 11:57  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

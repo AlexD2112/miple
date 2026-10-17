@@ -1,0 +1,27 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+07/06/26 18:25  ITEMS 11
+
+CHANGE                              0.00
+DISCOVER TEND                      96.38
+TOTAL                              96.38
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                           96.38
+
+MFR CPN                          0.35-  
+ORG BLACK BEANS 8 CANS            1.15 F
+SMPL TRTH TILAPIA FILLETS        21.66 F
+DGRN RISING CRUST PPPRN PIZZA     5.73 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+HUY FONG SRIRACHA                 2.55 F
+PRIV SEL WHL CHKN                26.78 F
+  4.23 lb @ 6.33 /lb
+BAGGED CAESAR SALAD KIT           2.21 F
+MFR CPN                          0.53-  
+KRO KERRYGOLD BTR                10.81 F
+DICED TOM CAN                     8.94 F
+  3 @ 2.98
+
+         Seattle WA  Store 0629
+          Quality Food Centers
+                  QFC

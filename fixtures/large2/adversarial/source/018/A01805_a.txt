@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0424  Seattle WA
+            MEMBER ************
+
+304718 KS MANDARINS                   2.72 E
+1306185 COLD BREW COFFEE 32OZ         8.86 E
+     2 @ 4.43
+8200852 TPD/COLD BREW CO             2.58-  
+1825519 ORGANIC GALA APPLES           1.57 E
+424348 PREPARED MAC & CHS            10.62 E
+642798 KS BABY CRRTS                  2.49 E
+2388778 TPD/BABY CRRTS               0.72-  
+1001333 KS COCONUT MLK CAN            3.83 E
+293793 TILLAMOOK ICE CRM 48 OZ        8.88 E
+835503 BABY SPNCH 5 OZ                7.54 E
+     2 @ 3.77
+1517339 KS RDSHS                      3.22 E
+     3.07 lb @ 1.05 /lb
+169978 2% MILK HALF GALLON            6.08 E
+
+SUBTOTAL                               46.43
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             46.43
+DISCOVER TEND                          46.43
+CHANGE                                  0.00
+
+05/12/26 17:12  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

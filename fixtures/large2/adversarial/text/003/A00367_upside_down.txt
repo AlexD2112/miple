@@ -1,0 +1,38 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+05/11/26 21:54  ITEMS 18
+
+CHANGE                              0.00
+DEBIT TEND                        105.44
+TOTAL                             105.44
+TAX 10.55% ON 23.86                 2.52
+SUBTOTAL                          102.92
+
+365 POTATO CHIPS                 10.14 F
+  2 @ 5.07
+365 ORG PEACHES                   2.22 F
+  3.27 lb @ 0.68 /lb
+BEETS                             1.00 F
+  0.56 lb @ 1.79 /lb
+365 DICED TOM CAN                 2.98 F
+PRIME MEMBER DEAL                1.12-  
+GRND BF 88/12                     5.88 F
+  0.98 lb @ 6.00 /lb
+365 BANANAS                       6.44 F
+  2.22 lb @ 2.90 /lb
+BOTTLED WTR 40 PK                 2.45 F
+365 CILANTRO                      2.32 F
+  2 @ 1.16
+365 QUINOA                        7.75 F
+FROZEN PEAS 12 OZ                10.80 F
+  2 @ 5.40
+CRSSNTS 12 CT                     4.87 F
+PRIME 10% OFF                    0.93- T
+365 ZIP TOP BAGS                 24.79 T
+WF ATLANTIC SLMN FLLT            19.77 F
+DICED TOM 14.5 OZ                 1.00 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+
+             (555) 020-9516
+               Seattle WA
+           WHOLE FOODS MARKET

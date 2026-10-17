@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1832
+
+SMPL TRTH ROMA TOM                2.38 F
+PRIV SEL COLA 12PK CANS           1.51 T
+SMPL TRTH ORANGE JUICE            7.69 F
+KRO SHRP CHDR BLOCK              10.33 F
+  3 @ 4.26
+KRO DRIED LNTLS                  12.78 F
+KRO SAVINGS                      2.57-  
+WHL MLK HALF GALLON               6.79 F
+  2 @ 1.15
+SMPL TRTH CHERRY TOM              2.30 F
+KRO SAVINGS                      0.69-  
+SHAMPOO                          17.57 T
+
+SUBTOTAL                           58.09
+TAX 10.55% ON 19.08                 2.01
+TOTAL                              61.10
+DISCOVER TEND                      61.10
+CHANGE                              0.00
+
+03/30/26 10:20  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

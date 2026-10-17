@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0208  Seattle WA
+            MEMBER ************
+
+1571744 KS AHI TUNA STEAK            14.71 E
+1018817 KS ALL PURPOSE FLOUR         11.36 E
+8822726 TPD/ALL PURPOSE              2.51-  
+1111749 DGRN RISING CRUST PPPRN PIZ  11.46 E
+     2 @ 5.73
+1274847 KS QUINOA                     7.75 E
+162860 HOUSE FOODS EXTRA FIRM TOFU    5.56 E
+     2 @ 2.78
+239458 KS TORTILLA CHIPS              6.66 E
+     2 @ 3.33
+1811667 KS RANCH DRESSING             3.99 E
+1644595 ORANGE JUICE 52OZ             9.39 E
+1035642 DISH SOAP                    19.39 A
+1351746 BRIE                          4.85 E
+819688 KS CHICKEN BROTH CARTON        8.38 E
+
+SUBTOTAL                              100.99
+TAX 10.55% ON 19.39                     2.05
+**** TOTAL                            103.04
+DISCOVER TEND                         103.04
+CHANGE                                  0.00
+
+05/30/26 20:48  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

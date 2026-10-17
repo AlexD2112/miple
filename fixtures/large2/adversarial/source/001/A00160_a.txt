@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2580  Seattle WA
+            MEMBER ************
+
+1776416 DELI SLCD TRKY BRST           7.80 E
+     0.71 lb @ 10.99 /lb
+813756 LIMES                          2.80 E
+976761 BATH TISSUE 12 ROLL           23.08 A
+594649 CAT LITTER                    14.03 A
+1632565 FLOUR TORT 10 CT              2.35 E
+
+SUBTOTAL                               50.06
+TAX 10.55% ON 37.11                     3.92
+**** TOTAL                             53.98
+MASTERCARD TEND                        53.98
+CHANGE                                  0.00
+
+01/15/26 07:16  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

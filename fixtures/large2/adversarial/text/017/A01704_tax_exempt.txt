@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3919  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******8328
+
+492136 KS CHERRIES                    5.69 E
+607530 KS FRESH MOZZ                  8.65 E
+1064753 ORG SPRING MIX 1 LB          10.98 E
+     2 @ 5.49
+866067 KS FRZN PIZZA                 13.30 E
+1723953 REDUCED FAT 2% MLK GALLON     6.54 E
+1554885 COLA 12PK CANS                1.51 A
+221029 KS TRTLL CHIPS                 3.33 E
+61529 CAT LITTER                     14.03 A
+73116 KS RASPBERRIES                  7.24 E
+947883 KS CELERY                      4.32 E
+
+SUBTOTAL                               75.59
+TAX EXEMPT                              0.00
+**** TOTAL                             75.59
+VISA TEND                              75.59
+CHANGE                                  0.00
+
+02/27/26 18:16  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

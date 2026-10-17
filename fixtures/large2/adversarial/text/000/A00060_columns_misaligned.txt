@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0916  Seattle WA
+            MEMBER ************
+
+1852940 ALUMINUM FOIL 18.03 A
+1657845 RED BELL PEPR                 3.18 E
+     0.93 lb @ 3.42 /lb
+2672447 TPD/RED BELL PEP	0.95-
+   221522 KS VANILLA YOGURT CUPS        21.56 E
+     4 @ 5.39
+1048025 ORG BABY SPNCH                5.54 E
+1496575 RUSSET POTS 5 LB BAG          4.53 E
+1595710 PREPARED MAC & CHS              10.62 E
+1749750 BARILLA PENNE                19.37 E
+8601810 TPD/BARILLA PENN             0.87-  
+1626538 KS ORANGE JUICE 52OZ 9.39 E
+   1508891 DISH SOAP                    19.39 A
+513918 TLLMK VAN YGRT                 8.10 E
+     2 @ 4.05
+1336408 ORGANIC TOMATO BASIL MARINAR   5.94 E
+1817940 WHITE BRD                     6.34 E
+  1536522 ORG SPRING MIX 1 LB           5.49 E
+819226 TOOTHPASTE                    16.40 A
+55973 POTATO CHIPS	10.14 E
+     2 @ 5.07
+0362009 TPD/POTATO CHIPS             0.41-  
+
+SUBTOTAL                              161.79
+TAX 10.55% ON 53.82                     5.68
+**** TOTAL                            167.47
+DISCOVER TEND                         167.47
+CHANGE                                  0.00
+
+05/06/26 11:38  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

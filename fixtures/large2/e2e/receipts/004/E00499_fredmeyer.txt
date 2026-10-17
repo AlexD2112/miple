@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 3600
+
+2% MILK 2 X 1 GAL                 4.70 F
+KRO AA BATTERIES 8PK             24.36 T
+SMPL TRTH SOURDOUGH LOAF          7.47 F
+  2.19 lb @ 3.76 /lb
+CAULIFLOWER                       8.23 F
+  4 @ 3.77
+SMPL TRTH BAGELS                 15.08 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           60.08
+TAX 10.55% ON 24.60                 2.60
+TOTAL                              62.68
+DEBIT TEND                         62.68
+CHANGE                              0.00
+
+09/12/26 11:12  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

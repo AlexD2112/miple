@@ -1,0 +1,28 @@
+                 TARGET
+           Seattle WA  T-1107
+             (555) 030-9318
+
+  0.42 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               4.62 N
+MKT PANTRY ICEBERG LETTUCE        5.11 N
+GG YUKON GOLD POTS                3.99 N
+  3.30 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             4.39 N
+GG UNSALTED BUTTER                9.95 N
+TARGET CIRCLE OFFER              0.71-  
+SPAGHETTI                         9.54 N
+GG HALIBUT                       10.82 N
+CIRCLE DEAL                      2.73-  
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+
+SUBTOTAL                           53.81
+TAX 10.55% ON 8.83                  0.93
+TOTAL                              54.74
+MASTERCARD TEND                    54.74
+CHANGE                              0.00
+
+BUSINESS DATE 11/14/28
+11/15/2028 01:33:38 AM
+ITEMS 30   REG 10  TRANS 4536
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

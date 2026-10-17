@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 0092
+
+KRO GENOA SALAMI                  4.76 F
+  2 @ 4.35
+SMPL TRTH STRWB                   8.70 F
+  2 @ 5.79
+FM LEMONADE 52OZ                 11.58 T
+2% MLK HALF GALLON                6.08 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           31.28
+TAX 10.55% ON 11.74                 1.24
+TOTAL                              32.52
+MASTERCARD TEND                    32.52
+CHANGE                              0.00
+
+09/23/26 16:20  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

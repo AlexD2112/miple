@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 0728
+
+  3 @ 2.46
+KRO DIJON MUSTARD                 7.38 F
+  2 @ 3.74
+SPRKLG WTR                        7.48 F
+KRO DAVES KILLER BREAD            6.69 F
+FRZN PEAS 12 OZ                   5.40 F
+
+SUBTOTAL                           26.95
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              26.95
+CASH TEND                          40.00
+CHANGE                             13.05
+
+10/01/26 11:15  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

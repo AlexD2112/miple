@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0076  Seattle WA
+            MEMBER ************
+
+199221 KS BATH TISSUE 12 ROLL        23.08 A
+1372237 KS ITALIAN SAUSAGE BULK       9.93 E
+868665 KS SPAGHETTI                   9.54 E
+565435 UNSLTD BTR 4 X 1 LB            9.48 E
+9940141 TPD/UNSLTD BTR 4             0.56-  
+949005 CAT LITTER                    14.03 A
+561820 KS KIWI                        5.78 E
+     2.78 lb @ 2.08 /lb
+0764815 TPD/KIWI                     0.21-  
+1886761 BABY CARROTS                  2.49 E
+
+SUBTOTAL                               73.56
+TAX 10.55% ON 37.11                     3.92
+**** TOTAL                             77.48
+VISA TEND                              77.48
+CHANGE                                  0.00
+
+2027-12-29 02:38:28  142 142 5394 02
+ITEMS 25   REG 10  TRANS 1994
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 1265
+
+MAYONNAISE 30 OZ                  6.42 F
+MFR CPN                          1.93-  
+FM GOAT CHS                       8.35 F
+  1.44 lb @ 9.65 /lb
+SMPL TRTH PORK TENDERLOIN        13.90 F
+YUKON GOLD POTS                   3.99 F
+  2.25 lb @ 1.79 /lb
+BEETS                             4.03 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+  1.26 lb @ 9.25 /lb
+SMPL TRTH SWISS CHS              11.66 F
+KRO VAN YGRT CUPS                 5.39 F
+FM PLUS CARD SAV                 1.08-  
+KRO SHRP CHDR BLOCK              10.33 F
+MFR CPN                          0.94-  
+  4 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS   19.12 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           83.61
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              83.63
+DEBIT TEND                         83.63
+CHANGE                              0.00
+
+07/01/26 13:27  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

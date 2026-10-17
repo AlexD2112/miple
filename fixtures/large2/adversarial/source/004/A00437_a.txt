@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2590  Seattle WA
+            MEMBER ************
+
+1891867 COCONUT MLK CAN               7.66 E
+     2 @ 3.83
+3075266 TPD/COCONUT MLK              1.77-  
+1153559 ORG SPRING MIX 1 LB           5.49 E
+1939031 CRSSNTS 12 CT                 4.87 E
+1000667 GRND BF 88/12                19.44 E
+     3.24 lb @ 6.00 /lb
+1726720 FRZN THREE BERRY BLEND 4 LB   2.56 E
+43791 ORANGE JUICE 52OZ               9.39 E
+763342 KS CHERRIES                    5.69 E
+1500699 KS PENNE                     13.38 E
+1786976 TORTILLA CHIPS               13.32 E
+     4 @ 3.33
+317877 BLACK BEANS 15 OZ CAN         10.76 E
+9432598 TPD/BLACK BEANS              1.60-  
+1453971 BLUBRY 18 OZ                 18.44 E
+     4 @ 4.61
+1312138 TLLMK VAN YGRT                4.05 E
+5251243 TPD/TLLMK VAN YG             0.87-  
+1209875 BAGGED CAESAR SALAD KIT       2.21 E
+1394174 PREPARED MAC & CHS           10.62 E
+
+SUBTOTAL                              123.64
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            123.64
+MASTERCARD TEND                       123.64
+CHANGE                                  0.00
+
+07/07/26 14:54  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

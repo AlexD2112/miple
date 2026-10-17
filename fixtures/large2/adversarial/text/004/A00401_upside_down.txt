@@ -1,0 +1,27 @@
+               THANK YOU
+T=TAXABLE  S=NONTAXABLE FOOD
+06/25/26 09:53  ITEMS 9
+
+CHANGE                              0.00
+AMEX TEND                          31.11
+**** TOTAL                         31.11
+TAX 10.55% ON 0.24                  0.03
+SUBTOTAL                           31.08
+
+BAG FEE                           0.24 T
+  3 @ 0.08
+O ORGANICS RASPBERRIES            7.24 S
+J4U DIGITAL CPN                  2.05-  
+SIG KTCHNS KETCHUP               10.98 S
+  2 @ 5.49
+BANANA                            4.74 S
+  2 @ 2.37
+O ORGANICS FRESH MINT             5.48 S
+  2 @ 2.74
+J4U PERSONAL DEAL                0.84-  
+LIMES                             2.80 S
+O ORGANICS BABY CARROTS           2.49 S
+
+             (555) 010-0934
+         Store 3686  Seattle WA
+                SAFEWAY

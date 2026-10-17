@@ -1,0 +1,32 @@
+                SAFEWAY
+         Store 0775  Seattle WA
+             (555) 010-7101
+
+PARMIGIANO REGGIANO WEDGE         8.42 S
+  4 @ 1.95
+ORG ITALIAN PARSLEY               7.80 S
+  2 @ 5.11
+PARMIGIANO REGGIANO WEDGE         8.42 S
+  4 @ 1.95
+ORG ITALIAN PARSLEY               7.80 S
+  2 @ 5.11
+O ORGANICS ICEBERG LTTC          10.22 S
+LG BROWN EGGS                     4.29 S
+SIG SLCT BLACK BEANS CAN          8.77 S
+  2 @ 2.79
+O ORGANICS ROMAINE LETTUCE        5.58 S
+  4 @ 4.48
+HEINZ KETCHUP 32 OZ              17.92 S
+SLCD ROAST BF                     5.94 S
+  3 @ 2.35
+FLOUR TORTILLAS 10 CT             7.05 S
+
+SUBTOTAL                           75.99
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         75.99
+DEBIT TEND                         75.99
+CHANGE                              0.00
+
+07/26/26 20:44  ITEMS 19
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

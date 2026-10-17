@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2366  Seattle WA
+            MEMBER ************
+
+790312 KS CHUCK ROAST                49.19 E
+     3.58 lb @ 13.74 /lb
+1230934 BLUBRY 18 OZ                  4.61 E
+8879560 TPD/BLUBRY 18 OZ             0.44-  
+1602773 CRM CHS 8 OZ                  3.15 E
+1244345 KS WHL CHKN                  24.43 E
+     3.86 lb @ 6.33 /lb
+1760633 GRND BF 88/12                14.76 E
+     2.46 lb @ 6.00 /lb
+1351281 KS FRZN WAFFLES               7.05 E
+1251231 PRMGN REGGIANO WEDGE          8.42 E
+855350 SLCD ROAST BF                  5.94 E
+1008030 KS RUSSET POTS                3.91 E
+     3.46 lb @ 1.13 /lb
+222579 LAMB CHOPS                    13.14 E
+     0.77 lb @ 17.07 /lb
+1329227 KS BATH TISSUE 12 ROLL       23.08 A
+409752 KS CHERRY TOM                  2.30 E
+     2 @ 1.15
+68748 KS ALMOND MLK                   5.08 E
+1789155 KS 2% MILK GALLON             6.49 E
+1553696 KS LIMES                      2.80 E
+143585 KS GREETING CARD              20.34 A
+
+SUBTOTAL                              194.25
+TAX 10.55% ON 43.42                     4.58
+**** TOTAL                            198.83
+MASTERCARD TEND                       198.83
+CHANGE                                  0.00
+
+06/15/26 17:12  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

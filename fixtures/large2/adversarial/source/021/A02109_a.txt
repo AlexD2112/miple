@@ -1,0 +1,17 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2280
+
+CAT LITTER                       14.03 T
+KRO PLSTC WRAP                    4.77 T
+KRO SHAMPOO                      17.57 T
+
+SUBTOTAL                           36.37
+TAX 10.55% ON 36.37                 3.84
+TOTAL                              40.21
+MASTERCARD TEND                    40.21
+CHANGE                              0.00
+
+06/27/26 18:07  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

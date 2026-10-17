@@ -1,0 +1,17 @@
+                SAFEWAY
+      Store 2453  San Francisco CA
+             (555) 010-2651
+
+  0.97 lb @ 1.60 /lb
+JALAPENO                          1.55 S
+DIJON MUSTARD                     2.46 S
+
+SUBTOTAL                            4.01
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                          4.01
+AMEX TEND                           4.01
+CHANGE                              0.00
+
+01/07/26 09:16  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

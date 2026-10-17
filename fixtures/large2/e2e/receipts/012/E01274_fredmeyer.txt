@@ -1,0 +1,25 @@
+               FRED MEYER
+              Portland OR
+               Store 0567
+
+SMPL TRTH CHERRIES                5.69 F
+FM WHOLE MILK HALF GALLON         6.79 F
+  2.59 lb @ 3.76 /lb
+CAULIFLOWER                       9.74 F
+KRO CORN TORTILLAS                2.79 F
+WILD COD FILLET                  18.56 F
+  2 @ 5.40
+FRZN PEAS 12 OZ                  10.80 F
+KALE                              4.17 F
+DELI FRIED CHKN                  11.75 F
+ALUMINUM FOIL                    18.03 F
+
+SUBTOTAL                           88.32
+TAX                                 0.00
+TOTAL                              88.32
+CASH TEND                         100.00
+CHANGE                             11.68
+
+07/03/26 21:26  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

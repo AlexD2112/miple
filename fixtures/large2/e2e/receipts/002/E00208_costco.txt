@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0257  Seattle WA
+            MEMBER ************
+
+458044 CAULIFLOWER GNOCCHI            7.85 E
+1152379 TILLAMOOK MEDIUM CHDR 2.5 LB  4.21 E
+1994465 ORG BASIL CLAMSHELL           1.49 E
+927074 MAYONNAISE 30 OZ               6.42 E
+3025553 TPD/MAYONNAISE 3             1.64-  
+145010 JASMINE RICE 5 LB              2.98 E
+     2 @ 1.49
+764410 BANANA                         2.37 E
+1335203 ORG ROMAINE HEARTS 3 CT       7.52 E
+     2 @ 3.76
+668361 KS LAMB CHOPS                 38.92 E
+     2.28 lb @ 17.07 /lb
+1157902 KS ITLN PARSLEY              11.72 E
+     4 @ 2.93
+1277669 PLAIN NONFAT GRK YGRT         4.65 E
+1821417 GREEN ONIN BUNCH              5.18 E
+     2 @ 2.59
+639915 ORG BASIL CLAMSHELL            5.96 E
+     4 @ 1.49
+245499 ORGANIC EGGS 24 CT             7.83 E
+1999022 KS UNSLTD BTR                 9.95 E
+6616685 TPD/UNSLTD BTR               2.62-  
+949569 KS HALIBUT                    10.82 E
+445574 KS BAGELS                      3.77 E
+1106177 UNSLTD BTR                    9.95 E
+
+SUBTOTAL                              137.33
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            137.33
+VISA TEND                             137.33
+CHANGE                                  0.00
+
+03/27/26 17:07  ITEMS 26
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

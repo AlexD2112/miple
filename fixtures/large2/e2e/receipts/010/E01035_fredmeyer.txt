@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 0133
+
+MANDARIN ORANGE CHICKEN          15.87 F
+  0.71 lb @ 14.17 /lb
+KRO BLACK FOREST HAM             10.06 F
+ITALIAN PARSLEY                   2.93 F
+  1.01 lb @ 1.60 /lb
+JALAPENO                          1.62 F
+  3 @ 4.61
+BLUBRY 18 OZ                     13.83 F
+FM GRANOLA BARS                   6.07 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           50.54
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              50.56
+CASH TEND                          60.00
+CHANGE                              9.44
+
+01/20/26 09:11  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

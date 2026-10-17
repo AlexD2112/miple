@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 0799
+
+FM ICE CREAM                     14.51 F
+  2 @ 5.44
+SMPL TRTH SPRING MIX             10.88 F
+  1.46 lb @ 9.25 /lb
+KRO SWISS CHS                    13.51 F
+
+SUBTOTAL                           38.90
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              38.90
+DISCOVER TEND                      38.90
+CHANGE                              0.00
+
+04/16/26 19:58  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

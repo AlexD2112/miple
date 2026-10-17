@@ -1,0 +1,44 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0773  San Francisco CA
+            MEMBER ************
+
+42518 KS BATH TISSUE 12 ROLL         23.08 A
+5338906 TPD/BATH TISSUE              1.40- A
+1315295 KETCHUP                       5.49 E
+1416650 KS BANANAS                    1.65 E
+     0.57 lb @ 2.90 /lb
+1415723 PORK CHOPS                   27.31 E
+     2.46 lb @ 11.10 /lb
+1696436 CILANTRO BUNCH                4.04 E
+     2 @ 2.02
+620460 KS SOURDOUGH LOAF              7.47 E
+9393124 TPD/SOURDOUGH LO             1.82-  
+1691930 BLUBRY 18 OZ                  9.22 E
+     2 @ 4.61
+724588 ORGANIC CARROTS BUNCH          4.63 E
+3591856 TPD/ORGANIC CARR             1.39-  
+1991945 MANDARINS                     2.72 E
+6587530 TPD/MANDARINS                0.82-  
+1367477 LAMB CHOPS                   20.14 E
+     1.18 lb @ 17.07 /lb
+44241 KS FRESH MINT                   2.74 E
+1797212 CAULIFLOWER GNOCCHI           7.85 E
+5355396 TPD/CAULIFLOWER              0.98-  
+1057461 GRSS-FD GRND BF 85/15         7.35 E
+6541742 TPD/GRSS-FD GRND             2.20-  
+556872 MAYONNAISE 30 OZ               6.42 E
+3649528 TPD/MAYONNAISE 3             1.59-  
+1041133 STRWB 2 LB                   11.76 E
+     2 @ 5.88
+322484 KETCHUP                        5.49 E
+
+SUBTOTAL                              137.16
+TAX 8.625% ON 21.68                     1.87
+**** TOTAL                            139.03
+DEBIT TEND                            139.03
+CHANGE                                  0.00
+
+08/05/26 18:03  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,48 @@
+               FRED MEYER
+               Seattle WA
+               Store 0954
+
+KRO TRASH BAGS 40CT               6.49 T
+TOOTHPASTE                       16.40 T
+  3.05 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                7.41 F
+KRO RANCH DRESSING                3.99 F
+STRWB 1 LB                        5.22 F
+BARILLA PENNE                    19.37 F
+SMPL TRTH AVCDS                   4.05 F
+PEPSI 12 PK CANS                  4.93 T
+  0.62 lb @ 9.25 /lb
+SWISS CHS                         5.74 F
+KRO RANCH DRESSING                3.99 F
+STRWB 1 LB                        5.22 F
+BARILLA PENNE                    19.37 F
+SMPL TRTH AVCDS                   4.05 F
+PEPSI 12 PK CANS                  4.93 T
+  0.62 lb @ 9.25 /lb
+SWISS CHS                         5.74 F
+MSSN FLOUR TORT 40 CT             5.22 F
+  3.01 lb @ 3.72 /lb
+ZUCCHINI                         11.20 F
+  2 @ 0.90
+SMPL TRTH FRESH DILL              1.80 F
+  4 @ 5.69
+SMPL TRTH CHERRIES               22.76 F
+  4.93 lb @ 6.00 /lb
+GRND BF 88/12                    29.58 F
+  3 @ 2.21
+SMPL TRTH BAGGED CAESAR SALAD KI  6.63 F
+  3.56 lb @ 2.90 /lb
+SMPL TRTH BANANAS                10.32 F
+ORG TOMATO BASIL MARINARA         5.94 F
+SMPL TRTH GINGER ALE 12PK         6.02 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                          173.15
+TAX 10.55% ON 33.92                 3.58
+TOTAL                             176.73
+VISA TEND                         176.73
+CHANGE                              0.00
+
+01/19/26 08:22  ITEMS 24
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

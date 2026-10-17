@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2527  Seattle WA
+            MEMBER ************
+
+215241 RADISHES                       3.52 E
+     3.35 lb @ 1.05 /lb
+1934403 STRWB 2 LB                    5.88 E
+9768087 TPD/STRWB 2 LB               1.76-  
+532330 KS SHRP CHDR BLOCK            10.33 E
+9725694 TPD/SHRP CHDR BL             2.66-  
+333515 REDUCED FAT 2% MLK GALLON      6.54 E
+898419 ORG RASPB 6 OZ                 6.28 E
+1721236 BAGGED CAESAR SALAD KIT       2.21 E
+4168946 TPD/BAGGED CAESA             0.66-  
+1907534 KS CHERRIES                  11.38 E
+     2 @ 5.69
+928524 KS STRWB                       4.35 E
+1693057 TPD/STRWB                    1.12-  
+1011914 KS PAPER PLATES               3.31 A
+351500 DARK CHOC PNT BTR CUPS         5.61 E
+
+SUBTOTAL                               53.21
+TAX 10.55% ON 3.31                      0.35
+**** TOTAL                             53.56
+AMEX TEND                              53.56
+CHANGE                                  0.00
+
+08/30/26 11:16  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

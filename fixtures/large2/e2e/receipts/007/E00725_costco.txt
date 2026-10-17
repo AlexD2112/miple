@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2320  Seattle WA
+            MEMBER ************
+
+188548 KS GRND COFFEE                 9.64 E
+1030970 DARK CHOC PNT BTR CUPS        5.61 E
+3284235 TPD/DARK CHOC PN             1.64-  
+1765635 KS CHERRY TOMATOES            1.15 E
+7246403 TPD/CHERRY TOMAT             0.35-  
+667110 ICE CRM                       14.51 E
+151100 SWISS CHS                      6.75 E
+     0.73 lb @ 9.25 /lb
+1234656 CHOBANI PLAIN GREEK YOGURT 3  1.47 E
+9172533 TPD/CHOBANI PLAI             0.33-  
+1358116 CROISSANTS 12 CT              4.87 E
+1342293 KS BABY SPNCH                 5.42 E
+227370 KS CAGE FREE EGGS 18CT         6.85 E
+718104 KS ITALIAN SAUSAGE BULK        9.93 E
+1436249 RDSHS                         1.53 E
+     1.46 lb @ 1.05 /lb
+1058057 BNLS PORK LOIN CHOPS         10.43 E
+     1.05 lb @ 9.93 /lb
+  REFUND - ORIG RECEIPT
+RETURN 188548 KS GRND COFFEE         9.64- E
+
+SUBTOTAL                               66.20
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             66.20
+VISA TEND                              66.20
+CHANGE                                  0.00
+
+02/28/27 09:37  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

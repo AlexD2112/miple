@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3068  Seattle WA
+            MEMBER ************
+
+602695 KS WHL MLK HALF GALLON         6.79 E
+1226815 ORG EGGS 24 CT                7.83 E
+467815 KS CARROTS                     1.79 E
+
+SUBTOTAL                               16.41
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             16.41
+DISCOVER TEND                          16.41
+CHANGE                                  0.00
+
+07/14/26 20:47  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3068  Seattle WA
+            MEMBER ************
+
+602695 KS WHL MLK HALF GALLON         6.79 E
+1226815 ORG EGGS 24 CT                7.83 E
+467815 KS CARROTS                     1.79 E
+
+SUBTOTAL                               16.41
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             16.41
+DISCOVER TEND                          16.41
+CHANGE                                  0.00
+
+07/14/26 20:47  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

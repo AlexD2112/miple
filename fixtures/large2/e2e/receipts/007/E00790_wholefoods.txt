@@ -1,0 +1,18 @@
+           WHOLE FOODS MARKET
+            San Francisco CA
+             (555) 020-2228
+
+WF ICE CRM                       14.51 F
+365 CEREAL                        6.63 F
+  REFUND - ORIG RECEIPT
+RETURN WF ICE CRM               14.51- F
+
+SUBTOTAL                            6.63
+TAX 8.625% ON 0.00                  0.00
+TOTAL                               6.63
+DISCOVER TEND                       6.63
+CHANGE                              0.00
+
+01/21/26 12:30  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

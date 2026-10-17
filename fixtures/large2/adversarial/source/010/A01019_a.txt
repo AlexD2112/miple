@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3727
+
+KRO SHRP CHDR BLOCK              10.33 F
+MFR CPN                          2.65-  
+LG EGGS 12 CT                     8.69 F
+  3 @ 4.74
+SLCD SOURDOUGH PAN LOAF          14.22 F
+DIGITAL CPN                      1.13-  
+TUNA CAN                          1.08 F
+MFR CPN                          0.32-  
+  2 @ 2.59
+GREEN ONIN BUNCH                  5.18 F
+BABY SPNCH 5 OZ                   3.77 F
+FRZN PEAS                        13.98 F
+
+SUBTOTAL                           53.15
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              53.15
+DISCOVER TEND                      53.15
+CHANGE                              0.00
+
+04/21/26 21:08  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0080  Seattle WA
+            MEMBER ************
+
+1217709 DOUBLE CREME BRIE             5.40 E
+6887324 TPD/DOUBLE CREME             1.62-  
+1321179 KS COLA 12PK                  3.66 A
+     2 @ 1.83
+
+SUBTOTAL                                7.44
+TAX 10.55% ON 3.66                      0.39
+**** TOTAL                              7.83
+MASTERCARD TEND                         7.83
+CHANGE                                  0.00
+
+2030-11-21 02:37:49  444 444 3633 05
+ITEMS 10   REG 04  TRANS 3053
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

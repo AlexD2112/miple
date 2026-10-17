@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0435  Seattle WA
+            MEMBER ************
+
+1132349 KS BAGELS                    15.08 E
+     4 @ 3.77
+1291812 WHITE SNDWCH BRD              7.03 E
+58562 KS FLOWERS BQT                 23.70 A
+1043541 KS CHKN BROTH CARTON          8.38 E
+1334108 RED ONIN                      3.15 E
+     2.13 lb @ 1.48 /lb
+0679777 TPD/RED ONIN                 0.51-  
+134247 ORG BASIL CLMSHLL              1.49 E
+6187672 TPD/ORG BASIL CL             0.45-  
+652342 MANDARIN ORANGE CHKN          15.87 E
+220601 RASPB                          7.24 E
+1300817 GRK YGRT 48 OZ                1.97 E
+433717 STRAWBERRIES 2 LB             17.64 E
+     3 @ 5.88
+8885372 TPD/STRAWBERRIES             2.67-  
+88567 KS HAMBURGER BUNS               5.54 E
+     2 @ 2.77
+4516597 TPD/HAMBURGER BU             1.66-  
+331747 CHKN GYOZA POTSTICKERS         9.88 E
+3844368 TPD/CHKN GYOZA P             2.17-  
+656550 CHOBANI PLAIN GREEK YOGURT 32  1.47 E
+991142 FRESH MOZZARELLA               8.65 E
+798761 PAPER PLATES                   3.31 A
+602987 LG EGGS 18 CT                  7.52 E
+229688 KS ICE CRM                    14.51 E
+
+SUBTOTAL                              144.97
+TAX 10.55% ON 27.01                     2.85
+**** TOTAL                            147.82
+AMEX TEND                             147.82
+CHANGE                                  0.00
+
+01/31/26 15:40  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

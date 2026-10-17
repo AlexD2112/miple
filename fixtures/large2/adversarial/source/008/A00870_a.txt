@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 3006
+
+LG EGGS 18 CT                     7.52 F
+  1.55 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             15.39 F
+KRO AHI TUNA STEAK               14.71 F
+SMPL TRTH ROMA TOM                2.38 F
+  3 @ 5.22
+STRWB 1 LB                       15.66 F
+SHREDDED MOZZ 8 OZ                2.92 F
+SMPL TRTH GENOA SALAMI            4.76 F
+SMPL TRTH DIJON MUSTARD           2.46 F
+FM CRACKERS                       2.00 F
+JNN- GRND TRKY 1 LB               6.60 F
+
+SUBTOTAL                           74.40
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              74.40
+CASH TEND                          80.00
+CHANGE                              5.60
+
+08/22/26 10:32  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

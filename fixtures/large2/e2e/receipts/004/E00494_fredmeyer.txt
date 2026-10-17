@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 0938
+
+SMPL TRTH CHICKEN BROTH CARTON    8.38 F
+  2.00 lb @ 6.00 /lb
+GROUND BEEF 88/12                12.00 F
+COTTAGE CHS                       3.21 F
+ORGANIC GALA APPLES               1.57 F
+SHREDDED MOZZ 8 OZ                2.92 F
+STRWB 2 LB                        5.88 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           34.01
+TAX                                 0.00
+TOTAL                              34.01
+DISCOVER TEND                      34.01
+CHANGE                              0.00
+
+05/30/26 17:14  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

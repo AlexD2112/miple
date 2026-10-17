@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2208  Seattle WA
+            MEMBER ************
+
+1884447 KS SHRP CHDR BLOCK           10.33 E
+1071403 RANCH DRSSNG                 15.96 E
+     4 @ 3.99
+47763 KS BEETS                        5.91 E
+     3.30 lb @ 1.79 /lb
+1923509 CAULIFLOWER                  10.42 E
+     2.77 lb @ 3.76 /lb
+944932 TILLAMOOK ICE CRM 48 OZ        8.88 E
+1801430 KS GRK YGRT PLAIN             4.11 E
+1234776 KS JASMINE RICE              12.13 E
+3247941 TPD/JASMINE RICE             0.92-  
+562183 BRSSLS SPRTS                   1.23 E
+     0.53 lb @ 2.33 /lb
+641364 LEMONADE 52OZ                  5.79 A
+1577531 KS PINEAPPLE                  1.85 E
+     1.48 lb @ 1.25 /lb
+262774 GENOA SALAMI                   4.76 E
+1929298 ORG SPROUTED TOFU             7.83 E
+     3 @ 2.61
+1771861 ORG HONEYCRISP APPLES         1.73 E
+     1.30 lb @ 1.33 /lb
+1434330 COCA-COLA 12 PACK CANS        2.77 A
+8016300 TPD/COCA-COLA 12             0.60- A
+781606 KS DRIED LENTILS               8.52 E
+     2 @ 4.26
+1311840 KS ORANGE JUICE               7.69 E
+33328 ITLN SAUSAGE BULK               9.93 E
+1079374 2% MILK HALF GALLON           6.08 E
+
+SUBTOTAL                              124.40
+TAX 10.55% ON 7.96                      0.84
+**** TOTAL                            125.24
+MASTERCARD TEND                       125.24
+CHANGE                                  0.00
+
+04/30/26 16:09  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

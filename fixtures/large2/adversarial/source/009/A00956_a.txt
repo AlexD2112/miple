@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1394  Seattle WA
+            MEMBER ************
+
+151715 GRND PORK                      6.60 E
+1324038 DIET COLA 12PK CANS           4.42 A
+970362 KS RDSHS                       3.36 E
+     3.20 lb @ 1.05 /lb
+318611 DAVES KILLER BREAD 21 WHOLE   19.12 E
+     4 @ 4.78
+125876 ORG ROMAINE HEARTS 3 CT       15.04 E
+     4 @ 3.76
+1905935 KS CHERRY TOM                 1.15 E
+4918328 TPD/CHERRY TOM               0.35-  
+1732202 STRAUS PLAIN GREEK YOGURT     1.74 E
+1584439 KS RANCH DRSSNG              15.96 E
+     4 @ 3.99
+211002 ALL PRPS FLOUR                11.36 E
+0133836 TPD/ALL PRPS FLO             1.48-  
+63856 KS QUINOA                       7.75 E
+
+SUBTOTAL                               84.67
+TAX 10.55% ON 4.42                      0.47
+**** TOTAL                             85.14
+MASTERCARD TEND                        85.14
+CHANGE                                  0.00
+
+10/03/26 11:52  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

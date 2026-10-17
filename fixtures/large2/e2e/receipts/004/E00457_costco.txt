@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1295  Seattle WA
+            MEMBER ************
+
+731655 COLD BREW COFFEE 32OZ          4.43 E
+127406 PAPER TOWELS 6 ROLL            3.75 A
+1873492 KS ROMA TOMATOES              2.38 E
+1796031 PARMIGIANO REGGIANO WEDGE     8.42 E
+1603587 STRWB 1 LB                    5.22 E
+763147 KS RCTT                        8.76 E
+382783 SRRCH                          6.32 E
+     2 @ 3.16
+407920 FRZN DUMPLINGS                15.61 E
+1057691 KS WHL CHKN                  39.44 E
+     6.23 lb @ 6.33 /lb
+0758396 TPD/WHL CHKN                 0.51-  
+31165 BOTTLED WTR 40 PK               4.90 E
+     2 @ 2.45
+280017 STRAUS PLAIN GREEK YOGURT      1.74 E
+1908605 TLLMK ICE CRM 48 OZ           8.88 E
+
+SUBTOTAL                              109.34
+TAX 10.55% ON 3.75                      0.40
+**** TOTAL                            109.74
+DISCOVER TEND                         109.74
+CHANGE                                  0.00
+
+12/31/26 18:19  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

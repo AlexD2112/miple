@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0583  Seattle WA
+            MEMBER ************
+
+11136 KS PORK TNDRLN                 29.72 E
+     3.08 lb @ 9.65 /lb
+524185 KS BABY CARROTS                2.49 E
+707636 KS KEFIR                       1.27 E
+1341362 COTTAGE CHS                   3.21 E
+917284 KS JLPN                        2.64 E
+     1.65 lb @ 1.60 /lb
+633139 ORG EGGS 24 CT                 7.83 E
+94302 KS CREMINI MSHRM                4.56 E
+     4 @ 1.14
+1704971 TPD/CREMINI MSHR             1.37-  
+1162204 BLACK FOREST HAM             17.57 E
+     1.24 lb @ 14.17 /lb
+5320827 TPD/BLACK FOREST             1.09-  
+808247 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+1069803 BNLS CHKN THIGHS              4.86 E
+     1.12 lb @ 4.34 /lb
+928791 LARGE BROWN CAGE FREE EGGS     4.10 E
+725339 CC-CL 12 PK CANS               5.54 A
+     2 @ 2.77
+594206 CARROTS                        1.79 E
+1075369 GRND BF 88/12                 4.92 E
+     0.82 lb @ 6.00 /lb
+582127 KS FRZN BROC                   6.88 E
+     4 @ 1.72
+473600 ICE CREAM                     14.51 E
+1078384 CREAM CHEESE 8 OZ             3.15 E
+4939111 TPD/CREAM CHEESE             0.95-  
+
+SUBTOTAL                              114.41
+TAX 10.55% ON 5.54                      0.58
+**** TOTAL                            114.99
+DISCOVER TEND                         114.99
+CHANGE                                  0.00
+
+02/11/26 15:25  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

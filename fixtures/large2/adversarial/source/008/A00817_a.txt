@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0394  Seattle WA
+            MEMBER ************
+
+276072 KS RASPB                       7.24 E
+1369250 JALAPENO                      1.73 E
+     1.08 lb @ 1.60 /lb
+281024 KS CAULIFLOWER                 7.67 E
+     2.04 lb @ 3.76 /lb
+8104570 TPD/CAULIFLOWER              0.41-  
+939432 KS CHERRY TOM                  1.15 E
+304217 BRLL PENNE                    19.37 E
+2099051 TPD/BRLL PENNE               0.43-  
+708679 KS ARGL                        4.00 E
+1087165 ORG BABY SPNCH                5.54 E
+1355854 BNLS CHKN THIGHS             25.52 E
+     5.88 lb @ 4.34 /lb
+1935194 ICEBERG LTTC                 15.33 E
+     3 @ 5.11
+1722670 CHICKEN GYOZA POTSTICKERS     9.88 E
+7055 REDUCED FAT 2% MLK GALLON        6.54 E
+1188517 COCA-COLA 12 PK CANS          2.77 A
+
+SUBTOTAL                              105.90
+TAX 10.55% ON 2.77                      0.29
+**** TOTAL                            106.19
+VISA TEND                             106.19
+CHANGE                                  0.00
+
+05/26/26 16:47  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

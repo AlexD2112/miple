@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0005
+
+SHREDDED MOZZ 8 OZ                2.92 F
+MANDARIN ORANGE CHKN             15.87 F
+KRO SAVINGS                      0.40-  
+STRWB                             4.35 F
+WHITE SANDWICH BRD                7.03 F
+JSMN RICE 5 LB                    1.49 F
+SMPL TRTH BAGELS                  3.77 F
+JENNIE-O GRND TRKY 1 LB           6.60 F
+SMPL TRTH BRIE                    4.85 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+  REFUND - ORIG RECEIPT
+RETURN JENNIE-O GRND TRKY 1 LB   6.60- F
+
+SUBTOTAL                           40.12
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              40.15
+CASH TEND                          60.00
+CHANGE                             19.85
+
+06/07/26 11:56  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

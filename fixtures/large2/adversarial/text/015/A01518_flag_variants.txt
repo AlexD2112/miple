@@ -1,0 +1,38 @@
+                 TARGET
+           Seattle WA  T-3190
+             (555) 030-1815
+
+BARILLA PENNE                    19.37 F
+  4 @ 5.11
+MKT PANTRY ICBRG LTTC            20.44 F
+GG TORTILLA CHIPS                 3.33 F
+  1.31 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                2.57 F
+GG PENNE                         13.38 F
+MKT PANTRY RICOTTA                8.76 F
+GG SHRP CHDR BLOCK               10.33 F
+WHITE BREAD                       6.34 F
+MKT PANTRY CILANTRO               1.16 F
+GG ARGL                           4.00 F
+  4 @ 5.24
+MKT PANTRY ROOT BEER 2L          20.96 N
+LG EGGS 18 CT                     7.52 F
+STRWB 2 LB                        5.88 F
+GG BRIE                           4.85 F
+BABY SPNCH 5 OZ                   3.77 F
+  1.64 lb @ 2.90 /lb
+GG BANANAS                        4.76 F
+  0.86 lb @ 13.18 /lb
+SLCD TRKY BRST                   11.33 F
+  3 @ 0.08
+BAG FEE                           0.24 N
+
+SUBTOTAL                          148.99
+TAX 10.55% ON 21.20                 2.24
+TOTAL                             151.23
+DEBIT TEND                        151.23
+CHANGE                              0.00
+
+02/27/26 17:58  ITEMS 23
+N=TAXABLE NON-FOOD  F=SNAP ELIGIBLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2256  Seattle WA
+            MEMBER ************
+
+752371 PINEAPPLE                      4.75 E
+     3.80 lb @ 1.25 /lb
+1599866 KS UNSLTD BTR                 9.95 E
+658667 FRZN THREE BERRY BLEND 4 LB    5.12 E
+     2 @ 2.56
+573991 KS ATLANTIC SLMN FLLT         19.77 E
+539388 DIGIORNO RISING CRUST PEPPERO  5.73 E
+1109367 LG BROWN CAGE FREE EGGS       4.10 E
+6287 KS BRTLTT PEARS                  3.00 E
+50953 KS HMBRGR BUNS                  2.77 E
+  REFUND - ORIG RECEIPT
+RETURN 6287 KS BRTLTT PEARS          3.00- E
+
+SUBTOTAL                               52.19
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             52.19
+VISA TEND                              52.19
+CHANGE                                  0.00
+
+03/20/26 17:02  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

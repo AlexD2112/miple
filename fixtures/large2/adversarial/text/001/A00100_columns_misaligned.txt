@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0472  Seattle WA
+            MEMBER ************
+
+374070 KS EXTRA FIRM TOFU             9.28 E
+     4 @ 2.32
+1953 CLFLWR                          11.09 E
+     2.95 lb @ 3.76 /lb
+380403 ORG BASIL CLAMSHELL            1.49 E     
+7580698 TPD/ORG BASIL CL             0.45-  
+651797 KS GINGER ALE 12PK             6.02 A
+1728427 ORG RASPB 6 OZ                6.28 E
+1744667 KS TORTILLA CHIPS            13.32 E
+     4 @ 3.33
+1484823 ORG LEMONS	3.88 E
+     1.37 lb @ 2.83 /lb
+3126905 TPD/ORG LEMONS               0.61-  
+  1337251 KS PARSNIPS                   3.38 E
+     1.39 lb @ 2.43 /lb
+1704909 CHICKEN BROTH 32 OZ           5.62 E
+     2 @ 2.81
+
+SUBTOTAL                               59.30
+  TAX 10.55% ON 6.02                      0.64
+**** TOTAL                             59.94
+AMEX TEND 59.94
+CHANGE                                  0.00
+
+07/17/26 19:38  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

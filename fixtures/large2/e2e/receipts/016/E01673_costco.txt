@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0961  Seattle WA
+            MEMBER ************
+
+1103007 ZIP TOP BAGS                 24.79 A
+308737 HASS AVOCADO LARGE             4.34 E
+     1.30 lb @ 3.34 /lb
+1055136 ORG BABY SPNCH 5 OZ           5.85 E
+1923294 TTHPST                       16.40 A
+2432513 TPD/TTHPST                   0.98- A
+1332830 KS CRL                        6.63 E
+9313097 TPD/CRL                      1.99-  
+910982 KS JALAPENO                    2.58 E
+     1.61 lb @ 1.60 /lb
+1272940 GENOA SALAMI                  4.76 E
+828273 ORG GALA APPLES                3.14 E
+     2 @ 1.57
+1225200 GRND COFFEE                   9.64 E
+1060340 HANDMADE STYLE CORN TORT     14.20 E
+     4 @ 3.55
+628195 BABY CARROTS                   2.49 E
+1057817 CARROTS 2 LB                  1.74 E
+1283268 TPD/CARROTS 2 LB             0.52-  
+716456 KS RUSSET POTS                 3.16 E
+     2.80 lb @ 1.13 /lb
+1450432 BIBIGO PORK MANDU DMPLNGS 6  10.32 E
+1777949 JENNIE-O GRND TRKY 1 LB       6.60 E
+1326225 KS GRND PORK                  6.60 E
+753238 KS FRZN BROC                   1.72 E
+
+SUBTOTAL                              121.47
+TAX 10.55% ON 40.21                     4.24
+**** TOTAL                            125.71
+AMEX TEND                             125.71
+CHANGE                                  0.00
+
+05/29/26 08:35  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

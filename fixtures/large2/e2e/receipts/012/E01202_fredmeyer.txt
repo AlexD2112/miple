@@ -1,0 +1,44 @@
+               FRED MEYER
+              Portland OR
+               Store 1099
+
+  2 @ 3.74
+SMPL TRTH SPRKLG WTR              7.48 F
+  2 @ 0.10
+OR BTL DEP                        0.20  
+KRO COCONUT MILK CAN              3.83 F
+SMPL TRTH GROUND PORK             6.60 F
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+SMPL TRTH BROC CROWNS             2.25 F
+KRO SAVINGS                      0.67-  
+SMPL TRTH ARUGULA                 4.00 F
+  3 @ 2.20
+LACROIX LIME SPARKLING WATER 8 P  6.60 F
+  24 @ 0.10
+OR BTL DEP                        2.40  
+KRO BRIE                          4.85 F
+  3.94 lb @ 17.07 /lb
+LAMB CHOPS                       67.26 F
+COLD BREW COFFEE 32OZ             4.43 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  2 @ 4.87
+CRSSNTS 12 CT                     9.74 F
+  2 @ 3.77
+BAGELS                            7.54 F
+JASMINE RICE 25 LB                8.09 F
+PAPER TOWELS 6 ROLL               3.75 F
+  3.50 lb @ 9.65 /lb
+SMPL TRTH PORK TENDERLOIN        33.78 F
+BLACK BEANS 15 OZ CAN            10.76 F
+JASMINE RICE 25 LB                8.09 F
+
+SUBTOTAL                          198.90
+TAX                                 0.00
+TOTAL                             198.90
+CASH TEND                         200.00
+CHANGE                              1.10
+
+01/31/26 20:22  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

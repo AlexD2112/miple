@@ -1,0 +1,35 @@
+               FRED MEYER
+              Portland OR
+               Store 0843
+
+STRAUS PLAIN GRK YGRT             1.74 F
+  4 @ 5.13
+SPRKLG WTR 8PK                   20.52 F
+  32 @ 0.10
+OR BTL DEP                        3.20  
+FM QUINOA                         7.75 F
+  2.07 lb @ 1.79 /lb
+BEETS                             3.71 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+KERRYGOLD BUTTER                 10.81 F
+KRO HAND SOAP                    24.27 F
+  2.69 lb @ 6.00 /lb
+GRND BF 88/12                    16.14 F
+DIGITAL CPN                      1.39-  
+KALE                              4.17 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+  3 @ 5.69
+CHERRIES                         17.07 F
+JASMINE RICE 25 LB                8.09 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                          136.44
+TAX                                 0.00
+TOTAL                             136.44
+DEBIT TEND                        136.44
+CHANGE                              0.00
+
+02/06/26 13:10  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

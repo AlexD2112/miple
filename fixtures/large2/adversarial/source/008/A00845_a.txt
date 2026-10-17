@@ -1,0 +1,38 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0437
+
+SMPL TRTH ARGL                    4.00 F
+  2 @ 3.98
+PRIV SEL ROLLED OATS              7.96 F
+KRO BATH TISSUE 12 ROLL          23.08 T
+DARIGOLD UNSALTED BUTTER          6.67 F
+WILD COD FILLET                  18.56 F
+KRO SAVINGS                      1.78-  
+KETCHUP                           5.49 F
+ICE CRM                          14.51 F
+  2 @ 5.73
+DIGIORNO RISING CRUST PEPPERONI  11.46 F
+FROZEN BROCCOLI                   1.72 F
+PNT BTR                           6.90 F
+PRIV SEL LG BROWN EGGS            4.29 F
+LG BROWN CAGE FREE EGGS           4.10 F
+LEMONS                            4.19 F
+MFR CPN                          1.26-  
+KRO PRMGN RGGN                    7.82 F
+BABY SPNCH 5 OZ                   3.77 F
+TOSTITOS SCOOPS TORTILLA CHIPS    3.46 F
+KRO PARMIGIANO REGGIANO           7.82 F
+MANDARIN ORANGE CHKN             15.87 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          148.87
+TAX 10.55% ON 23.32                 2.46
+TOTAL                             151.33
+VISA TEND                         151.33
+CHANGE                              0.00
+
+06/08/26 10:05  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

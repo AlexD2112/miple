@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0859  Seattle WA
+            MEMBER ************
+
+546064 BNNS                           2.00 E
+     0.69 lb @ 2.90 /lb
+785693 SHRDDD CHDR 8 OZ               6.42 E
+1492087 KS BNLS SKNLS CHKN BRST      38.67 E
+     5.78 lb @ 6.69 /lb
+
+SUBTOTAL                               47.09
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             47.09
+AMEX TEND                              47.09
+CHANGE                                  0.00
+
+07/22/2025 18:36  764 764 4010 08
+ITEMS 2   REG 19  TRANS 4589
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

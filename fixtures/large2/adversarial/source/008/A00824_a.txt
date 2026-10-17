@@ -1,0 +1,43 @@
+               FRED MEYER
+               Seattle WA
+               Store 2947
+
+SMPL TRTH LIMES                   2.80 F
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+STRAUS PLAIN GREEK YOGURT         1.74 F
+CLFLWR GNOCCHI                    7.85 F
+  1.68 lb @ 6.33 /lb
+WHL CHKN                         10.63 F
+DIGITAL CPN                      2.85-  
+REDUCED FAT 2% MLK GALLON         6.54 F
+DIGITAL CPN                      1.53-  
+FM SOURDOUGH LOAF                 7.47 F
+MFR CPN                          1.60-  
+  0.80 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                1.94 F
+MFR CPN                          0.58-  
+SMPL TRTH ROMA TOM                2.38 F
+KRO SAVINGS                      0.33-  
+TLLMK ICE CRM 48 OZ               8.88 F
+  4 @ 5.39
+VANILLA YOGURT CUPS              21.56 F
+  2 @ 2.02
+CLNTR BUNCH                       4.04 F
+SMPL TRTH MAYONNAISE              6.36 F
+  4 @ 2.61
+ORG SPROUTED TOFU                10.44 F
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+BABY CARROTS                      2.49 F
+  2 @ 3.98
+KRO ROLLED OATS                   7.96 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          105.15
+TAX 10.55% ON 0.08                  0.01
+TOTAL                             105.16
+DISCOVER TEND                     105.16
+CHANGE                              0.00
+
+03/29/26 08:08  ITEMS 25
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

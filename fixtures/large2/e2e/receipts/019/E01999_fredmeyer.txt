@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 1972
+
+CAT LITTER                       14.03 T
+BOTTLED WATER 24PK                9.32 F
+HONEYCRISP APPLES                 4.67 F
+ORG ITALIAN PARSLEY               1.95 F
+JASMINE RICE 25 LB                8.09 F
+  1.16 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                2.27 F
+SMPL TRTH FRZN MIXED BERRIES      2.06 F
+  3.43 lb @ 3.34 /lb
+HASS AVOCADO LG                  11.46 F
+RUSSET POTATOES 5 LB BAG          4.53 F
+MFR CPN                          1.36-  
+
+SUBTOTAL                           57.02
+TAX 10.55% ON 14.03                 1.48
+TOTAL                              58.50
+DISCOVER TEND                      58.50
+CHANGE                              0.00
+
+02/24/26 19:50  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1608
+
+  REFUND - ORIG RECEIPT
+RETURN TILLAMOOK VAN YGRT        4.05- F
+RETURN PRIV SEL POTATO CHIPS     5.07- F
+  REFUND - ORIG RECEIPT
+RETURN ORG SPRING MIX 1 LB      21.96- F
+RETURN KRO ATLNTC SLMN FLLT     19.77- F
+RETURN DOUBLE CREME BRIE         5.40- F
+RETURN ICE CRM                  14.51- F
+
+SUBTOTAL                          70.76-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             70.76-
+VISA TEND                         70.76-
+CHANGE                              0.00
+
+06/14/26 18:55  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

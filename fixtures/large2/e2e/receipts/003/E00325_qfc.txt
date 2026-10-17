@@ -1,0 +1,16 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2961
+
+UNSLTD BTR                        9.95 F
+KRO ORANGE JUICE 52OZ             9.39 F
+
+SUBTOTAL                           19.34
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              19.34
+VISA TEND                          19.34
+CHANGE                              0.00
+
+05/25/26 14:09  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

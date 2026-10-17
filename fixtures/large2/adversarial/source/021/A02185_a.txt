@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2543  San Francisco CA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1032483 KS BARTLETT PEARS     3.00- E
+RETURN 149777 LIMES                  2.80- E
+RETURN 1781853 KS KOMBUCHA 16OZ      4.58- E
+RETURN 1737016 ORANGE JUICE          7.69- E
+
+SUBTOTAL                              18.07-
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                            18.07-
+DEBIT TEND                            18.07-
+CHANGE                                  0.00
+
+09/03/26 10:59  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2050  Seattle WA
+            MEMBER ************
+
+1035161 KS BNNS                       6.26 E
+     2.16 lb @ 2.90 /lb
+785979 LEMON                          4.30 E
+749360 GREEN BEANS                    9.24 E
+     4 @ 2.31
+1015077 KS CILANTRO                   1.16 E
+273865 FRZN BROC FLRTS                8.13 E
+238561 KS MANGO                       2.14 E
+     2.82 lb @ 0.76 /lb
+341611 KS CELERY                      4.32 E
+1088892 KS DICED TOM CAN              2.98 E
+951612 KS YUKON GOLD POTS             3.99 E
+1933515 KS GALA APPLES                8.74 E
+     3.80 lb @ 2.30 /lb
+360752 KS GROUND TURKEY               5.19 E
+462264 ORG GALA APPLES                1.57 E
+686945 KS BRIE                        4.85 E
+1117967 BARILLA PENNE                19.37 E
+1777072 LARGE EGGS 18 CT              7.52 E
+1500044 KS GRANOLA BARS               6.07 E
+595558 ICEBERG LTTC                   5.11 E
+
+SUBTOTAL                              100.94
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            100.94
+VISA TEND                             100.94
+CHANGE                                  0.00
+
+02/20/26 10:05  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

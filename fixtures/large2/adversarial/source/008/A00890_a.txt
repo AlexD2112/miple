@@ -1,0 +1,37 @@
+               FRED MEYER
+               Seattle WA
+               Store 1056
+
+  2 @ 1.74
+STRAUS PLAIN GRK YGRT             3.48 F
+SPGHTT                            9.54 F
+MFR CPN                          1.61-  
+SMPL TRTH MANDARINS               2.72 F
+  3.74 lb @ 1.48 /lb
+RED ONIONS                        5.54 F
+  2 @ 4.00
+SMPL TRTH ARUGULA                 8.00 F
+  3 @ 5.44
+SPRING MIX                       16.32 F
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+PNT BTR                           6.90 F
+KRO PREPARED MAC & CHS           10.62 F
+KRO SAVINGS                      0.67-  
+  1.73 lb @ 6.00 /lb
+GRND BF 88/12                    10.38 F
+DIGITAL CPN                      2.60-  
+ORGANIC GALA APPLES               1.57 F
+KRO SAVINGS                      0.47-  
+FM PARMIGIANO REGGIANO            7.82 F
+DIGITAL CPN                      0.29-  
+BAG FEE                           0.08 T
+
+SUBTOTAL                           82.00
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              82.01
+MASTERCARD TEND                    82.01
+CHANGE                              0.00
+
+10/07/26 17:04  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

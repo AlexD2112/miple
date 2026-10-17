@@ -1,0 +1,20 @@
+                 TARGET
+        San Francisco CA  T-3109
+             (555) 030-4842
+
+  3 @ 4.19
+LEMONS                           12.57 N
+DELI FRIED CHKN                  11.75 T
+  4.79 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  36.60 N
+BAG FEE                           0.25  
+
+SUBTOTAL                           61.17
+TAX 8.625% ON 11.75                 1.01
+TOTAL                              62.18
+VISA TEND                          62.18
+CHANGE                              0.00
+
+08/07/26 10:07  ITEMS 5
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

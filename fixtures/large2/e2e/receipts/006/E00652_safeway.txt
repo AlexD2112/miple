@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 3446  Seattle WA
+             (555) 010-8385
+
+SIG SLCT HALIBUT                 10.82 S
+SIG SHAMPOO                      17.57 T
+FRESH MOZZ                        8.65 S
+LUCERNE UNSLTD BTR                9.95 S
+SW SRDGH LOAF                     7.47 S
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           54.62
+TAX 10.55% ON 17.73                 1.87
+**** TOTAL                         56.49
+DISCOVER TEND                      56.49
+CHANGE                              0.00
+
+02/28/27 20:37  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

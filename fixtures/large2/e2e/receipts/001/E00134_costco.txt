@@ -1,0 +1,25 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0454  Seattle WA
+            MEMBER ************
+
+788637 GROUND BEEF 80/20              6.57 E
+7257586 TPD/GROUND BEEF              1.97-  
+1837421 KS HAND SOAP                 24.27 A
+50413 HEINZ KETCHUP 32 OZ            17.92 E
+     4 @ 4.48
+1341906 TPD/HEINZ KETCHU             2.73-  
+582948 KS PEACHES                     1.92 E
+     2.83 lb @ 0.68 /lb
+162192 KS ORANGE JUICE 52OZ           9.39 E
+834461 KS BAGGED CAESAR SALAD KIT     2.21 E
+
+SUBTOTAL                               57.58
+TAX 10.55% ON 24.27                     2.56
+**** TOTAL                             60.14
+AMEX TEND                              60.14
+CHANGE                                  0.00
+
+07/29/26 13:30  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

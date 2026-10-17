@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 0517
+
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+BLACK BEANS CAN                   8.77 F
+KRO FRESH MOZZ                    8.65 F
+  2 @ 4.05
+SMPL TRTH AVCDS                   8.10 F
+
+SUBTOTAL                           42.95
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              42.95
+AMEX TEND                          42.95
+CHANGE                              0.00
+
+01/16/26 08:03  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

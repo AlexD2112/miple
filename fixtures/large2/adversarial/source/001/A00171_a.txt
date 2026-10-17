@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1184
+
+KRO PNT BTR                       6.90 F
+STRWB 2 LB                        5.88 F
+GRND COFFEE                       9.64 F
+ALL PRPS FLOUR                   11.36 F
+SMPL TRTH ROMA TOM                2.38 F
+ORG BASIL CLMSHLL                 1.49 F
+SMPL TRTH GOAT CHEESE             8.35 F
+KRO FRZN BROC                     1.72 F
+
+SUBTOTAL                           47.72
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              47.72
+DISCOVER TEND                      47.72
+CHANGE                              0.00
+
+07/19/26 21:41  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

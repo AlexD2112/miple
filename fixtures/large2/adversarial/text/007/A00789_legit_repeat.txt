@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0758  Seattle WA
+            MEMBER ************
+
+1140169 DAVES KILLER BRD 21 WHL GRAI  4.78 E
+114010 UNEXPECTED CHEDDAR            13.66 E
+     0.76 lb @ 17.98 /lb
+1212450 KS DELI FRIED CHKN           11.75 A
+407947 KS CHKN BROTH CARTON           8.38 E
+1233423 KS BEETS                      2.08 E
+     1.16 lb @ 1.79 /lb
+1233423 KS BEETS                      2.08 E
+     1.16 lb @ 1.79 /lb
+667074 KS GALA APPLES                 7.41 E
+     3.22 lb @ 2.30 /lb
+1083477 LG BROWN CAGE FREE EGGS       4.10 E
+1489995 ORANGE JUICE                  7.69 E
+
+SUBTOTAL                               61.93
+TAX 10.55% ON 11.75                     1.24
+**** TOTAL                             63.17
+DISCOVER TEND                          63.17
+CHANGE                                  0.00
+
+04/30/26 10:46  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

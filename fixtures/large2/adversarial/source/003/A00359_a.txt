@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2950  Portland OR
+            MEMBER ************
+
+260493 KS ROTIS CHKN                  5.04 E
+1564010 PENNE                        13.38 E
+1515350 SWISS CHARD                   2.87 E
+
+SUBTOTAL                               21.29
+TAX                                     0.00
+**** TOTAL                             21.29
+AMEX TEND                              21.29
+CHANGE                                  0.00
+
+09/15/26 17:03  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

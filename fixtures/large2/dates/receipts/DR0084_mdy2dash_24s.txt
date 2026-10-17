@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0654
+
+KRO WHOLE MILK HALF GALLON        6.79 F
+SLTD BTR 4 STICKS                 9.37 F
+DIGITAL CPN                      2.36-  
+SPRING MIX                        5.44 F
+RUSSET POTS 5 LB BAG              4.53 F
+KRO SAVINGS                      0.39-  
+PARMIGIANO REGGIANO               7.82 F
+SMPL TRTH BOTTLED WATER 24PK      9.32 F
+KRO DISH SOAP                    19.39 T
+
+SUBTOTAL                           59.91
+TAX 10.55% ON 19.39                 2.05
+TOTAL                              61.96
+MASTERCARD TEND                    61.96
+CHANGE                              0.00
+
+11-07-27 01:46:59  5716 09 548 5
+ITEMS 27   REG 20  TRANS 8142
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

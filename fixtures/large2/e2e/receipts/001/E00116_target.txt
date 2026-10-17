@@ -1,0 +1,21 @@
+                 TARGET
+           Seattle WA  T-1274
+             (555) 030-0122
+
+  2 @ 1.72
+GG FROZEN BROCCOLI                3.44 N
+GG BLUBRY                         5.87 N
+GG KOMBUCHA 16OZ                  4.58 N
+CREAM CHEESE 8 OZ                 3.15 N
+MKT PANTRY ROTISSERIE CHICKEN     5.04 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           22.16
+TAX 10.55% ON 5.12                  0.54
+TOTAL                              22.70
+DEBIT TEND                         22.70
+CHANGE                              0.00
+
+10/12/26 08:06  ITEMS 6
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 0984  Seattle WA
+             (555) 010-5508
+
+DOG TREATS                        6.82 T
+SW BAGELS                         3.77 S
+CHKN GYOZA PTSTCKRS               9.88 S
+
+SUBTOTAL                           20.47
+TAX 10.55% ON 6.82                  0.72
+**** TOTAL                         21.19
+VISA TEND                          21.19
+CHANGE                              0.00
+
+01/22/26 16:18  ITEMS 3
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

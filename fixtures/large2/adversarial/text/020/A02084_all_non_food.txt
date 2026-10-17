@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2727
+
+LNDRY DETERGENT PODS             20.18 T
+ALUMINUM FOIL                    18.03 T
+FLOWERS BOUQUET                  23.70 T
+MFR CPN                          2.22- T
+KRO GREETING CARD                20.34 T
+DIGITAL CPN                      1.21- T
+KRO HAND SOAP                    24.27 T
+KRO ZIP TOP BAGS                 24.79 T
+TOOTHPASTE                       16.40 T
+KRO SAVINGS                      1.01- T
+KRO TOOTHPASTE                   16.40 T
+
+SUBTOTAL                          159.67
+TAX 10.55% ON 159.67               16.85
+TOTAL                             176.52
+MASTERCARD TEND                   176.52
+CHANGE                              0.00
+
+07/28/26 18:00  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

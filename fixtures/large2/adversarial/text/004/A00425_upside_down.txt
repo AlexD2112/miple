@@ -1,0 +1,24 @@
+               THANK YOU
+T=TAXABLE  N=NONTAXABLE FOOD
+09/22/26 19:39  ITEMS 8
+
+CHANGE                              0.00
+DEBIT TEND                         29.85
+TOTAL                              29.85
+TAX 10.55% ON 0.16                  0.02
+SUBTOTAL                           29.83
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+GG SPRKLG WTR                     3.74 N
+CIRCLE DEAL                      2.79-  
+MKT PANTRY BLACKBERRIES          15.68 N
+  4 @ 3.92
+MAYONNAISE 30 OZ                  6.42 N
+MKT PANTRY ZUCCHINI               5.47 N
+  1.47 lb @ 3.72 /lb
+GG CHERRY TOM                     1.15 N
+
+             (555) 030-2981
+           Seattle WA  T-0684
+                 TARGET

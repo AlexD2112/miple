@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 0195
+
+UNSLTD BTR 4 X 1 LB               9.48 F
+CELERY                            4.32 F
+SMPL TRTH ROOT BEER 2L            5.24 T
+ICE CRM                          14.51 F
+  3 @ 4.30
+LEMON                            12.90 F
+  3 @ 1.74
+STRAUS PLAIN GRK YGRT             5.22 F
+  2 @ 2.98
+KRO DICED TOM CAN                 5.96 F
+  4 @ 3.54
+AVOCADOS BAG 4 CT                14.16 F
+SMPL TRTH SWEET POTS              3.28 F
+  3 @ 4.05
+TILLAMOOK VAN YGRT               12.15 F
+KRO PAPER TOWELS 6 ROLL           3.75 T
+  0.56 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             1.29 F
+KRO SAVINGS                      0.39-  
+SMPL TRTH GRND PORK               6.60 F
+FM PLUS CARD SAV                 1.09-  
+ORIGINAL HUMMUS 10 OZ             8.88 F
+  4.42 lb @ 7.64 /lb
+FOSTER FARMS BONELESS SKINLESS   33.77 F
+
+SUBTOTAL                          140.03
+TAX 10.55% ON 8.99                  0.95
+TOTAL                             140.98
+AMEX TEND                         140.98
+CHANGE                              0.00
+
+12/31/26 11:50  ITEMS 25
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

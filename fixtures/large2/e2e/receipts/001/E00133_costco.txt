@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3335  Seattle WA
+            MEMBER ************
+
+796430 KS SOURDOUGH LOAF              7.47 E
+941548 KS BANANAS                     9.28 E
+     3.20 lb @ 2.90 /lb
+537292 KS COD FILLET                 47.76 E
+     2.63 lb @ 18.16 /lb
+440164 BNLS PORK LOIN CHOPS          19.26 E
+     1.94 lb @ 9.93 /lb
+1017845 TPD/BNLS PORK LO             2.76-  
+1103607 FRZN BROC FLORETS             8.13 E
+1383045 TPD/FRZN BROC FL             2.44-  
+645546 KS BATH TISSUE 12 ROLL        23.08 A
+165099 LACROIX LIME SPRKLG WTR 8 PK   2.20 E
+1312334 GRND BF 80/20                 6.57 E
+7272339 TPD/GRND BF 80/2             1.97-  
+9332 FRESH MINT                       2.74 E
+1346140 STRAWBERRIES 1 LB             5.22 E
+1975317 KS GALA APPLES                6.60 E
+     2.87 lb @ 2.30 /lb
+213625 KS COLA 12PK                   1.83 A
+1067448 KS KOMBUCHA 16OZ              4.58 E
+3090475 TPD/KOMBUCHA 16O             1.32-  
+1270340 2% MLK HALF GALLON            6.08 E
+461920 TILLAMOOK MEDIUM CHDR 2.5 LB   4.21 E
+1152606 PEPSI 12 PK CANS              4.93 A
+303974 MAYONNAISE                     6.36 E
+1549721 KS KERRYGOLD BTR             10.81 E
+1874885 CABOT SHRP CHDR 8 OZ          8.48 E
+618273 KS RICOTTA                     8.76 E
+
+SUBTOTAL                              185.86
+TAX 10.55% ON 29.84                     3.15
+**** TOTAL                            189.01
+VISA TEND                             189.01
+CHANGE                                  0.00
+
+01/25/26 21:26  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

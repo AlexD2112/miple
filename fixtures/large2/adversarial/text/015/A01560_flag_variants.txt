@@ -1,0 +1,37 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1782  Seattle WA
+            MEMBER ************
+
+1103391 CHOBANI PLAIN GRK YGRT 32 OZ  1.47 F
+125333 CRSSNTS 12 CT                  4.87 F
+3320808 TPD/CRSSNTS 12 C             1.46-  
+373547 HEINZ KTCHP 32 OZ             13.44 F
+     3 @ 4.48
+435860 KS SALSA JAR                   2.09 F
+377419 KS BRUSSELS SPROUTS            8.25 F
+     3.54 lb @ 2.33 /lb
+540216 JENNIE-O GRND TRKY 1 LB        6.60 F
+1305261 KS CLNTR                      1.16 F
+1618491 MANDARIN ORANGE CHICKEN      15.87 F
+1999701 ORG GALA APPLES               3.14 F
+     2 @ 1.57
+2468308 TPD/ORG GALA APP             0.94-  
+729822 WHITE BREAD                    6.34 F
+374266 ORG GALA APPLES                1.57 F
+1275407 ORGANIC GRAPE TOMATOES PINT   4.68 F
+     2.39 lb @ 1.96 /lb
+1020199 ALMNM FOIL                   18.03 N
+1501857 BATH TISSUE 12 ROLL          23.08 N
+119170 FLOUR TORT                     6.18 F
+351534 KS VAN YGRT CUPS               5.39 F
+
+SUBTOTAL                              119.76
+TAX 10.55% ON 41.11                     4.34
+**** TOTAL                            124.10
+DEBIT TEND                            124.10
+CHANGE                                  0.00
+
+01/13/26 21:29  ITEMS 19
+N=TAXABLE NON-FOOD  F=SNAP ELIGIBLE FOOD
+                 THANK YOU

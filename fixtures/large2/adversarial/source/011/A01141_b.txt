@@ -1,0 +1,32 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2887
+
+  0.31 lb @ 2.90 /lb
+BANANAS                           0.90 F
+  1.12 lb @ 7.09 /lb
+TRKY BRST                         7.94 F
+BLACK FOREST HAM 9 OZ             7.00 F
+PRIV SEL MAYONNAISE               6.36 F
+KRO BTTLD WTR 24PK                9.32 F
+PRIV SEL CHKN THIGHS              9.29 F
+DIGITAL CPN                      1.99-  
+  1.49 lb @ 13.18 /lb
+SLCD TRKY BRST                   19.64 F
+SMPL TRTH GREEN BEANS             2.31 F
+KRO BLACK BEANS CAN               8.77 F
+KRO 2% MLK GALLON                 6.49 F
+AVOCADOS BAG 4 CT                 3.54 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+  3 @ 2.77
+COCA-COLA 12 PK CANS              8.31 T
+
+SUBTOTAL                           96.36
+TAX 10.55% ON 8.31                  0.88
+TOTAL                              97.24
+DEBIT TEND                         97.24
+CHANGE                              0.00
+
+04/10/26 07:42  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

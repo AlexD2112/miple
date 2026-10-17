@@ -1,0 +1,26 @@
+              TRADER JOE'S
+        Store #2841  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+ITALIAN SAUSAGE BULK              9.93  
+  2 @ 2.77
+HAMBURGER BUNS                    5.54  
+TJ'S ICEBERG LTTC                 5.11  
+  2 @ 1.95
+ORG ITALIAN PARSLEY               3.90  
+SILKEN TOFU                       2.29  
+EVERYTHING BUT THE BAGEL SEASONI  7.01  
+TJ'S ATLANTIC SALMON FILLET      19.77  
+KEFIR                             1.27  
+
+SUBTOTAL                           54.82
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              54.82
+CASH TEND                          60.00
+CHANGE                              5.18
+
+BUSINESS DATE 12/08/30
+12-09-30 01:30:54
+ITEMS 12   REG 18  TRANS 4439
+T=TAXABLE
+               THANK YOU

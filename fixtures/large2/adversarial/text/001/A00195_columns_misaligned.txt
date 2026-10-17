@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 3116  Seattle WA
+             (555) 010-0751
+
+LG BROWN EGGS                     4.29 S
+  2 @ 4.30
+LEMON	8.60 S
+CARROTS 2 LB                      1.74 S
+
+  SUBTOTAL                           14.63
+TAX 10.55% ON 0.00                    0.00
+**** TOTAL                         14.63
+MASTERCARD TEND                    14.63
+CHANGE	0.00
+
+07/31/26 14:36  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

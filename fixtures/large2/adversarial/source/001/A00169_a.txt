@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 0578
+
+  2.16 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             21.45 F
+KRO TRASH BAGS 40CT               6.49 T
+KRO ORANGE JUICE 52OZ             9.39 F
+ROMAINE LTTC                      2.79 F
+FM FRZN PEAS                     13.98 F
+SMPL TRTH ITALIAN SAUSAGE BULK    9.93 F
+MFR CPN                          0.63-  
+ROMA TOMATOES                     2.38 F
+FM SHRP CHDR BLOCK               10.33 F
+FM GRK YGRT PLAIN                 4.11 F
+PAPER TOWELS 6 ROLL               3.75 T
+
+SUBTOTAL                           83.97
+TAX 10.55% ON 10.24                 1.08
+TOTAL                              85.05
+MASTERCARD TEND                    85.05
+CHANGE                              0.00
+
+03/17/26 16:31  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

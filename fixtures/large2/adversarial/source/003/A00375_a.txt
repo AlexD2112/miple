@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 1758
+
+  2 @ 4.67
+SMPL TRTH HONEYCRISP APPLES       9.34 F
+SMPL TRTH GRK YGRT PLAIN          4.11 F
+  4.18 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  31.94 F
+DIGITAL CPN                      1.01-  
+KRO HAND SOAP                    24.27 T
+DIGITAL CPN                      1.05- T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           67.76
+TAX 10.55% ON 23.38                 2.47
+TOTAL                              70.23
+DISCOVER TEND                      70.23
+CHANGE                              0.00
+
+07/22/26 07:15  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

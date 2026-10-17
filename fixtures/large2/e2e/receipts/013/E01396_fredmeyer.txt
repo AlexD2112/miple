@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1159
+
+SMPL TRTH AVOCADOS                4.05 F
+SMPL TRTH RMN LTTC                2.79 F
+DIGITAL CPN                      0.84-  
+HANDMADE STYLE CORN TORT          3.55 F
+WILD COD FILLET                  18.56 F
+  4 @ 2.20
+LCRX LIME SPRKLG WTR 8 PK         8.80 F
+FM GROUND TURKEY                  5.19 F
+FM PLUS CARD SAV                 0.21-  
+SMPL TRTH BLACKBERRIES            3.92 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           45.89
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              45.90
+AMEX TEND                          45.90
+CHANGE                              0.00
+
+09/23/26 10:52  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

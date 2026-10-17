@@ -1,0 +1,18 @@
+                 TARGET
+        San Francisco CA  T-2805
+             (555) 030-8829
+
+GG POTATO CHIPS                   5.07 N
+ORG RASPB 6 OZ                    6.28 N
+PAPER TOWELS 6 ROLL               3.75 T
+GG GRK YGRT PLAIN                 4.11 N
+
+SUBTOTAL                           19.21
+TAX 8.625% ON 3.75                  0.32
+TOTAL                              19.53
+VISA TEND                          19.53
+CHANGE                              0.00
+
+04/27/26 12:44  ITEMS 4
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

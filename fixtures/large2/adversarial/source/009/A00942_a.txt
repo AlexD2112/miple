@@ -1,0 +1,21 @@
+              TRADER JOE'S
+        Store #2423  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+COTTAGE CHEESE                    3.21  
+RIBEYE STEAK                     19.87  
+HOUSE FOODS EXTRA FIRM TOFU       2.78  
+TJ'S GENOA SALAMI                 4.76  
+TJ'S MAYONNAISE                   6.36  
+JASMINE RICE                     12.13  
+JASMINE RICE 25 LB                8.09  
+
+SUBTOTAL                           57.20
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              57.20
+VISA TEND                          57.20
+CHANGE                              0.00
+
+01/04/26 13:00  ITEMS 7
+T=TAXABLE
+               THANK YOU

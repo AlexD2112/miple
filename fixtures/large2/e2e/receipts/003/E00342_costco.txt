@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2595  Seattle WA
+            MEMBER ************
+
+920738 CABOT SHRP CHDR 8 OZ           8.48 E
+1057306 DOUBLE CREME BRIE             5.40 E
+1100881 LEMON                         4.30 E
+
+SUBTOTAL                               18.18
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             18.18
+DISCOVER TEND                          18.18
+CHANGE                                  0.00
+
+03/18/26 09:30  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

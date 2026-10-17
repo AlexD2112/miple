@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #3722  San Francisco CA
+            MEMBER ************
+TAX EXEMPT ID ******6039
+
+699055 FRZN THREE BERRY BLEND 4 LB    5.12 E
+     2 @ 2.56
+800279 PNT BTR                        6.90 E
+1570338 LAUNDRY DETERGENT PODS       20.18 A
+957404 FLOUR TORT 10 CT               9.40 E
+     4 @ 2.35
+419454 KS RED GRAPES                  3.04 E
+901295 KS YUKON GOLD POTS             3.99 E
+1264027 KS BAGELS                    11.31 E
+     3 @ 3.77
+291301 KS BEETS                       4.62 E
+     2.58 lb @ 1.79 /lb
+
+SUBTOTAL                               64.56
+TAX EXEMPT                              0.00
+**** TOTAL                             64.56
+VISA TEND                              64.56
+CHANGE                                  0.00
+
+03/31/26 13:44  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 2984
+
+SMPL TRTH BABY SPNCH              5.42 F
+KRO SAVINGS                      1.63-  
+  2 @ 3.55
+HNDMD STYLE CORN TORT             7.10 F
+SMPL TRTH SWEET POTATOES          3.28 F
+
+SUBTOTAL                           14.17
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              14.17
+MASTERCARD TEND                    14.17
+CHANGE                              0.00
+
+05/03/26 20:03  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+----------------------------------------
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-3753
+
+GOAT CHS                          8.35 F
+CHBN PLAIN GRK YGRT 32 OZ         1.47 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+  2.14 lb @ 3.34 /lb
+HASS AVOCADO LG                   7.15 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           34.48
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              34.49
+VISA TEND                          34.49
+CHANGE                              0.00
+
+09/08/26 12:33  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 2825
+
+KRO SPGHTT                        9.54 F
+KRO DOG TREATS                    6.82 T
+WHITE SNDWCH BRD                  7.03 F
+CORN TORT                         2.79 F
+FM PLUS CARD SAV                 0.84-  
+STRWB 2 LB                        5.88 F
+JASMINE RICE 25 LB                8.09 F
+FM PLUS CARD SAV                 1.94-  
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+  5.78 lb @ 6.69 /lb
+KRO BNLS SKNLS CHKN BRST         38.67 F
+NAPKINS                          24.05 T
+KRO CHKN THIGHS                   9.29 F
+
+SUBTOTAL                          112.16
+TAX 10.55% ON 30.87                 3.26
+TOTAL                             115.42
+CASH TEND                         120.00
+CHANGE                              4.58
+
+05/13/26 13:41  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

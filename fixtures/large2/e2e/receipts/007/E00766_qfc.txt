@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1406
+
+FRESH MINT                        2.74 F
+ORG BASIL CLAMSHELL               1.49 F
+KRO SAVINGS                      0.45-  
+ARUGULA                           4.00 F
+KRO GRTNG CARD                   20.34 T
+KRO DAVES KILLER BRD              6.69 F
+SMPL TRTH HALF & HALF             5.34 F
+ROMA TOM                          2.38 F
+
+SUBTOTAL                           42.53
+TAX 10.55% ON 20.34                 2.15
+TOTAL                              44.68
+DEBIT TEND                         44.68
+CHANGE                              0.00
+
+01/04/26 09:15  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

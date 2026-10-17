@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 1504
+
+  3 @ 5.88
+STRWB 2 LB                       17.64 F
+ORG BABY SPNCH                    5.54 F
+FM GRND BF 80/20                  6.57 F
+KRO SAVINGS                      1.26-  
+SMPL TRTH COTTAGE CHS             3.21 F
+  3 @ 5.79
+FM LEMONADE 52OZ                 17.37 T
+BARILLA PENNE                    19.37 F
+SMPL TRTH BLUBRY                  5.87 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+ORG ITLN PARSLEY                  1.95 F
+KRO PARMIGIANO REGGIANO           7.82 F
+SMPL TRTH FRESH DILL              0.90 F
+SMPL TRTH SWEET POTS              3.28 F
+
+SUBTOTAL                          105.69
+TAX 10.55% ON 17.37                 1.83
+TOTAL                             107.52
+MASTERCARD TEND                   107.52
+CHANGE                              0.00
+
+07/23/26 09:17  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

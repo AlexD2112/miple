@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 1140
+
+HUY FONG SRRCH                    2.55 F
+MFR CPN                          0.22-  
+ASPRGS                            2.93 F
+CHKN GYOZA PTSTCKRS               9.88 F
+KRO SAVINGS                      1.46-  
+ORG BLACK BEANS 8 CANS            1.15 F
+BARILLA PENNE                    19.37 F
+DIGITAL CPN                      1.05-  
+PNT BTR                           6.90 F
+  3.17 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 9.19 F
+DIGITAL CPN                      0.69-  
+CRM CHS 8 OZ                      3.15 F
+  1.32 lb @ 14.17 /lb
+SMPL TRTH BLACK FOREST HAM       18.70 F
+KRO SPONGES 3PK                   9.54 T
+  3.30 lb @ 6.69 /lb
+BNLS SKNLS CHKN BRST             22.08 F
+JNN- GRND TRKY 1 LB               6.60 F
+DIGITAL CPN                      1.23-  
+2% MLK 2 X 1 GAL                  4.70 F
+KRO CHICKEN DRUMSTICKS            8.97 F
+
+SUBTOTAL                          121.06
+TAX 10.55% ON 9.54                  1.01
+TOTAL                             122.07
+CASH TEND                         140.00
+CHANGE                             17.93
+
+05/22/26 08:05  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,37 @@
+                SAFEWAY
+      Store 1349  San Francisco CA
+             (555) 010-3475
+
+SIG SLCT PREPARED MAC & CHS      10.62 S
+CLUB CARD SAVINGS                0.29-  
+HALF AND HALF                     5.34 S
+SIG SLCT CRL                      6.63 S
+ASPRGS                            2.93 S
+  2 @ 4.87
+CROISSANTS 12 CT                  9.74 S
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+LUCERNE HALF & HALF               5.34 S
+LUCERNE TLLMK MEDIUM CHDR        11.77 S
+SIG GREETING CARD                20.34 T
+  3 @ 2.09
+SALSA JAR                         6.27 S
+AVOCADOS BAG 4 CT                 3.54 S
+SW ORANGE JUICE                   7.69 S
+  1 @ 0.05
+CA CRV                            0.05  
+O ORGANICS BLACKBERRIES           3.92 S
+SOURDOUGH LOAF                    7.47 S
+SW PEANUT BUTTER                  6.90 S
+J4U DIGITAL CPN                  0.20-  
+DRGLD UNSLTD BTR                  6.67 S
+BAG FEE                           0.25  
+
+SUBTOTAL                          123.81
+TAX 8.625% ON 29.17                 2.52
+**** TOTAL                        126.33
+MASTERCARD TEND                   126.33
+CHANGE                              0.00
+
+07/02/26 16:22  ITEMS 19
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

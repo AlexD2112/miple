@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0471  Portland OR
+            MEMBER ************
+
+791792 ORGANIC BLACK BEANS 8 CANS     1.15 E
+1310009 ORG EGGS 24 CT                7.83 E
+1998413 CLFLWR                        3.08 E
+     0.82 lb @ 3.76 /lb
+993181 KS KIWI                        2.72 E
+     1.31 lb @ 2.08 /lb
+66198 TILLAMOOK ICE CRM 48 OZ         8.88 E
+260428 ATLNTC SLMN FLLT              19.77 E
+1994330 ALL PRPS FLOUR               11.36 E
+1354141 KS PARMIGIANO REGGIANO        7.82 E
+1139056 GREEN ONIN BUNCH              5.18 E
+     2 @ 2.59
+1412025 ORG SPROUTED TOFU             5.22 E
+     2 @ 2.61
+7440808 TPD/ORG SPROUTED             0.59-  
+
+SUBTOTAL                               72.42
+TAX                                     0.00
+**** TOTAL                             72.42
+AMEX TEND                              72.42
+CHANGE                                  0.00
+
+09/20/2028 23:01  368 368 7713 40
+ITEMS 5   REG 04  TRANS 2847
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

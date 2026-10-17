@@ -1,0 +1,18 @@
+                SAFEWAY
+         Store 1733  Seattle WA
+             (555) 010-0017
+
+ICEBERG LETTUCE                   5.11 S
+BROCCOLI CROWNS                   2.25 S
+
+SUBTOTAL                            7.36
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                          7.36
+DISCOVER TEND                       7.36
+CHANGE                              0.00
+
+BUSINESS DATE 11/17/29
+11/18/2029 12:48:25 AM  852 35 8817 6422
+ITEMS 1   REG 02  TRANS 5715
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

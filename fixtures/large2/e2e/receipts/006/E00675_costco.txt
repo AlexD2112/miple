@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3387  Seattle WA
+            MEMBER ************
+
+757105 DISH SOAP                     19.39 A
+993142 KS FLOUR TORTILLAS             6.18 E
+975386 KS GRND BF 80/20               6.57 E
+1766256 PSTR RAISED EGGS              7.37 E
+1908549 BNLS RIBEYE STEAK            55.70 E
+     3.58 lb @ 15.56 /lb
+550305 KS GALA APPLES                 2.32 E
+     1.01 lb @ 2.30 /lb
+1568084 BLACK FOREST HAM 9 OZ         7.00 E
+1716813 GRASS-FED GROUND BEEF 85/15   7.35 E
+1866714 SWISS CHARD                   2.87 E
+556774 KS HNYCRSP APPLES             14.01 E
+     3 @ 4.67
+927543 KS ORANGE JUICE                7.69 E
+375837 STRAUS PLAIN GRK YGRT          3.48 E
+     2 @ 1.74
+
+SUBTOTAL                              139.93
+TAX 10.55% ON 19.39                     2.05
+**** TOTAL                            141.98
+DEBIT TEND                            141.98
+CHANGE                                  0.00
+
+02/26/26 16:54  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

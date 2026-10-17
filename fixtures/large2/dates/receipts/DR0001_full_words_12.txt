@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 0844
+
+DICED TOMATOES 14.5 OZ            1.00 F
+  2.73 lb @ 13.74 /lb
+FM CHUCK ROAST                   37.51 F
+CROISSANTS 12 CT                  4.87 F
+KRO BRIE                          4.85 F
+BTR LTTC                          2.45 F
+  3.85 lb @ 2.83 /lb
+ORG LEMONS                       10.90 F
+ORGANIC RASPBERRIES 6 OZ          6.28 F
+KRO LIGHT BULBS 4PK              17.04 F
+  0.72 lb @ 9.25 /lb
+SWISS CHS                         6.66 F
+  2.31 lb @ 6.69 /lb
+FM BONELESS SKINLESS CHICKEN BR  15.45 F
+
+SUBTOTAL                          107.01
+TAX                                 0.00
+TOTAL                             107.01
+VISA TEND                         107.01
+CHANGE                              0.00
+
+Friday, August 25, 2028 8:21 AM  9203 33 627 8
+ITEMS 22   REG 17  TRANS 5200
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

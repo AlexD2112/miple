@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0505  Seattle WA
+            MEMBER ************
+
+1299675 GROUND BEEF 80/20             6.57 E
+1471076 TRASH BAGS 40CT               6.49 A
+65039 KS HAND SOAP                   24.27 A
+898263 KS BABY CARROTS                2.49 E
+1636470 HUY FONG SRIRACHA             2.55 E
+792559 HASS AVOCADO LG                3.61 E
+     1.08 lb @ 3.34 /lb
+1342911 DELI SLCD TRKY BRST          11.54 E
+     1.05 lb @ 10.99 /lb
+187758 REDUCED FAT 2% MLK GALLON      6.54 E
+1692678 KS SALSA JAR                  6.27 E
+     3 @ 2.09
+47252 PEPSI 12 PK CANS                4.93 A
+4303572 TPD/PEPSI 12 PK              1.48- A
+1115421 AVOCADOS BAG 4 CT            14.16 E
+     4 @ 3.54
+1852304 KS BRIE                       4.85 E
+525875 KS HMBRGR BUNS                 2.77 E
+
+SUBTOTAL                               95.56
+TAX 10.55% ON 34.21                     3.61
+**** TOTAL                             99.17
+DISCOVER TEND                          99.17
+CHANGE                                  0.00
+
+12/31/26 15:40  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

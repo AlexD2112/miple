@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 3975
+
+  REFUND - ORIG RECEIPT
+RETURN OLD FASHIONED ROLLED OA  17.43- F
+  REFUND - ORIG RECEIPT
+RETURN TSTTS SCOOPS TORTILLA CH  3.46- F
+  REFUND - ORIG RECEIPT
+RETURN CABOT SHRP CHDR 8 OZ      8.48- F
+RETURN HASS AVOCADO LG           7.05- F
+RETURN ORG RASPB 6 OZ            6.28- F
+
+SUBTOTAL                          42.70-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             42.70-
+DISCOVER TEND                     42.70-
+CHANGE                              0.00
+
+08/01/26 20:21  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

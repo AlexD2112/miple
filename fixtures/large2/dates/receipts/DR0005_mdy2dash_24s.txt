@@ -1,0 +1,24 @@
+                 TARGET
+           Seattle WA  T-1429
+             (555) 030-8075
+
+BOTTLED WTR 24PK                  9.32 N
+DICED TOM 14.5 OZ                 1.00 N
+GG CAGE FREE EGGS 18CT            6.85 N
+  0.79 lb @ 3.34 /lb
+HASS AVOCADO LARGE                2.64 N
+TILAPIA FILLETS                  21.66 N
+CIRCLE DEAL                      1.95-  
+JASMINE RICE 25 LB                8.09 N
+LG EGGS 12 CT                     8.69 N
+
+SUBTOTAL                           56.30
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              56.30
+DEBIT TEND                         56.30
+CHANGE                              0.00
+
+01-24-26 00:05:20
+ITEMS 30   REG 18  TRANS 4792
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

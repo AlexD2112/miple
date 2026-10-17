@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0441  Seattle WA
+            MEMBER ************
+
+557739 WHL MLK HALF GALLON            6.79 E
+926119 BLACK BEANS 15 OZ CAN         10.76 E
+162738 SLCD ROAST BF                  5.94 E
+1961688 KS BRSSLS SPROUTS             3.87 E
+     1.66 lb @ 2.33 /lb
+1194113 DOG TREATS                    6.82 A
+87035 KS BEETS                        4.69 E
+     2.62 lb @ 1.79 /lb
+315138 REDUCED FAT 2% MLK GALLON      6.54 E
+792057 HEINZ KETCHUP 32 OZ            4.48 E
+680352 PENNE 16 OZ                    3.51 E
+1290069 KS WHOLE MILK HALF GALLON     6.79 E
+39151 KS HONEYCRISP APPLES            4.67 E
+1657695 BLUBRY 18 OZ                  4.61 E
+
+SUBTOTAL                               69.47
+TAX 10.55% ON 6.82                      0.72
+**** TOTAL                             70.19
+MASTERCARD TEND                        70.19
+CHANGE                                  0.00
+
+06/30/26 18:32  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

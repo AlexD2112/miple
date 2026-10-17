@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3058  Seattle WA
+            MEMBER ************
+
+107063 KALE                           8.34 F
+     2 @ 4.17
+1384699 KS ROTIS CHKN                 5.04 N
+1012058 KS CILANTRO                   2.32 F
+     2 @ 1.16
+
+SUBTOTAL                               15.70
+TAX 10.55% ON 5.04                      0.53
+**** TOTAL                             16.23
+MASTERCARD TEND                        16.23
+CHANGE                                  0.00
+
+06/01/26 17:51  ITEMS 5
+N=TAXABLE NON-FOOD  F=SNAP ELIGIBLE FOOD
+                 THANK YOU

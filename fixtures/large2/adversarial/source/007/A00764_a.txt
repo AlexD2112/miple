@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 2228
+
+  3.89 lb @ 1.48 /lb
+RED ONIN                          5.76 F
+FM CRM CHS                        8.63 F
+  2 @ 3.77
+BABY SPINACH 5 OZ                 7.54 F
+ORANGE JUICE 52OZ                 9.39 F
+KRO TILAPIA FILLETS              21.66 F
+KRO TILAPIA FILLETS              21.66 F
+GRND COFFEE                       9.64 F
+LG EGGS 12 CT                     8.69 F
+CHBN PLAIN GRK YGRT 32 OZ         1.47 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           94.68
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              94.71
+AMEX TEND                          94.71
+CHANGE                              0.00
+
+10/12/26 21:09  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

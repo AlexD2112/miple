@@ -1,0 +1,21 @@
+                 TARGET
+           Seattle WA  T-0426
+             (555) 030-8286
+
+  REFUND - ORIG RECEIPT
+RETURN BLACK FOREST HAM 9 OZ     7.00- N
+RETURN GG BARTLETT PEARS         3.00- N
+RETURN PAPER TOWELS 6 ROLL       3.75- T
+RETURN JSMN RICE 5 LB            1.49- N
+RETURN FLOWERS BOUQUET          23.70- T
+RETURN AA BATTERIES 8PK         24.36- T
+
+SUBTOTAL                          63.30-
+TAX 10.55% ON 51.81-               5.47-
+TOTAL                             68.77-
+VISA TEND                         68.77-
+CHANGE                              0.00
+
+08/05/26 13:37  ITEMS 0
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

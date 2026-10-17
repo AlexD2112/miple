@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3827  Seattle WA
+            MEMBER ************
+
+1339403 NAVEL ORNGS                   1.01 E
+1646167 KS OAT MLK                    3.10 E
+8047567 TPD/OAT MLK                  0.93-  
+398236 KS LAMB CHOPS                 59.75 E
+     3.50 lb @ 17.07 /lb
+1512468 KS GRND TRKY                  5.19 E
+8285884 TPD/GRND TRKY                1.56-  
+605571 ORG BLACK BEANS 8 CANS         4.60 E
+     4 @ 1.15
+1132564 KS COLA 12PK CANS             1.51 A
+6569090 TPD/COLA 12PK CA             0.41- A
+985378 MISSION FLOUR TORT 40 CT      15.66 E
+     3 @ 5.22
+1593404 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+1346289 KS ALL PURPOSE FLOUR         11.36 E
+985265 BAGGED CAESAR SALAD KIT        2.21 E
+2855910 TPD/BAGGED CAESA             0.66-  
+486197 KS APPLE JUICE 64OZ            7.25 E
+548908 JALAPENO                       2.08 E
+     1.30 lb @ 1.60 /lb
+1241249 KS KETCHUP                    5.49 E
+3254160 TPD/KETCHUP                  1.65-  
+1329605 BABY SPNCH                    5.42 E
+310868 JALAPENO                       3.81 E
+     2.38 lb @ 1.60 /lb
+1288264 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+8962222 TPD/HOUSE FOODS              0.83-  
+1082466 RASPB                         7.24 E
+
+SUBTOTAL                              135.20
+TAX 10.55% ON 1.10                      0.12
+**** TOTAL                            135.32
+VISA TEND                             135.32
+CHANGE                                  0.00
+
+09/24/26 09:09  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

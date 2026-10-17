@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0491
+
+SMPL TRTH GROUND TURKEY           5.19 F
+NAPKINS                          24.05 T
+KRO SLTD BTR                      5.73 F
+FROZEN PIZZA                     13.30 F
+  0.43 lb @ 13.18 /lb
+KRO SLICED TURKEY BREAST          5.67 F
+SMPL TRTH YUKON GOLD POTS         3.99 F
+SHRDDD MOZZ 8 OZ                  2.92 F
+CILANTRO BUNCH                    2.02 F
+
+SUBTOTAL                           62.87
+TAX 10.55% ON 24.05                 2.54
+TOTAL                              65.41
+CASH TEND                          80.00
+CHANGE                             14.59
+
+10/04/26 15:49  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

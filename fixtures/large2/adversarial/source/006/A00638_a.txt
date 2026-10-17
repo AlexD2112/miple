@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 0582
+
+KRO VAN YGRT CUPS                 5.39 F
+ORG EGGS 24 CT                    7.83 F
+JASMINE RICE 5 LB                 1.49 F
+  4 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU      11.12 F
+  2 @ 5.22
+MSSN FLOUR TORT 40 CT            10.44 F
+
+SUBTOTAL                           36.27
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              36.27
+MASTERCARD TEND                    36.27
+CHANGE                              0.00
+
+07/21/26 13:57  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

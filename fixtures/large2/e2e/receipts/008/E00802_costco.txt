@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2389  Seattle WA
+            MEMBER ************
+
+626127 ORGANIC TOMATO BASIL MARINARA  5.94 E
+1950657 GRND BF 88/12                22.74 E
+     3.79 lb @ 6.00 /lb
+5822409 TPD/GRND BF 88/1             2.11-  
+1526841 KS RIBEYE STEAK              19.87 E
+561726 KS GREETING CARD              20.34 A
+1960696 ORG TOMATO BASIL MARINARA     5.94 E
+1271656 SHREDDED MOZZARELLA 8 OZ      2.92 E
+
+SUBTOTAL                               75.64
+TAX 10.55% ON 20.34                     2.15
+**** TOTAL                             77.79
+MASTERCARD TEND                        77.79
+CHANGE                                  0.00
+
+02/28/28 09:50  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

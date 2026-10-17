@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3000  Seattle WA
+            MEMBER ************
+
+541952 KS PARMIGIANO REGGIANO         7.82 E
+8674997 TPD/PARMIGIANO R             2.35-  
+1850637 FROZEN PIZZA                 13.30 E
+957641 KS DICED TOM CAN               2.98 E
+421868 POTATO CHIPS                   5.07 E
+490078 ORG LEMONS                     2.63 E
+     0.93 lb @ 2.83 /lb
+194367 GRND CHKN                     17.51 E
+     3.46 lb @ 5.06 /lb
+1423968 COLA 12PK                     1.83 A
+1433944 KS FRZN WFFLS                 7.05 E
+1125861 KS CHKN DRUMSTICKS            8.97 E
+327583 SHRDDD MOZZ 8 OZ               2.92 E
+7919221 TPD/SHRDDD MOZZ              0.88-  
+1648153 BABY SPINACH                  5.42 E
+1294889 FROZEN BROCCOLI               5.16 E
+     3 @ 1.72
+
+SUBTOTAL                               77.43
+TAX 10.55% ON 1.83                      0.19
+**** TOTAL                             77.62
+MASTERCARD TEND                        77.62
+CHANGE                                  0.00
+
+03/19/26 18:38  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

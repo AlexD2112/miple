@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 1103
+
+  2 @ 1.00
+DICED TOMATOES 14.5 OZ            2.00 F
+SMPL TRTH SHARP CHEDDAR BLOCK    10.33 F
+  2 @ 4.30
+LEMON                             8.60 F
+PASTURE RAISED EGGS               7.37 F
+MFR CPN                          0.64-  
+  1.04 lb @ 2.43 /lb
+PARSNIPS                          2.53 F
+SHRDDD CHDR 8 OZ                  6.42 F
+DIGITAL CPN                      1.46-  
+DARIGOLD UNSLTD BTR               6.67 F
+DIGITAL CPN                      0.56-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           41.42
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              41.44
+DEBIT TEND                         41.44
+CHANGE                              0.00
+
+01/05/26 11:25  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

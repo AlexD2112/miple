@@ -1,0 +1,39 @@
+               FRED MEYER
+              Portland OR
+               Store 1014
+
+  2 @ 3.33
+SMPL TRTH TORTILLA CHIPS          6.66 F
+  3.49 lb @ 3.34 /lb
+HASS AVCD LG                     11.66 F
+SMPL TRTH ASPARAGUS               2.93 F
+KRO SILKEN TOFU                   2.29 F
+BLUEBERRIES 18 OZ                 4.61 F
+JASMINE RICE 5 LB                 1.49 F
+GRK YGRT 48 OZ                    1.97 F
+  1.80 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  13.75 F
+KRO SAVINGS                      1.09-  
+FM LEMONADE 52OZ                  5.79 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+SHREDDED MOZZARELLA 8 OZ          2.92 F
+KRO GRND TRKY                     5.19 F
+MFR CPN                          0.97-  
+  1.56 lb @ 1.13 /lb
+RUSSET POTS                       1.76 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 F
+SMPL TRTH BABY SPNCH              5.42 F
+MFR CPN                          1.63-  
+  3 @ 3.77
+KRO BAGELS                       11.31 F
+
+SUBTOTAL                           82.99
+TAX                                 0.00
+TOTAL                              82.99
+CASH TEND                         100.00
+CHANGE                             17.01
+
+07/03/26 13:41  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

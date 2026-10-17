@@ -1,0 +1,20 @@
+               FRED MEYER
+              Portland OR
+               Store 3180
+
+FRZN PEAS 12 OZ                   5.40 F
+SMPL TRTH ALMOND MLK              5.08 F
+  4 @ 4.17
+SMPL TRTH KALE                   16.68 F
+LG EGGS 18 CT                     7.52 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           34.73
+TAX                                 0.00
+TOTAL                              34.73
+CASH TEND                          40.00
+CHANGE                              5.27
+
+02/11/26 15:16  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

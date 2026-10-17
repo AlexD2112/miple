@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 0654
+
+MANDARIN ORANGE CHKN             15.87 F
+  2.79 lb @ 3.50 /lb
+SMPL TRTH ENGLSH CCMBR            9.77 F
+
+SUBTOTAL                           25.64
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              25.64
+DEBIT TEND                         25.64
+CHANGE                              0.00
+
+06/25/26 10:59  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

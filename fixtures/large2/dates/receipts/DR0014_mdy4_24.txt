@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1405
+
+  3.41 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               12.69 F
+KRO SAVINGS                      2.56-  
+JASMINE RICE 25 LB                8.09 F
+  4 @ 3.54
+AVOCADOS BAG 4 CT                14.16 F
+BABY SPNCH 5 OZ                   3.77 F
+KRO SRIRACHA                      3.16 F
+SMPL TRTH TILAPIA FILLETS        21.66 F
+MFR CPN                          1.02-  
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           60.19
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              60.22
+DEBIT TEND                         60.22
+CHANGE                              0.00
+
+07/02/2030 09:33  2426 40 292 4
+ITEMS 27   REG 05  TRANS 6050
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

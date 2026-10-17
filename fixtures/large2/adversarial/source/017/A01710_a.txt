@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3481  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******6362
+
+1181213 WHL CHKN                     27.66 E
+     4.37 lb @ 6.33 /lb
+1380414 KS RICOTTA                    8.76 E
+7058710 TPD/RICOTTA                  2.37-  
+781123 WILD COD FLLT                 18.56 E
+606380 AA BATTERIES 8PK              24.36 A
+1382279 LEMON                         8.60 E
+     2 @ 4.30
+1772915 LARGE BROWN EGGS              4.29 E
+1351065 KS WHL MLK HALF GALLON        6.79 E
+617861 LIMES                          2.80 E
+45724 KS ROLLED OATS                  3.98 E
+0071181 TPD/ROLLED OATS              1.19-  
+493030 ORG RASPB 6 OZ                 6.28 E
+0540614 TPD/ORG RASPB 6              0.26-  
+147096 KS FRZN PIZZA                 13.30 E
+224335 ORG TOMATO BASIL MARINARA      5.94 E
+1845185 KS BLACKBERRIES              11.76 E
+     3 @ 3.92
+64502 ORG LEMONS                      1.10 E
+     0.39 lb @ 2.83 /lb
+889488 KS GRND BF 80/20               6.57 E
+
+SUBTOTAL                              146.93
+TAX EXEMPT                              0.00
+**** TOTAL                            146.93
+DEBIT TEND                            146.93
+CHANGE                                  0.00
+
+09/18/26 10:37  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

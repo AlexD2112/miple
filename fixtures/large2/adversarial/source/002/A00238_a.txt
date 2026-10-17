@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0997  Seattle WA
+            MEMBER ************
+
+728729 CTTG CHS                       3.21 E
+1078217 KS PREPARED MAC & CHS        10.62 E
+1862238 KS COCONUT MLK CAN            3.83 E
+1117796 DRGLD UNSLTD BTR              6.67 E
+76115 KS SHAMPOO                     17.57 A
+1107690 OAT MLK                       3.10 E
+323901 JNN- GRND TRKY 1 LB            6.60 E
+1171053 KS PASTURE RAISED EGGS        7.37 E
+886191 CRKRS                          8.00 E
+     4 @ 2.00
+1428079 AVCDS                         8.10 E
+     2 @ 4.05
+1052751 BANANA                        2.37 E
+769035 PENNE                         13.38 E
+1188416 TLLMK VAN YGRT               16.20 E
+     4 @ 4.05
+1032644 KS ROMAINE LTTC               8.37 E
+     3 @ 2.79
+1454656 ORG BABY SPNCH 5 OZ          17.55 E
+     3 @ 5.85
+1473774 STRWB 1 LB                    5.22 E
+262079 CHKN GYOZA PTSTCKRS            9.88 E
+1826385 ORGANIC BABY SPINACH          5.54 E
+
+SUBTOTAL                              153.58
+TAX 10.55% ON 17.57                     1.85
+**** TOTAL                            155.43
+VISA TEND                             155.43
+CHANGE                                  0.00
+
+02/27/26 14:26  ITEMS 29
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

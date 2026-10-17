@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 3159
+
+CILANTRO BUNCH                    2.02 F
+  1.80 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 5.22 F
+KRO GRND PORK                     6.60 F
+REDUCED FAT 2% MLK GALLON         6.54 F
+  4 @ 2.06
+KRO FRZN MIXED BRRS               8.24 F
+APPLE JUICE 64OZ                  7.25 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+CRM CHS 8 OZ                      3.15 F
+  4 @ 5.40
+FROZEN PEAS 12 OZ                21.60 F
+CILANTRO BUNCH                    2.02 F
+KRO LG BROWN EGGS                 4.29 F
+JASMINE RICE 25 LB                8.09 F
+  2.94 lb @ 3.42 /lb
+SMPL TRTH RED BELL PEPR          10.05 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           89.93
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              89.94
+CASH TEND                         100.00
+CHANGE                             10.06
+
+07/17/26 20:01  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 1417
+
+CHRRS                             5.69 F
+RDCD FAT 2% MLK GALLON            6.54 F
+PAPER TOWELS 6 ROLL               3.75 T
+SMPL TRTH ITALIAN PARSLEY         2.93 F
+KRO SAVINGS                      0.88-  
+CELERY HEARTS                     4.34 F
+STRWB                             4.35 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+ORG EGGS 24 CT                    7.83 F
+KRO SAVINGS                      2.35-  
+SMPL TRTH LG BROWN EGGS           4.29 F
+  2.43 lb @ 2.33 /lb
+BRSSLS SPRTS                      5.66 F
+FM HAMBURGER BUNS                 2.77 F
+  0.88 lb @ 17.98 /lb
+UNEXPECTED CHDR                  15.82 F
+  0.54 lb @ 17.98 /lb
+UNEXPECTED CHDR                   9.71 F
+SMPL TRTH OAT MILK                3.10 F
+  3.43 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             4.56 F
+SMPL TRTH FRZN PIZZA             13.30 F
+
+SUBTOTAL                          100.29
+TAX 10.55% ON 3.75                  0.40
+TOTAL                             100.69
+DEBIT TEND                        100.69
+CHANGE                              0.00
+
+02/28/28 13:46  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

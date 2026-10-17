@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 3119
+
+  4 @ 5.44
+SMPL TRTH SPRING MIX             21.76 F
+TILLAMOOK MEDIUM CHDR            11.77 F
+LG BROWN EGGS                     4.29 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+KRO SAVINGS                      0.77-  
+  0.35 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  1.23 F
+ORGANIC BABY SPINACH              5.54 F
+FRZN PEAS 12 OZ                   5.40 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+ORGANIC ROMAINE HEARTS 3 CT       3.76 F
+CAULIFLOWER GNOCCHI               7.85 F
+MNDRN ORANGE CHKN                15.87 F
+FRZN PEAS 12 OZ                   5.40 F
+DIGITAL CPN                      0.23-  
+  2 @ 5.40
+FRZN PEAS 12 OZ                  10.80 F
+MFR CPN                          0.85-  
+COCA-COLA 12 PK CANS              2.77 T
+FM ALL PURPOSE FLOUR             11.36 F
+
+SUBTOTAL                          113.29
+TAX 10.55% ON 2.77                  0.29
+TOTAL                             113.58
+DEBIT TEND                        113.58
+CHANGE                              0.00
+
+09/01/26 21:39  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

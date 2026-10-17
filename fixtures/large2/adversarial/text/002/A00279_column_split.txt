@@ -1,0 +1,31 @@
+                SAFEWAY
+         Store 3574  Seattle WA
+             (555) 010-9810
+
+  0.29 lb @ 10.99 /lb
+DELI SLCD TRKY BRST
+  0.47 lb @ 2.33 /lb
+O ORGANICS BRSSLS SPRTS
+SIG DOG TREATS
+  4 @ 2.77
+COCA-COLA 12 PK CANS
+WILD COD FLLT
+  3 @ 0.08
+BAG FEE
+
+3.19 S
+1.10 S
+6.82 T
+11.08 T
+18.56 S
+0.24 T
+
+SUBTOTAL                           40.99
+TAX 10.55% ON 18.14                 1.91
+**** TOTAL                         42.90
+MASTERCARD TEND                    42.90
+CHANGE                              0.00
+
+05/02/26 11:53  ITEMS 8
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1682  Seattle WA
+            MEMBER ************
+
+970777 SHREDDED CHDR 8 OZ             6.42 E
+1462661 KS CTTG CHS                   3.21 E
+1497391 PARMIGIANO REGGIANO WEDGE     8.42 E
+607447 CELERY HEARTS                 17.36 E
+     4 @ 4.34
+360209 KS TURKEY BREAST              43.18 E
+     6.09 lb @ 7.09 /lb
+1727442 FLOUR TORT                    6.18 E
+784401 KS YUKON GOLD POTS             3.99 E
+1444941 KS BABY CARROTS               2.49 E
+848681 FROZEN PIZZA                  13.30 E
+1671175 KS GREEN BEANS                2.31 E
+424617 KS CHERRY TOM                  1.15 E
+492867 ORG BASIL CLMSHLL              1.49 E
+1566516 KS BLACK BEANS CAN            8.77 E
+1373926 KS DOG TREATS                 6.82 A
+218413 KS RED GRAPES                  3.04 E
+2296562 TPD/RED GRAPES               0.91-  
+861230 KS HALF & HALF                 5.34 E
+600291 BROC CROWNS                    2.25 E
+716558 KS DIJON MUSTARD               2.46 E
+1548145 GRNLA BRS                     6.07 E
+9367650 TPD/GRNLA BRS                1.82-  
+
+SUBTOTAL                              141.52
+TAX 10.55% ON 6.82                      0.72
+**** TOTAL                            142.24
+DEBIT TEND                            142.24
+CHANGE                                  0.00
+
+02/13/26 18:49  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

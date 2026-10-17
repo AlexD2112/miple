@@ -1,0 +1,24 @@
+                 TARGET
+           Seattle WA  T-2620
+             (555) 030-0828
+
+  REFUND - ORIG RECEIPT
+RETURN MKT PANTRY DICED TOM CAN  2.98- N
+  REFUND - ORIG RECEIPT
+RETURN ORG BABY SPNCH            5.54- N
+RETURN WHITE BRD                 6.34- N
+  REFUND - ORIG RECEIPT
+RETURN BEETS                     6.57- N
+RETURN BRUSSELS SPRTS            7.11- N
+  REFUND - ORIG RECEIPT
+RETURN GG AVOCADOS               4.05- N
+
+SUBTOTAL                          32.59-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             32.59-
+AMEX TEND                         32.59-
+CHANGE                              0.00
+
+08/06/26 20:26  ITEMS 0
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

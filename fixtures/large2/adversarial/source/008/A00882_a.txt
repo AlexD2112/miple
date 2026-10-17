@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3360
+
+SMPL TRTH SHRP CHDR BLOCK        10.33 F
+KRO SAVINGS                      1.78-  
+PRIV SEL GROUND BEEF 80/20        6.57 F
+KRO SAVINGS                      1.97-  
+KRO GRNLA BRS                     6.07 F
+MFR CPN                          1.82-  
+
+SUBTOTAL                           17.40
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              17.40
+AMEX TEND                          17.40
+CHANGE                              0.00
+
+04/03/26 17:04  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

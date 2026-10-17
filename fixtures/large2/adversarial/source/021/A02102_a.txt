@@ -1,0 +1,16 @@
+           WHOLE FOODS MARKET
+            San Francisco CA
+             (555) 020-5073
+
+ALUMINUM FOIL                    18.03 T
+PAPER TOWELS 6 ROLL               3.75 T
+
+SUBTOTAL                           21.78
+TAX 8.625% ON 21.78                 1.88
+TOTAL                              23.66
+DEBIT TEND                         23.66
+CHANGE                              0.00
+
+07/11/26 07:14  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

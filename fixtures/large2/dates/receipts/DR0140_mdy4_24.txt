@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1312
+
+  2 @ 2.29
+SILKEN TOFU                       4.58 F
+KRO SAVINGS                      1.30-  
+AA BATTERIES 8PK                 24.36 T
+  3 @ 2.93
+ITALIAN PARSLEY                   8.79 F
+KRO SPONGES 3PK                   9.54 T
+  1.35 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             13.41 F
+NAVEL ORANGES                     1.01 F
+DIGITAL CPN                      0.30-  
+  4 @ 0.90
+FRESH DILL                        3.60 F
+KRO GOAT CHS                      8.35 F
+
+SUBTOTAL                           72.04
+TAX 10.55% ON 33.90                 3.58
+TOTAL                              75.62
+DEBIT TEND                         75.62
+CHANGE                              0.00
+
+06/15/2027 00:51  3491 33 943 4
+ITEMS 16   REG 10  TRANS 6699
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

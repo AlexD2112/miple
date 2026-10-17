@@ -1,0 +1,44 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2698  Seattle WA
+            MEMBER ************
+
+385094 KS OAT MLK                     3.10 E
+1114170 WHL CHKN                     24.37 E
+     3.85 lb @ 6.33 /lb
+1510466 ORG LEMONS                   10.50 E
+     3.71 lb @ 2.83 /lb
+843039 KS CRMN MSHRM                  2.28 E
+     2 @ 1.14
+264455 KS GREEK YOGURT PLAIN          8.22 E
+     2 @ 4.11
+1191171 KS ATLANTIC SLMN FLLT        19.77 E
+30575 KS DIJON MUSTARD                2.46 E
+1764668 DELI SLCD TRKY BRST           3.63 E
+     0.33 lb @ 10.99 /lb
+1645370 SILKEN TOFU                   4.58 E
+     2 @ 2.29
+454744 PLAIN NONFAT GREEK YOGURT     13.95 E
+     3 @ 4.65
+1176330 2% MILK 2 X 1 GAL             4.70 E
+3875035 TPD/2% MILK 2 X              1.03-  
+747144 KS EXTRA FIRM TOFU             2.32 E
+505368 KS BROC CROWNS                 2.25 E
+1609366 CRM CHS 8 OZ                  3.15 E
+269827 KS ITALIAN PRSLY               2.93 E
+310922 TILLAMOOK VAN YGRT             4.05 E
+852878 KS TRKY BRST                  22.97 E
+     3.24 lb @ 7.09 /lb
+1167515 TPD/TRKY BRST                0.93-  
+1075288 KS KEFIR                      1.27 E
+314237 KS PSTR RAISED EGGS            7.37 E
+
+SUBTOTAL                              141.91
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            141.91
+DEBIT TEND                            141.91
+CHANGE                                  0.00
+
+02/01/26 11:12  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

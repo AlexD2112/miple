@@ -1,0 +1,19 @@
+              TRADER JOE'S
+        Store #2204  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+FRZN DUMPLINGS                   15.61  
+CREAM CHEESE                      8.63  
+SOY SAUCE                         6.79  
+CABOT SHRP CHDR 8 OZ              8.48  
+BAG FEE                           0.08 T
+
+SUBTOTAL                           39.59
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              39.60
+DEBIT TEND                         39.60
+CHANGE                              0.00
+
+09/06/26 08:48  ITEMS 4
+T=TAXABLE
+               THANK YOU

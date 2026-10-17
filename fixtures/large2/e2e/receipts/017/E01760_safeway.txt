@@ -1,0 +1,23 @@
+                SAFEWAY
+      Store 1330  San Francisco CA
+             (555) 010-4696
+
+  4 @ 5.07
+SW POTATO CHIPS                  20.28 S
+  2 @ 5.61
+DARK CHOC PNT BTR CUPS           11.22 S
+ORG EGGS 24 CT                    7.83 S
+J4U DIGITAL CPN                  1.33-  
+  2 @ 2.00
+SIG SLCT CRACKERS                 4.00 S
+WILD COD FLLT                    18.56 S
+
+SUBTOTAL                           60.56
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                         60.56
+DEBIT TEND                         60.56
+CHANGE                              0.00
+
+09/26/26 20:10  ITEMS 10
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1208
+
+  4 @ 4.35
+SMPL TRTH STRWB                  17.40 F
+PRIV SEL BOTTLED WATER 24PK       9.32 F
+  2 @ 1.01
+NAVEL ORANGES                     2.02 F
+DIGITAL CPN                      0.61-  
+SOY SCE                           6.79 F
+  0.45 lb @ 1.25 /lb
+PINEAPPLE                         0.56 F
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+
+SUBTOTAL                           46.84
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              46.84
+AMEX TEND                          46.84
+CHANGE                              0.00
+
+08/30/26 09:05  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,27 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3570
+
+PRIV SEL GRND BF 80/20            6.57 F
+  1.56 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             2.07 F
+SMPL TRTH LIMES                   2.80 F
+  3.95 lb @ 2.30 /lb
+GALA APPLES                       9.09 F
+  3.95 lb @ 2.30 /lb
+GALA APPLES                       9.09 F
+YUKON GOLD POTS                   3.99 F
+DIGITAL CPN                      1.20-  
+SMPL TRTH BABY SPINACH            5.42 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           37.99
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              38.01
+MASTERCARD TEND                    38.01
+CHANGE                              0.00
+
+06/19/26 11:23  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

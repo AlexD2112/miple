@@ -1,0 +1,23 @@
+                 TARGET
+        San Francisco CA  T-1785
+             (555) 030-4310
+
+  REFUND - ORIG RECEIPT
+RETURN FRZN PEAS 12 OZ          10.80- N
+RETURN SOURDOUGH LOAF            7.47- N
+RETURN GG TRKY BRST             22.62- N
+  REFUND - ORIG RECEIPT
+RETURN MKT PANTRY SILKEN TOFU    4.58- N
+RETURN DISH SOAP                19.39- T
+  REFUND - ORIG RECEIPT
+RETURN 2% MLK HALF GALLON        6.08- N
+
+SUBTOTAL                          70.94-
+TAX 8.625% ON 19.39-               1.67-
+TOTAL                             72.61-
+AMEX TEND                         72.61-
+CHANGE                              0.00
+
+05/26/26 08:28  ITEMS 0
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

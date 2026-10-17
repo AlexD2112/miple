@@ -1,0 +1,24 @@
+                 TARGET
+           Seattle WA  T-1426
+             (555) 030-5894
+
+GG AVCDS                          4.05 N
+  2 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU       5.56 N
+GG FROZEN PEAS                   13.98 N
+CIRCLE DEAL                      1.87-  
+STRAUS PLAIN GRK YGRT             1.74 N
+GG GRND TRKY                      5.19 N
+MKT PANTRY DICED TOMATOES CAN     2.98 N
+GG SRDGH LOAF                     7.47 N
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+
+SUBTOTAL                           47.93
+TAX 10.55% ON 8.83                  0.91
+TOTAL                              48.84
+DEBIT TEND                         48.84
+CHANGE                              0.00
+
+09/14/26 19:42  ITEMS 9
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

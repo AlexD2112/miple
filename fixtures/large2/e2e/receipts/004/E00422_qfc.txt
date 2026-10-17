@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1351
+
+  0.96 lb @ 14.17 /lb
+SMPL TRTH BLACK FOREST HAM       13.60 F
+SMPL TRTH SPGHTT                  9.54 F
+KRO TLP FILLETS                  21.66 F
+  3.40 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               12.65 F
+STRAWBERRIES 1 LB                 5.22 F
+ORG GALA APPLES                   1.57 F
+  2 @ 1.72
+KRO FRZN BROC                     3.44 F
+DIGITAL CPN                      0.21-  
+LEMON                             4.30 F
+DIGITAL CPN                      1.29-  
+KRO PARMIGIANO RGGN               7.82 F
+
+SUBTOTAL                           78.30
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              78.30
+VISA TEND                          78.30
+CHANGE                              0.00
+
+05/27/26 20:22  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

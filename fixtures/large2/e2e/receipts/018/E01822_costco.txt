@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1372  Portland OR
+            MEMBER ************
+
+1041984 PAPER TOWELS 6 ROLL           3.75 E
+5740008 TPD/PAPER TOWELS             1.13-  
+103091 ORGANIC CARROTS BUNCH          4.63 E
+538439 KS COCONUT MLK CAN            15.32 E
+     4 @ 3.83
+167071 KS AHI TUNA STEAK             14.71 E
+1636728 CHRRS                        22.76 E
+     4 @ 5.69
+1240767 MISSION FLOUR TORT 40 CT      5.22 E
+152052 GRK YGRT 48 OZ                 1.97 E
+364973 KS FRESH BASIL                 2.74 E
+
+SUBTOTAL                               69.97
+TAX                                     0.00
+**** TOTAL                             69.97
+AMEX TEND                              69.97
+CHANGE                                  0.00
+
+03/12/26 16:28  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

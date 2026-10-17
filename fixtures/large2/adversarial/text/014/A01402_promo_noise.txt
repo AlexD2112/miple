@@ -1,0 +1,41 @@
+               FRED MEYER
+               Seattle WA
+               Store 1535
+STORE MGR: J******
+
+DAVES KILLER BREAD                6.69 F
+  1.39 lb @ 6.33 /lb
+KRO WHOLE CHICKEN                 8.80 F
+FM RANCH DRESSING                 3.99 F
+BRIE                              4.85 F
+KRO OAT MILK                      3.10 F
+  4 @ 2.77
+COCA-COLA 12 PACK CANS           11.08 T
+TOOTHPASTE                       16.40 T
+SMPL TRTH RCTT                    8.76 F
+KRO PARMIGIANO REGGIANO           7.82 F
+KRO HAND SOAP                    24.27 T
+BLACK BEANS 15 OZ CAN            10.76 F
+DIGITAL CPN                      0.75-  
+   YOU SAVED 295.83
+SMPL TRTH SWEET POTS              3.28 F
+KRO 2% MLK GALLON                 6.49 F
+KRO PAPER PLATES                  3.31 T
+FM GINGER ALE 12PK                6.02 T
+SMPL TRTH FROZEN BROCCOLI         1.72 F
+BROC CROWNS                       2.25 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          129.00
+TAX 10.55% ON 61.24                 6.46
+TOTAL                             135.46
+VISA TEND                         135.46
+CHANGE                              0.00
+
+02/04/26 12:29  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+BALANCE DUE                   0.00
+BOTTLE RETURNS ACCEPTED    0.10/EA
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+               THANK YOU

@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1849
+
+FM SRIRACHA                       3.16 F
+KRO SLTD BTR                      5.73 F
+FM COLD BREW COFFEE 32OZ          4.43 F
+MFR CPN                          0.52-  
+KRO HAND SOAP                    24.27 T
+KRO HAND SOAP                    24.27 T
+SHAMPOO                          17.57 T
+  2.94 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTATOES         3.32 F
+  0.31 lb @ 14.17 /lb
+FM BLACK FOREST HAM               4.39 F
+
+SUBTOTAL                           86.62
+TAX 10.55% ON 66.11                 6.97
+TOTAL                              93.59
+DISCOVER TEND                      93.59
+CHANGE                              0.00
+
+09/10/26 12:06  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

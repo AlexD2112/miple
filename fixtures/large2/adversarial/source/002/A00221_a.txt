@@ -1,0 +1,30 @@
+                 TARGET
+           Seattle WA  T-0203
+             (555) 030-5910
+
+GREEN ONIN BUNCH                  2.59 N
+GG SHRP CHDR BLOCK               10.33 N
+GG BOTTLED WATER 24PK             9.32 N
+  2 @ 1.83
+GG COLA 12PK                      3.66 T
+MKT PANTRY CARROTS                1.79 N
+RUSSET POTATOES 5 LB BAG          4.53 N
+PAPER PLATES                      3.31 T
+  2 @ 2.29
+MKT PANTRY SILKEN TOFU            4.58 N
+LACROIX LIME SPRKLG WTR 8 PK      2.20 N
+UP&UP CAT LITTER                 14.03 T
+CAT LITTER                       14.03 T
+MKT PANTRY LEMONS                 4.19 N
+GG YUKON GOLD POTS                3.99 N
+CRRTS 2 LB                        1.74 N
+
+SUBTOTAL                           80.29
+TAX 10.55% ON 35.03                 3.70
+TOTAL                              83.99
+DEBIT TEND                         83.99
+CHANGE                              0.00
+
+01/07/26 12:37  ITEMS 16
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

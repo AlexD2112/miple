@@ -1,0 +1,35 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0498
+
+  1.00 lb @ 14.17 /lb
+BLACK FOREST HAM                 14.17 F
+PLAIN NONFAT GREEK YOGURT         4.65 F
+LACROIX LIME SPARKLING WATER 8 P  2.20 F
+KRO PNT BTR                       6.90 F
+RUSSET POTS 5 LB BAG              4.53 F
+AVCDS BAG 4 CT                    3.54 F
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+  1.75 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  13.37 F
+MFR CPN                          0.72-  
+CRSSNTS 12 CT                     4.87 F
+MFR CPN                          1.46-  
+PRIV SEL FRZN MIXED BERRIES       2.06 F
+ORGANIC ITALIAN PARSLEY           1.95 F
+  1.00 lb @ 9.25 /lb
+PRIV SEL SWISS CHEESE             9.25 F
+DIGITAL CPN                      1.88-  
+BARILLA PENNE                    19.37 F
+DIGITAL CPN                      2.67-  
+PRIV SEL HAMBURGER BUNS           2.77 F
+
+SUBTOTAL                           94.26
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              94.26
+AMEX TEND                          94.26
+CHANGE                              0.00
+
+06/12/26 09:21  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

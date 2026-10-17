@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0312  Portland OR
+            MEMBER ************
+
+1979251 KS POTATO CHIPS              10.14 E
+     2 @ 5.07
+141343 KS KOMBUCHA 16OZ               9.16 E
+     2 @ 4.58
+  2 @ 0.10
+OR BTL DEP                            0.20  
+428663 WHITE BRD                      6.34 E
+1348064 KS ASPARAGUS                  5.86 E
+     2 @ 2.93
+1184044 KS ALUMINUM FOIL             18.03 E
+1945712 PARMIGIANO REGGIANO WEDGE     8.42 E
+6248856 TPD/PARMIGIANO R             2.53-  
+
+SUBTOTAL                               55.62
+TAX                                     0.00
+**** TOTAL                             55.62
+DEBIT TEND                             55.62
+CHANGE                                  0.00
+
+08/31/26 12:50  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

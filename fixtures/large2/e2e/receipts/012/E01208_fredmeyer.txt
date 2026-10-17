@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 1090
+
+PASTURE RAISED EGGS               7.37 F
+DAVES KILLER BRD                  6.69 F
+KRO FRZN BROC                     1.72 F
+  2 @ 5.61
+DARK CHOC PNT BTR CUPS           11.22 F
+
+SUBTOTAL                           27.00
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              27.00
+DISCOVER TEND                      27.00
+CHANGE                              0.00
+
+08/09/26 07:02  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

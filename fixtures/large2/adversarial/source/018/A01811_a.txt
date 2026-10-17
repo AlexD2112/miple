@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1048  Seattle WA
+            MEMBER ************
+
+248668 CHKN BROTH 32 OZ               8.43 E
+     3 @ 2.81
+1339433 KS RIBEYE STEAK              19.87 E
+273676 GALA APPLES                    3.98 E
+     1.73 lb @ 2.30 /lb
+
+SUBTOTAL                               28.30
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             28.30
+AMEX TEND                              28.30
+CHANGE                                  0.00
+
+02/28/26 12:16  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

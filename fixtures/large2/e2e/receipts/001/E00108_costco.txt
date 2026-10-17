@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0326  Seattle WA
+            MEMBER ************
+
+697142 RASPBERRIES                    7.24 E
+1263118 KS RED BELL PEPR             11.73 E
+     3.43 lb @ 3.42 /lb
+1481759 KS ENGLISH CUCUMBER          10.78 E
+     3.08 lb @ 3.50 /lb
+867204 YUKON GOLD POTS                3.99 E
+389651 KS ZUCCHINI                   14.73 E
+     3.96 lb @ 3.72 /lb
+772822 KS DELI FRIED CHKN            11.75 A
+501416 KS SRIRACHA                    3.16 E
+624963 KS RICOTTA                     8.76 E
+252941 RUSSET POTS 5 LB BAG           4.53 E
+928319 KS SWISS CHS                   5.37 E
+     0.58 lb @ 9.25 /lb
+  REFUND - ORIG RECEIPT
+RETURN 867204 YUKON GOLD POTS        3.99- E
+
+SUBTOTAL                               78.05
+TAX 10.55% ON 11.75                     1.24
+**** TOTAL                             79.29
+AMEX TEND                              79.29
+CHANGE                                  0.00
+
+01/24/26 11:51  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

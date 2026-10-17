@@ -1,0 +1,38 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2229
+
+CHKN DRMSTCKS                     8.97 F
+BLUBRY                            5.87 F
+  2.25 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                4.41 F
+  3 @ 2.77
+HAMBURGER BUNS                    8.31 F
+DIGITAL CPN                      1.08-  
+KRO KOMBUCHA 16OZ                 4.58 F
+  2.39 lb @ 3.50 /lb
+ENGLISH CCMBR                     8.37 F
+  3 @ 2.46
+SMPL TRTH DIJON MSTRD             7.38 F
+KRO SAVINGS                      2.21-  
+  4 @ 3.33
+KRO TRTLL CHIPS                  13.32 F
+RED GRAPES                        3.04 F
+SMPL TRTH SHRP CHDR BLOCK        10.33 F
+ARUGULA                           4.00 F
+LEMONS                            4.19 F
+SMPL TRTH OAT MLK                 3.10 F
+DIGITAL CPN                      0.93-  
+KRO FRZN PIZZA                   13.30 F
+KRO SAVINGS                      1.64-  
+PRIV SEL GINGER ALE 12PK          6.02 T
+
+SUBTOTAL                           99.33
+TAX 10.55% ON 6.02                  0.64
+TOTAL                              99.97
+VISA TEND                          99.97
+CHANGE                              0.00
+
+07/11/26 13:33  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

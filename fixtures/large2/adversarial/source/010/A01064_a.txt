@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0043
+
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+LIMES                             2.80 F
+PLSTC WRAP                        4.77 T
+  1.14 lb @ 11.10 /lb
+PRIV SEL PORK CHOPS              12.65 F
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+KRO GRND COFFEE                   9.64 F
+CROISSANTS 12 CT                  4.87 F
+SMPL TRTH BOTTLED WTR 24PK        9.32 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           59.56
+TAX 10.55% ON 4.93                  0.52
+TOTAL                              60.08
+MASTERCARD TEND                    60.08
+CHANGE                              0.00
+
+08/09/26 15:57  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

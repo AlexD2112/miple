@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0801
+
+SMPL TRTH DIET COLA 12PK CANS     4.42 T
+  0.27 lb @ 3.42 /lb
+SMPL TRTH RED BELL PEPR           0.92 F
+  1.15 lb @ 14.17 /lb
+PRIV SEL BLACK FOREST HAM        16.30 F
+  4 @ 5.61
+DARK CHOC PNT BTR CUPS           22.44 F
+
+SUBTOTAL                           44.08
+TAX 10.55% ON 4.42                  0.47
+TOTAL                              44.55
+MASTERCARD TEND                    44.55
+CHANGE                              0.00
+
+04/23/26 07:13  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

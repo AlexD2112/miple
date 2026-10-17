@@ -1,0 +1,42 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0079  Seattle WA
+            MEMBER ************
+
+1595806 KS CREAM CHEESE               8.63 E
+1206156 KS DAVES KILLER BRD           6.69 E
+422955 BANANAS                        8.96 E
+     3.09 lb @ 2.90 /lb
+327387 KS BARTLETT PEARS              3.00 E
+1638400 KALE                          4.17 E
+1621412 ORG BLACK BEANS 8 CANS        4.60 E
+     4 @ 1.15
+345807 KS GRND PORK                   6.60 E
+1888736 UNSLTD BTR 4 X 1 LB           9.48 E
+1229101 ORG BASIL CLAMSHELL           1.49 E
+73550 2% MLK HALF GALLON              6.08 E
+1655775 GRK YGRT 48 OZ                1.97 E
+1975570 ORG BLACK BEANS 8 CANS        1.15 E
+897796 GRNLA BRS                      6.07 E
+0450509 TPD/GRNLA BRS                0.99-  
+1258770 2% MLK 2 X 1 GAL              4.70 E
+1214061 KS WHL CHKN                  15.26 E
+     2.41 lb @ 6.33 /lb
+75389 KS CRM CHS                      8.63 E
+714513 SLICED TURKEY BREAST           5.67 E
+     0.43 lb @ 13.18 /lb
+1645175 LG EGGS 12 CT                 8.69 E
+811542 BABY SPNCH                     5.42 E
+201622 COLA 12PK                      7.32 A
+     4 @ 1.83
+8315620 TPD/COLA 12PK                1.32- A
+
+SUBTOTAL                              122.27
+TAX 10.55% ON 6.00                      0.63
+**** TOTAL                            122.90
+VISA TEND                             122.90
+CHANGE                                  0.00
+
+05/05/26 08:29  ITEMS 26
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

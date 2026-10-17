@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1432  Seattle WA
+            MEMBER ************
+
+1239138 KS AA BATTERIES 8PK          24.36 A
+1472761 TPD/AA BATTERIES             0.74- A
+62480 FRZN BROC FLORETS               8.13 E
+1261649 SLCD SOURDOUGH PAN LOAF       4.74 E
+546088 HALIBUT                       10.82 E
+134969 KS COLA 12PK                   1.83 A
+1590711 KS BOTTLED WTR 24PK           9.32 E
+604754 ROLLED OATS                    3.98 E
+4657658 TPD/ROLLED OATS              0.62-  
+1245795 BLACK BEANS 15 OZ CAN        10.76 E
+693698 KS BAGELS                      3.77 E
+1971177 PARMIGIANO REGGIANO           7.82 E
+206535 RDCD FAT 2% MLK GALLON         6.54 E
+1282107 KS ORANGE JUICE               7.69 E
+1129064 SPARKLING WATER 8PK           5.13 E
+7185233 TPD/SPARKLING WA             1.54-  
+1748301 KS KETCHUP                   16.47 E
+     3 @ 5.49
+5848259 TPD/KETCHUP                  1.51-  
+575504 KS WHL MLK HALF GALLON         6.79 E
+593224 KS PEACHES                     1.76 E
+     2.59 lb @ 0.68 /lb
+1470595 ORG BABY SPNCH                5.54 E
+5462945 TPD/ORG BABY SPN             1.34-  
+1321668 KS RIBEYE STEAK              19.87 E
+
+SUBTOTAL                              149.57
+TAX 10.55% ON 25.45                     2.68
+**** TOTAL                            152.25
+MASTERCARD TEND                       152.25
+CHANGE                                  0.00
+
+02/13/26 13:41  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

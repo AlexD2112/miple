@@ -1,0 +1,26 @@
+                SAFEWAY
+         Store 3579  Seattle WA
+             (555) 010-7301
+
+SIG KTCHNS SRDGH LOAF             7.47 S
+TILLAMOOK ICE CRM 48 OZ           8.88 S
+  1.29 lb @ 14.17 /lb
+SW BLACK FOREST HAM              18.28 S
+SHREDDED CHDR 8 OZ                6.42 S
+SW APPLE JUICE 64OZ               7.25 S
+J4U PERSONAL DEAL                0.99-  
+DISH SOAP                        19.39 T
+GINGER ALE 12PK                   6.02 T
+CELERY HEARTS                     4.34 S
+SIG SLCT HALIBUT                 10.82 S
+O ORGANICS BTR LTTC               2.45 S
+
+SUBTOTAL                           90.33
+TAX 10.55% ON 25.41                 2.68
+**** TOTAL                         93.01
+DEBIT TEND                         93.01
+CHANGE                              0.00
+
+02/28/28 13:34  ITEMS 10
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

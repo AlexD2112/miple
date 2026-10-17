@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3659
+
+CARROTS 2 LB                      1.74 F
+DIGITAL CPN                      0.52-  
+PAPER TOWELS 6 ROLL               3.75 T
+DIGITAL CPN                      1.13- T
+
+SUBTOTAL                            3.84
+TAX 10.55% ON 2.62                  0.28
+TOTAL                               4.12
+DEBIT TEND                          4.12
+CHANGE                              0.00
+
+NOV 28 2030 07:51AM  2606 11 844 5
+ITEMS 15   REG 07  TRANS 9555
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

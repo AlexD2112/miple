@@ -1,0 +1,23 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+09/04/26 14:11  ITEMS 6
+
+CHANGE                              0.00
+AMEX TEND                          31.51
+TOTAL                              31.51
+TAX 10.55% ON 5.40                  0.57
+SUBTOTAL                           30.94
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+PRIV SEL CRM CHS                  8.63 F
+SMPL TRTH ROOT BEER 2L            5.24 T
+CILANTRO BUNCH                    2.02 F
+SMPL TRTH BEETS                   4.01 F
+  2.24 lb @ 1.79 /lb
+SMPL TRTH SPRING MIX             10.88 F
+  2 @ 5.44
+
+         Seattle WA  Store 0736
+          Quality Food Centers
+                  QFC

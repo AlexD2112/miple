@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0669  Seattle WA
+            MEMBER ************
+REG 03 TRN 9587 OPR 418
+TELL US HOW WE DID  78952444
+
+1838839 KS COD FLLT                  23.43 E
+     1.29 lb @ 18.16 /lb
+914007 KS SRIRACHA                    3.16 E
+9544582 TPD/SRIRACHA                 0.95-  
+1049308 ORGANIC RASPBERRIES 6 OZ      6.28 E
+939952 BNLS CHKN THIGHS              20.14 E
+     4.64 lb @ 4.34 /lb
+
+SUBTOTAL                               52.06
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             52.06
+DISCOVER TEND                          52.06
+CHANGE                                  0.00
+
+07/21/26 10:23  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+REWARDS BALANCE           103.51
+RETURNS WITHIN 90 DAYS
+FUEL POINTS THIS ORDER        316
+                 THANK YOU

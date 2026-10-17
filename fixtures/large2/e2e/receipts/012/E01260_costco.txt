@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2957  Seattle WA
+            MEMBER ************
+
+216969 KS ATLANTIC SLMN FLLT         19.77 E
+1774453 KS YUKON GOLD POTATOES        3.99 E
+1652773 KS 2% MLK GALLON              6.49 E
+1062240 BABY SPNCH 5 OZ               3.77 E
+365956 PNT BTR                        6.90 E
+344545 BLACK FOREST HAM 9 OZ          7.00 E
+1725549 CLNTR BUNCH                   2.02 E
+768221 DICED TOM CAN                  2.98 E
+448055 KS FLOUR TORTILLAS             6.18 E
+1334853 CAGE FREE EGGS 18CT           6.85 E
+1102047 KS BLACK FOREST HAM          20.12 E
+     1.42 lb @ 14.17 /lb
+1290228 SHREDDED CHDR 8 OZ            6.42 E
+1156705 KS ROMAINE LETTUCE            2.79 E
+1622823 GRK YGRT PLAIN                4.11 E
+
+SUBTOTAL                               99.39
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             99.39
+AMEX TEND                              99.39
+CHANGE                                  0.00
+
+09/10/26 07:31  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

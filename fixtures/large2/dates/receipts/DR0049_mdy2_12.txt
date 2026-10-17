@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2658
+
+KALE                              4.17 F
+KRO SAVINGS                      0.48-  
+SMPL TRTH YELLOW ONIN             1.78 F
+MFR CPN                          0.53-  
+PRIV SEL UNSLTD BTR               9.95 F
+PRIV SEL AHI TUNA STEAK          14.71 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           29.76
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              29.78
+VISA TEND                          29.78
+CHANGE                              0.00
+
+01/29/26 03:33 AM  1792 12 178 7
+ITEMS 26   REG 06  TRANS 1271
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

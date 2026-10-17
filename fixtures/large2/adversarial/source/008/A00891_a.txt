@@ -1,0 +1,39 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0126  Seattle WA
+            MEMBER ************
+
+975996 KS BLACKBERRIES               11.76 E
+     3 @ 3.92
+1984110 KS WHL CHKN                  21.21 E
+     3.35 lb @ 6.33 /lb
+1426794 KS RUSSET POTATOES            3.24 E
+     2.87 lb @ 1.13 /lb
+4976083 TPD/RUSSET POTAT             0.42-  
+521918 HONEYCRISP APPLES             14.01 E
+     3 @ 4.67
+1625454 ALMOND MLK                    5.08 E
+609496 RUSSET POTS                    4.32 E
+     3.82 lb @ 1.13 /lb
+214023 DICED TOMATOES 14.5 OZ         1.00 E
+1401208 KS QUINOA                     7.75 E
+62574 2% MLK 2 X 1 GAL                4.70 E
+1295139 GRND COFFEE                   9.64 E
+1174787 LEMON                         4.30 E
+273633 KS CAGE FREE EGGS 18CT         6.85 E
+468838 KS CHICKEN BROTH CARTON        8.38 E
+763971 KS ROLLED OATS                11.94 E
+     3 @ 3.98
+308082 JASMINE RICE 5 LB              1.49 E
+1081026 KS UNSLTD BTR                 9.95 E
+1127344 KS FLOWERS BOUQUET           23.70 A
+
+SUBTOTAL                              148.90
+TAX 10.55% ON 23.70                     2.50
+**** TOTAL                            151.40
+AMEX TEND                             151.40
+CHANGE                                  0.00
+
+02/21/26 08:00  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

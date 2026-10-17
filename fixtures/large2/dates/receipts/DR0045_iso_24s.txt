@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1851  Portland OR
+            MEMBER ************
+
+269420 KS 2% MILK GALLON              6.49 E
+1775525 KS RED ONIN                   4.45 E
+     3.01 lb @ 1.48 /lb
+911491 KS KALE                        4.17 E
+3524055 TPD/KALE                     1.25-  
+
+SUBTOTAL                               13.86
+TAX                                     0.00
+**** TOTAL                             13.86
+DISCOVER TEND                          13.86
+CHANGE                                  0.00
+
+2029-03-30 12:28:54  626 626 4229 38
+ITEMS 21   REG 06  TRANS 2463
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

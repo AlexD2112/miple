@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 2261
+
+  REFUND - ORIG RECEIPT
+RETURN ICBRG LTTC                5.11- F
+RETURN KRO RIBEYE STEAK         19.87- F
+
+SUBTOTAL                          24.98-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             24.98-
+VISA TEND                         24.98-
+CHANGE                              0.00
+
+07/06/26 19:02  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

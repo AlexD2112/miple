@@ -1,0 +1,33 @@
+               FRED MEYER
+              Portland OR
+               Store 2069
+
+SMPL TRTH BROC CROWNS             2.25 F
+  3.24 lb @ 6.33 /lb
+WHL CHKN                         20.51 F
+  2 @ 2.87
+SMPL TRTH SWISS CHARD             5.74 F
+KRO DAVES KILLER BRD              6.69 F
+  2.68 lb @ 1.48 /lb
+RED ONIONS                        3.97 F
+LIGHT BULBS 4PK                  17.04 F
+  4 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS   19.12 F
+KRO SRDGH LOAF                    7.47 F
+  2 @ 1.15
+ORG BLACK BEANS 8 CANS            2.30 F
+  4 @ 2.29
+SMPL TRTH SILKEN TOFU             9.16 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                          102.88
+TAX                                 0.00
+TOTAL                             102.88
+MASTERCARD TEND                   102.88
+CHANGE                              0.00
+
+05/06/26 11:38  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

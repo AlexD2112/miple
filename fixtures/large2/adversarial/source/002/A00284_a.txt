@@ -1,0 +1,37 @@
+               FRED MEYER
+               Seattle WA
+               Store 2329
+
+LNDRY DETERGENT PODS             20.18 T
+SHREDDED CHDR 8 OZ                6.42 F
+FM SALSA JAR                      2.09 F
+  4 @ 1.15
+ORG BLACK BEANS 8 CANS            4.60 F
+  3 @ 3.51
+PENNE 16 OZ                      10.53 F
+MFR CPN                          1.38-  
+GREEK YOGURT PLAIN                4.11 F
+  3 @ 0.90
+SMPL TRTH FRESH DILL              2.70 F
+  3.55 lb @ 7.09 /lb
+SMPL TRTH TRKY BRST              25.17 F
+GRASS-FED GRND BF 85/15           7.35 F
+MANDARIN ORANGE CHKN             15.87 F
+KRO SAVINGS                      1.94-  
+CRM CHS 8 OZ                      3.15 F
+FM PLUS CARD SAV                 0.95-  
+FRZN PEAS 12 OZ                   5.40 F
+FM GENOA SALAMI                   4.76 F
+FM SPRKLG WTR                     3.74 F
+SMPL TRTH ATLANTIC SALMON FILLE  19.77 F
+BLACK BEANS 15 OZ CAN            10.76 F
+
+SUBTOTAL                          142.33
+TAX 10.55% ON 20.18                 2.13
+TOTAL                             144.46
+VISA TEND                         144.46
+CHANGE                              0.00
+
+04/09/26 07:17  ITEMS 23
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

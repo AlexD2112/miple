@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1602  Seattle WA
+            MEMBER ************
+
+1551516 COD FLLT                     14.89 E
+     0.82 lb @ 18.16 /lb
+1106636 KS CELERY                     4.32 E
+1142630 CARROTS 2 LB                  1.74 E
+1046162 KS TILAPIA FILLETS           21.66 E
+8854113 TPD/TILAPIA FILL             2.92-  
+669536 STRAUS PLAIN GRK YGRT          1.74 E
+710561 BLACK FOREST HAM 9 OZ          7.00 E
+459663 DELI SLCD TRKY BRST           12.42 E
+     1.13 lb @ 10.99 /lb
+629020 KS PAPER TOWELS 6 ROLL         3.75 A
+1427193 KS SLTD BTR                   5.73 E
+1538071 KS PARMIGIANO REGGIANO        7.82 E
+712480 KS BAGELS                      3.77 E
+
+SUBTOTAL                               81.92
+TAX 10.55% ON 3.75                      0.40
+**** TOTAL                             82.32
+VISA TEND                              82.32
+CHANGE                                  0.00
+
+12/31/26 13:02  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

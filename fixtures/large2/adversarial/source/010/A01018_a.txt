@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 0598
+
+HEINZ KTCHP 32 OZ                 4.48 F
+SMPL TRTH KRRYGLD BTR            10.81 F
+WHOLE MILK HALF GALLON            6.79 F
+KRO SAVINGS                      1.38-  
+
+SUBTOTAL                           20.70
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              20.70
+CASH TEND                          40.00
+CHANGE                             19.30
+
+10/06/26 09:51  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

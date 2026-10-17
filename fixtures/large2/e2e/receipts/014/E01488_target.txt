@@ -1,0 +1,23 @@
+                 TARGET
+           Seattle WA  T-3102
+             (555) 030-8138
+
+ORG BABY SPNCH                    5.54 N
+  3 @ 3.51
+PENNE 16 OZ                      10.53 N
+GG SWISS CHARD                    2.87 N
+MKT PANTRY LEMONS                 4.19 N
+CIRCLE DEAL                      1.26-  
+MKT PANTRY AHI TUNA STEAK        14.71 N
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           36.74
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              36.76
+DEBIT TEND                         36.76
+CHANGE                              0.00
+
+07/10/26 13:07  ITEMS 7
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

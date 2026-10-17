@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2927  Seattle WA
+            MEMBER ************
+
+1751678 KS PORK TENDERLOIN           26.54 E
+     2.75 lb @ 9.65 /lb
+323876 KS RICOTTA                     8.76 E
+1631676 EVRYTHNG BUT THE BAGEL SSNNG  7.01 E
+1639114 LARGE EGGS 18 CT              7.52 E
+906075 KS BLCKBRRS                    3.92 E
+
+SUBTOTAL                               53.75
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             53.75
+AMEX TEND                              53.75
+CHANGE                                  0.00
+
+06/03/26 18:18  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 3264
+
+  2 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU       5.56 F
+CELERY HEARTS                     4.34 F
+RUSSET POTS 5 LB BAG              4.53 F
+
+SUBTOTAL                           14.43
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              14.43
+CASH TEND                          20.00
+CHANGE                              5.57
+
+08/16/26 21:45  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

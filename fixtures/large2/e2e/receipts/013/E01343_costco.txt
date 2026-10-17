@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3726  Seattle WA
+            MEMBER ************
+
+713323 CRM CHS                        8.63 E
+737427 DIGIORNO RISING CRUST PEPPER  17.19 E
+     3 @ 5.73
+2065612 TPD/DIGIORNO RIS             2.31-  
+418366 HASS AVOCADO LG                9.55 E
+     2.86 lb @ 3.34 /lb
+520828 ORG SPRING MIX 1 LB            5.49 E
+355136 FRZN BROC FLRTS                8.13 E
+212537 PEPSI 12 PK CANS               9.86 A
+     2 @ 4.93
+523686 KS KALE                        4.17 E
+1079901 ORGANIC ITALIAN PARSLEY       1.95 E
+1217273 BANANA                        9.48 E
+     4 @ 2.37
+987252 KS BNLS SKNLS CHKN BRST       29.57 E
+     4.42 lb @ 6.69 /lb
+
+SUBTOTAL                              101.71
+TAX 10.55% ON 9.86                      1.04
+**** TOTAL                            102.75
+MASTERCARD TEND                       102.75
+CHANGE                                  0.00
+
+04/19/26 19:53  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

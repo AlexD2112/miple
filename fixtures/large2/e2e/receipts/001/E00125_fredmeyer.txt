@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 1901
+
+SHREDDED CHEDDAR 8 OZ             6.42 F
+MFR CPN                          1.43-  
+SLCD SRDGH PAN LOAF               4.74 F
+  2 @ 2.81
+CHICKEN BROTH 32 OZ               5.62 F
+UNSLTD BTR                        9.95 F
+  REFUND - ORIG RECEIPT
+RETURN SHREDDED CHEDDAR 8 OZ     6.42- F
+
+SUBTOTAL                           18.88
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              18.88
+CASH TEND                          20.00
+CHANGE                              1.12
+
+07/07/26 18:09  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

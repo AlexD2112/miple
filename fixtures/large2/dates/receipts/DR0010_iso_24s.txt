@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0358  Seattle WA
+            MEMBER ************
+
+386156 KS BARTLETT PEARS              3.00 E
+810927 ARGL                           4.00 E
+0162747 TPD/ARGL                     1.20-  
+496732 ICEBERG LTTC                  15.33 E
+     3 @ 5.11
+1726804 LG EGGS 12 CT                 8.69 E
+456787 BLUBRY 18 OZ                   4.61 E
+389068 2% MILK HALF GALLON            6.08 E
+426778 ORG RMN HEARTS 3 CT            3.76 E
+1186348 GROUND BEEF 88/12             8.88 E
+     1.48 lb @ 6.00 /lb
+1499047 BLACK BEANS 15 OZ CAN        10.76 E
+
+SUBTOTAL                               63.91
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             63.91
+AMEX TEND                              63.91
+CHANGE                                  0.00
+
+2026-11-03 01:39:03  316 316 7476 11
+ITEMS 30   REG 10  TRANS 7409
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

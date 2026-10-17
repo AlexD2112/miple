@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 3344
+
+SMPL TRTH AVOCADOS                4.05 F
+  2.10 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTS             2.37 F
+RED GRAPES                        3.04 F
+RED GRAPES                        3.04 F
+  3 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU       8.34 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           20.89
+TAX                                 0.00
+TOTAL                              20.89
+CASH TEND                          40.00
+CHANGE                             19.11
+
+02/27/26 21:03  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

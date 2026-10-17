@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 0723
+
+2% MILK HALF GALLON               6.08 F
+DIGITAL CPN                      1.82-  
+SMPL TRTH FRZN PEAS              13.98 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+FM ORANGE JUICE                   7.69 F
+  2 @ 1.51
+COLA 12PK CANS                    3.02 T
+BROC CROWNS                       2.25 F
+CHKN BROTH 32 OZ                  2.81 F
+  2.21 lb @ 3.72 /lb
+ZCCHN                             8.22 F
+FM PLUS CARD SAV                 1.23-  
+STRWB 2 LB                        5.88 F
+CRM CHS 8 OZ                      3.15 F
+MANDARINS                         2.72 F
+  0.76 lb @ 2.83 /lb
+ORG LEMONS                        2.15 F
+  2 @ 4.26
+DRIED LENTILS                     8.52 F
+  4 @ 5.85
+ORG BABY SPNCH 5 OZ              23.40 F
+MFR CPN                          2.99-  
+SMPL TRTH SLTD BTR                5.73 F
+DIGITAL CPN                      1.72-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           96.88
+TAX 10.55% ON 3.18                  0.34
+TOTAL                              97.22
+DEBIT TEND                         97.22
+CHANGE                              0.00
+
+06/16/26 15:54  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

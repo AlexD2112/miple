@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1057  Seattle WA
+            MEMBER ************
+
+450954 KS COLD BREW COFFEE 32OZ      17.72 E
+     4 @ 4.43
+1015434 ALL PURPOSE FLOUR            11.36 E
+1122896 KS KRRYGLD BTR               10.81 E
+1125255 CILANTRO BUNCH                2.02 E
+1598071 DRGLD UNSLTD BTR              6.67 E
+1773481 KS CRM CHS                    8.63 E
+
+SUBTOTAL                               57.21
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             57.21
+MASTERCARD TEND                        57.21
+CHANGE                                  0.00
+
+08/09/26 13:35  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

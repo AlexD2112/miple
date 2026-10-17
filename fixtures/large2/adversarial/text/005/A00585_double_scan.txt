@@ -1,0 +1,41 @@
+                SAFEWAY
+      Store 0132  San Francisco CA
+             (555) 010-0739
+
+  2 @ 4.17
+KALE                              8.34 S
+SIG KTCHNS DRIED LNTLS            4.26 S
+  2 @ 5.49
+SIG SLCT KTCHP                   10.98 S
+DIJON MUSTARD                     2.46 S
+GRK YGRT PLAIN                    4.11 S
+BLUBRY 18 OZ                      4.61 S
+TLLMK MEDIUM CHDR 2.5 LB          4.21 S
+SIG KTCHNS DRIED LNTLS            4.26 S
+  2 @ 5.49
+SIG SLCT KTCHP                   10.98 S
+DIJON MUSTARD                     2.46 S
+GRK YGRT PLAIN                    4.11 S
+BLUBRY 18 OZ                      4.61 S
+TLLMK MEDIUM CHDR 2.5 LB          4.21 S
+SIG SLCT ROTIS CHKN               5.04 T
+SIG KTCHNS PEANUT BUTTER          6.90 S
+SW SRIRACHA                       3.16 S
+  3.29 lb @ 1.33 /lb
+ORG HONEYCRISP APPLES             4.38 S
+O ORGANICS BARTLETT PEARS         3.00 S
+ORIGINAL HUMMUS 10 OZ             8.88 S
+O ORGANICS NAVEL ORANGES          1.01 S
+SIG ALUMINUM FOIL                18.03 T
+  3 @ 0.25
+BAG FEE                           0.75  
+
+SUBTOTAL                           90.12
+TAX 8.625% ON 23.07                 1.99
+**** TOTAL                         92.11
+DEBIT TEND                         92.11
+CHANGE                              0.00
+
+09/02/26 07:56  ITEMS 17
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

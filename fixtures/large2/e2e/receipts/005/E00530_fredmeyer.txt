@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 0879
+
+KRO CHKN DRMSTCKS                 8.97 F
+ICE CRM                          14.51 F
+KRO JASMINE RICE                 12.13 F
+SMPL TRTH AVCDS                   4.05 F
+FM ALL PRPS FLOUR                11.36 F
+SMPL TRTH CAGE FREE EGGS 18CT     6.85 F
+  REFUND - ORIG RECEIPT
+RETURN KRO CHKN DRMSTCKS         8.97- F
+
+SUBTOTAL                           48.90
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              48.90
+AMEX TEND                          48.90
+CHANGE                              0.00
+
+02/29/28 16:16  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

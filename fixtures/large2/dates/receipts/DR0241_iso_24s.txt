@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2174  Seattle WA
+            MEMBER ************
+
+1539755 DIJON MSTRD                   9.84 E
+     4 @ 2.46
+9229195 TPD/DIJON MSTRD              0.22-  
+1731957 KS SLCD TRKY BRST             6.99 E
+     0.53 lb @ 13.18 /lb
+
+SUBTOTAL                               16.61
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             16.61
+VISA TEND                              16.61
+CHANGE                                  0.00
+
+2030-02-28 16:02:41  216 216 3430 04
+ITEMS 7   REG 09  TRANS 3972
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

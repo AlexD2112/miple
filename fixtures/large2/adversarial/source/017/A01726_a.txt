@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3055  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******4251
+
+198389 KS BANANAS                     9.48 E
+     3.27 lb @ 2.90 /lb
+6633545 TPD/BANANAS                  0.56-  
+534845 KS HONEYCRISP APPLES           4.67 E
+1578109 COLA 12PK                     1.83 A
+658749 BLACK FOREST HAM              20.69 E
+     1.46 lb @ 14.17 /lb
+201618 KS WHOLE CHICKEN              23.36 E
+     3.69 lb @ 6.33 /lb
+1732776 RED ONIN                      1.01 E
+     0.68 lb @ 1.48 /lb
+994557 KS SLTD BTR                    5.73 E
+809766 BABY SPNCH 5 OZ                7.54 E
+     2 @ 3.77
+
+SUBTOTAL                               73.75
+TAX EXEMPT                              0.00
+**** TOTAL                             73.75
+DEBIT TEND                             73.75
+CHANGE                                  0.00
+
+07/28/26 13:15  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

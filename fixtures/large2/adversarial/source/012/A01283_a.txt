@@ -1,0 +1,30 @@
+                SAFEWAY
+         Store 3064  Seattle WA
+             (555) 010-2308
+REG 13 TRN 2726 OPR 619
+
+SIG SLCT PEANUT BUTTER            6.90 S
+RUSSET POTS 5 LB BAG              4.53 S
+DOUBLE CREME BRIE                 5.40 S
+J4U PERSONAL DEAL                0.55-  
+HUY FONG SRRCH                    2.55 S
+O ORGANICS MANDARINS              2.72 S
+  3 @ 4.74
+SLICED SOURDOUGH PAN LOAF        14.22 S
+SIG KTCHNS ICE CRM               14.51 S
+J4U PERSONAL DEAL                0.56-  
+
+SUBTOTAL                           49.72
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         49.72
+AMEX TEND                          49.72
+CHANGE                              0.00
+
+08/28/26 17:06  ITEMS 9
+T=TAXABLE  S=NONTAXABLE FOOD
+TOTAL SAVINGS THIS YEAR   179.48
+SAVE 2.00 ON YOUR NEXT VISIT
+REWARDS BALANCE           358.39
+AUTH CODE  886827
+FUEL POINTS THIS ORDER        197
+               THANK YOU

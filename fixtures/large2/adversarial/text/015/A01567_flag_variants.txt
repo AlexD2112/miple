@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0096  Seattle WA
+            MEMBER ************
+
+544796 KIWI                           3.62  
+     1.74 lb @ 2.08 /lb
+1156443 MISSION FLOUR TORTILLAS 40 C  5.22  
+1250010 KS PENNE                     13.38  
+181779 KS GALA APPLES                 2.37  
+     1.03 lb @ 2.30 /lb
+1846447 STRWB 1 LB                    5.22  
+392162 KS SALSA JAR                   4.18  
+     2 @ 2.09
+
+SUBTOTAL                               33.99
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             33.99
+VISA TEND                              33.99
+CHANGE                                  0.00
+
+05/19/26 15:40  ITEMS 7
+B=TAXABLE
+                 THANK YOU

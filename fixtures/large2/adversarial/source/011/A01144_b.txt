@@ -1,0 +1,30 @@
+               FRED MEYER
+              Portland OR
+               Store 3385
+
+LNDRY DETERGENT PODS             20.18 F
+ALMNM FOIL                       18.03 F
+  3.68 lb @ 9.93 /lb
+BONELESS PORK LOIN CHOPS         36.54 F
+MAYONNAISE 30 OZ                  6.42 F
+SMPL TRTH TRTLL CHIPS             3.33 F
+  2 @ 5.49
+KRO KETCHUP                      10.98 F
+ORGANIC BASIL CLAMSHELL           1.49 F
+PLAIN NONFAT GRK YGRT             4.65 F
+ORG SPRING MIX 1 LB               5.49 F
+  1.26 lb @ 3.34 /lb
+HASS AVOCADO LG                   4.21 F
+DIGITAL CPN                      0.31-  
+ORG GALA APPLES                   1.57 F
+FM PLUS CARD SAV                 0.47-  
+
+SUBTOTAL                          112.11
+TAX                                 0.00
+TOTAL                             112.11
+DEBIT TEND                        112.11
+CHANGE                              0.00
+
+10/17/26 20:20  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

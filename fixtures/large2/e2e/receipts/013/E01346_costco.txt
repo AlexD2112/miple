@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3487  Seattle WA
+            MEMBER ************
+
+1091809 KS KRRYGLD BTR               10.81 E
+673623 CHOBANI PLAIN GRK YGRT 32 OZ   1.47 E
+1903303 KS SWISS CHS                 11.10 E
+     1.20 lb @ 9.25 /lb
+388584 ORG LEMONS                     1.75 E
+     0.62 lb @ 2.83 /lb
+581754 ORGANIC ITALIAN PARSLEY        1.95 E
+1082813 2% MLK GALLON                 6.49 E
+1089106 UNEXPECTED CHDR               5.57 E
+     0.31 lb @ 17.98 /lb
+7014989 TPD/UNEXPECTED C             1.28-  
+614061 LEMONS                         4.19 E
+1909340 DELI SLCD TRKY BRST           7.03 E
+     0.64 lb @ 10.99 /lb
+1389708 WHITE BRD                     6.34 E
+108445 KS LIMES                       2.80 E
+1523028 KS TRKY BRST                 31.98 E
+     4.51 lb @ 7.09 /lb
+4427852 TPD/TRKY BRST                0.67-  
+272157 HAND SOAP                     24.27 A
+914062 BABY CARROTS                   2.49 E
+
+SUBTOTAL                              116.29
+TAX 10.55% ON 24.27                     2.56
+**** TOTAL                            118.85
+MASTERCARD TEND                       118.85
+CHANGE                                  0.00
+
+05/18/26 16:30  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

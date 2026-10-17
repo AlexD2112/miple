@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0445
+
+  3 @ 3.54
+AVCDS BAG 4 CT                   10.62 F
+DIGITAL CPN                      0.54-  
+SMPL TRTH WHOLE WHEAT SANDWICH B  2.54 F
+PRIV SEL KETCHUP                  5.49 F
+ITALIAN PARSLEY                   2.93 F
+
+SUBTOTAL                           21.04
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              21.04
+VISA TEND                          21.04
+CHANGE                              0.00
+
+08/31/26 14:30  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

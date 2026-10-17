@@ -1,0 +1,36 @@
+               FRED MEYER
+               Seattle WA
+               Store 2452
+
+SMPL TRTH SPGHTT                  9.54 F
+FM ROLLED OATS                    3.98 F
+ORANGE JUICE 52OZ                 9.39 F
+  2 @ 5.79
+KRO LEMONADE 52OZ                11.58 T
+FM VANILLA YOGURT CUPS            5.39 F
+  2 @ 4.30
+LEMON                             8.60 F
+  0.36 lb @ 3.42 /lb
+RED BELL PEPR                     1.23 F
+  4 @ 2.38
+SMPL TRTH ROMA TOM                9.52 F
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+MFR CPN                          2.45-  
+  2 @ 2.00
+KRO CRKRS                         4.00 F
+  5.93 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  45.31 F
+TLLMK MEDIUM CHDR                11.77 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+  2 @ 2.46
+SMPL TRTH DIJON MUSTARD           4.92 F
+
+SUBTOTAL                          141.05
+TAX 10.55% ON 11.58                 1.22
+TOTAL                             142.27
+VISA TEND                         142.27
+CHANGE                              0.00
+
+06/21/26 14:19  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 0768
+
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+  3 @ 5.07
+SMPL TRTH POTATO CHIPS           15.21 F
+KRO TRASH BAGS 40CT               6.49 T
+DOG TREATS                        6.82 T
+KRO SAVINGS                      2.05- T
+KRO GRND TRKY                     5.19 F
+OAT MILK                          3.10 F
+  2.99 lb @ 1.05 /lb
+SMPL TRTH RDSHS                   3.14 F
+KTCHP                             5.49 F
+FM PLUS CARD SAV                 0.63-  
+
+SUBTOTAL                           50.58
+TAX 10.55% ON 11.26                 1.19
+TOTAL                              51.77
+MASTERCARD TEND                    51.77
+CHANGE                              0.00
+
+01/26/26 11:15  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

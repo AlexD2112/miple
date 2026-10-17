@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2973  Portland OR
+            MEMBER ************
+
+288492 KS STRAWBERRIES                4.35 E
+1772259 KS SOURDOUGH LOAF             7.47 E
+935150 UNSLTD BTR                     9.95 E
+8769884 TPD/UNSLTD BTR               1.21-  
+1025209 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+1902583 JASMINE RICE 5 LB             1.49 E
+934012 KS HAND SOAP                  24.27 E
+785088 FLOUR TORT                     6.18 E
+
+SUBTOTAL                               55.28
+TAX                                     0.00
+**** TOTAL                             55.28
+DISCOVER TEND                          55.28
+CHANGE                                  0.00
+
+01/17/26 18:27  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

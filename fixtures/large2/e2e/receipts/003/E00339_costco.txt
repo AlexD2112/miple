@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0771  San Francisco CA
+            MEMBER ************
+
+1437987 KS SILKEN TOFU                2.29 E
+370166 SLTD BTR 4 STICKS              9.37 E
+1943692 ORG BLACK BEANS 8 CANS        1.15 E
+1218367 KS COTTAGE CHS                3.21 E
+1407385 CARROTS                       1.79 E
+1537074 KS 2% MLK GALLON              6.49 E
+  REFUND - ORIG RECEIPT
+RETURN 1943692 ORG BLACK BEANS 8 CA  1.15- E
+
+SUBTOTAL                               23.15
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                             23.15
+VISA TEND                              23.15
+CHANGE                                  0.00
+
+02/24/26 12:50  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

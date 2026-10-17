@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 3990
+TAX EXEMPT ID ******4819
+
+FM GENOA SALAMI                   4.76 F
+FLOWERS BOUQUET                  23.70 T
+DARIGOLD UNSALTED BUTTER          6.67 F
+  3 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU       8.34 F
+BLCKBRRS                          3.92 F
+FRESH MOZZARELLA                  8.65 F
+KRO ZIP TOP BAGS                 24.79 T
+GRASS-FED GROUND BEEF 85/15       7.35 F
+KRO TTHPST                       16.40 T
+BARILLA PENNE                    19.37 F
+DIGITAL CPN                      2.57-  
+  1.71 lb @ 1.25 /lb
+PINEAPPLE                         2.14 F
+  2.79 lb @ 3.72 /lb
+SMPL TRTH ZCCHN                  10.38 F
+LARGE EGGS 12 CT                  8.69 F
+KRO SAVINGS                      2.00-  
+
+SUBTOTAL                          140.59
+TAX EXEMPT                          0.00
+TOTAL                             140.59
+VISA TEND                         140.59
+CHANGE                              0.00
+
+09/04/26 18:48  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1348  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 324910 STRAUS PLAIN GRK YGRT  1.74- E
+RETURN 140517 2% MLK HALF GALLON     6.08- E
+  REFUND - ORIG RECEIPT
+RETURN 167947 ORG SPRING MIX 1 LB   21.96- E
+RETURN 808219 RANCH DRSSNG           3.99- E
+RETURN 893307 CRM CHS                8.63- E
+RETURN 1933766 KS LNDRY DTRGNT POD  20.18- A
+
+SUBTOTAL                              62.58-
+TAX 10.55% ON 20.18-                   2.13-
+**** TOTAL                            64.71-
+VISA TEND                             64.71-
+CHANGE                                  0.00
+
+04/04/26 14:43  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

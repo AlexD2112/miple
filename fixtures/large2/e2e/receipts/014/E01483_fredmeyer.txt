@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 2612
+
+  2 @ 5.69
+SMPL TRTH CHERRIES               11.38 F
+KRO SAVINGS                      2.92-  
+KRO SLTD BTR                      5.73 F
+SLCD SRDGH PAN LOAF               4.74 F
+  6.46 lb @ 6.69 /lb
+SMPL TRTH BNLS SKNLS CHKN BRST   43.22 F
+DIGITAL CPN                      1.86-  
+  2 @ 1.72
+KRO FRZN BROC                     3.44 F
+CILANTRO                          1.16 F
+  2.67 lb @ 11.10 /lb
+KRO PORK CHOPS                   29.64 F
+KRO SOURDOUGH LOAF                7.47 F
+
+SUBTOTAL                          102.00
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             102.00
+VISA TEND                         102.00
+CHANGE                              0.00
+
+02/29/28 19:53  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

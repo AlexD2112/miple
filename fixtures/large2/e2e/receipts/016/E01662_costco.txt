@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2993  San Francisco CA
+            MEMBER ************
+
+1788909 KS BLACK BEANS CAN            8.77 E
+1657218 PRMGN RGGN WEDGE              8.42 E
+  REFUND - ORIG RECEIPT
+RETURN 1657218 PRMGN RGGN WEDGE      8.42- E
+
+SUBTOTAL                                8.77
+TAX 8.625% ON 0.00                      0.00
+**** TOTAL                              8.77
+VISA TEND                               8.77
+CHANGE                                  0.00
+
+05/09/26 07:12  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

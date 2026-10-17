@@ -1,0 +1,18 @@
+                SAFEWAY
+      Store 1666  San Francisco CA
+             (555) 010-4546
+
+OAT MLK                           3.10 S
+ORG RMN HEARTS 3 CT               3.76 S
+  REFUND - ORIG RECEIPT
+RETURN OAT MLK                   3.10- S
+
+SUBTOTAL                            3.76
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                          3.76
+DISCOVER TEND                       3.76
+CHANGE                              0.00
+
+06/26/26 21:57  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 0652
+
+  2 @ 4.05
+SMPL TRTH AVOCADOS                8.10 F
+KRO SAVINGS                      1.96-  
+ORANGE JUICE                      7.69 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+LG BROWN EGGS                     4.29 F
+  2.68 lb @ 3.76 /lb
+CAULIFLOWER                      10.08 F
+KRO OAT MLK                       3.10 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           31.55
+TAX                                 0.00
+TOTAL                              31.55
+DISCOVER TEND                      31.55
+CHANGE                              0.00
+
+06/10/26 09:34  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

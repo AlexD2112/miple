@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3696
+
+  3.10 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               11.53 F
+  3.76 lb @ 7.09 /lb
+PRIV SEL TRKY BRST               26.66 F
+SHREDDED MOZZ 8 OZ                2.92 F
+PRIV SEL RIBEYE STEAK            19.87 F
+  0.51 lb @ 9.25 /lb
+SWISS CHEESE                      4.72 F
+MYNNS                             6.36 F
+DIGITAL CPN                      1.51-  
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+DARIGOLD UNSLTD BTR               6.67 F
+  0.99 lb @ 17.07 /lb
+KRO LAMB CHOPS                   16.90 F
+WHITE SNDWCH BRD                  7.03 F
+
+SUBTOTAL                          118.58
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             118.58
+MASTERCARD TEND                   118.58
+CHANGE                              0.00
+
+08/10/26 15:19  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

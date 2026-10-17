@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 2916
+
+KRO FLOWERS BOUQUET              23.70 T
+HANDMADE STYLE CORN TORT          3.55 F
+BLACK BEANS 15 OZ CAN            10.76 F
+SMPL TRTH YELLOW ONIN             1.78 F
+  2.74 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                5.37 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           45.32
+TAX 10.55% ON 23.86                 2.52
+TOTAL                              47.84
+CASH TEND                          60.00
+CHANGE                             12.16
+
+05/17/26 09:14  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

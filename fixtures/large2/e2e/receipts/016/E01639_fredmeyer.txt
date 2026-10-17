@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 2779
+
+KRO TILAPIA FILLETS              21.66 F
+KRO SOY SCE                       6.79 F
+  3.08 lb @ 1.13 /lb
+RUSSET POTS                       3.48 F
+KRO WHL WHT SNDWCH BRD            2.54 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+  REFUND - ORIG RECEIPT
+RETURN KRO WHL WHT SNDWCH BRD    2.54- F
+
+SUBTOTAL                           32.17
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              32.20
+MASTERCARD TEND                    32.20
+CHANGE                              0.00
+
+06/03/26 17:04  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

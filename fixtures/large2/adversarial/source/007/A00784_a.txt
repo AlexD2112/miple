@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0501  Seattle WA
+            MEMBER ************
+
+79896 KS PORK TENDERLOIN             29.43 E
+     3.05 lb @ 9.65 /lb
+4669884 TPD/PORK TENDERL             2.80-  
+830567 SHREDDED CHEDDAR 8 OZ          6.42 E
+406286 KS GRND PORK                   6.60 E
+1224216 MYNNS                         6.36 E
+1996416 KS PRSNPS                     6.25 E
+     2.57 lb @ 2.43 /lb
+1996416 KS PRSNPS                     6.25 E
+     2.57 lb @ 2.43 /lb
+484533 KS DISH SOAP                  19.39 A
+1732989 ROOT BEER 2L                  5.24 A
+2679587 TPD/ROOT BEER 2L             1.57- A
+1569426 KS BAGGED CAESAR SALAD KIT    4.42 E
+     2 @ 2.21
+1778986 WHITE BRD                     6.34 E
+
+SUBTOTAL                               92.33
+TAX 10.55% ON 23.06                     2.43
+**** TOTAL                             94.76
+DEBIT TEND                             94.76
+CHANGE                                  0.00
+
+01/08/26 13:32  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

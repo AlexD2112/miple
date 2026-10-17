@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2888  Seattle WA
+            MEMBER ************
+
+1323293 KS TLLMK MEDIUM CHDR         11.77 E
+885418 CRMN MSHRM                     1.14 E
+1567760 2% MLK 2 X 1 GAL              4.70 E
+1156466 HUY FONG SRIRACHA             2.55 E
+194120 KS DAVES KILLER BRD            6.69 E
+852938 MAYONNAISE 30 OZ               6.42 E
+1563289 KS ALUMINUM FOIL             18.03 A
+1893312 KS ORANGE JUICE 52OZ          9.39 E
+670437 TILAPIA FLLTS                 21.66 E
+952928 ORGANIC SPROUTED TOFU          5.22 E
+     2 @ 2.61
+1891822 GRK YGRT 48 OZ                1.97 E
+1463071 ALMOND MLK                    5.08 E
+628029 KS COCONUT MLK CAN             3.83 E
+8878506 TPD/COCONUT MLK              1.15-  
+192633 BABY SPNCH 5 OZ                3.77 E
+
+SUBTOTAL                              101.07
+TAX 10.55% ON 18.03                     1.90
+**** TOTAL                            102.97
+AMEX TEND                             102.97
+CHANGE                                  0.00
+
+03/30/26 20:36  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

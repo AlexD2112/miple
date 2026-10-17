@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1362  Seattle WA
+            MEMBER ************
+
+773933 KS KEFIR                       3.81 E
+     3 @ 1.27
+62180 KS CLNTR                        4.64 E
+     4 @ 1.16
+1641003 APPLE JUICE 64OZ              7.25 E
+149350 DIET COLA 12PK CANS            4.42 A
+554341 SWEET POTS                     3.28 E
+1153466 GRASS-FED GRND BF 85/15       7.35 E
+78170 RUSSET POTS 5 LB BAG            4.53 E
+899705 ORG BABY SPNCH 5 OZ            5.85 E
+42026 ORG SPRING MIX 1 LB             5.49 E
+143290 CHKN BROTH 32 OZ               2.81 E
+169774 KS GINGER ALE 12PK             6.02 A
+1221310 CELERY HEARTS                 4.34 E
+1778195 KS KOMBUCHA 16OZ             18.32 E
+     4 @ 4.58
+
+SUBTOTAL                               78.11
+TAX 10.55% ON 10.44                     1.10
+**** TOTAL                             79.21
+VISA TEND                              79.21
+CHANGE                                  0.00
+
+08/22/26 21:19  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

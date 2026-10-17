@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3785  Seattle WA
+            MEMBER ************
+
+1330991 TRKY BRST                    41.62  
+     5.87 lb @ 7.09 /lb
+394588 FRZN PEAS 12 OZ                5.40  
+1695799 KS PNT BTR                    6.90  
+400612 ORGANIC HONEYCRISP APPLES      3.38  
+     2.54 lb @ 1.33 /lb
+8322077 TPD/ORGANIC HONE             0.74-  
+845737 LCRX LIME SPRKLG WTR 8 PK      4.40  
+     2 @ 2.20
+
+SUBTOTAL                               60.96
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             60.96
+MASTERCARD TEND                        60.96
+CHANGE                                  0.00
+
+06/29/26 21:00  ITEMS 6
+TX=TAXABLE ITEM
+                 THANK YOU

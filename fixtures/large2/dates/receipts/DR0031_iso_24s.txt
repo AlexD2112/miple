@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2334  Seattle WA
+            MEMBER ************
+
+1261327 KS PASTURE RAISED EGGS        7.37 E
+1669274 ORIGINAL HUMMUS 10 OZ         8.88 E
+
+SUBTOTAL                               16.25
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             16.25
+AMEX TEND                              16.25
+CHANGE                                  0.00
+
+2030-09-24 15:03:49  481 481 2355 04
+ITEMS 11   REG 10  TRANS 5880
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

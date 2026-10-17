@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 1200
+
+ARUGULA                           4.00 F
+KRO SAVINGS                      1.20-  
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+KRO SAVINGS                      0.40-  
+  2 @ 4.11
+KRO GRK YGRT PLAIN                8.22 F
+SMPL TRTH PASTURE RAISED EGGS     7.37 F
+  1.02 lb @ 14.17 /lb
+BLACK FOREST HAM                 14.45 F
+  2.68 lb @ 3.42 /lb
+SMPL TRTH RED BELL PEPR           9.17 F
+KRO GRND BF 80/20                 6.57 F
+  0.91 lb @ 14.17 /lb
+FM BLACK FOREST HAM              12.89 F
+SMPL TRTH SLTD BTR                5.73 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           71.25
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              71.28
+AMEX TEND                          71.28
+CHANGE                              0.00
+
+09/23/26 19:51  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

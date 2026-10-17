@@ -1,0 +1,19 @@
+               FRED MEYER
+               Seattle WA
+               Store 2984
+
+SMPL TRTH BABY SPNCH              5.42 F
+KRO SAVINGS                      1.63-  
+  2 @ 3.55
+HNDMD STYLE CORN TORT             7.10 F
+SMPL TRTH SWEET POTATOES          3.28 F
+
+SUBTOTAL                           14.17
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              14.17
+MASTERCARD TEND                    14.17
+CHANGE                              0.00
+
+05/03/26 20:03  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

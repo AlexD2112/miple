@@ -1,0 +1,38 @@
+               FRED MEYER
+              Portland OR
+               Store 1763
+
+COLA 12PK CANS                    1.51 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+GRSS-FD GRND BF 85/15             7.35 F
+SHAMPOO                          17.57 F
+  1.94 lb @ 9.65 /lb
+FM PORK TENDERLOIN               18.72 F
+DARK CHOC PNT BTR CUPS            5.61 F
+KRO SAVINGS                      0.37-  
+BANANA                            2.37 F
+AA BATTERIES 8PK                 24.36 F
+  2 @ 4.87
+CRSSNTS 12 CT                     9.74 F
+KRO WHL MLK HALF GALLON           6.79 F
+HEINZ KETCHUP 32 OZ               4.48 F
+KRO HAND SOAP                    24.27 F
+FM ICE CRM                       14.51 F
+MFR CPN                          1.98-  
+ORGANIC ROMAINE HEARTS 3 CT       3.76 F
+FM PLUS CARD SAV                 1.13-  
+  3 @ 5.11
+SMPL TRTH ICEBERG LTTC           15.33 F
+CELERY HEARTS                     4.34 F
+BAG FEE                           0.05  
+
+SUBTOTAL                          158.48
+TAX                                 0.00
+TOTAL                             158.48
+DISCOVER TEND                     158.48
+CHANGE                              0.00
+
+10/09/26 18:15  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

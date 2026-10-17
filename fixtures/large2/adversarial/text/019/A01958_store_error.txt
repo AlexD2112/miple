@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2534  Seattle WA
+            MEMBER ************
+
+1898380 KS SWISS CHS                  3.70 E
+     0.40 lb @ 9.25 /lb
+1426712 SLTD BTR                      5.73 E
+9537964 TPD/SLTD BTR                 1.72-  
+1836356 KS FLOUR TORTILLAS            6.18 E
+721563 CLNTR BUNCH                    2.02 E
+228253 KS SPNGS 3PK                   9.54 A
+1331742 KS SHMP                      17.57 A
+577842 PCHS                           2.24 E
+     3.29 lb @ 0.68 /lb
+155551 HOT BAR PRPRD FOOD BY WEIGHT   8.83 A
+1611714 ORG SPROUTED TOFU             2.61 E
+
+SUBTOTAL                               56.70
+TAX 10.55% ON 35.94                     3.72
+**** TOTAL                             60.42
+DISCOVER TEND                          60.42
+CHANGE                                  0.00
+
+07/12/26 16:03  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

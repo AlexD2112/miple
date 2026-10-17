@@ -1,0 +1,27 @@
+                 TARGET
+           Seattle WA  T-1080
+             (555) 030-4100
+
+GG DELI FRIED CHKN               11.75 T
+  2.24 lb @ 13.74 /lb
+CHUCK ROAST                      30.78 N
+  4 @ 3.55
+HNDMD STYLE CORN TORT            14.20 N
+GG PSTR RAISED EGGS               7.37 N
+DELI FRIED CHICKEN               11.75 T
+UNSLTD BTR 4 X 1 LB               9.48 N
+GG GRND BF 80/20                  6.57 N
+AVOCADOS                          4.05 N
+DOUBLE CREME BRIE                 5.40 N
+ROLLED OATS                       3.98 N
+MKT PANTRY KEFIR                  1.27 N
+
+SUBTOTAL                          106.60
+TAX 10.55% ON 23.50                 2.48
+TOTAL                             109.08
+DISCOVER TEND                     109.08
+CHANGE                              0.00
+
+06/22/26 20:10  ITEMS 14
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

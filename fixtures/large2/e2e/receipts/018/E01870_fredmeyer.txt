@@ -1,0 +1,31 @@
+               FRED MEYER
+              Portland OR
+               Store 1637
+
+GRASS-FED GRND BF 85/15           7.35 F
+  2 @ 3.99
+KRO RANCH DRSSNG                  7.98 F
+FM SLTD BTR                       5.73 F
+DIGITAL CPN                      1.51-  
+FM COLD BREW COFFEE 32OZ          4.43 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  3 @ 2.72
+SMPL TRTH MANDARINS               8.16 F
+KRO SAVINGS                      1.59-  
+SMPL TRTH YELLOW ONIN             1.78 F
+SMPL TRTH GENOA SALAMI            4.76 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+ORG ITALIAN PARSLEY               1.95 F
+KRO BLACK BEANS CAN               8.77 F
+MFR CPN                          0.92-  
+
+SUBTOTAL                           57.31
+TAX                                 0.00
+TOTAL                              57.31
+CASH TEND                          60.00
+CHANGE                              2.69
+
+10/06/26 07:50  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

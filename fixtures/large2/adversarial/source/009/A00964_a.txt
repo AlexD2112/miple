@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1255
+
+  1.87 lb @ 6.00 /lb
+GRND BF 88/12                    11.22 F
+  2.32 lb @ 1.79 /lb
+SMPL TRTH BEETS                   4.15 F
+KRO COLA 12PK CANS                1.51 T
+ROMA TOM                          2.38 F
+DARIGOLD UNSLTD BTR               6.67 F
+
+SUBTOTAL                           25.93
+TAX 10.55% ON 1.51                  0.16
+TOTAL                              26.09
+AMEX TEND                          26.09
+CHANGE                              0.00
+
+09/02/26 17:16  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

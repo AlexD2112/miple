@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 3156  Seattle WA
+             (555) 010-2193
+
+MSSN FLOUR TORT 40 CT             5.22 S
+J4U DIGITAL CPN                  1.57-  
+SIG KTCHNS TRTLL CHIPS            3.33 S
+
+SUBTOTAL                            6.98
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                          6.98
+DEBIT TEND                          6.98
+CHANGE                              0.00
+
+06/21/26 13:28  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

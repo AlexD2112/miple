@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 0460
+TAX EXEMPT ID ******9328
+
+  2.31 lb @ 6.00 /lb
+GROUND BEEF 88/12                13.86 F
+STRAUS PLAIN GRK YGRT             1.74 F
+BOTTLED WTR 40 PK                 2.45 F
+  4 @ 2.87
+SWISS CHARD                      11.48 F
+FM PLUS CARD SAV                 2.06-  
+FM SOY SCE                        6.79 F
+KRO SHRP CHDR BLOCK              10.33 F
+FM ROTISSERIE CHICKEN             5.04 T
+FM VAN YGRT CUPS                  5.39 F
+  2.81 lb @ 18.16 /lb
+COD FLLT                         51.03 F
+KRO TUNA CAN                      1.08 F
+STRAWBERRIES 1 LB                 5.22 F
+DARK CHOC PNT BTR CUPS            5.61 F
+  2 @ 2.45
+SMPL TRTH BTR LTTC                4.90 F
+CARROTS 2 LB                      1.74 F
+  2.36 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             23.43 F
+PRPRD MAC & CHS                  10.62 F
+FM PLUS CARD SAV                 0.68-  
+KRO TORTILLA CHIPS                3.33 F
+MFR CPN                          1.00-  
+
+SUBTOTAL                          160.30
+TAX EXEMPT                          0.00
+TOTAL                             160.30
+MASTERCARD TEND                   160.30
+CHANGE                              0.00
+
+02/02/26 17:13  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

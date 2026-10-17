@@ -1,0 +1,16 @@
+               FRED MEYER
+              Portland OR
+               Store 3944
+
+  REFUND - ORIG RECEIPT
+RETURN ASPRGS                    8.79- F
+
+SUBTOTAL                           8.79-
+TAX                                 0.00
+TOTAL                              8.79-
+AMEX TEND                          8.79-
+CHANGE                              0.00
+
+06/10/26 17:08  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

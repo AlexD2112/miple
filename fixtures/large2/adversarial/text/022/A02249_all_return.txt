@@ -1,0 +1,23 @@
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-5246
+
+  REFUND - ORIG RECEIPT
+RETURN HEINZ KTCHP 32 OZ         4.48- F
+  REFUND - ORIG RECEIPT
+RETURN WF KEFIR                  1.27- F
+  REFUND - ORIG RECEIPT
+RETURN 365 DAVES KILLER BRD      6.69- F
+RETURN CHKN GYOZA POTSTICKERS    9.88- F
+RETURN KEFIR                     3.81- F
+RETURN 365 SPAGHETTI             9.54- F
+
+SUBTOTAL                          35.67-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             35.67-
+VISA TEND                         35.67-
+CHANGE                              0.00
+
+01/10/26 12:26  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

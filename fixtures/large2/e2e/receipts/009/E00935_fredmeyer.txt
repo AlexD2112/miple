@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 0916
+
+SMPL TRTH ICEBERG LTTC            5.11 F
+  3.79 lb @ 2.90 /lb
+BANANAS                          10.99 F
+ASPARAGUS                         2.93 F
+KRO GREETING CARD                20.34 T
+KRO SAVINGS                      1.59- T
+  3 @ 4.00
+SMPL TRTH ARUGULA                12.00 F
+KRO COLD BREW COFFEE 32OZ         4.43 F
+CRM CHS 8 OZ                      3.15 F
+SWISS CHARD                       2.87 F
+DIGITAL CPN                      0.86-  
+ORANGE JUICE 52OZ                 9.39 F
+ROOT BEER 2L                      5.24 T
+SMPL TRTH RANCH DRSSNG            3.99 F
+  0.64 lb @ 3.76 /lb
+SMPL TRTH CAULIFLOWER             2.41 F
+  4 @ 4.58
+KOMBUCHA 16OZ                    18.32 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           98.88
+TAX 10.55% ON 24.15                 2.55
+TOTAL                             101.43
+MASTERCARD TEND                   101.43
+CHANGE                              0.00
+
+01/22/26 21:25  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,62 @@
+                SAFEWAY
+         Store 2777  Seattle WA
+             (555) 010-6907
+
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 S
+GOAT CHS                          8.35 S
+PENNE                            13.38 S
+PLAIN NONFAT GRK YGRT             4.65 S
+SW FRZN PIZZA                    13.30 S
+SW TLP FLLTS                     21.66 S
+
+SUBTOTAL                           71.66
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         71.66
+DISCOVER TEND                      71.66
+CHANGE                              0.00
+
+02/25/26 20:19  ITEMS 6
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU
+               FRED MEYER
+               Seattle WA
+               Store 2542
+
+FM CHICKEN BROTH CARTON           8.38 F
+ORG EGGS 24 CT                    7.83 F
+PAPER PLATES                      3.31 T
+DIGITAL CPN                      0.99- T
+SMPL TRTH FRZN BROC               1.72 F
+  4 @ 2.46
+DIJON MSTRD                       9.84 F
+  3.00 lb @ 3.42 /lb
+RED BELL PEPPER                  10.26 F
+  6.13 lb @ 6.33 /lb
+KRO WHL CHKN                     38.80 F
+JASMINE RICE                     12.13 F
+MFR CPN                          0.99-  
+  1.55 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                24.12 F
+DIGITAL CPN                      1.56-  
+  2 @ 5.85
+ORG BABY SPNCH 5 OZ              11.70 F
+KRO LG BROWN EGGS                 4.29 F
+TOSTITOS SCOOPS TRTLL CHIPS       3.46 F
+PEPSI 12 PK CANS                  4.93 T
+SMPL TRTH GREEN ONIN BUNCH        2.59 F
+TRASH BAGS 40CT                   6.49 T
+KRO NAPKINS                      24.05 T
+FM PLUS CARD SAV                 2.74- T
+  3.54 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  27.05 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          194.75
+TAX 10.55% ON 35.13                 3.71
+TOTAL                             198.46
+DEBIT TEND                        198.46
+CHANGE                              0.00
+
+09/18/26 17:28  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

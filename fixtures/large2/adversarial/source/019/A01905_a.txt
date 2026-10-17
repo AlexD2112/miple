@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3421  Seattle WA
+            MEMBER ************
+
+1889991 KS GOAT CHS                   8.35 E
+195680 KS BLACK FOREST HAM           18.56 E
+     1.31 lb @ 14.17 /lb
+1588726 COTTAGE CHS                   3.21 E
+
+SUBTOTAL                               26.91
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             26.91
+DISCOVER TEND                          26.91
+CHANGE                                  0.00
+
+01/05/26 14:54  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

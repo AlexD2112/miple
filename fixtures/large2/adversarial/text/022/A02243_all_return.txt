@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2231
+
+  REFUND - ORIG RECEIPT
+RETURN ASPARAGUS                 2.93- F
+RETURN KRO KOMBUCHA 16OZ         4.58- F
+RETURN SMPL TRTH LIMES           2.80- F
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH BTR LTTC        7.35- F
+RETURN COCA-COLA 12 PACK CANS   11.08- T
+
+SUBTOTAL                          28.74-
+TAX 10.55% ON 11.08-               1.17-
+TOTAL                             29.91-
+VISA TEND                         29.91-
+CHANGE                              0.00
+
+04/29/26 14:59  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2952
+
+SMPL TRTH BABY CRRTS              2.49 F
+  1.81 lb @ 9.65 /lb
+SMPL TRTH PORK TENDERLOIN        17.47 F
+DIGITAL CPN                      1.94-  
+  3.01 lb @ 13.74 /lb
+PRIV SEL CHUCK ROAST             41.36 F
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+LG EGGS 18 CT                     7.52 F
+KRO SAVINGS                      0.86-  
+
+SUBTOTAL                           68.24
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              68.24
+MASTERCARD TEND                    68.24
+CHANGE                              0.00
+
+02/09/26 09:05  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

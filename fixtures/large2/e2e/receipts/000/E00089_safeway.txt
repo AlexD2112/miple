@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 1517  Seattle WA
+             (555) 010-3982
+
+PENNE 16 OZ                       3.51 S
+CLUB CARD SAVINGS                0.39-  
+TOOTHPASTE                       16.40 T
+
+SUBTOTAL                           19.52
+TAX 10.55% ON 16.40                 1.73
+**** TOTAL                         21.25
+DEBIT TEND                         21.25
+CHANGE                              0.00
+
+02/18/26 12:41  ITEMS 2
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

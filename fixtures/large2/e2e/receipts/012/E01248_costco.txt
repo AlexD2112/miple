@@ -1,0 +1,44 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2847  Seattle WA
+            MEMBER ************
+
+1500976 JSMN RICE 5 LB                2.98 E
+     2 @ 1.49
+564798 KS MYNNS                       6.36 E
+1459682 KS CHICKEN BROTH CARTON       8.38 E
+148638 STRAWBERRIES 1 LB              5.22 E
+561190 COLD BREW COFFEE 32OZ         13.29 E
+     3 @ 4.43
+1866453 TILLAMOOK VANILLA YOGURT     16.20 E
+     4 @ 4.05
+96527 KS CAULIFLOWER                  5.41 E
+     1.44 lb @ 3.76 /lb
+1199838 GRND BF 88/12                21.36 E
+     3.56 lb @ 6.00 /lb
+576512 KS JASMINE RICE               12.13 E
+821297 PLAIN NONFAT GRK YGRT         13.95 E
+     3 @ 4.65
+1024969 BARTLETT PEARS                3.00 E
+235213 KS PASTURE RAISED EGGS         7.37 E
+248778 JASMINE RICE 25 LB             8.09 E
+8939899 TPD/JASMINE RICE             1.04-  
+1681722 KS DELI FRIED CHKN           11.75 A
+1916759 KS DICED TOMATOES CAN         5.96 E
+     2 @ 2.98
+933012 FRESH MINT                     5.48 E
+     2 @ 2.74
+805110 TLLMK ICE CRM 48 OZ            8.88 E
+1524976 KS PARMIGIANO REGGIANO        7.82 E
+169807 KS FRZN MIXED BRRS             2.06 E
+849325 HAND SOAP                     24.27 A
+
+SUBTOTAL                              188.92
+TAX 10.55% ON 36.02                     3.80
+**** TOTAL                            192.72
+DEBIT TEND                            192.72
+CHANGE                                  0.00
+
+07/01/26 21:25  ITEMS 30
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

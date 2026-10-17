@@ -1,0 +1,42 @@
+                 TARGET
+           Seattle WA  T-2248
+             (555) 030-7407
+
+HNDMD STYLE CORN TORT             3.55 N
+GG GRND COFFEE                    9.64 N
+GRND TRKY                         5.19 N
+CRKRS                             2.00 N
+  1.48 lb @ 1.79 /lb
+GG BEETS                          2.65 N
+  2.39 lb @ 9.65 /lb
+PORK TNDRLN                      23.06 N
+REDUCED FAT 2% MILK GALLON        6.54 N
+LG BROWN CAGE FREE EGGS           4.10 N
+  3.95 lb @ 1.60 /lb
+JLPN                              6.32 N
+GG TLP FLLTS                     21.66 N
+  3.81 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                59.28 N
+  1.65 lb @ 2.08 /lb
+GG KIWI                           3.43 N
+  2.97 lb @ 9.65 /lb
+GG PORK TENDERLOIN               28.66 N
+GG ITALIAN PRSLY                  2.93 N
+DARIGOLD UNSLTD BTR               6.67 N
+  3 @ 3.00
+GG BARTLETT PEARS                 9.00 N
+GG CHKN BROTH CARTON              8.38 N
+WHITE BRD                         6.34 N
+GG ITALIAN PARSLEY                2.93 N
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          212.49
+TAX 10.55% ON 0.16                  0.02
+TOTAL                             212.51
+DEBIT TEND                        212.51
+CHANGE                              0.00
+
+08/01/26 16:00  ITEMS 21
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

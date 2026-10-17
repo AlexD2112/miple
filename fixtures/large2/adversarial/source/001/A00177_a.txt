@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0839  Seattle WA
+            MEMBER ************
+
+27710 RED BELL PEPR                  12.18 E
+     3.56 lb @ 3.42 /lb
+408866 KS JLPN                        2.48 E
+     1.55 lb @ 1.60 /lb
+1626621 KS GRND TRKY                  5.19 E
+410730 JASMINE RICE 5 LB              1.49 E
+1921016 KS BLCKBRRS                   3.92 E
+444740 MAYONNAISE 30 OZ               6.42 E
+1107161 KS PINEAPPLE                  4.44 E
+     3.55 lb @ 1.25 /lb
+394252 CREAM CHEESE 8 OZ              3.15 E
+693484 ORIGINAL HUMMUS 10 OZ          8.88 E
+563566 BLACK FOREST HAM              15.02 E
+     1.06 lb @ 14.17 /lb
+149455 TOOTHPASTE                    16.40 A
+1963941 KS VAN YGRT CUPS              5.39 E
+685652 CAT LITTER                    14.03 A
+596492 KS DELI FRIED CHICKEN         11.75 A
+9237426 TPD/DELI FRIED C             2.94- A
+825829 KS SHAMPOO                    17.57 A
+144179 SLTD BTR                       5.73 E
+298658 HUY FONG SRIRACHA             10.20 E
+     4 @ 2.55
+
+SUBTOTAL                              141.30
+TAX 10.55% ON 56.81                     5.99
+**** TOTAL                            147.29
+AMEX TEND                             147.29
+CHANGE                                  0.00
+
+02/15/26 15:14  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,41 @@
+               FRED MEYER
+               Seattle WA
+               Store 1111
+
+CHERRY TOM                        1.15 F
+SMPL TRTH KALE                    4.17 F
+FM PLUS CARD SAV                 1.25-  
+SMPL TRTH DIJON MUSTARD           2.46 F
+FM PLUS CARD SAV                 0.74-  
+FRZN BROC                         1.72 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+DIGITAL CPN                      1.12-  
+  2.01 lb @ 17.07 /lb
+KRO LAMB CHOPS                   34.31 F
+ORGANIC CARROTS BUNCH             4.63 F
+HMBRGR BUNS                       2.77 F
+  2.81 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                3.74 F
+GOAT CHEESE                       8.35 F
+FM PLUS CARD SAV                 2.48-  
+  3 @ 2.29
+FM SILKEN TOFU                    6.87 F
+LEMON                             4.30 F
+SMPL TRTH LG BROWN EGGS           4.29 F
+  4 @ 4.74
+SLICED SOURDOUGH PAN LOAF        18.96 F
+KRO PAPER TOWELS 6 ROLL           3.75 T
+KRO PEANUT BUTTER                 6.90 F
+QUINOA                            7.75 F
+MAYONNAISE                        6.36 F
+MFR CPN                          0.53-  
+
+SUBTOTAL                          125.24
+TAX 10.55% ON 3.75                  0.40
+TOTAL                             125.64
+MASTERCARD TEND                   125.64
+CHANGE                              0.00
+
+04/25/26 09:48  ITEMS 23
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

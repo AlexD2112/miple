@@ -1,0 +1,33 @@
+               FRED MEYER
+              Portland OR
+               Store 1448
+
+WILD COD FLLT                    18.56 F
+SPNGS 3PK                         9.54 F
+SMPL TRTH JASMINE RICE           12.13 F
+CRM CHS 8 OZ                      3.15 F
+  3.15 lb @ 1.33 /lb
+ORGANIC HONEYCRISP APPLES         4.19 F
+CROISSANTS 12 CT                  4.87 F
+FM CAGE FREE EGGS 18CT            6.85 F
+FM FROZEN BROCCOLI                1.72 F
+FM KEFIR                          1.27 F
+DOG TREATS                        6.82 F
+SMPL TRTH GOAT CHEESE             8.35 F
+SHREDDED MOZZ 8 OZ                2.92 F
+  1.90 lb @ 3.50 /lb
+SMPL TRTH ENGLISH CUCUMBER        6.65 F
+KRO FLOWERS BOUQUET              23.70 F
+  3.85 lb @ 1.33 /lb
+ORG HNYCRSP APPLES                5.12 F
+BAG FEE                           0.05  
+
+SUBTOTAL                          115.89
+TAX                                 0.00
+TOTAL                             115.89
+DISCOVER TEND                     115.89
+CHANGE                              0.00
+
+08/07/26 16:53  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

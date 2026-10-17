@@ -1,0 +1,335 @@
+{"name":"chicken broth","category":"canned goods","label_source":"hard_negative:analog=chicken broth carton","hard_negative":true,"confusable_with":"raw poultry","note":"broth is shelf-stable carton, not raw chicken","id":"NI0000"}
+{"name":"chicken noodle soup can","category":"canned goods","label_source":"hard_negative:analog=chicken broth carton","hard_negative":true,"confusable_with":"raw poultry","note":"canned soup","id":"NI0001"}
+{"name":"chicken flavor ramen","category":"dry goods/grains","label_source":"hard_negative:analog=spaghetti","hard_negative":true,"confusable_with":"raw poultry","note":"dry noodles","id":"NI0002"}
+{"name":"frozen chicken nuggets","category":"frozen foods","label_source":"hard_negative:analog=frozen dumplings","hard_negative":true,"confusable_with":"raw poultry","note":"frozen prepared","id":"NI0003"}
+{"name":"chicken salad","category":"cooked leftovers","label_source":"hard_negative:analog=rotisserie chicken","hard_negative":true,"confusable_with":"raw poultry","note":"prepared deli salad","id":"NI0004"}
+{"name":"berry blast cereal","category":"snacks","label_source":"hard_negative:analog=cereal","hard_negative":true,"confusable_with":"berries","note":"cereal (curated mapping puts cereal under snacks)","id":"NI0005"}
+{"name":"strawberry yogurt","category":"yogurt","label_source":"hard_negative:analog=vanilla yogurt cups","hard_negative":true,"confusable_with":"berries","note":"yogurt","id":"NI0006"}
+{"name":"strawberry jam","category":"opened condiments","label_source":"hard_negative:analog=ketchup","hard_negative":true,"confusable_with":"berries","note":"jar condiment","id":"NI0007"}
+{"name":"blueberry muffins","category":"bread","label_source":"hard_negative:analog=bagels","hard_negative":true,"confusable_with":"berries","note":"bakery","id":"NI0008"}
+{"name":"frozen blueberries","category":"frozen foods","label_source":"hard_negative:analog=frozen mixed berries","hard_negative":true,"confusable_with":"berries","note":"frozen","id":"NI0009"}
+{"name":"raspberry sparkling water","category":"beverages","label_source":"hard_negative:analog=sparkling water","hard_negative":true,"confusable_with":"berries","note":"beverage","id":"NI0010"}
+{"name":"cherry cola","category":"beverages","label_source":"hard_negative:analog=cola 12pk","hard_negative":true,"confusable_with":"berries","note":"beverage","id":"NI0011"}
+{"name":"orange juice 52oz","category":"beverages","label_source":"hard_negative:analog=orange juice","hard_negative":true,"confusable_with":"other fresh fruit","note":"juice vs fruit","id":"NI0012"}
+{"name":"orange chicken frozen","category":"frozen foods","label_source":"hard_negative:analog=frozen dumplings","hard_negative":true,"confusable_with":"other fresh fruit","note":"frozen entree","id":"NI0013"}
+{"name":"mandarin orange cups","category":"canned goods","label_source":"hard_negative:analog=diced tomatoes can","hard_negative":true,"confusable_with":"other fresh fruit","note":"canned fruit cups","id":"NI0014"}
+{"name":"apple juice","category":"beverages","label_source":"hard_negative:analog=orange juice","hard_negative":true,"confusable_with":"other fresh fruit","note":"juice","id":"NI0015"}
+{"name":"apple chips","category":"snacks","label_source":"hard_negative:analog=potato chips","hard_negative":true,"confusable_with":"other fresh fruit","note":"snack","id":"NI0016"}
+{"name":"applesauce cups","category":"canned goods","label_source":"hard_negative:analog=diced tomatoes can","hard_negative":true,"confusable_with":"other fresh fruit","note":"shelf-stable cups","id":"NI0017"}
+{"name":"banana bread","category":"bread","label_source":"hard_negative:analog=sourdough loaf","hard_negative":true,"confusable_with":"other fresh fruit","note":"bakery","id":"NI0018"}
+{"name":"banana chips","category":"snacks","label_source":"hard_negative:analog=potato chips","hard_negative":true,"confusable_with":"other fresh fruit","note":"snack","id":"NI0019"}
+{"name":"lemonade","category":"beverages","label_source":"hard_negative:analog=orange juice","hard_negative":true,"confusable_with":"other fresh fruit","note":"beverage vs lemons","id":"NI0020"}
+{"name":"lime sparkling water","category":"beverages","label_source":"hard_negative:analog=sparkling water","hard_negative":true,"confusable_with":"other fresh fruit","note":"beverage vs limes","id":"NI0021"}
+{"name":"pineapple chunks can","category":"canned goods","label_source":"hard_negative:analog=diced tomatoes can","hard_negative":true,"confusable_with":"other fresh fruit","note":"canned","id":"NI0022"}
+{"name":"peanut butter","category":"opened condiments","label_source":"hard_negative:analog=peanut butter","hard_negative":true,"confusable_with":"beverages","note":"PB = peanut butter","id":"NI0023"}
+{"name":"pbr 12pk cans","category":"beverages","label_source":"hard_negative:analog=cola 12pk","hard_negative":true,"confusable_with":"opened condiments","note":"PBR = Pabst Blue Ribbon beer, not PB","id":"NI0024"}
+{"name":"peanut butter cups","category":"snacks","label_source":"hard_negative:analog=granola bars","hard_negative":true,"confusable_with":"opened condiments","note":"candy/snack","id":"NI0025"}
+{"name":"peanut butter crackers","category":"snacks","label_source":"hard_negative:analog=crackers","hard_negative":true,"confusable_with":"opened condiments","note":"snack","id":"NI0026"}
+{"name":"butter lettuce","category":"leafy greens","label_source":"hard_negative:analog=butter lettuce","hard_negative":true,"confusable_with":"butter","note":"lettuce, not butter","id":"NI0027"}
+{"name":"butternut squash","category":"other fresh vegetables","label_source":"hard_negative:analog=zucchini","hard_negative":true,"confusable_with":"butter","note":"squash, not butter","id":"NI0028"}
+{"name":"ice cream","category":"frozen foods","label_source":"hard_negative:analog=ice cream","hard_negative":true,"confusable_with":"soft cheese","note":"frozen, not cream cheese","id":"NI0029"}
+{"name":"sour cream","category":"soft cheese","label_source":"hard_negative:analog=cream cheese","hard_negative":true,"confusable_with":"frozen foods","note":"cultured dairy (editorial: soft cheese)","id":"NI0030"}
+{"name":"coconut water","category":"beverages","label_source":"hard_negative:analog=orange juice","hard_negative":true,"confusable_with":"canned goods","note":"beverage vs coconut milk can","id":"NI0031"}
+{"name":"milk chocolate bar","category":"snacks","label_source":"hard_negative:analog=granola bars","hard_negative":true,"confusable_with":"milk","note":"candy","id":"NI0032"}
+{"name":"egg noodles","category":"dry goods/grains","label_source":"hard_negative:analog=spaghetti","hard_negative":true,"confusable_with":"eggs","note":"dry pasta","id":"NI0033"}
+{"name":"eggplant","category":"other fresh vegetables","label_source":"hard_negative:analog=zucchini","hard_negative":true,"confusable_with":"eggs","note":"vegetable","id":"NI0034"}
+{"name":"frozen egg rolls","category":"frozen foods","label_source":"hard_negative:analog=frozen dumplings","hard_negative":true,"confusable_with":"eggs","note":"frozen","id":"NI0035"}
+{"name":"corn flakes","category":"snacks","label_source":"hard_negative:analog=cereal","hard_negative":true,"confusable_with":"other fresh vegetables","note":"cereal","id":"NI0036"}
+{"name":"frozen corn","category":"frozen foods","label_source":"hard_negative:analog=frozen peas","hard_negative":true,"confusable_with":"other fresh vegetables","note":"frozen","id":"NI0037"}
+{"name":"frozen hash browns","category":"frozen foods","label_source":"hard_negative:analog=frozen waffles","hard_negative":true,"confusable_with":"root vegetables","note":"frozen potato","id":"NI0038"}
+{"name":"potato salad","category":"cooked leftovers","label_source":"hard_negative:analog=prepared mac and cheese","hard_negative":true,"confusable_with":"root vegetables","note":"prepared","id":"NI0039"}
+{"name":"tomato soup can","category":"canned goods","label_source":"hard_negative:analog=diced tomatoes can","hard_negative":true,"confusable_with":"other fresh vegetables","note":"canned","id":"NI0040"}
+{"name":"canned salmon","category":"canned goods","label_source":"hard_negative:analog=tuna can","hard_negative":true,"confusable_with":"raw fish","note":"canned fish","id":"NI0041"}
+{"name":"fish sticks","category":"frozen foods","label_source":"hard_negative:analog=frozen dumplings","hard_negative":true,"confusable_with":"raw fish","note":"frozen","id":"NI0042"}
+{"name":"sliced turkey breast","category":"deli meat","label_source":"hard_negative:analog=sliced turkey breast","hard_negative":true,"confusable_with":"raw poultry","note":"deli vs raw turkey breast","id":"NI0043"}
+{"name":"turkey breast","category":"raw poultry","label_source":"hard_negative:analog=turkey breast","hard_negative":true,"confusable_with":"deli meat","note":"raw vs sliced deli","id":"NI0044"}
+{"name":"ground coffee","category":"beverages","label_source":"hard_negative:analog=ground coffee","hard_negative":true,"confusable_with":"raw ground meat","note":"GRND COFFEE vs GRND BF","id":"NI0045"}
+{"name":"beef jerky","category":"snacks","label_source":"hard_negative:analog=potato chips","hard_negative":true,"confusable_with":"raw whole cuts","note":"shelf-stable snack","id":"NI0046"}
+{"name":"beef broth","category":"canned goods","label_source":"hard_negative:analog=chicken broth carton","hard_negative":true,"confusable_with":"raw ground meat","note":"carton broth","id":"NI0047"}
+{"name":"bread crumbs","category":"dry goods/grains","label_source":"hard_negative:analog=all purpose flour","hard_negative":true,"confusable_with":"bread","note":"dry goods","id":"NI0048"}
+{"name":"frozen garlic bread","category":"frozen foods","label_source":"hard_negative:analog=frozen pizza","hard_negative":true,"confusable_with":"bread","note":"frozen","id":"NI0049"}
+{"name":"mint chip ice cream","category":"frozen foods","label_source":"hard_negative:analog=ice cream","hard_negative":true,"confusable_with":"fresh herbs","note":"frozen vs fresh mint","id":"NI0050"}
+{"name":"basil pesto","category":"opened condiments","label_source":"hard_negative:analog=salsa jar","hard_negative":true,"confusable_with":"fresh herbs","note":"jar condiment","id":"NI0051"}
+{"name":"dill pickles","category":"opened condiments","label_source":"hard_negative:analog=salsa jar","hard_negative":true,"confusable_with":"fresh herbs","note":"jar condiment","id":"NI0052"}
+{"name":"kale chips","category":"snacks","label_source":"hard_negative:analog=potato chips","hard_negative":true,"confusable_with":"leafy greens","note":"snack","id":"NI0053"}
+{"name":"rice milk","category":"milk","label_source":"hard_negative:analog=oat milk","hard_negative":true,"confusable_with":"dry goods/grains","note":"milk alternative","id":"NI0054"}
+{"name":"rice cakes","category":"snacks","label_source":"hard_negative:analog=crackers","hard_negative":true,"confusable_with":"dry goods/grains","note":"snack","id":"NI0055"}
+{"name":"frozen cauliflower rice","category":"frozen foods","label_source":"hard_negative:analog=frozen broccoli","hard_negative":true,"confusable_with":"other fresh vegetables","note":"frozen","id":"NI0056"}
+{"name":"almond milk","category":"milk","label_source":"hard_negative:analog=almond milk","hard_negative":true,"confusable_with":"snacks","note":"milk alternative","id":"NI0057"}
+{"name":"cream of mushroom soup","category":"canned goods","label_source":"hard_negative:analog=diced tomatoes can","hard_negative":true,"confusable_with":"other fresh vegetables","note":"canned soup","id":"NI0058"}
+{"name":"tofu jerky","category":"snacks","label_source":"hard_negative:analog=potato chips","hard_negative":true,"confusable_with":"tofu","note":"snack","id":"NI0059"}
+{"name":"baby spinach","category":"leafy greens","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0060"}
+{"name":"romaine lettuce","category":"leafy greens","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0061"}
+{"name":"iceberg lettuce","category":"leafy greens","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0062"}
+{"name":"spring mix","category":"leafy greens","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0063"}
+{"name":"arugula","category":"leafy greens","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0064"}
+{"name":"kale","category":"leafy greens","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0065"}
+{"name":"swiss chard","category":"leafy greens","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0066"}
+{"name":"bagged caesar salad kit","category":"leafy greens","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0067"}
+{"name":"strawberries","category":"berries","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0068"}
+{"name":"blueberries","category":"berries","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0069"}
+{"name":"raspberries","category":"berries","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0070"}
+{"name":"blackberries","category":"berries","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0071"}
+{"name":"cherries","category":"berries","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0072"}
+{"name":"bananas","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0073"}
+{"name":"gala apples","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0074"}
+{"name":"honeycrisp apples","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0075"}
+{"name":"lemons","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0076"}
+{"name":"limes","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0077"}
+{"name":"navel oranges","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0078"}
+{"name":"mandarins","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0079"}
+{"name":"red grapes","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0080"}
+{"name":"avocados","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0081"}
+{"name":"peaches","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0082"}
+{"name":"bartlett pears","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0083"}
+{"name":"mango","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0084"}
+{"name":"pineapple","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0085"}
+{"name":"kiwi","category":"other fresh fruit","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0086"}
+{"name":"russet potatoes","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0087"}
+{"name":"yukon gold potatoes","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0088"}
+{"name":"sweet potatoes","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0089"}
+{"name":"yellow onions","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0090"}
+{"name":"red onions","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0091"}
+{"name":"carrots","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0092"}
+{"name":"baby carrots","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0093"}
+{"name":"beets","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0094"}
+{"name":"radishes","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0095"}
+{"name":"parsnips","category":"root vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0096"}
+{"name":"broccoli crowns","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0097"}
+{"name":"cauliflower","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0098"}
+{"name":"red bell pepper","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0099"}
+{"name":"english cucumber","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0100"}
+{"name":"zucchini","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0101"}
+{"name":"cremini mushrooms","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0102"}
+{"name":"asparagus","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0103"}
+{"name":"celery","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0104"}
+{"name":"cherry tomatoes","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0105"}
+{"name":"roma tomatoes","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0106"}
+{"name":"green beans","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0107"}
+{"name":"brussels sprouts","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0108"}
+{"name":"jalapeno","category":"other fresh vegetables","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0109"}
+{"name":"cilantro","category":"fresh herbs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0110"}
+{"name":"italian parsley","category":"fresh herbs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0111"}
+{"name":"fresh basil","category":"fresh herbs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0112"}
+{"name":"green onions bunch","category":"fresh herbs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0113"}
+{"name":"fresh mint","category":"fresh herbs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0114"}
+{"name":"fresh dill","category":"fresh herbs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0115"}
+{"name":"boneless skinless chicken breast","category":"raw poultry","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0116"}
+{"name":"chicken thighs","category":"raw poultry","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0117"}
+{"name":"whole chicken","category":"raw poultry","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0118"}
+{"name":"chicken drumsticks","category":"raw poultry","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0119"}
+{"name":"ground beef 80/20","category":"raw ground meat","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0120"}
+{"name":"ground turkey","category":"raw ground meat","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0121"}
+{"name":"ground pork","category":"raw ground meat","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0122"}
+{"name":"italian sausage bulk","category":"raw ground meat","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0123"}
+{"name":"ground chicken","category":"raw ground meat","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0124"}
+{"name":"ribeye steak","category":"raw whole cuts","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0125"}
+{"name":"pork chops","category":"raw whole cuts","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0126"}
+{"name":"pork tenderloin","category":"raw whole cuts","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0127"}
+{"name":"chuck roast","category":"raw whole cuts","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0128"}
+{"name":"lamb chops","category":"raw whole cuts","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0129"}
+{"name":"atlantic salmon fillet","category":"raw fish","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0130"}
+{"name":"cod fillet","category":"raw fish","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0131"}
+{"name":"halibut","category":"raw fish","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0132"}
+{"name":"tilapia fillets","category":"raw fish","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0133"}
+{"name":"ahi tuna steak","category":"raw fish","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0134"}
+{"name":"black forest ham","category":"deli meat","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0135"}
+{"name":"genoa salami","category":"deli meat","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0136"}
+{"name":"sliced roast beef","category":"deli meat","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0137"}
+{"name":"large brown eggs","category":"eggs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0138"}
+{"name":"cage free eggs 18ct","category":"eggs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0139"}
+{"name":"pasture raised eggs","category":"eggs","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0140"}
+{"name":"2% milk gallon","category":"milk","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0141"}
+{"name":"whole milk half gallon","category":"milk","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0142"}
+{"name":"oat milk","category":"milk","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0143"}
+{"name":"half and half","category":"milk","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0144"}
+{"name":"greek yogurt plain","category":"yogurt","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0145"}
+{"name":"vanilla yogurt cups","category":"yogurt","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0146"}
+{"name":"kefir","category":"yogurt","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0147"}
+{"name":"brie","category":"soft cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0148"}
+{"name":"goat cheese","category":"soft cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0149"}
+{"name":"cream cheese","category":"soft cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0150"}
+{"name":"cottage cheese","category":"soft cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0151"}
+{"name":"ricotta","category":"soft cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0152"}
+{"name":"fresh mozzarella","category":"soft cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0153"}
+{"name":"sharp cheddar block","category":"hard cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0154"}
+{"name":"parmigiano reggiano","category":"hard cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0155"}
+{"name":"swiss cheese","category":"hard cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0156"}
+{"name":"tillamook medium cheddar","category":"hard cheese","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0157"}
+{"name":"unsalted butter","category":"butter","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0158"}
+{"name":"salted butter","category":"butter","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0159"}
+{"name":"kerrygold butter","category":"butter","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0160"}
+{"name":"sourdough loaf","category":"bread","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0161"}
+{"name":"whole wheat sandwich bread","category":"bread","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0162"}
+{"name":"hamburger buns","category":"bread","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0163"}
+{"name":"bagels","category":"bread","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0164"}
+{"name":"dave's killer bread","category":"bread","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0165"}
+{"name":"flour tortillas","category":"tortillas","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0166"}
+{"name":"corn tortillas","category":"tortillas","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0167"}
+{"name":"rotisserie chicken","category":"cooked leftovers","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0168"}
+{"name":"deli fried chicken","category":"cooked leftovers","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0169"}
+{"name":"prepared mac and cheese","category":"cooked leftovers","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0170"}
+{"name":"extra firm tofu","category":"tofu","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0171"}
+{"name":"silken tofu","category":"tofu","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0172"}
+{"name":"ketchup","category":"opened condiments","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0173"}
+{"name":"mayonnaise","category":"opened condiments","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0174"}
+{"name":"dijon mustard","category":"opened condiments","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0175"}
+{"name":"soy sauce","category":"opened condiments","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0176"}
+{"name":"sriracha","category":"opened condiments","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0177"}
+{"name":"ranch dressing","category":"opened condiments","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0178"}
+{"name":"salsa jar","category":"opened condiments","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0179"}
+{"name":"black beans can","category":"canned goods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0180"}
+{"name":"diced tomatoes can","category":"canned goods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0181"}
+{"name":"chicken broth carton","category":"canned goods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0182"}
+{"name":"coconut milk can","category":"canned goods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0183"}
+{"name":"tuna can","category":"canned goods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0184"}
+{"name":"jasmine rice","category":"dry goods/grains","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0185"}
+{"name":"spaghetti","category":"dry goods/grains","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0186"}
+{"name":"penne","category":"dry goods/grains","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0187"}
+{"name":"rolled oats","category":"dry goods/grains","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0188"}
+{"name":"all purpose flour","category":"dry goods/grains","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0189"}
+{"name":"quinoa","category":"dry goods/grains","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0190"}
+{"name":"dried lentils","category":"dry goods/grains","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0191"}
+{"name":"frozen peas","category":"frozen foods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0192"}
+{"name":"frozen broccoli","category":"frozen foods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0193"}
+{"name":"frozen pizza","category":"frozen foods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0194"}
+{"name":"frozen mixed berries","category":"frozen foods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0195"}
+{"name":"frozen waffles","category":"frozen foods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0196"}
+{"name":"frozen dumplings","category":"frozen foods","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0197"}
+{"name":"orange juice","category":"beverages","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0198"}
+{"name":"sparkling water","category":"beverages","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0199"}
+{"name":"cola 12pk","category":"beverages","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0200"}
+{"name":"tortilla chips","category":"snacks","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0201"}
+{"name":"potato chips","category":"snacks","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0202"}
+{"name":"crackers","category":"snacks","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0203"}
+{"name":"granola bars","category":"snacks","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0204"}
+{"name":"cereal","category":"snacks","label_source":"shelf_life.examples","hard_negative":false,"branded":false,"id":"NI0205"}
+{"name":"organic baby spinach 5 oz","category":"leafy greens","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0206"}
+{"name":"white bread","category":"bread","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0207"}
+{"name":"large eggs 12 ct","category":"eggs","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0208"}
+{"name":"barilla penne","category":"dry goods/grains","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0209"}
+{"name":"foster farms boneless skinless chicken breast","category":"raw poultry","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0210"}
+{"name":"hass avocado large","category":"other fresh fruit","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0211"}
+{"name":"cabot sharp cheddar 8 oz","category":"hard cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0212"}
+{"name":"tillamook vanilla yogurt","category":"yogurt","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0213"}
+{"name":"flour tortillas 10 ct","category":"tortillas","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0214"}
+{"name":"celery hearts","category":"other fresh vegetables","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0215"}
+{"name":"cilantro bunch","category":"fresh herbs","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0216"}
+{"name":"deli sliced turkey breast","category":"deli meat","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0217"}
+{"name":"pepsi 12 pack cans","category":"beverages","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0218"}
+{"name":"carrots 2 lb","category":"root vegetables","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0219"}
+{"name":"strawberries 1 lb","category":"berries","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0220"}
+{"name":"2% milk half gallon","category":"milk","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0221"}
+{"name":"darigold unsalted butter","category":"butter","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0222"}
+{"name":"shredded mozzarella 8 oz","category":"hard cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0223"}
+{"name":"russet potatoes 5 lb bag","category":"root vegetables","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0224"}
+{"name":"house foods extra firm tofu","category":"tofu","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0225"}
+{"name":"black beans 15 oz can","category":"canned goods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0226"}
+{"name":"frozen peas 12 oz","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0227"}
+{"name":"tillamook ice cream 48 oz","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0228"}
+{"name":"organic italian parsley","category":"fresh herbs","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0229"}
+{"name":"heinz ketchup 32 oz","category":"opened condiments","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0230"}
+{"name":"organic honeycrisp apples","category":"other fresh fruit","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0231"}
+{"name":"lemon","category":"other fresh fruit","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0232"}
+{"name":"large eggs 18 ct","category":"eggs","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0233"}
+{"name":"chobani plain greek yogurt 32 oz","category":"yogurt","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0234"}
+{"name":"cream cheese 8 oz","category":"soft cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0235"}
+{"name":"dave's killer bread 21 whole grains","category":"bread","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0236"}
+{"name":"boneless pork loin chops","category":"raw whole cuts","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0237"}
+{"name":"jennie-o ground turkey 1 lb","category":"raw ground meat","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0238"}
+{"name":"jasmine rice 5 lb","category":"dry goods/grains","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0239"}
+{"name":"old fashioned rolled oats 42 oz","category":"dry goods/grains","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0240"}
+{"name":"huy fong sriracha","category":"opened condiments","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0241"}
+{"name":"diced tomatoes 14.5 oz","category":"canned goods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0242"}
+{"name":"lacroix lime sparkling water 8 pk","category":"beverages","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0243"}
+{"name":"organic baby spinach","category":"leafy greens","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0244"}
+{"name":"banana","category":"other fresh fruit","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0245"}
+{"name":"blueberries 18 oz","category":"berries","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0246"}
+{"name":"avocados bag 4 ct","category":"other fresh fruit","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0247"}
+{"name":"mandarin orange chicken","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0248"}
+{"name":"chicken gyoza potstickers","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0249"}
+{"name":"cauliflower gnocchi","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0250"}
+{"name":"everything but the bagel seasoning","category":"dry goods/grains","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0251"}
+{"name":"reduced fat 2% milk gallon","category":"milk","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0252"}
+{"name":"large brown cage free eggs","category":"eggs","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0253"}
+{"name":"plain nonfat greek yogurt","category":"yogurt","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0254"}
+{"name":"unexpected cheddar","category":"hard cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0255"}
+{"name":"double creme brie","category":"soft cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0256"}
+{"name":"sliced sourdough pan loaf","category":"bread","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0257"}
+{"name":"handmade style corn tortillas","category":"tortillas","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0258"}
+{"name":"organic sprouted tofu","category":"tofu","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0259"}
+{"name":"organic tomato basil marinara","category":"canned goods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0260"}
+{"name":"dark chocolate peanut butter cups","category":"snacks","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0261"}
+{"name":"organic eggs 24 ct","category":"eggs","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0262"}
+{"name":"organic spring mix 1 lb","category":"leafy greens","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0263"}
+{"name":"strawberries 2 lb","category":"berries","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0264"}
+{"name":"2% milk 2 x 1 gal","category":"milk","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0265"}
+{"name":"unsalted butter 4 x 1 lb","category":"butter","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0266"}
+{"name":"greek yogurt 48 oz","category":"yogurt","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0267"}
+{"name":"tillamook medium cheddar 2.5 lb","category":"hard cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0268"}
+{"name":"ground beef 88/12","category":"raw ground meat","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0269"}
+{"name":"jasmine rice 25 lb","category":"dry goods/grains","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0270"}
+{"name":"organic black beans 8 cans","category":"canned goods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0271"}
+{"name":"croissants 12 ct","category":"bread","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0272"}
+{"name":"mission flour tortillas 40 ct","category":"tortillas","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0273"}
+{"name":"frozen three berry blend 4 lb","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0274"}
+{"name":"bibigo pork mandu dumplings 6 lb","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0275"}
+{"name":"bottled water 40 pk","category":"beverages","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0276"}
+{"name":"baby spinach 5 oz","category":"leafy greens","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0277"}
+{"name":"organic romaine hearts 3 ct","category":"leafy greens","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0278"}
+{"name":"organic raspberries 6 oz","category":"berries","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0279"}
+{"name":"organic lemons","category":"other fresh fruit","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0280"}
+{"name":"organic gala apples","category":"other fresh fruit","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0281"}
+{"name":"organic carrots bunch","category":"root vegetables","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0282"}
+{"name":"organic grape tomatoes pint","category":"other fresh vegetables","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0283"}
+{"name":"organic basil clamshell","category":"fresh herbs","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0284"}
+{"name":"straus plain greek yogurt","category":"yogurt","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0285"}
+{"name":"parmigiano reggiano wedge","category":"hard cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0286"}
+{"name":"plain goat cheese","category":"soft cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0287"}
+{"name":"grass-fed ground beef 85/15","category":"raw ground meat","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0288"}
+{"name":"boneless ribeye steak","category":"raw whole cuts","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0289"}
+{"name":"wild cod fillet","category":"raw fish","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0290"}
+{"name":"hot bar prepared food by weight","category":"cooked leftovers","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0291"}
+{"name":"shredded cheddar 8 oz","category":"hard cheese","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0292"}
+{"name":"salted butter 4 sticks","category":"butter","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0293"}
+{"name":"white sandwich bread","category":"bread","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0294"}
+{"name":"black forest ham 9 oz","category":"deli meat","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0295"}
+{"name":"boneless chicken thighs","category":"raw poultry","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0296"}
+{"name":"penne 16 oz","category":"dry goods/grains","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0297"}
+{"name":"chicken broth 32 oz","category":"canned goods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0298"}
+{"name":"frozen broccoli florets","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0299"}
+{"name":"digiorno rising crust pepperoni pizza","category":"frozen foods","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0300"}
+{"name":"mayonnaise 30 oz","category":"opened condiments","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0301"}
+{"name":"tostitos scoops tortilla chips","category":"snacks","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0302"}
+{"name":"coca-cola 12 pack cans","category":"beverages","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0303"}
+{"name":"original hummus 10 oz","category":"cooked leftovers","label_source":"receipt_lines.json","hard_negative":false,"branded":true,"id":"NI0304"}
+{"name":"paper towels 6 roll","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0305"}
+{"name":"bath tissue 12 roll","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0306"}
+{"name":"dish soap","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0307"}
+{"name":"laundry detergent pods","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0308"}
+{"name":"trash bags 40ct","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0309"}
+{"name":"aluminum foil","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0310"}
+{"name":"plastic wrap","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0311"}
+{"name":"sponges 3pk","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0312"}
+{"name":"toothpaste","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0313"}
+{"name":"shampoo","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0314"}
+{"name":"aa batteries 8pk","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0315"}
+{"name":"light bulbs 4pk","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0316"}
+{"name":"zip top bags","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0317"}
+{"name":"paper plates","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0318"}
+{"name":"napkins","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0319"}
+{"name":"hand soap","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0320"}
+{"name":"flowers bouquet","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0321"}
+{"name":"greeting card","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0322"}
+{"name":"cat litter","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0323"}
+{"name":"dog treats","category":"non_food","label_source":"non_food_list","hard_negative":false,"branded":false,"id":"NI0324"}
+{"name":"cola 12pk cans","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0325"}
+{"name":"diet cola 12pk cans","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0326"}
+{"name":"root beer 2l","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0327"}
+{"name":"ginger ale 12pk","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0328"}
+{"name":"sparkling water 8pk","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0329"}
+{"name":"lemonade 52oz","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0330"}
+{"name":"apple juice 64oz","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0331"}
+{"name":"bottled water 24pk","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0332"}
+{"name":"cold brew coffee 32oz","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0333"}
+{"name":"kombucha 16oz","category":"beverages","label_source":"batch1_catalog_beverages","hard_negative":false,"branded":false,"id":"NI0334"}

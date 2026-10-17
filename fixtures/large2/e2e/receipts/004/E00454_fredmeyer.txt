@@ -1,0 +1,37 @@
+               FRED MEYER
+               Seattle WA
+               Store 3095
+
+TSTTS SCOOPS TORTILLA CHIPS       3.46 F
+SHREDDED CHDR 8 OZ                6.42 F
+  2 @ 2.45
+BOTTLED WATER 40 PK               4.90 F
+  3.36 lb @ 3.34 /lb
+HASS AVCD LG                     11.22 F
+SMPL TRTH HONEYCRISP APPLES       4.67 F
+  4 @ 1.08
+TUNA CAN                          4.32 F
+  3.81 lb @ 6.33 /lb
+WHL CHKN                         24.12 F
+GRND TRKY                         5.19 F
+MFR CPN                          1.56-  
+LG EGGS 18 CT                     7.52 F
+JNN- GRND TRKY 1 LB               6.60 F
+SMPL TRTH YELLOW ONIONS           1.78 F
+  2 @ 5.73
+DIGIORNO RISING CRUST PEPPERONI  11.46 F
+ICE CRM                          14.51 F
+SMPL TRTH KEFIR                   1.27 F
+  3.19 lb @ 3.76 /lb
+CLFLWR                           11.99 F
+FM PLUS CARD SAV                 1.09-  
+
+SUBTOTAL                          116.78
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             116.78
+AMEX TEND                         116.78
+CHANGE                              0.00
+
+09/20/26 07:04  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

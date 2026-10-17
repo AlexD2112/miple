@@ -1,0 +1,42 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1327
+
+STRWB 2 LB                        5.88 F
+FRZN PEAS 12 OZ                   5.40 F
+MFR CPN                          1.28-  
+  0.68 lb @ 17.98 /lb
+UNEXPECTED CHDR                  12.23 F
+DIGITAL CPN                      0.69-  
+WILD COD FLLT                    18.56 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+MAYONNAISE 30 OZ                  6.42 F
+SMPL TRTH GROUND TURKEY           5.19 F
+KRO SAVINGS                      1.56-  
+PRIV SEL TILAPIA FILLETS         21.66 F
+KRO KERRYGOLD BUTTER             10.81 F
+  3.47 lb @ 9.65 /lb
+PRIV SEL PORK TNDRLN             33.49 F
+SMPL TRTH SLCD ROAST BF           5.94 F
+  0.76 lb @ 1.79 /lb
+SMPL TRTH BEETS                   1.36 F
+LIMES                             2.80 F
+  0.85 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS              8.44 F
+KRO WHL MLK HALF GALLON           6.79 F
+ALUMINUM FOIL                    18.03 T
+  1.60 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        3.73 F
+KRO SPONGES 3PK                   9.54 T
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          177.76
+TAX 10.55% ON 27.81                 2.93
+TOTAL                             180.69
+VISA TEND                         180.69
+CHANGE                              0.00
+
+04/05/26 21:17  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

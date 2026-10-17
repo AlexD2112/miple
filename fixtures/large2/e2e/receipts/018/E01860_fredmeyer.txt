@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 0709
+
+SMPL TRTH SPAGHETTI               9.54 F
+HAMBURGER BUNS                    2.77 F
+APPLE JUICE 64OZ                  7.25 F
+SMPL TRTH CHERRY TOM              1.15 F
+DAVES KILLER BRD                  6.69 F
+FM PLUS CARD SAV                 1.38-  
+  2 @ 4.00
+ARGL                              8.00 F
+LARGE EGGS 18 CT                  7.52 F
+KRO ALMOND MLK                    5.08 F
+SMPL TRTH VAN YGRT CUPS           5.39 F
+  4 @ 4.11
+KRO GRK YGRT PLAIN               16.44 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+BATH TISSUE 12 ROLL              23.08 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          100.11
+TAX 10.55% ON 23.24                 2.45
+TOTAL                             102.56
+CASH TEND                         120.00
+CHANGE                             17.44
+
+02/15/26 17:19  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

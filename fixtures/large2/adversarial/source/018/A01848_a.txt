@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1177  Seattle WA
+            MEMBER ************
+
+127661 CTTG CHS                       3.21 E
+1053407 PORK TENDERLOIN              33.97 E
+     3.52 lb @ 9.65 /lb
+1273224 KS ALL PURPOSE FLOUR         11.36 E
+1587142 KS ROOT BEER 2L               5.24 A
+26618 ORGANIC TOMATO BASIL MARINARA   5.94 E
+766433 KS AHI TUNA STEAK             14.71 E
+1756944 KS TORTILLA CHIPS            13.32 E
+     4 @ 3.33
+
+SUBTOTAL                               87.75
+TAX 10.55% ON 5.24                      0.54
+**** TOTAL                             88.29
+VISA TEND                              88.29
+CHANGE                                  0.00
+
+02/25/26 20:29  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

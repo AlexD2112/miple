@@ -1,0 +1,26 @@
+              TRADER JOE'S
+        Store #0147  Portland OR
+      OPEN 8:00AM TO 9:00PM DAILY
+
+PAPER PLATES                      3.31  
+CAT LITTER                       14.03  
+FLOWERS BOUQUET                  23.70  
+GREETING CARD                    20.34  
+NAPKINS                          24.05  
+FLOWERS BOUQUET                  23.70  
+GREETING CARD                    20.34  
+PAPER PLATES                      3.31  
+HAND SOAP                        24.27  
+DISH SOAP                        19.39  
+PAPER PLATES                      3.31  
+FLOWERS BOUQUET                  23.70  
+
+SUBTOTAL                          203.45
+TAX                                 0.00
+TOTAL                             203.45
+DISCOVER TEND                     203.45
+CHANGE                              0.00
+
+08/14/26 10:05  ITEMS 12
+T=TAXABLE
+               THANK YOU

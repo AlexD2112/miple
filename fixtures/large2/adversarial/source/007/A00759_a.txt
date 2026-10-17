@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0217
+
+KRO GRND COFFEE                   9.64 F
+ASPRGS                            2.93 F
+2% MILK 2 X 1 GAL                 4.70 F
+2% MILK 2 X 1 GAL                 4.70 F
+SMPL TRTH TLLMK MEDIUM CHDR      11.77 F
+  1.01 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            13.88 F
+
+SUBTOTAL                           47.62
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              47.62
+CASH TEND                          60.00
+CHANGE                             12.38
+
+09/15/26 17:00  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

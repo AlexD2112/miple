@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0465  Seattle WA
+            MEMBER ************
+
+1318972 KS GINGER ALE 12PK            6.02 A
+878253 KS RICOTTA                     8.76 E
+1059501 KS NAPKINS                   24.05 A
+1191044 KS PAPER TOWELS 6 ROLL        3.75 A
+727852 KS ICE CRM                    14.51 E
+4590511 TPD/ICE CRM                  2.23-  
+1902296 KS CHUCK ROAST               52.49 E
+     3.82 lb @ 13.74 /lb
+1296514 BTR LTTC                      2.45 E
+1643828 KS BAGELS                     3.77 E
+652765 RUSSET POTATOES 5 LB BAG       4.53 E
+1738371 KS 2% MLK GALLON              6.49 E
+1931705 PLAIN GOAT CHS                5.77 E
+
+SUBTOTAL                              130.36
+TAX 10.55% ON 33.82                     3.57
+**** TOTAL                            133.93
+DEBIT TEND                            133.93
+CHANGE                                  0.00
+
+01/22/26 19:30  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

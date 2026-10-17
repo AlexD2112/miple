@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2884  Seattle WA
+            MEMBER ************
+
+1912841 WILD COD FLLT                18.56 E
+159195 KS GRND BF 80/20               6.57 E
+375744 KS BAGGED CAESAR SALAD KIT     2.21 E
+65980 KS BRUSSELS SPROUTS             5.38 E
+     2.31 lb @ 2.33 /lb
+620857 RUSSET POTS 5 LB BAG           4.53 E
+0325728 TPD/RUSSET POTS              1.22-  
+1397518 BLUBRY 18 OZ                  9.22 E
+     2 @ 4.61
+1303375 MAYONNAISE 30 OZ              6.42 E
+  REFUND - ORIG RECEIPT
+RETURN 1912841 WILD COD FLLT        18.56- E
+
+SUBTOTAL                               33.11
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             33.11
+DEBIT TEND                             33.11
+CHANGE                                  0.00
+
+04/12/26 11:57  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

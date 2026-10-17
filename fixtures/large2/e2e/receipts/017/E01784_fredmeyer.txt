@@ -1,0 +1,45 @@
+               FRED MEYER
+               Seattle WA
+               Store 0194
+
+ORG BABY SPNCH                    5.54 F
+KRO SAVINGS                      0.22-  
+ORG RASPB 6 OZ                    6.28 F
+FM DIET COLA 12PK CANS            4.42 T
+  3.51 lb @ 7.09 /lb
+SMPL TRTH TRKY BRST              24.89 F
+KRO SAVINGS                      2.82-  
+KRO FROZEN BROCCOLI               1.72 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+SPONGES 3PK                       9.54 T
+KRO SAVINGS                      2.86- T
+KRO TORTILLA CHIPS                3.33 F
+ROMAINE LTTC                      2.79 F
+  3.28 lb @ 2.33 /lb
+BRUSSELS SPROUTS                  7.64 F
+SWISS CHARD                       2.87 F
+  2 @ 5.22
+STRWB 1 LB                       10.44 F
+YELLOW ONIONS                     1.78 F
+KRO 2% MILK GALLON                6.49 F
+CHERRY TOM                        1.15 F
+WHITE SANDWICH BRD                7.03 F
+DIGITAL CPN                      0.66-  
+  2 @ 5.11
+SMPL TRTH ICEBERG LETTUCE        10.22 F
+  1.36 lb @ 9.25 /lb
+FM SWISS CHS                     12.58 F
+FM APPLE JUICE 64OZ               7.25 F
+MFR CPN                          0.34-  
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          122.08
+TAX 10.55% ON 11.34                 1.20
+TOTAL                             123.28
+DEBIT TEND                        123.28
+CHANGE                              0.00
+
+08/23/26 12:27  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

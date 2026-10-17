@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 3841
+
+SMPL TRTH KTCHP                   5.49 F
+FM KERRYGOLD BTR                 10.81 F
+FM RIBEYE STEAK                  19.87 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+SMPL TRTH AVOCADOS                4.05 F
+ORG GALA APPLES                   1.57 F
+MFR CPN                          0.47-  
+  5.60 lb @ 6.33 /lb
+KRO WHL CHKN                     35.45 F
+FM PLUS CARD SAV                 2.42-  
+LEMONS                            4.19 F
+KRO SAVINGS                      0.92-  
+  2.93 lb @ 2.43 /lb
+PRSNPS                            7.12 F
+DIGITAL CPN                      2.14-  
+
+SUBTOTAL                          100.03
+TAX                                 0.00
+TOTAL                             100.03
+VISA TEND                         100.03
+CHANGE                              0.00
+
+10/07/26 14:35  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

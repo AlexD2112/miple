@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3701  Portland OR
+            MEMBER ************
+
+1563606 ENGLISH CUCUMBER             11.87 E
+     3.39 lb @ 3.50 /lb
+1451376 KS DISH SOAP                 19.39 E
+1003755 KS LEMONADE 52OZ              5.79 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+184928 KS WHOLE WHEAT SANDWICH BREAD  2.54 E
+362680 KS GRK YGRT PLAIN              4.11 E
+1387971 KS GRND BF 80/20              6.57 E
+1113744 TPD/GRND BF 80/2             1.05-  
+1666332 MISSION FLOUR TORT 40 CT     10.44 E
+     2 @ 5.22
+1319619 ROTIS CHKN                    5.04 E
+763458 DICED TOM 14.5 OZ              1.00 E
+450428 KS KIWI                        6.45 E
+     3.10 lb @ 2.08 /lb
+547088 ALL PURPOSE FLOUR             11.36 E
+1573506 KS BARTLETT PEARS             3.00 E
+52753 KS BOTTLED WTR 24PK             9.32 E
+  24 @ 0.10
+OR BTL DEP                            2.40  
+1276786 SLCD TRKY BRST               17.53 E
+     1.33 lb @ 13.18 /lb
+
+SUBTOTAL                              115.86
+TAX                                     0.00
+**** TOTAL                            115.86
+DEBIT TEND                            115.86
+CHANGE                                  0.00
+
+07/13/26 17:19  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

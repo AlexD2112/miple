@@ -1,0 +1,30 @@
+               FRED MEYER
+              Portland OR
+               Store 0354
+
+  2 @ 2.79
+SMPL TRTH CORN TORT               5.58 F
+KRO ORANGE JUICE 52OZ             9.39 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+UNSLTD BTR 4 X 1 LB               9.48 F
+MFR CPN                          0.56-  
+2% MLK HALF GALLON                6.08 F
+FM PLUS CARD SAV                 1.33-  
+FM GRND PORK                      6.60 F
+SMPL TRTH VAN YGRT CUPS           5.39 F
+KRO TILAPIA FILLETS              21.66 F
+  2 @ 4.00
+ARUGULA                           8.00 F
+PLAIN NONFAT GRK YGRT             4.65 F
+BAG FEE                           0.05  
+
+SUBTOTAL                           75.09
+TAX                                 0.00
+TOTAL                              75.09
+VISA TEND                          75.09
+CHANGE                              0.00
+
+07/24/26 17:18  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

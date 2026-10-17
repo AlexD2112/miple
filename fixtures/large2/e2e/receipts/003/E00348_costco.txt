@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3323  Seattle WA
+            MEMBER ************
+
+994793 KS PARMIGIANO REGGIANO         7.82 E
+1988720 KS TLP FLLTS                 21.66 E
+904454 BARILLA PENNE                 19.37 E
+
+SUBTOTAL                               48.85
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             48.85
+MASTERCARD TEND                        48.85
+CHANGE                                  0.00
+
+07/28/26 18:59  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

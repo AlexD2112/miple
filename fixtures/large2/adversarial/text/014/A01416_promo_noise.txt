@@ -1,0 +1,44 @@
+               FRED MEYER
+              Portland OR
+               Store 0619
+FUEL POINTS BALANCE     450
+REG 20 TRN 1839 OPR 493
+SURVEY CODE: 1561-3705-7894
+
+SMPL TRTH SALSA JAR               2.09 F
+PRMGN REGGIANO WEDGE              8.42 F
+SMPL TRTH ROOT BEER 2L            5.24 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+DIGITAL CPN                      0.29-  
+  1.15 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                1.84 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+  0.66 lb @ 2.83 /lb
+ORG LEMONS                        1.87 F
+GOAT CHEESE                       8.35 F
+  3 @ 2.38
+SMPL TRTH ROMA TOM                7.14 F
+  4 @ 2.31
+GREEN BEANS                       9.24 F
+KRO SILKEN TOFU                   2.29 F
+FM KERRYGOLD BUTTER              10.81 F
+KRO PLASTIC WRAP                  4.77 F
+VANILLA YOGURT CUPS               5.39 F
+HAND SOAP                        24.27 F
+SMPL TRTH FRESH BASIL             2.74 F
+FM ICE CRM                       14.51 F
+BAG FEE                           0.05  
+
+SUBTOTAL                          111.61
+TAX                                 0.00
+TOTAL                             111.61
+CASH TEND                         120.00
+CHANGE                              8.39
+
+05/01/26 16:48  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+RETURNS WITHIN 90 DAYS
+NEXT VISIT COUPON          3.00 OFF
+SURVEY CODE 5360 9852 2137
+               THANK YOU

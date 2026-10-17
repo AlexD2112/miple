@@ -1,0 +1,23 @@
+           WHOLE FOODS MARKET
+            San Francisco CA
+             (555) 020-3443
+
+  REFUND - ORIG RECEIPT
+RETURN JNN- GRND TRKY 1 LB       6.60- F
+  REFUND - ORIG RECEIPT
+RETURN 365 BLACK BEANS CAN       8.77- F
+RETURN WF ASPARAGUS              2.93- F
+  REFUND - ORIG RECEIPT
+RETURN 365 DIJON MUSTARD         2.46- F
+  REFUND - ORIG RECEIPT
+RETURN BLACK BEANS CAN           8.77- F
+
+SUBTOTAL                          29.53-
+TAX 8.625% ON 0.00                  0.00
+TOTAL                             29.53-
+DISCOVER TEND                     29.53-
+CHANGE                              0.00
+
+09/04/26 08:21  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

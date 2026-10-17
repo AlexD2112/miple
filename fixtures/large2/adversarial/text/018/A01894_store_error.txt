@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3301
+
+OAT MLK                           3.10 F
+  2.00 lb @ 0.76 /lb
+MANGO                             1.52 F
+  2 @ 5.73
+DIGIORNO RISING CRUST PEPPERONI  11.46 F
+KRO SRDGH LOAF                    7.47 F
+SMPL TRTH PENNE                  13.38 F
+  3 @ 2.72
+SMPL TRTH MANDARINS               8.16 F
+PRIV SEL CAGE FREE EGGS 18CT      6.85 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           52.10
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              52.22
+DEBIT TEND                         52.22
+CHANGE                              0.00
+
+09/21/26 13:33  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 1713
+
+2% MLK HALF GALLON                6.08 F
+ORG BABY SPNCH 5 OZ               5.85 F
+  2.81 lb @ 2.43 /lb
+PARSNIPS                          6.83 F
+ORG ITALIAN PARSLEY               1.95 F
+CAULIFLOWER GNCCH                 7.85 F
+KRO SAVINGS                      0.38-  
+ZIP TOP BAGS                     24.79 T
+  2.67 lb @ 18.16 /lb
+COD FLLT                         48.49 F
+AVOCADOS BAG 4 CT                 3.54 F
+AVOCADOS                          4.05 F
+  3.71 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI               13.80 F
+SMPL TRTH KALE                    4.17 F
+MFR CPN                          0.93-  
+CELERY                            4.32 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+SMPL TRTH COLA 12PK               1.83 T
+
+SUBTOTAL                          141.07
+TAX 10.55% ON 35.45                 3.74
+TOTAL                             144.81
+DEBIT TEND                        144.81
+CHANGE                              0.00
+
+02/11/26 15:28  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

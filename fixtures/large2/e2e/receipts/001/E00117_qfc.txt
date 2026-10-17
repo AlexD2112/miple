@@ -1,0 +1,33 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3339
+
+ORG EGGS 24 CT                    7.83 F
+  3.54 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                5.24 F
+KRO CHKN DRUMSTICKS               8.97 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+  0.25 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        0.58 F
+PRIV SEL ORANGE JUICE             7.69 F
+TILAPIA FILLETS                  21.66 F
+SMPL TRTH BTTLD WTR 24PK          9.32 F
+JASMINE RICE 5 LB                 1.49 F
+  2.37 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                3.51 F
+SMPL TRTH RED GRAPES              3.04 F
+  3.98 lb @ 3.72 /lb
+ZUCCHINI                         14.81 F
+  3 @ 1.72
+PRIV SEL FRZN BROC                5.16 F
+
+SUBTOTAL                          107.20
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             107.20
+VISA TEND                         107.20
+CHANGE                              0.00
+
+04/18/26 08:04  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

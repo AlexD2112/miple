@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2762
+
+  0.98 lb @ 2.43 /lb
+PRSNPS                            2.38 F
+  3 @ 1.00
+DICED TOMATOES 14.5 OZ            3.00 F
+SMPL TRTH SILKEN TOFU             2.29 F
+PRMGN RGGN                        7.82 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+SMPL TRTH HALF & HALF             5.34 F
+BANANA                            2.37 F
+
+SUBTOTAL                           25.98
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              25.98
+DEBIT TEND                         25.98
+CHANGE                              0.00
+
+02/02/26 12:34 AM  1781 31 899 6
+ITEMS 12   REG 12  TRANS 3898
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,39 @@
+               FRED MEYER
+               Seattle WA
+               Store 1476
+
+  2 @ 2.37
+BANANA                            4.74 F
+AVOCADOS BAG 4 CT                 3.54 F
+FM SILKEN TOFU                    2.29 F
+  4 @ 4.17
+SMPL TRTH KALE                   16.68 F
+  2.00 lb @ 2.08 /lb
+SMPL TRTH KIWI                    4.16 F
+JASMINE RICE                     12.13 F
+  1.32 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                20.54 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+KRO SAVINGS                      0.66-  
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+KRO SAVINGS                      0.90-  
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+KRO SAVINGS                      2.35-  
+BLUBRY 18 OZ                      4.61 F
+KRO GINGER ALE 12PK               6.02 T
+CHRRS                             5.69 F
+ORGANIC SPROUTED TOFU             2.61 F
+DIGITAL CPN                      0.78-  
+PREPARED MAC & CHS               10.62 F
+  0.64 lb @ 9.93 /lb
+BONELESS PORK LOIN CHOPS          6.36 F
+
+SUBTOTAL                          113.15
+TAX 10.55% ON 6.02                  0.64
+TOTAL                             113.79
+MASTERCARD TEND                   113.79
+CHANGE                              0.00
+
+02/03/26 09:03  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

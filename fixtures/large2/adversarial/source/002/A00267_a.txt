@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1047
+
+REDUCED FAT 2% MILK GALLON        6.54 F
+  2.03 lb @ 9.65 /lb
+SMPL TRTH PORK TENDERLOIN        19.59 F
+  2 @ 2.25
+SMPL TRTH BROC CROWNS             4.50 F
+  4 @ 1.27
+KRO KEFIR                         5.08 F
+TILLAMOOK ICE CREAM 48 OZ         8.88 F
+COCA-COLA 12 PK CANS              2.77 T
+LARGE EGGS 12 CT                  8.69 F
+SMPL TRTH ASPARAGUS               2.93 F
+
+SUBTOTAL                           58.98
+TAX 10.55% ON 2.77                  0.29
+TOTAL                              59.27
+DEBIT TEND                         59.27
+CHANGE                              0.00
+
+06/13/26 18:25  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

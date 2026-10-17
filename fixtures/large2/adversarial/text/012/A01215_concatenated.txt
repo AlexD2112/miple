@@ -1,0 +1,73 @@
+               FRED MEYER
+               Seattle WA
+               Store 3795
+
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+WILD COD FILLET                  18.56 F
+FM MAYONNAISE                     6.36 F
+MANDARIN ORANGE CHICKEN          15.87 F
+BLACK BEANS CAN                   8.77 F
+CAT LITTER                       14.03 T
+SMPL TRTH DAVES KILLER BREAD      6.69 F
+  0.70 lb @ 0.76 /lb
+SMPL TRTH MANGO                   0.53 F
+PLAIN GOAT CHEESE                 5.77 F
+COCA-COLA 12 PACK CANS            2.77 T
+ORG RASPB 6 OZ                    6.28 F
+MFR CPN                          1.88-  
+  3.00 lb @ 18.16 /lb
+KRO COD FLLT                     54.48 F
+CELERY HEARTS                     4.34 F
+CORN TORT                         2.79 F
+FM PLUS CARD SAV                 0.84-  
+KRO TOOTHPASTE                   16.40 T
+  3.69 lb @ 13.74 /lb
+CHUCK ROAST                      50.70 F
+
+SUBTOTAL                          213.82
+TAX 10.55% ON 33.20                 3.50
+TOTAL                             217.32
+DEBIT TEND                        217.32
+CHANGE                              0.00
+
+01/06/26 15:34  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+
+               FRED MEYER
+               Seattle WA
+               Store 3112
+
+DARIGOLD UNSLTD BTR               6.67 F
+PAPER TOWELS 6 ROLL               3.75 T
+SMPL TRTH KALE                    4.17 F
+KRO ALMOND MLK                    5.08 F
+TILLAMOOK VAN YGRT                4.05 F
+2% MLK HALF GALLON                6.08 F
+FRZN BROC                         1.72 F
+DIGITAL CPN                      0.52-  
+WHITE BREAD                       6.34 F
+  4 @ 3.74
+FM SPRKLG WTR                    14.96 F
+FM CORN TORT                      2.79 F
+  2 @ 4.11
+GREEK YOGURT PLAIN                8.22 F
+ALMOND MLK                        5.08 F
+ORG BASIL CLMSHLL                 1.49 F
+FM PLUS CARD SAV                 0.45-  
+CROISSANTS 12 CT                  4.87 F
+MFR CPN                          1.14-  
+MYNNS 30 OZ                       6.42 F
+SLTD BTR 4 STICKS                 9.37 F
+SPAGHETTI                         9.54 F
+
+SUBTOTAL                           98.49
+TAX 10.55% ON 3.75                  0.40
+TOTAL                              98.89
+MASTERCARD TEND                    98.89
+CHANGE                              0.00
+
+03/19/26 18:01  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

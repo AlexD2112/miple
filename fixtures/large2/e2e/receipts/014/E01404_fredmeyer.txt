@@ -1,0 +1,32 @@
+               FRED MEYER
+              Portland OR
+               Store 3387
+
+KALE                              4.17 F
+DIGITAL CPN                      1.25-  
+  0.98 lb @ 1.79 /lb
+BEETS                             1.75 F
+DIJON MUSTARD                     2.46 F
+KRO HAMBURGER BUNS                2.77 F
+KRO SAVINGS                      0.83-  
+  3 @ 1.97
+GRK YGRT 48 OZ                    5.91 F
+CEREAL                            6.63 F
+2% MLK 2 X 1 GAL                  4.70 F
+DIGITAL CPN                      0.47-  
+SMPL TRTH PNT BTR                 6.90 F
+KRO WHL MLK HALF GALLON           6.79 F
+  0.44 lb @ 13.18 /lb
+KRO SLCD TRKY BRST                5.80 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           45.43
+TAX                                 0.00
+TOTAL                              45.43
+DEBIT TEND                         45.43
+CHANGE                              0.00
+
+08/28/26 11:54  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

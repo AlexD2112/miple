@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3537  Seattle WA
+            MEMBER ************
+
+354287 KS ALMOND MLK                  5.08 E
+590304 CLFLWR GNOCCHI                 7.85 E
+465936 BEETS                          5.35 E
+     2.99 lb @ 1.79 /lb
+1414327 KS AHI TUNA STEAK            14.71 E
+
+SUBTOTAL                               32.99
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             32.99
+DEBIT TEND                             32.99
+CHANGE                                  0.00
+
+05/22/26 10:25  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

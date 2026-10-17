@@ -1,0 +1,25 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+02/19/26 12:00  ITEMS 8
+
+CHANGE                              0.00
+MASTERCARD TEND                    63.26
+TOTAL                              63.26
+TAX 10.55% ON 5.79                  0.61
+SUBTOTAL                           62.65
+
+365 LEMONADE 52OZ                 5.79 T
+LG BROWN CAGE FREE EGGS           4.10 F
+GRASS-FED GROUND BEEF 85/15       7.35 F
+PRIME 10% OFF                    1.73-  
+PLAIN GOAT CHEESE                 5.77 F
+GROUND CHICKEN                   14.78 F
+  2.92 lb @ 5.06 /lb
+365 ORG SLTD BTR                  5.73 F
+WF FROZEN PEAS                   13.98 F
+365 ORG ZUCCHINI                  6.88 F
+  1.85 lb @ 3.72 /lb
+
+             (555) 020-2868
+               Seattle WA
+           WHOLE FOODS MARKET

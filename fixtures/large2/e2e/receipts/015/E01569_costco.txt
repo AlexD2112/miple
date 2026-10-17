@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0903  Seattle WA
+            MEMBER ************
+
+1575374 ORG HONEYCRISP APPLES         3.55 E
+     2.67 lb @ 1.33 /lb
+627952 KS CILANTRO                    1.16 E
+1130583 DRGLD UNSLTD BTR              6.67 E
+353862 GREETING CARD                 20.34 A
+1750863 FRZN BROC FLRTS               8.13 E
+1772198 TILLAMOOK MEDIUM CHDR 2.5 LB  4.21 E
+537024 ORG LEMONS                     9.91 E
+     3.50 lb @ 2.83 /lb
+1504225 KS GREEN BEANS                2.31 E
+1100508 KS COLA 12PK                  1.83 A
+7963599 TPD/COLA 12PK                0.55- A
+271721 KS ITALIAN PARSLEY             8.79 E
+     3 @ 2.93
+101777 PLAIN NONFAT GREEK YOGURT     18.60 E
+     4 @ 4.65
+
+SUBTOTAL                               84.95
+TAX 10.55% ON 21.62                     2.28
+**** TOTAL                             87.23
+MASTERCARD TEND                        87.23
+CHANGE                                  0.00
+
+07/01/26 07:59  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

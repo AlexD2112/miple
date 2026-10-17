@@ -1,0 +1,42 @@
+               FRED MEYER
+              Portland OR
+               Store 1257
+
+STRAUS PLAIN GRK YGRT             1.74 F
+MFR CPN                          0.52-  
+SMPL TRTH ROMAINE LTTC            2.79 F
+DIGIORNO RISING CRUST PEPPERONI   5.73 F
+ORG GALA APPLES                   1.57 F
+FM SLTD BTR                       5.73 F
+FM PLUS CARD SAV                 0.65-  
+BABY CRRTS                        2.49 F
+KRO SAVINGS                      0.75-  
+STRWB 1 LB                        5.22 F
+  1.95 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI                7.25 F
+SMPL TRTH RMN LTTC                2.79 F
+CELERY                            4.32 F
+LCRX LIME SPRKLG WTR 8 PK         2.20 F
+  8 @ 0.10
+OR BTL DEP                        0.80  
+DIGITAL CPN                      0.21-  
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  0.75 lb @ 2.08 /lb
+SMPL TRTH KIWI                    1.56 F
+YUKON GOLD POTS                   3.99 F
+KRO POTATO CHIPS                  5.07 F
+  2.54 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  19.41 F
+FM PLUS CARD SAV                 2.74-  
+
+SUBTOTAL                           77.28
+TAX                                 0.00
+TOTAL                              77.28
+AMEX TEND                          77.28
+CHANGE                              0.00
+
+07/13/26 12:28  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3534  Portland OR
+            MEMBER ************
+
+677268 KS BLACK FOREST HAM            5.67 E
+     0.40 lb @ 14.17 /lb
+567239 KS BLACK BEANS CAN             8.77 E
+6533030 TPD/BLACK BEANS              0.82-  
+161139 ORGANIC EGGS 24 CT             7.83 E
+565316 KS ORANGE JUICE                7.69 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+3224371 TPD/ORANGE JUICE             1.47-  
+1845636 KS ORANGE JUICE               7.69 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+528101 KS DAVES KILLER BRD            6.69 E
+1860425 MAYONNAISE                    6.36 E
+5771010 TPD/MAYONNAISE               1.91-  
+828491 KS NAVEL ORANGES               4.04 E
+     4 @ 1.01
+1625374 2% MLK HALF GALLON            6.08 E
+1115487 KS CLNTR                      1.16 E
+1775185 PARMIGIANO REGGIANO           7.82 E
+1918138 CRM CHS 8 OZ                  3.15 E
+1143558 DARK CHOC PNT BTR CUPS        5.61 E
+6543575 TPD/DARK CHOC PN             0.49-  
+1775889 2% MLK HALF GALLON            6.08 E
+1236968 BLACKBERRIES                  3.92 E
+393174 ORGANIC TOMATO BASIL MARINARA  5.94 E
+1066336 GREETING CARD                20.34 E
+1409299 PEPSI 12 PACK CANS            4.93 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+
+SUBTOTAL                              115.38
+TAX                                     0.00
+**** TOTAL                            115.38
+VISA TEND                             115.38
+CHANGE                                  0.00
+
+01/01/26 16:15  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 3749
+
+BARTLETT PEARS                    3.00 F
+SPARKLING WATER                   3.74 F
+AA BATTERIES 8PK                 24.36 T
+FM KERRYGOLD BTR                 10.81 F
+  2.70 lb @ 0.76 /lb
+SMPL TRTH MANGO                   2.05 F
+LG EGGS 12 CT                     8.69 F
+ORG ITLN PRSLY                    1.95 F
+  0.67 lb @ 18.16 /lb
+COD FLLT                         12.17 F
+  4 @ 2.54
+WHL WHT SANDWICH BRD             10.16 F
+CREAM CHEESE 8 OZ                 3.15 F
+KRO DISH SOAP                    19.39 T
+DIGITAL CPN                      1.89- T
+CHERRY TOM                        1.15 F
+FM FRZN BROC                      1.72 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          100.61
+TAX 10.55% ON 42.02                 4.43
+TOTAL                             105.04
+AMEX TEND                         105.04
+CHANGE                              0.00
+
+05/10/26 20:06  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

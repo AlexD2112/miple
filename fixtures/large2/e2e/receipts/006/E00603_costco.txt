@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1151  Seattle WA
+            MEMBER ************
+
+126445 KS YELLOW ONIN                 1.78 E
+1049217 BARTLETT PEARS                3.00 E
+5908741 TPD/BARTLETT PEA             0.59-  
+1623794 KS BANANAS                    8.93 E
+     3.08 lb @ 2.90 /lb
+
+SUBTOTAL                               13.12
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             13.12
+MASTERCARD TEND                        13.12
+CHANGE                                  0.00
+
+08/19/26 07:26  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,25 @@
+                SAFEWAY
+         Store 1739  Seattle WA
+             (555) 010-7402
+
+SLTD BTR 4 STICKS                 9.37 S
+SIG KTCHNS LEMONADE 52OZ          5.79 T
+PSTR RAISED EGGS                  7.37 S
+CAT LITTER                       14.03 T
+O ORGANICS LEMONS                 4.19 S
+PAPER TOWELS 6 ROLL               3.75 T
+ROMAINE LTTC                      2.79 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           47.53
+TAX 10.55% ON 23.81                 2.51
+**** TOTAL                         50.04
+MASTERCARD TEND                    50.04
+CHANGE                              0.00
+
+05/21/29  202 14 6273 1173
+TIME: 00:44
+ITEMS 29   REG 15  TRANS 1035
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

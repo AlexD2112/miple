@@ -1,0 +1,33 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+08/22/26 10:08  ITEMS 15
+
+CHANGE                              5.85
+CASH TEND                         140.00
+TOTAL                             134.15
+TAX 10.55% ON 6.02                  0.64
+SUBTOTAL                          133.51
+
+SMPL TRTH RDSHS                   3.15 F
+  3.00 lb @ 1.05 /lb
+SMPL TRTH TILLAMOOK MEDIUM CHDR  11.77 F
+FRZN PEAS 12 OZ                  10.80 F
+  2 @ 5.40
+KRO TILLAMOOK MEDIUM CHDR        11.77 F
+FM BNLS SKNLS CHKN BRST          28.16 F
+  4.21 lb @ 6.69 /lb
+SMPL TRTH HALIBUT                10.82 F
+ASPARAGUS                         2.93 F
+SMPL TRTH SWISS CHARD             2.87 F
+FM TLP FLLTS                     21.66 F
+GINGER ALE 12PK                   6.02 T
+RED ONIN                          0.62 F
+  0.42 lb @ 1.48 /lb
+FM COTTAGE CHS                    3.21 F
+HEINZ KTCHP 32 OZ                 4.48 F
+PORK TENDERLOIN                  15.25 F
+  1.58 lb @ 9.65 /lb
+
+               Store 2705
+               Seattle WA
+               FRED MEYER

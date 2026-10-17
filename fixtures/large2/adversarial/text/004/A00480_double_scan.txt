@@ -1,0 +1,63 @@
+               FRED MEYER
+               Seattle WA
+               Store 2985
+
+HUY FONG SRIRACHA                 2.55 F
+KRO AA BATTERIES 8PK             24.36 T
+  3.18 lb @ 13.74 /lb
+FM CHUCK ROAST                   43.69 F
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+SMPL TRTH EXTRA FIRM TOFU         2.32 F
+KRO TOOTHPASTE                   16.40 T
+MSSN FLOUR TORT 40 CT             5.22 F
+FM PLUS CARD SAV                 1.57-  
+KRO 2% MILK GALLON                6.49 F
+  3 @ 2.31
+GREEN BEANS                       6.93 F
+FM FRZN PIZZA                    13.30 F
+FM PLUS CARD SAV                 0.37-  
+SMPL TRTH DAVES KILLER BRD        6.69 F
+
+SUBTOTAL                          146.36
+TAX 10.55% ON 40.76                 4.30
+TOTAL                             150.66
+DEBIT TEND                        150.66
+CHANGE                              0.00
+
+05/30/26 09:41  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+
+               FRED MEYER
+               Seattle WA
+               Store 2985
+
+HUY FONG SRIRACHA                 2.55 F
+KRO AA BATTERIES 8PK             24.36 T
+  3.18 lb @ 13.74 /lb
+FM CHUCK ROAST                   43.69 F
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+SMPL TRTH EXTRA FIRM TOFU         2.32 F
+KRO TOOTHPASTE                   16.40 T
+MSSN FLOUR TORT 40 CT             5.22 F
+FM PLUS CARD SAV                 1.57-  
+KRO 2% MILK GALLON                6.49 F
+  3 @ 2.31
+GREEN BEANS                       6.93 F
+FM FRZN PIZZA                    13.30 F
+FM PLUS CARD SAV                 0.37-  
+SMPL TRTH DAVES KILLER BRD        6.69 F
+
+SUBTOTAL                          146.36
+TAX 10.55% ON 40.76                 4.30
+TOTAL                             150.66
+DEBIT TEND                        150.66
+CHANGE                              0.00
+
+05/30/26 09:41  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

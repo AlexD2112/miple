@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3013  Portland OR
+            MEMBER ************
+
+1590057 KOMBUCHA 16OZ                 4.58 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+627243 FRZN PIZZA                    13.30 E
+1127861 GRND BF 88/12                12.54 E
+     2.09 lb @ 6.00 /lb
+459097 KS CELERY                      8.64 E
+     2 @ 4.32
+1359755 KS SOY SCE                    6.79 E
+553832 KS APPLE JUICE 64OZ            7.25 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+7689688 TPD/APPLE JUICE              2.18-  
+68628 PEPSI 12 PK CANS                4.93 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+
+SUBTOTAL                               56.15
+TAX                                     0.00
+**** TOTAL                             56.15
+MASTERCARD TEND                        56.15
+CHANGE                                  0.00
+
+11/02/2029 23:46 PDT  791 791 6628 17
+ITEMS 1   REG 05  TRANS 3599
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

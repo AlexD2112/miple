@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0760  Seattle WA
+            MEMBER ************
+
+1989781 KS RANCH DRESSING            11.97 E
+     3 @ 3.99
+111868 KS ROMAINE LTTC                2.79 E
+565530 KS 2% MILK GALLON              6.49 E
+3309343 TPD/2% MILK GALL             0.42-  
+986750 CHKN BROTH 32 OZ               2.81 E
+1975595 BARTLETT PEARS                6.00 E
+     2 @ 3.00
+825527 HANDMADE STYLE CORN TORT       3.55 E
+1530866 ICEBERG LTTC                  5.11 E
+
+SUBTOTAL                               38.30
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             38.30
+AMEX TEND                              38.30
+CHANGE                                  0.00
+
+2027-07-10 18:55:34  679 679 3401 15
+ITEMS 29   REG 19  TRANS 3228
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,39 @@
+               FRED MEYER
+              Portland OR
+               Store 1300
+
+JENNIE-O GRND TRKY 1 LB           6.60 F
+MANDARIN ORANGE CHKN             15.87 F
+FRZN PEAS 12 OZ                   5.40 F
+MFR CPN                          1.17-  
+CILANTRO BUNCH                    2.02 F
+DIGITAL CPN                      0.61-  
+KRO HAMBURGER BUNS                2.77 F
+FM PLUS CARD SAV                 0.83-  
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+SMPL TRTH ITALIAN PARSLEY         2.93 F
+CHKN BROTH 32 OZ                  2.81 F
+KRO SHARP CHEDDAR BLOCK          10.33 F
+KRO DRIED LENTILS                 4.26 F
+  2 @ 3.74
+KRO SPRKLG WTR                    7.48 F
+  2 @ 0.10
+OR BTL DEP                        0.20  
+JNN- GRND TRKY 1 LB               6.60 F
+KRO TRASH BAGS 40CT               6.49 F
+FM SPAGHETTI                      9.54 F
+SOY SAUCE                         6.79 F
+ORGANIC EGGS 24 CT                7.83 F
+  2 @ 2.59
+SMPL TRTH GREEN ONIN BUNCH        5.18 F
+KRO SAVINGS                      1.55-  
+
+SUBTOTAL                          107.82
+TAX                                 0.00
+TOTAL                             107.82
+DEBIT TEND                        107.82
+CHANGE                              0.00
+
+02/29/28 17:46  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

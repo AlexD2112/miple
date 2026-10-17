@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0834  Seattle WA
+            MEMBER ************
+
+1441167 RUSSET POTATOES 5 LB BAG      4.53  
+1733218 KS CHKN THIGHS                9.29  
+0895032 TPD/CHKN THIGHS              1.45-  
+1386245 2% MLK HALF GALLON            6.08  
+1085168 TILLAMOOK VANILLA YOGURT      4.05  
+1175705 TPD/TILLAMOOK VA             0.65-  
+1852457 KS SLCD ROAST BF              5.94  
+957953 HALIBUT                       10.82  
+1188183 TLLMK ICE CRM 48 OZ           8.88  
+436125 KS ALUMINUM FOIL              18.03 B
+209716 BABY SPINACH 5 OZ              3.77  
+1502904 WILD COD FLLT                18.56  
+2215894 TPD/WILD COD FLL             1.96-  
+1399174 RIBEYE STEAK                 19.87  
+9929277 TPD/RIBEYE STEAK             2.10-  
+247747 ORG BABY SPNCH 5 OZ           11.70  
+     2 @ 5.85
+7115870 TPD/ORG BABY SPN             0.93-  
+923218 TILLAMOOK VAN YGRT             4.05  
+124554 STRAWBERRIES 1 LB              5.22  
+
+SUBTOTAL                              123.70
+TAX 10.55% ON 18.03                     1.90
+**** TOTAL                            125.60
+DEBIT TEND                            125.60
+CHANGE                                  0.00
+
+02/14/26 07:51  ITEMS 15
+B=TAXABLE
+                 THANK YOU

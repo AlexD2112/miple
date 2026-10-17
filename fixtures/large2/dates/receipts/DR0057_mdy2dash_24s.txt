@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 3376
+
+SMPL TRTH TORTILLA CHIPS          3.33 F
+  3 @ 2.72
+SMPL TRTH MANDARINS               8.16 F
+FM PREPARED MAC AND CHEESE       10.62 F
+SMPL TRTH GINGER ALE 12PK         6.02 T
+CABOT SHRP CHDR 8 OZ              8.48 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           36.85
+TAX 10.55% ON 6.26                  0.66
+TOTAL                              37.51
+MASTERCARD TEND                    37.51
+CHANGE                              0.00
+
+11-01-26 01:16:29  2954 12 617 8
+ITEMS 27   REG 11  TRANS 6004
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

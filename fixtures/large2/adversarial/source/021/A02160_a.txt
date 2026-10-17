@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1437
+
+  REFUND - ORIG RECEIPT
+RETURN PRIV SEL COLA 12PK CANS   1.51- T
+RETURN BLUEBERRIES 18 OZ         4.61- F
+RETURN BABY SPNCH 5 OZ           3.77- F
+  REFUND - ORIG RECEIPT
+RETURN BEETS                     4.98- F
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH COLA 12PK       7.32- T
+RETURN DELI SLCD TRKY BRST      12.31- F
+
+SUBTOTAL                          34.50-
+TAX 10.55% ON 8.83-                0.93-
+TOTAL                             35.43-
+DEBIT TEND                        35.43-
+CHANGE                              0.00
+
+10/03/26 19:06  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

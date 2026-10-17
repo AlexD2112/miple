@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1868  Seattle WA
+            MEMBER ************
+
+986171 KS SOY SCE                     6.79 E
+1541955 WHITE SANDWICH BREAD          7.03 E
+257967 ORG RASPB 6 OZ                 6.28 E
+315744 KS GINGER ALE 12PK             6.02 A
+0766222 TPD/GINGER ALE 1             1.81- A
+
+SUBTOTAL                               24.31
+TAX 10.55% ON 4.21                      0.44
+**** TOTAL                             24.75
+DEBIT TEND                             24.75
+CHANGE                                  0.00
+
+01/18/26 07:37  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

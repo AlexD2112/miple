@@ -1,0 +1,38 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+05/01/26 07:35  ITEMS 17
+
+CHANGE                              0.00
+AMEX TEND                          90.11
+TOTAL                              90.11
+TAX 10.55% ON 18.19                 1.92
+SUBTOTAL                           88.19
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+SWEET POTS                        3.28 F
+PRIV SEL GROUND TURKEY            5.19 F
+ALUMINUM FOIL                    18.03 T
+SLCD SOURDOUGH PAN LOAF           4.74 F
+DIGITAL CPN                      0.78-  
+SMPL TRTH RMN LTTC                2.79 F
+LEMON                             8.60 F
+  2 @ 4.30
+JALAPENO                          4.38 F
+  2.74 lb @ 1.60 /lb
+ZUCCHINI                          5.13 F
+  1.38 lb @ 3.72 /lb
+KRO FLOUR TORTILLAS               6.18 F
+MAYONNAISE 30 OZ                  6.42 F
+PRIV SEL HALIBUT                 10.82 F
+KRO SAVINGS                      0.76-  
+HUY FONG SRIRACHA                 2.55 F
+CARROTS 2 LB                      1.74 F
+PINEAPPLE                         0.98 F
+  0.78 lb @ 1.25 /lb
+PRIV SEL KEFIR                    1.27 F
+SRDGH LOAF                        7.47 F
+
+         Seattle WA  Store 0674
+          Quality Food Centers
+                  QFC

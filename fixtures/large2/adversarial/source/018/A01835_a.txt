@@ -1,0 +1,30 @@
+               FRED MEYER
+              Portland OR
+               Store 1089
+
+FM DAVES KILLER BREAD             6.69 F
+DIGITAL CPN                      2.01-  
+  3.01 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BR  23.00 F
+SLCD SOURDOUGH PAN LOAF           4.74 F
+FM PEANUT BUTTER                  6.90 F
+  4 @ 2.35
+FLOUR TORT 10 CT                  9.40 F
+SMPL TRTH YUKON GOLD POTS         3.99 F
+FM PLUS CARD SAV                 1.19-  
+  1.29 lb @ 18.16 /lb
+FM COD FLLT                      23.43 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 F
+WHITE BRD                         6.34 F
+FM GRANOLA BARS                   6.07 F
+RED GRAPES                        3.04 F
+
+SUBTOTAL                           96.19
+TAX                                 0.00
+TOTAL                              96.19
+VISA TEND                          96.19
+CHANGE                              0.00
+
+02/09/26 14:46  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

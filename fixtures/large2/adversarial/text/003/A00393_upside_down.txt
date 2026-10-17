@@ -1,0 +1,24 @@
+               THANK YOU
+T=TAXABLE  N=NONTAXABLE FOOD
+08/16/26 16:44  ITEMS 9
+
+CHANGE                              0.00
+VISA TEND                          73.29
+TOTAL                              73.29
+TAX 8.625% ON 11.75                 1.01
+SUBTOTAL                           72.28
+
+GG ZUCCHINI                       9.37 N
+  2.52 lb @ 3.72 /lb
+BLACK FOREST HAM 9 OZ             7.00 N
+GG FRZN PEAS                     13.98 N
+JASMINE RICE 25 LB                8.09 N
+GG TILLAMOOK MEDIUM CHEDDAR      11.77 N
+SHREDDED CHDR 8 OZ                6.42 N
+GG DELI FRIED CHICKEN            11.75 T
+ORG ITLN PRSLY                    3.90 N
+  2 @ 1.95
+
+             (555) 030-4173
+        San Francisco CA  T-1263
+                 TARGET

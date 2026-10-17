@@ -1,0 +1,31 @@
+               FRED MEYER
+              Portland OR
+               Store 1566
+
+ORG RASPB 6 OZ                    6.28 F
+LG EGGS 18 CT                     7.52 F
+FM ROOT BEER 2L                   5.24 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+KRO FLOUR TORT                    6.18 F
+BLUBRY                            5.87 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+LEMON                             4.30 F
+  2.78 lb @ 1.25 /lb
+SMPL TRTH PINEAPPLE               3.48 F
+LG BROWN CAGE FREE EGGS           4.10 F
+  4.93 lb @ 6.33 /lb
+WHOLE CHICKEN                    31.21 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           91.81
+TAX                                 0.00
+TOTAL                              91.81
+DISCOVER TEND                      91.81
+CHANGE                              0.00
+
+06/15/2030 00:00 PDT  3607 25 408 8
+ITEMS 26   REG 07  TRANS 9001
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

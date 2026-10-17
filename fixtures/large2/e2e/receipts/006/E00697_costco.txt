@@ -1,0 +1,35 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2629  Seattle WA
+            MEMBER ************
+
+1361046 JENNIE-O GROUND TURKEY 1 LB   6.60 E
+596404 KS ORANGE JUICE 52OZ           9.39 E
+560472 KS FRZN PEAS                  13.98 E
+1426517 CRM CHS 8 OZ                  3.15 E
+954354 BROC CROWNS                    2.25 E
+196299 KS GALA APPLES                 6.56 E
+     2.85 lb @ 2.30 /lb
+1906330 KS CILANTRO                   1.16 E
+2932405 TPD/CILANTRO                 0.35-  
+910133 KS TURKEY BREAST              43.82 E
+     6.18 lb @ 7.09 /lb
+1610046 KS DRIED LNTLS                4.26 E
+31835 NAVEL ORANGES                   1.01 E
+1447804 PAPER TOWELS 6 ROLL           3.75 A
+1682335 JASMINE RICE 25 LB            8.09 E
+944758 SLTD BTR 4 STICKS              9.37 E
+1362435 KS FRESH MOZZARELLA           8.65 E
+528551 KS CREMINI MSHRM               3.42 E
+     3 @ 1.14
+1350048 KS SWEET POTS                 3.28 E
+
+SUBTOTAL                              128.39
+TAX 10.55% ON 3.75                      0.40
+**** TOTAL                            128.79
+DEBIT TEND                            128.79
+CHANGE                                  0.00
+
+03/26/26 12:14  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,27 @@
+               FRED MEYER
+              Portland OR
+               Store 0180
+
+SMPL TRTH BLACKBERRIES            3.92 F
+GREEN ONIN BUNCH                  2.59 F
+SMPL TRTH CARROTS                 1.79 F
+KRO PLSTC WRAP                    4.77 F
+SMPL TRTH CELERY                  4.32 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+  4 @ 2.29
+FM SILKEN TOFU                    9.16 F
+SMPL TRTH NAVEL ORANGES           1.01 F
+CILANTRO BUNCH                    2.02 F
+ORG BLACK BEANS 8 CANS            1.15 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           33.44
+TAX                                 0.00
+TOTAL                              33.44
+VISA TEND                          33.44
+CHANGE                              0.00
+
+04/24/26 18:27  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

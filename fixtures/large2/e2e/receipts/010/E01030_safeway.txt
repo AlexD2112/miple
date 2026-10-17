@@ -1,0 +1,17 @@
+                SAFEWAY
+         Store 0824  Seattle WA
+             (555) 010-6868
+
+SIG KTCHNS ROTIS CHKN             5.04 T
+SIG KTCHNS HALIBUT               10.82 S
+MAYONNAISE 30 OZ                  6.42 S
+
+SUBTOTAL                           22.28
+TAX 10.55% ON 5.04                  0.53
+**** TOTAL                         22.81
+MASTERCARD TEND                    22.81
+CHANGE                              0.00
+
+04/21/26 07:47  ITEMS 3
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

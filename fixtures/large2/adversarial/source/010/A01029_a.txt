@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 2569
+
+PARMIGIANO REGGIANO WEDGE         8.42 F
+WHL MLK HALF GALLON               6.79 F
+KRO SAVINGS                      2.04-  
+FRZN BROC                         1.72 F
+FM OAT MLK                        3.10 F
+KRO CHICKEN BROTH CARTON          8.38 F
+SLCD ROAST BF                     5.94 F
+LEMON                             4.30 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+BABY CARROTS                      2.49 F
+  2 @ 4.19
+LEMONS                            8.38 F
+ROMA TOMATOES                     2.38 F
+  0.55 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI                2.05 F
+  2 @ 1.47
+CHOBANI PLAIN GREEK YOGURT 32 OZ  2.94 F
+  1.45 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                2.84 F
+KRO FLOWERS BOUQUET              23.70 T
+GREEK YOGURT 48 OZ                1.97 F
+
+SUBTOTAL                           88.14
+TAX 10.55% ON 23.70                 2.50
+TOTAL                              90.64
+DEBIT TEND                         90.64
+CHANGE                              0.00
+
+05/28/26 09:48  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

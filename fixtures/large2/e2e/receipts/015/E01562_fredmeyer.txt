@@ -1,0 +1,39 @@
+               FRED MEYER
+               Seattle WA
+               Store 1239
+
+GRND TRKY                         5.19 F
+  1.58 lb @ 1.25 /lb
+SMPL TRTH PINEAPPLE               1.98 F
+  4.34 lb @ 7.64 /lb
+FOSTER FARMS BONELESS SKINLESS   33.16 F
+CAGE FREE EGGS 18CT               6.85 F
+  1.16 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              12.75 F
+LEMON                             4.30 F
+  2.65 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI                9.86 F
+PRPRD MAC & CHS                  10.62 F
+DIGIORNO RISING CRUST PEPPERONI   5.73 F
+MFR CPN                          0.38-  
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+FM APPLE JUICE 64OZ               7.25 F
+  0.42 lb @ 17.98 /lb
+UNXPCTD CHDR                      7.55 F
+FM TUNA CAN                       1.08 F
+  3 @ 3.77
+BABY SPNCH 5 OZ                  11.31 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+  REFUND - ORIG RECEIPT
+RETURN FM APPLE JUICE 64OZ       7.25- F
+
+SUBTOTAL                          112.94
+TAX 10.55% ON 0.16                  0.02
+TOTAL                             112.96
+VISA TEND                         112.96
+CHANGE                              0.00
+
+09/15/26 09:21  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

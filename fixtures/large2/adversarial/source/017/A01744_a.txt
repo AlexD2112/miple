@@ -1,0 +1,42 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1195  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******7546
+
+150513 KS PORK TENDERLOIN            14.28 E
+     1.48 lb @ 9.65 /lb
+1918627 GRK YGRT 48 OZ                7.88 E
+     4 @ 1.97
+1503295 KS LNDRY DTRGNT PODS         20.18 A
+178930 KS FRESH DILL                  0.90 E
+1717727 DARK CHOCOLATE PEANUT BUTTE  16.83 E
+     3 @ 5.61
+1819590 WHITE BRD                     6.34 E
+378702 LACROIX LIME SPRKLG WTR 8 PK   4.40 E
+     2 @ 2.20
+2271158 TPD/LACROIX LIME             1.32-  
+1624484 KS BNLS SKNLS CHKN BRST      13.25 E
+     1.98 lb @ 6.69 /lb
+1464634 KS MANGO                      2.91 E
+     3.83 lb @ 0.76 /lb
+1409093 AVOCADOS BAG 4 CT             3.54 E
+611440 KS GREEN BEANS                 9.24 E
+     4 @ 2.31
+1691008 SHAMPOO                      17.57 A
+380407 CHKN THIGHS                    9.29 E
+1139383 KS AHI TUNA STEAK            14.71 E
+1243969 KS RED GRAPES                 3.04 E
+1788921 PORK CHOPS                   19.20 E
+     1.73 lb @ 11.10 /lb
+9674093 TPD/PORK CHOPS               0.65-  
+
+SUBTOTAL                              161.59
+TAX EXEMPT                              0.00
+**** TOTAL                            161.59
+MASTERCARD TEND                       161.59
+CHANGE                                  0.00
+
+09/17/26 19:06  ITEMS 25
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

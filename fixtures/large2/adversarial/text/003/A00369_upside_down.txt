@@ -1,0 +1,44 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+09/10/26 18:25  ITEMS 19
+
+CHANGE                              0.00
+MASTERCARD TEND                   109.22
+TOTAL                             109.22
+TAX                                 0.00
+SUBTOTAL                          109.22
+
+BAG FEE                           0.15  
+  3 @ 0.05
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+GRK YGRT PLAIN                    4.11 F
+OR BTL DEP                        0.10  
+  1 @ 0.10
+SMPL TRTH ORANGE JUICE 52OZ       9.39 F
+BNLS RIBEYE STEAK                14.47 F
+  0.93 lb @ 15.56 /lb
+SMPL TRTH PORK CHOPS             23.20 F
+  2.09 lb @ 11.10 /lb
+KRO SAVINGS                      0.56-  
+RED ONIN                          4.43 F
+  2.99 lb @ 1.48 /lb
+CILANTRO BUNCH                    2.02 F
+AVCDS                             4.05 F
+MFR CPN                          0.29-  
+SMPL TRTH ZUCCHINI                9.82 F
+  2.64 lb @ 3.72 /lb
+OR BTL DEP                        0.10  
+  1 @ 0.10
+PEPSI 12 PK CANS                  4.93 F
+SMPL TRTH CHERRY TOM              1.15 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+TOSTITOS SCOOPS TORTILLA CHIPS   10.38 F
+  3 @ 3.46
+BEETS                             2.04 F
+  1.14 lb @ 1.79 /lb
+CELERY                           12.96 F
+  3 @ 4.32
+
+               Store 3244
+              Portland OR
+               FRED MEYER

@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 0473
+TAX EXEMPT ID ******4230
+
+  2.51 lb @ 2.08 /lb
+SMPL TRTH KIWI                    5.22 F
+KRO SAVINGS                      0.82-  
+FM CHICKEN DRUMSTICKS             8.97 F
+FLOUR TORT 10 CT                  2.35 F
+CILANTRO BUNCH                    2.02 F
+BATH TISSUE 12 ROLL              23.08 T
+SILKEN TOFU                       2.29 F
+STRWB 1 LB                        5.22 F
+KRO BAGELS                        3.77 F
+KRO GRND COFFEE                   9.64 F
+  2 @ 4.65
+PLAIN NONFAT GRK YGRT             9.30 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           71.20
+TAX EXEMPT                          0.00
+TOTAL                              71.20
+DISCOVER TEND                      71.20
+CHANGE                              0.00
+
+01/19/26 14:00  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

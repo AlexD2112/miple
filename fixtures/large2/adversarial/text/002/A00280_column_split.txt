@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 1999
+
+AVCDS BAG 4 CT
+SMPL TRTH SRDGH LOAF
+LIGHT BULBS 4PK
+  2 @ 2.06
+FM FROZEN MIXED BERRIES
+MFR CPN
+
+3.54 F
+7.47 F
+17.04 F
+4.12 F
+1.24-
+
+SUBTOTAL                           30.93
+TAX                                 0.00
+TOTAL                              30.93
+AMEX TEND                          30.93
+CHANGE                              0.00
+
+03/18/26 09:04  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 2930
+STORE MGR: J******
+
+KRO GREETING CARD                20.34 T
+ORG ITLN PRSLY                    1.95 F
+DIGITAL CPN                      0.59-  
+FRZN PIZZA                       13.30 F
+  3 @ 5.22
+MISSION FLOUR TORT 40 CT         15.66 F
+KRO SAVINGS                      0.85-  
+KRO KETCHUP                       5.49 F
+FLOWERS BOUQUET                  23.70 T
+  1.54 lb @ 6.69 /lb
+KRO BNLS SKNLS CHKN BRST         10.30 F
+KRO SAVINGS                      2.08-  
+TOOTHPASTE                       16.40 T
+KRO WHL WHT SANDWICH BRD          2.54 F
+  0.91 lb @ 13.18 /lb
+KRO SLICED TURKEY BREAST         11.99 F
+  2.67 lb @ 17.07 /lb
+FM LAMB CHOPS                    45.58 F
+ORG BABY SPNCH 5 OZ               5.85 F
+
+SUBTOTAL                          169.58
+TAX 10.55% ON 60.44                 6.38
+TOTAL                             175.96
+MASTERCARD TEND                   175.96
+CHANGE                              0.00
+
+04/23/26 18:57  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+AUTH CODE  986605
+REWARDS BALANCE           253.46
+SURVEY CODE 9951 4329 3514
+BALANCE DUE                   0.00
+               THANK YOU

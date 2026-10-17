@@ -1,0 +1,28 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3556  Seattle WA
+            MEMBER ************
+
+1405661 PARMIGIANO REGGIANO           7.82 E
+1201717 KS KOMBUCHA 16OZ              4.58 E
+9188973 TPD/KOMBUCHA 16O             1.37-  
+908245 KS LEMONS                      4.19 E
+1346331 ORG GRAPE TOM PINT            4.23 E
+     2.16 lb @ 1.96 /lb
+1201717 KS KOMBUCHA 16OZ              4.58 E
+9188973 TPD/KOMBUCHA 16O             1.37-  
+908245 KS LEMONS                      4.19 E
+1346331 ORG GRAPE TOM PINT            4.23 E
+     2.16 lb @ 1.96 /lb
+514984 KS CHERRIES                    5.69 E
+772146 FLOUR TORT 10 CT               2.35 E
+
+SUBTOTAL                               27.49
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             27.49
+DEBIT TEND                             27.49
+CHANGE                                  0.00
+
+07/19/26 18:47  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

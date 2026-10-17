@@ -1,0 +1,21 @@
+               FRED MEYER
+              Portland OR
+               Store 3300
+
+KRO GOAT CHS                      8.35 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+DARIGOLD UNSLTD BTR               6.67 F
+  2.79 lb @ 1.79 /lb
+BEETS                             4.99 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           28.99
+TAX                                 0.00
+TOTAL                              28.99
+DEBIT TEND                         28.99
+CHANGE                              0.00
+
+04/28/26 14:10  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,31 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0720
+
+PRIV SEL HAMBURGER BUNS           2.77 F
+ORG BABY SPNCH                    5.54 F
+  4 @ 2.79
+SMPL TRTH ROMAINE LETTUCE        11.16 F
+SHRP CHDR BLOCK                  10.33 F
+ARGL                              4.00 F
+POTATO CHIPS                      5.07 F
+  4 @ 5.79
+LEMONADE 52OZ                    23.16 T
+KRO GRNLA BRS                     6.07 F
+PENNE 16 OZ                       3.51 F
+KRO CHKN BROTH CARTON             8.38 F
+  3.01 lb @ 1.48 /lb
+RED ONIN                          4.45 F
+BARILLA PENNE                    19.37 F
+  3 @ 4.00
+SMPL TRTH ARUGULA                12.00 F
+
+SUBTOTAL                          115.81
+TAX 10.55% ON 23.16                 2.44
+TOTAL                             118.25
+AMEX TEND                         118.25
+CHANGE                              0.00
+
+01/17/26 14:34  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

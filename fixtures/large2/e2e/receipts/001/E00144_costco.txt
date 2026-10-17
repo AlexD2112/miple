@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0657  Seattle WA
+            MEMBER ************
+
+1307735 FLOWERS BOUQUET              23.70 A
+600757 KS GENOA SALAMI                4.76 E
+218602 KS CHERRY TOM                  4.60 E
+     4 @ 1.15
+1375206 CRRTS                         1.79 E
+14696 KS PARSNIPS                     9.45 E
+     3.89 lb @ 2.43 /lb
+1739769 KS CAULIFLOWER                6.92 E
+     1.84 lb @ 3.76 /lb
+1761368 CHKN THIGHS                   9.29 E
+1400510 TPD/CHKN THIGHS              1.78-  
+1810881 KS BTR LTTC                   2.45 E
+356870 KS DAVES KILLER BRD            6.69 E
+1375928 TILLAMOOK MEDIUM CHEDDAR 2.5  4.21 E
+9487360 TPD/TILLAMOOK ME             0.67-  
+1995404 2% MLK 2 X 1 GAL              4.70 E
+88266 KS HAMBURGER BUNS               2.77 E
+20846 DAVES KILLER BRD 21 WHL GRAINS  4.78 E
+710635 GINGER ALE 12PK                6.02 A
+4574376 TPD/GINGER ALE 1             1.81- A
+597857 KS SLICED TURKEY BREAST       10.02 E
+     0.76 lb @ 13.18 /lb
+1345424 KS BRIE                       4.85 E
+586129 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+1048560 KS RMN LTTC                   2.79 E
+68286 SALSA JAR                       2.09 E
+  REFUND - ORIG RECEIPT
+RETURN 1810881 KS BTR LTTC           2.45- E
+
+SUBTOTAL                              107.95
+TAX 10.55% ON 27.91                     2.94
+**** TOTAL                            110.89
+MASTERCARD TEND                       110.89
+CHANGE                                  0.00
+
+06/05/26 13:42  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

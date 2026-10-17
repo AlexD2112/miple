@@ -1,0 +1,26 @@
+              TRADER JOE'S
+        Store #0461  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+STORE MGR: J******
+REG 23 TRN 6157 OPR 270
+FUEL POINTS BALANCE     798
+
+AVOCADOS                          4.05  
+  1.04 lb @ 0.68 /lb
+PEACHES                           0.71  
+PARMIGIANO REGGIANO WEDGE         8.42  
+   ** MEMBER PRICE APPLIED **
+MAYONNAISE                        6.36  
+TJ'S FRESH MOZZ                   8.65  
+
+SUBTOTAL                           28.19
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              28.19
+MASTERCARD TEND                    28.19
+CHANGE                              0.00
+
+04/12/26 18:51  ITEMS 5
+T=TAXABLE
+BALANCE DUE                   0.00
+SURVEY CODE 5317 9152 2781
+               THANK YOU

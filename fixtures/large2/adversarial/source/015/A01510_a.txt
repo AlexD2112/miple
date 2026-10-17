@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 1935
+
+KRO HAND SOAP                    24.27 T
+KRO SAVINGS                      0.80- T
+KRO SPONGES 3PK                   9.54 T
+DIGITAL CPN                      2.50- T
+SMPL TRTH STRWB                   4.35 F
+SOY SCE                           6.79 F
+SMPL TRTH NAVEL ORANGES           1.01 F
+FM ROOT BEER 2L                   5.24 T
+GREEK YOGURT PLAIN                4.11 F
+FM GRNLA BRS                      6.07 F
+CHOBANI PLAIN GREEK YOGURT 32 OZ  1.47 F
+  2 @ 5.85
+ORG BABY SPNCH 5 OZ              11.70 F
+HANDMADE STYLE CORN TORTILLAS     3.55 F
+KRO NAPKINS                      24.05 T
+RIBEYE STEAK                     19.87 F
+DISH SOAP                        19.39 T
+KRO TUNA CAN                      1.08 F
+
+SUBTOTAL                          139.19
+TAX 10.55% ON 79.19                 8.35
+TOTAL                             147.54
+AMEX TEND                         147.54
+CHANGE                              0.00
+
+10/01/26 16:23  ITEMS 16
+T=TAXABLE  F=FOOD
+               THANK YOU

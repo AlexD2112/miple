@@ -1,0 +1,39 @@
+               FRED MEYER
+               Seattle WA
+               Store 2628
+
+SMPL TRTH FRZN PIZZA             13.30 F
+MFR CPN                          1.48-  
+  2 @ 5.54
+ORGANIC BABY SPINACH             11.08 F
+KRO SAVINGS                      1.45-  
+FM CHKN BROTH CARTON              8.38 F
+SMPL TRTH GINGER ALE 12PK         6.02 T
+  2 @ 5.79
+KRO LEMONADE 52OZ                11.58 T
+KRO AA BATTERIES 8PK             24.36 T
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+  4 @ 4.58
+KRO KOMBUCHA 16OZ                18.32 F
+  0.73 lb @ 1.79 /lb
+BEETS                             1.31 F
+ARUGULA                           4.00 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+DAVES KILLER BRD                  6.69 F
+CRL                               6.63 F
+KRO HAND SOAP                    24.27 T
+YELLOW ONIN                       1.78 F
+FM WHOLE WHEAT SANDWICH BREAD     2.54 F
+KRO ALL PURPOSE FLOUR            11.36 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          183.79
+TAX 10.55% ON 66.47                 7.01
+TOTAL                             190.80
+VISA TEND                         190.80
+CHANGE                              0.00
+
+05/30/26 12:31  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

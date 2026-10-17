@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0341  Seattle WA
+            MEMBER ************
+
+1997055 JASMINE RICE 25 LB            8.09 E
+1745281 ORG RASPB 6 OZ                6.28 E
+508828 KS TLLMK MEDIUM CHDR          11.77 E
+1974538 KS SOURDOUGH LOAF             7.47 E
+1576930 DARK CHOCOLATE PEANUT BUTTE  22.44 E
+     4 @ 5.61
+640990 AVOCADOS BAG 4 CT              3.54 E
+404878 KS BRIE                        4.85 E
+5267527 TPD/BRIE                     1.06-  
+1059553 HASS AVCD LG                 12.29 E
+     3.68 lb @ 3.34 /lb
+931831 KS CRL                         6.63 E
+9010475 TPD/CRL                      1.99-  
+1552863 KETCHUP                       5.49 E
+640817 MISSION FLOUR TORT 40 CT      10.44 E
+     2 @ 5.22
+7604296 TPD/MISSION FLOU             2.22-  
+317617 COLA 12PK CANS                 4.53 A
+     3 @ 1.51
+1883096 BLACKBERRIES                 11.76 E
+     3 @ 3.92
+
+SUBTOTAL                              110.31
+TAX 10.55% ON 4.53                      0.48
+**** TOTAL                            110.79
+DISCOVER TEND                         110.79
+CHANGE                                  0.00
+
+10/06/26 21:54  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

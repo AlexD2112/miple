@@ -1,0 +1,44 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1915  Seattle WA
+            MEMBER ************
+
+1910043 KS FRESH MOZZ                 8.65 E
+76059 KS PEACHES                      1.78 E
+     2.62 lb @ 0.68 /lb
+114708 DIJON MSTRD                    7.38 E
+     3 @ 2.46
+2698994 TPD/DIJON MSTRD              1.16-  
+562842 CORN TORT                     11.16 E
+     4 @ 2.79
+452519 PLSTC WRAP                     4.77 A
+2214869 TPD/PLSTC WRAP               0.72- A
+953585 PARMIGIANO REGGIANO WEDGE      8.42 E
+873138 KS 2% MLK GALLON               6.49 E
+418106 KS FLOWERS BOUQUET            23.70 A
+539640 KS CRM CHS                     8.63 E
+5407878 TPD/CRM CHS                  2.59-  
+1106240 SHRDDD CHDR 8 OZ              6.42 E
+304457 KS AHI TUNA STEAK             14.71 E
+1756426 TPD/AHI TUNA STE             1.85-  
+967494 KS COLA 12PK CANS              1.51 A
+104242 ORG CRRTS BUNCH                4.63 E
+117319 BNLS PORK LOIN CHOPS           9.93 E
+     1.00 lb @ 9.93 /lb
+51695 CHBN PLAIN GRK YGRT 32 OZ       1.47 E
+1003529 PINEAPPLE                     1.46 E
+     1.17 lb @ 1.25 /lb
+655971 FLOUR TORTILLAS 10 CT          2.35 E
+1367383 SWISS CHARD                   5.74 E
+     2 @ 2.87
+1769671 PAPER PLATES                  3.31 A
+
+SUBTOTAL                              126.19
+TAX 10.55% ON 32.57                     3.44
+**** TOTAL                            129.63
+VISA TEND                             129.63
+CHANGE                                  0.00
+
+05/19/26 11:44  ITEMS 25
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

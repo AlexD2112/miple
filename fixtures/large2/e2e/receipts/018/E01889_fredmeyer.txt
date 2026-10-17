@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 2343
+
+SMPL TRTH PEANUT BUTTER           6.90 F
+FRZN WAFFLES                      7.05 F
+CAT LITTER                       14.03 F
+DIGITAL CPN                      0.31-  
+FRZN DUMPLINGS                   15.61 F
+SMPL TRTH BABY SPNCH              5.42 F
+  4.95 lb @ 6.00 /lb
+GRND BF 88/12                    29.70 F
+  2 @ 1.15
+CHERRY TOM                        2.30 F
+SMPL TRTH GRND PORK               6.60 F
+MFR CPN                          0.63-  
+
+SUBTOTAL                           86.67
+TAX                                 0.00
+TOTAL                              86.67
+AMEX TEND                          86.67
+CHANGE                              0.00
+
+09/05/26 15:20  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

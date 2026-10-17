@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3310  Seattle WA
+            MEMBER ************
+
+74481 TILLAMOOK VAN YGRT             12.15 E
+     3 @ 4.05
+0170630 TPD/TILLAMOOK VA             1.65-  
+1081010 CROISSANTS 12 CT              4.87 E
+1863734 KS ALUMINUM FOIL             18.03 A
+
+SUBTOTAL                               33.40
+TAX 10.55% ON 18.03                     1.90
+**** TOTAL                             34.80
+DISCOVER TEND                          34.80
+CHANGE                                  0.00
+
+01/01/26 18:59  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

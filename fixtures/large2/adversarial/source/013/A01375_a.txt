@@ -1,0 +1,36 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #0761  San Francisco CA
+            MEMBER ************
+REG 04 TRN 9870 OPR 334
+
+1149774 KS FRESH MINT                 5.48 E
+     2 @ 2.74
+1641899 KS SPONGES 3PK                9.54 A
+1018460 GRK YGRT 48 OZ                1.97 E
+1419282 PEPSI 12 PK CANS              4.93 A
+  1 @ 0.05
+CA CRV                                0.05 A
+1989144 KS LIMES                      2.80 E
+881545 KS ALMOND MLK                  5.08 E
+5492101 TPD/ALMOND MLK               0.76-  
+1451227 KS BABY CRRTS                 2.49 E
+1311486 GRANOLA BARS                  6.07 E
+332256 KIWI                           4.89 E
+     2.35 lb @ 2.08 /lb
+2664026 TPD/KIWI                     1.47-  
+984856 SPGHTT                         9.54 E
+
+SUBTOTAL                               50.61
+TAX 8.625% ON 14.52                     1.25
+**** TOTAL                             51.86
+AMEX TEND                              51.86
+CHANGE                                  0.00
+
+02/01/26 10:44  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+TOTAL SAVINGS THIS YEAR   308.05
+NEXT VISIT COUPON          3.00 OFF
+SAVE 2.00 ON YOUR NEXT VISIT
+RETURNS WITHIN 90 DAYS
+                 THANK YOU

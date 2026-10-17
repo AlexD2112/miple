@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0916  Seattle WA
+            MEMBER ************
+
+946079 HALIBUT                       10.82 E
+215208 GREETING CARD                 20.34 A
+65098 KS CHICKEN THIGHS               9.29 E
+1095854 KS NAVEL ORANGES              1.01 E
+1253390 CRM CHS 8 OZ                  3.15 E
+1054012 KS BEETS                      4.28 E
+     2.39 lb @ 1.79 /lb
+498251 KS ROLLED OATS                 3.98 E
+1813832 OLD FASHIONED ROLLED OATS 4  17.43 E
+1687161 REDUCED FAT 2% MLK GALLON     6.54 E
+196220 KS GRND COFFEE                 9.64 E
+2172152 TPD/GRND COFFEE              0.55-  
+1655082 KS BLACKBERRIES               3.92 E
+3219668 TPD/BLACKBERRIES             1.18-  
+
+SUBTOTAL                               88.67
+TAX 10.55% ON 20.34                     2.15
+**** TOTAL                             90.82
+DEBIT TEND                             90.82
+CHANGE                                  0.00
+
+07/05/26 15:16  ITEMS 11
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

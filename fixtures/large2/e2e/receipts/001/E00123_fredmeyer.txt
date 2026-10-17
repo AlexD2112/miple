@@ -1,0 +1,31 @@
+               FRED MEYER
+              Portland OR
+               Store 0878
+
+  1.43 lb @ 7.09 /lb
+FM TRKY BRST                     10.14 F
+CRMN MSHRM                        1.14 F
+  0.26 lb @ 14.17 /lb
+SMPL TRTH BLACK FOREST HAM        3.68 F
+  2.68 lb @ 11.10 /lb
+FM PORK CHOPS                    29.75 F
+MFR CPN                          2.22-  
+FM ROOT BEER 2L                   5.24 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  2.14 lb @ 2.83 /lb
+ORGANIC LEMONS                    6.06 F
+  3 @ 0.05
+BAG FEE                           0.15  
+  REFUND - ORIG RECEIPT
+RETURN CRMN MSHRM                1.14- F
+
+SUBTOTAL                           52.90
+TAX                                 0.00
+TOTAL                              52.90
+VISA TEND                          52.90
+CHANGE                              0.00
+
+02/01/26 19:55  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

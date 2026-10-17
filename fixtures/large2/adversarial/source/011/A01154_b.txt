@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1855
+
+SMPL TRTH DICED TOMATOES CAN      2.98 F
+PRIV SEL EXTRA FIRM TOFU          2.32 F
+PRIV SEL KOMBUCHA 16OZ            4.58 F
+DIGITAL CPN                      1.21-  
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                            8.83
+TAX 10.55% ON 0.16                  0.02
+TOTAL                               8.85
+VISA TEND                           8.85
+CHANGE                              0.00
+
+07/19/26 20:47  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

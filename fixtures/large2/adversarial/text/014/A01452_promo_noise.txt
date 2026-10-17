@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3635  Seattle WA
+            MEMBER ************
+OPEN 6AM - 12AM
+TELL US HOW WE DID  43853274
+REG 17 TRN 6098 OPR 282
+
+441996 KS GRND TRKY                   5.19 E
+1862621 TPD/GRND TRKY                0.68-  
+231860 CHERRY TOM                     1.15 E
+7731588 TPD/CHERRY TOM               0.35-  
+539455 FRZN PEAS 12 OZ                5.40 E
+172855 KS RED BELL PEPR               1.16 E
+     0.34 lb @ 3.42 /lb
+809210 CRRTS                          1.79 E
+31588 KS NAVEL ORANGES                4.04 E
+     4 @ 1.01
+435301 KS APPLE JUICE 64OZ            7.25 E
+
+SUBTOTAL                               24.95
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             24.95
+DISCOVER TEND                          24.95
+CHANGE                                  0.00
+
+09/18/26 19:07  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+TOTAL SAVINGS THIS YEAR   357.66
+BALANCE DUE                   0.00
+                 THANK YOU

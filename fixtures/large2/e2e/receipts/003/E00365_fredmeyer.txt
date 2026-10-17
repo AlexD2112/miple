@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 3246
+
+KRO GREETING CARD                20.34 T
+CABOT SHRP CHDR 8 OZ              8.48 F
+  3 @ 4.87
+CROISSANTS 12 CT                 14.61 F
+SMPL TRTH SHARP CHEDDAR BLOCK    10.33 F
+JNN- GRND TRKY 1 LB               6.60 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+ITLN PRSLY                        2.93 F
+SMPL TRTH SWEET POTATOES          3.28 F
+WHL MLK HALF GALLON               6.79 F
+FM CRKRS                          2.00 F
+DIGITAL CPN                      0.60-  
+  2 @ 2.38
+SMPL TRTH ROMA TOM                4.76 F
+
+SUBTOTAL                           84.30
+TAX 10.55% ON 20.34                 2.15
+TOTAL                              86.45
+AMEX TEND                          86.45
+CHANGE                              0.00
+
+01/25/26 14:55  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

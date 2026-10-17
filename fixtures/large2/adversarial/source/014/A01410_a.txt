@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 3838
+FUEL POINTS BALANCE     525
+TELL US HOW WE DID  43341095
+
+SPONGES 3PK                       9.54 F
+FRZN PEAS 12 OZ                   5.40 F
+MSSN FLOUR TORT 40 CT             5.22 F
+FM FLOUR TORT                     6.18 F
+KRO SRDGH LOAF                    7.47 F
+KRO SHAMPOO                      17.57 F
+
+SUBTOTAL                           51.38
+TAX                                 0.00
+TOTAL                              51.38
+AMEX TEND                          51.38
+CHANGE                              0.00
+
+03/29/26 11:04  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+BOTTLE RETURNS ACCEPTED    0.10/EA
+SURVEY CODE 6759 8907 5959
+NEXT VISIT COUPON          3.00 OFF
+               THANK YOU

@@ -1,0 +1,18 @@
+                SAFEWAY
+      Store 3921  San Francisco CA
+             (555) 010-9910
+
+SIG CAT LITTER                   14.03 T    
+   KERRYGOLD BUTTER                 10.81 S
+ SIG SLCT JASMINE RICE            12.13 S
+PRMGN RGGN WEDGE	8.42 S
+
+SUBTOTAL                             45.39
+ TAX 8.625% ON 14.03                 1.21
+**** TOTAL                             46.60
+   AMEX TEND                          46.60
+CHANGE	0.00
+
+09/17/26 17:02  ITEMS 4
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

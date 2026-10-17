@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3207
+
+PRIV SEL SHRP CHDR BLOCK         10.33 F
+MFR CPN                          1.61-  
+BLUBRY                            5.87 F
+DIGITAL CPN                      0.64-  
+SMPL TRTH PSTR RAISED EGGS        7.37 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           21.56
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              21.59
+MASTERCARD TEND                    21.59
+CHANGE                              0.00
+
+03-25-24 00:30:40  4166 32 506 8
+ITEMS 18   REG 10  TRANS 8598
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

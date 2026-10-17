@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 1314
+
+BTR LTTC                          2.45 F
+FRESH MINT                        2.74 F
+  2.96 lb @ 3.50 /lb
+SMPL TRTH ENGLISH CUCUMBER       10.36 F
+PARMIGIANO REGGIANO WEDGE         8.42 F
+MFR CPN                          2.53-  
+PLAIN GOAT CHS                    5.77 F
+  4 @ 5.73
+DIGIORNO RISING CRUST PEPPERONI  22.92 F
+DIGITAL CPN                      1.64-  
+2% MLK HALF GALLON                6.08 F
+  2.51 lb @ 5.06 /lb
+SMPL TRTH GRND CHKN              12.70 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           67.51
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              67.54
+MASTERCARD TEND                    67.54
+CHANGE                              0.00
+
+08/29/26 07:56  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

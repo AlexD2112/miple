@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 2611
+
+KRO DELI FRIED CHKN              11.75 T
+CILANTRO                          1.16 F
+  3 @ 2.09
+SALSA JAR                         6.27 F
+KRO ALMNM FOIL                   18.03 T
+BLACKBERRIES                      3.92 F
+  1.11 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            15.25 F
+MFR CPN                          2.08-  
+UNSLTD BTR                        9.95 F
+WILD COD FLLT                    18.56 F
+KRO SLICED ROAST BEEF             5.94 F
+
+SUBTOTAL                           88.75
+TAX 10.55% ON 29.78                 3.14
+TOTAL                              91.89
+AMEX TEND                          91.89
+CHANGE                              0.00
+
+05/20/26 15:51  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

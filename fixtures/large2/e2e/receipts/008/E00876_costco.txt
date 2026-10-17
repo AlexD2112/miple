@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1089  Seattle WA
+            MEMBER ************
+
+1171196 BLUBRY 18 OZ                  9.22 E
+     2 @ 4.61
+1188866 KS SWISS CHS                  8.14 E
+     0.88 lb @ 9.25 /lb
+1168169 MANGO                         1.96 E
+     2.58 lb @ 0.76 /lb
+7156618 TPD/MANGO                    0.59-  
+1954929 KS GRK YGRT PLAIN             8.22 E
+     2 @ 4.11
+1588700 HEINZ KETCHUP 32 OZ           8.96 E
+     2 @ 4.48
+627271 KS RIBEYE STEAK               19.87 E
+774641 ORG TOMATO BASIL MARINARA     23.76 E
+     4 @ 5.94
+1091098 KS SWISS CHARD                2.87 E
+847737 2% MLK 2 X 1 GAL               4.70 E
+83430 COLD BREW COFFEE 32OZ           8.86 E
+     2 @ 4.43
+
+SUBTOTAL                               95.97
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             95.97
+AMEX TEND                              95.97
+CHANGE                                  0.00
+
+02/28/27 11:49  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

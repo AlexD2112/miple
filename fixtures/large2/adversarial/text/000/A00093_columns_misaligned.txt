@@ -1,0 +1,25 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0173
+
+AVOCADOS                          4.05 F 
+PRIV SEL GRND TRKY                    5.19 F
+DAVES KILLER BRD 21 WHL GRAINS 4.78 F
+  2 @ 2.55
+HUY FONG SRIRACHA 5.10 F
+PRIV SEL SALSA JAR                    2.09 F
+  1.77 lb @ 3.34 /lb
+ HASS AVOCADO LARGE                5.91 F
+  2.03 lb @ 3.72 /lb
+ ZCCHN                             7.55 F
+  BAG FEE                           0.08 T
+
+SUBTOTAL	34.75
+TAX 10.55% ON 0.08                  0.01
+TOTAL	34.76
+AMEX TEND                          34.76 
+CHANGE	0.00
+
+01/03/26 17:24  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

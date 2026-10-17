@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 3795
+
+LACROIX LIME SPRKLG WTR 8 PK      2.20 F
+WILD COD FILLET                  18.56 F
+FM MAYONNAISE                     6.36 F
+MANDARIN ORANGE CHICKEN          15.87 F
+BLACK BEANS CAN                   8.77 F
+CAT LITTER                       14.03 T
+SMPL TRTH DAVES KILLER BREAD      6.69 F
+  0.70 lb @ 0.76 /lb
+SMPL TRTH MANGO                   0.53 F
+PLAIN GOAT CHEESE                 5.77 F
+COCA-COLA 12 PACK CANS            2.77 T
+ORG RASPB 6 OZ                    6.28 F
+MFR CPN                          1.88-  
+  3.00 lb @ 18.16 /lb
+KRO COD FLLT                     54.48 F
+CELERY HEARTS                     4.34 F
+CORN TORT                         2.79 F
+FM PLUS CARD SAV                 0.84-  
+KRO TOOTHPASTE                   16.40 T
+  3.69 lb @ 13.74 /lb
+CHUCK ROAST                      50.70 F
+
+SUBTOTAL                          213.82
+TAX 10.55% ON 33.20                 3.50
+TOTAL                             217.32
+DEBIT TEND                        217.32
+CHANGE                              0.00
+
+01/06/26 15:34  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

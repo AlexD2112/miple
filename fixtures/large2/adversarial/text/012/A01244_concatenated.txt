@@ -1,0 +1,67 @@
+               FRED MEYER
+              Portland OR
+               Store 2303
+
+  3 @ 2.35
+FLOUR TORT 10 CT                  7.05 F
+LEMON                             4.30 F
+MFR CPN                          1.29-  
+FM PEANUT BUTTER                  6.90 F
+COLA 12PK                         1.83 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+COLA 12PK                         1.83 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+LG EGGS 18 CT                     7.52 F
+FLOUR TORT                        6.18 F
+SMPL TRTH SLCD ROAST BF           5.94 F
+GINGER ALE 12PK                   6.02 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+ORG TOMATO BASIL MARINARA         5.94 F
+  3 @ 5.61
+DARK CHOCOLATE PEANUT BUTTER CU  16.83 F
+  3 @ 2.81
+CHKN BROTH 32 OZ                  8.43 F
+  1.14 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        2.66 F
+
+SUBTOTAL                           83.74
+TAX                                 0.00
+TOTAL                              83.74
+DISCOVER TEND                      83.74
+CHANGE                              0.00
+
+07/15/26 19:39  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+----------------------------------------
+               FRED MEYER
+               Seattle WA
+               Store 2501
+
+GROUND COFFEE                     9.64 F
+FM AHI TUNA STEAK                14.71 F
+STRAUS PLAIN GRK YGRT             1.74 F
+  1.02 lb @ 2.30 /lb
+GALA APPLES                       2.35 F
+  2 @ 2.25
+SMPL TRTH BROCCOLI CROWNS         4.50 F
+CROISSANTS 12 CT                  4.87 F
+CILANTRO BUNCH                    2.02 F
+CARROTS                           1.79 F
+  2 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS    9.56 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           51.42
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              51.45
+AMEX TEND                          51.45
+CHANGE                              0.00
+
+02/18/26 15:10  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,30 @@
+               FRED MEYER
+               Seattle WA
+               Store 1296
+
+SMPL TRTH BTR LTTC                2.45 F
+  0.63 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST             8.66 F
+  1.20 lb @ 2.90 /lb
+SMPL TRTH BANANAS                 3.48 F
+ALUMINUM FOIL                    18.03 T
+ALUMINUM FOIL                    18.03 T
+  2.60 lb @ 2.43 /lb
+PARSNIPS                          6.32 F
+  2 @ 2.54
+SMPL TRTH WHL WHT SNDWCH BRD      5.08 F
+ORG TOMATO BASIL MARINARA         5.94 F
+SHREDDED MOZZ 8 OZ                2.92 F
+BOTTLED WTR 40 PK                 2.45 F
+  0.95 lb @ 6.00 /lb
+GRND BF 88/12                     5.70 F
+
+SUBTOTAL                           79.06
+TAX 10.55% ON 36.06                 3.80
+TOTAL                              82.86
+DEBIT TEND                         82.86
+CHANGE                              0.00
+
+02/07/26 11:53  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

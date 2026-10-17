@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1632  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 254868 FRZN BROC FLORETS      8.13- E
+  REFUND - ORIG RECEIPT
+RETURN 463330 KS BNLS SKNLS CHKN B  26.36- E
+  REFUND - ORIG RECEIPT
+RETURN 1886375 KEFIR                 1.27- E
+
+SUBTOTAL                              35.76-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            35.76-
+DISCOVER TEND                         35.76-
+CHANGE                                  0.00
+
+02/22/26 15:59  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

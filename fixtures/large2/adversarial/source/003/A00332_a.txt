@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3330  Seattle WA
+            MEMBER ************
+
+1414529 FRZN PEAS                    13.98 E
+1570418 KS YELLOW ONIN                1.78 E
+140856 KS GALA APPLES                 0.74 E
+     0.32 lb @ 2.30 /lb
+831612 KS LEMONADE 52OZ               5.79 A
+1561174 CROISSANTS 12 CT              4.87 E
+875930 KS CAULIFLOWER                 4.55 E
+     1.21 lb @ 3.76 /lb
+1716967 KS SPRING MIX                21.76 E
+     4 @ 5.44
+1396950 KS KETCHUP                   10.98 E
+     2 @ 5.49
+413401 ENGLISH CUCUMBER               8.05 E
+     2.30 lb @ 3.50 /lb
+6959425 TPD/ENGLISH CUCU             1.12-  
+1226789 ORGANIC HONEYCRISP APPLES     2.63 E
+     1.98 lb @ 1.33 /lb
+36432 PORK TENDERLOIN                33.68 E
+     3.49 lb @ 9.65 /lb
+783460 DRIED LNTLS                    4.26 E
+1272931 WHL WHT SNDWCH BRD            2.54 E
+1646531 ORGANIC BABY SPINACH          5.54 E
+4167581 TPD/ORGANIC BABY             0.22-  
+397028 SLTD BTR 4 STICKS              9.37 E
+421978 AA BATTERIES 8PK              24.36 A
+508747 BLUBRY 18 OZ                   9.22 E
+     2 @ 4.61
+228581 ORG BASIL CLAMSHELL            1.49 E
+
+SUBTOTAL                              164.25
+TAX 10.55% ON 30.15                     3.18
+**** TOTAL                            167.43
+AMEX TEND                             167.43
+CHANGE                                  0.00
+
+04/25/26 18:31  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,32 @@
+               FRED MEYER
+               Seattle WA
+               Store 3042
+
+  0.54 lb @ 2.08 /lb
+KIWI                              1.12 F
+  4 @ 2.06
+KRO FRZN MIXED BERRIES            8.24 F
+SMPL TRTH ROTISSERIE CHICKEN      5.04 T
+KRO VAN YGRT CUPS                 5.39 F
+BABY CARROTS                      2.49 F
+HNYCRSP APPLES                    4.67 F
+  5.38 lb @ 7.09 /lb
+KRO TRKY BRST                    38.14 F
+SMPL TRTH ALL PURPOSE FLOUR      11.36 F
+  2.33 lb @ 3.72 /lb
+ZCCHN                             8.67 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+KRO SAVINGS                      1.58-  
+  2 @ 2.79
+KRO CORN TORT                     5.58 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           96.21
+TAX 10.55% ON 5.12                  0.54
+TOTAL                              96.75
+MASTERCARD TEND                    96.75
+CHANGE                              0.00
+
+02/28/27 13:52  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

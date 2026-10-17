@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0897
+
+ORG RASPB 6 OZ                    6.28 F
+DIGITAL CPN                      1.88-  
+ORG CARROTS BUNCH                 4.63 F
+  4 @ 1.83
+SMPL TRTH COLA 12PK               7.32 T
+CRM CHS 8 OZ                      3.15 F
+KRO SAVINGS                      0.95-  
+BAG FEE                           0.08 T
+
+SUBTOTAL                           18.63
+TAX 10.55% ON 7.40                  0.78
+TOTAL                              18.91
+VISA TEND                          18.91
+CHANGE                              0.00
+
+07/06/26 07:44  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

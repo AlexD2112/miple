@@ -1,0 +1,39 @@
+               FRED MEYER
+              Portland OR
+               Store 3560
+
+  1.40 lb @ 1.25 /lb
+SMPL TRTH PINEAPPLE               1.75 F
+  4 @ 2.45
+BOTTLED WTR 40 PK                 9.80 F
+  160 @ 0.10
+OR BTL DEP                       16.00  
+FM PLUS CARD SAV                 1.52-  
+  1.05 lb @ 18.16 /lb
+KRO COD FLLT                     19.07 F
+FRZN BROC FLORETS                 8.13 F
+MSSN FLOUR TORT 40 CT             5.22 F
+  2.92 lb @ 1.25 /lb
+SMPL TRTH PNPPL                   3.65 F
+SMPL TRTH ROTIS CHKN              5.04 F
+BIBIGO PORK MANDU DMPLNGS 6 LB   10.32 F
+FRZN DUMPLINGS                   15.61 F
+  3 @ 1.27
+KRO KEFIR                         3.81 F
+  2 @ 1.74
+STRAUS PLAIN GRK YGRT             3.48 F
+FRZN DUMPLINGS                   15.61 F
+  3 @ 1.27
+KRO KEFIR                         3.81 F
+  2 @ 1.74
+STRAUS PLAIN GRK YGRT             3.48 F
+
+SUBTOTAL                          100.36
+TAX                                 0.00
+TOTAL                             100.36
+DISCOVER TEND                     100.36
+CHANGE                              0.00
+
+09/24/26 10:46  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

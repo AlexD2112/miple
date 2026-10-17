@@ -1,0 +1,32 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0639
+
+  1.61 lb @ 1.25 /lb
+SMPL TRTH PNPPL                   2.01 F
+  3.19 lb @ 3.72 /lb
+ZUCCHINI                         11.87 F
+  2 @ 1.47
+CHOBANI PLAIN GREEK YOGURT 32 OZ  2.94 F
+BARILLA PENNE                    19.37 F
+  4 @ 2.32
+EXTRA FIRM TOFU                   9.28 F
+LG BROWN CAGE FREE EGGS           4.10 F
+ICE CRM                          14.51 F
+KRO SAVINGS                      1.54-  
+LG BROWN CAGE FREE EGGS           4.10 F
+SMPL TRTH RMN LTTC                2.79 F
+  4 @ 4.48
+HEINZ KETCHUP 32 OZ              17.92 F
+BLACK FOREST HAM 9 OZ             7.00 F
+SHREDDED CHDR 8 OZ                6.42 F
+
+SUBTOTAL                          100.77
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             100.77
+CASH TEND                         120.00
+CHANGE                             19.23
+
+03/09/26 17:31  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

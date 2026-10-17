@@ -1,0 +1,66 @@
+               FRED MEYER
+              Portland OR
+               Store 3271
+
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+  4 @ 3.77
+FM BAGELS                        15.08 F
+FM KERRYGOLD BTR                 10.81 F
+SMPL TRTH UNSLTD BTR              9.95 F
+  3.29 lb @ 3.34 /lb
+HASS AVOCADO LG                  10.99 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+  4 @ 1.08
+TUNA CAN                          4.32 F
+  1.78 lb @ 11.10 /lb
+KRO PORK CHOPS                   19.76 F
+OLD FSHND ROLLED OATS 42 OZ      17.43 F
+LIMES                             2.80 F
+  2 @ 1.15
+CHERRY TOMATOES                   2.30 F
+FLWRS BOUQUET                    23.70 F
+HEINZ KETCHUP 32 OZ               4.48 F
+TLLMK VAN YGRT                    4.05 F
+MFR CPN                          1.21-  
+
+SUBTOTAL                          137.56
+TAX                                 0.00
+TOTAL                             137.56
+DEBIT TEND                        137.56
+CHANGE                              0.00
+
+02/22/26 16:04  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2887
+
+  0.31 lb @ 2.90 /lb
+BANANAS                           0.90 F
+  1.12 lb @ 7.09 /lb
+TRKY BRST                         7.94 F
+BLACK FOREST HAM 9 OZ             7.00 F
+PRIV SEL MAYONNAISE               6.36 F
+KRO BTTLD WTR 24PK                9.32 F
+PRIV SEL CHKN THIGHS              9.29 F
+DIGITAL CPN                      1.99-  
+  1.49 lb @ 13.18 /lb
+SLCD TRKY BRST                   19.64 F
+SMPL TRTH GREEN BEANS             2.31 F
+KRO BLACK BEANS CAN               8.77 F
+KRO 2% MLK GALLON                 6.49 F
+AVOCADOS BAG 4 CT                 3.54 F
+CABOT SHRP CHDR 8 OZ              8.48 F
+  3 @ 2.77
+COCA-COLA 12 PK CANS              8.31 T
+
+SUBTOTAL                           96.36
+TAX 10.55% ON 8.31                  0.88
+TOTAL                              97.24
+DEBIT TEND                         97.24
+CHANGE                              0.00
+
+04/10/26 07:42  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

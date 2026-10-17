@@ -1,0 +1,29 @@
+              TRADER JOE'S
+        Store #0095  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+BATH TISSUE 12 ROLL              23.08 T
+DOG TREATS                        6.82 T
+DISH SOAP                        19.39 T
+ZIP TOP BAGS                     24.79 T
+DISH SOAP                        19.39 T
+LAUNDRY DETERGENT PODS           20.18 T
+DISH SOAP                        19.39 T
+HAND SOAP                        24.27 T
+BATH TISSUE 12 ROLL              23.08 T
+NAPKINS                          24.05 T
+ZIP TOP BAGS                     24.79 T
+ALUMINUM FOIL                    18.03 T
+LAUNDRY DETERGENT PODS           20.18 T
+HAND SOAP                        24.27 T
+GREETING CARD                    20.34 T
+
+SUBTOTAL                          312.05
+TAX 10.55% ON 312.05               32.92
+TOTAL                             344.97
+MASTERCARD TEND                   344.97
+CHANGE                              0.00
+
+02/16/26 09:06  ITEMS 15
+T=TAXABLE
+               THANK YOU

@@ -1,0 +1,18 @@
+                SAFEWAY
+      Store 1151  San Francisco CA
+             (555) 010-7891
+
+SIG KTCHNS BAGELS                 3.77 S
+LUCERNE LG BROWN EGGS             4.29 S
+
+SUBTOTAL                            8.06
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                          8.06
+AMEX TEND                           8.06
+CHANGE                              0.00
+
+09/02/29  779 27 1336 4912
+TIME: 05:55
+ITEMS 9   REG 06  TRANS 9588
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

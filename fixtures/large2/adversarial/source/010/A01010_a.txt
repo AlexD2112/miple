@@ -1,0 +1,34 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2073
+
+HONEYCRISP APPLES                 4.67 F
+BABY SPINACH 5 OZ                 3.77 F
+TOOTHPASTE                       16.40 T
+SMPL TRTH ROOT BEER 2L            5.24 T
+SMPL TRTH SPAGHETTI               9.54 F
+KRO DELI FRIED CHKN              11.75 T
+SMPL TRTH ARUGULA                 4.00 F
+  2 @ 1.08
+TUNA CAN                          2.16 F
+  1.64 lb @ 13.74 /lb
+SMPL TRTH CHUCK ROAST            22.53 F
+SMPL TRTH CRL                     6.63 F
+  2.03 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                31.59 F
+ARUGULA                           4.00 F
+BOTTLED WTR 40 PK                 2.45 F
+  0.55 lb @ 1.05 /lb
+RADISHES                          0.58 F
+WHITE BRD                         6.34 F
+PRIV SEL QUINOA                   7.75 F
+
+SUBTOTAL                          139.40
+TAX 10.55% ON 33.39                 3.52
+TOTAL                             142.92
+VISA TEND                         142.92
+CHANGE                              0.00
+
+02/28/26 12:10  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

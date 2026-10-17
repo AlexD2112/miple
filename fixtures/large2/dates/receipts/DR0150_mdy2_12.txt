@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0475  Seattle WA
+            MEMBER ************
+
+880906 LG BROWN CAGE FREE EGGS        4.10 E
+318383 KS 2% MILK GALLON              6.49 E
+1974879 KS GENOA SALAMI               4.76 E
+1423196 GRSS-FD GRND BF 85/15         7.35 E
+385594 KS PREPARED MAC & CHS         10.62 E
+209221 KS ARUGULA                     4.00 E
+1937846 KS ICE CREAM                 14.51 E
+1202965 BANANAS                       3.39 E
+     1.17 lb @ 2.90 /lb
+157470 WHITE BRD                      6.34 E
+1121343 SHMP                         17.57 A
+
+SUBTOTAL                               79.13
+TAX 10.55% ON 17.57                     1.85
+**** TOTAL                             80.98
+AMEX TEND                              80.98
+CHANGE                                  0.00
+
+07/17/26 08:44 PM  868 868 4373 10
+ITEMS 2   REG 20  TRANS 6457
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

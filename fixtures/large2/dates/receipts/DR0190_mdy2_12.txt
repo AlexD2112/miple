@@ -1,0 +1,24 @@
+               FRED MEYER
+              Portland OR
+               Store 1208
+
+KRO HAND SOAP                    24.27 F
+FM PENNE                         13.38 F
+CELERY HEARTS                     4.34 F
+SWEET POTS                        3.28 F
+GRSS-FD GRND BF 85/15             7.35 F
+  2 @ 3.51
+PENNE 16 OZ                       7.02 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           59.74
+TAX                                 0.00
+TOTAL                              59.74
+DISCOVER TEND                      59.74
+CHANGE                              0.00
+
+03/21/29 10:46 PM  8805 31 285 6
+ITEMS 17   REG 16  TRANS 1879
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

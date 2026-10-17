@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0093  Seattle WA
+            MEMBER ************
+
+42341 BIBIGO PORK MANDU DMPLNGS 6 L  10.32 E
+589312 SILKEN TOFU                    9.16 E
+     4 @ 2.29
+920719 GRASS-FED GRND BF 85/15        7.35 E
+920719 GRASS-FED GRND BF 85/15        7.35 E
+1700878 2% MLK HALF GALLON            6.08 E
+689417 KS ARUGULA                     4.00 E
+
+SUBTOTAL                               44.26
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             44.26
+DEBIT TEND                             44.26
+CHANGE                                  0.00
+
+05/25/26 08:57  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

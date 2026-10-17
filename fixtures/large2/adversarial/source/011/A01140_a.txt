@@ -1,0 +1,30 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1907
+
+  1.15 lb @ 6.33 /lb
+SMPL TRTH WHL CHKN                7.28 F
+MFR CPN                          1.94-  
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+DIGITAL CPN                      0.83-  
+CARROTS                           1.79 F
+ALL PURPOSE FLOUR                11.36 F
+KRO SAVINGS                      0.28-  
+KRO LARGE BROWN EGGS              4.29 F
+PRIV SEL 2% MLK GALLON            6.49 F
+  5.36 lb @ 4.34 /lb
+BONELESS CHICKEN THIGHS          23.26 F
+  3 @ 2.21
+BAGGED CAESAR SALAD KIT           6.63 F
+KRO SPRKLG WTR                    3.74 F
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+
+SUBTOTAL                           72.39
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              72.39
+CASH TEND                          80.00
+CHANGE                              7.61
+
+09/12/26 11:14  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 3874
+
+ORG EGGS 24 CT                    7.83 F
+KRO DELI FRIED CHKN              11.75 F
+ORG EGGS 24 CT                    7.83 F
+MNDRNS                            2.72 F
+SMPL TRTH PASTURE RAISED EGGS     7.37 F
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 F
+MNDRNS                            2.72 F
+SPONGES 3PK                       9.54 F
+  3 @ 5.42
+SMPL TRTH BABY SPNCH             16.26 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           83.55
+TAX                                 0.00
+TOTAL                              83.55
+CASH TEND                         100.00
+CHANGE                             16.45
+
+10/15/26 13:26  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

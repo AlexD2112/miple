@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1557  Seattle WA
+            MEMBER ************
+
+714998 KS BLUEBERRIES                 5.87 E
+1916837 GREEK YOGURT 48 OZ            1.97 E
+419650 DAVES KILLER BRD 21 WHL GRAIN  4.78 E
+1067943 EVERYTHING BUT THE BAGEL SEA  7.01 E
+1261729 CABOT SHRP CHDR 8 OZ          8.48 E
+1809556 ORG GRAPE TOM PINT            2.88 E
+     1.47 lb @ 1.96 /lb
+1004595 KS RUSSET POTS                1.48 E
+     1.31 lb @ 1.13 /lb
+381946 STRAWBERRIES 1 LB              5.22 E
+1263194 KS CRKRS                      2.00 E
+1305558 KS FRZN MIXED BERRIES         2.06 E
+793287 KS ASPARAGUS                   2.93 E
+933733 KS OAT MLK                     3.10 E
+618099 KS RASPB                       7.24 E
+1513725 KS BLACK BEANS CAN            8.77 E
+1332547 KS UNSLTD BTR                 9.95 E
+1569902 KS SRDGH LOAF                 7.47 E
+4698319 TPD/SRDGH LOAF               1.35-  
+700402 KS TRKY BRST                  37.86 E
+     5.34 lb @ 7.09 /lb
+101678 PLAIN GOAT CHS                 5.77 E
+817502 ORG GRAPE TOM PINT             3.94 E
+     2.01 lb @ 1.96 /lb
+6361851 TPD/ORG GRAPE TO             1.18-  
+1979664 ZIP TOP BAGS                 24.79 A
+
+SUBTOTAL                              151.04
+TAX 10.55% ON 24.79                     2.62
+**** TOTAL                            153.66
+DISCOVER TEND                         153.66
+CHANGE                                  0.00
+
+01/01/26 15:33  ITEMS 20
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

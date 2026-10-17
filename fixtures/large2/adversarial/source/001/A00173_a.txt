@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3528  Seattle WA
+            MEMBER ************
+
+179169 KS 2% MLK GALLON               6.49 E
+1976386 KS ROLLED OATS                3.98 E
+1878428 KS DISH SOAP                 19.39 A
+678345 RANCH DRESSING                 3.99 E
+
+SUBTOTAL                               33.85
+TAX 10.55% ON 19.39                     2.05
+**** TOTAL                             35.90
+MASTERCARD TEND                        35.90
+CHANGE                                  0.00
+
+06/11/26 12:38  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

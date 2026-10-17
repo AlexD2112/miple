@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1266  Seattle WA
+            MEMBER ************
+
+388446 CABOT SHRP CHDR 8 OZ           8.48 E
+1581786 KS SHAMPOO                   17.57 A
+1777612 MANDARIN ORANGE CHICKEN      15.87 E
+
+SUBTOTAL                               41.92
+TAX 10.55% ON 17.57                     1.85
+**** TOTAL                             43.77
+MASTERCARD TEND                        43.77
+CHANGE                                  0.00
+
+07/23/26 17:59  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,21 @@
+                 TARGET
+           Seattle WA  T-2200
+             (555) 030-1359
+
+  1.91 lb @ 1.79 /lb
+GG BEETS                          3.42 N
+MKT PANTRY GRK YGRT PLAIN         4.11 N
+  1.22 lb @ 18.16 /lb
+MKT PANTRY COD FLLT              22.16 N
+GG SPAGHETTI                      9.54 N
+
+SUBTOTAL                           39.23
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              39.23
+CASH TEND                          40.00
+CHANGE                              0.77
+
+NOV 19 2026 02:06AM
+ITEMS 8   REG 07  TRANS 4207
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

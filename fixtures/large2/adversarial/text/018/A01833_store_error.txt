@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1331
+
+  2 @ 5.73
+DGRN RISING CRUST PPPRN PIZZA    11.46 F
+GREEN BEANS                       2.31 F
+HONEYCRISP APPLES                 4.67 F
+PRIV SEL AHI TUNA STEAK          14.71 F
+PRIV SEL FRZN MIXED BRRS          2.06 F
+MANDARIN ORANGE CHKN             15.87 F
+  4 @ 5.94
+ORGANIC TOMATO BASIL MARINARA    23.76 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           74.92
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              74.94
+AMEX TEND                          74.94
+CHANGE                              0.00
+
+01/13/26 18:55  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

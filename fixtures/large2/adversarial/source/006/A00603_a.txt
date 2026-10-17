@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3067
+
+PRIV SEL ORANGE JUICE             7.69 F
+WHITE BRD                         6.34 F
+CHERRY TOM                        1.15 F
+  3 @ 3.54
+AVCDS BAG 4 CT                   10.62 F
+
+SUBTOTAL                           25.80
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              25.80
+DISCOVER TEND                      25.80
+CHANGE                              0.00
+
+05/01/26 20:54  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

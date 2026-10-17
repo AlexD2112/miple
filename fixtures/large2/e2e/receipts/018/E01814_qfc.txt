@@ -1,0 +1,41 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1156
+
+  0.71 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                1.73 F
+FRZN BROC FLORETS                 8.13 F
+SMPL TRTH FRESH BASIL             2.74 F
+  1.85 lb @ 1.13 /lb
+RUSSET POTS                       2.09 F
+LAUNDRY DETERGENT PODS           20.18 T
+PRIV SEL CTTG CHS                 3.21 F
+  2.15 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                33.45 F
+SHREDDED MOZZARELLA 8 OZ          2.92 F
+KRO ITALIAN SAUSAGE BULK          9.93 F
+CRRTS                             1.79 F
+YELLOW ONIN                       1.78 F
+  1.60 lb @ 13.74 /lb
+PRIV SEL CHUCK ROAST             21.98 F
+MANDARIN ORANGE CHICKEN          15.87 F
+RIBEYE STEAK                     19.87 F
+STRWB 1 LB                        5.22 F
+ORGANIC BABY SPINACH              5.54 F
+SHREDDED CHDR 8 OZ                6.42 F
+  3.95 lb @ 5.06 /lb
+SMPL TRTH GRND CHKN              19.99 F
+KRO SAVINGS                      0.79-  
+SPONGES 3PK                       9.54 T
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                          191.75
+TAX 10.55% ON 29.88                 3.15
+TOTAL                             194.90
+VISA TEND                         194.90
+CHANGE                              0.00
+
+09/24/26 09:33  ITEMS 19
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 2923
+TAX EXEMPT ID ******6199
+
+PLAIN GOAT CHS                    5.77 F
+FM HAMBURGER BUNS                 2.77 F
+SPAGHETTI                         9.54 F
+SMPL TRTH PENNE                  13.38 F
+ITLN PRSLY                        2.93 F
+  3.92 lb @ 13.74 /lb
+CHUCK ROAST                      53.86 F
+HONEYCRISP APPLES                 4.67 F
+FM ROLLED OATS                    3.98 F
+SMPL TRTH KMBCH 16OZ              4.58 F
+MFR CPN                          1.37-  
+  2.45 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                38.12 F
+SMPL TRTH SWISS CHARD             2.87 F
+  3.18 lb @ 2.90 /lb
+BANANAS                           9.22 F
+CARROTS                           1.79 F
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+
+SUBTOTAL                          160.94
+TAX EXEMPT                          0.00
+TOTAL                             160.94
+DISCOVER TEND                     160.94
+CHANGE                              0.00
+
+01/30/26 20:47  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

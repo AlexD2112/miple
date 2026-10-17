@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 1551
+
+  4 @ 2.72
+SMPL TRTH MNDRNS                 10.88 F
+KRO SAVINGS                      1.28-  
+  1.33 lb @ 1.60 /lb
+JALAPENO                          2.13 F
+MISSION FLOUR TORTILLAS 40 CT     5.22 F
+  1.15 lb @ 1.05 /lb
+RADISHES                          1.21 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+KRO FRZN PEAS                    13.98 F
+FM ALMOND MLK                     5.08 F
+SMPL TRTH WHL WHT SNDWCH BRD      2.54 F
+SMPL TRTH CILANTRO                1.16 F
+  0.41 lb @ 13.18 /lb
+FM SLCD TRKY BRST                 5.40 F
+
+SUBTOTAL                           55.20
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              55.20
+CASH TEND                          60.00
+CHANGE                              4.80
+
+01/16/26 08:58  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0139  Seattle WA
+            MEMBER ************
+
+1774339 MANDARIN ORANGE CHKN         15.87 E
+1368340 SLCD TRKY BRST               16.61 E
+     1.26 lb @ 13.18 /lb
+1666649 DARIGOLD UNSLTD BTR           6.67 E
+579056 ARGL                           4.00 E
+527185 KS RADISHES                    3.68 E
+     3.50 lb @ 1.05 /lb
+6418612 TPD/RADISHES                 0.28-  
+829699 FRZN THREE BERRY BLEND 4 LB    2.56 E
+549286 KS DIET COLA 12PK CANS        13.26 A
+     3 @ 4.42
+
+SUBTOTAL                               62.37
+TAX 10.55% ON 13.26                     1.40
+**** TOTAL                             63.77
+DISCOVER TEND                          63.77
+CHANGE                                  0.00
+
+03/09/26 18:05  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

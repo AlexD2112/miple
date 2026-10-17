@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 1699
+
+  2 @ 3.00
+BARTLETT PEARS                    6.00 F
+MFR CPN                          1.80-  
+COLA 12PK                         1.83 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+SPONGES 3PK                       9.54 F
+SMPL TRTH GINGER ALE 12PK         6.02 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+LG EGGS 12 CT                     8.69 F
+KRO CRKRS                         2.00 F
+  0.35 lb @ 2.43 /lb
+PARSNIPS                          0.85 F
+KRO TILLAMOOK MEDIUM CHDR        11.77 F
+
+SUBTOTAL                           47.30
+TAX                                 0.00
+TOTAL                              47.30
+DEBIT TEND                         47.30
+CHANGE                              0.00
+
+06/11/26 18:14  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

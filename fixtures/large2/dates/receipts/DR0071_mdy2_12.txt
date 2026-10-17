@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 0577
+
+DOUBLE CREME BRIE                 5.40 F
+FM RICOTTA                        8.76 F
+
+SUBTOTAL                           14.16
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              14.16
+AMEX TEND                          14.16
+CHANGE                              0.00
+
+05/23/24 11:48 PM  7793 34 686 2
+ITEMS 28   REG 03  TRANS 7851
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

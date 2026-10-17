@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0668  Seattle WA
+            MEMBER ************
+
+  170417 KS GROUND BEEF 80/20           6.57 E
+426971 LARGE EGGS 12 CT               8.69 E
+1594616 KS FLOWERS BOUQUET            23.70 A
+734988 KS 2% MLK GALLON               6.49 E   
+8988411 TPD/2% MLK GALLO             1.95-  
+1732973 PASTURE RAISED EGGS           7.37 E
+832490 KS CHERRY TOM                  3.45 E
+     3 @ 1.15
+804011 TUNA CAN                       1.08 E
+   1584272 FRESH MOZZ                    8.65 E
+321912 TILLAMOOK MEDIUM CHDR 2.5 LB   4.21 E
+699196 KS LEMONS                      4.19 E
+1215681 HASS AVOCADO LG               5.08 E
+     1.52 lb @ 3.34 /lb
+
+SUBTOTAL                               77.53
+TAX 10.55% ON 23.70                     2.50
+**** TOTAL                             80.03
+DEBIT TEND                             80.03
+CHANGE                                   0.00
+
+03/15/26 10:34  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

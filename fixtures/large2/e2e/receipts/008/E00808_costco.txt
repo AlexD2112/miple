@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0840  Seattle WA
+            MEMBER ************
+
+439253 ORG GRAPE TOM PINT             7.60 E
+     3.88 lb @ 1.96 /lb
+1106833 LEMONADE 52OZ                17.37 A
+     3 @ 5.79
+
+SUBTOTAL                               24.97
+TAX 10.55% ON 17.37                     1.83
+**** TOTAL                             26.80
+DISCOVER TEND                          26.80
+CHANGE                                  0.00
+
+02/28/27 13:31  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

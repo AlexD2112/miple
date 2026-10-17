@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 1595
+
+SMPL TRTH CHERRIES                5.69  
+  1.74 lb @ 6.69 /lb
+FM BNLS SKNLS CHKN BRST          11.64  
+FLOUR TORT                        6.18  
+  1.76 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                27.39  
+SMPL TRTH GROUND TURKEY           5.19  
+ORG ITALIAN PRSLY                 1.95  
+YUKON GOLD POTS                   3.99  
+  3.26 lb @ 3.50 /lb
+ENGLISH CCMBR                    11.41  
+
+SUBTOTAL                           73.44
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              73.44
+DISCOVER TEND                      73.44
+CHANGE                              0.00
+
+09/04/26 16:28  ITEMS 8
+T=TAXED ITEM
+               THANK YOU

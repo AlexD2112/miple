@@ -1,0 +1,29 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3411
+
+  3 @ 4.42
+SMPL TRTH DIET COLA 12PK CANS    13.26 T
+DIGITAL CPN                      1.16- T
+RICOTTA                           8.76 F
+DIGITAL CPN                      0.31-  
+MAYONNAISE 30 OZ                  6.42 F
+BLACK FOREST HAM 9 OZ             7.00 F
+SMPL TRTH RICOTTA                 8.76 F
+  2 @ 1.74
+STRAUS PLAIN GRK YGRT             3.48 F
+MFR CPN                          0.91-  
+FRZN WAFFLES                      7.05 F
+GREEN BEANS                       2.31 F
+HLBT                             10.82 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           65.56
+TAX 10.55% ON 12.18                 1.28
+TOTAL                              66.84
+MASTERCARD TEND                    66.84
+CHANGE                              0.00
+
+04/24/26 17:27  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

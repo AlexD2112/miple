@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 0546
+
+SMPL TRTH BOTTLED WTR 24PK        9.32 F
+WILD COD FLLT                    18.56 F
+KRO SPONGES 3PK                   9.54 T
+  2 @ 2.93
+SMPL TRTH ITALIAN PARSLEY         5.86 F
+HOUSE FOODS EXTRA FIRM TOFU       2.78 F
+
+SUBTOTAL                           46.06
+TAX 10.55% ON 9.54                  1.01
+TOTAL                              47.07
+AMEX TEND                          47.07
+CHANGE                              0.00
+
+01/17/26 15:25  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

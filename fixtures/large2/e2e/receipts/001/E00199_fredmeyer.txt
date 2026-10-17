@@ -1,0 +1,38 @@
+               FRED MEYER
+               Seattle WA
+               Store 1003
+
+FM ALMOND MLK                     5.08 F
+  2 @ 2.25
+SMPL TRTH BROC CROWNS             4.50 F
+DIGITAL CPN                      1.35-  
+TOOTHPASTE                       16.40 T
+FM TORTILLA CHIPS                 3.33 F
+SMPL TRTH POTATO CHIPS            5.07 F
+GREETING CARD                    20.34 T
+MFR CPN                          1.88- T
+KRO LAUNDRY DETERGENT PODS       20.18 T
+  3.42 lb @ 1.60 /lb
+JLPN                              5.47 F
+MFR CPN                          1.64-  
+KRO LIGHT BULBS 4PK              17.04 T
+BABY SPNCH 5 OZ                   3.77 F
+  4 @ 5.39
+VANILLA YOGURT CUPS              21.56 F
+  2.58 lb @ 1.48 /lb
+SMPL TRTH RED ONIONS              3.82 F
+KRO SAVINGS                      1.15-  
+KRO ITALIAN SAUSAGE BULK          9.93 F
+MFR CPN                          1.24-  
+  2.86 lb @ 15.56 /lb
+BONELESS RIBEYE STEAK            44.50 F
+
+SUBTOTAL                          173.73
+TAX 10.55% ON 72.08                 7.60
+TOTAL                             181.33
+CASH TEND                         200.00
+CHANGE                             18.67
+
+02/29/28 21:22  ITEMS 18
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

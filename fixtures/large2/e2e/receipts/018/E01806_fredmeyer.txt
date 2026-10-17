@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 1270
+
+  3 @ 5.61
+DARK CHOC PNT BTR CUPS           16.83 F
+ORGANIC BLACK BEANS 8 CANS        1.15 F
+KRO DICED TOM CAN                 2.98 F
+KRO PAPER TOWELS 6 ROLL           3.75 T
+PASTURE RAISED EGGS               7.37 F
+CELERY HEARTS                     4.34 F
+KRO SAVINGS                      1.30-  
+DARK CHOC PNT BTR CUPS            5.61 F
+BLACK BEANS 15 OZ CAN            10.76 F
+SOY SCE                           6.79 F
+  4 @ 2.72
+MANDARINS                        10.88 F
+FM PLUS CARD SAV                 1.68-  
+SMPL TRTH BLUBRY                  5.87 F
+WHITE SANDWICH BRD                7.03 F
+  3 @ 2.77
+COCA-COLA 12 PK CANS              8.31 T
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+
+SUBTOTAL                           97.52
+TAX 10.55% ON 20.89                 2.20
+TOTAL                              99.72
+MASTERCARD TEND                    99.72
+CHANGE                              0.00
+
+08/16/26 12:51  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

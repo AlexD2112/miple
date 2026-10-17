@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3264  Seattle WA
+            MEMBER ************
+
+1064045 KS TRASH BAGS 40CT            6.49 A
+483082 BANANA                         2.37 E
+267583 BABY SPNCH 5 OZ                3.77 E
+1837695 KS OAT MILK                   3.10 E
+1421725 ORG HONEYCRISP APPLES         2.65 E
+     1.99 lb @ 1.33 /lb
+1421725 ORG HONEYCRISP APPLES         2.65 E
+     1.99 lb @ 1.33 /lb
+1704777 KS CORN TORT                  2.79 E
+1171869 KS FRESH BASIL                2.74 E
+8124511 TPD/FRESH BASIL              0.82-  
+715249 KS CHERRY TOMATOES             1.15 E
+
+SUBTOTAL                               26.89
+TAX 10.55% ON 6.49                      0.68
+**** TOTAL                             27.57
+MASTERCARD TEND                        27.57
+CHANGE                                  0.00
+
+03/07/26 09:21  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

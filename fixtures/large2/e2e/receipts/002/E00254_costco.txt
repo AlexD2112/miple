@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3376  Seattle WA
+            MEMBER ************
+
+1199537 ORG RASPB 6 OZ                6.28 E
+7944812 TPD/ORG RASPB 6              1.63-  
+105478 KS QUINOA                      7.75 E
+1256601 DAVES KILLER BRD              6.69 E
+1784641 KS DIJON MUSTARD              2.46 E
+
+SUBTOTAL                               21.55
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             21.55
+MASTERCARD TEND                        21.55
+CHANGE                                  0.00
+
+02/28/27 13:25  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

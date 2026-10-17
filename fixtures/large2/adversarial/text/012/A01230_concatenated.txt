@@ -1,0 +1,61 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1549  Seattle WA
+            MEMBER ************
+
+1760769 KS LAMB CHOPS                20.31 E
+     1.19 lb @ 17.07 /lb
+1291219 KS MNDRNS                     5.44 E
+     2 @ 2.72
+1366925 KS BAGGED CAESAR SALAD KIT    2.21 E
+787385 KS KTCHP                       5.49 E
+469019 KS ICE CRM                    14.51 E
+659460 KS KERRYGOLD BTR              10.81 E
+921502 KS MANGO                       2.04 E
+     2.68 lb @ 0.76 /lb
+1755761 KS PEACHES                    0.58 E
+     0.85 lb @ 0.68 /lb
+1441678 HEINZ KETCHUP 32 OZ           4.48 E
+721899 PLAIN GOAT CHS                 5.77 E
+817648 ORANGE JUICE                   7.69 E
+1162531 KS CILANTRO                   1.16 E
+1407655 COLA 12PK                     1.83 A
+1963915 KS ALL PURPOSE FLOUR         11.36 E
+988758 ORG HONEYCRISP APPLES          3.74 E
+     2.81 lb @ 1.33 /lb
+625587 CILANTRO                       2.32 E
+     2 @ 1.16
+4814967 TPD/CILANTRO                 0.70-  
+894195 KS ALL PURPOSE FLOUR          11.36 E
+
+SUBTOTAL                              110.40
+TAX 10.55% ON 1.83                      0.19
+**** TOTAL                            110.59
+DEBIT TEND                            110.59
+CHANGE                                  0.00
+
+01/14/26 21:46  ITEMS 19
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+              TRADER JOE'S
+        Store #0009  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+
+  2.46 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  8.61  
+  1.61 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  5.64  
+DARIGOLD UNSLTD BTR               6.67  
+ORANGE JUICE 52OZ                 9.39  
+TJ'S CELERY                       4.32  
+TJ'S MAYONNAISE                   6.36  
+
+SUBTOTAL                           40.99
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              40.99
+VISA TEND                          40.99
+CHANGE                              0.00
+
+08/28/26 16:01  ITEMS 6
+T=TAXABLE
+               THANK YOU

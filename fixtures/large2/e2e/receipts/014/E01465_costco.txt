@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2498  Portland OR
+            MEMBER ************
+
+165131 ORG EGGS 24 CT                 7.83 E
+759655 KS KOMBUCHA 16OZ               4.58 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+1573720 GOAT CHS                      8.35 E
+1455509 LEMON                         4.30 E
+118607 KS PASTURE RAISED EGGS         7.37 E
+  REFUND - ORIG RECEIPT
+RETURN 1573720 GOAT CHS              8.35- E
+
+SUBTOTAL                               24.18
+TAX                                     0.00
+**** TOTAL                             24.18
+DEBIT TEND                             24.18
+CHANGE                                  0.00
+
+05/14/26 16:18  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

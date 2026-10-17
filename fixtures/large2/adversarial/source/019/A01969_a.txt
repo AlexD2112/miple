@@ -1,0 +1,384 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1519  San Francisco CA
+            MEMBER ************
+
+573636 KS TILLAMOOK MEDIUM CHDR      11.77 E
+968889 AVOCADOS BAG 4 CT              3.54 E
+1763765 GRSS-FD GRND BF 85/15         7.35 E
+1897436 MNDRN ORANGE CHKN            15.87 E
+819785 ORG HNYCRSP APPLES             3.38 E
+     2.54 lb @ 1.33 /lb
+611385 HONEYCRISP APPLES              4.67 E
+1558632 SHREDDED CHDR 8 OZ            6.42 E
+1427072 STRAWBERRIES 2 LB             5.88 E
+1058397 BNLS RIBEYE STEAK            20.23 E
+     1.30 lb @ 15.56 /lb
+902088 CILANTRO BUNCH                 2.02 E
+1219247 GREEN ONIN BUNCH              2.59 E
+1485891 ARUGULA                       8.00 E
+     2 @ 4.00
+1582825 DIGIORNO RISING CRUST PEPPE  11.46 E
+     2 @ 5.73
+407970 BRUSSELS SPROUTS               7.50 E
+     3.22 lb @ 2.33 /lb
+1233160 KS LG BROWN EGGS              4.29 E
+321039 KS TRASH BAGS 40CT             6.49 A
+1800435 PREPARED MAC & CHS           10.62 E
+6288944 TPD/PREPARED MAC             2.50-  
+546559 KS TORTILLA CHIPS              3.33 E
+763049 LEMON                          8.60 E
+     2 @ 4.30
+430154 JASMINE RICE 5 LB              1.49 E
+1673623 UNSLTD BTR                    9.95 E
+8575146 TPD/UNSLTD BTR               0.42-  
+1534919 GRND BF 88/12                12.42 E
+     2.07 lb @ 6.00 /lb
+92602 KS TTHPST                      16.40 A
+1572337 BEETS                         6.77 E
+     3.78 lb @ 1.79 /lb
+1932937 PLAIN GOAT CHS                5.77 E
+851257 RUSSET POTS 5 LB BAG           4.53 E
+1362128 ORG BABY SPNCH 5 OZ           5.85 E
+181253 JASMINE RICE 25 LB             8.09 E
+237835 ORANGE JUICE 52OZ              9.39 E
+  1 @ 0.10
+CA CRV                                0.10  
+29347 HEINZ KETCHUP 32 OZ             4.48 E
+1051144 PENNE 16 OZ                   3.51 E
+5547 KS CHKN DRMSTCKS                 8.97 E
+1258143 HUY FONG SRIRACHA             5.10 E
+     2 @ 2.55
+57957 BLACK BEANS 15 OZ CAN          10.76 E
+267547 GRND PORK                      6.60 E
+529306 PARMIGIANO REGGIANO WEDGE      8.42 E
+1109543 ORG SPRING MIX 1 LB           5.49 E
+906093 OAT MLK                        3.10 E
+5031843 TPD/OAT MLK                  0.93-  
+1066371 KS ORANGE JUICE 52OZ          9.39 E
+  1 @ 0.10
+CA CRV                                0.10  
+1148765 ORG ITALIAN PARSLEY           1.95 E
+876235 EVERYTHING BUT THE BAGEL SSNN  7.01 E
+1182256 TPD/EVERYTHING B             0.99-  
+1827546 KS ICE CREAM                 14.51 E
+9516 KS FLOWERS BOUQUET              23.70 A
+905390 ORIGINAL HUMMUS 10 OZ          8.88 E
+377211 KS PREPARED MAC AND CHEESE    10.62 E
+1736977 ORG SPRING MIX 1 LB          16.47 E
+     3 @ 5.49
+1970627 GRND BF 80/20                 6.57 E
+403161 KS FRESH BASIL                 5.48 E
+     2 @ 2.74
+139095 KS BLACK FOREST HAM           20.55 E
+     1.45 lb @ 14.17 /lb
+1816006 TPD/BLACK FOREST             2.84-  
+1669149 DGRN RISING CRUST PPPRN PIZ  11.46 E
+     2 @ 5.73
+1962331 BLCKBRRS                      3.92 E
+1943286 COCA-COLA 12 PK CANS          8.31 A
+     3 @ 2.77
+  3 @ 0.05
+CA CRV                                0.15 A
+1978175 BABY SPNCH                   10.84 E
+     2 @ 5.42
+1944012 SPRKLG WTR                    3.74 A
+  1 @ 0.05
+CA CRV                                0.05 A
+1084650 KS UNSLTD BTR                 9.95 E
+1605999 JASMINE RICE 25 LB            8.09 E
+1751305 KS RASPB                      7.24 E
+1697940 WHOLE MILK HALF GALLON        6.79 E
+189011 CHKN BROTH 32 OZ               2.81 E
+754093 KS RADISHES                    0.96 E
+     0.91 lb @ 1.05 /lb
+71690 KS SWISS CHARD                  2.87 E
+1473900 KS ICE CRM                   14.51 E
+287539 ORG GRAPE TOM PINT             3.88 E
+     1.98 lb @ 1.96 /lb
+1483271 KS POTATO CHIPS              10.14 E
+     2 @ 5.07
+1867671 KS SPRKLG WTR                 3.74 A
+  1 @ 0.05
+CA CRV                                0.05 A
+7303696 TPD/SPRKLG WTR               1.12- A
+809535 KS DOG TREATS                  6.82 A
+596127 KS CELERY                      4.32 E
+491217 KS KALE                        4.17 E
+1656502 ORGANIC BABY SPINACH          5.54 E
+599119 KS CARROTS                     1.79 E
+185884 CHKN BROTH 32 OZ               2.81 E
+173106 GRND BF 80/20                  6.57 E
+1673765 KS ITALIAN PARSLEY            2.93 E
+831664 BLUBRY                         5.87 E
+1111920 PLAIN GOAT CHS                5.77 E
+1710953 LEMON                         4.30 E
+1404222 KS ALL PURPOSE FLOUR         11.36 E
+1549798 ORG RASPB 6 OZ                6.28 E
+1282694 KS VAN YGRT CUPS             21.56 E
+     4 @ 5.39
+1437606 BOTTLED WTR 24PK              9.32 E
+  24 @ 0.05
+CA CRV                                1.20  
+245249 DOG TREATS                     6.82 A
+1311863 KS LEMONADE 52OZ              5.79 E
+  1 @ 0.10
+CA CRV                                0.10  
+1970682 ITLN SSG BULK                 9.93 E
+785283 CHKN GYOZA POTSTICKERS         9.88 E
+8742566 TPD/CHKN GYOZA P             2.96-  
+131765 KS CHERRY TOM                  1.15 E
+494715 KS BABY SPINACH                5.42 E
+719055 BLUBRY 18 OZ                   4.61 E
+9093471 TPD/BLUBRY 18 OZ             0.28-  
+676817 KS BRIE                        4.85 E
+877191 KETCHUP                        5.49 E
+1316981 KS WHOLE CHICKEN             40.45 E
+     6.39 lb @ 6.33 /lb
+71459 RUSSET POTATOES 5 LB BAG        4.53 E
+1480337 UNSLTD BTR                    9.95 E
+1679813 DAVES KILLER BRD              6.69 E
+1158946 PEPSI 12 PK CANS              9.86 A
+     2 @ 4.93
+  2 @ 0.05
+CA CRV                                0.10 A
+428936 YELLOW ONIN                    1.78 E
+328991 KS LAMB CHOPS                 33.12 E
+     1.94 lb @ 17.07 /lb
+1823223 ORG ITLN PARSLEY              1.95 E
+358942 WHITE BRD                      6.34 E
+1535367 ORG CARROTS BUNCH             4.63 E
+36907 SLCD SRDGH PAN LOAF             4.74 E
+712527 KS TUNA CAN                    2.16 E
+     2 @ 1.08
+180711 UNSLTD BTR 4 X 1 LB            9.48 E
+1810110 KS HONEYCRISP APPLES          4.67 E
+1629192 TPD/HONEYCRISP A             1.40-  
+1845812 PENNE 16 OZ                   3.51 E
+1450200 WHITE SNDWCH BRD              7.03 E
+535852 KS DOG TREATS                  6.82 A
+308684 KS RUSSET POTS                 1.23 E
+     1.09 lb @ 1.13 /lb
+1693176 KS DICED TOM CAN              2.98 E
+1622788 TILLAMOOK MEDIUM CHEDDAR 2.5  4.21 E
+688461 KS CORN TORT                   2.79 E
+198554 LEMON                          4.30 E
+406384 GREEK YOGURT 48 OZ             1.97 E
+1613463 KS MANGO                      2.49 E
+     3.28 lb @ 0.76 /lb
+20762 BONELESS RIBEYE STEAK          17.74 E
+     1.14 lb @ 15.56 /lb
+2807550 TPD/BONELESS RIB             1.05-  
+570146 SHMP                          17.57 A
+1996022 KS TLLMK MEDIUM CHDR         11.77 E
+8508601 TPD/TLLMK MEDIUM             2.98-  
+493695 KS CHKN THIGHS                 9.29 E
+515387 FLOUR TORT 10 CT               4.70 E
+     2 @ 2.35
+420243 KS CHRRS                       5.69 E
+1553558 CILANTRO BUNCH                2.02 E
+1084782 KS PNT BTR                    6.90 E
+426152 KS RED BELL PEPR               5.54 E
+     1.62 lb @ 3.42 /lb
+1310731 HANDMADE STYLE CORN TORT      3.55 E
+9591217 TPD/HANDMADE STY             1.07-  
+567219 KS SOY SCE                     6.79 E
+0301776 TPD/SOY SCE                  1.19-  
+1359795 KS CHKN BROTH CARTON          8.38 E
+1810912 ORG SPROUTED TOFU             2.61 E
+7930865 TPD/ORG SPROUTED             0.51-  
+782170 HOUSE FOODS EXTRA FIRM TOFU   11.12 E
+     4 @ 2.78
+991691 DOUBLE CREME BRIE              5.40 E
+1829291 LACROIX LIME SPARKLING WATER  2.20 A
+  8 @ 0.05
+CA CRV                                0.40 A
+5775884 TPD/LACROIX LIME             0.50- A
+1300229 HMBRGR BUNS                   8.31 E
+     3 @ 2.77
+6465 KS GRND TRKY                     5.19 E
+1404083 DISH SOAP                    19.39 A
+994097 WILD COD FILLET               18.56 E
+644406 BLACK BEANS 15 OZ CAN         10.76 E
+680729 2% MLK HALF GALLON             6.08 E
+925305 KS GRND TRKY                   5.19 E
+1797110 KS FRZN MIXED BRRS            6.18 E
+     3 @ 2.06
+1996685 TPD/FRZN MIXED B             1.60-  
+1802993 SALTED BUTTER 4 STICKS        9.37 E
+1048115 KS ASPARAGUS                  2.93 E
+207161 ITLN SSG BULK                  9.93 E
+9349282 TPD/ITLN SSG BUL             0.71-  
+1634842 BARILLA PENNE                19.37 E
+1510288 SRIRACHA                      3.16 E
+764691 KS ITLN PRSLY                  2.93 E
+711314 GREEK YOGURT 48 OZ             1.97 E
+1905904 RDCD FAT 2% MLK GALLON        6.54 E
+7463493 TPD/RDCD FAT 2%              0.78-  
+720510 LACROIX LIME SPRKLG WTR 8 PK   2.20 A
+  8 @ 0.05
+CA CRV                                0.40 A
+903264 ZUCCHINI                      13.47 E
+     3.62 lb @ 3.72 /lb
+1723089 ICEBERG LETTUCE              15.33 E
+     3 @ 5.11
+1434468 CRSSNTS 12 CT                 4.87 E
+1141771 ORG ROMAINE HEARTS 3 CT       3.76 E
+118406 CHKN BROTH 32 OZ               8.43 E
+     3 @ 2.81
+1125542 KS PAPER TOWELS 6 ROLL        3.75 A
+915823 KS LEMONADE 52OZ              11.58 E
+     2 @ 5.79
+  2 @ 0.10
+CA CRV                                0.20  
+621970 ORIGINAL HUMMUS 10 OZ          8.88 E
+6997 NAPKINS                         24.05 A
+1562995 LG BROWN CAGE FREE EGGS       4.10 E
+1758770 KS CAULIFLOWER                3.84 E
+     1.02 lb @ 3.76 /lb
+240080 ORGANIC CARROTS BUNCH          4.63 E
+790075 KS KETCHUP                     5.49 E
+351519 KS ROTIS CHKN                  5.04 A
+858748 KS RIBEYE STEAK               19.87 E
+1245095 KIWI                          3.76 E
+     1.81 lb @ 2.08 /lb
+1833420 LARGE EGGS 12 CT              8.69 E
+4721044 TPD/LARGE EGGS 1             1.47-  
+1222850 KS PLASTIC WRAP               4.77 A
+1363229 KS CHUCK ROAST               43.69 E
+     3.18 lb @ 13.74 /lb
+1362633 KS TORTILLA CHIPS             3.33 E
+1754729 PAPER PLATES                  3.31 A
+384855 LACROIX LIME SPRKLG WTR 8 PK   4.40 A
+     2 @ 2.20
+  16 @ 0.05
+CA CRV                                0.80 A
+272177 PLAIN GOAT CHS                 5.77 E
+68902 CHOBANI PLAIN GRK YGRT 32 OZ    1.47 E
+1506398 KS CHICKEN DRUMSTICKS         8.97 E
+629436 COCA-COLA 12 PK CANS           2.77 A
+  1 @ 0.05
+CA CRV                                0.05 A
+205491 WHITE SANDWICH BRD             7.03 E
+1951151 KS DIJON MUSTARD              4.92 E
+     2 @ 2.46
+604885 BTR LTTC                       4.90 E
+     2 @ 2.45
+379256 PINEAPPLE                      4.65 E
+     3.72 lb @ 1.25 /lb
+3416 KS SWISS CHEESE                 13.32 E
+     1.44 lb @ 9.25 /lb
+1802934 ORG SPROUTED TOFU             2.61 E
+946834 KS COCONUT MLK CAN             7.66 E
+     2 @ 3.83
+305883 KS MAYONNAISE                  6.36 E
+581799 KS ROMAINE LETTUCE             2.79 E
+1503094 ORG CARROTS BUNCH             4.63 E
+799898 KS SOY SCE                     6.79 E
+165254 SRDGH LOAF                     7.47 E
+869434 BNLS CHKN THIGHS              22.31 E
+     5.14 lb @ 4.34 /lb
+1953819 KS CAT LITTER                14.03 A
+1698251 KS ARUGULA                    4.00 E
+1285236 KS AVOCADOS                   8.10 E
+     2 @ 4.05
+4857661 TPD/AVOCADOS                 2.43-  
+9188 KS LEMONADE 52OZ                 5.79 E
+  1 @ 0.10
+CA CRV                                0.10  
+38583 HEINZ KETCHUP 32 OZ             4.48 E
+651616 BABY SPINACH 5 OZ             15.08 E
+     4 @ 3.77
+4313584 TPD/BABY SPINACH             0.32-  
+133346 BABY SPNCH 5 OZ               15.08 E
+     4 @ 3.77
+905291 PAPER TOWELS 6 ROLL            3.75 A
+1991915 KS PLSTC WRAP                 4.77 A
+8073980 TPD/PLSTC WRAP               1.43- A
+1802067 KS RIBEYE STEAK              19.87 E
+1787846 SPRKLG WTR                    3.74 A
+  1 @ 0.05
+CA CRV                                0.05 A
+515198 LG BROWN CAGE FREE EGGS        4.10 E
+1283599 KS GINGER ALE 12PK            6.02 A
+  12 @ 0.05
+CA CRV                                0.60 A
+781555 ROMAINE LTTC                   2.79 E
+904670 KS COD FLLT                   46.49 E
+     2.56 lb @ 18.16 /lb
+183511 CARROTS 2 LB                   1.74 E
+398392 KS FRZN PIZZA                 13.30 E
+635374 KS BANANAS                     1.65 E
+     0.57 lb @ 2.90 /lb
+1855955 TOOTHPASTE                   16.40 A
+820416 BATH TISSUE 12 ROLL           23.08 A
+8536962 TPD/BATH TISSUE              0.85- A
+11708 ALMOND MLK                      5.08 E
+542467 KS LAUNDRY DTRGNT PODS        20.18 A
+1339212 KALE                         12.51 E
+     3 @ 4.17
+1951398 KS TLP FLLTS                 21.66 E
+79003 KS ICE CRM                     14.51 E
+801838 AA BATTERIES 8PK              24.36 A
+5891707 TPD/AA BATTERIES             1.77- A
+1891688 KS KETCHUP                   16.47 E
+     3 @ 5.49
+574564 CRL                            6.63 E
+1945826 SHAMPOO                      17.57 A
+962584 WHITE SANDWICH BRD             7.03 E
+5554277 TPD/WHITE SANDWI             2.11-  
+220460 SHREDDED MOZZ 8 OZ             2.92 E
+382257 CLFLWR GNCCH                   7.85 E
+1155769 ORG SPROUTED TOFU             2.61 E
+7955736 TPD/ORG SPROUTED             0.78-  
+628675 2% MLK GALLON                  6.49 E
+41012 HUY FONG SRRCH                 10.20 E
+     4 @ 2.55
+409567 AVOCADOS BAG 4 CT              3.54 E
+558767 KS OAT MLK                     3.10 E
+59260 KS HONEYCRISP APPLES            4.67 E
+1319358 BLACK FOREST HAM 9 OZ         7.00 E
+103765 DOUBLE CREME BRIE              5.40 E
+114496 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+190093 KS GALA APPLES                 8.03 E
+     3.49 lb @ 2.30 /lb
+7263344 TPD/GALA APPLES              0.66-  
+522741 AVOCADOS BAG 4 CT              3.54 E
+8893422 TPD/AVOCADOS BAG             1.06-  
+1209840 KS GROUND PORK                6.60 E
+1521447 ORG GALA APPLES               1.57 E
+754891 KS CORN TORT                   2.79 E
+1620212 PORK CHOPS                   12.54 E
+     1.13 lb @ 11.10 /lb
+1053669 CHKN GYOZA POTSTICKERS        9.88 E
+1068459 LG EGGS 18 CT                 7.52 E
+708919 KS CRL                         6.63 E
+1616449 LAUNDRY DETERGENT PODS       20.18 A
+0935248 TPD/LAUNDRY DETE             1.02- A
+1902112 SHREDDED MOZZ 8 OZ            2.92 E
+984347 BTTLD WTR 24PK                 9.32 E
+  24 @ 0.05
+CA CRV                                1.20  
+1188930 ORG ROMAINE HEARTS 3 CT       3.76 E
+1434596 BNLS PORK LOIN CHOPS         37.44 E
+     3.77 lb @ 9.93 /lb
+1635852 ROTIS CHKN                    5.04 A
+3532329 TPD/ROTIS CHKN               1.03- A
+1005153 PARMIGIANO REGGIANO           7.82 E
+6596137 TPD/PARMIGIANO R             1.29-  
+861845 KS ICE CRM                    14.51 E
+219093 KS MNDRNS                      2.72 E
+500142 CHKN BROTH 32 OZ               5.62 E
+     2 @ 2.81
+1862553 PAPER TOWELS 6 ROLL           3.75 A
+987494 KS TILLAMOOK MEDIUM CHDR      11.77 E
+
+SUBTOTAL                             1995.67
+TAX 8.625% ON 339.95                   29.32
+**** TOTAL                           2024.99
+VISA TEND                            2024.99
+CHANGE                                  0.00
+
+06/09/26 19:56  ITEMS 296
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

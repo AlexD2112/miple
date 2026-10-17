@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 3877
+
+  4 @ 4.42
+SMPL TRTH DIET COLA 12PK CANS    17.68 T
+KRO SAVINGS                      0.29- T
+BLACK FOREST HAM 9 OZ             7.00 F
+  2.29 lb @ 1.05 /lb
+RADISHES                          2.40 F
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+KRO COLA 12PK CANS                1.51 T
+  4 @ 3.76
+ORG RMN HEARTS 3 CT              15.04 F
+BABY SPINACH 5 OZ                 3.77 F
+SMPL TRTH ITALIAN PARSLEY         2.93 F
+SMPL TRTH LG BROWN EGGS           4.29 F
+BARTLETT PEARS                    3.00 F
+
+SUBTOTAL                           61.54
+TAX 10.55% ON 18.90                 1.99
+TOTAL                              63.53
+DISCOVER TEND                      63.53
+CHANGE                              0.00
+
+12/31/29 11:59 PM  8541 35 453 8
+ITEMS 18   REG 07  TRANS 9149
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

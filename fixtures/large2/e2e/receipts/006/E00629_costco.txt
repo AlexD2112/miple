@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1641  Seattle WA
+            MEMBER ************
+
+524968 KS FRZN BROC                   1.72 E
+1527378 KS RED GRAPES                 3.04 E
+1386063 CROISSANTS 12 CT              4.87 E
+1118285 KS SPAGHETTI                  9.54 E
+662429 KS KEFIR                       2.54 E
+     2 @ 1.27
+7781329 TPD/KEFIR                    0.76-  
+1714777 GRND PORK                     6.60 E
+
+SUBTOTAL                               27.55
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             27.55
+DISCOVER TEND                          27.55
+CHANGE                                  0.00
+
+07/28/26 07:10  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

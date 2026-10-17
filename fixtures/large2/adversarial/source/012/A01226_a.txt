@@ -1,0 +1,35 @@
+               FRED MEYER
+               Seattle WA
+               Store 0427
+
+  0.84 lb @ 2.43 /lb
+PARSNIPS                          2.04 F
+ARUGULA                           4.00 F
+ORG BASIL CLMSHLL                 1.49 F
+SMPL TRTH FRZN PIZZA             13.30 F
+TLLMK MEDIUM CHDR 2.5 LB          4.21 F
+SMPL TRTH EXTRA FIRM TOFU         2.32 F
+ORG SPRING MIX 1 LB               5.49 F
+  2 @ 1.47
+CHOBANI PLAIN GREEK YOGURT 32 OZ  2.94 F
+CRM CHS 8 OZ                      3.15 F
+FM CRL                            6.63 F
+2% MILK 2 X 1 GAL                 4.70 F
+KRO GREETING CARD                20.34 T
+PEPSI 12 PK CANS                  4.93 T
+  3 @ 2.32
+KRO EXTRA FIRM TOFU               6.96 F
+SMPL TRTH ROMAINE LTTC            2.79 F
+KRO UNSLTD BTR                    9.95 F
+GENOA SALAMI                      4.76 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          100.08
+TAX 10.55% ON 25.35                 2.67
+TOTAL                             102.75
+MASTERCARD TEND                   102.75
+CHANGE                              0.00
+
+01/07/26 11:47  ITEMS 20
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

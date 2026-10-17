@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 3849
+TAX EXEMPT ID ******5443
+
+TUNA CAN                          1.08 F
+KRO SAVINGS                      0.26-  
+SMPL TRTH LIMES                   2.80 F
+DICED TOM 14.5 OZ                 1.00 F
+ORG TOMATO BASIL MRNR             5.94 F
+KRO SAVINGS                      1.07-  
+KRO CAT LITTER                   14.03 T
+FM DAVES KILLER BRD               6.69 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+FRESH MOZZARELLA                  8.65 F
+GREEK YOGURT 48 OZ                1.97 F
+KRO NAPKINS                      24.05 T
+
+SUBTOTAL                           67.44
+TAX EXEMPT                          0.00
+TOTAL                              67.44
+MASTERCARD TEND                    67.44
+CHANGE                              0.00
+
+03/19/26 09:23  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

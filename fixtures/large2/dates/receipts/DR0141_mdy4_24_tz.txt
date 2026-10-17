@@ -1,0 +1,29 @@
+               FRED MEYER
+               Seattle WA
+               Store 2851
+
+AVOCADOS                          4.05 F
+DARK CHOCOLATE PEANUT BUTTER CUP  5.61 F
+DIGITAL CPN                      0.80-  
+STRWB 1 LB                        5.22 F
+CHKN BROTH 32 OZ                  2.81 F
+FM FRESH MOZZ                     8.65 F
+  0.39 lb @ 1.48 /lb
+SMPL TRTH RED ONIN                0.58 F
+  2 @ 2.80
+SMPL TRTH LIMES                   5.60 F
+  5.72 lb @ 6.69 /lb
+BONELESS SKINLESS CHICKEN BREAS  38.27 F
+  4 @ 4.48
+HEINZ KTCHP 32 OZ                17.92 F
+
+SUBTOTAL                           87.91
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              87.91
+MASTERCARD TEND                    87.91
+CHANGE                              0.00
+
+12/31/2029 23:59 PST  8023 25 109 7
+ITEMS 29   REG 01  TRANS 9216
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

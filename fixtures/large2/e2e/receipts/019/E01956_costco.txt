@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2411  Seattle WA
+            MEMBER ************
+
+1388981 SPRING MIX                    5.44 E
+1095448 ORIGINAL HUMMUS 10 OZ         8.88 E
+1852216 KS SLCD ROAST BF              5.94 E
+957973 KS HALF & HALF                 5.34 E
+80334 KS BLACKBERRIES                 3.92 E
+571043 RED GRAPES                     3.04 E
+668667 KS FRZN PEAS                  13.98 E
+941742 PLASTIC WRAP                   4.77 A
+1653007 DGRN RISING CRUST PPPRN PIZZ  5.73 E
+
+SUBTOTAL                               57.04
+TAX 10.55% ON 4.77                      0.50
+**** TOTAL                             57.54
+DEBIT TEND                             57.54
+CHANGE                                  0.00
+
+10/07/26 14:20  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

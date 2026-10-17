@@ -1,0 +1,20 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3480  Portland OR
+            MEMBER ************
+
+363650 MANDARIN ORANGE CHICKEN       15.87 E
+1773832 BABY SPINACH 5 OZ             3.77 E
+1938561 KS DISH SOAP                 19.39 E
+1357183 KS GRND BF 80/20              6.57 E
+1429104 KS HAND SOAP                 24.27 E
+
+SUBTOTAL                               69.87
+TAX                                     0.00
+**** TOTAL                             69.87
+VISA TEND                              69.87
+CHANGE                                  0.00
+
+01/21/26 21:58  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

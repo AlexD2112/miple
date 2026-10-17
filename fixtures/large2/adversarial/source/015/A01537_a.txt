@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1819  Seattle WA
+            MEMBER ************
+
+536764 SRDGH LOAF                     7.47  
+888578 KS ARUGULA                     8.00  
+     2 @ 4.00
+3132247 TPD/ARUGULA                  0.61-  
+60377 KS SPRKLG WTR                   3.74  
+1843759 ICE CRM                      14.51  
+1453226 PASTURE RAISED EGGS           7.37  
+
+SUBTOTAL                               40.48
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             40.48
+DEBIT TEND                             40.48
+CHANGE                                  0.00
+
+05/15/26 21:44  ITEMS 6
+T=TAXED ITEM
+                 THANK YOU

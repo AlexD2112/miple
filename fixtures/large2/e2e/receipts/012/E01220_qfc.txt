@@ -1,0 +1,21 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0880
+
+  3.81 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        8.88 F
+FRZN THREE BERRY BLEND 4 LB       2.56 F
+BOTTLED WTR 40 PK                 2.45 F
+  2.79 lb @ 17.07 /lb
+KRO LAMB CHOPS                   47.63 F
+BOTTLED WTR 24PK                  9.32 F
+
+SUBTOTAL                           70.84
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              70.84
+DEBIT TEND                         70.84
+CHANGE                              0.00
+
+06/06/26 19:51  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

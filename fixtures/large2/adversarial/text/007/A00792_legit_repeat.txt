@@ -1,0 +1,22 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2711
+
+SMPL TRTH YELLOW ONIN             1.78 F
+  3 @ 2.20
+LACROIX LIME SPARKLING WATER 8 P  6.60 F
+  3 @ 2.20
+LACROIX LIME SPARKLING WATER 8 P  6.60 F
+ARUGULA                           4.00 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           19.14
+TAX 10.55% ON 0.16                  0.02
+TOTAL                              19.16
+DEBIT TEND                         19.16
+CHANGE                              0.00
+
+03/02/26 16:14  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

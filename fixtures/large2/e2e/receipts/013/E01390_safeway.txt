@@ -1,0 +1,28 @@
+                SAFEWAY
+      Store 3791  San Francisco CA
+             (555) 010-8233
+
+APPLE JUICE 64OZ                  7.25 S
+  1 @ 0.10
+CA CRV                            0.10  
+LUCERNE WHL MLK HALF GALLON       6.79 S
+SIG KTCHNS CRKRS                  2.00 S
+  4 @ 3.00
+BARTLETT PEARS                   12.00 S
+MAYONNAISE 30 OZ                  6.42 S
+SW TILAPIA FILLETS               21.66 S
+SIG SLCT ORANGE JUICE 52OZ        9.39 S
+  1 @ 0.10
+CA CRV                            0.10  
+SIG LIGHT BULBS 4PK              17.04 T
+BAG FEE                           0.25  
+
+SUBTOTAL                           83.00
+TAX 8.625% ON 17.04                 1.47
+**** TOTAL                         84.47
+VISA TEND                          84.47
+CHANGE                              0.00
+
+03/09/26 10:54  ITEMS 11
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

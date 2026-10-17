@@ -1,0 +1,55 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #1265  San Francisco CA
+            MEMBER ************
+
+1732526 AVOCADOS BAG 4 CT             7.08 E
+     2 @ 3.54
+8611535 TPD/AVOCADOS BAG             0.48-  
+1760702 KS DELI FRIED CHKN           11.75 A
+9014513 TPD/DELI FRIED C             1.18- A
+1610247 SWISS CHARD                   2.87 E
+
+SUBTOTAL                               20.04
+TAX 8.625% ON 10.57                     0.91
+**** TOTAL                             20.95
+AMEX TEND                              20.95
+CHANGE                                  0.00
+
+06/02/26 10:31  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+
+
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2727  Seattle WA
+            MEMBER ************
+
+799150 CHOBANI PLAIN GRK YGRT 32 OZ   1.47 E
+792038 ORGANIC RASPBERRIES 6 OZ       6.28 E
+1765381 BONELESS CHICKEN THIGHS       8.72 E
+     2.01 lb @ 4.34 /lb
+74943 FLOUR TORT 10 CT                2.35 E
+1082256 KS SWEET POTS                 3.28 E
+1381161 SLTD BTR 4 STICKS             9.37 E
+1590833 TPD/SLTD BTR 4 S             1.99-  
+1602286 PLSTC WRAP                    4.77 A
+1952559 KS CRM CHS                    8.63 E
+4382346 TPD/CRM CHS                  0.88-  
+1174988 KS BANANAS                    8.87 E
+     3.06 lb @ 2.90 /lb
+1572320 ORG TOMATO BASIL MRNR        23.76 E
+     4 @ 5.94
+3503560 TPD/ORG TOMATO B             2.12-  
+134580 KS SPRKLG WTR                  3.74 E
+
+SUBTOTAL                               76.25
+TAX 10.55% ON 4.77                      0.50
+**** TOTAL                             76.75
+VISA TEND                              76.75
+CHANGE                                  0.00
+
+01/03/26 09:39  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

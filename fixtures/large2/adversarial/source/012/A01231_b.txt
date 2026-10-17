@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1963  Seattle WA
+            MEMBER ************
+
+1341370 SILKEN TOFU                   2.29 E
+66663 WHL WHT SANDWICH BRD            7.62 E
+     3 @ 2.54
+1977136 TILLAMOOK VANILLA YOGURT      4.05 E
+299576 PAPER PLATES                   3.31 A
+584520 SOY SCE                        6.79 E
+1240824 BNLS SKNLS CHKN BRST          9.90 E
+     1.48 lb @ 6.69 /lb
+253999 KS ASPARAGUS                   2.93 E
+1899014 TORTILLA CHIPS                3.33 E
+1303789 ORG BASIL CLMSHLL             1.49 E
+1600645 GINGER ALE 12PK               6.02 A
+382863 KS FRESH BASIL                 2.74 E
+429443 KS ITALIAN SAUSAGE BULK        9.93 E
+
+SUBTOTAL                               60.40
+TAX 10.55% ON 9.33                      0.98
+**** TOTAL                             61.38
+DEBIT TEND                             61.38
+CHANGE                                  0.00
+
+04/16/26 12:10  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

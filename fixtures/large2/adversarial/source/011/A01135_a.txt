@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2087  Seattle WA
+            MEMBER ************
+
+1921605 DRIED LNTLS                  12.78 E
+     3 @ 4.26
+198291 KS BLACK FOREST HAM           19.98 E
+     1.41 lb @ 14.17 /lb
+4725648 TPD/BLACK FOREST             0.71-  
+568503 UNSLTD BTR 4 X 1 LB            9.48 E
+
+SUBTOTAL                               41.53
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             41.53
+MASTERCARD TEND                        41.53
+CHANGE                                  0.00
+
+01/24/26 09:46  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

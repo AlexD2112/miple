@@ -1,0 +1,29 @@
+               FRED MEYER
+              Portland OR
+               Store 3665
+
+JENNIE-O GRND TRKY 1 LB           6.60 F
+KRO SAVINGS                      1.19-  
+SMPL TRTH GRND BF 80/20           6.57 F
+LEMONS                            4.19 F
+FM BRIE                           4.85 F
+KRO GINGER ALE 12PK               6.02 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+  2 @ 4.05
+SMPL TRTH AVOCADOS                8.10 F
+QUINOA                            7.75 F
+SHREDDED MOZZ 8 OZ                2.92 F
+FRZN PEAS 12 OZ                   5.40 F
+DIGITAL CPN                      1.03-  
+
+SUBTOTAL                           51.38
+TAX                                 0.00
+TOTAL                              51.38
+AMEX TEND                          51.38
+CHANGE                              0.00
+
+01/13/27 06:54 PM  6096 40 259 2
+ITEMS 21   REG 17  TRANS 7571
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

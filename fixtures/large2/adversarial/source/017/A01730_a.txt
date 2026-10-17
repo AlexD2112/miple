@@ -1,0 +1,42 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3266  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******2046
+
+908375 KS WHL CHKN                   29.37 E
+     4.64 lb @ 6.33 /lb
+1445350 KS DRIED LENTILS             12.78 E
+     3 @ 4.26
+383581 RED BELL PEPR                 13.65 E
+     3.99 lb @ 3.42 /lb
+190288 SHRP CHDR BLOCK               10.33 E
+463469 KS GINGER ALE 12PK             6.02 A
+908882 KS ORANGE JUICE 52OZ           9.39 E
+1113078 KS ASPARAGUS                  2.93 E
+7590715 TPD/ASPARAGUS                0.88-  
+823404 KS CHUCK ROAST                28.85 E
+     2.10 lb @ 13.74 /lb
+235854 KS FRZN DUMPLINGS             15.61 E
+1937156 KS BLACK FOREST HAM          16.01 E
+     1.13 lb @ 14.17 /lb
+18738 AVOCADOS                        4.05 E
+1523212 SPAGHETTI                     9.54 E
+1198107 ORGANIC BASIL CLAMSHELL       4.47 E
+     3 @ 1.49
+7974737 TPD/ORGANIC BASI             0.90-  
+1638845 RUSSET POTS 5 LB BAG          4.53 E
+1113934 RANCH DRESSING                3.99 E
+1906914 KS PEACHES                    2.46 E
+     3.62 lb @ 0.68 /lb
+1206071 DICED TOM 14.5 OZ             1.00 E
+
+SUBTOTAL                              173.20
+TAX EXEMPT                              0.00
+**** TOTAL                            173.20
+DEBIT TEND                            173.20
+CHANGE                                  0.00
+
+05/22/26 13:06  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

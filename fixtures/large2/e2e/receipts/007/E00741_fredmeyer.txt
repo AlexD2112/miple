@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 0806
+
+KRO EXTRA FIRM TOFU               2.32 F
+SMPL TRTH GREEN ONIN BUNCH        2.59 F
+  2 @ 4.00
+SMPL TRTH ARGL                    8.00 F
+FLWRS BQT                        23.70 T
+FM PLUS CARD SAV                 0.36- T
+SMPL TRTH WHOLE WHEAT SANDWICH B  2.54 F
+KRO SAVINGS                      0.76-  
+SMPL TRTH BABY CARROTS            2.49 F
+BABY SPINACH 5 OZ                 3.77 F
+SMPL TRTH RANCH DRESSING          3.99 F
+SHRDDD CHDR 8 OZ                  6.42 F
+
+SUBTOTAL                           54.70
+TAX 10.55% ON 23.34                 2.46
+TOTAL                              57.16
+VISA TEND                          57.16
+CHANGE                              0.00
+
+03/12/26 21:52  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

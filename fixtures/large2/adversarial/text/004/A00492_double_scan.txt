@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 1253
+
+HALF AND HALF                     5.34 F
+  3.71 lb @ 1.48 /lb
+RED ONIN                          5.49 F
+SMPL TRTH GROUND TURKEY           5.19 F
+KRO GREEK YOGURT PLAIN            4.11 F
+SLCD ROAST BF                     5.94 F
+SMPL TRTH GROUND TURKEY           5.19 F
+KRO GREEK YOGURT PLAIN            4.11 F
+SLCD ROAST BF                     5.94 F
+DIGITAL CPN                      1.78-  
+COCA-COLA 12 PK CANS              2.77 T
+  3.23 lb @ 2.83 /lb
+ORG LEMONS                        9.14 F
+COCA-COLA 12 PK CANS              2.77 T
+CARROTS                           1.79 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           40.92
+TAX 10.55% ON 5.70                  0.60
+TOTAL                              41.52
+AMEX TEND                          41.52
+CHANGE                              0.00
+
+06/07/26 13:03  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

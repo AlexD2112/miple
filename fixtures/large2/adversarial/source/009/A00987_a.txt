@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 3506
+
+FM HALF & HALF                    5.34 F
+STRAWBERRIES 2 LB                 5.88 F
+FM COTTAGE CHEESE                 3.21 F
+DOUBLE CREME BRIE                 5.40 F
+2% MLK HALF GALLON                6.08 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           26.15
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              26.18
+MASTERCARD TEND                    26.18
+CHANGE                              0.00
+
+07/13/26 11:31  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

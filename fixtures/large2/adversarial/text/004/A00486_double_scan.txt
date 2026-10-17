@@ -1,0 +1,45 @@
+                 TARGET
+        San Francisco CA  T-1737
+             (555) 030-1327
+
+GG LMND 52OZ                      5.79 N
+  1 @ 0.10
+CA CRV                            0.10  
+MKT PANTRY CEREAL                 6.63 N
+TARGET CIRCLE OFFER              1.99-  
+  0.33 lb @ 13.18 /lb
+SLCD TRKY BRST                    4.35 N
+MKT PANTRY GRND BF 80/20          6.57 N
+  1 @ 0.10
+CA CRV                            0.10  
+MKT PANTRY CEREAL                 6.63 N
+TARGET CIRCLE OFFER              1.99-  
+  0.33 lb @ 13.18 /lb
+SLCD TRKY BRST                    4.35 N
+MKT PANTRY GRND BF 80/20          6.57 N
+GG NAVEL ORNGS                    1.01 N
+  2 @ 2.80
+GG LIMES                          5.60 N
+BLACK BEANS 15 OZ CAN            10.76 N
+OLD FASHIONED ROLLED OATS 42 OZ  17.43 N
+  2 @ 2.21
+GG BAGGED CAESAR SALAD KIT        4.42 N
+  2 @ 2.77
+GG HAMBURGER BUNS                 5.54 N
+  3.25 lb @ 6.33 /lb
+MKT PANTRY WHOLE CHICKEN         20.57 N
+DARIGOLD UNSLTD BTR               6.67 N
+  3.44 lb @ 3.76 /lb
+GG CAULIFLOWER                   12.93 N
+  3 @ 0.25
+BAG FEE                           0.75  
+
+SUBTOTAL                          107.13
+TAX 8.625% ON 0.00                  0.00
+TOTAL                             107.13
+AMEX TEND                         107.13
+CHANGE                              0.00
+
+03/21/26 07:19  ITEMS 16
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

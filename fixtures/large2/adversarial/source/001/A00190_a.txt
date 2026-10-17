@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 2601
+
+BABY SPNCH                        5.42 F
+SMPL TRTH BLACKBERRIES            3.92 F
+  3 @ 2.61
+ORGANIC SPROUTED TOFU             7.83 F
+LACROIX LIME SPARKLING WATER 8 P  2.20 F
+STRAUS PLAIN GRK YGRT             1.74 F
+ROLLED OATS                       3.98 F
+DISH SOAP                        19.39 T
+
+SUBTOTAL                           44.48
+TAX 10.55% ON 19.39                 2.05
+TOTAL                              46.53
+CASH TEND                          60.00
+CHANGE                             13.47
+
+03/03/26 16:23  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

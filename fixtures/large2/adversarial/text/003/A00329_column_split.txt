@@ -1,0 +1,32 @@
+                SAFEWAY
+         Store 3304  Seattle WA
+             (555) 010-6064
+
+SIG SLCT CRL
+ORG ITLN PRSLY
+J4U PERSONAL DEAL
+O ORGANICS SWEET POTS
+J4U DIGITAL CPN
+SW SOURDOUGH LOAF
+CHKN THIGHS
+  3 @ 0.08
+BAG FEE
+
+6.63 S
+1.95 S
+0.59-
+3.28 S
+0.98-
+7.47 S
+9.29 S
+0.24 T
+
+SUBTOTAL                           27.29
+TAX 10.55% ON 0.24                  0.03
+**** TOTAL                         27.32
+DEBIT TEND                         27.32
+CHANGE                              0.00
+
+09/26/26 07:50  ITEMS 5
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

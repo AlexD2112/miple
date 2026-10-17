@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3554
+
+SMPL TRTH ROMA TOMATOES           2.38 F
+  3 @ 4.93
+PEPSI 12 PK CANS                 14.79 T
+  2 @ 5.40
+FRZN PEAS 12 OZ                  10.80 F
+CRSSNTS 12 CT                     4.87 F
+SMPL TRTH APPLE JUICE 64OZ        7.25 F
+DIGITAL CPN                      0.46-  
+DARK CHOC PNT BTR CUPS            5.61 F
+PRIV SEL CHKN DRUMSTICKS          8.97 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           54.45
+TAX 10.55% ON 15.03                 1.59
+TOTAL                              56.04
+CASH TEND                          60.00
+CHANGE                              3.96
+
+04/10/26 18:25  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

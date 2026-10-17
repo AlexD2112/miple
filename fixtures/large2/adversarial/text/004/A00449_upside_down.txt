@@ -1,0 +1,36 @@
+               THANK YOU
+T=TAXABLE  S=NONTAXABLE FOOD
+09/22/26 20:11  ITEMS 23
+
+CHANGE                              0.00
+DISCOVER TEND                     120.71
+**** TOTAL                        120.71
+TAX 10.55% ON 6.65                  0.70
+SUBTOTAL                          120.01
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 S
+HOUSE FOODS EXTRA FIRM TOFU       2.78 S
+LUCERNE 2% MILK GALLON            6.49 S
+SIG SLCT TILAPIA FILLETS         21.66 S
+DAVES KILLER BRD 21 WHL GRAINS    9.56 S
+  2 @ 4.78
+DGRN RISING CRUST PEPPERONI PIZ  11.46 S
+  2 @ 5.73
+LUCERNE COTTAGE CHS               3.21 S
+SW SOY SCE                        6.79 S
+PLAIN GOAT CHS                    5.77 S
+FLOUR TORT 10 CT                  9.40 S
+  4 @ 2.35
+LUCERNE PRMGN REGGIANO            7.82 S
+O ORGANICS RED GRAPES             3.04 S
+SIG KTCHNS SOURDOUGH LOAF         7.47 S
+TRASH BAGS 40CT                   6.49 T
+ORG BABY SPNCH                    5.54 S
+O ORGANICS MANDARINS              8.16 S
+  3 @ 2.72
+
+             (555) 010-6588
+         Store 3318  Seattle WA
+                SAFEWAY

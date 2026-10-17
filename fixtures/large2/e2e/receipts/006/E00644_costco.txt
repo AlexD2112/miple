@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3271  Seattle WA
+            MEMBER ************
+
+286667 RADISHES                       2.24 E
+     2.13 lb @ 1.05 /lb
+543147 HOT BAR PREPARED FOOD BY WEIG  8.83 A
+
+SUBTOTAL                               11.07
+TAX 10.55% ON 8.83                      0.93
+**** TOTAL                             12.00
+DEBIT TEND                             12.00
+CHANGE                                  0.00
+
+04/22/26 08:56  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

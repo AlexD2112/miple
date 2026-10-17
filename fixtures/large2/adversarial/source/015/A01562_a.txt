@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2152
+
+SMPL TRTH RASPBERRIES             7.24  
+PRIV SEL CRKRS                    2.00  
+ORG ITALIAN PARSLEY               1.95  
+FROZEN DUMPLINGS                 15.61  
+KRO SAVINGS                      2.64-  
+KRO KTCHP                         5.49  
+HEINZ KETCHUP 32 OZ               4.48  
+  3 @ 0.08
+BAG FEE                          0.24 TX
+
+SUBTOTAL                           34.37
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              34.40
+DEBIT TEND                         34.40
+CHANGE                              0.00
+
+05/31/26 13:39  ITEMS 6
+TX=TAXABLE ITEM
+               THANK YOU

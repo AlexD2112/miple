@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3729
+
+SHREDDED CHDR 8 OZ                6.42 F
+  2.71 lb @ 7.09 /lb
+SMPL TRTH TRKY BRST              19.21 F
+GREEK YOGURT 48 OZ                1.97 F
+KRO PAPER PLATES                  3.31 T
+TUNA CAN                          1.08 F
+CRRTS                             1.79 F
+COLA 12PK CANS                    1.51 T
+CELERY HEARTS                     4.34 F
+PEPSI 12 PK CANS                  4.93 T
+KRO BLACK BEANS CAN               8.77 F
+DAVES KILLER BRD 21 WHL GRAINS    4.78 F
+PRIV SEL RIBEYE STEAK            19.87 F
+KRO WHL MLK HALF GALLON           6.79 F
+
+SUBTOTAL                           84.77
+TAX 10.55% ON 9.75                  1.03
+TOTAL                              85.80
+MASTERCARD TEND                    85.80
+CHANGE                              0.00
+
+07/28/26 17:21  ITEMS 13
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

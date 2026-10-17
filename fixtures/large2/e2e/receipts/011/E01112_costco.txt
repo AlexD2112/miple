@@ -1,0 +1,27 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0219  Seattle WA
+            MEMBER ************
+
+1628499 STRWB 1 LB                    5.22 E
+355996 KS GROUND CHICKEN             19.84 E
+     3.92 lb @ 5.06 /lb
+298831 HANDMADE STYLE CORN TORT       3.55 E
+1620778 KS BEETS                      6.69 E
+     3.74 lb @ 1.79 /lb
+669314 KS CARROTS                     1.79 E
+174934 JENNIE-O GRND TRKY 1 LB        6.60 E
+990361 SHRDDD MOZZ 8 OZ               2.92 E
+1295025 UNEXPECTED CHDR              18.52 E
+     1.03 lb @ 17.98 /lb
+1524857 FLOUR TORT                    6.18 E
+
+SUBTOTAL                               71.31
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             71.31
+VISA TEND                              71.31
+CHANGE                                  0.00
+
+06/20/26 07:32  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

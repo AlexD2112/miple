@@ -1,0 +1,30 @@
+               THANK YOU
+T=TAXABLE  S=NONTAXABLE FOOD
+01/04/26 15:25  ITEMS 15
+
+CHANGE                              0.00
+DISCOVER TEND                     110.59
+**** TOTAL                        110.59
+TAX 10.55% ON 29.58                 3.12
+SUBTOTAL                          107.47
+
+O ORGANICS BARTLETT PEARS         6.00 S
+  2 @ 3.00
+SIG NAPKINS                      24.05 T
+ORG BASIL CLAMSHELL               1.49 S
+GROUND BEEF 80/20                 6.57 S
+SIG KTCHNS LAMB CHOPS            18.61 S
+  1.09 lb @ 17.07 /lb
+SW RANCH DRESSING                 3.99 S
+PARMIGIANO REGGIANO               7.82 S
+ORG SPRING MIX 1 LB              21.96 S
+  4 @ 5.49
+SW CHICKEN DRUMSTICKS             8.97 S
+CLUB CARD SAVINGS                0.96- T
+TRASH BAGS 40CT                   6.49 T
+CLUB CARD SAVINGS                1.07-  
+HANDMADE STYLE CORN TORT          3.55 S
+
+             (555) 010-8582
+         Store 3698  Seattle WA
+                SAFEWAY

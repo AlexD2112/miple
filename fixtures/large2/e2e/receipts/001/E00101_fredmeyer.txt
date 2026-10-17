@@ -1,0 +1,33 @@
+               FRED MEYER
+              Portland OR
+               Store 1373
+
+FM CHKN BROTH CARTON              8.38 F
+LG EGGS 18 CT                     7.52 F
+SMPL TRTH TUNA CAN                1.08 F
+MFR CPN                          0.32-  
+SMPL TRTH DIET COLA 12PK CANS     4.42 F
+  12 @ 0.10
+OR BTL DEP                        1.20  
+FM PLUS CARD SAV                 1.33-  
+SMPL TRTH CARROTS                 1.79 F
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 F
+  0.72 lb @ 2.33 /lb
+SMPL TRTH BRSSLS SPRTS            1.68 F
+FM SRIRACHA                       3.16 F
+  2.04 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTATOES         2.31 F
+MFR CPN                          0.69-  
+BRTLTT PEARS                      3.00 F
+YUKON GOLD POTS                   3.99 F
+TRASH BAGS 40CT                   6.49 F
+
+SUBTOTAL                           51.51
+TAX                                 0.00
+TOTAL                              51.51
+VISA TEND                          51.51
+CHANGE                              0.00
+
+05/12/26 10:22  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

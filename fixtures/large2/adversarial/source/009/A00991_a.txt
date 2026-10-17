@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 3425
+
+ROMA TOM                          2.38 F
+KRO SAVINGS                      0.71-  
+  0.98 lb @ 6.69 /lb
+FM BONELESS SKINLESS CHICKEN BRE  6.56 F
+FM SOY SCE                        6.79 F
+KRO FRZN MIXED BERRIES            2.06 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                           17.23
+TAX                                 0.00
+TOTAL                              17.23
+VISA TEND                          17.23
+CHANGE                              0.00
+
+05/17/26 15:08  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

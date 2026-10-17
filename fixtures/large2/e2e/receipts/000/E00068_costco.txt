@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2543  Seattle WA
+            MEMBER ************
+
+622691 KS SOY SCE                     6.79 E
+1846421 ORG HNYCRSP APPLES            3.18 E
+     2.39 lb @ 1.33 /lb
+968487 KS SRDGH LOAF                  7.47 E
+1065160 TPD/SRDGH LOAF               1.31-  
+1617008 BEETS                         6.32 E
+     3.53 lb @ 1.79 /lb
+78017 WHL MLK HALF GALLON             6.79 E
+152489 KS CRKRS                       2.00 E
+628618 KS SWEET POTS                  3.28 E
+498883 LAUNDRY DETERGENT PODS        20.18 A
+1208235 KS STRWB                      4.35 E
+188042 LG BROWN CAGE FREE EGGS        4.10 E
+  REFUND - ORIG RECEIPT
+RETURN 622691 KS SOY SCE             6.79- E
+
+SUBTOTAL                               56.36
+TAX 10.55% ON 20.18                     2.13
+**** TOTAL                             58.49
+MASTERCARD TEND                        58.49
+CHANGE                                  0.00
+
+06/17/26 17:10  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

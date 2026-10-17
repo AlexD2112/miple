@@ -1,0 +1,35 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3020
+
+GRND PORK                         6.60 F
+SMPL TRTH DIJON MUSTARD           2.46 F
+  4 @ 2.98
+DICED TOM CAN                    11.92 F
+  2 @ 1.01
+SMPL TRTH NAVEL ORANGES           2.02 F
+SMPL TRTH SWEET POTS              3.28 F
+PRIV SEL RANCH DRESSING           3.99 F
+  0.67 lb @ 9.25 /lb
+KRO SWISS CHS                     6.20 F
+SMPL TRTH RANCH DRESSING          3.99 F
+BUTTER LETTUCE                    2.45 F
+WHITE SNDWCH BRD                  7.03 F
+STRAWBERRIES 1 LB                 5.22 F
+  2 @ 2.78
+HOUSE FOODS EXTRA FIRM TOFU       5.56 F
+SMPL TRTH ROTIS CHKN              5.04 T
+  3 @ 5.54
+ORG BABY SPNCH                   16.62 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           82.54
+TAX 10.55% ON 5.20                  0.55
+TOTAL                              83.09
+VISA TEND                          83.09
+CHANGE                              0.00
+
+05/10/26 08:27  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

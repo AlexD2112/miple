@@ -1,0 +1,34 @@
+               FRED MEYER
+               Seattle WA
+               Store 0011
+FUEL POINTS BALANCE     296
+
+HNYCRSP APPLES                    4.67 F
+ALUMINUM FOIL                    18.03 T
+SMPL TRTH CAGE FREE EGGS 18CT     6.85 F
+MFR CPN                          0.49-  
+SMPL TRTH YELLOW ONIN             1.78 F
+BLACK BEANS 15 OZ CAN            10.76 F
+ORG BABY SPNCH                    5.54 F
+  2.25 lb @ 2.43 /lb
+SMPL TRTH PARSNIPS                5.47 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+  2.89 lb @ 0.76 /lb
+MANGO                             2.20 F
+GREEN ONIN BUNCH                  2.59 F
+  4 @ 5.61
+DARK CHOCOLATE PEANUT BUTTER CU  22.44 F
+KRO LAUNDRY DETERGENT PODS       20.18 T
+ITALIAN PARSLEY                   2.93 F
+
+SUBTOTAL                          105.16
+TAX 10.55% ON 38.21                 4.03
+TOTAL                             109.19
+AMEX TEND                         109.19
+CHANGE                              0.00
+
+05/18/26 15:25  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+FUEL POINTS THIS ORDER        469
+               THANK YOU

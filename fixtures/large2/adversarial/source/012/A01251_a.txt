@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2547  Seattle WA
+            MEMBER ************
+REWARDS #: ********1868
+REG 28 TRN 7459 OPR 331
+SURVEY CODE: 5500-8791-3057
+
+1489622 STRAUS PLAIN GRK YGRT         1.74 E
+133736 GROUND BEEF 88/12             24.84 E
+     4.14 lb @ 6.00 /lb
+150603 DOG TREATS                     6.82 A
+1465220 KS BABY CARROTS               2.49 E
+1684917 BARTLETT PEARS                3.00 E
+681557 BIBIGO PORK MANDU DUMPLINGS   10.32 E
+
+SUBTOTAL                               49.21
+TAX 10.55% ON 6.82                      0.72
+**** TOTAL                             49.93
+VISA TEND                              49.93
+CHANGE                                  0.00
+
+07/12/26 18:35  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+REWARDS BALANCE           63.24
+RETURNS WITHIN 90 DAYS
+BALANCE DUE                   0.00
+FUEL POINTS THIS ORDER        84
+                 THANK YOU

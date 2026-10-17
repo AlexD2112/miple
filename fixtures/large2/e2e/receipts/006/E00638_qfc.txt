@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3383
+
+SMPL TRTH BARTLETT PEARS          3.00 F
+SMPL TRTH YELLOW ONIN             1.78 F
+MSSN FLOUR TORT 40 CT             5.22 F
+MFR CPN                          0.77-  
+CARROTS 2 LB                      1.74 F
+  1.09 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  3.82 F
+SMPL TRTH BAGELS                  3.77 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           18.80
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              18.83
+MASTERCARD TEND                    18.83
+CHANGE                              0.00
+
+03/07/26 21:09  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

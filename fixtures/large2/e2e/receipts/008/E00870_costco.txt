@@ -1,0 +1,42 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1425  Seattle WA
+            MEMBER ************
+
+1275040 KS SLTD BTR                   5.73 E
+1624009 KS SWEET POTS                 3.28 E
+435684 PEPSI 12 PK CANS               4.93 A
+248663 CHKN BROTH 32 OZ               5.62 E
+     2 @ 2.81
+512525 KS CRL                         6.63 E
+5386718 TPD/CRL                      1.99-  
+1328072 JASMINE RICE 5 LB             1.49 E
+922992 KS BNLS SKNLS CHKN BRST       34.85 E
+     5.21 lb @ 6.69 /lb
+98492 KS FRZN PEAS                   13.98 E
+7603729 TPD/FRZN PEAS                1.17-  
+1497716 KS FRZN WFFLS                 7.05 E
+1475968 SOURDOUGH LOAF                7.47 E
+603756 BLUEBERRIES 18 OZ              4.61 E
+9876983 TPD/BLUEBERRIES              1.38-  
+782734 KS BROC CROWNS                 2.25 E
+1704003 CELERY HEARTS                 4.34 E
+5938866 TPD/CELERY HEART             1.30-  
+816535 KS TUNA CAN                    1.08 E
+284757 LEMONS                        16.76 E
+     4 @ 4.19
+1139289 CELERY HEARTS                 4.34 E
+2874471 TPD/CELERY HEART             0.43-  
+362473 REDUCED FAT 2% MLK GALLON      6.54 E
+1245697 CILANTRO BUNCH                6.06 E
+     3 @ 2.02
+
+SUBTOTAL                              130.74
+TAX 10.55% ON 4.93                      0.52
+**** TOTAL                            131.26
+VISA TEND                             131.26
+CHANGE                                  0.00
+
+03/11/26 07:37  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

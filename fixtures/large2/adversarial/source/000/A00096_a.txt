@@ -1,0 +1,24 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1578  Seattle WA
+            MEMBER ************
+
+1240438 GRND BF 80/20                 6.57 E
+818471 KS LG BROWN EGGS               4.29 E
+1235591 BABY SPNCH 5 OZ               3.77 E
+172124 PARMIGIANO REGGIANO WEDGE      8.42 E
+148299 UNSLTD BTR 4 X 1 LB            9.48 E
+1583580 GRASS-FED GROUND BEEF 85/15   7.35 E
+863613 ORG CARROTS BUNCH              4.63 E
+1625084 MANGO                         2.22 E
+     2.92 lb @ 0.76 /lb
+
+SUBTOTAL                               46.73
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             46.73
+DEBIT TEND                             46.73
+CHANGE                                  0.00
+
+07/11/26 10:25  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

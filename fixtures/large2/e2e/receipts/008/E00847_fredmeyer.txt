@@ -1,0 +1,26 @@
+               FRED MEYER
+              Portland OR
+               Store 1370
+
+ORG CARROTS BUNCH                 4.63 F
+SMPL TRTH KOMBUCHA 16OZ           4.58 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+  0.93 lb @ 1.96 /lb
+ORG GRAPE TOM PINT                1.82 F
+COCA-COLA 12 PK CANS              2.77 F
+  1 @ 0.10
+OR BTL DEP                        0.10  
+KRO SAVINGS                      0.83-  
+  REFUND - ORIG RECEIPT
+RETURN ORG CARROTS BUNCH         4.63- F
+
+SUBTOTAL                            8.54
+TAX                                 0.00
+TOTAL                               8.54
+AMEX TEND                           8.54
+CHANGE                              0.00
+
+07/28/26 19:39  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

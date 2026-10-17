@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 0143
+
+  1.40 lb @ 9.25 /lb
+KRO SWISS CHS                    12.95 F
+  2.29 lb @ 1.60 /lb
+JALAPENO                          3.66 F
+FM GRND COFFEE                    9.64 F
+KRO SAVINGS                      1.80-  
+SPARKLING WATER 8PK               5.13 F
+PEPSI 12 PK CANS                  4.93 N
+SMPL TRTH ORANGE JUICE            7.69 F
+  0.77 lb @ 14.17 /lb
+BLACK FOREST HAM                 10.91 F
+DIGITAL CPN                      0.73-  
+SMPL TRTH ICEBERG LTTC            5.11 F
+DIGITAL CPN                      0.80-  
+  3 @ 4.61
+BLUBRY 18 OZ                     13.83 F
+PAPER TOWELS 6 ROLL               3.75 N
+GRND COFFEE                       9.64 F
+JASMINE RICE 25 LB                8.09 F
+
+SUBTOTAL                           92.00
+TAX 10.55% ON 8.68                  0.92
+TOTAL                              92.92
+MASTERCARD TEND                    92.92
+CHANGE                              0.00
+
+08/19/26 18:13  ITEMS 14
+N=TAXABLE NON-FOOD  F=SNAP ELIGIBLE FOOD
+               THANK YOU

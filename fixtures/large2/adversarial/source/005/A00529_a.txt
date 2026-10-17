@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 1791
+
+SMPL TRTH GOAT CHEESE             8.35 F
+KRO SAVINGS                      1.11-  
+ORGANIC BABY SPINACH              5.54 F
+FM AHI TUNA STEAK                14.71 F
+ORG SPRING MIX 1 LB               5.49 F
+DIGITAL CPN                      0.45-  
+  2 @ 5.49
+KRO KTCHP                        10.98 F
+BANANA                            2.37 F
+SMPL TRTH APPLE JUICE 64OZ        7.25 F
+  4 @ 5.61
+DARK CHOCOLATE PEANUT BUTTER CU  22.44 F
+  3.48 lb @ 1.13 /lb
+RUSSET POTS                       3.93 F
+SWEET POTS                        3.28 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           83.02
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              83.05
+AMEX TEND                          83.05
+CHANGE                              0.00
+
+10/03/26 14:05  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3059  Seattle WA
+            MEMBER ************
+
+1629091 GINGER ALE 12PK               6.02 A
+1004582 KS PAPER PLATES               3.31 A
+1804120 TPD/PAPER PLATES             0.92- A
+537719 KS BNLS SKNLS CHKN BRST       21.27 E
+     3.18 lb @ 6.69 /lb
+8560526 TPD/BNLS SKNLS C             0.97-  
+1581472 2% MLK 2 X 1 GAL              4.70 E
+534016 KS 2% MLK GALLON               6.49 E
+2391973 TPD/2% MLK GALLO             1.04-  
+342392 ORGANIC GRAPE TOMATOES PINT    1.82 E
+     0.93 lb @ 1.96 /lb
+1276913 KS ORANGE JUICE               7.69 E
+7210675 TPD/ORANGE JUICE             0.44-  
+1368280 CORN TORTILLAS                2.79 E
+8496570 TPD/CORN TORTILL             0.84-  
+1906163 SHREDDED CHDR 8 OZ            6.42 E
+3612559 TPD/SHREDDED CHD             0.24-  
+1897211 KS VAN YGRT CUPS              5.39 E
+
+SUBTOTAL                               61.45
+TAX 10.55% ON 8.41                      0.89
+**** TOTAL                             62.34
+MASTERCARD TEND                        62.34
+CHANGE                                  0.00
+
+06/28/26 19:22  ITEMS 10
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,47 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3309  Seattle WA
+            MEMBER ************
+
+660987 CELERY                         4.32 E
+735021 KS NAVEL ORANGES               3.03 E
+     3 @ 1.01
+1872875 STRAUS PLAIN GREEK YOGURT     5.22 E
+     3 @ 1.74
+1459178 UNSLTD BTR                    9.95 E
+1703925 CREMINI MSHRM                 3.42 E
+     3 @ 1.14
+1816805 KS GREEN ONIN BUNCH           2.59 E
+577392 GREEK YOGURT 48 OZ             7.88 E
+     4 @ 1.97
+623874 KS GRK YGRT PLAIN              8.22 E
+     2 @ 4.11
+7152278 TPD/GRK YGRT PLA             2.47-  
+1992808 ORG HONEYCRISP APPLES         4.68 E
+     3.52 lb @ 1.33 /lb
+6187156 TPD/ORG HONEYCRI             0.56-  
+162300 BANANA                         2.37 E
+1314512 KS PORK TNDRLN               27.50 E
+     2.85 lb @ 9.65 /lb
+6330294 TPD/PORK TNDRLN              2.23-  
+1477166 WHITE BRD                     6.34 E
+578286 KS PRMGN RGGN                  7.82 E
+1342049 ORG RASPB 6 OZ                6.28 E
+1577987 AA BTTRS 8PK                 24.36 A
+1780021 ORGANIC BASIL CLAMSHELL       1.49 E
+3550337 TPD/ORGANIC BASI             0.45-  
+1914532 KS ROMAINE LTTC               8.37 E
+     3 @ 2.79
+881140 ORG BABY SPNCH 5 OZ            5.85 E
+1567778 FRZN WAFFLES                  7.05 E
+1928895 KS ICE CRM                   14.51 E
+
+SUBTOTAL                              155.54
+TAX 10.55% ON 24.36                     2.57
+**** TOTAL                            158.11
+DEBIT TEND                            158.11
+CHANGE                                  0.00
+
+07/03/26 10:00  ITEMS 32
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

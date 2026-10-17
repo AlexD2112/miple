@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1948
+FUEL POINTS BALANCE     188
+
+DICED TOM 14.5 OZ                 1.00 F
+ROMAINE LETTUCE                   2.79 F
+REDUCED FAT 2% MLK GALLON         6.54 F
+KRO PENNE                        13.38 F
+PRIV SEL FROZEN PEAS             13.98 F
+CHOBANI PLAIN GRK YGRT 32 OZ      1.47 F
+CHKN DRUMSTICKS                   8.97 F
+KRO SHAMPOO                      17.57 T
+
+SUBTOTAL                           65.70
+TAX 10.55% ON 17.57                 1.85
+TOTAL                              67.55
+CASH TEND                          80.00
+CHANGE                             12.45
+
+09/21/26 13:42  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+RETURNS WITHIN 90 DAYS
+FUEL POINTS THIS ORDER        109
+TOTAL SAVINGS THIS YEAR   17.64
+NEXT VISIT COUPON          3.00 OFF
+REWARDS BALANCE           41.50
+               THANK YOU

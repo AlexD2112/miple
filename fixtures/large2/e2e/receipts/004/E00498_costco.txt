@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0133  Seattle WA
+            MEMBER ************
+
+471301 BRUSSELS SPROUTS               1.79 E
+     0.77 lb @ 2.33 /lb
+1208110 SHREDDED CHDR 8 OZ            6.42 E
+1450519 PINEAPPLE                     2.63 E
+     2.10 lb @ 1.25 /lb
+243653 LMND 52OZ                     11.58 A
+     2 @ 5.79
+1018008 KS SOURDOUGH LOAF             7.47 E
+6484750 TPD/SOURDOUGH LO             2.24-  
+931952 KS SPRKLG WTR 8PK              5.13 E
+151268 KS FRZN PEAS                  13.98 E
+
+SUBTOTAL                               46.76
+TAX 10.55% ON 11.58                     1.22
+**** TOTAL                             47.98
+VISA TEND                              47.98
+CHANGE                                  0.00
+
+02/10/26 10:37  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

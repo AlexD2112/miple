@@ -1,0 +1,19 @@
+                SAFEWAY
+         Store 1940  Seattle WA
+             (555) 010-7936
+
+  REFUND - ORIG RECEIPT
+RETURN SW GRND COFFEE            9.64- S
+RETURN JNN- GRND TRKY 1 LB       6.60- S
+RETURN SHREDDED CHDR 8 OZ        6.42- S
+RETURN O ORGANICS RED GRAPES     3.04- S
+
+SUBTOTAL                          25.70-
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                        25.70-
+DEBIT TEND                        25.70-
+CHANGE                              0.00
+
+09/04/26 07:31  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

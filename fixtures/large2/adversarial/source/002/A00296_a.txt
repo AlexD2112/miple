@@ -1,0 +1,31 @@
+               FRED MEYER
+               Seattle WA
+               Store 0737
+
+BABY SPNCH                        5.42 F
+  2.45 lb @ 2.83 /lb
+ORG LEMONS                        6.93 F
+AA BATTERIES 8PK                 24.36 T
+ROMAINE LETTUCE                   2.79 F
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+BABY SPNCH                        5.42 F
+KRO DELI FRIED CHKN              11.75 T
+DRIED LENTILS                     4.26 F
+SMPL TRTH CHKN THIGHS             9.29 F
+  2.67 lb @ 3.72 /lb
+SMPL TRTH ZUCCHINI                9.93 F
+  3 @ 2.61
+ORG SPROUTED TOFU                 7.83 F
+BLACK FOREST HAM 9 OZ             7.00 F
+LEMON                             4.30 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                          108.19
+TAX 10.55% ON 45.02                 4.75
+TOTAL                             112.94
+DEBIT TEND                        112.94
+CHANGE                              0.00
+
+03/03/26 07:30  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

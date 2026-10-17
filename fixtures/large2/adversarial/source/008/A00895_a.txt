@@ -1,0 +1,27 @@
+               FRED MEYER
+               Seattle WA
+               Store 3370
+
+MANDARIN ORANGE CHICKEN          15.87 F
+BARILLA PENNE                    19.37 F
+  4 @ 3.54
+AVOCADOS BAG 4 CT                14.16 F
+  1.48 lb @ 1.79 /lb
+SMPL TRTH BEETS                   2.65 F
+  2 @ 1.16
+CILANTRO                          2.32 F
+PLAIN GOAT CHS                    5.77 F
+SMPL TRTH CHERRY TOMATOES         1.15 F
+KRO GRND COFFEE                   9.64 F
+FM KEFIR                          1.27 F
+STRAUS PLAIN GRK YGRT             1.74 F
+
+SUBTOTAL                           73.94
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              73.94
+VISA TEND                          73.94
+CHANGE                              0.00
+
+01/15/26 08:38  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

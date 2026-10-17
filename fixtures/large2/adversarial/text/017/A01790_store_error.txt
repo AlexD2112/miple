@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0221  Seattle WA
+            MEMBER ************
+
+521758 JALAPENO                       4.75 E
+     2.97 lb @ 1.60 /lb
+1707966 MISSION FLOUR TORT 40 CT      5.22 E
+1583956 KS JASMINE RICE              12.13 E
+4514767 TPD/JASMINE RICE             1.45-  
+692987 KS GRND PORK                   6.60 E
+1770275 DAVES KILLER BRD 21 WHL GRAI  4.78 E
+1719662 KS LAMB CHOPS                47.80 E
+     2.80 lb @ 17.07 /lb
+1399831 KS PRMGN RGGN                 7.82 E
+2099388 TPD/PRMGN RGGN               2.35-  
+1175586 WHITE BRD                     6.34 E
+1339160 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+216388 ORGANIC ROMAINE HEARTS 3 CT    3.76 E
+1246609 CREMINI MSHRM                 1.14 E
+1838927 BNLS PORK LOIN CHOPS         38.03 E
+     3.83 lb @ 9.93 /lb
+977225 KS ALMOND MLK                  5.08 E
+9182115 TPD/ALMOND MLK               1.48-  
+
+SUBTOTAL                              140.95
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            140.94
+MASTERCARD TEND                       140.94
+CHANGE                                  0.00
+
+06/25/26 07:36  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

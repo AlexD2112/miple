@@ -1,0 +1,40 @@
+               FRED MEYER
+               Seattle WA
+               Store 2506
+
+  4 @ 1.14
+SMPL TRTH CREMINI MSHRM           4.56 F
+SPONGES 3PK                       9.54 T
+KRO SAVINGS                      1.51- T
+FM FRZN BROC                      1.72 F
+  1.37 lb @ 5.06 /lb
+FM GROUND CHICKEN                 6.93 F
+  4.16 lb @ 7.64 /lb
+FOSTER FARMS BONELESS SKINLESS   31.78 F
+  4 @ 1.01
+SMPL TRTH NAVEL ORANGES           4.04 F
+  3.11 lb @ 5.06 /lb
+KRO GRND CHKN                    15.74 F
+SMPL TRTH FRZN WFFLS              7.05 F
+WHITE BREAD                       6.34 F
+SHREDDED MOZZARELLA 8 OZ          2.92 F
+  1.76 lb @ 15.56 /lb
+BNLS RIBEYE STEAK                27.39 F
+FLOUR TORT                        6.18 F
+ORG TOMATO BASIL MARINARA         5.94 F
+DIGITAL CPN                      1.07-  
+LG EGGS 12 CT                     8.69 F
+  1.05 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                1.68 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                          138.16
+TAX 10.55% ON 8.27                  0.87
+TOTAL                             139.03
+DEBIT TEND                        139.03
+CHANGE                              0.00
+
+12/31/26 21:57  ITEMS 21
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

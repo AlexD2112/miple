@@ -1,0 +1,17 @@
+               FRED MEYER
+               Seattle WA
+               Store 2280
+
+SMPL TRTH DRIED LENTILS           4.26 F
+DGRN RISING CRUST PPPRN PIZZA     5.73 F
+KRO MAYONNAISE                    6.36 F
+
+SUBTOTAL                           16.35
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              16.35
+DISCOVER TEND                      16.35
+CHANGE                              0.00
+
+05/21/26 21:47  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

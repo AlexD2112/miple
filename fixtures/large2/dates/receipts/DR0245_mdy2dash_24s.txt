@@ -1,0 +1,20 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3362
+
+SHREDDED CHDR 8 OZ                6.42 F
+SMPL TRTH CORN TORTILLAS          2.79 F
+ARGL                              4.00 F
+  1.29 lb @ 2.43 /lb
+PARSNIPS                          3.13 F
+
+SUBTOTAL                           16.34
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              16.34
+DISCOVER TEND                      16.34
+CHANGE                              0.00
+
+01-23-30 00:53:55  6836 21 755 4
+ITEMS 10   REG 08  TRANS 8402
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

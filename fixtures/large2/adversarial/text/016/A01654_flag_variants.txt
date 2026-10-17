@@ -1,0 +1,20 @@
+                 TARGET
+           Seattle WA  T-3170
+             (555) 030-6389
+
+GG BRIE                           4.85 N
+GG LIMES                          2.80 N
+GG APPLE JUICE 64OZ               7.25 N
+GG RIBEYE STEAK                  19.87 N
+CIRCLE DEAL                      2.36-  
+BOTTLED WTR 24PK                  9.32 N
+
+SUBTOTAL                           41.73
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              41.73
+DEBIT TEND                         41.73
+CHANGE                              0.00
+
+04/29/26 19:45  ITEMS 5
+T=TAXABLE  N=NON-TAXABLE
+               THANK YOU

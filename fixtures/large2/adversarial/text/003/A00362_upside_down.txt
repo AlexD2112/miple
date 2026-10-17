@@ -1,0 +1,22 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+01/24/26 14:04  ITEMS 7
+
+CHANGE                              0.00
+DEBIT TEND                         31.51
+TOTAL                              31.51
+TAX 10.55% ON 5.79                  0.61
+SUBTOTAL                           30.90
+
+365 ZUCCHINI                      2.75 F
+  0.74 lb @ 3.72 /lb
+365 ALMOND MLK                    5.08 F
+WF ICEBERG LTTC                   5.11 F
+365 ROLLED OATS                   7.96 F
+  2 @ 3.98
+TILLAMOOK MEDIUM CHDR 2.5 LB      4.21 F
+LEMONADE 52OZ                     5.79 T
+
+             (555) 020-6540
+               Seattle WA
+           WHOLE FOODS MARKET

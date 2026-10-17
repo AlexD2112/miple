@@ -1,0 +1,23 @@
+                SAFEWAY
+      Store 3683  San Francisco CA
+             (555) 010-1511
+
+  REFUND - ORIG RECEIPT
+RETURN SW CHUCK ROAST           11.54- S
+  REFUND - ORIG RECEIPT
+RETURN CHOBANI PLAIN GREEK YOGU  1.47- S
+  REFUND - ORIG RECEIPT
+RETURN CABOT SHRP CHDR 8 OZ      8.48- S
+  REFUND - ORIG RECEIPT
+RETURN CREAM CHEESE 8 OZ         3.15- S
+RETURN SW ORANGE JUICE           7.69- S
+
+SUBTOTAL                          32.33-
+TAX 8.625% ON 0.00                  0.00
+**** TOTAL                        32.33-
+AMEX TEND                         32.33-
+CHANGE                              0.00
+
+03/29/26 09:36  ITEMS 0
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

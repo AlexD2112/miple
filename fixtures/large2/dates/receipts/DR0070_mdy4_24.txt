@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2352
+
+  1.12 lb @ 14.17 /lb
+KRO BLACK FOREST HAM             15.87 F
+  4 @ 2.54
+PRIV SEL WHL WHT SANDWICH BRD    10.16 F
+PRMGN REGGIANO                    7.82 F
+DIGITAL CPN                      0.20-  
+  2 @ 1.72
+SMPL TRTH FRZN BROC               3.44 F
+KRO SAVINGS                      1.03-  
+
+SUBTOTAL                           36.06
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              36.06
+DISCOVER TEND                      36.06
+CHANGE                              0.00
+
+01/02/2028 12:00  7716 01 448 3
+ITEMS 26   REG 08  TRANS 9605
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

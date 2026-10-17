@@ -1,0 +1,34 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0073
+
+ORG ROMAINE HEARTS 3 CT           3.76  
+RIBEYE STEAK                     19.87  
+SMPL TRTH TILAPIA FILLETS        21.66  
+BLACK BEANS 15 OZ CAN            10.76  
+BARILLA PENNE                    19.37  
+LEMON                             4.30  
+KRO DICED TOM CAN                 2.98  
+WHITE SNDWCH BRD                  7.03  
+  1.24 lb @ 7.09 /lb
+PRIV SEL TRKY BRST                8.79  
+LAUNDRY DETERGENT PODS           20.18 T
+  4 @ 5.49
+ORG SPRING MIX 1 LB              21.96  
+SMPL TRTH BLACK BEANS CAN         8.77  
+MISSION FLOUR TORT 40 CT          5.22  
+HONEYCRISP APPLES                 4.67  
+BANANA                            2.37  
+DRGLD UNSLTD BTR                  6.67  
+PRIV SEL CHKN DRMSTCKS            8.97  
+BAG FEE                           0.08 T
+
+SUBTOTAL                          177.41
+TAX 10.55% ON 20.26                 2.14
+TOTAL                             179.55
+DEBIT TEND                        179.55
+CHANGE                              0.00
+
+05/13/26 13:45  ITEMS 20
+T=TAXED ITEM
+               THANK YOU

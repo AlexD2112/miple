@@ -1,0 +1,22 @@
+               FRED MEYER
+               Seattle WA
+               Store 0837
+
+  2.87 lb @ 11.10 /lb
+SMPL TRTH PORK CHOPS             31.86 F
+FM ALL PURPOSE FLOUR             11.36 F
+DIGITAL CPN                      1.82-  
+HLBT                             10.82 F
+  2.82 lb @ 11.10 /lb
+FM PORK CHOPS                    31.30 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           83.60
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              83.61
+DISCOVER TEND                      83.61
+CHANGE                              0.00
+
+06/20/26 17:02  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1862  Seattle WA
+            MEMBER ************
+
+65402 FRZN BROC FLORETS               8.13 E
+688112 RIBEYE STEAK                  19.87 E
+
+SUBTOTAL                               28.00
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             28.00
+AMEX TEND                              28.00
+CHANGE                                  0.00
+
+12/30/26 20:56  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

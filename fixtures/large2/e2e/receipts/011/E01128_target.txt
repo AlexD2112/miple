@@ -1,0 +1,24 @@
+                 TARGET
+           Seattle WA  T-2492
+             (555) 030-7631
+
+  0.61 lb @ 2.30 /lb
+GG GALA APPLES                    1.40 N
+PENNE 16 OZ                       3.51 N
+SHRP CHDR BLOCK                  10.33 N
+GG ICBRG LTTC                     5.11 N
+MKT PANTRY HALF AND HALF          5.34 N
+PAPER TOWELS 6 ROLL               3.75 T
+DOUBLE CREME BRIE                 5.40 N
+GG QUINOA                         7.75 N
+GG CHKN DRUMSTICKS                8.97 N
+
+SUBTOTAL                           51.56
+TAX 10.55% ON 3.75                  0.40
+TOTAL                              51.96
+VISA TEND                          51.96
+CHANGE                              0.00
+
+04/21/26 16:49  ITEMS 9
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

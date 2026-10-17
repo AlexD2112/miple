@@ -1,0 +1,40 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2443  Seattle WA
+            MEMBER ************
+REG 27 TRN 2247 OPR 500
+WIN A 500.00 GIFT CARD
+STORE MGR: J******
+
+26236 GRND BF 80/20                   6.57 E
+2500039 TPD/GRND BF 80/2             1.97-  
+607821 DOUBLE CREME BRIE              5.40 E
+114043 LNDRY DTRGNT PODS             20.18 A
+705321 KS COLD BREW COFFEE 32OZ       4.43 E
+1026967 KS GRND PORK                  6.60 E
+9093544 TPD/GRND PORK                1.98-  
+97088 BARILLA PENNE                  19.37 E
+7537957 TPD/BARILLA PENN             1.92-  
+1453572 KS SPAGHETTI                  9.54 E
+1504696 KS MANDARINS                  2.72 E
+1914889 KS CHKN DRMSTCKS              8.97 E
+919056 JASMINE RICE 25 LB             8.09 E
+1097743 KS SRRCH                      3.16 E
+5736037 TPD/SRRCH                    0.95-  
+996141 BLACK FOREST HAM 9 OZ          7.00 E
+1214762 PASTURE RAISED EGGS           7.37 E
+6977418 TPD/PASTURE RAIS             2.21-  
+1440971 GREEN BEANS                   2.31 E
+
+SUBTOTAL                              102.68
+TAX 10.55% ON 20.18                     2.13
+**** TOTAL                            104.81
+DEBIT TEND                            104.81
+CHANGE                                  0.00
+
+10/03/26 14:18  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+BALANCE DUE                   0.00
+SAVE 2.00 ON YOUR NEXT VISIT
+VISIT OUR SURVEY - ENTER TO WIN 1000.00
+                 THANK YOU

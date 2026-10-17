@@ -1,0 +1,20 @@
+               FRED MEYER
+               Seattle WA
+               Store 0529
+
+DIJON MUSTARD                     2.46 F
+  4 @ 5.07
+FM POTATO CHIPS                  20.28 F
+SMPL TRTH FRZN BROC               1.72 F
+FM SILKEN TOFU                    2.29 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+
+SUBTOTAL                           28.96
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              28.96
+VISA TEND                          28.96
+CHANGE                              0.00
+
+03/23/26 08:41  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,45 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1251  Seattle WA
+            MEMBER ************
+
+579978 HANDMADE STYLE CORN TORT       7.10 E
+     2 @ 3.55
+137061 KS GRND PORK                   6.60 E
+1012705 FRZN PEAS                    13.98 E
+1011701 TPD/FRZN PEAS                0.92-  
+1767835 BLUBRY 18 OZ                  4.61 E
+1209508 ORG SPROUTED TOFU             2.61 E
+623847 MANDARIN ORANGE CHKN          15.87 E
+8830754 TPD/MANDARIN ORA             1.36-  
+447305 MYNNS 30 OZ                    6.42 E
+5609093 TPD/MYNNS 30 OZ              0.77-  
+1213362 CHKN BROTH 32 OZ              2.81 E
+1217015 UNSLTD BTR                    9.95 E
+9367718 TPD/UNSLTD BTR               0.94-  
+1629757 KS FROZEN BROCCOLI            1.72 E
+1820181 SWISS CHS                     3.52 E
+     0.38 lb @ 9.25 /lb
+580748 LEMONS                        12.57 E
+     3 @ 4.19
+275678 DARIGOLD UNSLTD BTR            6.67 E
+502469 KS BRSSLS SPROUTS              2.14 E
+     0.92 lb @ 2.33 /lb
+425265 KS KETCHUP                     5.49 E
+163014 KS CREMINI MSHRM               1.14 E
+1985723 KS FROZEN PIZZA              13.30 E
+     0.92 lb @ 2.33 /lb
+425265 KS KETCHUP                     5.49 E
+163014 KS CREMINI MSHRM               1.14 E
+1985723 KS FROZEN PIZZA              13.30 E
+804158 BTR LTTC                       2.45 E
+
+SUBTOTAL                              114.96
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            114.96
+DEBIT TEND                            114.96
+CHANGE                                  0.00
+
+01/30/26 07:04  ITEMS 21
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

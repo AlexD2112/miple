@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 0939
+
+  2 @ 1.00
+DICED TOM 14.5 OZ                 2.00 F
+DIGITAL CPN                      0.60-  
+ORG ITLN PRSLY                    1.95 F
+SWISS CHARD                       2.87 F
+SWISS CHARD                       2.87 F
+MFR CPN                          0.86-  
+  1.01 lb @ 3.72 /lb
+SMPL TRTH ZCCHN                   3.76 F
+KRO SALSA JAR                     2.09 F
+
+SUBTOTAL                           14.08
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              14.08
+CASH TEND                          20.00
+CHANGE                              5.92
+
+09/28/26 07:04  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

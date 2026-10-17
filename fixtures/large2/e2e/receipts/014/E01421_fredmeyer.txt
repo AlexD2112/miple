@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 0063
+
+ORGANIC GALA APPLES               1.57 F
+SMPL TRTH SPRKLG WTR              3.74 F
+DIGITAL CPN                      0.32-  
+  3.79 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             37.63 F
+SMPL TRTH BABY CARROTS            2.49 F
+KRO SAVINGS                      0.75-  
+ORGANIC SPRING MIX 1 LB           5.49 F
+SMPL TRTH SPRING MIX              5.44 F
+GRSS-FD GRND BF 85/15             7.35 F
+KALE                              4.17 F
+ALUMINUM FOIL                    18.03 T
+
+SUBTOTAL                           84.84
+TAX 10.55% ON 18.03                 1.90
+TOTAL                              86.74
+AMEX TEND                          86.74
+CHANGE                              0.00
+
+08/11/26 13:58  ITEMS 9
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

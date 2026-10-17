@@ -1,0 +1,31 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3923
+
+SMPL TRTH CORN TORT               2.79 F
+  3.57 lb @ 0.76 /lb
+MANGO                             2.71 F
+SMPL TRTH ITALIAN PARSLEY         2.93 F
+DIGITAL CPN                      0.88-  
+WHL MLK HALF GALLON               6.79 F
+DIGITAL CPN                      1.84-  
+PRIV SEL FRZN PIZZA              13.30 F
+WILD COD FLLT                    18.56 F
+  0.51 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               5.60 F
+CHKN GYOZA POTSTICKERS            9.88 F
+TILLAMOOK ICE CREAM 48 OZ         8.88 F
+FRZN BROC FLRTS                   8.13 F
+SMPL TRTH YELLOW ONIONS           1.78 F
+ORG CARROTS BUNCH                 4.63 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           83.34
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              83.35
+VISA TEND                          83.35
+CHANGE                              0.00
+
+03/18/26 11:10  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

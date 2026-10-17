@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1235  Seattle WA
+            MEMBER ************
+
+270358 KS SOURDOUGH LOAF              7.47 E
+6197581 TPD/SOURDOUGH LO             1.80-  
+1688723 DELI FRIED CHKN              11.75 A
+460369 HOUSE FOODS EXTRA FIRM TOFU    2.78 E
+696328 ZUCCHINI                       4.76 E
+     1.28 lb @ 3.72 /lb
+
+SUBTOTAL                               24.96
+TAX 10.55% ON 11.75                     1.24
+**** TOTAL                             26.20
+DEBIT TEND                             26.20
+CHANGE                                  0.00
+
+06/06/26 20:58  ITEMS 4
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,24 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3446
+
+PRIV SEL KERRYGOLD BTR           10.81 F
+ORG RASPB 6 OZ                    6.28 F
+  3.33 lb @ 2.43 /lb
+PRSNPS                            8.09 F
+PRIV SEL KETCHUP                  5.49 F
+MFR CPN                          0.74-  
+  2 @ 2.45
+SMPL TRTH BTR LTTC                4.90 F
+ASPARAGUS                         2.93 F
+MFR CPN                          0.88-  
+
+SUBTOTAL                           36.88
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              36.88
+VISA TEND                          36.88
+CHANGE                              0.00
+
+04/19/26 09:54  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

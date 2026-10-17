@@ -1,0 +1,28 @@
+               FRED MEYER
+              Portland OR
+               Store 2460
+
+KRO GRND BF 80/20                 6.57 N
+  2.60 lb @ 1.60 /lb
+SMPL TRTH JALAPENO                4.16 N
+KRO JASMINE RICE                 12.13 N
+DIGITAL CPN                      0.91-  
+  1.19 lb @ 1.05 /lb
+RADISHES                          1.25 N
+MFR CPN                          0.38-  
+KRO TOOTHPASTE                   16.40 N
+SMPL TRTH AVCDS                   4.05 N
+LG EGGS 12 CT                     8.69 N
+KRO SAVINGS                      0.62-  
+ORIGINAL HUMMUS 10 OZ             8.88 N
+SOY SCE                           6.79 N
+
+SUBTOTAL                           67.01
+TAX                                 0.00
+TOTAL                              67.01
+AMEX TEND                          67.01
+CHANGE                              0.00
+
+10/10/26 08:17  ITEMS 9
+T=TAXABLE  N=NON-TAXABLE
+               THANK YOU

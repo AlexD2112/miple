@@ -1,0 +1,33 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1568  Portland OR
+            MEMBER ************
+
+1976296 DICED TOM 14.5 OZ             2.00 E
+     2 @ 1.00
+1826564 KS COTTAGE CHEESE             3.21 E
+9392801 TPD/COTTAGE CHEE             0.65-  
+158025 BEETS                          2.95 E
+     1.65 lb @ 1.79 /lb
+739855 PORK CHOPS                    19.54 E
+     1.76 lb @ 11.10 /lb
+1983004 WHL MLK HALF GALLON           6.79 E
+1983004 WHL MLK HALF GALLON           6.79 E
+473592 LG EGGS 12 CT                  8.69 E
+1857869 GREEN BEANS                   6.93 E
+     3 @ 2.31
+1298475 KS COLD BREW COFFEE 32OZ      4.43 E
+  1 @ 0.10
+OR BTL DEP                            0.10  
+4323407 TPD/COLD BREW CO             1.33-  
+404847 KS YELLOW ONIN                 1.78 E
+
+SUBTOTAL                               61.23
+TAX                                     0.00
+**** TOTAL                             61.23
+MASTERCARD TEND                        61.23
+CHANGE                                  0.00
+
+06/21/26 10:47  ITEMS 13
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

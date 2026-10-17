@@ -1,0 +1,27 @@
+                SAFEWAY
+         Store 1718  Seattle WA
+             (555) 010-3562
+
+  0.88 lb @ 17.98 /lb
+UNEXPECTED CHDR                  15.82 S
+UNSLTD BTR 4 X 1 LB               9.48 S
+  0.61 lb @ 3.72 /lb
+O ORGANICS ZCCHN                  2.27 S
+  2.34 lb @ 1.60 /lb
+O ORGANICS JALAPENO               3.74 S
+STRAWBERRIES 1 LB                 5.22 S
+LG EGGS 12 CT                     8.69 S
+SIG KTCHNS GRND BF 80/20          6.57 S
+ORG RASPB 6 OZ                    6.28 S
+PRMGN RGGN                        7.82 S
+SIG KTCHNS HALIBUT               10.82 S
+
+SUBTOTAL                           76.71
+TAX 10.55% ON 0.00                  0.00
+**** TOTAL                         76.71
+CASH TEND                          80.00
+CHANGE                              3.29
+
+06/08/26 17:11  ITEMS 10
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

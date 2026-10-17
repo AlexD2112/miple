@@ -1,0 +1,33 @@
+                SAFEWAY
+         Store 1842  Seattle WA
+             (555) 010-8963
+
+  3 @ 4.93
+PEPSI 12 PACK CANS               14.79 T
+  1.13 lb @ 9.93 /lb
+BNLS PORK LOIN CHOPS             11.22 S
+ROMAINE LTTC                      2.79 S
+GRASS-FED GRND BF 85/15           7.35 S
+  2 @ 2.87
+SWISS CHARD                       5.74 S
+SIG DOG TREATS                    6.82 T
+VANILLA YOGURT CUPS               5.39 S
+  0.25 lb @ 13.18 /lb
+SLCD TRKY BRST                    3.30 S
+BARILLA PENNE                    19.37 S
+ORGANIC ITALIAN PARSLEY           1.95 S
+SIG SLCT GINGER ALE 12PK          6.02 T
+LG EGGS 18 CT                     7.52 S
+GRANOLA BARS                      6.07 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           98.57
+TAX 10.55% ON 27.87                 2.94
+**** TOTAL                        101.51
+DEBIT TEND                        101.51
+CHANGE                              0.00
+
+03/11/26 11:35  ITEMS 16
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

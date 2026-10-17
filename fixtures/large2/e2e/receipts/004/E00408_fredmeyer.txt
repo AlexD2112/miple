@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 3133
+
+  0.60 lb @ 3.50 /lb
+SMPL TRTH ENGLISH CCMBR           2.10 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+SMPL TRTH FROZEN DUMPLINGS       15.61 F
+GREEN BEANS                       2.31 F
+SMPL TRTH YUKON GOLD POTS         3.99 F
+  1.04 lb @ 7.64 /lb
+FOSTER FARMS BNLS SKNLS CHKN BRS  7.95 F
+  2.15 lb @ 2.33 /lb
+BRUSSELS SPROUTS                  5.01 F
+
+SUBTOTAL                           46.45
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              46.45
+VISA TEND                          46.45
+CHANGE                              0.00
+
+12/30/26 18:17  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

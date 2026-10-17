@@ -1,0 +1,17 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2856  Seattle WA
+            MEMBER ************
+
+1728797 AA BATTERIES 8PK             24.36 A
+247579 KS LNDRY DETERGENT PODS       20.18 A
+
+SUBTOTAL                               44.54
+TAX 10.55% ON 44.54                     4.70
+**** TOTAL                             49.24
+VISA TEND                              49.24
+CHANGE                                  0.00
+
+09/24/26 16:53  ITEMS 2
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

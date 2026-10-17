@@ -1,0 +1,36 @@
+               FRED MEYER
+              Portland OR
+               Store 2698
+FUEL POINTS BALANCE     105
+STORE MGR: J******
+SURVEY CODE: 6179-1393-8649
+
+CREAM CHEESE 8 OZ                 3.15 F
+FM PLUS CARD SAV                 0.95-  
+   ** MEMBER PRICE APPLIED **
+SMPL TRTH ICE CREAM              14.51 F
+  4.04 lb @ 6.69 /lb
+FM BNLS SKNLS CHKN BRST          27.03 F
+GRND TRKY                         5.19 F
+   ** MEMBER PRICE APPLIED **
+  3.78 lb @ 2.33 /lb
+SMPL TRTH BRUSSELS SPROUTS        8.81 F
+BABY SPNCH 5 OZ                   3.77 F
+CELERY                            4.32 F
+   REG PRICE 380.85
+DICED TOM 14.5 OZ                 1.00 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           66.93
+TAX                                 0.00
+TOTAL                              66.93
+MASTERCARD TEND                    66.93
+CHANGE                              0.00
+
+10/09/26 10:13  ITEMS 8
+T=TAXABLE  F=NONTAXABLE FOOD
+RETURNS WITHIN 90 DAYS
+REWARDS BALANCE           54.62
+SAVE 2.00 ON YOUR NEXT VISIT
+               THANK YOU

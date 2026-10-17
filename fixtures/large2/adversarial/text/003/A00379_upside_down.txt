@@ -1,0 +1,37 @@
+               THANK YOU
+T=TAXABLE  S=NONTAXABLE FOOD
+07/02/26 16:22  ITEMS 19
+
+CHANGE                              0.00
+MASTERCARD TEND                   126.33
+**** TOTAL                        126.33
+TAX 8.625% ON 29.17                 2.52
+SUBTOTAL                          123.81
+
+BAG FEE                           0.25  
+DRGLD UNSLTD BTR                  6.67 S
+J4U DIGITAL CPN                  0.20-  
+SW PEANUT BUTTER                  6.90 S
+SOURDOUGH LOAF                    7.47 S
+O ORGANICS BLACKBERRIES           3.92 S
+CA CRV                            0.05  
+  1 @ 0.05
+SW ORANGE JUICE                   7.69 S
+AVOCADOS BAG 4 CT                 3.54 S
+SALSA JAR                         6.27 S
+  3 @ 2.09
+SIG GREETING CARD                20.34 T
+LUCERNE TLLMK MEDIUM CHDR        11.77 S
+LUCERNE HALF & HALF               5.34 S
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+CROISSANTS 12 CT                  9.74 S
+  2 @ 4.87
+ASPRGS                            2.93 S
+SIG SLCT CRL                      6.63 S
+HALF AND HALF                     5.34 S
+CLUB CARD SAVINGS                0.29-  
+SIG SLCT PREPARED MAC & CHS      10.62 S
+
+             (555) 010-3475
+      Store 1349  San Francisco CA
+                SAFEWAY

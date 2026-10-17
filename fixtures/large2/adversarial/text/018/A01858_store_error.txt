@@ -1,0 +1,22 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3398  Seattle WA
+            MEMBER ************
+
+1145190 KS CHKN DRUMSTICKS            8.97 E
+1293236 KS JASMINE RICE              12.13 E
+1924990 BARILLA PENNE                19.37 E
+278499 AVOCADOS BAG 4 CT             14.16 E
+     4 @ 3.54
+132300 ORG ITALIAN PARSLEY            1.95 E
+335164 DOUBLE CREME BRIE              5.40 E
+
+SUBTOTAL                               61.98
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             62.08
+DEBIT TEND                             62.08
+CHANGE                                  0.00
+
+08/26/26 16:45  ITEMS 9
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

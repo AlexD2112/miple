@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+     Warehouse #2490  San Francisco CA
+            MEMBER ************
+
+1256889 KS RCTT                       8.76 E
+1019274 KS KIWI                       2.45 E
+     1.18 lb @ 2.08 /lb
+1076846 ORG RMN HEARTS 3 CT           3.76 E
+402410 KS ORANGE JUICE                7.69 E
+  1 @ 0.05
+CA CRV                                0.05  
+1310243 GRASS-FED GRND BF 85/15       7.35 E
+1803573 FRZN MIXED BERRIES            2.06 E
+400296 DIJON MUSTARD                  4.92 E
+     2 @ 2.46
+9180034 TPD/DIJON MUSTAR             1.48-  
+972160 KS PAPER PLATES                3.31 A
+549418 KS LIMES                       2.80 E
+1032515 FLOUR TORT                    6.18 E
+124023 CABOT SHRP CHDR 8 OZ           8.48 E
+1278399 GREETING CARD                20.34 A
+1126325 KS ROTIS CHKN                 5.04 A
+951305 KS NAPKINS                    24.05 A
+
+SUBTOTAL                              105.76
+TAX 8.625% ON 52.74                     4.55
+**** TOTAL                            110.31
+AMEX TEND                             110.31
+CHANGE                                  0.00
+
+05/15/26 10:04  ITEMS 15
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

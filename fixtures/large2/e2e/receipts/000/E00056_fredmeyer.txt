@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 3143
+
+SMPL TRTH RIBEYE STEAK           19.87 F
+FM SLTD BTR                       5.73 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+UNSLTD BTR 4 X 1 LB               9.48 F
+BAG FEE                           0.08 T
+  REFUND - ORIG RECEIPT
+RETURN UNSLTD BTR 4 X 1 LB       9.48- F
+
+SUBTOTAL                           34.56
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              34.57
+DEBIT TEND                         34.57
+CHANGE                              0.00
+
+01/01/26 16:44  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

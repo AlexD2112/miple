@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2399  Seattle WA
+            MEMBER ************
+
+1224247 KS ITALIAN SAUSAGE BULK       9.93 E
+9492892 TPD/ITALIAN SAUS             2.50-  
+156919 ITLN PRSLY                     2.93 E
+649081 FOSTER FARMS BNLS SKNLS CHKN  18.79 E
+     2.46 lb @ 7.64 /lb
+1685210 PRSNPS                        8.99 E
+     3.70 lb @ 2.43 /lb
+1942085 BLACK BEANS 15 OZ CAN        10.76 E
+1078509 KS PRPRD MAC & CHS           10.62 E
+7061513 TPD/PRPRD MAC &              2.53-  
+1936169 POTATO CHIPS                  5.07 E
+4224333 TPD/POTATO CHIPS             0.91-  
+1607522 KS GENOA SALAMI               4.76 E
+4123770 TPD/GENOA SALAMI             1.43-  
+
+SUBTOTAL                               64.48
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             64.48
+DEBIT TEND                             64.48
+CHANGE                                  0.00
+
+09/30/26 18:29  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

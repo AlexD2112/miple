@@ -1,0 +1,18 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3049  Seattle WA
+            MEMBER ************
+
+991454 AHI TUNA STEAK                14.71 E
+320291 CHKN DRUMSTICKS                8.97 E
+1485658 KS FRZN WAFFLES               7.05 E
+
+SUBTOTAL                               30.73
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             30.73
+MASTERCARD TEND                        30.73
+CHANGE                                  0.00
+
+02/28/27 15:22  ITEMS 3
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

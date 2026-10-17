@@ -1,0 +1,27 @@
+                SAFEWAY
+         Store 0640  Seattle WA
+             (555) 010-3232
+
+BAGELS                            3.77 S
+J4U DIGITAL CPN                  1.13-  
+SIG KTCHNS APPLE JUICE 64OZ       7.25 S
+BANANA                            2.37 S
+J4U PERSONAL DEAL                0.71-  
+EVERYTHING BUT THE BAGEL SEASONI  7.01 S
+PARMIGIANO REGGIANO WEDGE         8.42 S
+  1.44 lb @ 3.50 /lb
+ENGLISH CUCUMBER                  5.04 S
+O ORGANICS YELLOW ONIN            1.78 S
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           34.04
+TAX 10.55% ON 0.24                  0.03
+**** TOTAL                         34.07
+VISA TEND                          34.07
+CHANGE                              0.00
+
+1/1/30 12:03 AM  286 10 2857 2652
+ITEMS 20   REG 03  TRANS 8956
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

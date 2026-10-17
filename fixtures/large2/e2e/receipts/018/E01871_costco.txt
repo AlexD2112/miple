@@ -1,0 +1,26 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0330  Seattle WA
+            MEMBER ************
+
+1719612 KS QUINOA                     7.75 E
+1809190 CRSSNTS 12 CT                 4.87 E
+525455 LG EGGS 12 CT                  8.69 E
+46177 GRND COFFEE                     9.64 E
+2153541 TPD/GRND COFFEE              2.44-  
+1402950 KS AHI TUNA STEAK            14.71 E
+1964087 FRZN MIXED BERRIES            2.06 E
+1486275 KS PSTR RAISED EGGS           7.37 E
+354112 KS AA BATTERIES 8PK           24.36 A
+  REFUND - ORIG RECEIPT
+RETURN 1809190 CRSSNTS 12 CT         4.87- E
+
+SUBTOTAL                               72.14
+TAX 10.55% ON 24.36                     2.57
+**** TOTAL                             74.71
+MASTERCARD TEND                        74.71
+CHANGE                                  0.00
+
+01/23/26 08:35  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

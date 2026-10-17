@@ -1,0 +1,25 @@
+               FRED MEYER
+               Seattle WA
+               Store 3386
+
+HUY FONG SRIRACHA                 2.55 F
+SMPL TRTH HAMBURGER BUNS          2.77 F
+  2 @ 5.87
+BLUBRY                           11.74 F
+ORG GALA APPLES                   1.57 F
+CHKN GYOZA POTSTICKERS            9.88 F
+EVERYTHING BUT THE BAGEL SEASONI  7.01 F
+SMPL TRTH BLACK BEANS CAN         8.77 F
+FM PLUS CARD SAV                 1.65-  
+  4 @ 3.99
+FM RANCH DRSSNG                  15.96 F
+
+SUBTOTAL                           58.60
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              58.60
+DISCOVER TEND                      58.60
+CHANGE                              0.00
+
+10/06/26 12:55  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

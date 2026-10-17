@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2485  Seattle WA
+            MEMBER ************
+
+786117 CROISSANTS 12 CT              14.61 E
+     3 @ 4.87
+1973644 KS LG BROWN EGGS              4.29 E
+1714781 KS BAGGED CAESAR SALAD KIT    2.21 E
+2993843 TPD/BAGGED CAESA             0.66-  
+1594305 LIGHT BULBS 4PK              17.04 A
+
+SUBTOTAL                               37.49
+TAX 10.55% ON 17.04                     1.80
+**** TOTAL                             39.29
+DEBIT TEND                             39.29
+CHANGE                                  0.00
+
+02/29/28 08:06  ITEMS 6
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

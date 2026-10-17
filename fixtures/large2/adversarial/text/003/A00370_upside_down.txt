@@ -1,0 +1,31 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+04/13/26 12:37  ITEMS 17
+
+CHANGE                              0.00
+DISCOVER TEND                     114.89
+TOTAL                             114.89
+TAX 10.55% ON 36.79                 3.88
+SUBTOTAL                          111.01
+
+BOTTLED WTR 40 PK                 2.45 F
+SMPL TRTH PEACHES                 1.60 F
+  2.36 lb @ 0.68 /lb
+GRSS-FD GRND BF 85/15             7.35 F
+RED GRAPES                        3.04 F
+ORG GALA APPLES                   1.57 F
+KRO CRM CHS                       8.63 F
+JASMINE RICE 25 LB                8.09 F
+ROMA TOM                          9.52 F
+  4 @ 2.38
+CHKN THIGHS                       9.29 F
+KRO SAVINGS                      1.58- T
+KRO ALUMINUM FOIL                18.03 T
+PLAIN NONFAT GRK YGRT             9.30 F
+  2 @ 4.65
+GRTNG CARD                       20.34 T
+KRO PENNE                        13.38 F
+
+               Store 2320
+               Seattle WA
+               FRED MEYER

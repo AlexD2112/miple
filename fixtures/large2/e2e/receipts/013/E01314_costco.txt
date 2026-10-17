@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0276  Seattle WA
+            MEMBER ************
+
+1597380 PLAIN GOAT CHS                5.77 E
+1625287 KS FRZN BROC                  1.72 E
+1167804 KS DIJON MSTRD                7.38 E
+     3 @ 2.46
+492176 KS ICEBERG LETTUCE             5.11 E
+396323 BAGGED CAESAR SALAD KIT        2.21 E
+685182 KS BUTTER LETTUCE              2.45 E
+5694079 TPD/BUTTER LETTU             0.74-  
+
+SUBTOTAL                               23.90
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             23.90
+AMEX TEND                              23.90
+CHANGE                                  0.00
+
+02/14/26 20:44  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

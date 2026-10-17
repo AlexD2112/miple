@@ -1,0 +1,73 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0787  Seattle WA
+            MEMBER ************
+
+1450455 LG EGGS 18 CT                 7.52 E
+3015372 TPD/LG EGGS 18 C             2.26-  
+1319036 WHITE BRD                     6.34 E
+428899 BLACK BEANS 15 OZ CAN         10.76 E
+1885451 KS PORK TENDERLOIN           20.65 E
+     2.14 lb @ 9.65 /lb
+137781 KS BNLS SKNLS CHKN BRST        9.70 E
+     1.45 lb @ 6.69 /lb
+791533 KS CORN TORT                   2.79 E
+1508210 GRASS-FED GROUND BEEF 85/15   7.35 E
+1579318 TPD/GRASS-FED GR             2.20-  
+751081 KS ROMA TOM                    9.52 E
+     4 @ 2.38
+1222924 MSSN FLOUR TORT 40 CT         5.22 E
+1151951 KS ASPARAGUS                  5.86 E
+     2 @ 2.93
+1644927 DELI SLCD TRKY BRST          12.20 E
+     1.11 lb @ 10.99 /lb
+4741492 TPD/DELI SLCD TR             2.03-  
+388792 KS ICEBERG LTTC                5.11 E
+131548 PARMIGIANO REGGIANO WEDGE      8.42 E
+6579285 TPD/PARMIGIANO R             0.53-  
+
+SUBTOTAL                              104.42
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            104.42
+DISCOVER TEND                         104.42
+CHANGE                                  0.00
+
+06/04/26 14:33  ITEMS 17
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU
+           WHOLE FOODS MARKET
+               Seattle WA
+             (555) 020-0131
+
+CHKN DRUMSTICKS                   8.97 F
+DOG TREATS                        6.82 T
+ORG BABY SPNCH                    5.54 F
+PRIME 10% OFF                    1.66-  
+LARGE EGGS 18 CT                  7.52 F
+365 ORG PENNE                    13.38 F
+PRIME 10% OFF                    2.22-  
+ALMNM FOIL                       18.03 T
+365 GINGER ALE 12PK               6.02 T
+PREPARED MAC AND CHEESE          10.62 F
+  0.66 lb @ 1.13 /lb
+RUSSET POTS                       0.75 F
+ORG SPRING MIX 1 LB               5.49 F
+365 BROCCOLI CROWNS               2.25 F
+  2 @ 4.26
+WF DRIED LENTILS                  8.52 F
+FRZN DUMPLINGS                   15.61 F
+ORGANIC BASIL CLAMSHELL           1.49 F
+PRIME 10% OFF                    0.45-  
+365 CHERRIES                      5.69 F
+  1.16 lb @ 14.17 /lb
+BLACK FOREST HAM                 16.44 F
+
+SUBTOTAL                          128.81
+TAX 10.55% ON 30.87                 3.26
+TOTAL                             132.07
+DISCOVER TEND                     132.07
+CHANGE                              0.00
+
+05/06/26 14:07  ITEMS 17
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 3118
+
+DIJON MUSTARD                     2.46 F
+GREEK YOGURT 48 OZ                1.97 F
+ROMA TOM                          2.38 F
+PLAIN GOAT CHS                    5.77 F
+FM DELI FRIED CHKN               11.75 T
+BRLL PENNE                       19.37 F
+  0.72 lb @ 14.17 /lb
+FM BLACK FOREST HAM              10.20 F
+FM PLUS CARD SAV                 0.28-  
+CAULIFLOWER GNCCH                 7.85 F
+SWEET POTS                        3.28 F
+  0.30 lb @ 3.34 /lb
+HASS AVCD LG                      1.00 F
+KRO ALUMINUM FOIL                18.03 T
+CARROTS 2 LB                      1.74 F
+FM DIET COLA 12PK CANS            4.42 T
+  0.62 lb @ 13.18 /lb
+SMPL TRTH SLICED TURKEY BREAST    8.17 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           98.19
+TAX 10.55% ON 34.28                 3.62
+TOTAL                             101.81
+MASTERCARD TEND                   101.81
+CHANGE                              0.00
+
+12/31/26 08:45  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2042
+
+PRIV SEL PASTURE RAISED EGGS      7.37 F
+SMPL TRTH YELLOW ONIONS           1.78 F
+  2 @ 2.29
+SMPL TRTH SILKEN TOFU             4.58 F
+DIGITAL CPN                      1.37-  
+SMPL TRTH GREEN ONIN BUNCH        2.59 F
+CREAM CHEESE 8 OZ                 3.15 F
+SMPL TRTH SOY SCE                 6.79 F
+WHITE BRD                         6.34 F
+SMPL TRTH GRND TRKY               5.19 F
+MFR CPN                          1.56-  
+
+SUBTOTAL                           34.86
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              34.86
+AMEX TEND                          34.86
+CHANGE                              0.00
+
+2028-01-06 12:12:52  3541 03 784 4
+ITEMS 16   REG 10  TRANS 4288
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

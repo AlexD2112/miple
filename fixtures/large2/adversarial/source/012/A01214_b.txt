@@ -1,0 +1,32 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3333  Seattle WA
+            MEMBER ************
+
+1980496 LAUNDRY DETERGENT PODS       20.18 A
+112572 KS UNSLTD BTR                  9.95 E
+904329 PLASTIC WRAP                   4.77 A
+913913 CROISSANTS 12 CT               9.74 E
+     2 @ 4.87
+1788752 JENNIE-O GRND TRKY 1 LB       6.60 E
+7853728 TPD/JENNIE-O GRN             0.87-  
+222005 KS BLUBRY                      5.87 E
+824461 STRAWBERRIES                   4.35 E
+1996079 KS COCONUT MLK CAN            7.66 E
+     2 @ 3.83
+656374 ORG BABY SPNCH                11.08 E
+     2 @ 5.54
+165902 ORG BLACK BEANS 8 CANS         4.60 E
+     4 @ 1.15
+1900941 DOUBLE CREME BRIE             5.40 E
+1179646 BIBIGO PORK MANDU DUMPLINGS  10.32 E
+
+SUBTOTAL                               99.65
+TAX 10.55% ON 24.95                     2.63
+**** TOTAL                            102.28
+DEBIT TEND                            102.28
+CHANGE                                  0.00
+
+03/05/26 09:13  ITEMS 18
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

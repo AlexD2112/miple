@@ -1,0 +1,19 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2008
+
+  REFUND - ORIG RECEIPT
+RETURN FRZN BROC FLRTS           8.13- F
+RETURN GRND BF 88/12            20.40- F
+RETURN KRO SLCD TRKY BRST       17.53- F
+RETURN PRIV SEL GRND TRKY        5.19- F
+
+SUBTOTAL                          51.25-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             51.25-
+MASTERCARD TEND                   51.25-
+CHANGE                              0.00
+
+03/06/26 07:48  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,22 @@
+                 TARGET
+           Seattle WA  T-0177
+             (555) 030-9729
+
+BRIE                              4.85 F
+UP&UP NPKNS                      24.05 T
+  2 @ 4.43
+GG COLD BREW COFFEE 32OZ          8.86 F
+  2 @ 1.74
+STRAUS PLAIN GRK YGRT             3.48 F
+GG SLTD BTR                       5.73 F
+ORG GALA APPLES                   1.57 F
+
+SUBTOTAL                           48.54
+TAX 10.55% ON 24.05                 2.54
+TOTAL                              51.08
+VISA TEND                          51.08
+CHANGE                              0.00
+
+01/09/26 15:51  ITEMS 8
+T=TAXABLE  F=FOOD
+               THANK YOU

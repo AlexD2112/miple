@@ -1,0 +1,23 @@
+               FRED MEYER
+               Seattle WA
+               Store 0593
+
+  0.58 lb @ 10.99 /lb
+DELI SLCD TRKY BRST               6.37 F
+  2 @ 5.54
+ORG BABY SPNCH                   11.08 F
+SLTD BTR 4 STICKS                 9.37 F
+FM SOURDOUGH LOAF                 7.47 F
+  2 @ 1.95
+ORG ITALIAN PARSLEY               3.90 F
+
+SUBTOTAL                           38.19
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              38.19
+MASTERCARD TEND                    38.19
+CHANGE                              0.00
+
+07-27-29 16:34:13  3423 37 697 6
+ITEMS 19   REG 02  TRANS 5625
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

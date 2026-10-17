@@ -1,0 +1,43 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0596  Seattle WA
+            MEMBER ************
+
+1218243 KS GALA APPLES                6.60 E
+     2.87 lb @ 2.30 /lb
+1426017 KS ASPRGS                    11.72 E
+     4 @ 2.93
+1127769 KS LAMB CHOPS                33.80 E
+     1.98 lb @ 17.07 /lb
+479170 KS SPAGHETTI                   9.54 E
+1470082 KS PNT BTR                    6.90 E
+781431 KS COLD BREW COFFEE 32OZ       4.43 E
+836271 KS ICE CRM                    14.51 E
+3549003 TPD/ICE CRM                  1.20-  
+236765 KS SRDGH LOAF                  7.47 E
+688215 LACROIX LIME SPRKLG WTR 8 PK   6.60 E
+     3 @ 2.20
+1236998 KS GREEN ONIN BUNCH           2.59 E
+597856 KS TOOTHPASTE                 16.40 A
+1371702 KS DAVES KILLER BRD           6.69 E
+1446117 BLACK FOREST HAM 9 OZ         7.00 E
+5231077 TPD/BLACK FOREST             2.10-  
+1937881 GRK YGRT PLAIN                8.22 E
+     2 @ 4.11
+1163106 BNLS RIBEYE STEAK            31.28 E
+     2.01 lb @ 15.56 /lb
+301259 PARMIGIANO REGGIANO            7.82 E
+1907405 LEMONADE 52OZ                 5.79 A
+217998 KS BRIE                        4.85 E
+1384613 KS CHKN BROTH CARTON          8.38 E
+111659 ORG BABY SPNCH 5 OZ            5.85 E
+
+SUBTOTAL                              203.14
+TAX 10.55% ON 22.19                     2.34
+**** TOTAL                            205.48
+VISA TEND                             205.48
+CHANGE                                  0.00
+
+07/01/26 07:01  ITEMS 26
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

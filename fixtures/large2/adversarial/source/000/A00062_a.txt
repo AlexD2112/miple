@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0877  Portland OR
+            MEMBER ************
+
+59937 KS PINEAPPLE                    2.15 E
+     1.72 lb @ 1.25 /lb
+4491707 TPD/PINEAPPLE                0.64-  
+1680429 DARIGOLD UNSLTD BTR           6.67 E
+996914 KS CHICKEN DRUMSTICKS          8.97 E
+1584026 ORG GALA APPLES               1.57 E
+121712 KS BNNS                       11.25 E
+     3.88 lb @ 2.90 /lb
+0487900 TPD/BNNS                     1.18-  
+593251 BLACKBERRIES                   3.92 E
+1928632 LG EGGS 18 CT                 7.52 E
+7183638 TPD/LG EGGS 18 C             2.26-  
+41318 DARIGOLD UNSLTD BTR             6.67 E
+948497 BTR LTTC                       2.45 E
+334835 UNSALTED BUTTER                9.95 E
+476929 SHREDDED MOZZ 8 OZ             2.92 E
+1923520 KS GREEN BEANS                2.31 E
+1670823 NAVEL ORANGES                 2.02 E
+     2 @ 1.01
+151344 CELERY                        17.28 E
+     4 @ 4.32
+1992272 PLAIN GOAT CHS                5.77 E
+1149706 KS AHI TUNA STEAK            14.71 E
+1616432 KS GRND BF 80/20              6.57 E
+1389941 BNLS RIBEYE STEAK            57.11 E
+     3.67 lb @ 15.56 /lb
+
+SUBTOTAL                              165.73
+TAX                                     0.00
+**** TOTAL                            165.73
+DISCOVER TEND                         165.73
+CHANGE                                  0.00
+
+07/25/26 10:26  ITEMS 22
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

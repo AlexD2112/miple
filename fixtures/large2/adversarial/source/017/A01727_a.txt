@@ -1,0 +1,41 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1865  Seattle WA
+            MEMBER ************
+TAX EXEMPT ID ******8125
+
+1451644 KS ITALIAN SAUSAGE BULK       9.93 E
+1423300 KS PLASTIC WRAP               4.77 A
+1811863 BIBIGO PORK MANDU DUMPLINGS  10.32 E
+139974 KS BLUBRY                     23.48 E
+     4 @ 5.87
+952453 LEMONS                        12.57 E
+     3 @ 4.19
+886149 PAPER TOWELS 6 ROLL            3.75 A
+1148706 KS BLACK FOREST HAM           8.08 E
+     0.57 lb @ 14.17 /lb
+1825363 KS ORANGE JUICE               7.69 E
+1264648 TPD/ORANGE JUICE             0.89-  
+714974 KS PORK CHOPS                 12.99 E
+     1.17 lb @ 11.10 /lb
+9553369 TPD/PORK CHOPS               2.83-  
+1557790 WHITE BRD                     6.34 E
+1572316 YUKON GOLD POTATOES           3.99 E
+336038 JALAPENO                       0.72 E
+     0.45 lb @ 1.60 /lb
+136113 KS FRESH MOZZ                  8.65 E
+1313120 FRZN PIZZA                   13.30 E
+22530 KS YUKON GOLD POTS              3.99 E
+1978408 KS FLOUR TORT                 6.18 E
+489776 ORG EGGS 24 CT                 7.83 E
+841870 KS BOTTLED WTR 24PK            9.32 E
+
+SUBTOTAL                              150.18
+TAX EXEMPT                              0.00
+**** TOTAL                            150.18
+DISCOVER TEND                         150.18
+CHANGE                                  0.00
+
+05/16/26 19:04  ITEMS 23
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

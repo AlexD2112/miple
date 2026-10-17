@@ -1,0 +1,23 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 2798
+
+  3 @ 1.27
+PRIV SEL KEFIR                    3.81 F
+  4 @ 4.43
+KRO COLD BREW COFFEE 32OZ        17.72 F
+BLUBRY 18 OZ                      4.61 F
+SMPL TRTH PARMIGIANO REGGIANO     7.82 F
+SOY SCE                           6.79 F
+  2 @ 2.77
+HAMBURGER BUNS                    5.54 F
+
+SUBTOTAL                           46.29
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              46.29
+DISCOVER TEND                      46.29
+CHANGE                              0.00
+
+02/28/28 10:10  ITEMS 12
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,19 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2906  Seattle WA
+            MEMBER ************
+
+  REFUND - ORIG RECEIPT
+RETURN 1632188 ASPARAGUS             8.79- E
+RETURN 1338969 SPARKLING WATER 8PK   5.13- E
+RETURN 544178 KS GREEN BEANS         2.31- E
+
+SUBTOTAL                              16.23-
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                            16.23-
+AMEX TEND                             16.23-
+CHANGE                                  0.00
+
+08/15/26 19:49  ITEMS 0
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #0716  Seattle WA
+            MEMBER ************
+
+1830824 KS ENGLSH CCMBR               9.17 E
+     2.62 lb @ 3.50 /lb
+708393 DARK CHOC PNT BTR CUPS        22.44 E
+     4 @ 5.61
+1373690 DELI SLCD TRKY BRST           6.15 E
+     0.56 lb @ 10.99 /lb
+3490674 TPD/DELI SLCD TR             1.85-  
+1957315 RDCD FAT 2% MLK GALLON        6.54 E
+1312050 STRAUS PLAIN GRK YGRT         1.74 E
+648906 ORG BASIL CLMSHLL              2.98 E
+     2 @ 1.49
+406519 CHOBANI PLAIN GRK YGRT 32 OZ   1.47 E
+1202387 MISSION FLOUR TORTILLAS 40 C  5.22 E
+534444 CHICKEN GYOZA POTSTICKERS      9.88 E
+947420 KS ASPARAGUS                   2.93 E
+
+SUBTOTAL                               66.67
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             66.67
+DEBIT TEND                             66.67
+CHANGE                                  0.00
+
+03/02/26 10:31  ITEMS 14
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

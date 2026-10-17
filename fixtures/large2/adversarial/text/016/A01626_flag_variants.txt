@@ -1,0 +1,29 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1377  Seattle WA
+            MEMBER ************
+
+1608920 APPLE JUICE 64OZ              7.25 E
+545825 ORG ROMAINE HEARTS 3 CT        3.76 E
+1230179 AA BATTERIES 8PK             24.36 A
+1278325 KIWI                          4.58 E
+     2.20 lb @ 2.08 /lb
+707979 UNSALTED BUTTER                9.95 E
+93917 CRSSNTS 12 CT                   4.87 E
+878483 LAMB CHOPS                    60.26 E
+     3.53 lb @ 17.07 /lb
+1503798 HASS AVOCADO LG               3.64 E
+     1.09 lb @ 3.34 /lb
+1862256 WHITE SANDWICH BRD            7.03 E
+779997 KS RED GRAPES                 12.16 E
+     4 @ 3.04
+
+SUBTOTAL                              137.86
+TAX 10.55% ON 24.36                     2.57
+**** TOTAL                            140.43
+DEBIT TEND                            140.43
+CHANGE                                  0.00
+
+05/20/26 07:07  ITEMS 13
+A=TAXABLE  E=EXEMPT
+                 THANK YOU

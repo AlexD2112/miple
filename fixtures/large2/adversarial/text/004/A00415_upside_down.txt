@@ -1,0 +1,28 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+01/16/26 14:12  ITEMS 12
+
+CHANGE                              3.72
+CASH TEND                          60.00
+TOTAL                              56.28
+TAX 10.55% ON 8.07                  0.85
+SUBTOTAL                           55.43
+
+BAG FEE                           0.16 T
+  2 @ 0.08
+KRO CAGE FREE EGGS 18CT           6.85 F
+ORGANIC TOMATO BASIL MARINARA    17.82 F
+  3 @ 5.94
+GREEN ONIN BUNCH                  5.18 F
+  2 @ 2.59
+DIGITAL CPN                      0.92- T
+HOT BAR PRPRD FOOD BY WEIGHT      8.83 T
+LEMONS                            4.19 F
+LACROIX LIME SPRKLG WTR 8 PK      4.40 F
+  2 @ 2.20
+ORG CRRTS BUNCH                   4.63 F
+FM LG BROWN EGGS                  4.29 F
+
+               Store 0500
+               Seattle WA
+               FRED MEYER

@@ -1,0 +1,21 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2676  Seattle WA
+            MEMBER ************
+
+682581 2% MLK HALF GALLON             6.08 E
+928745 CELERY                         8.64 E
+     2 @ 4.32
+1502019 KS ASPARAGUS                  2.93 E
+7214385 TPD/ASPARAGUS                0.50-  
+1974326 KS CREMINI MUSHROOMS          1.14 E
+
+SUBTOTAL                               18.29
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             18.29
+DEBIT TEND                             18.29
+CHANGE                                  0.00
+
+10/17/26 08:08  ITEMS 5
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

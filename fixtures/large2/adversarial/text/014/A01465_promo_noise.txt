@@ -1,0 +1,41 @@
+                SAFEWAY
+         Store 2646  Seattle WA
+             (555) 010-9315
+REG 12 TRN 7937 OPR 688
+
+SIG SLCT GINGER ALE 12PK          6.02 T
+   ** MEMBER PRICE APPLIED **
+CROISSANTS 12 CT                  4.87 S
+  4.00 lb @ 1.25 /lb
+O ORGANICS PNPPL                  5.00 S
+BLACK BEANS 15 OZ CAN            10.76 S
+CHKN GYOZA POTSTICKERS            9.88 S
+PLAIN GOAT CHS                    5.77 S
+SIG KTCHNS SRIRACHA               3.16 S
+SIG SLCT TUNA CAN                 1.08 S
+  3.84 lb @ 9.65 /lb
+PORK TNDRLN                      37.06 S
+  3 @ 3.98
+SIG KTCHNS ROLLED OATS           11.94 S
+  4 @ 2.54
+SIG KTCHNS WHOLE WHEAT SANDWICH  10.16 S
+   REG PRICE 65.29
+  2 @ 5.73
+DIGIORNO RISING CRUST PEPPERONI  11.46 S
+J4U PERSONAL DEAL                1.72-  
+EVERYTHING BUT THE BAGEL SEASONI  7.01 S
+J4U PERSONAL DEAL                2.10-  
+CELERY HEARTS                     4.34 S
+   ** MEMBER PRICE APPLIED **
+
+SUBTOTAL                          124.69
+TAX 10.55% ON 6.02                  0.64
+**** TOTAL                        125.33
+VISA TEND                         125.33
+CHANGE                              0.00
+
+01/08/26 15:13  ITEMS 20
+T=TAXABLE  S=NONTAXABLE FOOD
+AUTH CODE  261114
+FUEL POINTS THIS ORDER        309
+               THANK YOU

@@ -1,0 +1,18 @@
+               FRED MEYER
+              Portland OR
+               Store 2755
+
+SMPL TRTH CHERRY TOM              1.15 F
+SMPL TRTH BAGGED CAESAR SALAD KI  2.21 F
+  3 @ 0.05
+BAG FEE                           0.15  
+
+SUBTOTAL                            3.51
+TAX                                 0.00
+TOTAL                               3.51
+DEBIT TEND                          3.51
+CHANGE                              0.00
+
+07/07/26 09:43  ITEMS 2
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3649  Seattle WA
+            MEMBER ************
+
+1456931 KS CHERRY TOM                 1.15 E
+1333520 PORK TENDERLOIN              10.42 E
+     1.08 lb @ 9.65 /lb
+114559 KS LEMONS                     12.57 E
+     3 @ 4.19
+727559 GINGER ALE 12PK                6.02 A
+565227 KS ARGL                       12.00 E
+     3 @ 4.00
+1491531 GRND CHKN                    20.14 E
+     3.98 lb @ 5.06 /lb
+3360234 TPD/GRND CHKN                0.94-  
+744033 KS RICOTTA                     8.76 E
+2030306 TPD/RICOTTA                  2.41-  
+1800568 PRSNPS                        5.22 E
+     2.15 lb @ 2.43 /lb
+
+SUBTOTAL                               72.93
+TAX 10.55% ON 6.02                      0.64
+**** TOTAL                             73.57
+MASTERCARD TEND                        73.57
+CHANGE                                  0.00
+
+10/03/26 17:46  ITEMS 12
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

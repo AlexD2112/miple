@@ -1,0 +1,18 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+07/29/26 16:01  ITEMS 4
+
+CHANGE                              0.00
+DISCOVER TEND                      20.21
+TOTAL                              20.21
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                           20.21
+
+365 SPRING MIX                   10.88 F
+  2 @ 5.44
+2% MLK 2 X 1 GAL                  4.70 F
+ORG CARROTS BUNCH                 4.63 F
+
+             (555) 020-7017
+               Seattle WA
+           WHOLE FOODS MARKET

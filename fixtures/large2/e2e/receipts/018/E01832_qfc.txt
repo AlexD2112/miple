@@ -1,0 +1,35 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0354
+
+  1.03 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             2.37 F
+RED GRAPES                        3.04 F
+DOG TREATS                        6.82 T
+PRIV SEL JASMINE RICE            12.13 F
+  1.31 lb @ 1.13 /lb
+SMPL TRTH RUSSET POTS             1.48 F
+  3.09 lb @ 1.79 /lb
+SMPL TRTH BEETS                   5.53 F
+MFR CPN                          1.66-  
+CHKN DRUMSTICKS                   8.97 F
+SWISS CHARD                       2.87 F
+MFR CPN                          0.86-  
+  3 @ 2.02
+CILANTRO BUNCH                    6.06 F
+KRO CORN TORT                     2.79 F
+KRO DISH SOAP                    19.39 T
+PRIV SEL WHL MLK HALF GALLON      6.79 F
+KRO WHL MLK HALF GALLON           6.79 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           82.67
+TAX 10.55% ON 26.37                 2.78
+TOTAL                              85.45
+CASH TEND                         100.00
+CHANGE                             14.55
+
+06/13/26 16:24  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

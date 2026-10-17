@@ -1,0 +1,28 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1280
+
+SMPL TRTH CELERY                  4.32 F
+KRO SALTED BUTTER                 5.73 F
+  1.77 lb @ 2.30 /lb
+GALA APPLES                       4.07 F
+  3 @ 2.61
+ORG SPROUTED TOFU                 7.83 F
+KRO SHMP                         17.57 T
+LEMONS                            4.19 F
+  4 @ 1.15
+SMPL TRTH CHERRY TOMATOES         4.60 F
+JASMINE RICE 25 LB                8.09 F
+SMPL TRTH MAYONNAISE              6.36 F
+MFR CPN                          1.64-  
+ORG BASIL CLMSHLL                 1.49 F
+
+SUBTOTAL                           62.61
+TAX 10.55% ON 17.57                 1.85
+TOTAL                              64.46
+DEBIT TEND                         64.46
+CHANGE                              0.00
+
+12/31/26 16:20  ITEMS 15
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

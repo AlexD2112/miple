@@ -1,0 +1,40 @@
+               FRED MEYER
+              Portland OR
+               Store 3338
+
+CRRTS 2 LB                        1.74 F
+FM HALF AND HALF                  5.34 F
+LIMES                             2.80 F
+ORIGINAL HUMMUS 10 OZ             8.88 F
+SMPL TRTH ITALIAN SAUSAGE BULK    9.93 F
+FM KERRYGOLD BTR                 10.81 F
+  3 @ 5.22
+STRWB 1 LB                       15.66 F
+KRO ROTISSERIE CHICKEN            5.04 F
+SHREDDED MOZZARELLA 8 OZ          2.92 F
+  5.78 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 25.09 F
+FLOUR TORT 10 CT                  2.35 F
+  4.89 lb @ 5.06 /lb
+GRND CHKN                        24.74 F
+KRO QUINOA                        7.75 F
+KRO RIBEYE STEAK                 19.87 F
+DIGITAL CPN                      1.11-  
+KRO SPONGES 3PK                   9.54 F
+TILLAMOOK ICE CRM 48 OZ           8.88 F
+FM PLUS CARD SAV                 1.36-  
+  2.87 lb @ 6.33 /lb
+SMPL TRTH WHL CHKN               18.17 F
+WHITE SNDWCH BRD                  7.03 F
+CABOT SHARP CHEDDAR 8 OZ          8.48 F
+UNSLTD BTR                        9.95 F
+
+SUBTOTAL                          202.50
+TAX                                 0.00
+TOTAL                             202.50
+DEBIT TEND                        202.50
+CHANGE                              0.00
+
+12/31/26 10:17  ITEMS 22
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

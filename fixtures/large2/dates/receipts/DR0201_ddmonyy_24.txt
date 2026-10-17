@@ -1,0 +1,23 @@
+                 TARGET
+           Seattle WA  T-3178
+             (555) 030-7586
+
+CROISSANTS 12 CT                  4.87 N
+GG CRKRS                          2.00 N
+  3 @ 4.78
+DAVES KILLER BREAD 21 WHOLE GRA  14.34 N
+GG WHL MLK HALF GALLON            6.79 N
+HOUSE FOODS EXTRA FIRM TOFU       2.78 N
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           31.02
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              31.05
+DEBIT TEND                         31.05
+CHANGE                              0.00
+
+03-DEC-26 15:34
+ITEMS 28   REG 05  TRANS 7675
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

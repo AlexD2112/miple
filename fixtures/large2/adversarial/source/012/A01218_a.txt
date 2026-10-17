@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 1899
+
+STRAWBERRIES 2 LB                 5.88 F
+  0.84 lb @ 0.76 /lb
+SMPL TRTH MANGO                   0.64 F
+ORG EGGS 24 CT                    7.83 F
+  3.57 lb @ 4.34 /lb
+BNLS CHKN THIGHS                 15.49 F
+KRO SAVINGS                      2.01-  
+HONEYCRISP APPLES                 4.67 F
+
+SUBTOTAL                           32.50
+TAX                                 0.00
+TOTAL                              32.50
+DEBIT TEND                         32.50
+CHANGE                              0.00
+
+05/02/26 08:00  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

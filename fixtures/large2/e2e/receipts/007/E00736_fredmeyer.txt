@@ -1,0 +1,23 @@
+               FRED MEYER
+              Portland OR
+               Store 2817
+
+ARGL                              4.00 F
+FM QUINOA                         7.75 F
+DRIED LENTILS                     4.26 F
+SHREDDED MOZZARELLA 8 OZ          2.92 F
+  2 @ 4.78
+DAVES KILLER BRD 21 WHL GRAINS    9.56 F
+MFR CPN                          1.86-  
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           26.73
+TAX                                 0.00
+TOTAL                              26.73
+CASH TEND                          40.00
+CHANGE                             13.27
+
+02/28/28 14:08  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

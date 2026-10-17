@@ -1,0 +1,19 @@
+                 TARGET
+        San Francisco CA  T-2931
+             (555) 030-2151
+
+CEREAL                            6.63 N
+  3.74 lb @ 1.13 /lb
+GG RUSSET POTS                    4.23 N
+BABY CARROTS                      2.49 N
+MAYONNAISE 30 OZ                  6.42 N
+
+SUBTOTAL                           19.77
+TAX 8.625% ON 0.00                  0.00
+TOTAL                              19.77
+VISA TEND                          19.77
+CHANGE                              0.00
+
+06/22/26 11:55  ITEMS 4
+T=TAXABLE  N=NONTAXABLE FOOD
+               THANK YOU

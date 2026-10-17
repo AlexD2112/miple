@@ -1,0 +1,17 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 0107
+
+HEINZ KETCHUP 32 OZ               4.48 F
+PLSTC WRAP                        4.77 T
+PRIV SEL BLACK BEANS CAN          8.77 F
+
+SUBTOTAL                           18.02
+TAX 10.55% ON 4.77                  0.50
+TOTAL                              18.52
+MASTERCARD TEND                    18.52
+CHANGE                              0.00
+
+08/18/26 17:43  ITEMS 3
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

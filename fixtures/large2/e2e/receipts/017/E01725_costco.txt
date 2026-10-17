@@ -1,0 +1,23 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3811  Seattle WA
+            MEMBER ************
+
+88661 KS RICOTTA                      8.76 E
+1910630 DARK CHOCOLATE PEANUT BUTTE  11.22 E
+     2 @ 5.61
+628846 STRWB 2 LB                     5.88 E
+929850 KS BARTLETT PEARS              3.00 E
+1275890 KS PARMIGIANO REGGIANO        7.82 E
+1016250 AHI TUNA STEAK               14.71 E
+4111566 TPD/AHI TUNA STE             0.56-  
+
+SUBTOTAL                               50.83
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             50.83
+MASTERCARD TEND                        50.83
+CHANGE                                  0.00
+
+04/13/26 19:08  ITEMS 7
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

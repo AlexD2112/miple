@@ -1,0 +1,18 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 3008
+
+  REFUND - ORIG RECEIPT
+RETURN JALAPENO                  4.18- F
+  REFUND - ORIG RECEIPT
+RETURN SMPL TRTH CHKN BROTH CAR  8.38- F
+
+SUBTOTAL                          12.56-
+TAX 10.55% ON 0.00                  0.00
+TOTAL                             12.56-
+MASTERCARD TEND                   12.56-
+CHANGE                              0.00
+
+08/30/26 13:35  ITEMS 0
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

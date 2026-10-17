@@ -1,0 +1,34 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #3401  Seattle WA
+            MEMBER ************
+
+1139091 KS CAT LITTER                14.03 A
+1444799 YUKON GOLD POTATOES           3.99 E
+1702680 KS EXTRA FIRM TOFU            2.32 E
+559768 LACROIX LIME SPARKLING WATER   6.60 E
+     3 @ 2.20
+1411129 KS APPLE JUICE 64OZ           7.25 E
+419482 CAULIFLOWER GNOCCHI            7.85 E
+360416 BATH TISSUE 12 ROLL           23.08 A
+1303899 KS ICE CRM                   14.51 E
+1400252 KS SOURDOUGH LOAF             7.47 E
+250466 STRWB                         17.40 E
+     4 @ 4.35
+217584 DIGIORNO RISING CRUST PEPPER  11.46 E
+     2 @ 5.73
+418954 KS BLACK BEANS CAN             8.77 E
+1119845 ORANGE JUICE 52OZ             9.39 E
+1712837 MANDARIN ORANGE CHKN         15.87 E
+781525 BROC CROWNS                    9.00 E
+     4 @ 2.25
+
+SUBTOTAL                              158.99
+TAX 10.55% ON 37.11                     3.92
+**** TOTAL                            162.91
+AMEX TEND                             162.91
+CHANGE                                  0.00
+
+05/16/26 07:10  ITEMS 24
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

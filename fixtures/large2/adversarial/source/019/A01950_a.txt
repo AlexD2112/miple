@@ -1,0 +1,34 @@
+               FRED MEYER
+               Seattle WA
+               Store 2966
+
+CHICKEN BROTH 32 OZ               2.81 F
+DIGITAL CPN                      0.84-  
+FM SPAGHETTI                      9.54 F
+  2 @ 4.42
+FM DIET COLA 12PK CANS            8.84 T
+HEINZ KETCHUP 32 OZ               4.48 F
+KRO SAVINGS                      1.34-  
+BOTTLED WATER 40 PK               2.45 F
+WILD COD FLLT                    18.56 F
+  2 @ 2.61
+ORGANIC SPROUTED TOFU             5.22 F
+KRO SAVINGS                      1.26-  
+SMPL TRTH SWISS CHARD             2.87 F
+KRO SAVINGS                      0.25-  
+SMPL TRTH PENNE                  13.38 F
+TILLAMOOK VAN YGRT                4.05 F
+SMPL TRTH ARUGULA                 4.00 F
+SPRKLG WTR                        3.74 F
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           76.41
+TAX 10.55% ON 9.00                  0.93
+TOTAL                              77.34
+DISCOVER TEND                      77.34
+CHANGE                              0.00
+
+04/08/26 17:18  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

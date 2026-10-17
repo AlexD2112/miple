@@ -1,0 +1,21 @@
+                SAFEWAY
+         Store 2975  Seattle WA
+             (555) 010-8157
+
+  2 @ 4.78
+DAVES KILLER BREAD 21 WHOLE GRAI  9.56 E
+  3 @ 4.58
+SIG KTCHNS KOMBUCHA 16OZ         13.74 E
+SIG LNDRY DETERGENT PODS         20.18 A
+  3 @ 0.08
+BAG FEE                           0.24 A
+
+SUBTOTAL                           43.72
+TAX 10.55% ON 20.42                 2.15
+**** TOTAL                         45.87
+DEBIT TEND                         45.87
+CHANGE                              0.00
+
+06/03/26 20:22  ITEMS 6
+A=TAXABLE  E=EXEMPT
+               THANK YOU

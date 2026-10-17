@@ -1,0 +1,28 @@
+               FRED MEYER
+               Seattle WA
+               Store 1537
+OPEN 6AM - 12AM
+
+ICEBERG LTTC                      5.11 F
+   REG PRICE 312.45
+HOT BAR PREPARED FOOD BY WEIGHT   8.83 T
+SMPL TRTH GRND COFFEE             9.64 F
+   ** MEMBER PRICE APPLIED **
+SALTED BUTTER 4 STICKS            9.37 F
+   REG PRICE 116.05
+  2 @ 0.08
+BAG FEE                           0.16 T
+
+SUBTOTAL                           33.11
+TAX 10.55% ON 8.99                  0.95
+TOTAL                              34.06
+MASTERCARD TEND                    34.06
+CHANGE                              0.00
+
+05/09/26 10:17  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+TOTAL SAVINGS THIS YEAR   45.50
+SURVEY CODE 3606 3001 6937
+SAVE 2.00 ON YOUR NEXT VISIT
+FUEL POINTS THIS ORDER        318
+               THANK YOU

@@ -1,0 +1,20 @@
+               FRED MEYER
+              Portland OR
+               Store 2084
+
+KRO SALSA JAR                     2.09 F
+HAMBURGER BUNS                    2.77 F
+FM VANILLA YOGURT CUPS            5.39 F
+JENNIE-O GROUND TURKEY 1 LB       6.60 F
+  2.72 lb @ 18.16 /lb
+FM COD FLLT                      49.40 F
+
+SUBTOTAL                           66.25
+TAX                                 0.00
+TOTAL                              66.25
+DISCOVER TEND                      66.25
+CHANGE                              0.00
+
+04/23/26 11:04  ITEMS 5
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

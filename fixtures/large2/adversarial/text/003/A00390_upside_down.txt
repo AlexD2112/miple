@@ -1,0 +1,19 @@
+               THANK YOU
+T=TAXABLE  F=NONTAXABLE FOOD
+03/02/26 20:52  ITEMS 4
+
+CHANGE                              0.00
+MASTERCARD TEND                    53.47
+TOTAL                              53.47
+TAX 10.55% ON 0.00                  0.00
+SUBTOTAL                           53.47
+
+SMPL TRTH BARTLETT PEARS          3.00 F
+SMPL TRTH SPAGHETTI               9.54 F
+KRO ALL PURPOSE FLOUR            11.36 F
+SMPL TRTH TRKY BRST              29.57 F
+  4.17 lb @ 7.09 /lb
+
+               Store 1781
+               Seattle WA
+               FRED MEYER

@@ -1,0 +1,25 @@
+                SAFEWAY
+         Store 2052  Seattle WA
+             (555) 010-6326
+
+SIG SLCT GRNLA BRS                6.07 S
+CILANTRO                          1.16 S
+LUCERNE WHL MLK HALF GALLON       6.79 S
+  3.89 lb @ 2.43 /lb
+PARSNIPS                          9.45 S
+ALUMINUM FOIL                    18.03 T
+J4U DIGITAL CPN                  2.67- T
+KEFIR                             1.27 S
+ORG CARROTS BUNCH                 4.63 S
+SIG TOOTHPASTE                   16.40 T
+BAG FEE                           0.08 T
+
+SUBTOTAL                           61.21
+TAX 10.55% ON 31.84                 3.36
+**** TOTAL                         64.57
+DEBIT TEND                         64.57
+CHANGE                              0.00
+
+04/28/26 15:54  ITEMS 8
+T=TAXABLE  S=NONTAXABLE FOOD
+               THANK YOU

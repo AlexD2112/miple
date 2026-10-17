@@ -1,0 +1,26 @@
+               FRED MEYER
+               Seattle WA
+               Store 2578
+
+SMPL TRTH YUKON GOLD POTATOES     3.99 F
+  2 @ 5.13
+SPRKLG WTR 8PK                   10.26 F
+CARROTS 2 LB                      1.74 F
+  2 @ 2.59
+SMPL TRTH GREEN ONIN BUNCH        5.18 F
+SMPL TRTH COLA 12PK               1.83 T
+  2 @ 5.49
+ORG SPRING MIX 1 LB              10.98 F
+FM GOAT CHEESE                    8.35 F
+CRL                               6.63 F
+KRO SAVINGS                      1.00-  
+
+SUBTOTAL                           47.96
+TAX 10.55% ON 1.83                  0.19
+TOTAL                              48.15
+VISA TEND                          48.15
+CHANGE                              0.00
+
+03/10/26 13:23  ITEMS 11
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

@@ -1,0 +1,38 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #2604  Seattle WA
+            MEMBER ************
+
+105379 KS RDSHS                       1.55 E
+     1.48 lb @ 1.05 /lb
+3802689 TPD/RDSHS                    0.46-  
+1508077 KS BRIE                       4.85 E
+1600314 KS BEETS                      3.69 E
+     2.06 lb @ 1.79 /lb
+491838 EXTRA FIRM TOFU                6.96 E
+     3 @ 2.32
+176079 KS PLSTC WRAP                  4.77 A
+1048838 KS ITLN SAUSAGE BULK          9.93 E
+1750098 TPD/ITLN SAUSAGE             2.78-  
+1006356 KS FRZN DMPLNGS              15.61 E
+0323639 TPD/FRZN DMPLNGS             0.56-  
+524773 UNEXPECTED CHEDDAR            18.16 E
+     1.01 lb @ 17.98 /lb
+801029 KEFIR                          1.27 E
+329415 CAULIFLOWER                   14.14 E
+     3.76 lb @ 3.76 /lb
+2043400 TPD/CAULIFLOWER              2.06-  
+1141874 RUSSET POTS 5 LB BAG          4.53 E
+1976824 KS CHKN THIGHS                9.29 E
+277229 BANANA                         2.37 E
+846365 KS RIBEYE STEAK               19.87 E
+
+SUBTOTAL                              111.13
+TAX 10.55% ON 4.77                      0.50
+**** TOTAL                            111.63
+DISCOVER TEND                         111.63
+CHANGE                                  0.00
+
+01/28/26 14:41  ITEMS 16
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

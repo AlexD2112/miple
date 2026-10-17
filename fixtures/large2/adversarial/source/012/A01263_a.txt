@@ -1,0 +1,31 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1256  Seattle WA
+            MEMBER ************
+REG 16 TRN 9738 OPR 387
+OPEN 6AM - 12AM
+TELL US HOW WE DID  95367661
+
+397521 MAYONNAISE 30 OZ               6.42 E
+1353378 KS BANANAS                    3.94 E
+     1.36 lb @ 2.90 /lb
+1705822 KS SPRKLG WTR                11.22 E
+     3 @ 3.74
+396672 SHREDDED CHDR 8 OZ             6.42 E
+393473 KS ROLLED OATS                 3.98 E
+1428510 RMN LTTC                      2.79 E
+
+SUBTOTAL                               34.77
+TAX 10.55% ON 0.00                      0.00
+**** TOTAL                             34.77
+DEBIT TEND                             34.77
+CHANGE                                  0.00
+
+09/07/26 17:08  ITEMS 8
+A=TAXABLE  E=NONTAXABLE FOOD
+RETURNS WITHIN 90 DAYS
+SAVE 2.00 ON YOUR NEXT VISIT
+SURVEY CODE 7817 3158 9254
+BOTTLE RETURNS ACCEPTED    0.10/EA
+NEXT VISIT COUPON          3.00 OFF
+                 THANK YOU

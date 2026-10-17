@@ -1,0 +1,21 @@
+               FRED MEYER
+               Seattle WA
+               Store 0407
+
+BOTTLED WTR 40 PK                 2.45 F
+MAYONNAISE 30 OZ                  6.42 F
+FM CHKN DRUMSTICKS                8.97 F
+MFR CPN                          2.47-  
+  3.18 lb @ 3.50 /lb
+SMPL TRTH ENGLSH CUCUMBER        11.13 F
+BAG FEE                           0.08 T
+
+SUBTOTAL                           26.58
+TAX 10.55% ON 0.08                  0.01
+TOTAL                              26.59
+CASH TEND                          40.00
+CHANGE                             13.41
+
+01/24/26 07:43  ITEMS 4
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

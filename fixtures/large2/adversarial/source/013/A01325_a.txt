@@ -1,0 +1,26 @@
+              TRADER JOE'S
+        Store #0436  Seattle WA
+      OPEN 8:00AM TO 9:00PM DAILY
+OPEN 6AM - 12AM
+REG 22 TRN 2694 OPR 346
+TELL US HOW WE DID  37534426
+
+  2 @ 5.69
+CHERRIES                         11.38  
+FROZEN MIXED BERRIES              2.06  
+CROISSANTS 12 CT                  4.87  
+
+SUBTOTAL                           18.31
+TAX 10.55% ON 0.00                  0.00
+TOTAL                              18.31
+CASH TEND                          20.00
+CHANGE                              1.69
+
+07/07/26 15:42  ITEMS 4
+T=TAXABLE
+REWARDS BALANCE           361.83
+AUTH CODE  429107
+NEXT VISIT COUPON          3.00 OFF
+BOTTLE RETURNS ACCEPTED    0.10/EA
+CARD #: ************1480
+               THANK YOU

@@ -1,0 +1,33 @@
+               FRED MEYER
+               Seattle WA
+               Store 0875
+
+KRO DIJON MUSTARD                 2.46 F
+  1.47 lb @ 10.99 /lb
+DELI SLCD TRKY BRST              16.16 F
+DISH SOAP                        19.39 T
+  0.77 lb @ 2.83 /lb
+ORG LEMONS                        2.18 F
+FM TILLAMOOK MEDIUM CHDR         11.77 F
+KRO SAVINGS                      0.35-  
+  4 @ 4.32
+CELERY                           17.28 F
+  0.33 lb @ 0.68 /lb
+PEACHES                           0.22 F
+BIBIGO PORK MANDU DUMPLINGS 6 L  10.32 F
+FM PLUS CARD SAV                 0.28-  
+  3 @ 4.26
+KRO DRIED LENTILS                12.78 F
+FM PLUS CARD SAV                 0.51-  
+FM DICED TOM CAN                  2.98 F
+ORG RASPB 6 OZ                    6.28 F
+
+SUBTOTAL                          100.68
+TAX 10.55% ON 19.39                 2.05
+TOTAL                             102.73
+DISCOVER TEND                     102.73
+CHANGE                              0.00
+
+03/31/26 12:02  ITEMS 16
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

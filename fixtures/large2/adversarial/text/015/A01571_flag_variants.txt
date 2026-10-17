@@ -1,0 +1,18 @@
+               FRED MEYER
+               Seattle WA
+               Store 2461
+
+KRO GREETING CARD                20.34 T
+  3 @ 4.67
+SMPL TRTH HNYCRSP APPLES         14.01  
+SMPL TRTH TLLMK MEDIUM CHDR      11.77  
+
+SUBTOTAL                           46.12
+TAX 10.55% ON 20.34                 2.15
+TOTAL                              48.27
+CASH TEND                          60.00
+CHANGE                             11.73
+
+10/02/26 11:13  ITEMS 5
+T=TAXED ITEM
+               THANK YOU

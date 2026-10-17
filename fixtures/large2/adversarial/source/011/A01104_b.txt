@@ -1,0 +1,22 @@
+               FRED MEYER
+              Portland OR
+               Store 1828
+
+HAMBURGER BUNS                    2.77 F
+  2 @ 5.42
+BABY SPNCH                       10.84 F
+FM WHL WHT SANDWICH BRD           2.54 F
+CRL                               6.63 F
+SMPL TRTH DIJON MUSTARD           2.46 F
+  2 @ 0.05
+BAG FEE                           0.10  
+
+SUBTOTAL                           25.34
+TAX                                 0.00
+TOTAL                              25.34
+MASTERCARD TEND                    25.34
+CHANGE                              0.00
+
+05/06/26 10:04  ITEMS 6
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

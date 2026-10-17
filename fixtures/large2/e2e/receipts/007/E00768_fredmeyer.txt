@@ -1,0 +1,24 @@
+               FRED MEYER
+               Seattle WA
+               Store 0489
+
+  4 @ 2.98
+KRO DICED TOM CAN                11.92 F
+  3.27 lb @ 2.30 /lb
+SMPL TRTH GALA APPLES             7.52 F
+  3 @ 4.58
+KRO KOMBUCHA 16OZ                13.74 F
+KRO HMBRGR BUNS                   2.77 F
+SMPL TRTH FRESH DILL              0.90 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           37.09
+TAX 10.55% ON 0.24                  0.03
+TOTAL                              37.12
+DEBIT TEND                         37.12
+CHANGE                              0.00
+
+06/07/26 08:27  ITEMS 10
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

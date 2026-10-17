@@ -1,0 +1,30 @@
+                   COSTCO
+                 WHOLESALE
+        Warehouse #1677  Seattle WA
+            MEMBER ************
+
+1906235 ORG BLACK BEANS 8 CANS        1.15 E
+1478352 HOUSE FOODS EXTRA FIRM TOFU   2.78 E
+7262803 TPD/HOUSE FOODS              0.83-  
+883843 DOG TREATS                     6.82 A
+65716 CHRRS                          22.76 E
+     4 @ 5.69
+1608431 2% MILK 2 X 1 GAL             4.70 E
+1530390 GINGER ALE 12PK               6.02 A
+8664636 TPD/GINGER ALE 1             0.74- A
+296295 KS BRIE                        4.85 E
+3001219 TPD/BRIE                     1.45-  
+922762 REDUCED FAT 2% MLK GALLON      6.54 E
+1528812 KS RED BELL PEPR              9.03 E
+     2.64 lb @ 3.42 /lb
+
+SUBTOTAL                               61.63
+TAX 10.55% ON 12.10                     1.28
+**** TOTAL                             62.91
+AMEX TEND                              62.91
+CHANGE                                  0.00
+
+12/31/26 23:14  446 446 5336 11
+ITEMS 29   REG 10  TRANS 8894
+A=TAXABLE  E=NONTAXABLE FOOD
+                 THANK YOU

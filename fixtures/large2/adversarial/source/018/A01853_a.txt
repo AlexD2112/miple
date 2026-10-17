@@ -1,0 +1,26 @@
+                  QFC
+          Quality Food Centers
+         Seattle WA  Store 1816
+
+PRIV SEL PNT BTR                  6.90 F
+  2 @ 2.45
+BTR LTTC                          4.90 F
+MFR CPN                          1.47-  
+  3.91 lb @ 1.48 /lb
+RED ONIN                          5.79 F
+SMPL TRTH ITALIAN PARSLEY         2.93 F
+DISH SOAP                        19.39 T
+  1.06 lb @ 9.65 /lb
+SMPL TRTH PORK TENDERLOIN        10.23 F
+  3 @ 0.08
+BAG FEE                           0.24 T
+
+SUBTOTAL                           48.67
+TAX 10.55% ON 19.63                 2.07
+TOTAL                              50.74
+VISA TEND                          50.74
+CHANGE                              0.00
+
+09/10/26 16:10  ITEMS 7
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU

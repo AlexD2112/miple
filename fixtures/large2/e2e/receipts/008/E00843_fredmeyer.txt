@@ -1,0 +1,32 @@
+               FRED MEYER
+              Portland OR
+               Store 2149
+
+  0.27 lb @ 1.79 /lb
+SMPL TRTH BEETS                   0.48 F
+  3 @ 1.57
+ORG GALA APPLES                   4.71 F
+PARMIGIANO REGGIANO               7.82 F
+DIGITAL CPN                      0.99-  
+SMPL TRTH HAMBURGER BUNS          2.77 F
+  2 @ 3.33
+TORTILLA CHIPS                    6.66 F
+FM ICE CRM                       14.51 F
+FM PLUS CARD SAV                 0.33-  
+LG EGGS 18 CT                     7.52 F
+KRO SAVINGS                      2.04-  
+FM ITALIAN SAUSAGE BULK           9.93 F
+FM ALL PURPOSE FLOUR             11.36 F
+FM TILLAMOOK MEDIUM CHEDDAR      11.77 F
+TILLAMOOK VANILLA YOGURT          4.05 F
+FM PLUS CARD SAV                 1.21-  
+
+SUBTOTAL                           77.01
+TAX                                 0.00
+TOTAL                              77.01
+DEBIT TEND                         77.01
+CHANGE                              0.00
+
+08/30/26 16:23  ITEMS 14
+T=TAXABLE  F=NONTAXABLE FOOD
+               THANK YOU
