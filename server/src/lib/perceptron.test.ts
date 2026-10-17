@@ -3,7 +3,7 @@ import { mock, test } from "node:test";
 
 process.env.SUPABASE_URL ??= "https://example.supabase.co";
 process.env.SUPABASE_SERVICE_ROLE_KEY ??= "test-service-role";
-process.env.GEMINI_API_KEY ??= "test-gemini";
+process.env.GOOGLE_CLOUD_PROJECT ??= "test-project";
 process.env.PERCEPTRON_API_KEY = "test-perceptron-key";
 process.env.PERCEPTRON_OCR_URL = "https://perceptron.test/v1/chat/completions";
 
