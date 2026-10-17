@@ -64,7 +64,7 @@ npm start                      # Metro for the dev client
 ## ⚠️ Known risks and TODOs
 
 - **`react-native-health` vs. New Architecture.** `expo-doctor` reports it as *unmaintained* and *untested on the New Architecture* (SDK 58 / RN 0.88). The Health owner should confirm the read and write on a device first. If it fails, swap in `@kingstinct/react-native-healthkit`. Only `mobile/src/lib/health.ts` needs to change.
-- **Perceptron OCR.** `server/src/lib/perceptron.ts` is an adapter with a guessed request shape. Match it to the sponsor docs. Until then, Gemini vision reads the receipt.
+- **Perceptron OCR.** Set `PERCEPTRON_API_KEY`. The adapter calls Perceptron Mk1.5 chat completions. If the key is missing or the call fails, Gemini vision reads the receipt.
 - **Photon 2.0.** `server/src/lib/photon.ts` (send) and `parseInbound` (webhook) are adapters too. Without credentials, texts are logged as `[photon:dry-run]`. Point the Photon inbound webhook at `POST /photon/webhook` and set `PHOTON_WEBHOOK_SECRET`. The handler checks it against the `x-photon-secret` header.
 - **Health writes after an SMS "done".** The server can't write to HealthKit. Slots cooked by text get `logged_to_health=false`, and the app syncs them the next time it's opened (`syncCookedMealsToHealth`).
 
