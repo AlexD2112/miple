@@ -28,11 +28,11 @@ export type ParsedReceipt = z.infer<typeof ParsedReceipt>;
 
 /**
  * Server-side enrichment added to each parsed receipt item (never part of the LLM schema above).
- * Per-100 g values from USDA FoodData Central via fixtures/nutrition.json; null = not reported.
+ * Per-100 g values from USDA FoodData Central via server/data/nutrition.json; null = not reported.
  */
 export const ItemNutrition = z.object({
   fdc_id: z.number().int(),
-  item_name: z.string().describe("matched fixtures/nutrition.json item_name"),
+  item_name: z.string().describe("matched server/data/nutrition.json item_name"),
   confidence: z.number().min(0).max(1).describe("1 = exact alias match"),
   needs_review: z.boolean().describe("true when confidence < NUTRITION_REVIEW_THRESHOLD: ask the user to confirm the match"),
   category: z.enum(CATEGORIES).describe("category of the matched nutrition row (may differ from the LLM's)"),

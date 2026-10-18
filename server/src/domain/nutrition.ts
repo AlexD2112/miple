@@ -1,5 +1,5 @@
 /**
- * Maps a raw receipt line (e.g. "BNLS CHKN BRST 1.52LB 7.58") to a row of fixtures/nutrition.json
+ * Maps a raw receipt line (e.g. "BNLS CHKN BRST 1.52LB 7.58") to a row of server/data/nutrition.json
  * (USDA FoodData Central macros per 100 g + typical package size).
  *
  * Pipeline: normalize -> exact alias lookup -> token/fuzzy fallback with a confidence score.
@@ -42,7 +42,7 @@ export interface NutritionMatch {
 /** Matches below this confidence are returned with `needs_review: true` (ask the user to confirm). */
 export const NUTRITION_REVIEW_THRESHOLD = 0.7;
 
-const FIXTURE = fileURLToPath(new URL("../../../fixtures/nutrition.json", import.meta.url));
+const FIXTURE = fileURLToPath(new URL("../../data/nutrition.json", import.meta.url));
 
 /** Lines that are never food. Checked on the lowercased raw line. */
 const NON_FOOD =
