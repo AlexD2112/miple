@@ -40,6 +40,21 @@ const BASE: Record<string, string[]> = {
   sesame: ["sesame", "tahini", "hummus", "za'atar"],
 };
 
+/** Curated keywords from the miple-testdata bundle (allergen_keywords.csv), high confidence plus the
+ * ambiguous ones that usually contain the allergen. */
+const CURATED: Record<string, string[]> = {
+  milk: ["brie", "buttermilk", "caramel", "caseinate", "chocolate", "curd", "gouda", "half and half", "half-and-half", "lactose", "margarine", "mascarpone", "nougat", "parmigiano"],
+  egg: ["albumin", "batter", "brioche", "challah", "custard", "eggnog", "frittata", "hollandaise", "nougat", "omelet", "omelette", "yolk"],
+  fish: ["catfish", "dashi", "flounder", "imitation crab", "katsuobushi", "mahi mahi", "pollock", "snapper", "sole", "surimi", "swordfish"],
+  shellfish: ["bouillabaisse", "krill", "langoustine", "seafood", "shellfish"],
+  tree_nut: ["frangipane", "gianduja", "mixed nuts", "nougat", "nut"],
+  peanut: ["arachis", "goober", "mixed nuts", "nut butter"],
+  wheat: ["bagel", "batter", "cracker", "crouton", "durum", "farina", "farro", "ramen", "roux", "spelt", "udon"],
+  gluten: ["bagel", "batter", "beer", "cracker", "crouton", "durum", "farina", "ramen", "roux", "udon"],
+  soy: ["lecithin", "natto", "textured vegetable protein", "tvp", "vegetable protein"],
+  sesame: ["benne", "everything bagel", "everything seasoning", "gomasio", "halva", "halvah", "zaatar"],
+};
+
 /** Common OCR / LLM misspellings and run-together words. */
 const TYPOS: Record<string, string[]> = {
   peanut: ["peanutbutter", "peanutt", "peanus", "penut", "pea nut"],
@@ -99,15 +114,15 @@ const NOT_ALLERGEN: Record<string, RegExp[]> = {
     /\bcream of tartar\b/g,
     /\b(dairy|milk|lactose)[\s-]*free( [a-z]+){1,2}/g,
   ],
-  gluten: [/\bgluten[\s-]*free( [a-z]+){1,2}/g, /\bcorn tortillas?\b/g, /\brice (flour|noodles?)\b/g],
-  wheat: [/\b(gluten|wheat)[\s-]*free( [a-z]+){1,2}/g, /\bcorn tortillas?\b/g, /\brice (flour|noodles?)\b/g],
+  gluten: [/\bgluten[\s-]*free( [a-z]+){1,2}/g, /\bcorn tortillas?\b/g, /\brice (flour|noodles?|crackers?)\b/g],
+  wheat: [/\b(gluten|wheat)[\s-]*free( [a-z]+){1,2}/g, /\bcorn tortillas?\b/g, /\brice (flour|noodles?|crackers?)\b/g],
 };
 
 /** Every term per allergen. */
 export const ALLERGEN_KEYWORDS: Record<string, string[]> = Object.fromEntries(
   Object.keys(BASE).map((key) => [
     key,
-    [...new Set([...BASE[key], ...(TYPOS[key] ?? []), ...(FOREIGN[key] ?? []), ...(DISHES[key] ?? [])])],
+    [...new Set([...BASE[key], ...(CURATED[key] ?? []), ...(TYPOS[key] ?? []), ...(FOREIGN[key] ?? []), ...(DISHES[key] ?? [])])],
   ]),
 );
 

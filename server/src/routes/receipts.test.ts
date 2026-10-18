@@ -67,7 +67,10 @@ test("POST /receipts/parse adds optional USDA nutrition to matched items", async
   assert.equal(body.items.length, 3); // bag fee filtered as before
 
   const [chicken, spinach] = body.items;
-  assert.equal(chicken.estimated_expiry, "2026-10-19");
+  // USDA FoodKeeper: boneless chicken breast keeps 1-2 days, so 1 (the poultry category alone said 2).
+  assert.equal(chicken.estimated_expiry, "2026-10-18");
+  assert.equal(chicken.shelf_life.source, "usda_foodkeeper");
+  assert.equal(chicken.shelf_life.days, 1);
   assert.equal(chicken.nutrition.item_name, "chicken breast");
   assert.equal(chicken.nutrition.fdc_id, 2646170);
   assert.equal(chicken.nutrition.category, "raw_poultry");
@@ -79,7 +82,8 @@ test("POST /receipts/parse adds optional USDA nutrition to matched items", async
   assert.equal(spinach.nutrition.item_name, "spinach");
   assert.equal(spinach.nutrition.confidence, 1);
   assert.equal(spinach.nutrition.needs_review, false);
-  assert.equal(spinach.estimated_expiry, "2026-10-22");
+  // FoodKeeper "Lettuce (leaf, spinach)": 3-7 days, so 3 (the leafy_greens category said 5).
+  assert.equal(spinach.estimated_expiry, "2026-10-20");
 });
 
 test("unmatched items are returned exactly as before (no nutrition key)", async () => {

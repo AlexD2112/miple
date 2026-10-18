@@ -6,6 +6,7 @@ import { perceptronOcr } from "../lib/perceptron.js";
 import { getProfile, getShelfLife, requireUser, type AuthedRequest } from "../lib/supabase.js";
 import { cleanPrice, cleanQuantity, purchaseDateOrToday } from "../domain/receiptRules.js";
 import { nutritionForItem } from "../domain/nutrition.js";
+import { itemShelfLife } from "../domain/shelfLife.js";
 import { CATEGORIES, ParsedReceipt, type ItemNutrition } from "../domain/schemas.js";
 
 const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 10 * 1024 * 1024 } });
@@ -56,14 +57,19 @@ receipts.post("/parse", (req, res, next) => {
     total: cleanPrice(parsed.total),
     items: parsed.items
       .filter((i) => i.is_food)
-      .map((i) => withNutrition({
-        ...i,
-        // One misread quantity (e.g. a UPC) used to overflow numeric(10,2) and fail the whole receipt save.
-        quantity: cleanQuantity(i.quantity),
-        price: cleanPrice(i.price),
-        purchase_date: purchaseDate,
-        estimated_expiry: addDays(purchaseDate, shelfLife.get(i.category) ?? 7),
-      })),
+      .map((i) => {
+        // Per-item USDA FoodKeeper shelf life when the item matches a product, else the category's.
+        const usda = itemShelfLife(i.name, i.category);
+        return withNutrition({
+          ...i,
+          // One misread quantity (e.g. a UPC) used to overflow numeric(10,2) and fail the whole receipt save.
+          quantity: cleanQuantity(i.quantity),
+          price: cleanPrice(i.price),
+          purchase_date: purchaseDate,
+          estimated_expiry: addDays(purchaseDate, usda?.days ?? shelfLife.get(i.category) ?? 7),
+          ...(usda ? { shelf_life: { days: usda.days, storage: usda.storage, source: usda.source, product: usda.product } } : {}),
+        });
+      }),
   });
 });
 
