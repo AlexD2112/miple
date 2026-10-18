@@ -110,6 +110,23 @@ export interface ChefApplyResult {
   rebuild_week: boolean;
 }
 
+export interface CategoryGuess {
+  category: string;
+  source: "matcher" | "llm" | "default";
+  confidence: number;
+}
+
+/** Pantry category for a manually added item (USDA matcher, then LLM). */
+export async function guessCategory(name: string): Promise<CategoryGuess> {
+  const res = await fetch(`${API_URL}/items/category`, {
+    method: "POST",
+    headers: { ...(await authHeader()), "Content-Type": "application/json" },
+    body: JSON.stringify({ name }),
+  });
+  return check(res);
+}
+
+
 export async function chatWithChef(input: {
   messages: { role: "user" | "chef"; text: string }[];
   plan: {

@@ -5,6 +5,7 @@ import { GEMINI_API_ENDPOINT } from "./lib/gemini.js";
 import { receipts } from "./routes/receipts.js";
 import { recipes } from "./routes/recipes.js";
 import { photon } from "./routes/photon.js";
+import { items } from "./routes/items.js";
 import { runDailyNudges } from "./jobs/nudges.js";
 import { auditPrefix } from "./lib/audit.js";
 
@@ -31,6 +32,7 @@ app.get("/health", (_req, res) =>
 app.use("/receipts", receipts);
 app.use("/recipes", recipes);
 app.use("/photon", photon);
+app.use("/items", items);
 
 app.use((err: Error, _req: Request, res: Response, _next: NextFunction) => {
   console.error(err);
