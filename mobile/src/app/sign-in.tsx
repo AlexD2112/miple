@@ -1,6 +1,6 @@
 import * as WebBrowser from "expo-web-browser";
 import { useState } from "react";
-import { Alert, Text } from "react-native";
+import { Alert, Platform, Text } from "react-native";
 import { Button, Card, Screen, Title, styles } from "@/components/ui";
 import { supabase } from "@/lib/supabase";
 
@@ -15,6 +15,15 @@ export default function SignIn() {
   async function signInWithGoogle() {
     setBusy(true);
     try {
+      if (Platform.OS === "web") {
+        // The page goes to Google and comes back to this origin, which must be in Supabase's redirect list.
+        const { error } = await supabase.auth.signInWithOAuth({
+          provider: "google",
+          options: { redirectTo: window.location.origin },
+        });
+        if (error) throw error;
+        return;
+      }
       const { data, error } = await supabase.auth.signInWithOAuth({
         provider: "google",
         options: { redirectTo, skipBrowserRedirect: true },

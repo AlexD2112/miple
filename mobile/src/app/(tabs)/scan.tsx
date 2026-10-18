@@ -1,7 +1,7 @@
 import * as ImagePicker from "expo-image-picker";
 import { router } from "expo-router";
 import { useState } from "react";
-import { Alert, Pressable, Text, TextInput, View } from "react-native";
+import { Alert, Platform, Pressable, Text, TextInput, View } from "react-native";
 import { Button, Card, Pill, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { parseReceipt } from "@/lib/api";
 import { expiryLabel } from "@/lib/dates";
@@ -18,7 +18,8 @@ export default function Scan() {
 
   async function pick(source: "camera" | "library") {
     const opts: ImagePicker.ImagePickerOptions = { mediaTypes: ["images"], quality: 0.7 };
-    if (source === "camera") {
+    // In a browser the file input opens the camera itself, so there is no permission to ask for.
+    if (source === "camera" && Platform.OS !== "web") {
       const perm = await ImagePicker.requestCameraPermissionsAsync();
       if (!perm.granted) return Alert.alert("Camera access is needed to scan receipts.");
     }

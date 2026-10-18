@@ -1,6 +1,6 @@
 # Ripe
 
-Ripe is an iOS app for people who buy groceries and then forget about them. You photograph a receipt, Ripe adds everything to your pantry with an expiry date, and it plans meals into the free time on your calendar, starting with whatever will go bad first. When you cook, it updates the pantry, keeps track of leftovers, and logs the meal to Apple Health.
+Ripe is an iOS app for people who buy groceries and then forget about them. You photograph a receipt, Ripe adds everything to your pantry with an expiry date, and it plans meals into the free time on your calendar, starting with whatever will go bad first. When you cook, it updates the pantry, keeps track of leftovers, and logs the meal to Apple Health. A browser version runs at [ripe.cooking](https://ripe.cooking).
 
 The app used to be called Miple. Anything users see now says Ripe, but the repositories, the Cloud Run service, the iOS bundle ID and the `miple://` sign-in link still use the old name, because renaming them would break sign-in, code signing and the server URL.
 
@@ -85,7 +85,7 @@ gcloud auth application-default set-quota-project YOUR_PROJECT_ID
 
 Run the files in `supabase/migrations/` in order, with `supabase db push` or by pasting them into the SQL editor. Merging a migration doesn't touch the database, so whoever ships a release with a new one has to run it.
 
-Sign-in uses Google. Turn on the Google provider in Supabase, create a Web OAuth client in Google Cloud with the redirect URI `https://YOUR-PROJECT.supabase.co/auth/v1/callback`, and add `miple://auth` to the redirect allow list (Authentication → URL Configuration).
+Sign-in uses Google. Turn on the Google provider in Supabase, create a Web OAuth client in Google Cloud with the redirect URI `https://YOUR-PROJECT.supabase.co/auth/v1/callback`, and add `miple://auth` to the redirect allow list (Authentication → URL Configuration). The web app also needs `https://ripe.cooking` on that list, plus `http://localhost:8081` if you want to sign in to a local web build.
 
 ## Running it locally
 
@@ -133,6 +133,17 @@ git worktree add --detach ../miple-deploy origin/main
 
 Environment variables survive deploys. Change them with `gcloud run services update miple-api --region us-central1 --update-env-vars NAME=value`. If a release includes a migration, run it on Supabase before deploying the server.
 
+### Web app
+
+The same Expo app also builds for the browser and is hosted on Firebase Hosting at `https://ripe.cooking`, in the same Google Cloud project as the API. Sign-in is the same Google login, done as a full-page redirect instead of the in-app browser. Apple Health and the device calendar don't exist in a browser, so the web app uses manual targets, plans as if your calendar were free, and turns "Add to calendar" into a Google Calendar link. The API only answers browsers from the origins in `WEB_ORIGINS` (by default `ripe.cooking`, `www.ripe.cooking` and `localhost:8081`).
+
+To publish a new version, build with the same `mobile/.env` the phone app uses and deploy from the repository root:
+
+```bash
+cd mobile && npm run build:web && cd ..
+npx firebase-tools deploy --only hosting
+```
+
 ## Safety and privacy
 
 Allergies are enforced in code, not left to the model. The server reads them from the database, never from the request. It keeps allergen items out of what Gemini sees and throws away any recipe whose title, ingredients or steps mention one. The matcher (`server/src/domain/allergens.ts`) catches misspellings, foreign names, dishes that hide allergens such as caesar dressing, look-alike characters, and "dairy-free" style labels. Diets like vegetarian, vegan, pescatarian, halal and kosher are enforced the same way.
@@ -146,4 +157,4 @@ Every table has row-level security, the service-role key lives only on the serve
 ## Known limitations
 
 - Expiry dates are estimates from USDA FoodKeeper or the food category, not read off the package, so users can edit them.
-- iOS only, because of HealthKit. Android would need Health Connect.
+- iOS only, because of HealthKit. Android would need Health Connect. The web app has no Health or calendar access.

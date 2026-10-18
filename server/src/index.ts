@@ -8,6 +8,7 @@ import { items } from "./routes/items.js";
 import { shopping } from "./routes/shopping.js";
 import { markExpiredWasted } from "./jobs/expireItems.js";
 import { auditPrefix } from "./lib/audit.js";
+import { cors } from "./lib/cors.js";
 
 /** Model-backed routes. Each handler calls `@google/genai` `generateContent` on GEMINI_API_ENDPOINT. */
 export const AI_ROUTES = [
@@ -20,6 +21,7 @@ export const AI_ROUTES = [
 ] as const;
 
 const app = express();
+app.use(cors(env.webOrigins)); // the web app at ripe.cooking
 app.use(auditPrefix); // /audit/<VEYZL_PROBE_TOKEN>/... for hosted audits
 app.use(express.json({ limit: "8mb" })); // base64 images in audit probes
 

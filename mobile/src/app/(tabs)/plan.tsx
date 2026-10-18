@@ -1,8 +1,8 @@
 import { router } from "expo-router";
 import { useState } from "react";
-import { Alert, Pressable, Text, TextInput, View } from "react-native";
+import { Alert, Linking, Platform, Pressable, Text, TextInput, View } from "react-native";
 import { Button, Card, Pill, ProgressBar, ProgressRing, Row, Screen, Title, colors, styles } from "@/components/ui";
-import { addMealToCalendar } from "@/lib/calendar";
+import { addMealToCalendar, googleCalendarUrl } from "@/lib/calendar";
 import { timeRange } from "@/lib/dates";
 import { getRemainingMacros, logMealToHealth, type MacroStatus } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
@@ -55,6 +55,10 @@ export default function Plan() {
 
   async function addToCalendar(slot: MealSlot) {
     if (!slot.recipes) return;
+    if (Platform.OS === "web") {
+      const url = googleCalendarUrl(slot.recipes.title, new Date(slot.starts_at), new Date(slot.ends_at), mealNotes(slot.recipes));
+      return Linking.openURL(url);
+    }
     const eventId = await addMealToCalendar(
       slot.recipes.title,
       new Date(slot.starts_at),
