@@ -6,6 +6,7 @@ import { Button, Card, Chip, Field, Row, Screen, Title, colors, styles } from "@
 import { guessCategory } from "@/lib/api";
 import { logMealToHealth } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
+import { addPantryItem, describeShelfLife } from "@/lib/pantry";
 import { currentUserId, supabase } from "@/lib/supabase";
 import type { Recipe } from "@/lib/types";
 
@@ -145,6 +146,7 @@ function PantryForm() {
   const [quantity, setQuantity] = useState("");
   const [price, setPrice] = useState("");
   const [saving, setSaving] = useState(false);
+  const [note, setNote] = useState("");
 
   // Category sets the expiry date, so pick it from the name (USDA matcher, then LLM) as the user types.
   useEffect(() => {
@@ -171,26 +173,20 @@ function PantryForm() {
   async function add(another: boolean) {
     if (!name.trim()) return;
     setSaving(true);
-    let finalCategory = category;
-    if (!picked) {
-      try {
-        finalCategory = (await guessCategory(name.trim())).category;
-      } catch {
-        // Fall back to whatever is selected.
-      }
-    }
-    // Expiry is filled in by the database from the category's shelf life.
-    const { error } = await supabase.from("items").insert({
-      user_id: await currentUserId(),
-      name: name.trim(),
-      category: finalCategory,
-      source: "manual",
-      ...(parseFloat(quantity) > 0 ? { quantity: parseFloat(quantity) } : {}),
-      ...(parseFloat(price) >= 0 && price.trim() ? { price: parseFloat(price) } : {}),
+    // Gemini estimates how long it keeps (and the category unless the user tapped a chip).
+    // Offline, a keyword guess picks the category and its default shelf life.
+    const q = parseFloat(quantity);
+    const pr = parseFloat(price);
+    const { error, estimate } = await addPantryItem({
+      name,
+      category: picked ? category : undefined,
+      quantity: q > 0 ? q : undefined,
+      price: price.trim() && pr >= 0 ? pr : undefined,
     });
     setSaving(false);
-    if (error) return Alert.alert("Couldn't add item", error.message);
+    if (error) return Alert.alert("Couldn't add item", error);
     if (another) {
+      setNote(`Added ${name.trim()}. ${describeShelfLife(estimate)}`);
       setName("");
       setQuantity("");
       setPrice("");
@@ -235,6 +231,7 @@ function PantryForm() {
         <Button label="Add to pantry" onPress={() => add(false)} loading={saving} disabled={!name.trim()} />
         <View style={{ height: 8 }} />
         <Button kind="secondary" label="Add and log another" onPress={() => add(true)} disabled={!name.trim() || saving} />
+        {note ? <Text style={[styles.muted, { marginTop: 10 }]}>{note}</Text> : null}
       </Card>
     </>
   );

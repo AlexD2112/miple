@@ -1,12 +1,14 @@
 import { useState } from "react";
 import { Alert, Text, View } from "react-native";
+import { UseSoon } from "@/components/UseSoon";
 import { Button, Card, Chip, Field, Pill, Row, Screen, Title, styles } from "@/components/ui";
 import { addDaysIso, daysUntil, expiryLabel } from "@/lib/dates";
-import { currentUserId, supabase } from "@/lib/supabase";
+import { addPantryItem, describeShelfLife } from "@/lib/pantry";
+import { supabase } from "@/lib/supabase";
 import type { Item } from "@/lib/types";
 import { useFocusData } from "@/lib/useFocusData";
 
-const QUICK_CATEGORIES = ["leafy_greens", "fresh_vegetables", "fresh_fruit", "raw_poultry", "raw_meat", "dairy_milk", "eggs", "bread", "other"];
+const QUICK_CATEGORIES = ["auto", "leafy_greens", "fresh_vegetables", "fresh_fruit", "raw_poultry", "raw_meat", "dairy_milk", "eggs", "bread", "other"];
 
 export default function Pantry() {
   const [items, reload] = useFocusData(async () => {
@@ -20,21 +22,18 @@ export default function Pantry() {
   });
 
   const [name, setName] = useState("");
-  const [category, setCategory] = useState<string>("other");
+  const [category, setCategory] = useState<string>("auto");
   const [adding, setAdding] = useState(false);
+  const [note, setNote] = useState("");
 
   async function quickAdd() {
     if (!name.trim()) return;
     setAdding(true);
-    // Expiry is filled in by the database from the category's shelf life.
-    const { error } = await supabase.from("items").insert({
-      user_id: await currentUserId(),
-      name: name.trim(),
-      category,
-      source: "manual",
-    });
+    // Gemini estimates shelf life; offline, a keyword guess picks the category.
+    const { error, estimate } = await addPantryItem({ name, category: category === "auto" ? undefined : category });
     setAdding(false);
-    if (error) return Alert.alert("Couldn't add item", error.message);
+    if (error) return Alert.alert("Couldn't add item", error);
+    setNote(`Added ${name.trim()}. ${describeShelfLife(estimate)}`);
     setName("");
     reload();
   }
@@ -53,6 +52,8 @@ export default function Pantry() {
         Pantry
       </Title>
 
+      <UseSoon items={items ?? []} />
+
       <Card>
         <Text style={styles.h2}>Quick add</Text>
         <Field label="Item" value={name} onChangeText={setName} placeholder="e.g. spinach" onSubmitEditing={quickAdd} />
@@ -62,6 +63,7 @@ export default function Pantry() {
           ))}
         </Row>
         <Button label="Add to pantry" onPress={quickAdd} loading={adding} disabled={!name.trim()} />
+        {note ? <Text style={[styles.muted, { marginTop: 10 }]}>{note}</Text> : null}
       </Card>
 
       {(items ?? []).map((item) => {

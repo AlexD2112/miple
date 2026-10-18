@@ -14,6 +14,8 @@ export const AI_ROUTES = [
   "POST /recipes/generate",
   "POST /recipes/chef",
   "POST /receipts/parse",
+  "POST /items/category",
+  "POST /items/shelf-life",
 ] as const;
 
 const app = express();
