@@ -18,14 +18,38 @@ async function check<T>(res: Response): Promise<T> {
 
 export async function parseReceipt(imageUri: string, mimeType = "image/jpeg"): Promise<ParsedReceipt> {
   const form = new FormData();
-  // React Native's FormData accepts { uri, name, type } file descriptors.
+  // Global fetch is Expo's WinterCG fetch. It only accepts string, Blob, or bytes()
+  // parts, and throws "Unsupported FormDataPart implementation" for this descriptor.
+  // XMLHttpRequest still hands { uri, name, type } to native networking, which reads the file.
   form.append("image", { uri: imageUri, name: "receipt.jpg", type: mimeType } as unknown as Blob);
-  const res = await fetch(`${API_URL}/receipts/parse`, {
-    method: "POST",
-    headers: await authHeader(),
-    body: form,
+  return postForm<ParsedReceipt>(`${API_URL}/receipts/parse`, form, await authHeader());
+}
+
+function postForm<T>(url: string, form: FormData, headers: Record<string, string>): Promise<T> {
+  return new Promise((resolve, reject) => {
+    const xhr = new XMLHttpRequest();
+    xhr.open("POST", url);
+    for (const [key, value] of Object.entries(headers)) xhr.setRequestHeader(key, value);
+    xhr.onload = () => {
+      let body: { error?: unknown } = {};
+      try {
+        body = xhr.responseText ? JSON.parse(xhr.responseText) : {};
+      } catch {
+        body = {};
+      }
+      if (xhr.status < 200 || xhr.status >= 300) {
+        const error =
+          typeof body.error === "string" ? body.error : body.error ? JSON.stringify(body.error) : `HTTP ${xhr.status}`;
+        reject(new Error(error));
+        return;
+      }
+      resolve(body as T);
+    };
+    xhr.timeout = 90_000;
+    xhr.onerror = () => reject(new Error("Network request failed"));
+    xhr.ontimeout = () => reject(new Error("The server did not respond. Check that the API is running and EXPO_PUBLIC_API_URL is this computer's current address."));
+    xhr.send(form);
   });
-  return check(res);
 }
 
 export interface PantryForLLM {
