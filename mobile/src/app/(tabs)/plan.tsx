@@ -6,7 +6,7 @@ import { addMealToCalendar } from "@/lib/calendar";
 import { timeRange } from "@/lib/dates";
 import { getRemainingMacros, logMealToHealth, type MacroStatus } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
-import { MEALS_PER_PLAN, mealNotes, planDays, planOpenWindows, syncMealsToCalendar } from "@/lib/schedule";
+import { MAX_PLAN_DAYS, MAX_PLAN_MEALS, MEALS_PER_PLAN, mealNotes, planDays, planMealCount, planOpenWindows, syncMealsToCalendar } from "@/lib/schedule";
 import { supabase } from "@/lib/supabase";
 import type { MealSlot } from "@/lib/types";
 import { stepText } from "@/lib/types";
@@ -18,6 +18,8 @@ export default function Plan() {
   const [expanded, setExpanded] = useState<string | null>(null);
   const [daysText, setDaysText] = useState("7");
   const days = planDays(parseInt(daysText, 10));
+  const [mealsText, setMealsText] = useState(String(MEALS_PER_PLAN));
+  const meals = planMealCount(parseInt(mealsText, 10));
 
   const [data, reload] = useFocusData(async () => {
     if (!profile) return null;
@@ -41,7 +43,7 @@ export default function Plan() {
     if (!profile || !data) return;
     setPlanning(true);
     try {
-      const count = await planOpenWindows({ remaining: data.macros.remaining, target: data.macros.target, days });
+      const count = await planOpenWindows({ remaining: data.macros.remaining, target: data.macros.target, days, meals });
       if (count === 0) throw new Error(`No free meal windows in the next ${days} days, or nothing fit.`);
       reload();
     } catch (err) {
@@ -81,41 +83,30 @@ export default function Plan() {
 
   return (
     <Screen>
-      <Title sub={`Up to ${MEALS_PER_PLAN} meals, placed in the next ${days} days`}>Plan</Title>
+      <Title sub={`Up to ${meals} meal${meals === 1 ? "" : "s"}, placed in the next ${days} day${days === 1 ? "" : "s"}`}>Plan</Title>
       {data?.macros ? <MacroSummary m={data.macros} /> : null}
       <Card>
-        <Row style={{ alignItems: "center", justifyContent: "space-between" }}>
-          <View style={{ flex: 1, marginRight: 12 }}>
-            <Text style={styles.h2}>How far ahead</Text>
-            <Text style={styles.muted}>Open lunches and dinners, up to 60 days</Text>
-          </View>
-          <Row style={{ alignItems: "center" }}>
-            <Pressable
-              accessibilityLabel="Fewer days"
-              onPress={() => setDaysText(String(planDays(days - 1)))}
-              style={{ paddingHorizontal: 10, paddingVertical: 4 }}
-            >
-              <Text style={{ color: colors.brand, fontSize: 28, fontWeight: "600" }}>−</Text>
-            </Pressable>
-            <TextInput
-              accessibilityLabel="Days ahead"
-              keyboardType="number-pad"
-              value={daysText}
-              onChangeText={(text) => setDaysText(text.replace(/[^0-9]/g, "").slice(0, 2))}
-              onBlur={() => setDaysText(String(days))}
-              style={{ width: 44, textAlign: "center", fontSize: 20, fontWeight: "700", color: colors.text }}
-            />
-            <Pressable
-              accessibilityLabel="More days"
-              onPress={() => setDaysText(String(planDays(days + 1)))}
-              style={{ paddingHorizontal: 10, paddingVertical: 4 }}
-            >
-              <Text style={{ color: colors.brand, fontSize: 28, fontWeight: "600" }}>+</Text>
-            </Pressable>
-          </Row>
-        </Row>
+        <Stepper
+          title="How many meals"
+          sub={`Lunches and dinners to plan, up to ${MAX_PLAN_MEALS}`}
+          label="Meals"
+          text={mealsText}
+          setText={setMealsText}
+          value={meals}
+          clamp={(n) => planMealCount(n)}
+        />
+        <View style={{ height: 1, backgroundColor: colors.border, marginVertical: 12 }} />
+        <Stepper
+          title="How far ahead"
+          sub={`Open lunches and dinners, up to ${MAX_PLAN_DAYS} days`}
+          label="Days ahead"
+          text={daysText}
+          setText={setDaysText}
+          value={days}
+          clamp={(n) => planDays(n)}
+        />
       </Card>
-      <Button label={`Plan ${MEALS_PER_PLAN} meals`} onPress={planMeals} loading={planning} disabled={!profile} />
+      <Button label={`Plan ${meals} meal${meals === 1 ? "" : "s"}`} onPress={planMeals} loading={planning} disabled={!profile} />
       <View style={{ height: 8 }} />
       <Button
         kind="secondary"
@@ -218,5 +209,42 @@ function MacroSummary({ m }: { m: MacroStatus }) {
         <Text style={[styles.muted, { marginTop: 4 }]}>+{Math.round(m.activeEnergyBurned)} kcal burned</Text>
       ) : null}
     </Card>
+  );
+}
+
+/** "−  10  +" row: tap to step, or type a number. */
+function Stepper(props: {
+  title: string;
+  sub: string;
+  label: string;
+  text: string;
+  setText: (t: string) => void;
+  value: number;
+  clamp: (n: number) => number;
+}) {
+  const { title, sub, label, text, setText, value, clamp } = props;
+  return (
+    <Row style={{ alignItems: "center", justifyContent: "space-between" }}>
+      <View style={{ flex: 1, marginRight: 12 }}>
+        <Text style={styles.h2}>{title}</Text>
+        <Text style={styles.muted}>{sub}</Text>
+      </View>
+      <Row style={{ alignItems: "center" }}>
+        <Pressable accessibilityLabel={`Fewer ${label.toLowerCase()}`} onPress={() => setText(String(clamp(value - 1)))} style={{ paddingHorizontal: 10, paddingVertical: 4 }}>
+          <Text style={{ color: colors.brand, fontSize: 28, fontWeight: "600" }}>−</Text>
+        </Pressable>
+        <TextInput
+          accessibilityLabel={label}
+          keyboardType="number-pad"
+          value={text}
+          onChangeText={(t) => setText(t.replace(/[^0-9]/g, "").slice(0, 2))}
+          onBlur={() => setText(String(value))}
+          style={{ width: 44, textAlign: "center", fontSize: 20, fontWeight: "700", color: colors.text }}
+        />
+        <Pressable accessibilityLabel={`More ${label.toLowerCase()}`} onPress={() => setText(String(clamp(value + 1)))} style={{ paddingHorizontal: 10, paddingVertical: 4 }}>
+          <Text style={{ color: colors.brand, fontSize: 28, fontWeight: "600" }}>+</Text>
+        </Pressable>
+      </Row>
+    </Row>
   );
 }

@@ -6,9 +6,17 @@ import { currentUserId, supabase } from "@/lib/supabase";
 import type { Item, Macros, MealSlot, Recipe } from "@/lib/types";
 import { stepText } from "@/lib/types";
 
-/** How many meals one "plan" request schedules. The day horizon only decides where they can land. */
+/** Default number of meals one "plan" request schedules; the user can change it. The day horizon only decides where they can land. */
 export const MEALS_PER_PLAN = 10;
+export const MAX_PLAN_MEALS = 20;
 export const MAX_PLAN_DAYS = 60;
+/** The recipe server returns at most this many recipes per request, so bigger plans are asked for in batches. */
+const RECIPES_PER_REQUEST = 10;
+
+export function planMealCount(value: number | undefined, fallback = MEALS_PER_PLAN): number {
+  if (value === undefined || !Number.isFinite(value)) return fallback;
+  return Math.min(MAX_PLAN_MEALS, Math.max(1, Math.round(value)));
+}
 
 export function planDays(value: number | undefined, fallback = 7): number {
   if (value === undefined || !Number.isFinite(value)) return fallback;
@@ -48,8 +56,9 @@ export async function syncMealsToCalendar(slots: MealSlot[]): Promise<void> {
 }
 
 /** Fills free lunch and dinner windows that don't already have a planned meal. */
-export async function planOpenWindows(input: { remaining: Macros; target: Macros; days?: number }): Promise<number> {
+export async function planOpenWindows(input: { remaining: Macros; target: Macros; days?: number; meals?: number }): Promise<number> {
   const days = planDays(input.days);
+  const meals = planMealCount(input.meals);
   const since = new Date();
   since.setHours(0, 0, 0, 0);
   const [{ data: itemRows }, { data: slotRows }] = await Promise.all([
@@ -62,22 +71,28 @@ export async function planOpenWindows(input: { remaining: Macros; target: Macros
   const taken = (slotRows ?? []).map((s) => new Date(s.starts_at as string).getTime());
   const windows = (await findFreeMealWindows(days))
     .filter((w) => !taken.some((t) => Math.abs(t - w.start.getTime()) < 3 * 60 * 60 * 1000))
-    .slice(0, MEALS_PER_PLAN);
+    .slice(0, meals);
   if (windows.length === 0) return 0;
 
-  const { recipes } = await generateRecipes({
-    pantry: pantry.map((i) => ({
-      id: i.id,
-      name: i.name,
-      category: i.category,
-      quantity: Number(i.quantity),
-      unit: i.unit,
-      days_left: daysUntil(i.estimated_expiry),
-    })),
-    remaining: input.remaining,
-    max_minutes: Math.max(...windows.map((w) => w.minutes)),
-    count: windows.length,
-  });
+  const pantryForServer = pantry.map((i) => ({
+    id: i.id,
+    name: i.name,
+    category: i.category,
+    quantity: Number(i.quantity),
+    unit: i.unit,
+    days_left: daysUntil(i.estimated_expiry),
+  }));
+  const maxMinutes = Math.max(...windows.map((w) => w.minutes));
+  const recipes: Recipe[] = [];
+  for (let left = windows.length; left > 0; left -= RECIPES_PER_REQUEST) {
+    const batch = await generateRecipes({
+      pantry: pantryForServer,
+      remaining: input.remaining,
+      max_minutes: maxMinutes,
+      count: Math.min(RECIPES_PER_REQUEST, left),
+    });
+    recipes.push(...batch.recipes);
+  }
 
   const plan = assignRecipes(windows, recipes, pantry, input.remaining, input.target);
   if (plan.length === 0) return 0;
