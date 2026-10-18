@@ -1,3 +1,4 @@
+import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Platform } from "react-native";
 import { supabase } from "./supabase";
 import type { Macros, MealSlot, Profile, Recipe } from "./types";
@@ -60,7 +61,7 @@ export async function requestHealthPermissions(): Promise<boolean> {
   try {
     await hk.requestAuthorization({
       toRead: [ENERGY, PROTEIN, CARBS, FAT, FIBER, ACTIVE, "HKQuantityTypeIdentifierBodyMass"],
-      toShare: [ENERGY, PROTEIN, CARBS, FAT],
+      toShare: [ENERGY, PROTEIN, CARBS, FAT, "HKQuantityTypeIdentifierBodyMass"],
     });
     initialized = true;
     lastHealthError = null;
@@ -233,4 +234,95 @@ export async function syncCookedMealsToHealth(profile: Profile): Promise<number>
     }
   }
   return logged;
+}
+
+// ---------- Weight ----------
+
+export interface WeightEntry {
+  date: string; // ISO timestamp
+  lb: number;
+}
+
+const WEIGHT = "HKQuantityTypeIdentifierBodyMass" as const;
+const WEIGHT_KEY = "miple.weights.v1";
+
+async function readLocalWeights(): Promise<WeightEntry[]> {
+  try {
+    const raw = await AsyncStorage.getItem(WEIGHT_KEY);
+    return raw ? (JSON.parse(raw) as WeightEntry[]) : [];
+  } catch {
+    return [];
+  }
+}
+
+/**
+ * Weigh-ins from the last `days` days, oldest first. Reads Apple Health when it is
+ * enabled (so scale apps and MacroFactor entries show up), otherwise entries saved in Miple.
+ */
+export async function getWeightHistory(profile: Profile, days = 30): Promise<WeightEntry[]> {
+  const since = new Date();
+  since.setDate(since.getDate() - days);
+  const hk = healthKit();
+  if (profile.healthkit_enabled && hk) {
+    try {
+      if (!initialized) await requestHealthPermissions();
+      const samples = await hk.queryQuantitySamples(WEIGHT, {
+        limit: 0,
+        ascending: true,
+        unit: "lb",
+        filter: { date: { startDate: since, endDate: new Date() } },
+      } as never);
+      return samples.map((s) => ({ date: new Date(s.startDate).toISOString(), lb: s.quantity }));
+    } catch (err) {
+      fail("reading weight", err);
+    }
+  }
+  const local = await readLocalWeights();
+  return local.filter((w) => new Date(w.date) >= since).sort((a, b) => a.date.localeCompare(b.date));
+}
+
+/** Saves a weigh-in to Apple Health when enabled, and always to Miple's local history. */
+export async function logWeight(profile: Profile, lb: number, at = new Date()): Promise<void> {
+  const entry = { date: at.toISOString(), lb };
+  const local = await readLocalWeights();
+  await AsyncStorage.setItem(WEIGHT_KEY, JSON.stringify([...local, entry].slice(-365)));
+  const hk = healthKit();
+  if (profile.healthkit_enabled && hk) {
+    try {
+      if (!initialized) await requestHealthPermissions();
+      await hk.saveQuantitySample(WEIGHT, "lb", lb, at, at);
+    } catch (err) {
+      fail("saving weight", err);
+    }
+  }
+}
+
+/** Exponentially smoothed trend (like MacroFactor / Happy Scale): steadier than raw weigh-ins. */
+export function weightTrend(entries: WeightEntry[], alpha = 0.25): number[] {
+  const out: number[] = [];
+  for (const e of entries) out.push(out.length ? out[out.length - 1] + alpha * (e.lb - out[out.length - 1]) : e.lb);
+  return out;
+}
+
+/** Calories eaten per day for the last `days` days (oldest first), from Apple Health. Days with nothing logged are skipped. */
+export async function getDailyIntake(profile: Profile, days = 21): Promise<{ date: string; kcal: number }[]> {
+  const hk = healthKit();
+  if (!profile.healthkit_enabled || !hk) return [];
+  const start = new Date();
+  start.setHours(0, 0, 0, 0);
+  start.setDate(start.getDate() - days);
+  try {
+    if (!initialized) await requestHealthPermissions();
+    const buckets = await hk.queryStatisticsCollectionForQuantity(ENERGY, ["cumulativeSum"], start, { day: 1 }, {
+      filter: { date: { startDate: start, endDate: new Date() } },
+      unit: "kcal",
+    } as never);
+    const today = new Date().toDateString();
+    return buckets
+      .filter((b) => (b.sumQuantity?.quantity ?? 0) > 0 && b.startDate && new Date(b.startDate).toDateString() !== today)
+      .map((b) => ({ date: new Date(b.startDate as Date).toISOString(), kcal: b.sumQuantity!.quantity }));
+  } catch (err) {
+    fail("reading daily calories", err);
+    return [];
+  }
 }
