@@ -69,7 +69,7 @@ export const RecipeRequest = z.object({
         days_left: z.number(),
       }),
     )
-    .max(200),
+    .max(2000), // the server keeps the 150 most urgent (pantryForPrompt); big pantries used to 400 here
   remaining: RemainingMacros,
   max_minutes: z.number().int().min(5).max(180),
   count: z.number().int().min(1).max(8).default(5),
