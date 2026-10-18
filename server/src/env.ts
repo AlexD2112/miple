@@ -21,6 +21,11 @@ export const env = {
   perceptronApiKey: process.env.PERCEPTRON_API_KEY || null,
   perceptronOcrUrl: process.env.PERCEPTRON_OCR_URL || "https://api.perceptron.inc/v1/chat/completions",
   veyzlProbeToken: process.env.VEYZL_PROBE_TOKEN || null,
+  // Sites allowed to call the API from a browser: the web app and the Expo web dev server.
+  webOrigins: (process.env.WEB_ORIGINS || "https://ripe.cooking,https://www.ripe.cooking,http://localhost:8081")
+    .split(",")
+    .map((o) => o.trim())
+    .filter(Boolean),
   // Nightly job that marks expired pantry items as wasted. Cloud Run's clock is UTC, so the
   // schedule needs an explicit zone to run just after local midnight.
   expiryCron: process.env.EXPIRY_CRON || "5 0 * * *",

@@ -1,8 +1,9 @@
+import "@/lib/webShims";
 import type { Session } from "@supabase/supabase-js";
 import { Stack } from "expo-router";
 import { StatusBar } from "expo-status-bar";
 import { useEffect, useState } from "react";
-import { ActivityIndicator, AppState, View } from "react-native";
+import { ActivityIndicator, AppState, Platform, StyleSheet, View } from "react-native";
 import { SafeAreaProvider } from "react-native-safe-area-context";
 import { colors } from "@/components/ui";
 import { syncCookedMealsToHealth } from "@/lib/health";
@@ -45,17 +46,27 @@ export default function RootLayout() {
   return (
     <SafeAreaProvider>
       <StatusBar style="dark" />
-      {session ? (
-        <ProfileProvider userId={session.user.id}>
-          <HealthSync />
-          {stack}
-        </ProfileProvider>
-      ) : (
-        stack
-      )}
+      <View style={frame.page}>
+        <View style={frame.column}>
+          {session ? (
+            <ProfileProvider userId={session.user.id}>
+              <HealthSync />
+              {stack}
+            </ProfileProvider>
+          ) : (
+            stack
+          )}
+        </View>
+      </View>
     </SafeAreaProvider>
   );
 }
+
+// The screens are laid out for a phone, so a desktop browser shows them in a phone-width column.
+const frame = StyleSheet.create({
+  page: { flex: 1, backgroundColor: Platform.OS === "web" ? "#E4E6DF" : colors.bg },
+  column: Platform.OS === "web" ? { flex: 1, width: "100%", maxWidth: 520, alignSelf: "center", overflow: "hidden" } : { flex: 1 },
+});
 
 /** Meals cooked by SMS reply get written to Apple Health next time the app is opened. */
 function HealthSync() {

@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import { Alert, Switch, Text, View } from "react-native";
+import { Alert, Platform, Switch, Text, View } from "react-native";
 import { Button, Card, Field, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { AllergyInput, DietPicker } from "@/components/Preferences";
 import { WeightCard, useWeight } from "@/components/WeightCard";
@@ -135,17 +135,19 @@ function ProfileForm({ profile }: { profile: Profile }) {
         </Text>
       </Card>
 
-      <Card>
-        <Row style={{ justifyContent: "space-between" }}>
-          <Text style={styles.h2}>Apple Health</Text>
-          <Switch value={draft.healthkit_enabled} onValueChange={toggleHealth} trackColor={{ true: colors.brand }} />
-        </Row>
-        <Text style={styles.muted}>
-          {isHealthKitSupported()
-            ? "Ripe reads what you've eaten and burned today, including anything MyFitnessPal logs, and saves the meals you cook back to Health. Only your remaining calories and macros leave your phone."
-            : "Not available in this build. Ripe uses your manual targets."}
-        </Text>
-      </Card>
+      {Platform.OS !== "web" ? (
+        <Card>
+          <Row style={{ justifyContent: "space-between" }}>
+            <Text style={styles.h2}>Apple Health</Text>
+            <Switch value={draft.healthkit_enabled} onValueChange={toggleHealth} trackColor={{ true: colors.brand }} />
+          </Row>
+          <Text style={styles.muted}>
+            {isHealthKitSupported()
+              ? "Ripe reads what you've eaten and burned today, including anything MyFitnessPal logs, and saves the meals you cook back to Health. Only your remaining calories and macros leave your phone."
+              : "Not available in this build. Ripe uses your manual targets."}
+          </Text>
+        </Card>
+      ) : null}
 
       <Card>
         <Row style={{ justifyContent: "space-between" }}>

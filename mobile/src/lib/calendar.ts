@@ -19,6 +19,8 @@ const MAX_MINUTES = 60;
 const FALLBACK_MINUTES = 40;
 
 async function canReadCalendar(): Promise<boolean> {
+  // The browser has no device calendar, so the web app plans as if every window were free.
+  if (Platform.OS === "web") return false;
   const current = await Calendar.getCalendarPermissions();
   if (current.granted) return true;
   return (await Calendar.requestCalendarPermissions()).granted;
@@ -103,6 +105,7 @@ function eventTime(value: string | Date, allDay: boolean): number {
 const roundUpToQuarter = (t: number) => Math.ceil(t / (15 * 60_000)) * 15 * 60_000;
 
 async function writableCalendarId(): Promise<string | null> {
+  if (Platform.OS === "web") return null;
   const { granted } = await Calendar.requestCalendarPermissions();
   if (!granted) return null;
   if (Platform.OS === "ios") return Calendar.getDefaultCalendarSync()?.id ?? null;
@@ -137,6 +140,18 @@ export async function upsertCalendarEvent(
     }
   }
   return LegacyCalendar.createEventAsync(calendarId, event);
+}
+
+/** A Google Calendar "new event" link, the web app's stand-in for writing to the device calendar. */
+export function googleCalendarUrl(title: string, start: Date, end: Date, notes: string): string {
+  const stamp = (d: Date) => d.toISOString().replace(/[-:]/g, "").replace(/\.\d{3}/, "");
+  const params = new URLSearchParams({
+    action: "TEMPLATE",
+    text: `🍳 ${title}`,
+    dates: `${stamp(start)}/${stamp(end)}`,
+    details: notes.slice(0, 1500),
+  });
+  return `https://calendar.google.com/calendar/render?${params}`;
 }
 
 /** Writes the cooking block and returns the event id. */

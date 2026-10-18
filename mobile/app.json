@@ -47,6 +47,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "web": {
+      "bundler": "metro",
+      "output": "single",
+      "favicon": "./assets/favicon.png",
+      "name": "Ripe",
+      "shortName": "Ripe",
+      "themeColor": "#3F7D20"
     }
   }
 }

@@ -1,3 +1,4 @@
+import { Platform } from "react-native";
 import { supabase } from "./supabase";
 import type { Macros, ParsedReceipt, Recipe } from "./types";
 
@@ -18,6 +19,12 @@ async function check<T>(res: Response): Promise<T> {
 
 export async function parseReceipt(imageUri: string, mimeType = "image/jpeg"): Promise<ParsedReceipt> {
   const form = new FormData();
+  if (Platform.OS === "web") {
+    // The picker hands the browser a blob: or data: URL; the real file is behind it.
+    const blob = await (await fetch(imageUri)).blob();
+    form.append("image", blob, "receipt.jpg");
+    return postForm<ParsedReceipt>(`${API_URL}/receipts/parse`, form, await authHeader());
+  }
   // Global fetch is Expo's WinterCG fetch. It only accepts string, Blob, or bytes()
   // parts, and throws "Unsupported FormDataPart implementation" for this descriptor.
   // XMLHttpRequest still hands { uri, name, type } to native networking, which reads the file.
