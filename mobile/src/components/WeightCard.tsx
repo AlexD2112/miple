@@ -1,11 +1,16 @@
 import { useCallback, useEffect, useState } from "react";
 import { Alert, Text, View, type LayoutChangeEvent } from "react-native";
 import { Button, Card, Chip, Field, Row, colors, styles } from "@/components/ui";
-import { loadGoal, recommend, saveGoal, type Recommendation, type WeightGoal } from "@/lib/adaptive";
+import { DEFAULT_GOAL, loadGoal, modeOf, recommend, saveGoal, type GoalMode, type Recommendation, type WeightGoal } from "@/lib/adaptive";
 import { getDailyIntake, getWeightHistory, logWeight, weightTrend, type WeightEntry } from "@/lib/health";
 import type { Profile } from "@/lib/types";
 
 const RATES = [0.25, 0.5, 0.75, 1];
+const MODES: { mode: GoalMode; label: string }[] = [
+  { mode: "lose", label: "Lose" },
+  { mode: "maintain", label: "Maintain" },
+  { mode: "bulk", label: "Bulk" },
+];
 const RANGES = [
   { label: "1M", days: 30 },
   { label: "3M", days: 90 },
@@ -17,7 +22,7 @@ const CHART_H = 150;
 export function useWeight(profile: Profile) {
   const [days, setDays] = useState(30);
   const [weights, setWeights] = useState<WeightEntry[]>([]);
-  const [goal, setGoal] = useState<WeightGoal>({ goalLb: null, ratePerWeek: 0.5, auto: false });
+  const [goal, setGoal] = useState<WeightGoal>(DEFAULT_GOAL);
   const [rec, setRec] = useState<Recommendation | null>(null);
 
   const refresh = useCallback(
@@ -113,20 +118,36 @@ export function WeightCard({ w }: { w: WeightState }) {
         </View>
       </Row>
 
+      <Text style={styles.label}>Goal</Text>
+      <Row style={{ gap: 8, flexWrap: "wrap", marginBottom: 12 }}>
+        {MODES.map((m) => (
+          <Chip
+            key={m.mode}
+            label={m.label}
+            selected={modeOf(w.goal, w.rec?.currentLb ?? null) === m.mode}
+            onPress={() => w.updateGoal({ mode: m.mode })}
+          />
+        ))}
+      </Row>
+
       <Field
-        label="Goal weight (lb)"
+        label="Goal weight (lb, optional)"
         keyboardType="decimal-pad"
         value={goalText}
         onChangeText={setGoalText}
         onEndEditing={() => w.updateGoal({ goalLb: parseFloat(goalText) || null })}
         placeholder="e.g. 165"
       />
-      <Text style={styles.label}>Pace (lb per week)</Text>
-      <Row style={{ gap: 8, flexWrap: "wrap" }}>
-        {RATES.map((r) => (
-          <Chip key={r} label={String(r)} selected={w.goal.ratePerWeek === r} onPress={() => w.updateGoal({ ratePerWeek: r })} />
-        ))}
-      </Row>
+      {modeOf(w.goal, w.rec?.currentLb ?? null) !== "maintain" ? (
+        <>
+          <Text style={styles.label}>Pace (lb per week)</Text>
+          <Row style={{ gap: 8, flexWrap: "wrap" }}>
+            {RATES.map((r) => (
+              <Chip key={r} label={String(r)} selected={w.goal.ratePerWeek === r} onPress={() => w.updateGoal({ ratePerWeek: r })} />
+            ))}
+          </Row>
+        </>
+      ) : null}
     </Card>
   );
 }

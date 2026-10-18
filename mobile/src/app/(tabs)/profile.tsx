@@ -111,7 +111,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
         {auto ? (
           <Text style={[styles.muted, { marginBottom: 10 }]}>
             {rec
-              ? `${rec.expenditureSource === "measured" ? "Measured" : "Estimated"} burn ${rec.expenditure} kcal/day → ${rec.direction === "maintain" ? "maintain" : rec.direction === "lose" ? "lose" : "gain"}. ${rec.reason}`
+              ? `${rec.expenditureSource === "measured" ? "Measured" : "Estimated"} burn ${rec.expenditure} kcal/day → ${rec.direction === "maintain" ? "maintain" : rec.direction === "lose" ? "lose weight" : "bulk"}. ${rec.reason}`
               : "Working out your targets…"}
           </Text>
         ) : null}

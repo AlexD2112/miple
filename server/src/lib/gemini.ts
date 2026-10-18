@@ -46,13 +46,16 @@ function normalize(node: unknown): unknown {
   return out;
 }
 
+/** Thinking budget for every call; see `thinkingBudget` in env.ts. */
+const thinking = () => (Number.isFinite(env.thinkingBudget) ? { thinkingConfig: { thinkingBudget: env.thinkingBudget } } : {});
+
 /** Plain-text generation. Used when a caller needs the model's own words, not a schema. */
 export async function generateText(opts: { system: string; content: string | UserPart[] }): Promise<string> {
   const parts: Part[] = typeof opts.content === "string" ? [{ text: opts.content }] : opts.content;
   const response = await gemini.models.generateContent({
     model: env.model,
     contents: [{ role: "user", parts }],
-    config: { systemInstruction: opts.system, temperature: 0.4, maxOutputTokens: 2048 },
+    config: { systemInstruction: opts.system, temperature: 0.4, maxOutputTokens: 2048, ...thinking() },
   });
   if (!response.text) throw new Error("model returned no output");
   return response.text;
@@ -75,6 +78,7 @@ export async function structured<S extends z.ZodType>(
       maxOutputTokens: 16000,
       responseMimeType: "application/json",
       responseJsonSchema: geminiJsonSchema(schema),
+      ...thinking(),
     },
   });
 

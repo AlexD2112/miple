@@ -4,6 +4,7 @@ import { db, getProfile, requireUser, type AuthedRequest } from "../lib/supabase
 import { answerAuditProbe, isAuditProbe } from "../lib/audit.js";
 import { containsDisliked, findAllergens, violatesAllergies } from "../domain/allergens.js";
 import { CHEF_GUARDRAILS, redactOutput, screenInput } from "../domain/guard.js";
+import { conflictReminder, hasConflicts, requestConflicts, violatesDiet } from "../domain/dietary.js";
 import { groundRecipesToPantry } from "../domain/pantryRecipes.js";
 import { pantryForPrompt } from "../domain/receiptRules.js";
 import {
@@ -112,6 +113,16 @@ async (req: AuthedRequest, res) => {
     transcript: messages.map((m) => ({ role: m.role, text: m.text })),
   };
 
+  // A request that clashes with the profile gets an explicit reminder from code, not just a silent swap.
+  const conflicts = lastUser ? requestConflicts(lastUser.text, profile) : null;
+  const reminder = conflicts && hasConflicts(conflicts) ? conflictReminder(conflicts, profile.diet) : null;
+  if (reminder) {
+    (prompt as Record<string, unknown>).request_conflicts = {
+      ...conflicts,
+      note: "The app has already reminded the user about these. Offer a close alternative without them and do not repeat the reminder.",
+    };
+  }
+
   const staples = profile.allow_staples === true;
   const turn = await structured(ChefTurn, {
     system: staples
@@ -123,8 +134,9 @@ async (req: AuthedRequest, res) => {
   const proposal = turn.proposal ? sanitizeProposal(turn.proposal, profile, new Set(safePantry.map((p) => p.id))) : null;
   let message = redactOutput(turn.message.trim());
   if (turn.proposal && !proposal) {
-    message += " I couldn't offer that dish with your allergies and dislikes.";
+    message += " I couldn't offer that dish because it doesn't fit your allergies, diet or dislikes.";
   }
+  if (reminder) message = `${reminder} ${message}`;
 
   res.json({ message, proposal });
 });
@@ -247,7 +259,7 @@ recipes.post("/chef/apply", requireUser, async (req: AuthedRequest, res) => {
 
 function sanitizeProposal(
   proposal: ChefProposal,
-  profile: { allergies: string[]; dislikes: string[] },
+  profile: { allergies: string[]; dislikes: string[]; diet: string },
   pantryIds: Set<string>,
 ): ChefProposal | null {
   if (proposal.action === "skip") return proposal;
@@ -266,13 +278,14 @@ function sanitizeProposal(
 
 function acceptRecipes(
   drafts: RecipeDraft[],
-  profile: { allergies: string[]; dislikes: string[] },
+  profile: { allergies: string[]; dislikes: string[]; diet: string },
   pantryIds: Set<string>,
   maxMinutes: number,
 ) {
   return drafts
     .filter((r) => r.minutes <= maxMinutes)
     .filter((r) => !violatesAllergies(r, profile.allergies))
+    .filter((r) => !violatesDiet(r, profile.diet))
     .filter((r) => !containsDisliked(r, profile.dislikes))
     .map((r) => ({
       ...r,

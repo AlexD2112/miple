@@ -52,4 +52,4 @@ cron.schedule(
   { timezone: env.expiryTimezone },
 );
 
-app.listen(env.port, () => console.log(`miple server on http://localhost:${env.port}`));
+app.listen(env.port, () => console.log(`ripe server on http://localhost:${env.port}`));
