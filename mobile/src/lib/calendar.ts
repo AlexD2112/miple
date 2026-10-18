@@ -25,7 +25,8 @@ async function canReadCalendar(): Promise<boolean> {
 }
 
 /**
- * Finds the first free gap in each lunch/dinner window over the next `days` days.
+ * Finds a free gap in each lunch/dinner window over the next `days` days: the first one of at least an hour,
+ * otherwise the longest (so a 20-minute squeeze before a meeting doesn't beat a free hour later).
  * Without calendar access, every window is treated as free (so the planner still works).
  */
 export async function findFreeMealWindows(days = 3, now = new Date()): Promise<FreeWindow[]> {
@@ -38,9 +39,10 @@ export async function findFreeMealWindows(days = 3, now = new Date()): Promise<F
     if (await canReadCalendar()) {
       const calendars = await Calendar.getCalendars(Calendar.EntityTypes.EVENT);
       const events = await Calendar.listEvents(calendars, now, rangeEnd);
+      // Busy all-day events (trips, conferences) block meals; ones marked free (holidays, birthdays) don't.
       busy = events
-        .filter((e) => !e.allDay && e.availability !== Calendar.Availability.FREE)
-        .map((e) => ({ start: new Date(e.startDate).getTime(), end: new Date(e.endDate).getTime() }))
+        .filter((e) => e.availability !== Calendar.Availability.FREE)
+        .map((e) => ({ start: eventTime(e.startDate, e.allDay), end: eventTime(e.endDate, e.allDay) }))
         .sort((a, b) => a.start - b.start);
       hasCalendar = true;
     }
@@ -57,7 +59,7 @@ export async function findFreeMealWindows(days = 3, now = new Date()): Promise<F
       if (end.getTime() - from < MIN_MINUTES * 60_000) continue;
 
       const gap = hasCalendar
-        ? firstGap(from, end.getTime(), busy)
+        ? bestGap(from, end.getTime(), busy)
         : { start: from, end: Math.min(end.getTime(), from + FALLBACK_MINUTES * 60_000) };
       if (!gap) continue;
 
@@ -73,15 +75,29 @@ export async function findFreeMealWindows(days = 3, now = new Date()): Promise<F
   return windows;
 }
 
-function firstGap(from: number, to: number, busy: { start: number; end: number }[]) {
+function bestGap(from: number, to: number, busy: { start: number; end: number }[]) {
+  const gaps: { start: number; end: number }[] = [];
   let cursor = from;
   for (const b of busy) {
     if (b.end <= cursor) continue;
     if (b.start >= to) break;
-    if (b.start - cursor >= MIN_MINUTES * 60_000) return { start: cursor, end: b.start };
+    if (b.start - cursor >= MIN_MINUTES * 60_000) gaps.push({ start: cursor, end: b.start });
     cursor = Math.max(cursor, b.end);
   }
-  return to - cursor >= MIN_MINUTES * 60_000 ? { start: cursor, end: to } : null;
+  if (to - cursor >= MIN_MINUTES * 60_000) gaps.push({ start: cursor, end: to });
+  const roomy = gaps.find((g) => g.end - g.start >= MAX_MINUTES * 60_000);
+  if (roomy) return roomy;
+  return gaps.reduce<{ start: number; end: number } | null>(
+    (best, g) => (!best || g.end - g.start > best.end - best.start ? g : best),
+    null,
+  );
+}
+
+/** Android stores all-day events at UTC midnight; move them to local midnight so they cover the right day. */
+function eventTime(value: string | Date, allDay: boolean): number {
+  const d = new Date(value);
+  if (!allDay || Platform.OS !== "android") return d.getTime();
+  return new Date(d.getUTCFullYear(), d.getUTCMonth(), d.getUTCDate()).getTime();
 }
 
 const roundUpToQuarter = (t: number) => Math.ceil(t / (15 * 60_000)) * 15 * 60_000;
