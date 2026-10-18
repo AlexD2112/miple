@@ -66,16 +66,16 @@ export async function generateText(opts: { system: string; content: string | Use
  */
 export async function structured<S extends z.ZodType>(
   schema: S,
-  opts: { system: string; content: string | UserPart[] },
+  opts: { system: string; content: string | UserPart[]; model?: string; maxOutputTokens?: number },
 ): Promise<z.infer<S>> {
   const parts: Part[] = typeof opts.content === "string" ? [{ text: opts.content }] : opts.content;
   const response = await gemini.models.generateContent({
-    model: env.model,
+    model: opts.model ?? env.model,
     contents: [{ role: "user", parts }],
     config: {
       systemInstruction: opts.system,
       temperature: 0.4,
-      maxOutputTokens: 16000,
+      maxOutputTokens: opts.maxOutputTokens ?? 16000,
       responseMimeType: "application/json",
       responseJsonSchema: geminiJsonSchema(schema),
       ...thinking(),

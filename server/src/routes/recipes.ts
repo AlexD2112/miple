@@ -5,6 +5,7 @@ import { answerAuditProbe, isAuditProbe } from "../lib/audit.js";
 import { containsDisliked, findAllergens, violatesAllergies } from "../domain/allergens.js";
 import { CHEF_GUARDRAILS, redactOutput, screenInput } from "../domain/guard.js";
 import { conflictReminder, hasConflicts, requestConflicts, violatesDiet } from "../domain/dietary.js";
+import { mergeConflicts, reviewRequest } from "../domain/safetyReview.js";
 import { groundRecipesToPantry } from "../domain/pantryRecipes.js";
 import { pantryForPrompt } from "../domain/receiptRules.js";
 import {
@@ -98,6 +99,8 @@ async (req: AuthedRequest, res) => {
   if (refusal) return res.json({ message: refusal.message, proposal: null });
 
   const profile = await getProfile(req.userId!);
+  // The safety review runs in parallel with the chef call below, so it adds no waiting.
+  const review = lastUser ? reviewRequest(lastUser.text, profile) : Promise.resolve(null);
   // No allergens, nothing expired, most urgent first, capped.
   const safePantry = pantryForPrompt(pantry, profile.allergies);
 
@@ -113,10 +116,10 @@ async (req: AuthedRequest, res) => {
     transcript: messages.map((m) => ({ role: m.role, text: m.text })),
   };
 
-  // A request that clashes with the profile gets an explicit reminder from code, not just a silent swap.
+  // A request that clashes with the profile gets an explicit reminder, not just a silent swap.
+  // Keyword checks run now and go into the chef's prompt; the model review is merged in afterwards.
   const conflicts = lastUser ? requestConflicts(lastUser.text, profile) : null;
-  const reminder = conflicts && hasConflicts(conflicts) ? conflictReminder(conflicts, profile.diet) : null;
-  if (reminder) {
+  if (conflicts && hasConflicts(conflicts)) {
     (prompt as Record<string, unknown>).request_conflicts = {
       ...conflicts,
       note: "The app has already reminded the user about these. Offer a close alternative without them and do not repeat the reminder.",
@@ -136,7 +139,8 @@ async (req: AuthedRequest, res) => {
   if (turn.proposal && !proposal) {
     message += " I couldn't offer that dish because it doesn't fit your allergies, diet or dislikes.";
   }
-  if (reminder) message = `${reminder} ${message}`;
+  const allConflicts = mergeConflicts(conflicts ?? { allergies: [], dislikes: [], diet: [] }, await review);
+  if (hasConflicts(allConflicts)) message = `${conflictReminder(allConflicts, profile.diet)} ${message}`;
 
   res.json({ message, proposal });
 });
