@@ -63,3 +63,35 @@ test("all-clear findings are not folded in", async () => {
   });
   assert.equal(noise, null);
 });
+
+const milkProfile = { allergies: ["milk", "soy"], dislikes: [], diet: "omnivore" };
+const one = (food: string, entry = "milk", verdict: "clear" | "conflict" = "conflict") => ({
+  ask: async () => ({ verdict, conflicts: [{ kind: "allergy" as const, profile_entry: entry, food, likelihood: "certain" as const }] }),
+});
+
+test("absence wording only clears a finding about the same allergen", async () => {
+  // About another allergen, or not about absence at all: the milk conflict stands.
+  assert.deepEqual(await reviewRequest("x", milkProfile, one("soy-free cheese")), { allergies: ["milk"], dislikes: [], diet: [] });
+  assert.deepEqual(await reviewRequest("x", milkProfile, one("no-bake cheesecake")), { allergies: ["milk"], dislikes: [], diet: [] });
+  assert.deepEqual(await reviewRequest("x", milkProfile, one("cheese (not dairy-free)")), { allergies: ["milk"], dislikes: [], diet: [] });
+  // About this allergen: cleared.
+  assert.equal(await reviewRequest("x", milkProfile, one("dairy-free cheese")), null);
+  assert.equal(await reviewRequest("x", milkProfile, one("made without milk")), null);
+});
+
+test("a cleared finding doesn't take the other findings with it", async () => {
+  const got = await reviewRequest("x", milkProfile, {
+    ask: async () => ({
+      verdict: "conflict" as const,
+      conflicts: [
+        { kind: "allergy" as const, profile_entry: "milk", food: "cheese", likelihood: "certain" as const },
+        { kind: "allergy" as const, profile_entry: "soy", food: "soy-free bread", likelihood: "certain" as const },
+      ],
+    }),
+  });
+  assert.deepEqual(got, { allergies: ["milk"], dislikes: [], diet: [] });
+});
+
+test("a 'clear' verdict can't hide a concrete finding", async () => {
+  assert.deepEqual(await reviewRequest("x", milkProfile, one("cheese", "milk", "clear")), { allergies: ["milk"], dislikes: [], diet: [] });
+});

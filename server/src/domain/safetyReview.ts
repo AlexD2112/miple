@@ -1,6 +1,7 @@
 import { z } from "zod";
 import { env } from "../env.js";
 import { structured } from "../lib/gemini.js";
+import { ALLERGEN_KEYWORDS, normalizeForMatch } from "./allergens.js";
 import type { Conflicts } from "./dietary.js";
 
 /**
@@ -46,8 +47,48 @@ export const hasRestrictions = (p: SafetyProfile) =>
 
 type Ask = (text: string, profile: SafetyProfile) => Promise<Review>;
 
-/** Food text that describes an absence rather than an ingredient: "none", "peanut-free", "without soy", "no dairy". */
-const ALL_CLEAR = /^\s*(none|n\/?a|nothing|no conflicts?|not applicable|safe|ok(ay)?)\s*$|\b(free|without|no)\b/i;
+/** A food field that isn't a food at all: the model saying there's nothing to report. */
+const NON_ANSWER = /^\s*(none|n\/?a|nothing|no conflicts?|not applicable|safe|ok(ay)?)\s*$/i;
+
+/** Extra words people use for an allergen in "X-free" labels ("dairy-free" for a milk allergy). */
+const ALLERGEN_SYNONYMS: Record<string, string[]> = {
+  milk: ["dairy", "lactose"],
+  egg: ["eggs"],
+  peanut: ["peanuts"],
+  tree_nut: ["nut", "nuts", "tree nut", "tree nuts"],
+  wheat: ["gluten"],
+  gluten: ["wheat"],
+  soy: ["soya"],
+  shellfish: ["crustacean", "seafood"],
+};
+
+/** Words that make a diet finding an all-clear ("meat-free chili" for a vegetarian). */
+const DIET_FREE_WORDS = ["meat", "animal", "dairy", "egg", "fish", "pork", "alcohol"];
+
+const escapeRe = (s: string) => s.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+
+/**
+ * True when the finding's own food text says the conflict is absent: "dairy-free cheese" clears a
+ * milk finding, but "soy-free cheese" does not, and neither does "no-bake cheesecake". Absence
+ * wording about some other allergen never clears the finding.
+ */
+function clearsItself(kind: "allergy" | "diet" | "dislike", entry: string, food: string): boolean {
+  const text = normalizeForMatch(food);
+  if (NON_ANSWER.test(text)) return true;
+  const terms =
+    kind === "allergy"
+      ? [entry, ...(ALLERGEN_SYNONYMS[entry] ?? []), ...(ALLERGEN_KEYWORDS[entry] ?? [])]
+      : kind === "dislike"
+        ? [entry]
+        : DIET_FREE_WORDS;
+  const alt = terms.map((t) => escapeRe(normalizeForMatch(t))).join("|");
+  // "<allergen>-free" (but not "not <allergen>-free"), "no <allergen>", "without <allergen>", "free of <allergen>".
+  const absence = new RegExp(
+    `(?<!\\bnot\\s)\\b(?:${alt})(?:e?s)?[\\s-]*free\\b|\\b(?:no|without|free of)\\s+(?:${alt})(?:e?s)?\\b`,
+    "i",
+  );
+  return absence.test(text);
+}
 
 const askGemini: Ask = (text, profile) =>
   structured(Review, {
@@ -73,20 +114,23 @@ export async function reviewRequest(
   });
   try {
     const review = await Promise.race([ask(text, profile), timeout]);
-    // A clean review adds nothing: no reminder, no merge.
-    if (!review || review.verdict === "clear") return null;
+    if (!review) return null;
+    // A "clear" verdict with no findings adds nothing. If the model says "clear" but still lists a
+    // concrete conflict, the findings win: being cautious is the safer way to resolve a contradiction.
     const allergies = new Map(profile.allergies.map((a) => [a.toLowerCase(), a]));
     const dislikes = new Map(profile.dislikes.map((d) => [d.toLowerCase(), d]));
     const out: Conflicts = { allergies: [], dislikes: [], diet: [] };
     for (const c of review.conflicts) {
-      // Only fold in real findings: skip "might be in some versions" and entries that read as an all-clear.
-      if (c.likelihood === "possible" || ALL_CLEAR.test(c.food)) continue;
       const entry = c.profile_entry.trim().toLowerCase();
+      // Only fold in real findings: skip "might be in some versions" and findings whose own text
+      // says this allergen, diet item or dislike is absent.
+      if (c.likelihood === "possible" || clearsItself(c.kind, entry, c.food)) continue;
       if (c.kind === "allergy" && allergies.has(entry)) out.allergies.push(allergies.get(entry)!);
       if (c.kind === "dislike" && dislikes.has(entry)) out.dislikes.push(dislikes.get(entry)!);
       if (c.kind === "diet" && entry === profile.diet.trim().toLowerCase() && c.food.trim()) out.diet.push(c.food.trim().toLowerCase());
     }
-    return out.allergies.length + out.dislikes.length + out.diet.length > 0 ? out : null;
+    const unique = { allergies: [...new Set(out.allergies)], dislikes: [...new Set(out.dislikes)], diet: [...new Set(out.diet)] };
+    return unique.allergies.length + unique.dislikes.length + unique.diet.length > 0 ? unique : null;
   } catch (err) {
     console.warn("[safety] review failed; using code checks only", err);
     return null;
