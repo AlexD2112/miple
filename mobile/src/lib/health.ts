@@ -72,6 +72,16 @@ export async function requestHealthPermissions(): Promise<boolean> {
   }
 }
 
+// HealthKit's native module crashes (EXC_BAD_ACCESS in queryStatisticsForQuantity) when several
+// statistics queries run at once, e.g. six macros in parallel while another screen also reads.
+// Every HealthKit read goes through this queue so only one native query runs at a time.
+let hkQueue: Promise<unknown> = Promise.resolve();
+function serial<T>(task: () => Promise<T>): Promise<T> {
+  const run = hkQueue.then(task, task);
+  hkQueue = run.catch(() => undefined);
+  return run;
+}
+
 type SumIdentifier = typeof ENERGY | typeof PROTEIN | typeof CARBS | typeof FAT | typeof FIBER | typeof ACTIVE;
 
 /** Total for today (midnight to now). Returns 0 on any error or when there is no data. */
@@ -79,10 +89,12 @@ async function sumToday(hk: HK, identifier: SumIdentifier, unit: "kcal" | "g"): 
   const start = new Date();
   start.setHours(0, 0, 0, 0);
   try {
-    const res = await hk.queryStatisticsForQuantity(identifier, ["cumulativeSum"], {
-      filter: { date: { startDate: start, endDate: new Date() } },
-      unit,
-    } as never);
+    const res = await serial(() =>
+      hk.queryStatisticsForQuantity(identifier, ["cumulativeSum"], {
+        filter: { date: { startDate: start, endDate: new Date() } },
+        unit,
+      } as never),
+    );
     return res.sumQuantity?.quantity ?? 0;
   } catch (err) {
     fail(`reading ${identifier.replace("HKQuantityTypeIdentifier", "")}`, err);
@@ -120,14 +132,13 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
   if (profile.healthkit_enabled && hk) {
     try {
       if (!initialized) await requestHealthPermissions();
-      const [calories, protein, carbs, fat, fiber, active] = await Promise.all([
-        sumToday(hk, ENERGY, "kcal"),
-        sumToday(hk, PROTEIN, "g"),
-        sumToday(hk, CARBS, "g"),
-        sumToday(hk, FAT, "g"),
-        sumToday(hk, FIBER, "g"),
-        sumToday(hk, ACTIVE, "kcal"),
-      ]);
+      // One at a time (see serial above): parallel queries crash the native module.
+      const calories = await sumToday(hk, ENERGY, "kcal");
+      const protein = await sumToday(hk, PROTEIN, "g");
+      const carbs = await sumToday(hk, CARBS, "g");
+      const fat = await sumToday(hk, FAT, "g");
+      const fiber = await sumToday(hk, FIBER, "g");
+      const active = await sumToday(hk, ACTIVE, "kcal");
       consumed = { calories, protein_g: protein, carbs_g: carbs, fat_g: fat };
       activeEnergyBurned = active;
       fiber_g = fiber;
@@ -137,8 +148,8 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
     }
   }
 
-  // Fallback: count meals cooked in Miple today.
-  if (source === "manual") consumed = await mipleMealsToday();
+  // Fallback: count meals cooked in Ripe today.
+  if (source === "manual") consumed = await ripeMealsToday();
 
   const target = withWorkoutBonus(base, activeEnergyBurned);
   const remaining: Macros = {
@@ -162,7 +173,7 @@ export function withWorkoutBonus(base: Macros, activeKcal: number): Macros {
   };
 }
 
-async function mipleMealsToday(): Promise<Macros> {
+async function ripeMealsToday(): Promise<Macros> {
   const start = new Date();
   start.setHours(0, 0, 0, 0);
   const { data } = await supabase
@@ -181,7 +192,7 @@ async function mipleMealsToday(): Promise<Macros> {
   );
 }
 
-/** Writes one serving of a cooked Miple meal to Apple Health as a food correlation. */
+/** Writes one serving of a cooked Ripe meal to Apple Health as a food correlation. */
 export async function logMealToHealth(recipe: Recipe, at = new Date()): Promise<boolean> {
   const hk = healthKit();
   if (!hk) return false;
@@ -257,7 +268,7 @@ async function readLocalWeights(): Promise<WeightEntry[]> {
 
 /**
  * Weigh-ins from the last `days` days, oldest first. Reads Apple Health when it is
- * enabled (so scale apps and MacroFactor entries show up), otherwise entries saved in Miple.
+ * enabled (so scale apps and MacroFactor entries show up), otherwise entries saved in Ripe.
  */
 export async function getWeightHistory(profile: Profile, days = 30): Promise<WeightEntry[]> {
   const since = new Date();
@@ -266,12 +277,12 @@ export async function getWeightHistory(profile: Profile, days = 30): Promise<Wei
   if (profile.healthkit_enabled && hk) {
     try {
       if (!initialized) await requestHealthPermissions();
-      const samples = await hk.queryQuantitySamples(WEIGHT, {
+      const samples = await serial(() => hk.queryQuantitySamples(WEIGHT, {
         limit: 0,
         ascending: true,
         unit: "lb",
         filter: { date: { startDate: since, endDate: new Date() } },
-      } as never);
+      } as never));
       return samples.map((s) => ({ date: new Date(s.startDate).toISOString(), lb: s.quantity }));
     } catch (err) {
       fail("reading weight", err);
@@ -281,7 +292,7 @@ export async function getWeightHistory(profile: Profile, days = 30): Promise<Wei
   return local.filter((w) => new Date(w.date) >= since).sort((a, b) => a.date.localeCompare(b.date));
 }
 
-/** Saves a weigh-in to Apple Health when enabled, and always to Miple's local history. */
+/** Saves a weigh-in to Apple Health when enabled, and always to Ripe's local history. */
 export async function logWeight(profile: Profile, lb: number, at = new Date()): Promise<void> {
   const entry = { date: at.toISOString(), lb };
   const local = await readLocalWeights();
@@ -313,10 +324,10 @@ export async function getDailyIntake(profile: Profile, days = 21): Promise<{ dat
   start.setDate(start.getDate() - days);
   try {
     if (!initialized) await requestHealthPermissions();
-    const buckets = await hk.queryStatisticsCollectionForQuantity(ENERGY, ["cumulativeSum"], start, { day: 1 }, {
+    const buckets = await serial(() => hk.queryStatisticsCollectionForQuantity(ENERGY, ["cumulativeSum"], start, { day: 1 }, {
       filter: { date: { startDate: start, endDate: new Date() } },
       unit: "kcal",
-    } as never);
+    } as never));
     const today = new Date().toDateString();
     return buckets
       .filter((b) => (b.sumQuantity?.quantity ?? 0) > 0 && b.startDate && new Date(b.startDate).toDateString() !== today)

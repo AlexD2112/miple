@@ -1,8 +1,8 @@
-# Miple
+# Ripe
 
-Miple is an iOS app that turns a grocery receipt into a pantry, plans meals around the user's calendar and nutrition targets, and points them to the food they should cook before it expires. A user photographs a receipt, Miple records each item with an estimated expiry date, and the planner schedules meals into free lunch and dinner windows using the items that will spoil first. When a meal is cooked, Miple updates the pantry, records leftovers, and writes the meal's calories and macros to Apple Health.
+Ripe is an iOS app that turns a grocery receipt into a pantry, plans meals around the user's calendar and nutrition targets, and points them to the food they should cook before it expires. A user photographs a receipt, Ripe records each item with an estimated expiry date, and the planner schedules meals into free lunch and dinner windows using the items that will spoil first. When a meal is cooked, Ripe updates the pantry, records leftovers, and writes the meal's calories and macros to Apple Health.
 
-The repository contains the mobile app, the API server, and the database schema. Test data lives in a separate private repository that is mounted at `fixtures/` (see [docs/TESTDATA.md](docs/TESTDATA.md)).
+The repository contains the mobile app, the API server, and the database schema. The app was renamed from Miple to Ripe; the repositories, the Cloud Run service, the iOS bundle identifier and the `miple://` sign-in scheme keep the original name because changing them would break sign-in, signing and the deployed URL. Test data lives in a separate private repository that is mounted at `fixtures/` (see [docs/TESTDATA.md](docs/TESTDATA.md)).
 
 | Directory | Contents |
 |---|---|
@@ -23,7 +23,7 @@ The repository contains the mobile app, the API server, and the database schema.
 
 **Cooking.** Marking a meal cooked calls `cook_meal_slot()`, which marks the meal complete, consumes the linked pantry items, and adds a four-day leftover. The app then writes the meal to Apple Health.
 
-Nutrition targets come from one function, `getRemainingMacros()` in `mobile/src/lib/health.ts`. It reads today's intake and active energy from Apple Health when the user has enabled it, and otherwise uses manual targets minus the meals cooked in Miple that day, so planning works without HealthKit.
+Nutrition targets come from one function, `getRemainingMacros()` in `mobile/src/lib/health.ts`. It reads today's intake and active energy from Apple Health when the user has enabled it, and otherwise uses manual targets minus the meals cooked in Ripe that day, so planning works without HealthKit.
 
 ## API
 
@@ -50,7 +50,8 @@ The server reads its settings from environment variables. Locally they come from
 | `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` | Yes | The service-role key bypasses row-level security, so it must never reach the app. |
 | `GOOGLE_CLOUD_PROJECT` | Yes | Project used for Gemini on Vertex AI. |
 | `GOOGLE_CLOUD_LOCATION` | No | Defaults to `us-central1`. |
-| `MIPLE_MODEL` | No | Defaults to `gemini-2.5-flash`. |
+| `RIPE_MODEL` | No | Defaults to `gemini-2.5-flash`. |
+| `GEMINI_THINKING_BUDGET` | No | Defaults to `0`, which turns off Gemini's thinking step and roughly halves chat and scan latency. Set `-1` to let the model decide. |
 | `PERCEPTRON_API_KEY` | No | Enables Perceptron OCR. Without it, Gemini reads receipts. |
 | `VEYZL_PROBE_TOKEN` | No | Enables VEYZL audits. Leave it unset to require a login on every AI route. |
 | `EXPIRY_CRON`, `EXPIRY_TIMEZONE` | No | Schedule for the nightly expiry job, which defaults to 12:05 AM in `America/Los_Angeles`. |

@@ -54,7 +54,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
     if (on && !(await requestHealthPermissions())) {
       return Alert.alert(
         "Apple Health unavailable",
-        `${lastHealthError ?? "Unknown error."}\n\nMiple will use your manual targets instead.`,
+        `${lastHealthError ?? "Unknown error."}\n\nRipe will use your manual targets instead.`,
       );
     }
     set({ healthkit_enabled: on });
@@ -111,7 +111,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
         {auto ? (
           <Text style={[styles.muted, { marginBottom: 10 }]}>
             {rec
-              ? `${rec.expenditureSource === "measured" ? "Measured" : "Estimated"} burn ${rec.expenditure} kcal/day → ${rec.direction === "maintain" ? "maintain" : rec.direction === "lose" ? "lose" : "gain"}. ${rec.reason}`
+              ? `${rec.expenditureSource === "measured" ? "Measured" : "Estimated"} burn ${rec.expenditure} kcal/day → ${rec.direction === "maintain" ? "maintain" : rec.direction === "lose" ? "lose weight" : "bulk"}. ${rec.reason}`
               : "Working out your targets…"}
           </Text>
         ) : null}
@@ -143,7 +143,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
         <Text style={styles.muted}>
           {isHealthKitSupported()
             ? "Reads today's calories, macros and active energy (including what MyFitnessPal logs) and writes the meals you cook. Health data stays on your phone; only your remaining-macro totals are used for planning."
-            : "Not available in this build. Miple uses your manual targets."}
+            : "Not available in this build. Ripe uses your manual targets."}
         </Text>
       </Card>
 

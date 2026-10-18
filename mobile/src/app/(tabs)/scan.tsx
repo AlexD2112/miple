@@ -84,7 +84,7 @@ export default function Scan() {
   if (!receipt) {
     return (
       <Screen>
-        <Title sub="Snap your grocery receipt. Miple reads the items, prices and guesses expiry dates.">Scan</Title>
+        <Title sub="Snap your grocery receipt. Ripe reads the items, prices and guesses expiry dates.">Scan</Title>
         <Card>
           <Button label="Take photo" onPress={() => pick("camera")} loading={parsing} />
           <View style={{ height: 8 }} />

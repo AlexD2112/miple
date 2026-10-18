@@ -40,7 +40,7 @@ export default function SignIn() {
 
   return (
     <Screen>
-      <Title sub="Scan groceries. Cook before it spoils.">Miple</Title>
+      <Title sub="Scan groceries. Cook before it spoils.">Ripe</Title>
       <Card>
         <Button label="Continue with Google" onPress={signInWithGoogle} loading={busy} />
         <Text style={[styles.muted, { marginTop: 8 }]}>Signs in with your Google account.</Text>
