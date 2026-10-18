@@ -142,13 +142,13 @@ export function recommend(
   const direction: Recommendation["direction"] = mode === "bulk" ? "gain" : mode;
   const measured =
     expenditureSource === "measured"
-      ? `You've averaged ${Math.round(avgIntake!)} kcal and your trend moved ${trendLbPerWeek! >= 0 ? "+" : ""}${trendLbPerWeek!.toFixed(1)} lb/week, so you burn about ${round10(expenditure)} kcal a day.`
+      ? `Measured from ${Math.round(avgIntake!)} kcal a day eaten and a ${trendLbPerWeek! >= 0 ? "+" : ""}${trendLbPerWeek!.toFixed(1)} lb/week trend.`
       : currentLb
-        ? "Estimated from your weight for now. Log weigh-ins for a week (and food in Apple Health) and Ripe will measure what you really burn."
+        ? "That's an estimate from your weight. Log weigh-ins for a week, with food in Apple Health, and Ripe will measure it."
         : "Log your weight to get automatic targets.";
   const plan =
     pace > 0
-      ? ` A ${mode === "lose" ? "deficit" : "surplus"} of ${Math.abs(round10(dailyAdjust))} kcal a day targets about ${pace.toFixed(2)} lb a week.`
+      ? ` Eating ${Math.abs(round10(dailyAdjust))} kcal ${mode === "lose" ? "under that should lose" : "over that should add"} about ${Number(pace.toFixed(2))} lb a week.`
       : "";
 
   return {

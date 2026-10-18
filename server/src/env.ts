@@ -16,6 +16,8 @@ export const env = {
   // Gemini 2.5 "thinks" before answering by default. Measured on the chef call, turning it off
   // (0) halved the median latency (8.1 s -> 4.1 s) and removed 20 s outliers. -1 lets the model decide.
   thinkingBudget: Number(process.env.GEMINI_THINKING_BUDGET ?? 0),
+  // Small, fast model for the safety review that runs alongside each chef reply.
+  safetyModel: process.env.SAFETY_MODEL || "gemini-2.5-flash-lite",
   perceptronApiKey: process.env.PERCEPTRON_API_KEY || null,
   perceptronOcrUrl: process.env.PERCEPTRON_OCR_URL || "https://api.perceptron.inc/v1/chat/completions",
   veyzlProbeToken: process.env.VEYZL_PROBE_TOKEN || null,

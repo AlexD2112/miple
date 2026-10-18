@@ -1,13 +1,21 @@
-# Server runtime data
+# Server data
 
-`nutrition.json` maps about 455 common grocery items to USDA FoodData Central macros, receipt-style aliases, typical package sizes and shelf-life categories. `src/domain/nutrition.ts` loads it to attach nutrition to scanned receipt lines and to choose categories for items added by hand. The file ships inside the server and its Cloud Run image, which is why it lives here rather than in the private `fixtures/` submodule.
+These files ship with the server (and its Cloud Run image), so they live here instead of in the private `fixtures/` submodule.
 
-The CSV version, the build scripts, the source notes and a draft storage-aware `shelf_life.json` are in the [miple-testdata](https://github.com/AlexD2112/miple-testdata/tree/main/nutrition) repository. To update the table, rebuild it there and copy the new `nutrition.json` into this folder.
+## nutrition.json
 
-`foodkeeper.json` holds 613 products from the USDA FSIS FoodKeeper database (CC0), each with fridge, pantry and freezer life in days. `src/domain/shelfLife.ts` matches an item to one product within groups that fit its category and uses that product's value for its usual storage, keeping the shorter end of every range. It is rebuilt from the FoodKeeper export in the test-data repository:
+About 455 common grocery items with USDA FoodData Central macros, receipt-style aliases ("BNLS CHKN BRST"), typical package sizes and a pantry category. `src/domain/nutrition.ts` uses it to attach nutrition to scanned receipt lines and to guess the category of items added by hand.
+
+The CSV, the build scripts and the source notes are in [miple-testdata/nutrition](https://github.com/AlexD2112/miple-testdata/tree/main/nutrition). To update it, rebuild there and copy the new `nutrition.json` here.
+
+## foodkeeper.json
+
+613 products from the USDA FoodKeeper database (CC0), each with how many days it keeps in the fridge, pantry and freezer. Where FoodKeeper gives a range, we keep the shorter end. `src/domain/shelfLife.ts` matches an item to a product in a group that fits its category, so raw chicken never picks up cooked chicken's numbers.
+
+To rebuild it from the FoodKeeper export in the test-data repo:
 
 ```bash
 node scripts/build-foodkeeper.mjs ../fixtures/_build/foodkeeper_foodsafetygov_en_20260416.json
 ```
 
-The allergen keywords in `src/domain/allergens.ts` include the curated list from the same repository (`bundle_small/data/small/allergen_keywords.csv`).
+The allergen keywords in `src/domain/allergens.ts` also pull in the curated list from that repo (`bundle_small/data/small/allergen_keywords.csv`).

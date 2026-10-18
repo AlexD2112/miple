@@ -46,7 +46,7 @@ export default function Chef() {
   const [messages, setMessages] = useState<ChatMessage[]>([
     {
       role: "chef",
-      text: "Tell me what you want to eat. I'll check the pantry, tell you what to buy or substitute, and wait for you to approve before I change the plan.",
+      text: "What are you in the mood for? I'll check your pantry, tell you what's missing, and I won't touch your plan until you say so.",
     },
   ]);
 
