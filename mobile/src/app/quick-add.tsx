@@ -3,6 +3,7 @@ import { router } from "expo-router";
 import { useEffect, useState } from "react";
 import { Alert, Pressable, Text, View } from "react-native";
 import { Button, Card, Chip, Field, Row, Screen, Title, colors, styles } from "@/components/ui";
+import { guessCategory } from "@/lib/api";
 import { logMealToHealth } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
 import { currentUserId, supabase } from "@/lib/supabase";
@@ -138,18 +139,51 @@ function WeightForm() {
 function PantryForm() {
   const [name, setName] = useState("");
   const [category, setCategory] = useState("other");
+  // True once the user taps a chip; then we stop overriding their choice.
+  const [picked, setPicked] = useState(false);
+  const [guessing, setGuessing] = useState(false);
   const [quantity, setQuantity] = useState("");
   const [price, setPrice] = useState("");
   const [saving, setSaving] = useState(false);
 
+  // Category sets the expiry date, so pick it from the name (USDA matcher, then LLM) as the user types.
+  useEffect(() => {
+    const trimmed = name.trim();
+    if (picked || trimmed.length < 2) return;
+    let cancelled = false;
+    const timer = setTimeout(async () => {
+      setGuessing(true);
+      try {
+        const g = await guessCategory(trimmed);
+        if (!cancelled) setCategory(g.category);
+      } catch {
+        // Offline or server down: keep the current chip.
+      } finally {
+        if (!cancelled) setGuessing(false);
+      }
+    }, 400);
+    return () => {
+      cancelled = true;
+      clearTimeout(timer);
+    };
+  }, [name, picked]);
+
   async function add(another: boolean) {
     if (!name.trim()) return;
     setSaving(true);
+    let finalCategory = category;
+    if (!picked) {
+      try {
+        finalCategory = (await guessCategory(name.trim())).category;
+      } catch {
+        // Fall back to whatever is selected.
+      }
+    }
     // Expiry is filled in by the database from the category's shelf life.
     const { error } = await supabase.from("items").insert({
       user_id: await currentUserId(),
       name: name.trim(),
-      category,
+      category: finalCategory,
       source: "manual",
       ...(parseFloat(quantity) > 0 ? { quantity: parseFloat(quantity) } : {}),
       ...(parseFloat(price) >= 0 && price.trim() ? { price: parseFloat(price) } : {}),
@@ -160,20 +194,34 @@ function PantryForm() {
       setName("");
       setQuantity("");
       setPrice("");
+      setCategory("other");
+      setPicked(false);
     } else {
       close();
     }
   }
+
+  const chips = CATEGORIES.includes(category) ? CATEGORIES : [category, ...CATEGORIES];
 
   return (
     <>
       <Title sub="For things that weren't on a receipt">Add to pantry</Title>
       <Card>
         <Field label="Item" value={name} onChangeText={setName} placeholder="e.g. eggs from the farmers market" autoFocus />
-        <Text style={styles.label}>Category (sets the expiry date)</Text>
+        <Text style={styles.label}>
+          Category (sets the expiry date){guessing ? " · picking…" : picked ? "" : " · picked automatically, tap to change"}
+        </Text>
         <Row style={{ flexWrap: "wrap", gap: 6, marginBottom: 12 }}>
-          {CATEGORIES.map((c) => (
-            <Chip key={c} label={label(c)} selected={category === c} onPress={() => setCategory(c)} />
+          {chips.map((c) => (
+            <Chip
+              key={c}
+              label={label(c)}
+              selected={category === c}
+              onPress={() => {
+                setCategory(c);
+                setPicked(true);
+              }}
+            />
           ))}
         </Row>
         <Row style={{ gap: 8 }}>
