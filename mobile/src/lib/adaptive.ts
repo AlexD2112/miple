@@ -34,12 +34,13 @@ const DAY_MS = 86_400_000;
 /** The smoothed trend needs about a week of weigh-ins before it is better than the latest reading. */
 const TREND_MIN_DAYS = 7;
 
-export const DEFAULT_GOAL: WeightGoal = { mode: "maintain", goalLb: null, ratePerWeek: 0.5, auto: false };
+// No mode until the user picks one or enters a goal weight; `modeOf` then infers it (see below).
+export const DEFAULT_GOAL: WeightGoal = { goalLb: null, ratePerWeek: 0.5, auto: false };
 
 export async function loadGoal(): Promise<WeightGoal> {
   try {
     const raw = await AsyncStorage.getItem(GOAL_KEY);
-    if (raw) return { ...DEFAULT_GOAL, mode: undefined, ...(JSON.parse(raw) as Partial<WeightGoal>) };
+    if (raw) return { ...DEFAULT_GOAL, ...(JSON.parse(raw) as Partial<WeightGoal>) };
   } catch {}
   return DEFAULT_GOAL;
 }
