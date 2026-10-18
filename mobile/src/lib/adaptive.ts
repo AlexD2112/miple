@@ -111,7 +111,7 @@ export function recommend(
     expenditureSource === "measured"
       ? `You've averaged ${Math.round(avgIntake!)} kcal and your trend moved ${trendLbPerWeek! >= 0 ? "+" : ""}${trendLbPerWeek!.toFixed(1)} lb/week, so you burn about ${round10(expenditure)} kcal a day.`
       : currentLb
-        ? "Estimated from your weight for now. Log weigh-ins for a week (and food in Apple Health) and Miple will measure what you really burn."
+        ? "Estimated from your weight for now. Log weigh-ins for a week (and food in Apple Health) and Ripe will measure what you really burn."
         : "Log your weight to get automatic targets.";
 
   return { currentLb, trendLbPerWeek, expenditure: round10(expenditure), expenditureSource, calories, protein_g, carbs_g, fat_g, direction, reason };

@@ -89,7 +89,7 @@ export function BuyNext() {
           <Button
             kind="secondary"
             label="Share shopping list"
-            onPress={() => Share.share({ message: `Miple shopping list:\n${items.map((s) => `• ${s.name} (~$${s.est_price.toFixed(2)})`).join("\n")}` })}
+            onPress={() => Share.share({ message: `Ripe shopping list:\n${items.map((s) => `• ${s.name} (~$${s.est_price.toFixed(2)})`).join("\n")}` })}
           />
         </>
       ) : null}
