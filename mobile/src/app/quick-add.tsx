@@ -64,10 +64,7 @@ function Home({ onPick }: { onPick: (m: Mode) => void }) {
         <Tile
           emoji="🧾"
           title="Scan receipt"
-          onPress={() => {
-            close();
-            router.navigate("/scan");
-          }}
+          onPress={() => router.dismissTo("/scan")}
         />
         <Tile emoji="⚖️" title="Weight" onPress={() => onPick("weight")} />
         <Tile emoji="🥕" title="Pantry item" onPress={() => onPick("pantry")} />
