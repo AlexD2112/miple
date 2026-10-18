@@ -13,9 +13,9 @@ The repository contains the mobile app, the API server, and the database schema.
 
 ## How it works
 
-**Scanning.** The app uploads a receipt photo to `POST /receipts/parse`. The server sends it to Perceptron for OCR, and Gemini converts the text into structured items, so a line such as `ORG SPNCH 5OZ` becomes organic spinach, 5 oz, in the `leafy_greens` category. If Perceptron is not configured or the call fails, Gemini reads the image directly. The server then validates the purchase date, clamps quantities and prices, attaches USDA nutrition where the item matches the reference table, and sets each expiry date from the category's shelf life. The user reviews the items before they are saved.
+**Scanning.** The app uploads a receipt photo to `POST /receipts/parse`. The server sends it to Perceptron for OCR, and Gemini converts the text into structured items, so a line such as `ORG SPNCH 5OZ` becomes organic spinach, 5 oz, in the `leafy_greens` category. If Perceptron is not configured or the call fails, Gemini reads the image directly. The server then validates the purchase date, clamps quantities and prices, attaches USDA nutrition where the item matches the reference table, and sets each expiry date from the USDA FoodKeeper entry for that food (apples keep four weeks, bananas three days), falling back to the category's shelf life when no FoodKeeper product matches confidently. The user reviews the items before they are saved.
 
-**Adding items by hand.** The quick-add screen picks a category from the item name as the user types. It tries the USDA matcher first and asks Gemini only when the matcher has no confident answer, because the category determines the expiry date.
+**Adding items by hand.** The quick-add screen picks a category from the item name as the user types, trying the USDA matcher first and asking Gemini only when the matcher has no confident answer. `POST /items/shelf-life` then sets the expiry date, preferring the FoodKeeper value and using Gemini's estimate only for foods FoodKeeper does not cover.
 
 **Planning.** The app reads free time from the device calendar, treating busy all-day events as unavailable, and finds lunch and dinner windows. It requests recipes from `POST /recipes/generate` using the most urgent pantry items and the user's remaining macros for the day, ranks them by urgency (50%), macro fit (30%) and time fit (20%), and schedules up to 10 meals. The user can then ask the chef (`POST /recipes/chef`) to swap, add or skip a meal. The chef proposes a change, and nothing is saved until the user approves it through `POST /recipes/chef/apply`.
 
@@ -34,6 +34,7 @@ Every route except `/health` requires a Supabase access token in the `Authorizat
 | `GET /health` | Liveness check that also reports the model and AI routes. |
 | `POST /receipts/parse` | Parses a receipt photo (multipart field `image`) into reviewable items. |
 | `POST /items/category` | Returns the pantry category for an item name. |
+| `POST /items/shelf-life` | Returns the category, storage and shelf life for an item name. |
 | `POST /recipes/generate` | Generates allergen-safe recipes from the pantry and stores them. |
 | `POST /recipes/chef` | Runs one turn of the chef chat and may return a proposed plan change. |
 | `POST /recipes/chef/apply` | Saves a proposal the user approved. |
