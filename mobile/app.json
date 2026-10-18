@@ -23,10 +23,11 @@
     "plugins": [
       "expo-router",
       [
-        "react-native-health",
+        "@kingstinct/react-native-healthkit",
         {
-          "healthSharePermission": "Miple reads the calories and macros you have logged today, and your active energy, to plan meals that fit your targets.",
-          "healthUpdatePermission": "Miple logs the calories and macros of meals you cook so they show up in your other health apps."
+          "NSHealthShareUsageDescription": "Miple reads the calories and macros you have logged today, and your active energy, to plan meals that fit your targets.",
+          "NSHealthUpdateUsageDescription": "Miple logs the calories and macros of meals you cook so they show up in your other health apps.",
+          "background": false
         }
       ],
       [

@@ -3,7 +3,9 @@
   "version": "1.0.0",
   "main": "expo-router/entry",
   "dependencies": {
+    "@kingstinct/react-native-healthkit": "^16.2.0",
     "@react-native-async-storage/async-storage": "2.2.0",
+    "@react-native-healthkit/core": "^16.2.0",
     "@supabase/supabase-js": "^2.118.0",
     "expo": "~58.0.14",
     "expo-calendar": "~58.0.6",
@@ -16,14 +18,13 @@
     "expo-web-browser": "~58.0.6",
     "react": "19.3.0",
     "react-native": "0.88.0",
-    "react-native-health": "^1.19.0",
+    "react-native-nitro-modules": "^0.37.1",
     "react-native-safe-area-context": "~5.10.1",
     "react-native-screens": "~4.30.0",
     "react-native-url-polyfill": "^4.0.0"
   },
   "devDependencies": {
     "@types/react": "~19.3.0",
-    "patch-package": "^8.0.1",
     "typescript": "~6.0.3"
   },
   "scripts": {
@@ -31,8 +32,7 @@
     "ios": "expo run:ios",
     "prebuild": "expo prebuild --platform ios",
     "typecheck": "tsc --noEmit",
-    "lint": "expo lint",
-    "postinstall": "patch-package"
+    "lint": "expo lint"
   },
   "private": true
 }

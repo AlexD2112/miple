@@ -1,59 +1,91 @@
-import { NativeModules, Platform } from "react-native";
-import type { HealthKitPermissions, HealthValue } from "react-native-health";
+import { Platform } from "react-native";
 import { supabase } from "./supabase";
 import type { Macros, MealSlot, Profile, Recipe } from "./types";
 
 /**
  * Everything Apple Health lives behind this file. The rest of the app calls
  * `getRemainingMacros()` and `logMealToHealth()` and never touches HealthKit directly,
- * so the core loop keeps working when HealthKit is unavailable (Android, simulator,
- * Expo Go, permission denied, or a dev account without the capability).
+ * so the core loop keeps working when HealthKit is unavailable.
+ *
+ * Uses @kingstinct/react-native-healthkit (Nitro modules), which works on the
+ * New Architecture. The old react-native-health module never registered there.
  *
  * Privacy rule: raw samples stay on the device. Only the four remaining-macro numbers
  * are ever sent to the server / LLM.
  */
 
-// Loaded lazily so a missing native module (e.g. Expo Go) can't crash at import time.
-function healthKit() {
-  if (Platform.OS !== "ios" || !NativeModules.AppleHealthKit) return null;
-  return (require("react-native-health") as typeof import("react-native-health")).default;
+type HK = typeof import("@kingstinct/react-native-healthkit");
+
+// Loaded lazily so a missing native module can't crash the app at import time.
+let hkCache: HK | null | undefined;
+
+/** Why the last Health call failed, shown to the user so problems are visible without logs. */
+export let lastHealthError: string | null = null;
+function fail(where: string, err: unknown) {
+  lastHealthError = `${where}: ${err instanceof Error ? err.message : String(err)}`;
+  console.warn("[health]", lastHealthError);
+}
+
+function healthKit(): HK | null {
+  if (hkCache !== undefined) return hkCache;
+  hkCache = null;
+  if (Platform.OS !== "ios") {
+    lastHealthError = "Apple Health is only available on iOS.";
+    return null;
+  }
+  try {
+    const mod = require("@kingstinct/react-native-healthkit") as HK;
+    if (mod.isHealthDataAvailable()) hkCache = mod;
+    else lastHealthError = "HealthKit reports it is not available on this device.";
+  } catch (err) {
+    fail("loading the HealthKit module", err);
+  }
+  return hkCache;
 }
 
 export const isHealthKitSupported = () => healthKit() !== null;
+
+const ENERGY = "HKQuantityTypeIdentifierDietaryEnergyConsumed" as const;
+const PROTEIN = "HKQuantityTypeIdentifierDietaryProtein" as const;
+const CARBS = "HKQuantityTypeIdentifierDietaryCarbohydrates" as const;
+const FAT = "HKQuantityTypeIdentifierDietaryFatTotal" as const;
+const ACTIVE = "HKQuantityTypeIdentifierActiveEnergyBurned" as const;
 
 let initialized = false;
 
 export async function requestHealthPermissions(): Promise<boolean> {
   const hk = healthKit();
   if (!hk) return false;
-  const P = hk.Constants.Permissions;
-  const permissions: HealthKitPermissions = {
-    permissions: {
-      read: [P.EnergyConsumed, P.Protein, P.Carbohydrates, P.FatTotal, P.ActiveEnergyBurned, P.Weight],
-      write: [P.EnergyConsumed, P.Protein, P.Carbohydrates, P.FatTotal],
-    },
-  };
-  return new Promise((resolve) => {
-    hk.initHealthKit(permissions, (err) => {
-      initialized = !err;
-      if (err) console.warn("[health] init failed", err);
-      resolve(!err);
+  try {
+    await hk.requestAuthorization({
+      toRead: [ENERGY, PROTEIN, CARBS, FAT, ACTIVE, "HKQuantityTypeIdentifierBodyMass"],
+      toShare: [ENERGY, PROTEIN, CARBS, FAT],
     });
-  });
+    initialized = true;
+    lastHealthError = null;
+    return true;
+  } catch (err) {
+    fail("requesting permission", err);
+    return false;
+  }
 }
 
-type SampleReader = (opts: { startDate: string; endDate: string }, cb: (err: string, r: HealthValue[]) => void) => void;
+type SumIdentifier = typeof ENERGY | typeof PROTEIN | typeof CARBS | typeof FAT | typeof ACTIVE;
 
-function sumToday(reader: SampleReader | undefined, extra: Record<string, unknown> = {}): Promise<number> {
-  if (!reader) return Promise.resolve(0);
+/** Total for today (midnight to now). Returns 0 on any error or when there is no data. */
+async function sumToday(hk: HK, identifier: SumIdentifier, unit: "kcal" | "g"): Promise<number> {
   const start = new Date();
   start.setHours(0, 0, 0, 0);
-  return new Promise((resolve) => {
-    reader({ startDate: start.toISOString(), endDate: new Date().toISOString(), ...extra }, (err, results) => {
-      if (err || !Array.isArray(results)) return resolve(0);
-      resolve(results.reduce((acc, r) => acc + (Number(r.value) || 0), 0));
-    });
-  });
+  try {
+    const res = await hk.queryStatisticsForQuantity(identifier, ["cumulativeSum"], {
+      filter: { date: { startDate: start, endDate: new Date() } },
+      unit,
+    } as never);
+    return res.sumQuantity?.quantity ?? 0;
+  } catch (err) {
+    fail(`reading ${identifier.replace("HKQuantityTypeIdentifier", "")}`, err);
+    return 0;
+  }
 }
 
 export interface MacroStatus {
@@ -84,11 +116,11 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
     try {
       if (!initialized) await requestHealthPermissions();
       const [calories, protein, carbs, fat, active] = await Promise.all([
-        sumToday(hk.getEnergyConsumedSamples as SampleReader),
-        sumToday(hk.getProteinSamples as SampleReader),
-        sumToday(hk.getCarbohydratesSamples as SampleReader),
-        sumToday(hk.getTotalFatSamples as SampleReader),
-        sumToday(hk.getActiveEnergyBurned as SampleReader),
+        sumToday(hk, ENERGY, "kcal"),
+        sumToday(hk, PROTEIN, "g"),
+        sumToday(hk, CARBS, "g"),
+        sumToday(hk, FAT, "g"),
+        sumToday(hk, ACTIVE, "kcal"),
       ]);
       consumed = { calories, protein_g: protein, carbs_g: carbs, fat_g: fat };
       activeEnergyBurned = active;
@@ -142,30 +174,37 @@ async function mipleMealsToday(): Promise<Macros> {
   );
 }
 
-/** Writes one serving of a cooked Miple meal to Apple Health. */
+/** Writes one serving of a cooked Miple meal to Apple Health as a food correlation. */
 export async function logMealToHealth(recipe: Recipe, at = new Date()): Promise<boolean> {
   const hk = healthKit();
   if (!hk) return false;
   if (!initialized && !(await requestHealthPermissions())) return false;
 
-  const hour = at.getHours();
-  const mealType = hour < 11 ? "Breakfast" : hour < 16 ? "Lunch" : "Dinner";
-  const options = {
-    foodName: recipe.title,
-    mealType,
-    date: at.toISOString(),
-    energy: recipe.calories,
-    protein: recipe.protein_g,
-    carbohydrates: recipe.carbs_g,
-    fatTotal: recipe.fat_g,
-  };
-  return new Promise((resolve) => {
-    // saveFood's typings are narrower than what the native side accepts (see its docs/saveFood.md).
-    hk.saveFood(options as never, (err) => {
-      if (err) console.warn("[health] saveFood failed", err);
-      resolve(!err);
-    });
+  const sample = (quantityType: SumIdentifier, unit: "kcal" | "g", quantity: number) => ({
+    quantityType,
+    unit,
+    quantity: Math.max(0, Number(quantity) || 0),
+    startDate: at,
+    endDate: at,
   });
+  try {
+    await hk.saveCorrelationSample(
+      "HKCorrelationTypeIdentifierFood",
+      [
+        sample(ENERGY, "kcal", recipe.calories),
+        sample(PROTEIN, "g", recipe.protein_g),
+        sample(CARBS, "g", recipe.carbs_g),
+        sample(FAT, "g", recipe.fat_g),
+      ] as never,
+      at,
+      at,
+      { HKFoodType: recipe.title } as never,
+    );
+    return true;
+  } catch (err) {
+    fail("saving a meal", err);
+    return false;
+  }
 }
 
 /**

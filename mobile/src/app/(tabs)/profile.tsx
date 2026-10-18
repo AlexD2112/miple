@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { Alert, Switch, Text } from "react-native";
 import { Button, Card, Chip, Field, Row, Screen, Title, colors, styles } from "@/components/ui";
-import { isHealthKitSupported, requestHealthPermissions } from "@/lib/health";
+import { isHealthKitSupported, lastHealthError, requestHealthPermissions } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
 import { supabase } from "@/lib/supabase";
 import { ALLERGENS, DIETS, type Profile } from "@/lib/types";
@@ -35,7 +35,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
     if (on && !(await requestHealthPermissions())) {
       return Alert.alert(
         "Apple Health unavailable",
-        "Health needs an iPhone running the Miple development build. Miple will use your manual targets instead.",
+        `${lastHealthError ?? "Unknown error."}\n\nMiple will use your manual targets instead.`,
       );
     }
     set({ healthkit_enabled: on });
