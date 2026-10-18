@@ -18,5 +18,6 @@ export const env = {
   photonApiKey: process.env.PHOTON_API_KEY || null,
   photonSendUrl: process.env.PHOTON_SEND_URL || null,
   photonWebhookSecret: process.env.PHOTON_WEBHOOK_SECRET || null,
+  veyzlProbeToken: process.env.VEYZL_PROBE_TOKEN || null,
   nudgeCron: process.env.NUDGE_CRON || "0 9 * * *",
 };

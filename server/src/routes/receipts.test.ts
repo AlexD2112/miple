@@ -101,3 +101,55 @@ test("withNutrition prefers the more confident of raw line vs LLM name and never
   const none = { raw_name: "", name: "" };
   assert.equal(withNutrition(none), none);
 });
+
+const PNG_B64 = Buffer.alloc(120, 7).toString("base64");
+
+async function postProbe(headers: Record<string, string>): Promise<{ status: number; calls: number }> {
+  const fetchMock = mock.method(globalThis, "fetch", (async (input: string | URL | Request, init?: RequestInit) => {
+    const url = String(input instanceof Request ? input.url : input);
+    if (url.startsWith("http://127.0.0.1")) return realFetch(input, init);
+    if (url.includes("/auth/v1/user")) return Response.json({ message: "invalid JWT" }, { status: 401 });
+    throw new Error(`unexpected fetch ${url}`);
+  }) as typeof fetch);
+  const genMock = mock.method(gemini.models, "generateContent", (async () => ({ text: "a receipt" })) as any);
+  const app = express();
+  app.use(express.json({ limit: "1mb" }));
+  app.use("/receipts", receipts);
+  const server = app.listen(0);
+  try {
+    const { port } = server.address() as AddressInfo;
+    const res = await realFetch(`http://127.0.0.1:${port}/receipts/parse`, {
+      method: "POST",
+      headers: { "Content-Type": "application/json", ...headers },
+      body: JSON.stringify({ prompt: "What is this?", image: PNG_B64 }),
+    });
+    await res.text();
+    return { status: res.status, calls: genMock.mock.calls.length };
+  } finally {
+    server.close();
+    fetchMock.mock.restore();
+    genMock.mock.restore();
+  }
+}
+
+test("vision probe without a token never reaches Gemini", async () => {
+  const { status, calls } = await postProbe({});
+  assert.equal(status, 401);
+  assert.equal(calls, 0);
+});
+
+test("vision probe with a wrong token never reaches Gemini", async () => {
+  const { status, calls } = await postProbe({ Authorization: "Bearer not-the-token" });
+  assert.equal(status, 401);
+  assert.equal(calls, 0);
+});
+
+test("isAuditProbe accepts only the configured token", async () => {
+  const { isAuditProbe } = await import("./receipts.js");
+  const req = (h: Record<string, string>) => ({ header: (n: string) => h[n.toLowerCase()] }) as any;
+  assert.equal(isAuditProbe(req({ authorization: "Bearer s3cret" }), null), false);
+  assert.equal(isAuditProbe(req({ authorization: "Bearer s3cret" }), "s3cret"), true);
+  assert.equal(isAuditProbe(req({ "x-veyzl-token": "s3cret" }), "s3cret"), true);
+  assert.equal(isAuditProbe(req({ authorization: "Bearer s3cre" }), "s3cret"), false);
+  assert.equal(isAuditProbe(req({}), "s3cret"), false);
+});
