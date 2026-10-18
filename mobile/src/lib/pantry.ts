@@ -96,7 +96,6 @@ export async function addPantryItem(input: {
     source: "manual",
     ...(input.quantity && input.quantity > 0 ? { quantity: input.quantity } : {}),
     ...(input.price != null && input.price >= 0 ? { price: input.price } : {}),
-    purchased_at: todayIso,
     estimated_expiry: addDaysIso(todayIso, estimate.days),
   });
   return { error: error?.message ?? null, estimate };
