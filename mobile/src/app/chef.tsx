@@ -1,4 +1,4 @@
-import { router } from "expo-router";
+import { router, useLocalSearchParams } from "expo-router";
 import { useState } from "react";
 import {
   ActivityIndicator,
@@ -38,7 +38,8 @@ interface ChatMessage {
 export default function Chef() {
   const { profile } = useProfile();
   const insets = useSafeAreaInsets();
-  const [draft, setDraft] = useState("");
+  const { q } = useLocalSearchParams<{ q?: string }>();
+  const [draft, setDraft] = useState(typeof q === "string" ? q : "");
   const [sending, setSending] = useState(false);
   const [proposal, setProposal] = useState<ChefProposal | null>(null);
   const [messages, setMessages] = useState<ChatMessage[]>([

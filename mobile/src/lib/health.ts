@@ -49,6 +49,7 @@ const ENERGY = "HKQuantityTypeIdentifierDietaryEnergyConsumed" as const;
 const PROTEIN = "HKQuantityTypeIdentifierDietaryProtein" as const;
 const CARBS = "HKQuantityTypeIdentifierDietaryCarbohydrates" as const;
 const FAT = "HKQuantityTypeIdentifierDietaryFatTotal" as const;
+const FIBER = "HKQuantityTypeIdentifierDietaryFiber" as const;
 const ACTIVE = "HKQuantityTypeIdentifierActiveEnergyBurned" as const;
 
 let initialized = false;
@@ -58,7 +59,7 @@ export async function requestHealthPermissions(): Promise<boolean> {
   if (!hk) return false;
   try {
     await hk.requestAuthorization({
-      toRead: [ENERGY, PROTEIN, CARBS, FAT, ACTIVE, "HKQuantityTypeIdentifierBodyMass"],
+      toRead: [ENERGY, PROTEIN, CARBS, FAT, FIBER, ACTIVE, "HKQuantityTypeIdentifierBodyMass"],
       toShare: [ENERGY, PROTEIN, CARBS, FAT],
     });
     initialized = true;
@@ -70,7 +71,7 @@ export async function requestHealthPermissions(): Promise<boolean> {
   }
 }
 
-type SumIdentifier = typeof ENERGY | typeof PROTEIN | typeof CARBS | typeof FAT | typeof ACTIVE;
+type SumIdentifier = typeof ENERGY | typeof PROTEIN | typeof CARBS | typeof FAT | typeof FIBER | typeof ACTIVE;
 
 /** Total for today (midnight to now). Returns 0 on any error or when there is no data. */
 async function sumToday(hk: HK, identifier: SumIdentifier, unit: "kcal" | "g"): Promise<number> {
@@ -94,6 +95,8 @@ export interface MacroStatus {
   consumed: Macros;
   remaining: Macros;
   activeEnergyBurned: number;
+  /** Consumed fiber in grams. Set only when today's numbers come from Apple Health. */
+  fiber_g?: number;
 }
 
 const zero: Macros = { calories: 0, protein_g: 0, carbs_g: 0, fat_g: 0 };
@@ -110,20 +113,23 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
   let source: MacroStatus["source"] = "manual";
   let consumed = zero;
   let activeEnergyBurned = 0;
+  let fiber_g: number | undefined;
 
   const hk = healthKit();
   if (profile.healthkit_enabled && hk) {
     try {
       if (!initialized) await requestHealthPermissions();
-      const [calories, protein, carbs, fat, active] = await Promise.all([
+      const [calories, protein, carbs, fat, fiber, active] = await Promise.all([
         sumToday(hk, ENERGY, "kcal"),
         sumToday(hk, PROTEIN, "g"),
         sumToday(hk, CARBS, "g"),
         sumToday(hk, FAT, "g"),
+        sumToday(hk, FIBER, "g"),
         sumToday(hk, ACTIVE, "kcal"),
       ]);
       consumed = { calories, protein_g: protein, carbs_g: carbs, fat_g: fat };
       activeEnergyBurned = active;
+      fiber_g = fiber;
       source = "healthkit";
     } catch (err) {
       console.warn("[health] read failed, using manual targets", err);
@@ -140,7 +146,7 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
     carbs_g: Math.max(0, Math.round(target.carbs_g - consumed.carbs_g)),
     fat_g: Math.max(0, Math.round(target.fat_g - consumed.fat_g)),
   };
-  return { source, target, consumed, remaining, activeEnergyBurned };
+  return { source, target, consumed, remaining, activeEnergyBurned, fiber_g };
 }
 
 /** Heavy workout day: eat back half of active energy above a 300 kcal baseline. */

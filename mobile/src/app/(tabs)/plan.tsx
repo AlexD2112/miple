@@ -1,7 +1,7 @@
 import { router } from "expo-router";
 import { useState } from "react";
 import { Alert, Text, View } from "react-native";
-import { Button, Card, Pill, Row, Screen, Title, styles } from "@/components/ui";
+import { Button, Card, Pill, ProgressBar, ProgressRing, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { addMealToCalendar } from "@/lib/calendar";
 import { timeRange } from "@/lib/dates";
 import { getRemainingMacros, logMealToHealth, type MacroStatus } from "@/lib/health";
@@ -141,20 +141,45 @@ export default function Plan() {
   );
 }
 
+const FIBER_GOAL_G = 30;
+
 function MacroSummary({ m }: { m: MacroStatus }) {
+  const calorieTarget = m.target.calories;
+  const rows = [
+    { label: "Protein", consumed: m.consumed.protein_g, goal: m.target.protein_g, color: colors.danger },
+    { label: "Carbs", consumed: m.consumed.carbs_g, goal: m.target.carbs_g, color: colors.warn },
+    { label: "Fat", consumed: m.consumed.fat_g, goal: m.target.fat_g, color: "#FFCC00" },
+    ...(m.fiber_g === undefined ? [] : [{ label: "Fiber", consumed: m.fiber_g, goal: FIBER_GOAL_G, color: colors.brand }]),
+  ];
+
   return (
     <Card>
-      <Row style={{ justifyContent: "space-between", marginBottom: 6 }}>
+      <Row style={{ justifyContent: "space-between", marginBottom: 16 }}>
         <Text style={styles.h2}>Today</Text>
         <Pill label={m.source === "healthkit" ? "Apple Health" : "Manual targets"} tone={m.source === "healthkit" ? "good" : "neutral"} />
       </Row>
-      <Text style={styles.body}>
-        You've had {Math.round(m.consumed.calories)} kcal and {Math.round(m.consumed.protein_g)}g protein
-        {m.activeEnergyBurned > 0 ? `, and burned ${Math.round(m.activeEnergyBurned)} kcal` : ""}.
-      </Text>
-      <Text style={[styles.muted, { marginTop: 4 }]}>
-        Remaining: {m.remaining.calories} kcal · P {m.remaining.protein_g}g · C {m.remaining.carbs_g}g · F {m.remaining.fat_g}g
-      </Text>
+      <View style={{ alignItems: "center", marginBottom: 20 }}>
+        <ProgressRing progress={calorieTarget > 0 ? m.consumed.calories / calorieTarget : 0} size={168} stroke={12} color={colors.brand}>
+          <Text style={{ fontSize: 32, lineHeight: 36, fontWeight: "700", color: colors.text, fontVariant: ["tabular-nums"] }}>
+            {Math.round(m.consumed.calories)}
+          </Text>
+        </ProgressRing>
+        <Text style={[styles.muted, { marginTop: 10 }]}>of {Math.round(calorieTarget)} kcal</Text>
+      </View>
+      {rows.map((row) => (
+        <View key={row.label} style={{ marginBottom: 12 }}>
+          <Row style={{ justifyContent: "space-between", marginBottom: 6 }}>
+            <Text style={styles.body}>{row.label}</Text>
+            <Text style={styles.muted}>
+              {Math.round(row.consumed)} / {Math.round(row.goal)} g
+            </Text>
+          </Row>
+          <ProgressBar progress={row.goal > 0 ? row.consumed / row.goal : 0} color={row.color} />
+        </View>
+      ))}
+      {m.activeEnergyBurned > 0 ? (
+        <Text style={[styles.muted, { marginTop: 4 }]}>+{Math.round(m.activeEnergyBurned)} kcal burned</Text>
+      ) : null}
     </Card>
   );
 }
