@@ -135,5 +135,5 @@ All changes go through pull requests, which VEYZL audits automatically.
 
 ## Known limitations
 
-- Expiry dates are estimated from the food category rather than read from the package, and users can adjust them in the pantry.
+- Expiry dates are estimates from USDA FoodKeeper or the food category, not dates read from the package, so users can adjust them in the pantry.
 - The app supports iOS only because it depends on HealthKit, and an Android version would need Health Connect.
