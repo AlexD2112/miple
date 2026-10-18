@@ -3,7 +3,8 @@ import multer from "multer";
 import { structured, type UserPart } from "../lib/gemini.js";
 import { answerAuditProbe, isAuditProbe } from "../lib/audit.js";
 import { perceptronOcr } from "../lib/perceptron.js";
-import { getShelfLife, requireUser } from "../lib/supabase.js";
+import { getProfile, getShelfLife, requireUser, type AuthedRequest } from "../lib/supabase.js";
+import { cleanPrice, cleanQuantity, purchaseDateOrToday } from "../domain/receiptRules.js";
 import { nutritionForItem } from "../domain/nutrition.js";
 import { CATEGORIES, ParsedReceipt, type ItemNutrition } from "../domain/schemas.js";
 
@@ -42,17 +43,24 @@ receipts.post("/parse", (req, res, next) => {
 
   const parsed = await structured(ParsedReceipt, { system: SYSTEM, content });
   const shelfLife = await getShelfLife();
-  const purchaseDate = isIsoDate(parsed.purchased_at) ? parsed.purchased_at! : today();
+  // Real, plausible printed date, else the user's local today (not UTC).
+  const timeZone = await getProfile((req as AuthedRequest).userId!)
+    .then((p) => p.timezone)
+    .catch(() => "America/Los_Angeles");
+  const purchaseDate = purchaseDateOrToday(parsed.purchased_at, timeZone);
 
   res.json({
     ocr: ocrText ? "perceptron" : "gemini_vision",
     store: parsed.store,
     purchased_at: purchaseDate,
-    total: parsed.total,
+    total: cleanPrice(parsed.total),
     items: parsed.items
       .filter((i) => i.is_food)
       .map((i) => withNutrition({
         ...i,
+        // One misread quantity (e.g. a UPC) used to overflow numeric(10,2) and fail the whole receipt save.
+        quantity: cleanQuantity(i.quantity),
+        price: cleanPrice(i.price),
         purchase_date: purchaseDate,
         estimated_expiry: addDays(purchaseDate, shelfLife.get(i.category) ?? 7),
       })),
@@ -65,8 +73,6 @@ export function withNutrition<T extends { raw_name: string; name: string }>(item
   return nutrition ? { ...item, nutrition } : item;
 }
 
-const today = () => new Date().toISOString().slice(0, 10);
-const isIsoDate = (s: string | null) => !!s && /^\d{4}-\d{2}-\d{2}$/.test(s) && !isNaN(Date.parse(s));
 
 function addDays(isoDate: string, days: number): string {
   const d = new Date(`${isoDate}T00:00:00Z`);

@@ -5,6 +5,7 @@ import { answerAuditProbe, isAuditProbe } from "../lib/audit.js";
 import { containsDisliked, findAllergens, violatesAllergies } from "../domain/allergens.js";
 import { CHEF_GUARDRAILS, redactOutput, screenInput } from "../domain/guard.js";
 import { groundRecipesToPantry } from "../domain/pantryRecipes.js";
+import { pantryForPrompt } from "../domain/receiptRules.js";
 import {
   ChefApplyRequest,
   ChefRequest,
@@ -53,7 +54,8 @@ recipes.post("/generate", requireUser, async (req: AuthedRequest, res) => {
   const profile = await getProfile(req.userId!);
 
   // Don't even offer the model pantry items the user is allergic to.
-  const safePantry = pantry.filter((p) => findAllergens([p.name], profile.allergies).length === 0);
+  // No allergens, nothing expired, most urgent first, capped.
+  const safePantry = pantryForPrompt(pantry, profile.allergies);
   const pantryIds = new Set(safePantry.map((p) => p.id));
 
   const prompt = {
@@ -64,9 +66,7 @@ recipes.post("/generate", requireUser, async (req: AuthedRequest, res) => {
     remaining_macros_today: remaining,
     max_minutes,
     recipes_wanted: count,
-    pantry: [...safePantry]
-      .sort((a, b) => a.days_left - b.days_left)
-      .map(({ id, name, quantity, unit, days_left }) => ({ id, name, quantity, unit, days_left })),
+    pantry: safePantry.map(({ id, name, quantity, unit, days_left }) => ({ id, name, quantity, unit, days_left })),
   };
 
   const staples = profile.allow_staples === true;
@@ -97,7 +97,8 @@ async (req: AuthedRequest, res) => {
   if (refusal) return res.json({ message: refusal.message, proposal: null });
 
   const profile = await getProfile(req.userId!);
-  const safePantry = pantry.filter((p) => findAllergens([p.name], profile.allergies).length === 0);
+  // No allergens, nothing expired, most urgent first, capped.
+  const safePantry = pantryForPrompt(pantry, profile.allergies);
 
   const prompt = {
     diet: profile.diet,
@@ -106,9 +107,7 @@ async (req: AuthedRequest, res) => {
     remaining_macros_today: remaining,
     now,
     free_windows: windows,
-    pantry: [...safePantry]
-      .sort((a, b) => a.days_left - b.days_left)
-      .map(({ id, name, quantity, unit, days_left }) => ({ id, name, quantity, unit, days_left })),
+    pantry: safePantry.map(({ id, name, quantity, unit, days_left }) => ({ id, name, quantity, unit, days_left })),
     plan,
     transcript: messages.map((m) => ({ role: m.role, text: m.text })),
   };
