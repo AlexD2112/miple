@@ -72,7 +72,7 @@ export const RecipeRequest = z.object({
     .max(2000), // the server keeps the 150 most urgent (pantryForPrompt); big pantries used to 400 here
   remaining: RemainingMacros,
   max_minutes: z.number().int().min(5).max(180),
-  count: z.number().int().min(1).max(8).default(5),
+  count: z.number().int().min(1).max(10).default(5),
 });
 
 export const RecipeDraft = z.object({
@@ -159,11 +159,11 @@ export const FreeWindowInput = z.object({
 
 export const ChefRequest = z.object({
   messages: z.array(ChefMessage).min(1).max(20),
-  plan: z.array(PlannedMeal).max(20),
+  plan: z.array(PlannedMeal).max(120),
   pantry: RecipeRequest.shape.pantry,
   remaining: RemainingMacros,
   now: z.string(),
-  windows: z.array(FreeWindowInput).max(14),
+  windows: z.array(FreeWindowInput).max(120),
 });
 
 export const CookStep = z.object({

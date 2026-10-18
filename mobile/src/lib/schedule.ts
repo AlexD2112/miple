@@ -6,7 +6,14 @@ import { currentUserId, supabase } from "@/lib/supabase";
 import type { Item, Macros, MealSlot, Recipe } from "@/lib/types";
 import { stepText } from "@/lib/types";
 
-const PLAN_DAYS = 3;
+/** How many meals one "plan" request schedules. The day horizon only decides where they can land. */
+export const MEALS_PER_PLAN = 10;
+export const MAX_PLAN_DAYS = 60;
+
+export function planDays(value: number | undefined, fallback = 7): number {
+  if (value === undefined || !Number.isFinite(value)) return fallback;
+  return Math.min(MAX_PLAN_DAYS, Math.max(1, Math.round(value)));
+}
 
 export function mealNotes(recipe: Recipe): string {
   return [
@@ -41,7 +48,8 @@ export async function syncMealsToCalendar(slots: MealSlot[]): Promise<void> {
 }
 
 /** Fills free lunch and dinner windows that don't already have a planned meal. */
-export async function planOpenWindows(input: { remaining: Macros; target: Macros }): Promise<number> {
+export async function planOpenWindows(input: { remaining: Macros; target: Macros; days?: number }): Promise<number> {
+  const days = planDays(input.days);
   const since = new Date();
   since.setHours(0, 0, 0, 0);
   const [{ data: itemRows }, { data: slotRows }] = await Promise.all([
@@ -52,9 +60,9 @@ export async function planOpenWindows(input: { remaining: Macros; target: Macros
   if (pantry.length === 0) throw new Error("Your pantry is empty. Scan a receipt first.");
 
   const taken = (slotRows ?? []).map((s) => new Date(s.starts_at as string).getTime());
-  const windows = (await findFreeMealWindows(PLAN_DAYS)).filter(
-    (w) => !taken.some((t) => Math.abs(t - w.start.getTime()) < 3 * 60 * 60 * 1000),
-  );
+  const windows = (await findFreeMealWindows(days))
+    .filter((w) => !taken.some((t) => Math.abs(t - w.start.getTime()) < 3 * 60 * 60 * 1000))
+    .slice(0, MEALS_PER_PLAN);
   if (windows.length === 0) return 0;
 
   const { recipes } = await generateRecipes({
@@ -68,7 +76,7 @@ export async function planOpenWindows(input: { remaining: Macros; target: Macros
     })),
     remaining: input.remaining,
     max_minutes: Math.max(...windows.map((w) => w.minutes)),
-    count: Math.min(8, windows.length + 2),
+    count: windows.length,
   });
 
   const plan = assignRecipes(windows, recipes, pantry, input.remaining, input.target);

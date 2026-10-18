@@ -18,7 +18,7 @@ import { addMealToCalendar, addShoppingToCalendar, defaultShoppingTime, findFree
 import { daysUntil } from "@/lib/dates";
 import { getRemainingMacros } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
-import { mealNotes, planOpenWindows } from "@/lib/schedule";
+import { mealNotes, planDays, planOpenWindows } from "@/lib/schedule";
 import { supabase } from "@/lib/supabase";
 import type { Item, MealSlot } from "@/lib/types";
 import { useFocusData } from "@/lib/useFocusData";
@@ -38,7 +38,8 @@ interface ChatMessage {
 export default function Chef() {
   const { profile } = useProfile();
   const insets = useSafeAreaInsets();
-  const { q } = useLocalSearchParams<{ q?: string }>();
+  const { q, days: daysParam } = useLocalSearchParams<{ q?: string; days?: string }>();
+  const horizon = planDays(Number(daysParam), 14);
   const [draft, setDraft] = useState(typeof q === "string" ? q : "");
   const [sending, setSending] = useState(false);
   const [proposal, setProposal] = useState<ChefProposal | null>(null);
@@ -80,7 +81,7 @@ export default function Chef() {
     setSending(true);
     try {
       const planned = data.slots.filter((s) => s.recipes);
-      const windows = await findFreeMealWindows(3);
+      const windows = await findFreeMealWindows(horizon);
       const result = await chatWithChef({
         messages: history.slice(1).slice(-12),
         plan: planned.map((slot) => ({
@@ -157,7 +158,7 @@ export default function Chef() {
         }
       }
       if (result.rebuild_week) {
-        await planOpenWindows({ remaining: data.macros.remaining, target: data.macros.target });
+        await planOpenWindows({ remaining: data.macros.remaining, target: data.macros.target, days: horizon });
       }
       setProposal(null);
       setMessages((current) => [

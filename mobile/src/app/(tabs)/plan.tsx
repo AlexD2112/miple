@@ -1,23 +1,23 @@
 import { router } from "expo-router";
 import { useState } from "react";
-import { Alert, Text, View } from "react-native";
+import { Alert, Pressable, Text, TextInput, View } from "react-native";
 import { Button, Card, Pill, ProgressBar, ProgressRing, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { addMealToCalendar } from "@/lib/calendar";
 import { timeRange } from "@/lib/dates";
 import { getRemainingMacros, logMealToHealth, type MacroStatus } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
-import { mealNotes, planOpenWindows, syncMealsToCalendar } from "@/lib/schedule";
+import { MEALS_PER_PLAN, mealNotes, planDays, planOpenWindows, syncMealsToCalendar } from "@/lib/schedule";
 import { supabase } from "@/lib/supabase";
 import type { MealSlot } from "@/lib/types";
 import { stepText } from "@/lib/types";
 import { useFocusData } from "@/lib/useFocusData";
 
-const PLAN_DAYS = 3;
-
 export default function Plan() {
   const { profile } = useProfile();
   const [planning, setPlanning] = useState(false);
   const [expanded, setExpanded] = useState<string | null>(null);
+  const [daysText, setDaysText] = useState("7");
+  const days = planDays(parseInt(daysText, 10));
 
   const [data, reload] = useFocusData(async () => {
     if (!profile) return null;
@@ -41,8 +41,8 @@ export default function Plan() {
     if (!profile || !data) return;
     setPlanning(true);
     try {
-      const count = await planOpenWindows({ remaining: data.macros.remaining, target: data.macros.target });
-      if (count === 0) throw new Error("No free meal windows in the next 3 days, or nothing fit.");
+      const count = await planOpenWindows({ remaining: data.macros.remaining, target: data.macros.target, days });
+      if (count === 0) throw new Error(`No free meal windows in the next ${days} days, or nothing fit.`);
       reload();
     } catch (err) {
       Alert.alert("Planning failed", err instanceof Error ? err.message : String(err));
@@ -81,11 +81,48 @@ export default function Plan() {
 
   return (
     <Screen>
-      <Title sub={`Next ${PLAN_DAYS} days, fitted to your calendar and macros`}>Plan</Title>
+      <Title sub={`Up to ${MEALS_PER_PLAN} meals, placed in the next ${days} days`}>Plan</Title>
       {data?.macros ? <MacroSummary m={data.macros} /> : null}
-      <Button label="Plan my meals" onPress={planMeals} loading={planning} disabled={!profile} />
+      <Card>
+        <Row style={{ alignItems: "center", justifyContent: "space-between" }}>
+          <View style={{ flex: 1, marginRight: 12 }}>
+            <Text style={styles.h2}>How far ahead</Text>
+            <Text style={styles.muted}>Open lunches and dinners, up to 60 days</Text>
+          </View>
+          <Row style={{ alignItems: "center" }}>
+            <Pressable
+              accessibilityLabel="Fewer days"
+              onPress={() => setDaysText(String(planDays(days - 1)))}
+              style={{ paddingHorizontal: 10, paddingVertical: 4 }}
+            >
+              <Text style={{ color: colors.brand, fontSize: 28, fontWeight: "600" }}>−</Text>
+            </Pressable>
+            <TextInput
+              accessibilityLabel="Days ahead"
+              keyboardType="number-pad"
+              value={daysText}
+              onChangeText={(text) => setDaysText(text.replace(/[^0-9]/g, "").slice(0, 2))}
+              onBlur={() => setDaysText(String(days))}
+              style={{ width: 44, textAlign: "center", fontSize: 20, fontWeight: "700", color: colors.text }}
+            />
+            <Pressable
+              accessibilityLabel="More days"
+              onPress={() => setDaysText(String(planDays(days + 1)))}
+              style={{ paddingHorizontal: 10, paddingVertical: 4 }}
+            >
+              <Text style={{ color: colors.brand, fontSize: 28, fontWeight: "600" }}>+</Text>
+            </Pressable>
+          </Row>
+        </Row>
+      </Card>
+      <Button label={`Plan ${MEALS_PER_PLAN} meals`} onPress={planMeals} loading={planning} disabled={!profile} />
       <View style={{ height: 8 }} />
-      <Button kind="secondary" label="Chat with your chef" onPress={() => router.push("/chef")} disabled={!profile} />
+      <Button
+        kind="secondary"
+        label="Chat with your chef"
+        onPress={() => router.push({ pathname: "/chef", params: { days: String(days) } })}
+        disabled={!profile}
+      />
       <View style={{ height: 12 }} />
 
       {(data?.slots ?? []).map((slot) => {
