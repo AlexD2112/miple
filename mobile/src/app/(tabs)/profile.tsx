@@ -1,11 +1,12 @@
 import { useEffect, useState } from "react";
-import { Alert, Switch, Text } from "react-native";
-import { Button, Card, Chip, Field, Row, Screen, Title, colors, styles } from "@/components/ui";
+import { Alert, Switch, Text, View } from "react-native";
+import { Button, Card, Field, Row, Screen, Title, colors, styles } from "@/components/ui";
+import { AllergyInput, DietPicker } from "@/components/Preferences";
 import { WeightCard, useWeight } from "@/components/WeightCard";
 import { isHealthKitSupported, lastHealthError, requestHealthPermissions } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
 import { supabase } from "@/lib/supabase";
-import { ALLERGENS, DIETS, type Profile } from "@/lib/types";
+import type { Profile } from "@/lib/types";
 
 export default function ProfileScreen() {
   const { profile } = useProfile();
@@ -25,12 +26,6 @@ function ProfileForm({ profile }: { profile: Profile }) {
   const { save } = useProfile();
   const [draft, setDraft] = useState<Profile>(profile);
   const [dislikes, setDislikes] = useState(profile.dislikes.join(", "));
-  const knownDiet = (DIETS as readonly string[]).includes(profile.diet);
-  const [otherDiet, setOtherDiet] = useState(knownDiet ? "" : profile.diet);
-  const [dietIsOther, setDietIsOther] = useState(!knownDiet);
-  const customAllergies = profile.allergies.filter((a) => !(ALLERGENS as readonly string[]).includes(a));
-  const [otherAllergies, setOtherAllergies] = useState(customAllergies.join(", "));
-  const [allergyIsOther, setAllergyIsOther] = useState(customAllergies.length > 0);
   const w = useWeight(profile);
   const rec = w.rec;
   const auto = w.goal.auto;
@@ -54,8 +49,6 @@ function ProfileForm({ profile }: { profile: Profile }) {
 
   const set = (patch: Partial<Profile>) => setDraft({ ...draft, ...patch });
   const num = (v: string) => Math.max(0, parseInt(v.replace(/\D/g, ""), 10) || 0);
-  const toggleAllergy = (a: string) =>
-    set({ allergies: draft.allergies.includes(a) ? draft.allergies.filter((x) => x !== a) : [...draft.allergies, a] });
 
   async function toggleHealth(on: boolean) {
     if (on && !(await requestHealthPermissions())) {
@@ -71,11 +64,8 @@ function ProfileForm({ profile }: { profile: Profile }) {
     setSaving(true);
     try {
       await save({
-        diet: dietIsOther ? otherDiet.trim().toLowerCase() || "omnivore" : draft.diet,
-        allergies: [
-          ...draft.allergies.filter((a) => (ALLERGENS as readonly string[]).includes(a)),
-          ...(allergyIsOther ? otherAllergies.split(",").map((a) => a.trim().toLowerCase()).filter(Boolean) : []),
-        ],
+        diet: draft.diet.trim().toLowerCase() || "omnivore",
+        allergies: draft.allergies,
         dislikes: dislikes.split(",").map((d) => d.trim().toLowerCase()).filter(Boolean),
         ...shown,
         phone: draft.phone?.trim() || null,
@@ -99,38 +89,14 @@ function ProfileForm({ profile }: { profile: Profile }) {
       <WeightCard w={w} />
 
       <Card>
-        <Text style={styles.h2}>Diet</Text>
-        <Row style={{ flexWrap: "wrap" }}>
-          {DIETS.map((d) => (
-            <Chip
-              key={d}
-              label={d}
-              selected={!dietIsOther && draft.diet === d}
-              onPress={() => {
-                setDietIsOther(false);
-                set({ diet: d });
-              }}
-            />
-          ))}
-          <Chip label="other" selected={dietIsOther} onPress={() => setDietIsOther(true)} />
-        </Row>
-        {dietIsOther ? (
-          <Field label="Your diet" value={otherDiet} onChangeText={setOtherDiet} placeholder="e.g. jain, low FODMAP, paleo" autoFocus />
-        ) : null}
+        <DietPicker value={draft.diet} onChange={(diet) => set({ diet })} />
       </Card>
 
       <Card>
         <Text style={styles.h2}>Allergies</Text>
-        <Text style={[styles.muted, { marginBottom: 8 }]}>Recipes containing these are always filtered out.</Text>
-        <Row style={{ flexWrap: "wrap" }}>
-          {ALLERGENS.map((a) => (
-            <Chip key={a} label={a} selected={draft.allergies.includes(a)} onPress={() => toggleAllergy(a)} />
-          ))}
-          <Chip label="other" selected={allergyIsOther} onPress={() => setAllergyIsOther(!allergyIsOther)} />
-        </Row>
-        {allergyIsOther ? (
-          <Field label="Other allergies (comma separated)" value={otherAllergies} onChangeText={setOtherAllergies} placeholder="e.g. mustard, celery, kiwi" />
-        ) : null}
+        <Text style={[styles.muted, { marginBottom: 10 }]}>Recipes containing these are always filtered out.</Text>
+        <AllergyInput value={draft.allergies} onChange={(allergies) => set({ allergies })} />
+        <View style={{ height: 14 }} />
         <Field label="Dislikes (comma separated)" value={dislikes} onChangeText={setDislikes} placeholder="cilantro, olives" />
       </Card>
 
