@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "tsx watch src/index.ts",
     "start": "tsx src/index.ts",
-    "nudge": "tsx src/jobs/runNudgesOnce.ts",
+    "expire-items": "tsx src/jobs/runExpiryOnce.ts",
     "typecheck": "tsc --noEmit",
     "test": "tsx --test src/**/*.test.ts"
   },

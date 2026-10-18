@@ -15,11 +15,9 @@ export const env = {
   model: process.env.MIPLE_MODEL || "gemini-2.5-flash",
   perceptronApiKey: process.env.PERCEPTRON_API_KEY || null,
   perceptronOcrUrl: process.env.PERCEPTRON_OCR_URL || "https://api.perceptron.inc/v1/chat/completions",
-  photonApiKey: process.env.PHOTON_API_KEY || null,
-  photonSendUrl: process.env.PHOTON_SEND_URL || null,
-  photonWebhookSecret: process.env.PHOTON_WEBHOOK_SECRET || null,
   veyzlProbeToken: process.env.VEYZL_PROBE_TOKEN || null,
-  nudgeCron: process.env.NUDGE_CRON || "0 9 * * *",
-  // Cloud Run's clock is UTC, so the schedule needs an explicit zone (9 AM UTC is 2 AM in Seattle).
-  nudgeTimezone: process.env.NUDGE_TIMEZONE || "America/Los_Angeles",
+  // Nightly job that marks expired pantry items as wasted. Cloud Run's clock is UTC, so the
+  // schedule needs an explicit zone to run just after local midnight.
+  expiryCron: process.env.EXPIRY_CRON || "5 0 * * *",
+  expiryTimezone: process.env.EXPIRY_TIMEZONE || "America/Los_Angeles",
 };

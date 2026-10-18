@@ -4,10 +4,9 @@ import { env } from "./env.js";
 import { GEMINI_API_ENDPOINT } from "./lib/gemini.js";
 import { receipts } from "./routes/receipts.js";
 import { recipes } from "./routes/recipes.js";
-import { photon } from "./routes/photon.js";
 import { items } from "./routes/items.js";
 import { shopping } from "./routes/shopping.js";
-import { runDailyNudges } from "./jobs/nudges.js";
+import { markExpiredWasted } from "./jobs/expireItems.js";
 import { auditPrefix } from "./lib/audit.js";
 
 /** Model-backed routes. Each handler calls `@google/genai` `generateContent` on GEMINI_API_ENDPOINT. */
@@ -35,7 +34,6 @@ app.get("/health", (_req, res) =>
 );
 app.use("/receipts", receipts);
 app.use("/recipes", recipes);
-app.use("/photon", photon);
 app.use("/items", items);
 app.use("/shopping", shopping);
 
@@ -46,12 +44,12 @@ app.use((err: Error, _req: Request, res: Response, _next: NextFunction) => {
 });
 
 cron.schedule(
-  env.nudgeCron,
+  env.expiryCron,
   async () => {
-    const result = await runDailyNudges();
-    console.log(`[nudges] wasted=${result.wasted} sent=${result.sent}`);
+    const wasted = await markExpiredWasted();
+    console.log(`[expiry] marked ${wasted} expired items as wasted`);
   },
-  { timezone: env.nudgeTimezone },
+  { timezone: env.expiryTimezone },
 );
 
 app.listen(env.port, () => console.log(`miple server on http://localhost:${env.port}`));

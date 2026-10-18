@@ -32,8 +32,6 @@ export interface Profile {
   protein_target_g: number;
   carbs_target_g: number;
   fat_target_g: number;
-  phone: string | null;
-  nudges_enabled: boolean;
   allow_staples: boolean;
   timezone: string;
 }

@@ -1,27 +1,27 @@
 # Miple
 
-Miple is an iOS app that turns a grocery receipt into a pantry, plans meals around the user's calendar and nutrition targets, and reminds them to cook food before it expires. A user photographs a receipt, Miple records each item with an estimated expiry date, and the planner schedules meals into free lunch and dinner windows using the items that will spoil first. When a meal is cooked, Miple updates the pantry, records leftovers, and writes the meal's calories and macros to Apple Health.
+Miple is an iOS app that turns a grocery receipt into a pantry, plans meals around the user's calendar and nutrition targets, and points them to the food they should cook before it expires. A user photographs a receipt, Miple records each item with an estimated expiry date, and the planner schedules meals into free lunch and dinner windows using the items that will spoil first. When a meal is cooked, Miple updates the pantry, records leftovers, and writes the meal's calories and macros to Apple Health.
 
 The repository contains the mobile app, the API server, and the database schema. Test data lives in a separate private repository that is mounted at `fixtures/` (see [docs/TESTDATA.md](docs/TESTDATA.md)).
 
 | Directory | Contents |
 |---|---|
 | `mobile/` | Expo (SDK 58, React Native 0.88) app built with Expo Router. Apple Health and the device calendar are accessed only from here. |
-| `server/` | Node 22 and Express 5 API in TypeScript. It handles receipt parsing, recipe generation, the chef chat, category lookup, and expiry reminders. |
+| `server/` | Node 22 and Express 5 API in TypeScript. It handles receipt parsing, recipe generation, the chef chat, category and shelf-life lookup, and a nightly job that marks expired items as wasted. |
 | `supabase/` | Postgres migrations: tables, row-level security, the shelf-life table, and the `cook_meal_slot()` function. |
 | `fixtures/` | Git submodule pointing at the private `miple-testdata` repository. |
 
 ## How it works
 
-**Scanning.** The app uploads a receipt photo to `POST /receipts/parse`. The server sends it to Perceptron for OCR, and Gemini converts the text into structured items, so a line such as `ORG SPNCH 5OZ` becomes organic spinach, 5 oz, in the `leafy_greens` category. If Perceptron is not configured or the call fails, Gemini reads the image directly. The server then validates the purchase date, clamps quantities and prices, attaches USDA nutrition where the item matches the reference table, and sets each expiry date from the USDA FoodKeeper entry for that food (apples keep four weeks, bananas three days), falling back to the category's shelf life when no FoodKeeper product matches confidently. The user reviews the items before they are saved.
+**Scanning.** The app uploads a receipt photo to `POST /receipts/parse`. The server identifies the image format from the file itself, because iPhone library photos arrive as HEIC even when labeled JPEG, and sends JPEG, PNG and WebP images to Perceptron for OCR, and Gemini converts the text into structured items, so a line such as `ORG SPNCH 5OZ` becomes organic spinach, 5 oz, in the `leafy_greens` category. Gemini reads the image directly when Perceptron is not configured, when the call fails, or when the photo is HEIC. The server then validates the purchase date, clamps quantities and prices, attaches USDA nutrition where the item matches the reference table, and sets each expiry date from the USDA FoodKeeper entry for that food (apples keep four weeks, bananas three days), falling back to the category's shelf life when no FoodKeeper product matches confidently. The user reviews the items before they are saved.
 
 **Adding items by hand.** The quick-add screen picks a category from the item name as the user types, trying the USDA matcher first and asking Gemini only when the matcher has no confident answer. `POST /items/shelf-life` then sets the expiry date, preferring the FoodKeeper value and using Gemini's estimate only for foods FoodKeeper does not cover.
 
 **Planning.** The app reads free time from the device calendar, treating busy all-day events as unavailable, and finds lunch and dinner windows. It requests recipes from `POST /recipes/generate` using the most urgent pantry items and the user's remaining macros for the day, ranks them by urgency (50%), macro fit (30%) and time fit (20%), and schedules up to 10 meals. The user can then ask the chef (`POST /recipes/chef`) to swap, add or skip a meal. The chef proposes a change, and nothing is saved until the user approves it through `POST /recipes/chef/apply`.
 
-**Reminders.** A daily job finds items that expire within 48 hours and texts the user the planned meal that uses them, and the user can reply "done" or "skip". This path is built but not yet live; see [Known limitations](#known-limitations).
+**Expiry.** A nightly job marks pantry items whose expiry date has passed as wasted, which feeds the weekly spending and waste summary. The app surfaces items expiring within two days at the top of the pantry.
 
-**Cooking.** Marking a meal cooked calls `cook_meal_slot()`, which marks the meal complete, consumes the linked pantry items, and adds a four-day leftover. The app then writes the meal to Apple Health. Meals marked cooked by text message are written to Health the next time the app opens, because only the phone can write to HealthKit.
+**Cooking.** Marking a meal cooked calls `cook_meal_slot()`, which marks the meal complete, consumes the linked pantry items, and adds a four-day leftover. The app then writes the meal to Apple Health.
 
 Nutrition targets come from one function, `getRemainingMacros()` in `mobile/src/lib/health.ts`. It reads today's intake and active energy from Apple Health when the user has enabled it, and otherwise uses manual targets minus the meals cooked in Miple that day, so planning works without HealthKit.
 
@@ -38,7 +38,6 @@ Every route except `/health` requires a Supabase access token in the `Authorizat
 | `POST /recipes/generate` | Generates allergen-safe recipes from the pantry and stores them. |
 | `POST /recipes/chef` | Runs one turn of the chef chat and may return a proposed plan change. |
 | `POST /recipes/chef/apply` | Saves a proposal the user approved. |
-| `POST /photon/webhook` | Receives "done" and "skip" text replies and requires the `x-photon-secret` header. |
 
 ## Configuration
 
@@ -53,10 +52,8 @@ The server reads its settings from environment variables. Locally they come from
 | `GOOGLE_CLOUD_LOCATION` | No | Defaults to `us-central1`. |
 | `MIPLE_MODEL` | No | Defaults to `gemini-2.5-flash`. |
 | `PERCEPTRON_API_KEY` | No | Enables Perceptron OCR. Without it, Gemini reads receipts. |
-| `PHOTON_API_KEY`, `PHOTON_SEND_URL` | No | Enables text reminders. Without them, reminders are only logged. |
-| `PHOTON_WEBHOOK_SECRET` | For replies | The webhook rejects every request until this is set. |
 | `VEYZL_PROBE_TOKEN` | No | Enables VEYZL audits. Leave it unset to require a login on every AI route. |
-| `NUDGE_CRON`, `NUDGE_TIMEZONE` | No | Reminder schedule, which defaults to 9:00 AM in `America/Los_Angeles`. |
+| `EXPIRY_CRON`, `EXPIRY_TIMEZONE` | No | Schedule for the nightly expiry job, which defaults to 12:05 AM in `America/Los_Angeles`. |
 
 Gemini is called through Vertex AI with Application Default Credentials rather than an API key. On Cloud Run the service account is the credential. To run the server on a laptop, enable the Vertex AI API (`aiplatform.googleapis.com`) in the project, grant yourself the Vertex AI User role, and sign in:
 
@@ -86,7 +83,7 @@ npm install
 npm run dev
 ```
 
-The server listens on port 8787, and `npm run nudge` runs the reminder job once for testing.
+The server listens on port 8787, and `npm run expire-items` runs the nightly expiry job once for testing.
 
 The app uses a development build rather than Expo Go, because HealthKit is not available in Expo Go. Building for a device requires a Mac with Xcode and an Apple ID. Free Apple accounts can use HealthKit, although apps signed with them stop launching after about seven days.
 
@@ -110,7 +107,7 @@ CI should install dependencies with `npm ci`, which fails when `package-lock.jso
 
 ## Deployment
 
-The API runs on Cloud Run as the `miple-api` service in `us-central1`, at `https://miple-api-1035155285280.us-central1.run.app`. The service keeps one instance warm and has CPU allocated outside requests, which the reminder job needs.
+The API runs on Cloud Run as the `miple-api` service in `us-central1`, at `https://miple-api-1035155285280.us-central1.run.app`. The service keeps one instance warm and has CPU allocated outside requests, which the nightly expiry job needs.
 
 ```bash
 gcloud run deploy miple-api --source server --region us-central1
@@ -138,7 +135,5 @@ All changes go through pull requests, which VEYZL audits automatically.
 
 ## Known limitations
 
-- Text reminders are not live. `server/src/lib/photon.ts` follows a provisional request format that has not been checked against the Photon 2.0 API, and Cloud Run has no Photon credentials or webhook secret yet. [TODO: confirm the Photon send and webhook formats, then set `PHOTON_API_KEY`, `PHOTON_SEND_URL` and `PHOTON_WEBHOOK_SECRET`.]
-- Users need a phone number on their profile to receive reminders, and no current profile has one.
-- Expiry dates are estimated from the food category rather than read from the package, and users can adjust them in the pantry.
+- Expiry dates are estimates from USDA FoodKeeper or the food category, not dates read from the package, so users can adjust them in the pantry.
 - The app supports iOS only because it depends on HealthKit, and an Android version would need Health Connect.

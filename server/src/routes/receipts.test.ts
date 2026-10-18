@@ -44,7 +44,7 @@ async function postReceipt(): Promise<{ status: number; body: any }> {
   const server = app.listen(0);
   try {
     const form = new FormData();
-    form.append("image", new Blob([Buffer.from("fake-jpeg")], { type: "image/jpeg" }), "receipt.jpg");
+    form.append("image", new Blob([Buffer.concat([Buffer.from([0xff, 0xd8, 0xff, 0xe0]), Buffer.alloc(64)])], { type: "image/jpeg" }), "receipt.jpg");
     const { port } = server.address() as AddressInfo;
     const res = await realFetch(`http://127.0.0.1:${port}/receipts/parse`, {
       method: "POST",
