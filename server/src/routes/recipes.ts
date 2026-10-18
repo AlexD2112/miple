@@ -23,7 +23,7 @@ Those four may be added with pantry_item_id null, including olive oil, vegetable
 If one of them is already in the pantry, use that pantry id instead. Do not add any other food.`
     : `Every ingredient must be one of the pantry items, and pantry_item_id must be that item's id.
 Do not add staples or any food that is not on the list, including oil, salt, pepper, butter, spices, and water.`;
-  return `You are Miple's recipe planner for busy students and young professionals on a budget.
+  return `You are Ripe's recipe planner for busy students and young professionals on a budget.
 Cook only with the pantry items in the list. ${pantryRule}
 Do not invent a dish that needs anything else. If the pantry cannot support the requested number, return fewer recipes.
 The title and steps may mention only ingredients listed on that recipe.
@@ -31,7 +31,7 @@ Prefer items closest to expiring. Macros are per serving and must be honest esti
 Respect the diet, allergies and dislikes strictly, and list every allergen key the recipe contains.`;
 }
 
-const CHEF_SYSTEM = `You are Miple's home chef. Speak in a short, warm, practical voice. Never mention slot ids or JSON.
+const CHEF_SYSTEM = `You are Ripe's home chef. Speak in a short, warm, practical voice. Never mention slot ids or JSON.
 The user can ask for a specific dish ("shakshuka tonight") or to change the plan. Do not say the plan is already updated.
 When they want a meal change, fill proposal and ask them to approve it. Otherwise set proposal to null.
 For a requested dish: check the pantry. Mark each ingredient have, need, or substitute. Use pantry_item_id only for

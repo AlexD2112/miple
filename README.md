@@ -1,6 +1,6 @@
-# Miple
+# Ripe
 
-Miple is an iOS app that turns a grocery receipt into a pantry, plans meals around the user's calendar and nutrition targets, and points them to the food they should cook before it expires. A user photographs a receipt, Miple records each item with an estimated expiry date, and the planner schedules meals into free lunch and dinner windows using the items that will spoil first. When a meal is cooked, Miple updates the pantry, records leftovers, and writes the meal's calories and macros to Apple Health.
+Ripe is an iOS app that turns a grocery receipt into a pantry, plans meals around the user's calendar and nutrition targets, and points them to the food they should cook before it expires. A user photographs a receipt, Ripe records each item with an estimated expiry date, and the planner schedules meals into free lunch and dinner windows using the items that will spoil first. When a meal is cooked, Ripe updates the pantry, records leftovers, and writes the meal's calories and macros to Apple Health.
 
 The repository contains the mobile app, the API server, and the database schema. Test data lives in a separate private repository that is mounted at `fixtures/` (see [docs/TESTDATA.md](docs/TESTDATA.md)).
 
@@ -23,7 +23,7 @@ The repository contains the mobile app, the API server, and the database schema.
 
 **Cooking.** Marking a meal cooked calls `cook_meal_slot()`, which marks the meal complete, consumes the linked pantry items, and adds a four-day leftover. The app then writes the meal to Apple Health.
 
-Nutrition targets come from one function, `getRemainingMacros()` in `mobile/src/lib/health.ts`. It reads today's intake and active energy from Apple Health when the user has enabled it, and otherwise uses manual targets minus the meals cooked in Miple that day, so planning works without HealthKit.
+Nutrition targets come from one function, `getRemainingMacros()` in `mobile/src/lib/health.ts`. It reads today's intake and active energy from Apple Health when the user has enabled it, and otherwise uses manual targets minus the meals cooked in Ripe that day, so planning works without HealthKit.
 
 ## API
 

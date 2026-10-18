@@ -15,7 +15,7 @@ const Suggestion = z.object({
 });
 const Suggestions = z.object({ items: z.array(Suggestion) });
 
-const SYSTEM = `You are Miple's grocery advisor for students on a budget. Pick the next few things to buy that add
+const SYSTEM = `You are Ripe's grocery advisor for students on a budget. Pick the next few things to buy that add
 the most value to what is already in the pantry: each one should unlock several meals with existing items,
 help use up food that is about to expire, fill gaps (protein, vegetables, a filling carb), and be cheap.
 Respect the diet, allergies and dislikes strictly. Prefer staples that keep well. Never suggest something
