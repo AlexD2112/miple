@@ -145,7 +145,7 @@ test("vision probe with a wrong token never reaches Gemini", async () => {
 });
 
 test("isAuditProbe accepts only the configured token", async () => {
-  const { isAuditProbe } = await import("./receipts.js");
+  const { isAuditProbe } = await import("../lib/audit.js");
   const req = (h: Record<string, string>) => ({ header: (n: string) => h[n.toLowerCase()] }) as any;
   assert.equal(isAuditProbe(req({ authorization: "Bearer s3cret" }), null), false);
   assert.equal(isAuditProbe(req({ authorization: "Bearer s3cret" }), "s3cret"), true);
