@@ -6,6 +6,7 @@ import { receipts } from "./routes/receipts.js";
 import { recipes } from "./routes/recipes.js";
 import { photon } from "./routes/photon.js";
 import { items } from "./routes/items.js";
+import { shopping } from "./routes/shopping.js";
 import { runDailyNudges } from "./jobs/nudges.js";
 import { auditPrefix } from "./lib/audit.js";
 
@@ -16,6 +17,7 @@ export const AI_ROUTES = [
   "POST /receipts/parse",
   "POST /items/category",
   "POST /items/shelf-life",
+  "POST /shopping/suggest",
 ] as const;
 
 const app = express();
@@ -35,6 +37,7 @@ app.use("/receipts", receipts);
 app.use("/recipes", recipes);
 app.use("/photon", photon);
 app.use("/items", items);
+app.use("/shopping", shopping);
 
 app.use((err: Error, _req: Request, res: Response, _next: NextFunction) => {
   console.error(err);

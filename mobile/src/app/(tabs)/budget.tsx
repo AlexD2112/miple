@@ -1,4 +1,5 @@
 import { Share, Text, View } from "react-native";
+import { BuyNext } from "@/components/BuyNext";
 import { Button, Card, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { localIsoDate, startOfWeek } from "@/lib/dates";
 import { supabase } from "@/lib/supabase";
@@ -43,7 +44,9 @@ export default function Budget() {
 
   return (
     <Screen>
-      <Title sub="This week">Budget</Title>
+      <Title sub="What to buy next, and what you spent">Groceries</Title>
+
+      <BuyNext />
 
       {/* Wrapped card */}
       <View style={{ backgroundColor: colors.brand, borderRadius: 20, padding: 20, marginBottom: 12 }}>

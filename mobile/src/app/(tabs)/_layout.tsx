@@ -49,7 +49,7 @@ export default function TabsLayout() {
         }}
       />
       <Tabs.Screen name="scan" options={{ title: "Scan", tabBarButton: () => null, tabBarItemStyle: { display: "none" } }} />
-      <Tabs.Screen name="budget" options={{ title: "Budget", tabBarIcon: icon("💸") }} />
+      <Tabs.Screen name="budget" options={{ title: "Groceries", tabBarIcon: icon("🛒") }} />
       <Tabs.Screen name="profile" options={{ title: "Me", tabBarIcon: icon("🙂") }} />
     </Tabs>
   );
