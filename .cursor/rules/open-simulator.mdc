@@ -1,0 +1,29 @@
+---
+description: How to open the Miple test app on the iPhone simulator
+alwaysApply: true
+---
+
+# Opening the test app
+
+When Timka asks to run, rebuild, or reopen the app, open it on the booted iPhone 17 simulator. This Xcode has no Simulator.app. The window is Device Hub.
+
+- Simulator UDID: `3DD6E11D-675E-4AE8-86F6-5FAC411B49BA`
+- The installed dev client bundle id is `com.timothykossenkov.miple`. `mobile/app.json` still says `com.miple.app` for the shared project. Do not change that shared id. Relaunch whatever bundle id is actually installed.
+- Metro: from `mobile/`, `unset CI`, PATH includes `/opt/homebrew/bin`, then `npx expo start --dev-client --port 8081`. Leave it running.
+- `simctl` and Device Hub need to run outside the sandbox.
+
+Do not `simctl launch` the app by itself. That lands on "Searching for development servers."
+
+```bash
+xcrun simctl terminate 3DD6E11D-675E-4AE8-86F6-5FAC411B49BA com.timothykossenkov.miple || true
+xcrun simctl openurl 3DD6E11D-675E-4AE8-86F6-5FAC411B49BA "exp+miple://expo-development-client/?url=http%3A%2F%2F127.0.0.1%3A8081"
+open "devices://device/open?id=3DD6E11D-675E-4AE8-86F6-5FAC411B49BA"
+```
+
+A native change (icon, HealthKit, new native module) needs a rebuild, then the same open:
+
+```bash
+cd mobile && npx expo run:ios --device 3DD6E11D-675E-4AE8-86F6-5FAC411B49BA --no-bundler
+```
+
+Use the phone (`00008140-001E48A40247001C`, name `timka`) only when Timka asks for the phone. The simulator has no camera; receipt tests use Choose from library.
