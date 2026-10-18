@@ -1,4 +1,5 @@
 import * as Calendar from "expo-calendar";
+import * as LegacyCalendar from "expo-calendar/legacy";
 import { Platform } from "react-native";
 
 export interface FreeWindow {
@@ -113,13 +114,13 @@ export async function upsertCalendarEvent(
   };
   if (existingId) {
     try {
-      await Calendar.updateEventAsync(existingId, event);
+      await LegacyCalendar.updateEventAsync(existingId, event);
       return existingId;
     } catch (err) {
       console.warn("[calendar] update failed, creating a new event", err);
     }
   }
-  return Calendar.createEventAsync(calendarId, event);
+  return LegacyCalendar.createEventAsync(calendarId, event);
 }
 
 /** Writes the cooking block and returns the event id. */
