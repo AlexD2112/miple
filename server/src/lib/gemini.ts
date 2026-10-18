@@ -16,8 +16,13 @@ export const gemini = new GoogleGenAI({
 
 export type UserPart = { text: string } | { inlineData: { mimeType: string; data: string } };
 
-/** Zod 4 emits JSON Schema draft 2020-12. Gemini accepts that, except a `$schema` keyword and array `type`. */
-function geminiJsonSchema(schema: z.ZodType): unknown {
+/**
+ * Zod 4 emits JSON Schema draft 2020-12. Gemini rejects a few parts of it with a bare
+ * "400 Request contains an invalid argument": the `$schema` keyword, array `type`, and
+ * `minItems`/`maxItems` (in nested schemas like ChefTurn). Those are dropped here; `structured()`
+ * still validates the reply against the full Zod schema, limits included.
+ */
+export function geminiJsonSchema(schema: z.ZodType): unknown {
   return normalize(z.toJSONSchema(schema));
 }
 
@@ -27,7 +32,9 @@ function normalize(node: unknown): unknown {
 
   const out: Record<string, unknown> = {};
   for (const [key, value] of Object.entries(node as Record<string, unknown>)) {
-    if (key === "$schema") continue;
+    if (key === "$schema" || key === "minItems" || key === "maxItems") continue;
+    // z.number().int() adds ±MAX_SAFE_INTEGER bounds; they say nothing and bloat the schema.
+    if ((key === "minimum" || key === "maximum") && Math.abs(value as number) === Number.MAX_SAFE_INTEGER) continue;
     out[key] = normalize(value);
   }
 
