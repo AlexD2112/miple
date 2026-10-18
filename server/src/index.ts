@@ -38,12 +38,17 @@ app.use("/items", items);
 
 app.use((err: Error, _req: Request, res: Response, _next: NextFunction) => {
   console.error(err);
-  res.status(500).json({ error: err.message });
+  // Log the details; don't send database or provider error text to clients.
+  res.status(500).json({ error: "Something went wrong on our side. Please try again." });
 });
 
-cron.schedule(env.nudgeCron, async () => {
-  const result = await runDailyNudges();
-  console.log(`[nudges] wasted=${result.wasted} sent=${result.sent}`);
-});
+cron.schedule(
+  env.nudgeCron,
+  async () => {
+    const result = await runDailyNudges();
+    console.log(`[nudges] wasted=${result.wasted} sent=${result.sent}`);
+  },
+  { timezone: env.nudgeTimezone },
+);
 
 app.listen(env.port, () => console.log(`miple server on http://localhost:${env.port}`));

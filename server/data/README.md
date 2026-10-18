@@ -1,5 +1,5 @@
 # Server runtime data
 
-`nutrition.json` is loaded by `src/domain/nutrition.ts` to attach USDA macros to receipt lines. It ships with the server (and the Cloud Run image), so it lives here rather than in the private `fixtures/` submodule.
+`nutrition.json` maps about 455 common grocery items to USDA FoodData Central macros, receipt-style aliases, typical package sizes and shelf-life categories. `src/domain/nutrition.ts` loads it to attach nutrition to scanned receipt lines and to choose categories for items added by hand. The file ships inside the server and its Cloud Run image, which is why it lives here rather than in the private `fixtures/` submodule.
 
-The CSV version, the build scripts (`scripts/build_nutrition.py` + FoodData Central downloads), the source notes and the draft `shelf_life.json` are in [miple-testdata](https://github.com/AlexD2112/miple-testdata/tree/main/nutrition). Rebuild there and copy the new `nutrition.json` here.
+The CSV version, the build scripts, the source notes and a draft storage-aware `shelf_life.json` are in the [miple-testdata](https://github.com/AlexD2112/miple-testdata/tree/main/nutrition) repository. To update the table, rebuild it there and copy the new `nutrition.json` into this folder.

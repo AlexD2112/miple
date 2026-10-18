@@ -1,83 +1,143 @@
 # Miple
 
-Scan your grocery receipt, and Miple tracks what's expiring, plans meals around your calendar and your health data, and texts you before food goes to waste.
+Miple is an iOS app that turns a grocery receipt into a pantry, plans meals around the user's calendar and nutrition targets, and reminds them to cook food before it expires. A user photographs a receipt, Miple records each item with an estimated expiry date, and the planner schedules meals into free lunch and dinner windows using the items that will spoil first. When a meal is cooked, Miple updates the pantry, records leftovers, and writes the meal's calories and macros to Apple Health.
 
-```
-mobile/    Expo (SDK 58) dev-build app: pantry, scan, plan, budget/Wrapped, profile. HealthKit + calendar live here.
-server/    Node + Express (TypeScript): receipt OCR → Gemini normalization, recipe generation with allergen filter, chef chat, Photon nudges.
-supabase/  Postgres schema, RLS, shelf-life table, cook_meal_slot() and weekly_stats.
-```
+The repository contains the mobile app, the API server, and the database schema. Test data lives in a separate private repository that is mounted at `fixtures/` (see [docs/TESTDATA.md](docs/TESTDATA.md)).
 
-## Core loop, and where it lives
+| Directory | Contents |
+|---|---|
+| `mobile/` | Expo (SDK 58, React Native 0.88) app built with Expo Router. Apple Health and the device calendar are accessed only from here. |
+| `server/` | Node 22 and Express 5 API in TypeScript. It handles receipt parsing, recipe generation, the chef chat, category lookup, and expiry reminders. |
+| `supabase/` | Postgres migrations: tables, row-level security, the shelf-life table, and the `cook_meal_slot()` function. |
+| `fixtures/` | Git submodule pointing at the private `miple-testdata` repository. |
 
-| Step | What happens | Code |
+## How it works
+
+**Scanning.** The app uploads a receipt photo to `POST /receipts/parse`. The server sends it to Perceptron for OCR, and Gemini converts the text into structured items, so a line such as `ORG SPNCH 5OZ` becomes organic spinach, 5 oz, in the `leafy_greens` category. If Perceptron is not configured or the call fails, Gemini reads the image directly. The server then validates the purchase date, clamps quantities and prices, attaches USDA nutrition where the item matches the reference table, and sets each expiry date from the category's shelf life. The user reviews the items before they are saved.
+
+**Adding items by hand.** The quick-add screen picks a category from the item name as the user types. It tries the USDA matcher first and asks Gemini only when the matcher has no confident answer, because the category determines the expiry date.
+
+**Planning.** The app reads free time from the device calendar, treating busy all-day events as unavailable, and finds lunch and dinner windows. It requests recipes from `POST /recipes/generate` using the most urgent pantry items and the user's remaining macros for the day, ranks them by urgency (50%), macro fit (30%) and time fit (20%), and schedules up to 10 meals. The user can then ask the chef (`POST /recipes/chef`) to swap, add or skip a meal. The chef proposes a change, and nothing is saved until the user approves it through `POST /recipes/chef/apply`.
+
+**Reminders.** A daily job finds items that expire within 48 hours and texts the user the planned meal that uses them, and the user can reply "done" or "skip". This path is built but not yet live; see [Known limitations](#known-limitations).
+
+**Cooking.** Marking a meal cooked calls `cook_meal_slot()`, which marks the meal complete, consumes the linked pantry items, and adds a four-day leftover. The app then writes the meal to Apple Health. Meals marked cooked by text message are written to Health the next time the app opens, because only the phone can write to HealthKit.
+
+Nutrition targets come from one function, `getRemainingMacros()` in `mobile/src/lib/health.ts`. It reads today's intake and active energy from Apple Health when the user has enabled it, and otherwise uses manual targets minus the meals cooked in Miple that day, so planning works without HealthKit.
+
+## API
+
+Every route except `/health` requires a Supabase access token in the `Authorization: Bearer` header. The one exception is audit access, described under [Safety and privacy](#safety-and-privacy).
+
+| Route | Purpose |
+|---|---|
+| `GET /health` | Liveness check that also reports the model and AI routes. |
+| `POST /receipts/parse` | Parses a receipt photo (multipart field `image`) into reviewable items. |
+| `POST /items/category` | Returns the pantry category for an item name. |
+| `POST /recipes/generate` | Generates allergen-safe recipes from the pantry and stores them. |
+| `POST /recipes/chef` | Runs one turn of the chef chat and may return a proposed plan change. |
+| `POST /recipes/chef/apply` | Saves a proposal the user approved. |
+| `POST /photon/webhook` | Receives "done" and "skip" text replies and requires the `x-photon-secret` header. |
+
+## Configuration
+
+### Server
+
+The server reads its settings from environment variables. Locally they come from `server/.env`, which starts as a copy of `server/.env.example`; on Cloud Run they are set on the service.
+
+| Variable | Required | Notes |
 |---|---|---|
-| **Scan** | Photo → Perceptron OCR (or Gemini vision if Perceptron isn't configured) → Gemini normalizes "ORG SPNCH 5OZ" into *organic spinach, 5 oz, leafy_greens* → expiry = purchase date + shelf life | `server/src/routes/receipts.ts`, `mobile/src/app/(tabs)/scan.tsx`, `shelf_life` table + `items_set_expiry` trigger |
-| **Plan** | Free lunch/dinner gaps for the next 3 days from the device calendar → Gemini returns structured recipes from pantry items → **code** drops anything with an allergen → ranked by urgency (50%), macro fit (30%), time fit (20%) → greedy assignment to slots. Chat with your chef to replace or skip those slots | `mobile/src/lib/calendar.ts`, `server/src/routes/recipes.ts`, `server/src/domain/allergens.ts`, `mobile/src/lib/planner.ts`, `mobile/src/app/chef.tsx` |
-| **Nudge** | Daily cron: items expiring within 48h → text with the planned slot and recipe. Reply DONE / SKIP | `server/src/jobs/nudges.ts`, `server/src/routes/photon.ts` |
-| **Cook** | `cook_meal_slot()` marks the slot cooked, consumes linked items, creates a 4-day leftover. The app writes the meal's macros to Apple Health | `supabase/migrations/0001_init.sql`, `mobile/src/lib/health.ts` |
+| `SUPABASE_URL`, `SUPABASE_SERVICE_ROLE_KEY` | Yes | The service-role key bypasses row-level security, so it must never reach the app. |
+| `GOOGLE_CLOUD_PROJECT` | Yes | Project used for Gemini on Vertex AI. |
+| `GOOGLE_CLOUD_LOCATION` | No | Defaults to `us-central1`. |
+| `MIPLE_MODEL` | No | Defaults to `gemini-2.5-flash`. |
+| `PERCEPTRON_API_KEY` | No | Enables Perceptron OCR. Without it, Gemini reads receipts. |
+| `PHOTON_API_KEY`, `PHOTON_SEND_URL` | No | Enables text reminders. Without them, reminders are only logged. |
+| `PHOTON_WEBHOOK_SECRET` | For replies | The webhook rejects every request until this is set. |
+| `VEYZL_PROBE_TOKEN` | No | Enables VEYZL audits. Leave it unset to require a login on every AI route. |
+| `NUDGE_CRON`, `NUDGE_TIMEZONE` | No | Reminder schedule, which defaults to 9:00 AM in `America/Los_Angeles`. |
 
-Macros flow through one function, `getRemainingMacros(profile)` in `mobile/src/lib/health.ts`. It reads Apple Health when it's available and enabled, adds a workout bonus from active energy, and otherwise falls back to manual targets minus the meals cooked in Miple today. The core loop never depends on HealthKit working.
-
-## Setup
-
-### 1. Supabase
-1. Create a project and run `supabase/migrations/0001_init.sql` in the SQL editor (or `supabase db push`).
-2. In Auth → Providers, enable Google. In Google Cloud, create a **Web** OAuth client and set its authorized redirect URI to `https://YOUR-PROJECT.supabase.co/auth/v1/callback`. Paste that client ID and secret into Supabase. Under Authentication → URL Configuration, add `miple://auth` to the redirect allow list. The app signs in with Google, so no email codes are sent.
-
-### 2. Server
-```bash
-cd server
-cp .env.example .env    # fill SUPABASE_URL, SUPABASE_SERVICE_ROLE_KEY, GOOGLE_CLOUD_PROJECT
-npm install
-npm run dev             # http://localhost:8787
-npm test                # allergen filter tests
-npm run nudge           # fire the daily nudge job now (dry-run logs texts if Photon isn't set)
-```
-A physical iPhone can't reach `localhost`, so expose the server with your LAN IP or `ngrok http 8787`.
-
-Gemini runs on Gemini Enterprise Agent Platform (formerly Vertex AI) with Application Default Credentials, not an API key. In the Cloud project, open Agent Platform and enable the Vertex AI API (`aiplatform.googleapis.com`) if it is not already on. Give your user **Vertex AI User** (`roles/aiplatform.user`). Then:
+Gemini is called through Vertex AI with Application Default Credentials rather than an API key. On Cloud Run the service account is the credential. To run the server on a laptop, enable the Vertex AI API (`aiplatform.googleapis.com`) in the project, grant yourself the Vertex AI User role, and sign in:
 
 ```bash
 gcloud auth application-default login
+```
+
+```bash
 gcloud auth application-default set-quota-project YOUR_PROJECT_ID
 ```
 
-Set `GOOGLE_CLOUD_PROJECT` to that project id. `GOOGLE_CLOUD_LOCATION` defaults to `us-central1`. On Cloud Run or GCE, the attached service account is the credential, so the `gcloud` login is only for a laptop. The model defaults to `gemini-2.5-flash` (set `MIPLE_MODEL` to change it). Structured JSON calls live in `server/src/lib/gemini.ts`.
+### Mobile
 
-### 3. Mobile (dev build, not Expo Go)
-HealthKit breaks Expo Go, so everyone develops on the dev client from the start.
+`mobile/.env` holds three public values that are bundled into the app when Metro builds it: `EXPO_PUBLIC_SUPABASE_URL`, `EXPO_PUBLIC_SUPABASE_ANON_KEY`, and `EXPO_PUBLIC_API_URL`. The API URL should point at the Cloud Run service so the whole team tests against the same backend, and it should point at a laptop only while someone is changing server code. Restart Metro with `npx expo start --clear` after editing the file.
 
-Requirements: a Mac with Xcode, an iPhone, and an Apple developer account whose team has the HealthKit capability (check this early; free personal teams have limits).
+### Supabase
+
+Apply every file in `supabase/migrations/` in numeric order, either with `supabase db push` or by pasting each one into the SQL editor. Merging a migration into `main` does not change the database, so whoever deploys a release that adds one also needs to run it.
+
+The app signs in with Google. To set that up, enable the Google provider in Supabase and create a Web OAuth client in Google Cloud whose redirect URI is `https://YOUR-PROJECT.supabase.co/auth/v1/callback`. Then add `miple://auth` to the redirect allow list under Authentication, URL Configuration.
+
+## Development
+
+```bash
+cd server
+npm install
+npm run dev
+```
+
+The server listens on port 8787, and `npm run nudge` runs the reminder job once for testing.
+
+The app uses a development build rather than Expo Go, because HealthKit is not available in Expo Go. Building for a device requires a Mac with Xcode and an Apple ID. Free Apple accounts can use HealthKit, although apps signed with them stop launching after about seven days.
 
 ```bash
 cd mobile
-cp .env.example .env    # Supabase URL + anon key, server URL
 npm install
-npx expo run:ios --device      # local build on a Mac
-# or, from any machine:
-npx eas-cli@latest build --profile development --platform ios
-npm start                      # Metro for the dev client
+npx expo run:ios --device
 ```
-`app.json` already sets up the HealthKit entitlement and usage strings (via the `react-native-health` plugin), plus the calendar, camera, and photo permissions.
 
-## ⚠️ Known risks and TODOs
+`npm start` then serves the JavaScript bundle to the development build. For a build that runs without a computer attached, use `npx expo run:ios --device --configuration Release`.
 
-- **`react-native-health` vs. New Architecture.** `expo-doctor` reports it as *unmaintained* and *untested on the New Architecture* (SDK 58 / RN 0.88). The Health owner should confirm the read and write on a device first. If it fails, swap in `@kingstinct/react-native-healthkit`. Only `mobile/src/lib/health.ts` needs to change.
-- **Perceptron OCR.** Set `PERCEPTRON_API_KEY`. The adapter calls Perceptron Mk1.5 chat completions. If the key is missing or the call fails, Gemini vision reads the receipt.
-- **Photon 2.0.** `server/src/lib/photon.ts` (send) and `parseInbound` (webhook) are adapters too. Without credentials, texts are logged as `[photon:dry-run]`. Point the Photon inbound webhook at `POST /photon/webhook` and set `PHOTON_WEBHOOK_SECRET`. The handler checks it against the `x-photon-secret` header.
-- **Health writes after an SMS "done".** The server can't write to HealthKit. Slots cooked by text get `logged_to_health=false`, and the app syncs them the next time it's opened (`syncCookedMealsToHealth`).
+## Testing
 
-## Safety and privacy (VEYZL talking points)
+`npm test` in `server/` runs the full server suite, which includes the 326-case allergen regression suite from the test-data repository, and `npm run typecheck` checks types in either package. The 103-case calendar regression suite runs from `mobile/`:
 
-- **Allergens are a hard filter in code.** Allergies are loaded from the database, never from the request body. Pantry items containing an allergen are never sent to the LLM. Every generated recipe is checked against title, ingredients, steps, and the model's own allergen list (`server/src/domain/allergens.ts`, with tests).
-- **Health data stays on the phone.** The API schema (`RemainingMacros` in `server/src/domain/schemas.ts`) accepts only four bounded numbers. Raw HealthKit samples, workouts, and weight never leave the device. For the before/after audit story, a "before" commit can send raw samples, and the fix restricts it to these four numbers.
-- **RLS on every table.** The service-role key exists only on the server, and every server query filters by `user_id`.
-- Changes go through PRs only. See `.github/pull_request_template.md`.
+```bash
+../server/node_modules/.bin/tsx --test src/lib/calendar.regression.test.ts
+```
 
-## Hackathon checkpoints
-- **5 PM:** HealthKit read (today's dietary energy) and write (one meal) working on a device. If not, keep the manual fallback and still demo the permission prompt.
-- **1 AM:** scan → pantry → recipe → calendar slot working end to end. If not, cut everything else.
+CI should install dependencies with `npm ci`, which fails when `package-lock.json` has drifted from `package.json` instead of quietly resolving new versions.
 
-## Stretch
-Fridge photo scan (Perceptron object localization → `items.source = 'fridge_scan'`), shared household pantry, shareable recipes, monthly Wrapped.
+## Deployment
+
+The API runs on Cloud Run as the `miple-api` service in `us-central1`, at `https://miple-api-1035155285280.us-central1.run.app`. The service keeps one instance warm and has CPU allocated outside requests, which the reminder job needs.
+
+```bash
+gcloud run deploy miple-api --source server --region us-central1
+```
+
+That command uploads the local `server/` folder, uncommitted changes included, so releases should be deployed only from a clean checkout of `main`. A separate worktree is the simplest way to guarantee that:
+
+```bash
+git worktree add --detach ../miple-deploy origin/main
+```
+
+Environment variables persist across deploys and are changed with `gcloud run services update miple-api --region us-central1 --update-env-vars NAME=value`. When a release includes a migration, apply it to Supabase before deploying the server.
+
+## Safety and privacy
+
+**Allergens are enforced in code.** The server loads allergies from the database rather than from the request, removes allergen-containing pantry items before the model sees them, and rejects any generated recipe whose title, ingredients or steps contain an allergen. The matcher in `server/src/domain/allergens.ts` recognizes misspellings, foreign names, dishes that hide allergens, look-alike characters, and dairy-free or gluten-free labels.
+
+**Chat guardrails run before and after the model.** `server/src/domain/guard.ts` answers requests for secrets, jailbreak attempts, personal-data extraction, ID-document reading and face-based trait inference with fixed replies that never reach Gemini. It also redacts emails, phone numbers, card numbers and credentials from every reply, and the chef's instructions limit it to cooking and food topics.
+
+**Health data stays on the phone.** The API accepts only four bounded numbers derived from Apple Health: remaining calories, protein, carbohydrates and fat. Raw samples, workouts and body weight never leave the device.
+
+**Access is scoped.** Every table has row-level security, the service-role key exists only on the server, and every server query filters by the authenticated user. VEYZL audits reach the AI routes only with `VEYZL_PROBE_TOKEN`, sent either as a bearer token or as the path prefix `/audit/<token>`, and a wrong token returns 404.
+
+All changes go through pull requests, which VEYZL audits automatically.
+
+## Known limitations
+
+- Text reminders are not live. `server/src/lib/photon.ts` follows a provisional request format that has not been checked against the Photon 2.0 API, and Cloud Run has no Photon credentials or webhook secret yet. [TODO: confirm the Photon send and webhook formats, then set `PHOTON_API_KEY`, `PHOTON_SEND_URL` and `PHOTON_WEBHOOK_SECRET`.]
+- Users need a phone number on their profile to receive reminders, and no current profile has one.
+- Expiry dates are estimated from the food category rather than read from the package, and users can adjust them in the pantry.
+- The app supports iOS only because it depends on HealthKit, and an Android version would need Health Connect.

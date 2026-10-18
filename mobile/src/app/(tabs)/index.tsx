@@ -11,7 +11,7 @@ import { useFocusData } from "@/lib/useFocusData";
 const QUICK_CATEGORIES = ["auto", "leafy_greens", "fresh_vegetables", "fresh_fruit", "raw_poultry", "raw_meat", "dairy_milk", "eggs", "bread", "other"];
 
 export default function Pantry() {
-  const [items, reload] = useFocusData(async () => {
+  const [items, reload, loading] = useFocusData(async () => {
     const { data, error } = await supabase
       .from("items")
       .select("*")
@@ -44,11 +44,23 @@ export default function Pantry() {
     reload();
   }
 
-  const urgent = (items ?? []).filter((i) => daysUntil(i.estimated_expiry) <= 2);
+  // Expired items are not "expiring"; they show as expired in the list below.
+  const urgent = (items ?? []).filter((i) => {
+    const days = daysUntil(i.estimated_expiry);
+    return days >= 0 && days <= 2;
+  });
+  const summary =
+    items === null
+      ? loading
+        ? "Loading your pantry…"
+        : "Couldn't load your pantry. Check your connection and try again."
+      : urgent.length
+        ? `${urgent.length} item${urgent.length > 1 ? "s" : ""} expiring within 2 days`
+        : "Nothing expires in the next 2 days.";
 
   return (
     <Screen>
-      <Title sub={urgent.length ? `${urgent.length} item${urgent.length > 1 ? "s" : ""} expiring within 2 days` : "Nothing urgent. Nice."}>
+      <Title sub={summary}>
         Pantry
       </Title>
 
