@@ -135,7 +135,14 @@ export function WeightCard({ w }: { w: WeightState }) {
         keyboardType="decimal-pad"
         value={goalText}
         onChangeText={setGoalText}
-        onEndEditing={() => w.updateGoal({ goalLb: parseFloat(goalText) || null })}
+        onEndEditing={() => {
+          // A goal weight above or below today's sets the direction, as it did before the mode chips existed.
+          const goalLb = parseFloat(goalText) || null;
+          const current = w.rec?.currentLb ?? null;
+          const patch: Partial<WeightGoal> = { goalLb };
+          if (goalLb && current && Math.abs(goalLb - current) >= 1) patch.mode = goalLb < current ? "lose" : "bulk";
+          w.updateGoal(patch);
+        }}
         placeholder="e.g. 165"
       />
       {modeOf(w.goal, w.rec?.currentLb ?? null) !== "maintain" ? (
