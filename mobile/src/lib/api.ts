@@ -46,8 +46,8 @@ function postForm<T>(url: string, form: FormData, headers: Record<string, string
       resolve(body as T);
     };
     xhr.timeout = 90_000;
-    xhr.onerror = () => reject(new Error("Network request failed"));
-    xhr.ontimeout = () => reject(new Error("The server did not respond. Check that the API is running and EXPO_PUBLIC_API_URL is this computer's current address."));
+    xhr.onerror = () => reject(new Error("Couldn't reach Ripe. Check your connection and try again."));
+    xhr.ontimeout = () => reject(new Error("Ripe took too long to answer. Check your connection and try again."));
     xhr.send(form);
   });
 }

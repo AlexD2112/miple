@@ -111,7 +111,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
         {auto ? (
           <Text style={[styles.muted, { marginBottom: 10 }]}>
             {rec
-              ? `${rec.expenditureSource === "measured" ? "Measured" : "Estimated"} burn ${rec.expenditure} kcal/day → ${rec.direction === "maintain" ? "maintain" : rec.direction === "lose" ? "lose weight" : "bulk"}. ${rec.reason}`
+              ? `You burn about ${rec.expenditure} kcal a day. Goal: ${rec.direction === "maintain" ? "maintain" : rec.direction === "lose" ? "lose weight" : "bulk"}. ${rec.reason}`
               : "Working out your targets…"}
           </Text>
         ) : null}
@@ -131,7 +131,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
           <Switch value={draft.allow_staples ?? false} onValueChange={(v) => set({ allow_staples: v })} trackColor={{ true: colors.brand }} />
         </Row>
         <Text style={styles.muted}>
-          Recipes may include salt, pepper, butter, and oil even when they are not in your pantry. They are not added to the pantry or used up when you cook.
+          Let recipes use salt, pepper, butter and oil even if they aren't in your pantry. Ripe won't track them or use them up.
         </Text>
       </Card>
 
@@ -142,7 +142,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
         </Row>
         <Text style={styles.muted}>
           {isHealthKitSupported()
-            ? "Reads today's calories, macros and active energy (including what MyFitnessPal logs) and writes the meals you cook. Health data stays on your phone; only your remaining-macro totals are used for planning."
+            ? "Ripe reads what you've eaten and burned today, including anything MyFitnessPal logs, and saves the meals you cook back to Health. Only your remaining calories and macros leave your phone."
             : "Not available in this build. Ripe uses your manual targets."}
         </Text>
       </Card>
