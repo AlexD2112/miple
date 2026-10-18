@@ -20,4 +20,6 @@ export const env = {
   photonWebhookSecret: process.env.PHOTON_WEBHOOK_SECRET || null,
   veyzlProbeToken: process.env.VEYZL_PROBE_TOKEN || null,
   nudgeCron: process.env.NUDGE_CRON || "0 9 * * *",
+  // Cloud Run's clock is UTC, so the schedule needs an explicit zone (9 AM UTC is 2 AM in Seattle).
+  nudgeTimezone: process.env.NUDGE_TIMEZONE || "America/Los_Angeles",
 };

@@ -47,8 +47,8 @@ photon.post("/webhook", async (req, res) => {
 });
 
 function validSecret(given: string | undefined): boolean {
-  if (!env.photonWebhookSecret) return true; // local dev only; set PHOTON_WEBHOOK_SECRET in prod
-  if (!given) return false;
+  // Fail closed: without a configured secret anyone could mark someone else's meal as cooked.
+  if (!env.photonWebhookSecret || !given) return false;
   const a = Buffer.from(given);
   const b = Buffer.from(env.photonWebhookSecret);
   return a.length === b.length && timingSafeEqual(a, b);
