@@ -4,7 +4,8 @@ import { useEffect, useState } from "react";
 import { Alert, Pressable, Text, View } from "react-native";
 import { Button, Card, Chip, Field, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { guessCategory } from "@/lib/api";
-import { logMealToHealth } from "@/lib/health";
+import { syncAutoTargets } from "@/lib/adaptive";
+import { logMealToHealth, logWeight } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
 import { addPantryItem, describeShelfLife } from "@/lib/pantry";
 import { currentUserId, supabase } from "@/lib/supabase";
@@ -97,7 +98,9 @@ function Tile({ emoji, title, onPress }: { emoji: string; title: string; onPress
 }
 
 function WeightForm() {
+  const { profile, save: saveProfile } = useProfile();
   const [lb, setLb] = useState("");
+  const [saving, setSaving] = useState(false);
   const [last, setLast] = useState<{ date: string; lb: number } | null>(null);
 
   useEffect(() => {
@@ -112,14 +115,22 @@ function WeightForm() {
   async function save() {
     const value = parseFloat(lb);
     if (!value || value < 50 || value > 700) return Alert.alert("Enter your weight in lb");
+    if (!profile) return;
+    setSaving(true);
     try {
-      const raw = await AsyncStorage.getItem(WEIGHT_KEY);
-      const list = raw ? (JSON.parse(raw) as { date: string; lb: number }[]) : [];
-      await AsyncStorage.setItem(WEIGHT_KEY, JSON.stringify([...list, { date: new Date().toISOString(), lb: value }].slice(-365)));
-      Alert.alert("Weight logged", `${value} lb`);
+      // Same path as the Me tab: Apple Health when enabled plus Ripe's own history, so the
+      // weight shows up wherever targets are computed.
+      await logWeight(profile, value);
+      const rec = await syncAutoTargets(profile, saveProfile);
+      Alert.alert(
+        "Weight logged",
+        rec?.currentLb ? `${value} lb. Daily targets are now ${rec.calories} kcal and ${rec.protein_g} g protein.` : `${value} lb`,
+      );
       close();
     } catch (err) {
       Alert.alert("Couldn't save", String(err));
+    } finally {
+      setSaving(false);
     }
   }
 
@@ -128,7 +139,7 @@ function WeightForm() {
       <Title sub={last ? `Last: ${last.lb} lb on ${new Date(last.date).toLocaleDateString()}` : "Log your morning weigh-in"}>Weight</Title>
       <Card>
         <Field label="Weight (lb)" keyboardType="decimal-pad" value={lb} onChangeText={setLb} placeholder="e.g. 172.4" autoFocus />
-        <Button label="Log weight" onPress={save} disabled={!lb.trim()} />
+        <Button label="Log weight" onPress={save} loading={saving} disabled={!lb.trim() || !profile} />
       </Card>
     </>
   );

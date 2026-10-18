@@ -38,7 +38,7 @@ export default function Budget() {
 
   function share() {
     Share.share({
-      message: `My Miple week: $${spent.toFixed(0)} spent, ${stats.items_saved} items saved, ${stats.items_wasted} wasted. 🥬`,
+      message: `My Ripe week: $${spent.toFixed(0)} spent, ${stats.items_saved} items saved, ${stats.items_wasted} wasted. 🥬`,
     });
   }
 
@@ -50,7 +50,7 @@ export default function Budget() {
 
       {/* Wrapped card */}
       <View style={{ backgroundColor: colors.brand, borderRadius: 20, padding: 20, marginBottom: 12 }}>
-        <Text style={{ color: "#DDEFD0", fontWeight: "700", letterSpacing: 1 }}>MIPLE WRAPPED · THIS WEEK</Text>
+        <Text style={{ color: "#DDEFD0", fontWeight: "700", letterSpacing: 1 }}>RIPE WRAPPED · THIS WEEK</Text>
         <Text style={{ color: "#fff", fontSize: 40, fontWeight: "900", marginTop: 8 }}>${spent.toFixed(0)}</Text>
         <Text style={{ color: "#DDEFD0" }}>spent on groceries</Text>
         <Row style={{ marginTop: 16, gap: 24 }}>

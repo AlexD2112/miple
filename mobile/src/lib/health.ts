@@ -137,8 +137,8 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
     }
   }
 
-  // Fallback: count meals cooked in Miple today.
-  if (source === "manual") consumed = await mipleMealsToday();
+  // Fallback: count meals cooked in Ripe today.
+  if (source === "manual") consumed = await ripeMealsToday();
 
   const target = withWorkoutBonus(base, activeEnergyBurned);
   const remaining: Macros = {
@@ -162,7 +162,7 @@ export function withWorkoutBonus(base: Macros, activeKcal: number): Macros {
   };
 }
 
-async function mipleMealsToday(): Promise<Macros> {
+async function ripeMealsToday(): Promise<Macros> {
   const start = new Date();
   start.setHours(0, 0, 0, 0);
   const { data } = await supabase
@@ -181,7 +181,7 @@ async function mipleMealsToday(): Promise<Macros> {
   );
 }
 
-/** Writes one serving of a cooked Miple meal to Apple Health as a food correlation. */
+/** Writes one serving of a cooked Ripe meal to Apple Health as a food correlation. */
 export async function logMealToHealth(recipe: Recipe, at = new Date()): Promise<boolean> {
   const hk = healthKit();
   if (!hk) return false;
@@ -257,7 +257,7 @@ async function readLocalWeights(): Promise<WeightEntry[]> {
 
 /**
  * Weigh-ins from the last `days` days, oldest first. Reads Apple Health when it is
- * enabled (so scale apps and MacroFactor entries show up), otherwise entries saved in Miple.
+ * enabled (so scale apps and MacroFactor entries show up), otherwise entries saved in Ripe.
  */
 export async function getWeightHistory(profile: Profile, days = 30): Promise<WeightEntry[]> {
   const since = new Date();
@@ -281,7 +281,7 @@ export async function getWeightHistory(profile: Profile, days = 30): Promise<Wei
   return local.filter((w) => new Date(w.date) >= since).sort((a, b) => a.date.localeCompare(b.date));
 }
 
-/** Saves a weigh-in to Apple Health when enabled, and always to Miple's local history. */
+/** Saves a weigh-in to Apple Health when enabled, and always to Ripe's local history. */
 export async function logWeight(profile: Profile, lb: number, at = new Date()): Promise<void> {
   const entry = { date: at.toISOString(), lb };
   const local = await readLocalWeights();
