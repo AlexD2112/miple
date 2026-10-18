@@ -78,9 +78,38 @@ export const RecipeDraft = z.object({
 });
 export type RecipeDraft = z.infer<typeof RecipeDraft>;
 
-export const GeneratedRecipes = z.object({
-  recipes: z.array(RecipeDraft),
-});
+export function generatedRecipesSchema(staples: boolean) {
+  return z.object({
+    recipes: z.array(
+      RecipeDraft.omit({ ingredients: true }).extend({
+        ingredients: z
+          .array(
+            z.object({
+              pantry_item_id: z
+                .string()
+                .nullable()
+                .describe(
+                  staples
+                    ? "Id from the pantry list. Null only for salt, pepper, butter, or oil."
+                    : "Id of this ingredient from the pantry list. Null and unknown ids are invalid.",
+                ),
+              name: z
+                .string()
+                .describe(
+                  staples
+                    ? "The pantry item's name, or salt, pepper, butter, or oil."
+                    : "That pantry item's name. Do not rename it into a different food.",
+                ),
+              quantity: z.string().describe("How much of that ingredient to use."),
+            }),
+          )
+          .min(1),
+      }),
+    ),
+  });
+}
+
+export const GeneratedRecipes = generatedRecipesSchema(false);
 
 export const ChefMessage = z.object({
   role: z.enum(["user", "chef"]),

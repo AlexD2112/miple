@@ -2,21 +2,31 @@ import { Router } from "express";
 import { structured } from "../lib/gemini.js";
 import { db, getProfile, requireUser, type AuthedRequest } from "../lib/supabase.js";
 import { containsDisliked, findAllergens, violatesAllergies } from "../domain/allergens.js";
+import { groundRecipesToPantry } from "../domain/pantryRecipes.js";
 import {
   ChefApplyRequest,
   ChefRequest,
   ChefTurn,
-  GeneratedRecipes,
+  generatedRecipesSchema,
   RecipeRequest,
   type ChefProposal,
   type RecipeDraft,
 } from "../domain/schemas.js";
 
-const SYSTEM = `You are Miple's recipe planner for busy students and young professionals on a budget.
-Create simple, realistic recipes that use the pantry items closest to expiring first.
-Use pantry_item_id for every ingredient that comes from the pantry list; use null only for basic
-staples (oil, salt, pepper, spices, water). Macros are per serving and must be honest estimates.
+function recipeSystem(staples: boolean): string {
+  const pantryRule = staples
+    ? `Every ingredient must be a pantry item with that item's pantry_item_id, except salt, pepper, butter, and oil.
+Those four may be added with pantry_item_id null, including olive oil, vegetable oil, and black pepper.
+If one of them is already in the pantry, use that pantry id instead. Do not add any other food.`
+    : `Every ingredient must be one of the pantry items, and pantry_item_id must be that item's id.
+Do not add staples or any food that is not on the list, including oil, salt, pepper, butter, spices, and water.`;
+  return `You are Miple's recipe planner for busy students and young professionals on a budget.
+Cook only with the pantry items in the list. ${pantryRule}
+Do not invent a dish that needs anything else. If the pantry cannot support the requested number, return fewer recipes.
+The title and steps may mention only ingredients listed on that recipe.
+Prefer items closest to expiring. Macros are per serving and must be honest estimates.
 Respect the diet, allergies and dislikes strictly, and list every allergen key the recipe contains.`;
+}
 
 const CHEF_SYSTEM = `You are Miple's home chef. Speak in a short, warm, practical voice. Never mention slot ids or JSON.
 The user can ask for a specific dish ("shakshuka tonight") or to change the plan. Do not say the plan is already updated.
@@ -55,12 +65,14 @@ recipes.post("/generate", requireUser, async (req: AuthedRequest, res) => {
       .map(({ id, name, quantity, unit, days_left }) => ({ id, name, quantity, unit, days_left })),
   };
 
-  const out = await structured(GeneratedRecipes, {
-    system: SYSTEM,
-    content: `Plan ${count} recipes, each at most ${max_minutes} minutes, aiming to fit one meal within the remaining macros.\n\n${JSON.stringify(prompt, null, 2)}`,
+  const staples = profile.allow_staples === true;
+  const out = await structured(generatedRecipesSchema(staples), {
+    system: recipeSystem(staples),
+    content: `Plan up to ${count} recipes, each at most ${max_minutes} minutes, aiming to fit one meal within the remaining macros. Use only the pantry list${staples ? ", plus salt, pepper, butter, and oil" : ""}. Drop a recipe instead of adding any other ingredient.\n\n${JSON.stringify(prompt, null, 2)}`,
   });
 
-  const accepted = acceptRecipes(out.recipes, profile, pantryIds, max_minutes);
+  const grounded = groundRecipesToPantry(out.recipes, safePantry, { staples });
+  const accepted = acceptRecipes(grounded, profile, pantryIds, max_minutes);
   if (accepted.length === 0) return res.json({ recipes: [], rejected: out.recipes.length });
 
   const data = await insertRecipes(req.userId!, accepted);
@@ -90,8 +102,11 @@ recipes.post("/chef", requireUser, async (req: AuthedRequest, res) => {
     transcript: messages.map((m) => ({ role: m.role, text: m.text })),
   };
 
+  const staples = profile.allow_staples === true;
   const turn = await structured(ChefTurn, {
-    system: CHEF_SYSTEM,
+    system: staples
+      ? `${CHEF_SYSTEM}\nSalt, pepper, butter, and oil may be used even when they are not in the pantry. Do not mark those four as need or substitute, and do not add them to shopping.`
+      : CHEF_SYSTEM,
     content: JSON.stringify(prompt),
   });
 

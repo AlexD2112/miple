@@ -34,6 +34,7 @@ export interface Profile {
   fat_target_g: number;
   phone: string | null;
   nudges_enabled: boolean;
+  allow_staples: boolean;
   timezone: string;
 }
 

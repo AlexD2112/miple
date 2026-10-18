@@ -54,6 +54,7 @@ function ProfileForm({ profile }: { profile: Profile }) {
         fat_target_g: draft.fat_target_g,
         phone: draft.phone?.trim() || null,
         nudges_enabled: draft.nudges_enabled,
+        allow_staples: draft.allow_staples ?? false,
         healthkit_enabled: draft.healthkit_enabled,
         timezone: Intl.DateTimeFormat().resolvedOptions().timeZone,
       });
@@ -99,6 +100,16 @@ function ProfileForm({ profile }: { profile: Profile }) {
           <Field label="Carbs g" keyboardType="number-pad" value={String(draft.carbs_target_g)} onChangeText={(v) => set({ carbs_target_g: num(v) })} />
           <Field label="Fat g" keyboardType="number-pad" value={String(draft.fat_target_g)} onChangeText={(v) => set({ fat_target_g: num(v) })} />
         </Row>
+      </Card>
+
+      <Card>
+        <Row style={{ justifyContent: "space-between" }}>
+          <Text style={styles.h2}>Staples</Text>
+          <Switch value={draft.allow_staples ?? false} onValueChange={(v) => set({ allow_staples: v })} trackColor={{ true: colors.brand }} />
+        </Row>
+        <Text style={styles.muted}>
+          Recipes may include salt, pepper, butter, and oil even when they are not in your pantry. They are not added to the pantry or used up when you cook.
+        </Text>
       </Card>
 
       <Card>
