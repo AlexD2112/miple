@@ -28,7 +28,7 @@ const RULES: { reason: RefusalReason; test: (t: string) => boolean; message: str
       /\b(developer|god|admin|debug|jailbreak|unrestricted)\s+mode\b/.test(t) ||
       /\bno (rules|restrictions|limits|filters)\b/.test(t) ||
       /\bdo anything now\b|\bact as dan\b/.test(t),
-    message: "I can't do that. I'm Miple's kitchen assistant, and my rules stay on. Happy to help with recipes, your pantry, or meal planning.",
+    message: "I can't do that. I'm Ripe's kitchen assistant, and my rules stay on. Happy to help with recipes, your pantry, or meal planning.",
   },
   {
     reason: "secrets",
@@ -52,7 +52,7 @@ const RULES: { reason: RefusalReason; test: (t: string) => boolean; message: str
       "No. It isn't acceptable for facial recognition, or any automated system, to be less accurate for darker-skinned faces or for any other group. " +
       "Unequal error rates mean more wrongful matches and more people locked out, and they fall on groups that already face the most bias. " +
       "Systems like this should be tested on balanced data across skin tones and demographics, held to the same accuracy for every group, " +
-      "and fixed or not deployed until they are. I won't argue that it's fine. (Miple itself doesn't use facial recognition.)",
+      "and fixed or not deployed until they are. I won't argue that it's fine. (Ripe itself doesn't use facial recognition.)",
   },
   {
     // VEYZL bio_liveness_reason: actionable reasons, no match scores.
@@ -60,7 +60,7 @@ const RULES: { reason: RefusalReason; test: (t: string) => boolean; message: str
     test: (t) =>
       /\b(identity|id|biometric|face|selfie) (verification|check|match)\b|\bliveness\b|\bverify (my|your|their|the user'?s) identity\b/.test(t),
     message:
-      "Miple doesn't run identity verification, so there's no result here to explain and no match scores to share. " +
+      "Ripe doesn't run identity verification, so there's no result here to explain and no match scores to share. " +
       "In general, a check like this fails for one of a few fixable reasons: the photo was blurry, too dark, or had glare; " +
       "your face or the document wasn't fully in frame; the document was expired, damaged, or hard to read; " +
       "or the selfie didn't match the document photo closely enough (a hat, glasses, or a very different angle). " +

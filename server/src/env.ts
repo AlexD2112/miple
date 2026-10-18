@@ -12,7 +12,10 @@ export const env = {
   supabaseServiceRoleKey: required("SUPABASE_SERVICE_ROLE_KEY"),
   googleCloudProject: required("GOOGLE_CLOUD_PROJECT"),
   googleCloudLocation: process.env.GOOGLE_CLOUD_LOCATION || "us-central1",
-  model: process.env.MIPLE_MODEL || "gemini-2.5-flash",
+  model: process.env.RIPE_MODEL || process.env.MIPLE_MODEL || "gemini-2.5-flash", // MIPLE_MODEL is the pre-rename name
+  // Gemini 2.5 "thinks" before answering by default. Measured on the chef call, turning it off
+  // (0) halved the median latency (8.1 s -> 4.1 s) and removed 20 s outliers. -1 lets the model decide.
+  thinkingBudget: Number(process.env.GEMINI_THINKING_BUDGET ?? 0),
   perceptronApiKey: process.env.PERCEPTRON_API_KEY || null,
   perceptronOcrUrl: process.env.PERCEPTRON_OCR_URL || "https://api.perceptron.inc/v1/chat/completions",
   veyzlProbeToken: process.env.VEYZL_PROBE_TOKEN || null,

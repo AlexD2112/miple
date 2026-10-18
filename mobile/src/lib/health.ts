@@ -149,7 +149,7 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
   }
 
   // Fallback: count meals cooked in Ripe today.
-  if (source === "manual") consumed = await mipleMealsToday();
+  if (source === "manual") consumed = await ripeMealsToday();
 
   const target = withWorkoutBonus(base, activeEnergyBurned);
   const remaining: Macros = {
@@ -173,7 +173,7 @@ export function withWorkoutBonus(base: Macros, activeKcal: number): Macros {
   };
 }
 
-async function mipleMealsToday(): Promise<Macros> {
+async function ripeMealsToday(): Promise<Macros> {
   const start = new Date();
   start.setHours(0, 0, 0, 0);
   const { data } = await supabase
