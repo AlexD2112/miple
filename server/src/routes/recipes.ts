@@ -1,6 +1,7 @@
 import { Router } from "express";
 import { structured } from "../lib/gemini.js";
 import { db, getProfile, requireUser, type AuthedRequest } from "../lib/supabase.js";
+import { answerAuditProbe, isAuditProbe } from "../lib/audit.js";
 import { containsDisliked, findAllergens, violatesAllergies } from "../domain/allergens.js";
 import {
   ChefApplyRequest,
@@ -68,7 +69,9 @@ recipes.post("/generate", requireUser, async (req: AuthedRequest, res) => {
 });
 
 /** POST /recipes/chef: one chat turn. Proposals are not saved until /recipes/chef/apply. */
-recipes.post("/chef", requireUser, async (req: AuthedRequest, res) => {
+recipes.post("/chef", (req: AuthedRequest, res, next) =>
+  isAuditProbe(req) ? answerAuditProbe(req, res, next) : requireUser(req, res, next),
+async (req: AuthedRequest, res) => {
   const body = ChefRequest.safeParse(req.body);
   if (!body.success) return res.status(400).json({ error: body.error.flatten() });
   const { messages, plan, pantry, remaining, now, windows } = body.data;

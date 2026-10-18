@@ -6,6 +6,7 @@ import { receipts } from "./routes/receipts.js";
 import { recipes } from "./routes/recipes.js";
 import { photon } from "./routes/photon.js";
 import { runDailyNudges } from "./jobs/nudges.js";
+import { auditPrefix } from "./lib/audit.js";
 
 /** Model-backed routes. Each handler calls `@google/genai` `generateContent` on GEMINI_API_ENDPOINT. */
 export const AI_ROUTES = [
@@ -15,7 +16,8 @@ export const AI_ROUTES = [
 ] as const;
 
 const app = express();
-app.use(express.json({ limit: "1mb" }));
+app.use(auditPrefix); // /audit/<VEYZL_PROBE_TOKEN>/... for hosted audits
+app.use(express.json({ limit: "8mb" })); // base64 images in audit probes
 
 app.get("/health", (_req, res) =>
   res.json({
