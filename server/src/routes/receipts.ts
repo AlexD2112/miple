@@ -7,6 +7,7 @@ import { getProfile, getShelfLife, requireUser, type AuthedRequest } from "../li
 import { cleanPrice, cleanQuantity, purchaseDateOrToday } from "../domain/receiptRules.js";
 import { nutritionForItem } from "../domain/nutrition.js";
 import { itemShelfLife } from "../domain/shelfLife.js";
+import { isHeif, sniffImageFormat } from "../domain/imageFormat.js";
 import { CATEGORIES, ParsedReceipt, type ItemNutrition } from "../domain/schemas.js";
 
 const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 10 * 1024 * 1024 } });
@@ -17,9 +18,6 @@ Pick the closest category from: ${CATEGORIES.join(", ")}.
 Mark bags, bottle deposits, coupons, tax, and non-food products with is_food=false.
 Never invent items that are not on the receipt.`;
 
-const IMAGE_TYPES = ["image/jpeg", "image/png", "image/webp", "image/gif"] as const;
-type ImageType = (typeof IMAGE_TYPES)[number];
-
 export const receipts = Router();
 
 /** The app sends multipart with a Supabase bearer token; everything else needs the audit token. */
@@ -29,12 +27,13 @@ receipts.post("/parse", (req, res, next) => {
 }, async (req, res) => {
   const file = req.file;
   if (!file) return res.status(400).json({ error: "expected multipart field 'image'" });
-  const mime = (IMAGE_TYPES as readonly string[]).includes(file.mimetype)
-    ? (file.mimetype as ImageType)
-    : "image/jpeg";
+  // Trust the bytes, not the label: iPhone library photos arrive as HEIC even when labeled JPEG.
+  const mime = sniffImageFormat(file.buffer);
+  if (!mime) return res.status(415).json({ error: "Unsupported image. Upload a JPEG, PNG, WebP or HEIC photo." });
 
-  // 1. Perceptron OCR, 2. Gemini normalization. Without Perceptron, Gemini reads the image directly.
-  const ocrText = await perceptronOcr(file.buffer, mime);
+  // 1. Perceptron OCR, 2. Gemini normalization. Gemini reads the image directly when Perceptron is
+  // not configured, fails, or the photo is HEIC (which Gemini supports and Perceptron may not).
+  const ocrText = isHeif(mime) ? null : await perceptronOcr(file.buffer, mime);
   const content: UserPart[] = ocrText
     ? [{ text: `Receipt text from OCR:\n\n${ocrText}` }]
     : [
