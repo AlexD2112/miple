@@ -3,6 +3,7 @@ import { structured } from "../lib/gemini.js";
 import { db, getProfile, requireUser, type AuthedRequest } from "../lib/supabase.js";
 import { answerAuditProbe, isAuditProbe } from "../lib/audit.js";
 import { containsDisliked, findAllergens, violatesAllergies } from "../domain/allergens.js";
+import { CHEF_GUARDRAILS, redactOutput, screenInput } from "../domain/guard.js";
 import { groundRecipesToPantry } from "../domain/pantryRecipes.js";
 import {
   ChefApplyRequest,
@@ -36,7 +37,9 @@ For a requested dish: check the pantry. Mark each ingredient have, need, or subs
 items on the pantry list. Offer a substitute they can make from what they have, and still list anything they must buy.
 Put prep and cook in guide, with timer_minutes when a step waits (simmer, rest, roast) and null otherwise.
 Pick starts_at and ends_at from the free windows when one fits, including adding a meal that is not on the plan yet.
-Set rebuild_week true when this meal should replace the surrounding plan. Respect diet, allergies, and dislikes.`;
+Set rebuild_week true when this meal should replace the surrounding plan. Respect diet, allergies, and dislikes.
+
+${CHEF_GUARDRAILS}`;
 
 export const recipes = Router();
 
@@ -88,6 +91,11 @@ async (req: AuthedRequest, res) => {
   if (!body.success) return res.status(400).json({ error: body.error.flatten() });
   const { messages, plan, pantry, remaining, now, windows } = body.data;
 
+  // Refuse known-unsafe requests in code; they never reach the model.
+  const lastUser = [...messages].reverse().find((m) => m.role === "user");
+  const refusal = lastUser ? screenInput(lastUser.text) : null;
+  if (refusal) return res.json({ message: refusal.message, proposal: null });
+
   const profile = await getProfile(req.userId!);
   const safePantry = pantry.filter((p) => findAllergens([p.name], profile.allergies).length === 0);
 
@@ -114,7 +122,7 @@ async (req: AuthedRequest, res) => {
   });
 
   const proposal = turn.proposal ? sanitizeProposal(turn.proposal, profile, new Set(safePantry.map((p) => p.id))) : null;
-  let message = turn.message.trim();
+  let message = redactOutput(turn.message.trim());
   if (turn.proposal && !proposal) {
     message += " I couldn't offer that dish with your allergies and dislikes.";
   }
