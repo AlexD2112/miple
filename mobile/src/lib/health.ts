@@ -1,7 +1,9 @@
 import AsyncStorage from "@react-native-async-storage/async-storage";
 import { Platform } from "react-native";
+import { addDaysIso, localIsoDate } from "./dates";
+import { addEntries, dailyIntakeFromLog, entryTotals, recipeEntry, totalsForDay } from "./foodLog";
 import { supabase } from "./supabase";
-import type { Macros, MealSlot, Profile, Recipe } from "./types";
+import type { FoodLogEntry, Macros, MealSlot, Profile } from "./types";
 
 /**
  * Everything Apple Health lives behind this file. The rest of the app calls
@@ -12,7 +14,8 @@ import type { Macros, MealSlot, Profile, Recipe } from "./types";
  * New Architecture. The old react-native-health module never registered there.
  *
  * Privacy rule: raw samples stay on the device. Only the four remaining-macro numbers
- * are ever sent to the server / LLM.
+ * are ever sent to the server / LLM. (Food the user logs in Ripe is stored in Supabase,
+ * like planned meals; that is the user's own entry, not a HealthKit sample.)
  */
 
 type HK = typeof import("@kingstinct/react-native-healthkit");
@@ -127,6 +130,8 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
   let consumed = zero;
   let activeEnergyBurned = 0;
   let fiber_g: number | undefined;
+  // Today's food log. With Apple Health on, only entries not yet written there are added on top.
+  const day = await totalsForDay().catch(() => null);
 
   const hk = healthKit();
   if (profile.healthkit_enabled && hk) {
@@ -143,13 +148,27 @@ export async function getRemainingMacros(profile: Profile): Promise<MacroStatus>
       activeEnergyBurned = active;
       fiber_g = fiber;
       source = "healthkit";
+      for (const e of (day?.entries ?? []).filter((x) => !x.logged_to_health)) {
+        const t = entryTotals(e);
+        consumed = {
+          calories: consumed.calories + t.calories,
+          protein_g: consumed.protein_g + t.protein_g,
+          carbs_g: consumed.carbs_g + t.carbs_g,
+          fat_g: consumed.fat_g + t.fat_g,
+        };
+        fiber_g += t.fiber_g;
+      }
     } catch (err) {
       console.warn("[health] read failed, using manual targets", err);
     }
   }
 
-  // Fallback: count meals cooked in Ripe today.
-  if (source === "manual") consumed = await ripeMealsToday();
+  // Without Apple Health: Ripe's food log, which includes cooked plan meals.
+  if (source === "manual" && day) {
+    const { fiber_g: fiber, ...macros } = day.totals;
+    consumed = macros;
+    fiber_g = fiber;
+  }
 
   const target = withWorkoutBonus(base, activeEnergyBurned);
   const remaining: Macros = {
@@ -173,50 +192,40 @@ export function withWorkoutBonus(base: Macros, activeKcal: number): Macros {
   };
 }
 
-async function ripeMealsToday(): Promise<Macros> {
-  const start = new Date();
-  start.setHours(0, 0, 0, 0);
-  const { data } = await supabase
-    .from("meal_slots")
-    .select("recipes(calories, protein_g, carbs_g, fat_g)")
-    .eq("status", "cooked")
-    .gte("cooked_at", start.toISOString());
-  return ((data ?? []) as unknown as { recipes: Macros | null }[]).reduce(
-    (acc, row) => ({
-      calories: acc.calories + (row.recipes?.calories ?? 0),
-      protein_g: acc.protein_g + (row.recipes?.protein_g ?? 0),
-      carbs_g: acc.carbs_g + (row.recipes?.carbs_g ?? 0),
-      fat_g: acc.fat_g + (row.recipes?.fat_g ?? 0),
-    }),
-    zero,
-  );
-}
+type Loggable = Macros & { title: string };
 
-/** Writes one serving of a cooked Ripe meal to Apple Health as a food correlation. */
-export async function logMealToHealth(recipe: Recipe, at = new Date()): Promise<boolean> {
+const RIPE_ID = "RipeLogId";
+
+/**
+ * Writes one meal to Apple Health as a food correlation. `logId` tags the samples so the entry
+ * can be removed again when it is edited or deleted in Ripe (see removeFromHealth).
+ */
+export async function logMealToHealth(meal: Loggable, at = new Date(), logId?: string): Promise<boolean> {
   const hk = healthKit();
   if (!hk) return false;
   if (!initialized && !(await requestHealthPermissions())) return false;
 
+  const metadata = logId ? { [RIPE_ID]: logId } : undefined;
   const sample = (quantityType: SumIdentifier, unit: "kcal" | "g", quantity: number) => ({
     quantityType,
     unit,
     quantity: Math.max(0, Number(quantity) || 0),
     startDate: at,
     endDate: at,
+    ...(metadata ? { metadata } : {}),
   });
   try {
     await hk.saveCorrelationSample(
       "HKCorrelationTypeIdentifierFood",
       [
-        sample(ENERGY, "kcal", recipe.calories),
-        sample(PROTEIN, "g", recipe.protein_g),
-        sample(CARBS, "g", recipe.carbs_g),
-        sample(FAT, "g", recipe.fat_g),
+        sample(ENERGY, "kcal", meal.calories),
+        sample(PROTEIN, "g", meal.protein_g),
+        sample(CARBS, "g", meal.carbs_g),
+        sample(FAT, "g", meal.fat_g),
       ] as never,
       at,
       at,
-      { HKFoodType: recipe.title } as never,
+      { HKFoodType: meal.title, ...(metadata ?? {}) } as never,
     );
     return true;
   } catch (err) {
@@ -225,20 +234,90 @@ export async function logMealToHealth(recipe: Recipe, at = new Date()): Promise<
   }
 }
 
+/** Removes a logged food's samples from Apple Health. Best effort: returns false when it couldn't. */
+export async function removeFromHealth(logId: string): Promise<boolean> {
+  const hk = healthKit();
+  if (!hk) return false;
+  if (!initialized && !(await requestHealthPermissions())) return false;
+  try {
+    for (const type of [ENERGY, PROTEIN, CARBS, FAT]) {
+      await serial(() => hk.deleteObjects(type, { metadata: { withMetadataKey: RIPE_ID, value: logId } } as never));
+    }
+    return true;
+  } catch (err) {
+    fail("removing a meal", err);
+    return false;
+  }
+}
+
+/**
+ * Writes food log entries to Apple Health (when it is on) and marks them, so today's totals
+ * don't count them twice. Returns how many were written.
+ */
+export async function logEntriesToHealth(profile: Profile | null, entries: FoodLogEntry[]): Promise<number> {
+  if (!profile?.healthkit_enabled || !isHealthKitSupported()) return 0;
+  let written = 0;
+  for (const e of entries) {
+    if (e.logged_to_health) continue;
+    const t = entryTotals(e);
+    if (await logMealToHealth({ title: e.name, ...t }, new Date(e.eaten_at), e.id)) {
+      await supabase.from("food_log").update({ logged_to_health: true }).eq("id", e.id);
+      written++;
+    }
+  }
+  return written;
+}
+
+/**
+ * After a plan meal is marked cooked: adds one serving to the food log and writes it to
+ * Apple Health when that is on. Safe to call twice; the log keeps one row per meal slot.
+ */
+export async function logCookedMeal(profile: Profile | null, slot: MealSlot): Promise<void> {
+  if (!slot.recipes) return;
+  const at = new Date();
+  const { data: existing } = await supabase.from("food_log").select("*").eq("meal_slot_id", slot.id).maybeSingle();
+  let entry = existing as FoodLogEntry | null;
+  if (!entry) {
+    const { data, error } = await addEntries([recipeEntry(slot.recipes, at, slot.id)]);
+    entry = data[0] ?? null;
+    if (error) console.warn("[food log] cooked meal not logged:", error);
+  }
+  if (!profile?.healthkit_enabled) return;
+  // Without a log row (database not migrated yet) write the recipe directly, as before.
+  const ok = entry ? (await logEntriesToHealth(profile, [entry])) > 0 || entry.logged_to_health : await logMealToHealth(slot.recipes, at);
+  if (ok) await supabase.from("meal_slots").update({ logged_to_health: true }).eq("id", slot.id);
+}
+
 /**
  * Meals marked cooked by SMS reply ("done") are cooked server-side, but only the phone can
  * write to Health. Call this when the app comes to the foreground.
  */
 export async function syncCookedMealsToHealth(profile: Profile): Promise<number> {
   if (!profile.healthkit_enabled || !isHealthKitSupported()) return 0;
+  // Food logged on the web or another device in the last few days.
+  const { data: food } = await supabase
+    .from("food_log")
+    .select("*")
+    .eq("logged_to_health", false)
+    .gte("eaten_on", addDaysIso(localIsoDate(), -3));
+  let logged = await logEntriesToHealth(profile, (food ?? []) as FoodLogEntry[]);
   const { data } = await supabase
     .from("meal_slots")
     .select("*, recipes(*)")
     .eq("status", "cooked")
     .eq("logged_to_health", false);
-  let logged = 0;
-  for (const slot of (data ?? []) as MealSlot[]) {
+  const slots = (data ?? []) as MealSlot[];
+  // A cooked meal that has a food log row reaches Health through that row (above), not twice.
+  const { data: inLog } = slots.length
+    ? await supabase.from("food_log").select("meal_slot_id").in("meal_slot_id", slots.map((s) => s.id))
+    : { data: [] };
+  const viaLog = new Set((inLog ?? []).map((r) => r.meal_slot_id as string));
+  for (const slot of slots) {
     if (!slot.recipes) continue;
+    if (viaLog.has(slot.id)) {
+      await supabase.from("meal_slots").update({ logged_to_health: true }).eq("id", slot.id);
+      continue;
+    }
     if (await logMealToHealth(slot.recipes, new Date(slot.cooked_at ?? slot.starts_at))) {
       await supabase.from("meal_slots").update({ logged_to_health: true }).eq("id", slot.id);
       logged++;
@@ -315,10 +394,13 @@ export function weightTrend(entries: WeightEntry[], alpha = 0.25): number[] {
   return out;
 }
 
-/** Calories eaten per day for the last `days` days (oldest first), from Apple Health. Days with nothing logged are skipped. */
+/**
+ * Calories eaten per day for the last `days` days (oldest first): from Apple Health when it is on,
+ * otherwise from Ripe's food log. Days with nothing logged are skipped.
+ */
 export async function getDailyIntake(profile: Profile, days = 21): Promise<{ date: string; kcal: number }[]> {
   const hk = healthKit();
-  if (!profile.healthkit_enabled || !hk) return [];
+  if (!profile.healthkit_enabled || !hk) return dailyIntakeFromLog(days).catch(() => []);
   const start = new Date();
   start.setHours(0, 0, 0, 0);
   start.setDate(start.getDate() - days);

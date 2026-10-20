@@ -2,7 +2,7 @@ import { router, useLocalSearchParams } from "expo-router";
 import { useEffect, useMemo, useState } from "react";
 import { Pressable, Text, View } from "react-native";
 import { Button, Card, Screen, Title, colors, styles } from "@/components/ui";
-import { logMealToHealth } from "@/lib/health";
+import { logCookedMeal } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
 import { supabase } from "@/lib/supabase";
 import type { MealSlot, RecipeStep } from "@/lib/types";
@@ -68,11 +68,7 @@ export default function Cook() {
     if (!slot) return;
     const { error } = await supabase.rpc("cook_meal_slot", { p_slot_id: slot.id });
     if (error) return;
-    if (profile?.healthkit_enabled && slot.recipes) {
-      if (await logMealToHealth(slot.recipes)) {
-        await supabase.from("meal_slots").update({ logged_to_health: true }).eq("id", slot.id);
-      }
-    }
+    await logCookedMeal(profile, slot);
     setDone(true);
   }
 

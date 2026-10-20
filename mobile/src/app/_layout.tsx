@@ -36,6 +36,7 @@ export default function RootLayout() {
         <Stack.Screen name="chef" />
         <Stack.Screen name="cook" />
         <Stack.Screen name="quick-add" options={{ presentation: "modal" }} />
+        <Stack.Screen name="log-food" options={{ presentation: "modal" }} />
       </Stack.Protected>
       <Stack.Protected guard={!signedIn} redirectTo="/">
         <Stack.Screen name="sign-in" />

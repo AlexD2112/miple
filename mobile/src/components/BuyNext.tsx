@@ -1,14 +1,15 @@
 import { useCallback, useEffect, useState } from "react";
-import { ActivityIndicator, Alert, Pressable, Share, Text, View } from "react-native";
+import { ActivityIndicator, Alert, Pressable, Text, View } from "react-native";
 import { Button, Card, Row, colors, styles } from "@/components/ui";
 import { addPantryItem } from "@/lib/pantry";
 import { useProfile } from "@/lib/profile";
 import { quickPicks, suggestPurchases, type BuySuggestion } from "@/lib/shopping";
+import { addToList } from "@/lib/shoppingList";
 import { supabase } from "@/lib/supabase";
 import type { Item } from "@/lib/types";
 
 /** "What should I buy next?": the groceries that unlock the most meals with what you already have. */
-export function BuyNext() {
+export function BuyNext({ onListChanged }: { onListChanged?: () => void }) {
   const { profile } = useProfile();
   const [items, setItems] = useState<BuySuggestion[] | null>(null);
   const [source, setSource] = useState<"gemini" | "offline">("gemini");
@@ -39,6 +40,13 @@ export function BuyNext() {
     setAdding(null);
     if (error) return Alert.alert("Couldn't add", error);
     setItems((prev) => (prev ?? []).filter((x) => x.name !== s.name));
+  }
+
+  async function toList(list: BuySuggestion[]) {
+    const { added, error } = await addToList(list.map((s) => ({ name: s.name, category: s.category })), "suggestion");
+    if (error) return Alert.alert("Couldn't add", error);
+    onListChanged?.();
+    Alert.alert(added ? "Added to your list" : "Already on your list", added ? `${added} item${added === 1 ? "" : "s"} added.` : "");
   }
 
   const total = (items ?? []).reduce((a, s) => a + s.est_price, 0);
@@ -74,7 +82,10 @@ export function BuyNext() {
             </View>
             <View style={{ alignItems: "flex-end", gap: 6 }}>
               <Text style={[styles.body, { fontWeight: "700" }]}>~${s.est_price.toFixed(2)}</Text>
-              <Button small kind="secondary" label="Bought" onPress={() => bought(s)} loading={adding === s.name} />
+              <Row style={{ gap: 6 }}>
+                <Button small kind="secondary" label="+ List" onPress={() => toList([s])} />
+                <Button small kind="secondary" label="Bought" onPress={() => bought(s)} loading={adding === s.name} />
+              </Row>
             </View>
           </Row>
         </View>
@@ -86,11 +97,7 @@ export function BuyNext() {
             <Text style={styles.muted}>Estimated total</Text>
             <Text style={[styles.body, { fontWeight: "700" }]}>~${total.toFixed(2)}</Text>
           </Row>
-          <Button
-            kind="secondary"
-            label="Share shopping list"
-            onPress={() => Share.share({ message: `Ripe shopping list:\n${items.map((s) => `• ${s.name} (~$${s.est_price.toFixed(2)})`).join("\n")}` })}
-          />
+          <Button kind="secondary" label="Add all to my list" onPress={() => toList(items)} />
         </>
       ) : null}
       {items && !items.length && !loading ? <Text style={styles.muted}>You're stocked up. Tap Refresh after you cook a few meals.</Text> : null}
