@@ -1,5 +1,7 @@
 import { Share, Text, View } from "react-native";
+import { useState } from "react";
 import { BuyNext } from "@/components/BuyNext";
+import { ShoppingList } from "@/components/ShoppingList";
 import { Button, Card, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { localIsoDate, startOfWeek } from "@/lib/dates";
 import { supabase } from "@/lib/supabase";
@@ -13,6 +15,7 @@ interface WeeklyStats {
 }
 
 export default function Budget() {
+  const [listKey, setListKey] = useState(0);
   const [data] = useFocusData(async () => {
     const weekStart = localIsoDate(startOfWeek());
     const [stats, receipts, items] = await Promise.all([
@@ -44,9 +47,11 @@ export default function Budget() {
 
   return (
     <Screen>
-      <Title sub="What to buy next, and what you spent">Groceries</Title>
+      <Title sub="Your list, what to buy next, and what you spent">Groceries</Title>
 
-      <BuyNext />
+      <ShoppingList refreshKey={listKey} />
+
+      <BuyNext onListChanged={() => setListKey((k) => k + 1)} />
 
       {/* Wrapped card */}
       <View style={{ backgroundColor: colors.brand, borderRadius: 20, padding: 20, marginBottom: 12 }}>

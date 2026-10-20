@@ -5,7 +5,8 @@ import { Alert, Pressable, Text, View } from "react-native";
 import { Button, Card, Chip, Field, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { guessCategory } from "@/lib/api";
 import { syncAutoTargets } from "@/lib/adaptive";
-import { logMealToHealth, logWeight } from "@/lib/health";
+import { addEntries, recipeEntry } from "@/lib/foodLog";
+import { logEntriesToHealth, logWeight } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
 import { addPantryItem, describeShelfLife } from "@/lib/pantry";
 import { currentUserId, supabase } from "@/lib/supabase";
@@ -13,7 +14,7 @@ import type { Recipe } from "@/lib/types";
 
 /**
  * MacroFactor-style quick-add sheet, opened from the center "+" tab:
- * log a weigh-in, add a pantry item that wasn't on a receipt, ask the chef,
+ * log food, log a weigh-in, add a pantry item that wasn't on a receipt, ask the chef,
  * or re-log a recent recipe.
  */
 
@@ -62,6 +63,7 @@ function Home({ onPick }: { onPick: (m: Mode) => void }) {
     <>
       <Title sub="Log something in a couple of taps">Quick add</Title>
       <Row style={{ gap: 10, marginBottom: 16, flexWrap: "wrap" }}>
+        <Tile emoji="🍽️" title="Log food" onPress={() => router.replace("/log-food")} />
         <Tile
           emoji="🧾"
           title="Scan receipt"
@@ -283,11 +285,10 @@ function Recents() {
   }, []);
 
   async function logEaten(r: Recipe) {
-    if (!profile?.healthkit_enabled) {
-      return Alert.alert("Turn on Apple Health", "Enable Apple Health on the Me tab to log meals there.");
-    }
-    const ok = await logMealToHealth(r);
-    Alert.alert(ok ? "Logged" : "Couldn't log", ok ? `${r.title} was added to Apple Health.` : "Apple Health didn't accept it.");
+    const { data, error } = await addEntries([recipeEntry(r)]);
+    if (error) return Alert.alert("Couldn't log", error);
+    await logEntriesToHealth(profile, data);
+    Alert.alert("Logged", `${r.title} is in today's food log.`);
   }
 
   return (

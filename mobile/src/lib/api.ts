@@ -13,23 +13,118 @@ async function authHeader(): Promise<Record<string, string>> {
 
 async function check<T>(res: Response): Promise<T> {
   const body = await res.json().catch(() => ({}));
-  if (!res.ok) throw new Error(body.error ? JSON.stringify(body.error) : `HTTP ${res.status}`);
+  if (!res.ok) throw new Error(typeof body.error === "string" ? body.error : body.error ? JSON.stringify(body.error) : `HTTP ${res.status}`);
   return body as T;
 }
 
 export async function parseReceipt(imageUri: string, mimeType = "image/jpeg"): Promise<ParsedReceipt> {
   const form = new FormData();
+  await appendImage(form, imageUri, mimeType);
+  return postForm<ParsedReceipt>(`${API_URL}/receipts/parse`, form, await authHeader());
+}
+
+async function appendImage(form: FormData, imageUri: string, mimeType: string) {
   if (Platform.OS === "web") {
     // The picker hands the browser a blob: or data: URL; the real file is behind it.
     const blob = await (await fetch(imageUri)).blob();
-    form.append("image", blob, "receipt.jpg");
-    return postForm<ParsedReceipt>(`${API_URL}/receipts/parse`, form, await authHeader());
+    form.append("image", blob, "photo.jpg");
+    return;
   }
   // Global fetch is Expo's WinterCG fetch. It only accepts string, Blob, or bytes()
   // parts, and throws "Unsupported FormDataPart implementation" for this descriptor.
   // XMLHttpRequest still hands { uri, name, type } to native networking, which reads the file.
-  form.append("image", { uri: imageUri, name: "receipt.jpg", type: mimeType } as unknown as Blob);
-  return postForm<ParsedReceipt>(`${API_URL}/receipts/parse`, form, await authHeader());
+  form.append("image", { uri: imageUri, name: "photo.jpg", type: mimeType } as unknown as Blob);
+}
+
+export interface EstimatedFood {
+  name: string;
+  portion: string;
+  grams: number | null;
+  calories: number;
+  protein_g: number;
+  carbs_g: number;
+  fat_g: number;
+  fiber_g: number | null;
+  confidence: number;
+}
+
+export interface FoodEstimate {
+  kind: "meal" | "label" | "not_food";
+  title: string;
+  items: EstimatedFood[];
+}
+
+/** Calories and macros for a meal photo, a nutrition label photo, or a typed description. Saves nothing. */
+export async function estimateFood(input: { imageUri?: string; mimeType?: string; text?: string }): Promise<FoodEstimate> {
+  if (!input.imageUri) {
+    const res = await fetch(`${API_URL}/food/estimate`, {
+      method: "POST",
+      headers: { ...(await authHeader()), "Content-Type": "application/json" },
+      body: JSON.stringify({ text: input.text ?? "" }),
+    });
+    return check(res);
+  }
+  const form = new FormData();
+  await appendImage(form, input.imageUri, input.mimeType ?? "image/jpeg");
+  if (input.text?.trim()) form.append("text", input.text.trim());
+  return postForm<FoodEstimate>(`${API_URL}/food/estimate`, form, await authHeader());
+}
+
+export interface NutritionPer {
+  calories: number;
+  protein_g: number;
+  carbs_g: number;
+  fat_g: number;
+  fiber_g: number | null;
+}
+
+export interface BarcodeFood {
+  barcode: string;
+  name: string;
+  brand: string | null;
+  serving_desc: string | null;
+  serving_g: number | null;
+  per_serving: NutritionPer | null;
+  per_100g: NutritionPer | null;
+}
+
+/** Product nutrition from Open Food Facts, by UPC/EAN. Throws with a readable message when not found. */
+export async function lookupBarcode(code: string): Promise<BarcodeFood> {
+  const res = await fetch(`${API_URL}/food/barcode/${encodeURIComponent(code)}`, { headers: await authHeader() });
+  const body = await res.json().catch(() => ({}));
+  if (!res.ok) throw new Error(typeof body.error === "string" ? body.error : `HTTP ${res.status}`);
+  return body as BarcodeFood;
+}
+
+export interface FoodSearchHit {
+  fdc_id: number;
+  name: string;
+  description: string;
+  confidence: number;
+  calories_kcal_100g: number | null;
+  protein_g_100g: number | null;
+  carbs_g_100g: number | null;
+  fat_g_100g: number | null;
+  fiber_g_100g: number | null;
+}
+
+/** USDA foods matching a search, per 100 g as sold. */
+export async function searchFoods(q: string): Promise<FoodSearchHit[]> {
+  const res = await fetch(`${API_URL}/food/search?q=${encodeURIComponent(q)}`, { headers: await authHeader() });
+  return (await check<{ results: FoodSearchHit[] }>(res)).results;
+}
+
+export interface ScannedListItem {
+  name: string;
+  quantity: string | null;
+  category: string;
+}
+
+/** Items from a photo of a handwritten or printed shopping list. */
+export async function scanShoppingList(imageUri: string, mimeType = "image/jpeg"): Promise<ScannedListItem[]> {
+  const form = new FormData();
+  await appendImage(form, imageUri, mimeType);
+  return (await postForm<{ items: ScannedListItem[] }>(`${API_URL}/shopping/scan-list`, form, await authHeader())).items;
 }
 
 function postForm<T>(url: string, form: FormData, headers: Record<string, string>): Promise<T> {

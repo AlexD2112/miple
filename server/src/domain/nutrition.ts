@@ -271,3 +271,46 @@ export function nutritionForItem(item: { raw_name: string; name: string }): Item
     return null;
   }
 }
+
+export interface NutritionSearchHit {
+  fdc_id: number;
+  name: string;
+  description: string;
+  confidence: number;
+  calories_kcal_100g: number | null;
+  protein_g_100g: number | null;
+  carbs_g_100g: number | null;
+  fat_g_100g: number | null;
+  fiber_g_100g: number | null;
+}
+
+/** The best few USDA rows for a typed food search ("greek yogurt"), most confident first. */
+export function searchNutrition(query: string, limit = 8, minConfidence = 0.5): NutritionSearchHit[] {
+  const normalized = normalizeReceiptLine(query);
+  if (!normalized) return [];
+  const idx = getIndex();
+  const q = normalized.split(" ");
+  const best = new Map<number, number>();
+  for (const k of idx.keys) {
+    const s = k.key === normalized ? 1 : Math.min(score(q, k.tokens), 0.99);
+    if (s >= minConfidence && s > (best.get(k.row.fdc_id) ?? 0)) best.set(k.row.fdc_id, s);
+  }
+  const rows = new Map(idx.rows.map((r) => [r.fdc_id, r]));
+  return [...best.entries()]
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, limit)
+    .map(([fdc, s]) => {
+      const r = rows.get(fdc)!;
+      return {
+        fdc_id: r.fdc_id,
+        name: r.item_name,
+        description: r.fdc_description,
+        confidence: Math.round(s * 100) / 100,
+        calories_kcal_100g: r.calories_kcal_100g,
+        protein_g_100g: r.protein_g_100g,
+        carbs_g_100g: r.carbs_g_100g,
+        fat_g_100g: r.fat_g_100g,
+        fiber_g_100g: r.fiber_g_100g,
+      };
+    });
+}

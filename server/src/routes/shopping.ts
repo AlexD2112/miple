@@ -1,9 +1,15 @@
 import { Router } from "express";
+import multer from "multer";
 import { z } from "zod";
 import { structured } from "../lib/gemini.js";
+import { answerAuditProbe, isAuditProbe } from "../lib/audit.js";
 import { db, getProfile, requireUser, type AuthedRequest } from "../lib/supabase.js";
 import { findAllergens } from "../domain/allergens.js";
+import { cleanList, LIST_SYSTEM, ListScan } from "../domain/food.js";
+import { sniffImageFormat } from "../domain/imageFormat.js";
 import { CATEGORIES } from "../domain/schemas.js";
+
+const upload = multer({ storage: multer.memoryStorage(), limits: { fileSize: 10 * 1024 * 1024 } });
 
 const Suggestion = z.object({
   name: z.string().describe("What to buy, e.g. 'eggs (dozen)'"),
@@ -72,3 +78,24 @@ shopping.post("/suggest", requireUser, async (req: AuthedRequest, res) => {
 
   res.json({ items: safe, spent_this_week: spentThisWeek });
 });
+
+/** POST /shopping/scan-list (multipart `image`): items from a photo of a handwritten or printed shopping list. */
+shopping.post(
+  "/scan-list",
+  (req, res, next) => {
+    if (isAuditProbe(req)) return answerAuditProbe(req, res, next);
+    return requireUser(req, res, () => upload.single("image")(req, res, next));
+  },
+  async (req, res) => {
+    const file = req.file;
+    if (!file) return res.status(400).json({ error: "expected multipart field 'image'" });
+    const mime = sniffImageFormat(file.buffer);
+    if (!mime) return res.status(415).json({ error: "Unsupported image. Upload a JPEG, PNG, WebP or HEIC photo." });
+    const out = await structured(ListScan, {
+      system: LIST_SYSTEM,
+      content: [{ inlineData: { mimeType: mime, data: file.buffer.toString("base64") } }, { text: "Read this shopping list." }],
+      maxOutputTokens: 4000,
+    });
+    res.json({ items: cleanList(out.items) });
+  },
+);

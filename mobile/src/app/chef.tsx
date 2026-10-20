@@ -22,6 +22,7 @@ import { mealNotes, planDays, planOpenWindows } from "@/lib/schedule";
 import { supabase } from "@/lib/supabase";
 import type { Item, MealSlot } from "@/lib/types";
 import { useFocusData } from "@/lib/useFocusData";
+import { addToList } from "@/lib/shoppingList";
 
 const SUGGESTIONS = ["I want shakshuka tonight", "Use what's expiring first", "Skip tomorrow's lunch"];
 
@@ -146,6 +147,7 @@ export default function Chef() {
           if (eventId) await supabase.from("meal_slots").update({ calendar_event_id: eventId }).eq("id", result.slot_id);
         }
         if (result.shopping_items.length > 0) {
+          await addToList(result.shopping_items.map((name) => ({ name })), "chef").catch(() => undefined);
           const when =
             result.shopping_at && !Number.isNaN(Date.parse(result.shopping_at))
               ? new Date(result.shopping_at)
