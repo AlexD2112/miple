@@ -150,12 +150,23 @@ export async function weekAverages(): Promise<{ days: number; calories: number; 
   return { days, calories: Math.round(sum("calories") / days), protein_g: Math.round(sum("protein_g") / days) };
 }
 
+const MEAL_HOUR: Record<MealName, number> = { breakfast: 8, lunch: 12.5, dinner: 19, snack: 15 };
+
+/** When an entry was eaten: now for today, otherwise a typical time for its meal on that day. */
+export function defaultEatenAt(day: string, meal: MealName, now = new Date()): string {
+  if (day === localIsoDate(now)) return now.toISOString();
+  const [y, m, d] = day.split("-").map(Number);
+  const h = MEAL_HOUR[meal];
+  return new Date(y, m - 1, d, Math.floor(h), Math.round((h % 1) * 60)).toISOString();
+}
+
 /** Saves entries and returns them with ids. Apple Health logging is up to the caller (see health.ts). */
 export async function addEntries(list: NewFoodEntry[]): Promise<{ data: FoodLogEntry[]; error: string | null }> {
   if (!list.length) return { data: [], error: null };
   const user_id = await currentUserId();
   const rows = list.map((e) => ({
     ...e,
+    eaten_at: e.eaten_at ?? defaultEatenAt(e.eaten_on, e.meal),
     user_id,
     name: e.name.trim().slice(0, 120) || "Food",
     servings: Math.max(0.01, Number(e.servings) || 1),
