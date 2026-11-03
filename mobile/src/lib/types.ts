@@ -127,3 +127,39 @@ export const ALLERGENS = [
 ] as const;
 
 export const DIETS = ["omnivore", "vegetarian", "vegan", "pescatarian", "keto", "halal", "kosher"] as const;
+
+export const MEALS = ["breakfast", "lunch", "dinner", "snack"] as const;
+export type MealName = (typeof MEALS)[number];
+
+export type FoodSource = "photo" | "label" | "describe" | "barcode" | "search" | "quick" | "recipe" | "copy";
+
+/** One row of public.food_log. Macros are for ONE serving; multiply by `servings` for the total. */
+export interface FoodLogEntry {
+  id: string;
+  eaten_on: string;
+  eaten_at: string;
+  meal: MealName;
+  name: string;
+  brand: string | null;
+  servings: number;
+  serving_desc: string | null;
+  calories: number;
+  protein_g: number;
+  carbs_g: number;
+  fat_g: number;
+  fiber_g: number | null;
+  source: FoodSource;
+  barcode: string | null;
+  meal_slot_id: string | null;
+  logged_to_health: boolean;
+}
+
+export interface ShoppingListItem {
+  id: string;
+  name: string;
+  quantity: string | null;
+  category: string;
+  checked: boolean;
+  source: "manual" | "scan" | "suggestion" | "chef";
+  created_at: string;
+}

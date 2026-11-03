@@ -4,7 +4,7 @@ import { Alert, Linking, Platform, Pressable, Text, TextInput, View } from "reac
 import { Button, Card, Pill, ProgressBar, ProgressRing, Row, Screen, Title, colors, styles } from "@/components/ui";
 import { addMealToCalendar, googleCalendarUrl } from "@/lib/calendar";
 import { timeRange } from "@/lib/dates";
-import { getRemainingMacros, logMealToHealth, type MacroStatus } from "@/lib/health";
+import { getRemainingMacros, logCookedMeal, type MacroStatus } from "@/lib/health";
 import { useProfile } from "@/lib/profile";
 import { MAX_PLAN_DAYS, MAX_PLAN_MEALS, MEALS_PER_PLAN, mealNotes, planDays, planMealCount, planOpenWindows, syncMealsToCalendar } from "@/lib/schedule";
 import { supabase } from "@/lib/supabase";
@@ -74,9 +74,7 @@ export default function Plan() {
   async function markCooked(slot: MealSlot) {
     const { error } = await supabase.rpc("cook_meal_slot", { p_slot_id: slot.id });
     if (error) return Alert.alert("Couldn't mark cooked", error.message);
-    if (profile?.healthkit_enabled && slot.recipes && (await logMealToHealth(slot.recipes))) {
-      await supabase.from("meal_slots").update({ logged_to_health: true }).eq("id", slot.id);
-    }
+    await logCookedMeal(profile, slot);
     reload();
   }
 

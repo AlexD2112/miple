@@ -1,6 +1,6 @@
 # Ripe
 
-Ripe is an iOS app for people who buy groceries and then forget about them. You photograph a receipt, Ripe adds everything to your pantry with an expiry date, and it plans meals into the free time on your calendar, starting with whatever will go bad first. When you cook, it updates the pantry, keeps track of leftovers, and logs the meal to Apple Health. A browser version runs at [ripe.cooking](https://ripe.cooking).
+Ripe is an iOS app for people who buy groceries and then forget about them. You photograph a receipt, Ripe adds everything to your pantry with an expiry date, and it plans meals into the free time on your calendar, starting with whatever will go bad first. When you cook, it updates the pantry, keeps track of leftovers, and logs the meal. It is also a full calorie and macro tracker: you can log anything you eat, cooked or not, and Ripe sets your targets from your own intake and weight trend, the way MacroFactor does. A browser version runs at [ripe.cooking](https://ripe.cooking).
 
 The app used to be called Miple. Anything users see now says Ripe, but the repositories, the Cloud Run service, the iOS bundle ID and the `miple://` sign-in link still use the old name, because renaming them would break sign-in, code signing and the server URL.
 
@@ -33,7 +33,24 @@ You can then talk to the chef (`POST /recipes/chef`) to swap, add or skip a meal
 
 Marking a meal cooked runs `cook_meal_slot()` in Postgres. It uses up the linked pantry items, adds a four-day leftover, and the app logs the meal to Apple Health. Every night a job marks anything past its expiry date as wasted, which is where the weekly "Wrapped" waste count comes from.
 
-Remaining macros come from `getRemainingMacros()` in `mobile/src/lib/health.ts`. With Apple Health on, it reads what you've eaten and burned today. Without it, it subtracts the meals you cooked in Ripe from your manual targets, so planning works either way.
+Remaining macros come from `getRemainingMacros()` in `mobile/src/lib/health.ts`. With Apple Health on, it reads what you've eaten and burned today. Without it, it adds up today's food log (below), so planning works either way.
+
+### Logging food
+
+The Log tab is a food diary: each day's food by meal, with calories and macros against your targets. Cooked plan meals land there automatically (one row per meal, so cooking twice can't count twice). The add screen (`log-food`) offers:
+
+- **Meal photo.** `POST /food/estimate` asks Gemini for each part of the plate with a portion, grams and macros. The server clamps silly values and, when the calories disagree with 4/4/9 from the macros by more than 25%, trusts the macros (`server/src/domain/food.ts`). You review and resize each item before it is logged.
+- **Nutrition label.** The same route reads a Nutrition Facts panel exactly, per printed serving.
+- **Describe it.** Typed text like "2 eggs, toast with butter, black coffee" goes to the same route.
+- **Barcode.** The camera (expo-camera) or a typed number calls `GET /food/barcode/:code`, which looks the product up on Open Food Facts.
+- **Search.** `GET /food/search?q=` matches the USDA table already used for receipts, per 100 g as bought, plus your own past foods.
+- **Quick add** for plain numbers, and **Recent** foods to log again in one tap. A day with nothing logged can copy the day before.
+
+Entries live in `food_log` (migration 0005) with macros per serving. With Apple Health on, each entry is also written there, tagged with its id so edits and deletes can remove it again. Without Apple Health, the food log is what `getDailyIntake()` uses, so the measured expenditure and auto targets on the Me tab work without it, including on the web.
+
+### Shopping list
+
+The Groceries tab has a shopping list (`shopping_list`, migration 0005). You can type items ("eggs, oat milk, 2 lb chicken" adds three), photograph a handwritten or printed list (`POST /shopping/scan-list`), or add the Buy next picks. Ingredients the chef says you need are added too. Checked items can be moved to the pantry in one tap.
 
 ## API
 
@@ -48,6 +65,10 @@ All routes except `/health` need a Supabase access token as `Authorization: Bear
 | `POST /recipes/generate` | Builds allergen- and diet-safe recipes from the pantry |
 | `POST /recipes/chef` | One turn of the chef chat; may include a proposed change |
 | `POST /recipes/chef/apply` | Saves a change the user approved |
+| `POST /food/estimate` | Calories and macros from a meal photo, a nutrition label (multipart `image`) or a description (`text`) |
+| `GET /food/barcode/:code` | Product nutrition from Open Food Facts |
+| `GET /food/search?q=` | USDA foods matching a search, per 100 g |
+| `POST /shopping/scan-list` | Items from a photo of a shopping list (multipart `image`) |
 
 ## Configuration
 
@@ -150,11 +171,14 @@ Allergies are enforced in code, not left to the model. The server reads them fro
 
 The chef has guardrails on both sides of the model. `server/src/domain/guard.ts` answers jailbreaks, requests for secrets or personal data, ID-document reading and face-based guesses about people with fixed replies that never reach Gemini. It also scrubs emails, phone numbers, card numbers and keys from every reply.
 
-Health data stays on the phone. The server only ever receives four numbers from it: remaining calories, protein, carbs and fat.
+Health data stays on the phone. The server only ever receives four numbers from it: remaining calories, protein, carbs and fat. Food you log in Ripe is stored in Supabase like planned meals, because it's your own entry rather than a HealthKit sample. Weigh-ins and the weight goal stay on the phone.
 
 Every table has row-level security, the service-role key lives only on the server, and every query is scoped to the signed-in user. VEYZL can reach the AI routes only with `VEYZL_PROBE_TOKEN`, as a bearer token or the path prefix `/audit/<token>`. A wrong token gets a 404. All changes go through pull requests, which VEYZL audits.
 
 ## Known limitations
 
 - Expiry dates are estimates from USDA FoodKeeper or the food category, not read off the package, so users can edit them.
+- Photo and description numbers are estimates, so the review screen lets you resize or fix each item before it's logged.
+- Food search covers the 455 common foods in the USDA table plus your own history. Branded foods come from barcodes (Open Food Facts), which doesn't list every product.
+- Barcode scanning needs an iOS build that includes expo-camera; older builds and browsers without the BarcodeDetector API can type the number instead.
 - iOS only, because of HealthKit. Android would need Health Connect. The web app has no Health or calendar access.

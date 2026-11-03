@@ -13,8 +13,8 @@
       "infoPlist": {
         "NSCalendarsFullAccessUsageDescription": "Ripe finds free time in your calendar to plan meals and adds the meals you choose.",
         "NSCalendarsUsageDescription": "Ripe finds free time in your calendar to plan meals and adds the meals you choose.",
-        "NSCameraUsageDescription": "Ripe uses the camera to scan grocery receipts.",
-        "NSPhotoLibraryUsageDescription": "Ripe reads receipt photos you pick to fill your pantry."
+        "NSCameraUsageDescription": "Ripe uses the camera to scan receipts, grocery lists, barcodes, nutrition labels and your meals.",
+        "NSPhotoLibraryUsageDescription": "Ripe reads photos you pick of receipts, grocery lists, nutrition labels and meals."
       }
     },
     "android": {
@@ -39,8 +39,16 @@
       [
         "expo-image-picker",
         {
-          "photosPermission": "Ripe reads receipt photos you pick to fill your pantry.",
-          "cameraPermission": "Ripe uses the camera to scan grocery receipts."
+          "photosPermission": "Ripe reads photos you pick of receipts, grocery lists, nutrition labels and meals.",
+          "cameraPermission": "Ripe uses the camera to scan receipts, grocery lists, barcodes, nutrition labels and your meals."
+        }
+      ],
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Ripe uses the camera to scan receipts, grocery lists, barcodes, nutrition labels and your meals.",
+          "microphonePermission": false,
+          "recordAudioAndroid": false
         }
       ],
       "expo-dev-client"

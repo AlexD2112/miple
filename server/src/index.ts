@@ -6,6 +6,7 @@ import { receipts } from "./routes/receipts.js";
 import { recipes } from "./routes/recipes.js";
 import { items } from "./routes/items.js";
 import { shopping } from "./routes/shopping.js";
+import { food } from "./routes/food.js";
 import { markExpiredWasted } from "./jobs/expireItems.js";
 import { auditPrefix } from "./lib/audit.js";
 import { cors } from "./lib/cors.js";
@@ -18,6 +19,8 @@ export const AI_ROUTES = [
   "POST /items/category",
   "POST /items/shelf-life",
   "POST /shopping/suggest",
+  "POST /shopping/scan-list",
+  "POST /food/estimate",
 ] as const;
 
 const app = express();
@@ -38,6 +41,7 @@ app.use("/receipts", receipts);
 app.use("/recipes", recipes);
 app.use("/items", items);
 app.use("/shopping", shopping);
+app.use("/food", food);
 
 app.use((err: Error, _req: Request, res: Response, _next: NextFunction) => {
   console.error(err);

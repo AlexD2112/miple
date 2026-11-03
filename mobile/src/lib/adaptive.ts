@@ -145,7 +145,7 @@ export function recommend(
     expenditureSource === "measured"
       ? `Measured from ${Math.round(avgIntake!)} kcal a day eaten and a ${trendLbPerWeek! >= 0 ? "+" : ""}${trendLbPerWeek!.toFixed(1)} lb/week trend.`
       : currentLb
-        ? "That's an estimate from your weight. Log weigh-ins for a week, with food in Apple Health, and Ripe will measure it."
+        ? "That's an estimate from your weight. Log your food and weigh-ins for a week and Ripe will measure it."
         : "Log your weight to get automatic targets.";
   const plan =
     pace > 0
